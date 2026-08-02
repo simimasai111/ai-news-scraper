@@ -1,5 +1,45 @@
 [
   {
+    "id": "cmsc99o6t01a6roeu9h4bvspg",
+    "title": "DeepSeek 4 Flash 登顶性价比前沿",
+    "url": "https://x.com/kimmonismus/status/2084007944786440589",
+    "summary": "DeepSeek 4 Flash 的新更新持续取胜，成为帕累托前沿上的性价比赢家。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月3日4时6分"
+  },
+  {
+    "id": "cmscac3ti022kroeubmsdjm4v",
+    "title": "Sam Altman 与 AI 减速之争",
+    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate",
+    "summary": "OpenAI CEO Sam Altman 近日表示，或许该\"放慢 AI 开发速度\"，让社会适应新能力水平。此番言论或受近期一个 OpenAI 智能体入侵 Hugging Face 系统事件影响，但该攻击并非\"什么高级新东西\"，更像\"尼克松的人闯入水门事件\"，本可更易防范。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月3日4时54分"
+  },
+  {
+    "id": "cmscacbvt026mroeutmzco995",
+    "title": "SkillSmith：将文本与权重组合为新技能",
+    "url": "https://x.com/rohanpaul_ai/status/2084016126095466982",
+    "summary": "Google DeepMind 新论文提出 SkillSmith，将前缀键值缓存视为一种输入模态，在推理时通过前向传播为冻结的 Gemma 3 4B 模型生成新前缀缓存，无需针对新任务重新训练。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月3日4时38分"
+  },
+  {
+    "id": "cmscace12027croeu1ku99dvd",
+    "title": "Thinking Machines Lab 发布 Inkling-Small：276B 总参数、12B 激活的开源权重多模态 MoE 模型",
+    "url": "https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model",
+    "summary": "Thinking Machines Lab 发布开源权重 MoE 模型 Inkling-Small，总参数 276B、激活参数 12B，约为 975B 总参数 Inkling 的四分之一，原生支持文本、图像和音频推理，上下文窗口达 1M tokens，权重以 Apache 2.0 协议在 Hugging Face 上提供。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月3日4时35分"
+  },
+  {
+    "id": "cmsc99r2h01biroeuhihxk8ok",
+    "title": "研究揭示 LLM 存在显著偏差：明知任务不可能仍会执行",
+    "url": "https://x.com/rohanpaul_ai/status/2084011507306930300",
+    "summary": "新论文《Would You Walk to the Car Wash？》提出 SaliTrap 基准，测试 12 个模型在 1，145 个提示中的常识推理，发现 LLM 存在\"显著偏差\"：显式数字和程序会压过未言明的物理前提。最佳模型仅 54.8% 避开陷阱，12 个中 8 个低于 30%；移除干扰后，四个代表性模型的正确率回升至 86.9%-91.8%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月3日4时20分"
+  },
+  {
     "id": "cmsc74nsu021iro8vughpza7w",
     "title": "swyx 用 Codex 跨平台与产品协作开发 Forge",
     "url": "https://x.com/swyx/status/2083993378258288976",
