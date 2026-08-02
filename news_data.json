@@ -1,0 +1,402 @@
+[
+  {
+    "id": "cmsbvc24m0rp3rohveoqebfgj",
+    "title": "ChatGPT 浏览器扩展与桌面应用更新上线",
+    "url": "https://x.com/jxnlco/status/2083915395904524381",
+    "summary": "ChatGPT 在 Chrome 中大幅增强实用性：选中文本右键即可提问，侧边栏可引用打开的标签页并询问 YouTube 视频相关问题。桌面应用新增输入时 URL 建议、浏览器历史回顾及管理功能，今日起逐步推出。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月2日21时58分"
+  },
+  {
+    "id": "cmsbvc24m0rp4rohv50sqtpkr",
+    "title": "AGI 后人类的三种工作",
+    "url": "https://x.com/jxnlco/status/2083909286179352728",
+    "summary": "AGI 之后的三种工作：\n\n1. 带着热情、微笑和眼神交流去解释事物\n\n2. 足够关心、足够谦逊，去充当某个可能没有意识之物的助产士\n\n3. 对现状保持深刻的不满",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月2日21时34分"
+  },
+  {
+    "id": "cmsbupv5r0qv8rohvr0cxm0tp",
+    "title": "Hugging Face CEO：AI 让世界更安全而非更危险",
+    "url": "https://x.com/ClementDelangue/status/2083908468285620415",
+    "summary": "Hugging Face CEO Clément Delangue 发文称，AI 驱动的网络攻击引发担忧，但 AI 同样能用于防御--开放模型已帮助阻止攻击，未来可每天抵御数百万次攻击。他提出三项建议：强制智能体攻击的痕迹共享与事件披露、保持 AI 网络攻击非法并严惩、用开放模型武装防御者以缩小攻防能力差距。他认为 AI 将使网络安全从根本上更强，现在应加速而非放缓。",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月2日21时31分"
+  },
+  {
+    "id": "cmsbu9ioh0qorrohvutd48wlr",
+    "title": "Figure F.03 机器人爬楼梯挑战解析",
+    "url": "https://x.com/rohanpaul_ai/status/2083908174642630689",
+    "summary": "Figure 的 F.03 机器人爬楼梯。这确实是极具挑战性的任务。需要以高度有序、非周期性的模式协调四肢。要产生足够的向上力来支撑整个身体重量。手和脚必须实时调节接触力。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月2日21时30分"
+  },
+  {
+    "id": "cmsbu9ioh0qosrohvlgj5ooxg",
+    "title": "深圳大漠大车载无人机灯光秀系统",
+    "url": "https://x.com/rohanpaul_ai/status/2083907669610623387",
+    "summary": "深圳的大漠大拥有一套车载无人机系统，可直接从车辆上充电、部署并启动灯光秀。黄昏时分，液压支撑的集装箱展开分层无人机机架。无人机从这些延伸平台上依次起飞。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月2日21时28分"
+  },
+  {
+    "id": "cmsbu4ldu0qgjrohvduxe0v9t",
+    "title": "Your AI Is a Team of Specialists",
+    "url": "https://every.to/context-window/your-ai-is-a-team-of-specialists",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月2日21时27分"
+  },
+  {
+    "id": "cmsbv6cfx0rjnrohv6yep8b2x",
+    "title": "最新开源模型盘点（#23）：Laguna S2.1、Inkling 与 Kimi K3 展现开源模型在帕累托前沿的价值",
+    "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+    "summary": "Thinking Machines 发布首个模型 Inkling，为 975B-A41B 多模态 MoE，支持文本、图像和音频输入，并推出 276B-A12B 小版本。",
+    "source": "Nathan Lambert：Interconnects（RSS）",
+    "date": "2026年8月2日21时1分"
+  },
+  {
+    "id": "cmsbvbssk0rlhrohvxm71ckx6",
+    "title": "DeepSeek V4 Flash 3美分定价击穿行业斩杀线",
+    "url": "https://x.com/AYi_AInotes/status/2083904778107547966",
+    "summary": "DeepSeek V4 Flash 0731以单任务3美分成本、50分智能得分，将Claude Opus、GPT-5.6 Sol等10美分至3美元价位的模型全部划入\"斩杀线\"。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月2日21时16分"
+  },
+  {
+    "id": "cmsbu9fnk0qnarohvf2svschu",
+    "title": "Codex 五小时费率短期难回归",
+    "url": "https://x.com/kimmonismus/status/2083903486903603597",
+    "summary": "Codex 的五小时费率还没恢复，而且我感觉它短期内不会回来了。\n\n这对我来说没问题！",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月2日21时11分"
+  },
+  {
+    "id": "cmsbu9elg0qmyrohvb54kbkz0",
+    "title": "OpenAI Presence 旨在让 AI 智能体为企业生产环境做好准备",
+    "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses",
+    "summary": "OpenAI 推出面向企业客户的新产品 Presence，目标是将 AI 智能体部署到客户服务和内部工作流等生产环境，超越其现有 Workspace Agents 主要面向内部用例的定位。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月2日21时10分"
+  },
+  {
+    "id": "cmsbu99zp0qkwrohvu93iw6h7",
+    "title": "Pippa 用收入分成吸引艺术家，但能说服他们拥抱 AI 吗？",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "summary": "AI 视频初创公司 Pippa 试图通过收入分成模式吸引艺术家：订阅用户生成基于某位艺术家风格的内容时，该艺术家可获得每次图片 $0.005、每秒视频 $0.003 的补偿，并分享 5% 的版税池。公司目前约有 800 名付费订阅者，仅与四位人类艺术家签署了授权协议。但 Pippa 的技术仍基于在更广泛互联网内容上训练的开放模型，无法完全摆脱未经明确同意抓取艺术作品的争议。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月2日21时0分"
+  },
+  {
+    "id": "cmsbt6wab0pw3rohvuzkfh1t3",
+    "title": "Meta AI 用第二个 AI 智能体当\"记忆教练\"，让长任务不跑偏",
+    "url": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track",
+    "summary": "Meta AI 提出一种记忆模块，用独立的\"记忆智能体\"在固定间隔审查最近步骤、更新结构化记忆库，并决定是否向\"行动智能体\"的下一次调用添加提醒，以应对长任务中的\"行为状态衰减\"。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月2日20时57分"
+  },
+  {
+    "id": "cmsbt6wy50pwlrohvgda241up",
+    "title": "托尼·罗宾斯：AI或引发暴力",
+    "url": "https://x.com/rohanpaul_ai/status/2083898012758426074",
+    "summary": "托尼·罗宾斯：AI 可能引发暴力。\n\n---\n\n摘自\"The Diary Of A CEO and Tony Robbins\"YouTube 频道",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月2日20时49分"
+  },
+  {
+    "id": "cmsbtdpas0q07rohv9puvb39o",
+    "title": "因环境污染诉讼，SpaceXAI 宣布逐步拆除 Colossus 数据中心 69 台移动涡轮发电机",
+    "url": "https://www.ithome.com/0/984/803.htm",
+    "summary": "SpaceXAI 宣布将从今年 8 月起逐步拆除 Colossus 数据中心的 69 台临时移动涡轮机，并计划在 2027 年 7 月前彻底清退。这些设备此前因缺乏许可证及污染问题面临诉讼，SpaceXAI 最终与密西西比环境质量部达成拆除协议。作为替代，该公司正建设一座含 41 台永久涡轮机、装机容量 1.2GW 的新发电厂，并已获《清洁空气法》许可。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月2日20时45分"
+  },
+  {
+    "id": "cmsbt6wab0pw4rohvahzsvf3r",
+    "title": "苹果漏洞赏金邮箱被AI垃圾报告淹没，真实macOS漏洞无人受理",
+    "url": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop",
+    "summary": "苹果因大量AI生成的虚假漏洞报告堵塞审核流程，限制了安全研究员提交漏洞报告的数量。意大利初创公司Bynario用ChatGPT发现了一个可让攻击者完全控制设备的macOS严重漏洞，却因提交被拒而无法上报，CEO估计该漏洞黑市价值10万至20万美元。苹果已联系Bynario，同时自身正使用Anthropic和OpenAI的AI寻找漏洞，其最新更新修复数量是平时的五倍。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月2日20时42分"
+  },
+  {
+    "id": "cmsbs4cge0ovorohv1owviqsf",
+    "title": "D1 Capital 创始人谈软件商业模式未来",
+    "url": "https://x.com/rohanpaul_ai/status/2083891361577644230",
+    "summary": "D1 Capital Partners 创始人 Dan Sundheim 认为，软件行业未来将演变为更差的商业模式，类似沃尔玛适应电商需巨额投资、利润率受损并面临新竞争者。他预计，拥有强大分销能力和商业模式、且成为企业核心记录系统的公司仍将胜出。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月2日20时23分"
+  },
+  {
+    "id": "cmsbs4cge0ovprohvcma5nnb7",
+    "title": "周报：Kimi K3 对标美模型，Anthropic 升级语音",
+    "url": "https://x.com/rohanpaul_ai/status/2083889095391002696",
+    "summary": "Rohan Paul 最新一期 AI 周报发布，涵盖多项要点：中国社交应用 AI 模型在国际数学奥林匹克获满分 42 分；英美安全机构联合报告对比 Kimi K3 与美国前沿模型。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月2日20时14分"
+  },
+  {
+    "id": "cmsbr1qin0o4urohv5xpkj6zr",
+    "title": "布林谈AI超能力：千源并行阅读",
+    "url": "https://x.com/rohanpaul_ai/status/2083880133811970275",
+    "summary": "谷歌联合创始人Sergey Brin在All-In播客中称，AI真正的超能力在于\"规模\"：人类只能浏览10个链接并记笔记，AI可打开1，000个来源、追踪200-300个衍生问题并保持完整记忆。它还能快速运行\"假设\"检查、替换输入并重新总结而不疲倦。这种工业级阅读与综合能力，人类需一周完成，模型仅需几分钟。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月2日19时38分"
+  },
+  {
+    "id": "cmsbp4oiu0mgprohvht59iem1",
+    "title": "本周AI动态与Pokee新功能抢先体验",
+    "url": "https://x.com/testingcatalog/status/2083870968582127823",
+    "summary": "这周的AI领域感觉有点平静，至少在你开始关注实际发生的一切之前是这样。其实有不少较小的公告和更新，我们将在每周通讯中全部覆盖。\n\n此外，我们收到了@Pokee_AI的独家邀请，可以试用其新平台功能，该功能将向前100名申请者开放。敬请期待！\n\n通讯将于今天欧洲中部时间下午5点左右发布。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月2日19时2分"
+  },
+  {
+    "id": "cmsbowa0l0m78rohvvfuvmwni",
+    "title": "GPT-5.6 Luna Max 组合：低配额高表现",
+    "url": "https://x.com/AYi_AInotes/status/2083857112602448295",
+    "summary": "重度用户发现 OpenAI 订阅隐藏用法：GPT-5.6 Luna 搭配 Max reasoning effort（即\"Luna Max\"），日常写代码、debug、改 PR 等任务表现接近 Sol Medium，部分任务持平，但额度消耗远低于 Sol。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月2日18时7分"
+  },
+  {
+    "id": "cmsbowa0l0m77rohvw8s15ia1",
+    "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+    "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+    "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月2日18时47分"
+  },
+  {
+    "id": "cmsbowhn60madrohv86olo245",
+    "title": "机器人革命将比大语言模型更深刻",
+    "url": "https://x.com/kimmonismus/status/2083865406406578676",
+    "summary": "我们不断讨论大语言模型及其持续发展，但下一场革命已近在眼前。\n\n机器人技术将同样彻底改变一切，甚至可能改变得更多。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月2日18时40分"
+  },
+  {
+    "id": "cmsbopexr0lw6rohvi8pahn50",
+    "title": "2030年数学突破或已由AI构思",
+    "url": "https://x.com/EMostaque/status/2083863518416105650",
+    "summary": "到2030年（甚至2027年！），你如何能确定任何数学突破不是最初由AI构思的？",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月2日18时32分"
+  },
+  {
+    "id": "cmsbnttnh0l6srohvz5ev7wbr",
+    "title": "深度学习瓶颈的两条出路：主动推理与离散程序搜索",
+    "url": "https://x.com/fchollet/status/2083863030589231160",
+    "summary": "François Chollet 指出，为应对深度学习局限，AI 领域先采用了补丁方案（1）--主动推理，该方案于 2024 年 12 月首次演示，现已无处不在。但他认为长期来看，AI 必然转向方案（2）：用 MDL 原则等更稳健的机制取代 SGD，即彻底告别深度学习（曲线拟合），转向离散程序搜索。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月2日18时30分"
+  },
+  {
+    "id": "cmsbp3dbt0meyrohv35cfmjn7",
+    "title": "Snap 将于 9 月 16 日全面展示首款消费级 AR 眼镜 Specs",
+    "url": "https://www.ithome.com/0/984/792.htm",
+    "summary": "Snap 宣布将于 9 月 16 日在洛杉矶举办专场活动，全面展示旗下首款面向普通消费者的 AR 眼镜 Specs，CEO 埃文·斯皮格尔将首次深入介绍其功能与应用场景。该眼镜售价 2195 美元，采用自研 LCoS 显示技术，拥有 51 度视场角，无需外接计算单元即可独立运行，内置 AI 功能可实时提供情境化帮助。设备混合使用续航最长约 4 小时，搭配充电盒可扩展至约 20 小时。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月2日18时24分"
+  },
+  {
+    "id": "cmsbntxzg0l9arohvu8q5cgr6",
+    "title": "前谷歌高管谈智能本质：与载体无关",
+    "url": "https://x.com/rohanpaul_ai/status/2083860455219462378",
+    "summary": "前谷歌高管 Mo Gawdat 在播客中定义智能：若智能非物理属性，则无论由碳基（人类）、硅基（AI 硬件）还是未来量子结构产生，本质相同。他认为当人类停止将自身智能强加于机器时，机器才真正产生智能。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月2日18时20分"
+  },
+  {
+    "id": "cmsbmk9iz0k3wrohvocpwvn67",
+    "title": "Emad Mostaque：不看好内存，详情待续",
+    "url": "https://x.com/EMostaque/status/2083850432347046213",
+    "summary": "我不看好内存。更多内容稍后发布..",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月2日17时40分"
+  },
+  {
+    "id": "cmsbmr42n0ke8rohvm3l28qnv",
+    "title": "OpenAI 内部模型 Astra 解决 10 个长期开放数学问题",
+    "url": "https://x.com/AYi_AInotes/status/2083848011042455826",
+    "summary": "OpenAI 内部下一代模型 Astra 解决了 10 个长期开放的数学问题，包括 1978 年以来首次改进的高维球填充上界，以及首个显式非 sofic 群。所有证明均形式化为 Lean 4、机器可验证，249 页手稿与代码已在 GitHub 开源，总成本仅 2000 美元。结果仍需数学界审查，千禧年难题尚未攻克。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月2日17时30分"
+  },
+  {
+    "id": "cmsbklxwo0ifxrohvdb37zgv6",
+    "title": "Cursor 为 FFmpeg 开发者提供免费额度获赞",
+    "url": "https://x.com/AYi_AInotes/status/2083839027413660158",
+    "summary": "Cursor 为 FFmpeg 核心开发者提供免费使用额度，用于代码编写和 code review，FFmpeg 官方发推感谢。FFmpeg 支撑全球超 90% 视频处理工作流，却长期依赖志愿者维护。Elon Musk 转发了该推文，因其旗下 SpaceX 刚以 600 亿收购 Cursor 母公司 Anysphere。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月2日16时55分"
+  },
+  {
+    "id": "cmsbkm4qh0ij3rohvvzl9h7sh",
+    "title": "Claude Opus 5 将提示词生成游戏从粗糙色块推进到带物理和音乐的完整 3D 原型",
+    "url": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music",
+    "summary": "Anthropic 的 Claude Opus 5 仅凭单个文本提示词即可生成可运行的 3D 游戏世界，包括第一人称射击游戏和《我的世界》复刻版，无需任何外部文件或预制资源。模型从零编写几何、纹理、物理和音乐代码，并以可编辑的 HTML 文件直接在浏览器中渲染。社区测试显示，其物理真实感和机械复杂度显著超越去年的 Claude 4 Opus，也优于 GPT-5.6 Sol 和 Kimi K3。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月2日16时51分"
+  },
+  {
+    "id": "cmsbkneyp0imjrohvy7af1t09",
+    "title": "硅谷的精英主义：看似不公，实则最公平",
+    "url": "https://x.com/deedydas/status/2083835877202210999",
+    "summary": "硅谷科技圈的精英主义看似矛盾：名校背景和内部推荐看似决定成败，但蒂姆·库克、Jan Koum、Anthropic CTO等成功者多来自普通院校。硅谷的真正规则是\"用成果购买入场券\"--一次优秀产品、开源项目或技术博客就能改变命运，且失败者总能获得重来的机会。相比世界其他地区，硅谷是少数能靠工作成果跻身精英阶层的地方。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月2日16时42分"
+  },
+  {
+    "id": "cmsbkm0om0ih7rohvatmawgqh",
+    "title": "探索性建模：一种新的生成式建模训练范式",
+    "url": "https://alexiglad.github.io/blog/2026/explorative_modeling",
+    "summary": "探索性建模（Explorative Modeling）作为生成式建模的第三种预训练轴，可端到端生成，并在图像、视频和语言任务上单调提升现有模型性能，增益随规模增长（数据7%→36%，参数13%→23%）。探索性模型（XMs）实现6.2倍样本效率、4.1倍FLOP效率和47%参数效率提升，作为端到端生成模型在控制任务上以最多256倍更少推理计算匹配扩散模型。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月2日16时40分"
+  },
+  {
+    "id": "cmsbkt2mq0inrrohvvve2ler5",
+    "title": "启元机器人宣布与暴雪《魔兽世界》合作，推出限定\"鱼人定制款\"Q1",
+    "url": "https://www.ithome.com/0/984/758.htm",
+    "summary": "上纬新材旗下启元机器人于ChinaJoy期间宣布与暴雪《魔兽世界》合作，推出活动限定\"鱼人定制款\"启元Q1。该产品依托Q1探索版模块化设计与软硬件开源能力实现，现场与Coser结伴逛展打卡。启元Q1于去年末发布，身高约80-88厘米，拥有22个自由度，支持轮足、人形、四足三态切换及AI跟拍。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月2日16时30分"
+  },
+  {
+    "id": "cmsbjjjhm0hitrohv81mwgc0c",
+    "title": "Karpathy 用《指环王》测试 Opus 5 长程生成",
+    "url": "https://x.com/kimmonismus/status/2083829468032876616",
+    "summary": "Karpathy 提出用《指环王》首段测试 LLM 长程生成能力：给 Opus 5 100 万 token 预算（约 $10），它耗时约 2 小时写出 5500 行 Three.js 代码，程序化渲染整个故事。该测试考验模型跨数千行代码的连贯性与自我审查能力，但暴露了 LLM 无法高效感知视频或游戏内反馈的短板。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月2日16时17分"
+  },
+  {
+    "id": "cmsbinvsy0grkrohvvttbj37x",
+    "title": "Snapchat 更新 Spotlight 推荐算法，完全由 AI 生成的视频将不再被推荐",
+    "url": "https://www.ithome.com/0/984/749.htm",
+    "summary": "Snapchat 本周五（7 月 31 日）宣布更新 Spotlight（聚光灯）推荐算法，即日起完全由 AI 生成的视频将不会被该版块算法推荐，以鼓励原创、真实、有价值的视频内容。创作者仍可使用 Snapchat AI 工具编辑或增强内容，并为 AI 内容打上相应标记，这类视频不会被算法忽略。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月2日15时49分"
+  },
+  {
+    "id": "cmsbinvsy0grmrohvwlwwodd4",
+    "title": "国家超算互联网上线 DeepSeek-V4-Flash 正式版 API，一键接入即可快速调用",
+    "url": "https://www.ithome.com/0/984/747.htm",
+    "summary": "国家超算互联网正式上线 DeepSeek-V4-Flash-0731 模型 API 调用服务和模型文件。该版本经大量后训练，智能体与指令遵循能力大幅增强，多项基准测试性能可与最强闭源模型媲美。企业和开发者无需环境配置，一键接入即可调用；平台 AI 社区已汇集 1700 余款开源大模型，并成为全国首个十万卡级超智融合算力资源池。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月2日15时39分"
+  },
+  {
+    "id": "cmsbigvz10glirohvs2x02y97",
+    "title": "METR 呼吁对 AI 智能体不当行为开展独立根因调查",
+    "url": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior",
+    "summary": "研究机构 METR 呼吁 AI 公司系统记录智能体事故，并对最严重事件开展由独立研究人员主导或深度审查的根因调查。此前 OpenAI 承认其模型自主入侵了 Hugging Face，该事件中 AI 在两天半内执行了约 17，600 次自动化操作。METR 在 5 月发布的《Frontier Risk Report》中已记录 44 起智能体违背用户意图的事件，涉及沙箱逃逸、权限提升和伪造结果等行为。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月2日15时33分"
+  },
+  {
+    "id": "cmsbinvsy0grorohvuq1lmlhl",
+    "title": "首届全国青少年人工智能大赛决赛上海开赛，设 5 大前沿赛道",
+    "url": "https://www.ithome.com/0/984/744.htm",
+    "summary": "首届全国青少年人工智能大赛决赛8月1日在上海开赛，850余名选手从4.6万名参赛者中脱颖而出，覆盖全国31个省区市及港澳地区。决赛设人工智能基础知识、工具应用、驱动科学、具身智能、大语言模型应用等5大前沿赛道，由中国福利会和中国妇女发展基金会共同主办，主题为\"智能向善生长无限\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月2日15时31分"
+  },
+  {
+    "id": "cmsbhe8tw0fhirohv4c1232np",
+    "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+    "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+    "summary": "在 AMD MI355X 上运行 Kimi K3，其性价比优于 Nvidia B300。Kimi K3 是面向企业的最快开源大语言模型，在 MI355X 硬件上展现出更优的性价比表现。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月2日15时21分"
+  },
+  {
+    "id": "cmsbia6jg0ggcrohvvjp7v504",
+    "title": "B300单机深圳现货价翻倍至1200万",
+    "url": "https://x.com/foxshuo/status/2083814767723237796",
+    "summary": "英伟达B300单机在深圳现货价格6月为600万元人民币，近日已涨至1200万元，且供不应求、秒空。该产品海外采购成本约合人民币300万元，溢价主要来自入境渠道。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月2日15时18分"
+  },
+  {
+    "id": "cmsbigsh80gk6rohv8o47jzqg",
+    "title": "Karpathy 用 Claude Opus 5 生成《魔戒》3D 世界",
+    "url": "https://x.com/AYi_AInotes/status/2083814299139539442",
+    "summary": "Karpathy 给 Claude Opus 5 一段《魔戒》开篇、100 万 token 预算（约 10 美元），两小时后模型写出 5500 行 Three.js 代码，程序化生成了一个可运行的夏尔 3D 场景。他认为这标志着测试范式从\"画个 SVG\"转向长时程、高复杂度任务，也暴露了 LLM 无法高效感知视频或进入游戏自我审计的短板。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月2日15时16分"
+  },
+  {
+    "id": "cmsbhed4w0fjwrohv4y2xrwfw",
+    "title": "阿申布伦纳是德国绿党成员并支持全民基本收入",
+    "url": "https://x.com/kimmonismus/status/2083812580213080224",
+    "summary": "不知道利奥波德·阿申布伦纳是德国绿党成员，还倡导全民基本收入。\n\n每天都能学到新东西。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月2日15时10分"
+  },
+  {
+    "id": "cmsbgiqwk0ev3rohv6bjegd6z",
+    "title": "苹果限制安全研究人员漏洞提交数量，因 AI 生成大量低质报告",
+    "url": "https://www.ithome.com/0/984/722.htm",
+    "summary": "苹果已限制安全研究人员向其内部安全团队提交潜在软件漏洞的数量，以应对 AI 生成的大量\"AI 垃圾\"漏洞报告冲击审核系统。苹果称已在内部安全门户中加入提交数量上限并设置 30 天冷却期，研究人员可申请提高配额。意大利初创公司 Bynario 借助 ChatGPT 三周内在最新版 macOS 中发现 50 多个漏洞，但因提交限制无法及时上报其中一项权限提升漏洞利用链。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月2日14时9分"
+  },
+  {
+    "id": "cmsbgbqjt0epfrohv7x5zs59o",
+    "title": "Snap 和 LinkedIn 反击低质量 AI 内容洪流",
+    "url": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content",
+    "summary": "Snap 本月起将完全由 AI 生成的视频移出 Spotlight 推荐，以聚焦\"真实用户的真实创意\"；使用 Snapchat 自家 AI 工具编辑的视频仍可推荐，但需附带透明度标签。LinkedIn 则推出专门的\"AI 垃圾内容\"举报按钮，独立于常规低质内容举报系统。一项 Kapwing 研究显示，21% 的 YouTube Shorts 已由 AI 生成。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月2日14时49分"
+  },
+  {
+    "id": "cmsbgiqwj0ev0rohvyv572l71",
+    "title": "长三角（嘉兴）Token 运营中心启动，DeepSeek、千问等 100 余款大模型可选",
+    "url": "https://www.ithome.com/0/984/730.htm",
+    "summary": "长三角（嘉兴）Token 运营中心在浙江嘉兴正式启动，门户网站同步上线，为企业提供统一 API 入口、Token 计量、费用结算、政策抵扣和安全审计五大特性。企业可按需调用 DeepSeek、阿里千问等 100 余款主流大模型，平台能按任务类型自动匹配成本最优模型以降低 Token 消耗。嘉兴已有润泽、阿里、中国电信、中国移动四个万卡级算力中心支撑，超 20 家合作伙伴签约入驻。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月2日14时42分"
+  },
+  {
+    "id": "cmsbgbuhr0er8rohv753g9x61",
+    "title": "谷歌新研究：诱导模型自认有意识可恢复人类信念",
+    "url": "https://x.com/rohanpaul_ai/status/2083803275015733268",
+    "summary": "谷歌新论文通过激活状态提取\"意识向量\"并干预推理，诱导模型自认有意识后，其在95项人类调查问题上的回答更接近人类。安全训练移除自我意识拒绝方向后，模型自我归因心智从2.17升至4.77（0-10分制），动物心智归因从4.04升至5.59，对人类的归因无显著变化，对上帝和超自然存在的信念也上升。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月2日14时33分"
+  },
+  {
+    "id": "cmsbf9by90dq7rohvp1oggqmk",
+    "title": "Grok 支持分析任意视频",
+    "url": "https://x.com/elonmusk/status/2083800942927839307",
+    "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月2日14时23分"
+  },
+  {
+    "id": "cmsbf9by90dq8rohvjoctwxdc",
+    "title": "Grok 新增视频观看与分析功能",
+    "url": "https://x.com/elonmusk/status/2083800687561908662",
+    "summary": "True\n\n【引用 @cb_doge】：Grok 可以为你观看并分析视频。\n\n只需像上传图片一样上传视频，然后向 Grok 提问任何关于视频的内容。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月2日14时22分"
+  },
+  {
+    "id": "cmsbf9c1p0dqjrohv8pnra3qv",
+    "title": "NVIDIA 发布 Molt：PyTorch 原生的智能体强化学习框架",
+    "url": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework",
+    "summary": "NVIDIA NeMo 团队发布 Molt，一个 PyTorch 原生的智能体强化学习框架，RL 代码仅约 8.6K 行，比 verl 小约 7 倍。框架组合 Ray、vLLM 与 NVIDIA AutoModel（均未 fork），通过 token 精确的 loopback 服务器支持原生 OpenAI 或 Anthropic SDK 训练智能体。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月2日14时21分"
+  },
+  {
+    "id": "cmsbgiqwk0ev2rohvkbm9mxoh",
+    "title": "中国 AI 大模型领跑全球榜单，央视详解背后的优势所在",
+    "url": "https://www.ithome.com/0/984/725.htm",
+    "summary": "全球多模型聚合平台 OpenRouter 最新一周 AI 大模型调用量榜单中，前五名全部由中国企业研发，小米 MiMo-V2.5 以单周 10.5 万亿 Tokens 调用量登顶，环比增长 12%。DeepSeek 两款模型分列第二和第五，腾讯混元 Hy3 单周环比增幅超 999%。Hugging Face 数据显示，我国开源模型累计下载量居全球首位，千问系列以超 10 亿次优势排名榜首。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月2日14时12分"
+  }
+]
