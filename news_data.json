@@ -1,5 +1,37 @@
 [
   {
+    "id": "cmsccpmko03ujroeupr4ud9np",
+    "title": "Gemini 桌面应用将支持 MCP 与图像视频生成",
+    "url": "https://x.com/testingcatalog/status/2084038211009908982",
+    "summary": "GOOGLE 🔥：Gemini 桌面应用即将为 Gemini Spark 提供完整的 MCP 支持，新增专门的图像和视频生成标签页，以及相机附件选项。\n\n与 Gemini 网页版缩小差距 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月3日6时6分"
+  },
+  {
+    "id": "cmscchccx03o4roeu80jg0d71",
+    "title": "Replit Design 一键提取品牌设计系统",
+    "url": "https://x.com/Replit/status/2084036577202737637",
+    "summary": "找到了你喜欢的风格？将其提取为设计系统。\n\nReplit Design 可将任意画面提炼为包含你的颜色、字体和样式的实时风格指南，让每个新界面、帖子和应用都保持品牌一致。无需交接，不会走样，也不会丢失你最初的设计初衷。\n\n你的品牌，无处不在，一键搞定。\n\n立即体验：http://replit.com/design",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月3日6时0分"
+  },
+  {
+    "id": "cmscc62eo033broeusw72isi0",
+    "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+    "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+    "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月3日5时25分"
+  },
+  {
+    "id": "cmscbezc002tlroeuyltwsglu",
+    "title": "GeoAI 教程：用 U-Net、Grounding DINO、SAM 与 Mask R-CNN 从 NAIP 影像提取建筑足迹",
+    "url": "https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn",
+    "summary": "本教程设计了一套完整的 GeoAI 工作流，从高分辨率 NAIP 航拍影像中提取建筑足迹。流程涵盖配置深度学习环境、下载影像与标签、生成图像块和分割掩码，训练 ResNet-34 编码器的 U-Net 模型，并应用滑动窗口推理。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月3日5时19分"
+  },
+  {
     "id": "cmsc99o6t01a6roeu9h4bvspg",
     "title": "DeepSeek 4 Flash 登顶性价比前沿",
     "url": "https://x.com/kimmonismus/status/2084007944786440589",
@@ -30,6 +62,14 @@
     "summary": "Thinking Machines Lab 发布开源权重 MoE 模型 Inkling-Small，总参数 276B、激活参数 12B，约为 975B 总参数 Inkling 的四分之一，原生支持文本、图像和音频推理，上下文窗口达 1M tokens，权重以 Apache 2.0 协议在 Hugging Face 上提供。",
     "source": "MarkTechPost（RSS）",
     "date": "2026年8月3日4时35分"
+  },
+  {
+    "id": "cmscb6s8p02h0roeu7xms4gn5",
+    "title": "Conductor Build 将智能体变为农场解决移动开发",
+    "url": "https://x.com/charlieholtz/status/2084014373874639131",
+    "summary": "我喜欢这个\n\n👀 我们通过 @conductor_build 云将智能体变成农场，解决了移动开发问题\n\n戳戳你的小鸡，让一切继续运转 🐓",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月3日4时32分"
   },
   {
     "id": "cmsc99r2h01biroeuhihxk8ok",
