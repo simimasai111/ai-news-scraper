@@ -1,11 +1,67 @@
 [
   {
+    "id": "cmsbyjtih0ub9rohvj7mvxjg6",
+    "title": "ChatGPT插件连接器槽点征集",
+    "url": "https://x.com/jxnlco/status/2083932275482452002",
+    "summary": "我们ChatGPT/Codex插件和连接器有哪些让你抓狂的地方？\n\n1. 我也想要多个Gmail和日历连接器 2. 还有别的吗？\n\n我会把评论里的所有内容整理汇总给团队。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月2日23时5分"
+  },
+  {
+    "id": "cmsbyjrz10uajrohvf26j4bco",
+    "title": "麻省理工专家：AI 时代护城河皆为租约",
+    "url": "https://x.com/kimmonismus/status/2083937179898638424",
+    "summary": "麻省理工加密经济学实验室创始人 Christian Catalini 在《今日超级智能》发文称，几乎所有护城河--路由、分发、市场流动性、应用层功能--都会随模型升级而削弱。唯一随模型改进而增强的是\"验证级\"网络效应，关键在于谁拥有他人无法获得的测量数据。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月2日23时25分"
+  },
+  {
+    "id": "cmsbyl4ao0udzrohvbqvgfmta",
+    "title": "GPT 5.6 Sol 构建 3D 人体解剖教学应用",
+    "url": "https://x.com/gdb/status/2083934330146197989",
+    "summary": "开发者用 GPT 5.6 Sol 和 Codex 构建了 3D 人体解剖教学应用，将每个 3D 模型从 120-150 MB 优化至 2-5.5 MB，总资源从约 900 MB 降至 28.6 MB，帧率从 16fps 提升至流畅水平。应用支持按需加载，并自动生成解剖插图和交互热点标记。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月2日23时13分"
+  },
+  {
+    "id": "cmsbyjuzn0ubxrohvyc4ipy5y",
+    "title": "黄仁勋：马斯克在三大AI领域占据绝佳位置",
+    "url": "https://x.com/cb_doge/status/2083933927849259155",
+    "summary": "NVIDIA CEO 黄仁勋称马斯克在引领 AI、自动驾驶和人形机器人未来方面处于绝佳位置。他指出马斯克拥有庞大车队可低成本收集世界数据，且其汽车 AI 工厂配备大量 NVIDIA 设备。黄仁勋认为 xAI 主攻基础认知智能、Tesla 做自动驾驶、Optimus 做人形机器人，这三者正是 AI 最重要的三大领域。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月2日23时12分"
+  },
+  {
     "id": "cmsbweiql0sfhrohvapwszs4f",
     "title": "开源模型逆势扩张，行业整合预言落空",
     "url": "https://x.com/natolambert/status/2083917557560721890",
     "summary": "Nathan Lambert 指出，尽管训练成本每年数量级增长、行业整合曾被视作必然，现实却是更多公司投入数亿至数十亿美元训练强模型并开源。Thinking Machines 的开放微调服务年收入达数亿美元，其开源权重模型领先美国同行；中国实验室持续发力，小米等新玩家也在积累影响力。他预测持续采用比整合更可能，开源模型市场份额与 Kimi K3 等收入分成许可的成效将决定行业走向。",
     "source": "X：Nathan Lambert (@natolambert)",
     "date": "2026年8月2日22时7分"
+  },
+  {
+    "id": "cmsbxh8qe0tk8rohvrz0gx9iw",
+    "title": "网友调侃Ant收购ElevenLabs",
+    "url": "https://x.com/jxnlco/status/2083928649896800586",
+    "summary": "提前说一句，Ant 要收购 ElevenLabs 了。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月2日22时51分"
+  },
+  {
+    "id": "cmsbxpdzy0towrohvcxc0vk6f",
+    "title": "微软 MAI-Realtime 双向语音模型抢先看",
+    "url": "https://x.com/testingcatalog/status/2083928441800261678",
+    "summary": "独家爆料 🔥：微软即将推出的双向语音模型\"MAI-Realtime\"早期预览！\n\n该模型比 MAI Voice 2 自然得多，可操作网络搜索及许多其他工具。\n\n了解更多 🗞️ https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model/",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月2日22时50分"
+  },
+  {
+    "id": "cmsbxgzpe0tgcrohvf3rfu2vm",
+    "title": "Grok 一次生成 15 秒视频，0 抽卡",
+    "url": "https://x.com/AYi_AInotes/status/2083922399771165015",
+    "summary": "seedance 2.5 实在太贵了，继续玩 Grok，这个 15 秒视频是 Grok 一次生成，0 抽卡，目前视频大模型也就 Grok 能与之一战了吧🤔",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月2日22时26分"
   },
   {
     "id": "cmsbwep8k0si9rohvd892tz85",
