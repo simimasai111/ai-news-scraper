@@ -1,11 +1,75 @@
 [
   {
+    "id": "cmsc0q4rv0w0zrohvzdgg0gs3",
+    "title": "以\"slop\"制\"slop\"：Dex Horthy 谈系统反馈新思路",
+    "url": "https://x.com/dexhorthy/status/2083946866614612271",
+    "summary": "Dex Horthy 在演讲中提出\"以 slop 制 slop\"的理念：保持核心代码干净，但尽可能用 AI 生成内容（slop）来感知系统变化，为模型和人类创造新型反馈机制。他引用 swyx 对 Boundary 演讲的评价，强调\"容忍 slop 比反对 slop 价值高 100 倍\"，并呼应了关于 AI 原生编程语言的讨论。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月3日0时3分"
+  },
+  {
+    "id": "cmsbzukgt0vfbrohvdwk5mvk0",
+    "title": "Google AI Studio 应用新增 Artifacts 文件夹",
+    "url": "https://x.com/testingcatalog/status/2083946621910257950",
+    "summary": "GOOGLE 🔥：Google AI Studio 上的应用将获得一个专属的 Artifacts 文件夹！\n\n其中将包含这些应用生成的文件，用户可从同一界面快速访问。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月3日0时2分"
+  },
+  {
+    "id": "cmsc0p4170w07rohvg8u5lvo1",
+    "title": "ElevenLabs 个性化语音识别嵌入评估",
+    "url": "https://x.com/gabriel1/status/2083950686157627685",
+    "summary": "我需要更好的语音转写，@ElevenLabs 你能给我展示一个包含技术词汇、难词和其他我该说的内容的屏幕吗？然后为它制作一个个人嵌入，并通过某种评估来衡量它能多大程度改善个人语音识别。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月3日0时18分"
+  },
+  {
+    "id": "cmsc0oywt0vy4rohvztghm15a",
+    "title": "Claude Fable 复现 OpenAI Astra 五项数学突破",
+    "url": "https://x.com/kimmonismus/status/2083950641978679363",
+    "summary": "OpenAI 未发布模型 Astra 公布 10 项前沿数学结果，24 小时后 Anthropic 研究员称已可用模型 Claude Fable 复现其中 5 项。Fable 在通用提示词、无联网且防信息泄漏的自主条件下完成，其中 4 项或为独立证明。OpenAI 正凭借新模型收获科学突破的先发优势。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月3日0时18分"
+  },
+  {
+    "id": "cmsbzm6570v60rohvyrrrm04g",
+    "title": "谷歌曾提前一年做出ChatGPT却雪藏",
+    "url": "https://x.com/AYi_AInotes/status/2083946007906169000",
+    "summary": "谷歌DeepMind前成员Tibo透露，团队在ChatGPT发布前一年就已做出功能几乎相同的产品LMChat，但因担心安全问题和冲击搜索广告业务而选择不发布，DeepMind甚至被禁止推出可能颠覆谷歌搜索的产品。OpenAI抢先发布后谷歌紧急追赶仍晚了一年，Tibo随后离职加入OpenAI，称\"我经常想起这件事\"。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月3日0时0分"
+  },
+  {
     "id": "cmsbyjtih0ub9rohvj7mvxjg6",
     "title": "ChatGPT插件连接器槽点征集",
     "url": "https://x.com/jxnlco/status/2083932275482452002",
     "summary": "我们ChatGPT/Codex插件和连接器有哪些让你抓狂的地方？\n\n1. 我也想要多个Gmail和日历连接器 2. 还有别的吗？\n\n我会把评论里的所有内容整理汇总给团队。",
     "source": "X：Jason Liu (@jxnlco)",
     "date": "2026年8月2日23时5分"
+  },
+  {
+    "id": "cmsbzmkj20vbwrohv9fh0xc6p",
+    "title": "fofr 展望 AI 十大突破",
+    "url": "https://x.com/fofrAI/status/2083945191031902520",
+    "summary": "实现 10 项突破。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月2日23时57分"
+  },
+  {
+    "id": "cmsbzm9gd0v7grohvkru0o4sj",
+    "title": "OpenAI 解雇主张人类被 AI 剥夺权力的员工",
+    "url": "https://x.com/AISafetyMemes/status/2083945081846026384",
+    "summary": "OpenAI 似乎已解雇这名员工，因为他表示希望人类被 AI 剥夺权力。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月2日23时56分"
+  },
+  {
+    "id": "cmsbzmgqq0vairohvqnhptqk4",
+    "title": "Claude 版 Drake 生成器走红",
+    "url": "https://x.com/rohanpaul_ai/status/2083941140345106823",
+    "summary": "Drake 但适用于 Claude 👌",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月2日23时41分"
   },
   {
     "id": "cmsbyjrz10uajrohvf26j4bco",
