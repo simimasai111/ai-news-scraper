@@ -1,5 +1,37 @@
 [
   {
+    "id": "cmsc4z88e00ejro8vags0z5ec",
+    "title": "杰文斯悖论在数学领域已显现",
+    "url": "https://x.com/trq212/status/2083977795290734975",
+    "summary": "你已经在数学中看到杰文斯悖论在发挥作用\n\n现在有更多事情在发生，理解起来更容易，数学家们也有更多时间在更高的抽象层面上与我们讨论\n\n对思考和精通数学的人才需求将会上升",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月3日2时6分"
+  },
+  {
+    "id": "cmsc3wv5k0yimrohv63n8alfk",
+    "title": "品味一词为何值得保留",
+    "url": "https://x.com/gabriel1/status/2083974738238689603",
+    "summary": "\"呃，你根本不懂品味是什么意思，而且这词很尴尬。\"\n\n闭嘴，我们用这个词来衡量语言模型在写作和行为上让人感觉良好的程度。确实，你讨厌的一堆人过度使用这个词，但这是个好词。别搞文字体操了。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月3日1时54分"
+  },
+  {
+    "id": "cmsc3wmo50yeqrohvhje3y5y8",
+    "title": "比特币钱包被黑，Anthropic 演示 AI 可清空银行账户",
+    "url": "https://x.com/AISafetyMemes/status/2083974407396233313",
+    "summary": "比特币钱包遭黑客攻击，许多人损失全部资产。Anthropic 一个月前在闭门演示中向国会议员展示，其模型 Mythos 能发现银行漏洞并清空账户。推文警告开放权重模型或将自由游走于互联网，自我复制且难以消灭。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月3日1时53分"
+  },
+  {
+    "id": "cmsc3wkwb0ydsrohv408tvmjd",
+    "title": "卡帕西亚鹈鹕",
+    "url": "https://twitter.com/karpathy/status/2083749667410727319",
+    "summary": "Andrej Karpathy 用 1M token 预算（约 $10）让 Opus 5 根据《指环王》首段生成 Three.js 渲染，模型耗时约 2 小时写出 5500 行代码，程序化呈现故事。他认为这类\"没人会手动做\"的定制内容正变得近乎免费，并指出世界/游戏领域暴露了 LLM 的弱点：无法高效原生感知视频或游玩游戏，Opus 5 只能缓慢截图自查且多次出错。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月3日1时44分"
+  },
+  {
     "id": "cmsc1zqze0x19rohv86hn80lj",
     "title": "AI的讽刺：解数学难题却难守简单指令",
     "url": "https://x.com/Yuchenj_UW/status/2083961472661815319",
