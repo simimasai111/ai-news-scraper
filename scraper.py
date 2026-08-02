@@ -1,30 +1,30 @@
 import json
 import os
-import subprocess
 from datetime import datetime, timedelta, timezone
+
+from curl_cffi import requests as cr
 
 API_URL = "https://baipiao.org/api/ainews/items"
 DATA_FILE = "news_data.json"
 LIMIT = 30
 BEIJING = timezone(timedelta(hours=8))
 
-UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-
 
 def fetch_first_page():
-    """用 curl 抓取第一页（只取最新 30 条，不翻页），绕过 Cloudflare"""
-    headers = [
-        "-H", f"User-Agent: {UA}",
-        "-H", "Accept: application/json",
-        "-H", "Referer: https://baipiao.org/news/",
-    ]
-    url = f"{API_URL}?mode=all&limit={LIMIT}"
-    proc = subprocess.run(["curl", "-s", "--max-time", "60", *headers, url],
-                          capture_output=True)
-    if proc.returncode != 0:
-        raise RuntimeError("curl 失败: " + (proc.stderr or b"").decode(errors="replace")[-500:])
-    data = json.loads(proc.stdout.decode("utf-8"))
-    return data.get("items", [])
+    """抓取第一页（只取最新 30 条，不翻页），用 curl_cffi 模拟 Chrome 绕过 Cloudflare"""
+    r = cr.get(
+        API_URL,
+        params={"mode": "all", "limit": LIMIT},
+        headers={
+            "Referer": "https://baipiao.org/news/",
+            "Accept": "application/json, text/plain, */*",
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+        },
+        impersonate="chrome",
+        timeout=30,
+    )
+    r.raise_for_status()
+    return r.json().get("items", [])
 
 
 def format_date(iso_str):
