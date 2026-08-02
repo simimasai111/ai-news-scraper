@@ -1,11 +1,51 @@
 [
   {
+    "id": "cmsc1zqze0x19rohv86hn80lj",
+    "title": "AI的讽刺：解数学难题却难守简单指令",
+    "url": "https://x.com/Yuchenj_UW/status/2083961472661815319",
+    "summary": "AI的讽刺之处：\n\n比数学博士还聪明。解决了10个开放数学问题。\n\n比我的实习生还笨。连3条简单指令都执行不了，却烧掉了1000万token和250美元。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月3日1时1分"
+  },
+  {
+    "id": "cmsc2u1990xgcrohv5j9ww91n",
+    "title": "ASI 横扫数学后各领域将如何",
+    "url": "https://x.com/AISafetyMemes/status/2083964341142048856",
+    "summary": "\"如果趋势持续，到 2028 年底所有 Erdős 问题都将被解决。\"\n\n当 ASI 像攻克数学一样横扫每个领域时，会发生什么？",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月3日1时13分"
+  },
+  {
+    "id": "cmsc1rnkp0wxmrohvb8637n87",
+    "title": "SemiAnalysis 实测 Qwen3.8-Max-Preview",
+    "url": "https://x.com/SemiAnalysis_/status/2083961062043308289",
+    "summary": "SemiAnalysis 测试了 Qwen3.8-Max-Preview，参数量 2.4T。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月3日1时0分"
+  },
+  {
+    "id": "cmsc1rbxn0wsyrohvkkub6gdf",
+    "title": "Grok 视频生成获赞，被称视频界 DeepSeek",
+    "url": "https://x.com/AYi_AInotes/status/2083947198618694024",
+    "summary": "博主称 Grok 为视频大模型界的 DeepSeek，并建议马斯克好好发展。其展示 Grok 一次生成、零抽卡的 15 秒 1080P 打斗片段，认为效果优于降智的 seedance 2.0，且对比 seedance 2.5 的高价更具性价比。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月3日0时5分"
+  },
+  {
     "id": "cmsc0q4rv0w0zrohvzdgg0gs3",
     "title": "以\"slop\"制\"slop\"：Dex Horthy 谈系统反馈新思路",
     "url": "https://x.com/dexhorthy/status/2083946866614612271",
     "summary": "Dex Horthy 在演讲中提出\"以 slop 制 slop\"的理念：保持核心代码干净，但尽可能用 AI 生成内容（slop）来感知系统变化，为模型和人类创造新型反馈机制。他引用 swyx 对 Boundary 演讲的评价，强调\"容忍 slop 比反对 slop 价值高 100 倍\"，并呼应了关于 AI 原生编程语言的讨论。",
     "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
     "date": "2026年8月3日0时3分"
+  },
+  {
+    "id": "cmsc1rg390wu6rohvfe784wiz",
+    "title": "前沿开源模型改变智能对话格局",
+    "url": "https://x.com/omarsar0/status/2083955026905510134",
+    "summary": "前沿开源模型确实改变了关于智能的对话。这是必然发生的，因为我们正走向一场彻底的灾难。\n\n最重要的是，随着AI持续进步，我们不能忘记AI的集中化有多么糟糕。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月3日0时36分"
   },
   {
     "id": "cmsbzukgt0vfbrohvdwk5mvk0",
@@ -37,6 +77,14 @@
     "url": "https://x.com/AYi_AInotes/status/2083946007906169000",
     "summary": "谷歌DeepMind前成员Tibo透露，团队在ChatGPT发布前一年就已做出功能几乎相同的产品LMChat，但因担心安全问题和冲击搜索广告业务而选择不发布，DeepMind甚至被禁止推出可能颠覆谷歌搜索的产品。OpenAI抢先发布后谷歌紧急追赶仍晚了一年，Tibo随后离职加入OpenAI，称\"我经常想起这件事\"。",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月3日0时0分"
+  },
+  {
+    "id": "cmsc1kf110wjirohvp8a4eouo",
+    "title": "Cloudflare 开启 Agents Week：探讨面向智能体的 Agent Cloud 形态",
+    "url": "https://blog.cloudflare.com/agents-week-welcome",
+    "summary": "Cloudflare 启动为期五天的 Agents Week，核心议题是\"Agent Cloud\"应具备何种形态。其认为现有云和网络皆为人设计，而智能体有速度、结构与访问上的独特需求，因此 Agent Cloud 需同时构建面向智能体原生的底层能力，并充当现有网络与智能体网络之间的转换层。本周将围绕执行层、智能体开发生命周期、安全控制及智能体网络等主题展开。",
+    "source": "Cloudflare Blog",
     "date": "2026年8月3日0时0分"
   },
   {
