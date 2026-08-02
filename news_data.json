@@ -1,11 +1,123 @@
 [
   {
+    "id": "cmsc74nsu021iro8vughpza7w",
+    "title": "swyx 用 Codex 跨平台与产品协作开发 Forge",
+    "url": "https://x.com/swyx/status/2083993378258288976",
+    "summary": "swyx 正用 Forge 托管其所有项目，并分享了一个技巧：在 OpenAI Codex 中可 @ 一个线程并排队，当项目被平台功能阻塞时，可预先推进项目，待平台解除阻塞后继续。他认为更优的多智能体框架应无缝编排平台与项目间的工作，但此类用例并不常见。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月3日3时8分"
+  },
+  {
+    "id": "cmsc808ld00hjroeuiu46hdua",
+    "title": "周报31：探索式建模与StateAct智能体",
+    "url": "https://x.com/dongxi_nlp/status/2084005064277160346",
+    "summary": "第31周论文\n\n探索式建模--模型探索多条有效路径，每种可能性都保持清晰。\n\nStateAct--智能体先读取应用状态，像素沦为后备方案，动作更加有据可依。\n\n论文：\n\n探索式建模：解锁第三条预训练轴与端到端生成\nStateAct：程序状态优先于像素，用于长时程计算机操作智能体",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月3日3时55分"
+  },
+  {
+    "id": "cmsc86yon00mbroeuxzr49v80",
+    "title": "Claude 8分钟发现钱包漏洞，AI安全引担忧",
+    "url": "https://x.com/AISafetyMemes/status/2084004804519739819",
+    "summary": "Claude 仅用8分钟便发现同一钱包漏洞，引发\"有人用LLM盗走1亿美元只因没人检查源码\"的感叹。Anthropic此前闭门演示中，Mythos模型被指示寻找银行漏洞并清空账户后照做。开源权重模型或将自由游走网络，盗取账户、自我复制且难以清除。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月3日3时53分"
+  },
+  {
+    "id": "cmsc74bz701wnro8vswpdwrkk",
+    "title": "Show HN：Sprocket--面向硬件和软件开发领域的人工智能代理",
+    "url": "https://sprocket-demo.spikonado.com/",
+    "summary": "Sprocket 是一款面向硬件和软件开发领域的人工智能代理，现已开放下载。其演示视频展示了在相关开发任务中的应用能力，旨在提升硬件与软件工程的开发效率。用户可访问 https://spikonado.com 获取该工具。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月3日3时4分"
+  },
+  {
+    "id": "cmsc86ycm00m7roeuyv2nn1yo",
+    "title": "DeepSeek v4 Flash 搭配 Pi 效果出色",
+    "url": "https://x.com/omarsar0/status/2084001897967444248",
+    "summary": "DeepSeek v4 Flash + Pi 太棒了！\n\n在 DeepSeek 的 harness 发布之前，我建议在 Pi harness 上使用新的 DeepSeek v4 Flash 模型。\n\nPi 与这些新的开源模型大多都能很好地配合使用。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月3日3时42分"
+  },
+  {
+    "id": "cmsc86x3300llroeukroqr788",
+    "title": "Fender CEO 称翻唱歌曲和乐队成员是\"模拟 AI\"，引发争议",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "summary": "Fender CEO Edward \"Bud\" Cole 在 T3 采访中称翻唱歌曲和乐队成员是\"模拟 AI\"，并认为 AI 将帮助吉他手成为创作大师。该言论在 Fender 因向制琴师发停止函而陷入公关危机后再度发酵，遭音乐人反驳：人类学习翻唱与 AI 训练数据规模不可比，且依赖 AI 可能导致技能退化。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月3日3时36分"
+  },
+  {
+    "id": "cmsc74kvw020kro8v5peroeme",
+    "title": "宾夕法尼亚大学新研究：对部分LLM使用粗鲁语气可缩短回答并提高准确率",
+    "url": "https://x.com/rohanpaul_ai/status/2083998933190320269",
+    "summary": "宾夕法尼亚大学研究发现，对部分LLM使用粗鲁语气可显著缩短回答并提高准确率。研究用570道MMLU题、7种语气测试多模型，准确率波动至多2.99个百分点，但输出token使用量变化高达44.3%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月3日3时30分"
+  },
+  {
+    "id": "cmsc74dar01xaro8v3mbic3um",
+    "title": "DeepSeek Flash 单日处理 8T tokens",
+    "url": "https://x.com/opencode/status/2083996864186318999",
+    "summary": "DeepSeek Flash 在 8 月 1 日处理了 8T tokens\n\n5T 免费使用量 + 3T 来自 OpenCode Go",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月3日3时22分"
+  },
+  {
+    "id": "cmsc74j7901zsro8vn6qbgl0k",
+    "title": "科技报道失去对未来的惊叹",
+    "url": "https://x.com/emollick/status/2083996732875055396",
+    "summary": "你将活着见证种种奇迹，然后耸耸肩说\"嗯，又一个奇迹\"。\n\n关于科技报道的那些陈词滥调都是真的。它几乎完全变成了关于人际关系、权谋、政治、交易等等。对科技本身未来可能性的惊叹感已经消失了。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月3日3时21分"
+  },
+  {
+    "id": "cmsc74bz701wmro8v8tgmibnj",
+    "title": "《Ars Notoria》与即时知识的承诺：中世纪学者如何用魔法手稿\"速成\"学问",
+    "url": "https://publicdomainreview.org/essay/ars-notoria",
+    "summary": "在《黑客帝国》中尼奥瞬间掌握功夫的数世纪前，中世纪学者已寻求快速获取知识的捷径。Anne Lawrence-Mathers 考察了《Ars notoria》这部据称能加速高级学习的魔法手稿，探讨其宣称的力量及对部分使用者产生的恶魔般影响。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月3日3时20分"
+  },
+  {
     "id": "cmsc4z88e00ejro8vags0z5ec",
     "title": "杰文斯悖论在数学领域已显现",
     "url": "https://x.com/trq212/status/2083977795290734975",
     "summary": "你已经在数学中看到杰文斯悖论在发挥作用\n\n现在有更多事情在发生，理解起来更容易，数学家们也有更多时间在更高的抽象层面上与我们讨论\n\n对思考和精通数学的人才需求将会上升",
     "source": "X：Thariq (@trq212)",
     "date": "2026年8月3日2时6分"
+  },
+  {
+    "id": "cmsc61o9s0199ro8v0gnvyrkk",
+    "title": "普通人用GPT 5.6 Sol vibe coding做出3D人体解剖应用",
+    "url": "https://x.com/AYi_AInotes/status/2083977164068720848",
+    "summary": "一位开发者用GPT 5.6 Sol、GPT Image 2.0和TripoAI，通过vibe coding构建了3D人体解剖应用，将总资源从约900MB优化至28.6MB，单个模型从120-150MB降至2-5.5MB，帧率从16fps提升。整个过程仅靠与AI对话完成，无需专业团队，展示了工具民主化对教育内容的冲击。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月3日2时4分"
+  },
+  {
+    "id": "cmsc75nnl022gro8vtxbfw1m3",
+    "title": "智能仍尖峰，AGI 尚缺\"G\"",
+    "url": "https://x.com/dexhorthy/status/2083987581201784863",
+    "summary": "Dex Horthy 盛赞 Ian（@kinglycrow）关于智能体与红蓝队安全研究的深度长文。Ian 去年曾创立并出售一家编码智能体初创公司，实操经验丰富。其核心判断是：智能仍尖峰、验证器脆弱、视野过短，起飞条件未成熟，AGI 尚缺\"G\"。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月3日2时45分"
+  },
+  {
+    "id": "cmsc61wjr01cbro8vll0rp4af",
+    "title": "MIT专家：AI时代唯一持久的护城河是验证级网络效应",
+    "url": "https://x.com/kimmonismus/status/2083985908244607480",
+    "summary": "MIT加密经济学实验室创始人Christian Catalini在Superintelligence发文称，多数护城河（路由、分发、市场流动性、应用层功能）都会随模型升级而削弱，唯一增强的是\"验证级\"网络效应。其核心问题：谁拥有别人没有的测量数据？",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月3日2时38分"
+  },
+  {
+    "id": "cmsc638cl01g0ro8vkcpfg8dp",
+    "title": "Deedy 展示 LLM 3D 重构京都风户型",
+    "url": "https://x.com/deedydas/status/2083985627524309371",
+    "summary": "我喜欢输入湾区房屋的户型图，让大语言模型以不同美学风格重新设计--这次是京都风格。\n\n模型在 3D 方面的能力已经变得非常出色。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月3日2时37分"
   },
   {
     "id": "cmsc3wv5k0yimrohv63n8alfk",
