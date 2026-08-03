@@ -1,11 +1,147 @@
 [
   {
+    "id": "cmsdo0x3203dmro0ovomuyfqx",
+    "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
+    "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+    "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
+    "source": "Runway：News（网页）",
+    "date": "2026年8月4日4时12分"
+  },
+  {
+    "id": "cmsdnp1m10347ro0o2xas26fs",
+    "title": "AWS 与 vibe-coding 初创公司 Superblocks 达成合作，企业私有云内嵌 AI 编程工具",
+    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big",
+    "summary": "Superblocks 与 AWS 签署多年联合营销协议，其 vibe-coding 工具可嵌入 AWS 客户私有云，应用数据不外传，自动创建 Amazon Aurora 数据库并集成 Amazon Bedrock，纳入 IT 管理与安全体系。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月4日4时0分"
+  },
+  {
+    "id": "cmsdmmg7o0265ro0ohtykg0et",
+    "title": "OpenAI 豪华网红之旅引发强烈反弹",
+    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip",
+    "summary": "OpenAI 上周末邀请网红赴纽约州北部豪华度假村参加\"Summer Club\"品牌之旅，提供农场到餐桌晚宴、养蜂等养生活动及产品使用课程，但视频评论区涌现大量负面声音，有网友指责网红\"为豪华酒店出卖灵魂\"。此次行程正值 OpenAI 拟在俄亥俄州达成 5000 亿美元数据中心交易、并持有美国国防部 2 亿美元合同之际，加剧了外界对 AI 社会生态影响的批评。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月4日3时9分"
+  },
+  {
+    "id": "cmsdnpm33038dro0otndt4p67",
+    "title": "Grok 视频观看功能：支持链接总结问答",
+    "url": "https://x.com/cb_doge/status/2084368684001194231",
+    "summary": "Grok 观看视频的能力是这款应用最被低估的功能之一。\n\n你甚至不需要上传视频，它也支持链接。只需粘贴一个视频链接，Grok 就能观看、总结并回答你的问题。\n\n这能节省大量时间。试试吧！",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月4日3时59分"
+  },
+  {
+    "id": "cmsdnw33203cnro0o9qowau7c",
+    "title": "SpaceXAI 为 Grok 语音开发 Orbs 功能",
+    "url": "https://x.com/testingcatalog/status/2084367818200424491",
+    "summary": "SpaceXAI 正在为 Grok iOS 版语音开发 Orbs 功能。\n\n每个语音都有自己的颜色，设计风格与 xAI Console 上的展示非常接近。\n\n自定义语音智能体即将推出？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月4日3时56分"
+  },
+  {
+    "id": "cmsdnp3nr034jro0oh3x9859j",
+    "title": "智能体41种故障模式分类框架发布",
+    "url": "https://x.com/omarsar0/status/2084367708439949343",
+    "summary": "一篇面向生产环境智能体构建的论文提出按交互来源组织41种智能体故障模式，将每个故障归因于模型、工具、记忆等组件间的边及修复侧。该框架在四个前沿模型上最强评判者与人工标签的Cohen's kappa达0.76，支持生产轨迹持续自动化标注，为harness工程提供共享词汇。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月4日3时56分"
+  },
+  {
+    "id": "cmsdnp8wy035jro0oflgpii8f",
+    "title": "微软开源 Orchard 智能体训练框架",
+    "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+    "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
+    "source": "X：Microsoft Research (@MSFTResearch)",
+    "date": "2026年8月4日3时43分"
+  },
+  {
+    "id": "cmsdnpqm2039pro0o23ej7bau",
+    "title": "fofr 评《披露日》：似二十年前老片",
+    "url": "https://x.com/fofrAI/status/2084364273929593134",
+    "summary": "我看了《披露日》。感觉就像一部二十年前的老电影。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月4日3时42分"
+  },
+  {
+    "id": "cmsdnpmdi038jro0olblqbx48",
+    "title": "4B 参数 Athena 预测购物行为击败 GPT-5.6",
+    "url": "https://x.com/rohanpaul_ai/status/2084363343096422876",
+    "summary": "Markopolo AI 发布 4B 参数大型事件模型 Athena（mvrko-sim-1），在 OPeRA 基准的购物行为预测任务中以 24.50% 严格精确匹配率超越 GPT-5.6、Claude Opus 4.8 等前沿模型。Athena 是 Qwen3-4B 的 LoRA 微调模型，可自托管，能预测购物者下一步浏览器动作及目标元素，为下游系统提供实时响应机会。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日3时38分"
+  },
+  {
+    "id": "cmsdnoxt1033zro0om7fbj3v4",
+    "title": "5月犹他州太阳能发电量首超其他能源，创历史新高",
+    "url": "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record",
+    "summary": "5月份，犹他州太阳能发电量超过其他任何能源，创下历史新高，为该州首次。这一里程碑标志着太阳能首次成为该州月度发电量的首要来源。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日3时36分"
+  },
+  {
+    "id": "cmsdljpgm01ksro0oq85ief29",
+    "title": "Intology Locus 自动后训练模型超越人工调优版",
+    "url": "https://x.com/rohanpaul_ai/status/2084354224184578407",
+    "summary": "Intology 的自动化研究系统 Locus 后训练出的模型超越官方人工调优的 Qwen3-1.7B，得分 51.6% 对 49.4%。Locus 在 PostTrainBench+ 上以 4，500 H100 小时预算（原版仅 70 小时）运行 100 小时，验证了扩展算力对自动后训练能力的区分度。该系统已在生产中服务数百万用户。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日3时2分"
+  },
+  {
+    "id": "cmsdmmg7o0264ro0o0lvuu01z",
+    "title": "DesignArena 开发商 Intelligence 获 790 万美元种子轮融资，为 AI 模型注入\"品味\"",
+    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models",
+    "summary": "DesignArena 开发商 Intelligence 完成 790 万美元种子轮融资，由 Index Ventures 领投，Conviction、A*、Valkyrie 等参投。该平台通过\"A vs. B\"人工排序为媒体生成模型提供规模化反馈，目前拥有 530 万用户，ARR 达 6000 万美元。创始人表示，人类判断是模型在设计领域改进的关键瓶颈，此类数据可补充易被操纵的自动化基准测试。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月4日3时28分"
+  },
+  {
+    "id": "cmsdmmuse028iro0ou0e31s57",
+    "title": "内部版GPT-6解决10个长期难题",
+    "url": "https://x.com/kimmonismus/status/2084358513678020856",
+    "summary": "\"我们的下一个主要模型\"\n\n所以，他们那个解决了10个长期难题的内部模型确实是GPT-6。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月4日3时19分"
+  },
+  {
+    "id": "cmsdlvlzg01ppro0ojq5bg7tx",
+    "title": "Block 与 Spotify 法务负责人如何在 AI 时代给出\"同意\"",
+    "url": "https://runwayml.com/news/company-news/spotify-block-ai-summit-2026",
+    "summary": "Block 首席法务官 Esperanza 与 Spotify 总法律顾问 Choset 认为，AI 时代\"说不\"风险更高，法务应深入理解技术并自信放行。两人均主张法务贴近产品、在监管前自定规则，并用 AI 工具自建审查系统。Choset 强调，AI 法律问题本质仍是版权、隐私与雇佣问题。",
+    "source": "Runway：News（网页）",
+    "date": "2026年8月4日3时12分"
+  },
+  {
+    "id": "cmsdljeq601horo0oyimv6hjk",
+    "title": "Replit Design 用户作品展示",
+    "url": "https://x.com/Replit/status/2084353656875311340",
+    "summary": "看看大家用 Replit Design 在做什么。\n\n开放讨论串 🧵",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月4日3时0分"
+  },
+  {
     "id": "cmsdkgniu00hxro0oia1zfnbg",
     "title": "Locus 自动后训练 Qwen3 超越官方 Instruct 版",
     "url": "https://x.com/omarsar0/status/2084340684316700773",
     "summary": "Locus 自动研究系统对 Qwen3 基础模型进行后训练，性能超越官方人工调优的 Qwen3 1.7B Instruct 版本，并在 PostTrainBench 上达到 SOTA。在扩展算力预算的 PostTrainBench+ 测试中，Locus 扩展性最佳，其训练模型整体超越人工后训练的 Qwen3 1.7B。此外，Locus 在 Kaggle 实时竞赛中 16 天取得平均排名第 4。",
     "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
     "date": "2026年8月4日2时8分"
+  },
+  {
+    "id": "cmsdljrau01liro0o764m2nxk",
+    "title": "网友调侃给Dario降薪90%建议",
+    "url": "https://x.com/gabriel1/status/2084352936902336530",
+    "summary": "我有个绝妙主意要给你，Dario，试试降薪90%吧",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月4日2时57分"
+  },
+  {
+    "id": "cmsdljdrw01hgro0oe94x8fb4",
+    "title": "OpenAI 内部模型数学难题获十项突破",
+    "url": "https://x.com/OpenAI/status/2084352161404920316",
+    "summary": "我们下一代主要模型的内部版本，在数学和理论计算机科学中长期未解的开放问题上取得了 10 项新成果，按 GPT-5.6 Sol API 费率计算，所用 token 成本约为 2，000 美元。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月4日2时54分"
   },
   {
     "id": "cmsdkgtbv00inro0ov4av2zu9",
@@ -16,12 +152,52 @@
     "date": "2026年8月4日2时4分"
   },
   {
+    "id": "cmsdmn3yt02baro0omabccv66",
+    "title": "马斯克称源码将成汇编，Dex Horthy 泼冷水",
+    "url": "https://x.com/dexhorthy/status/2084350728165007427",
+    "summary": "Dex Horthy 表示，18 个月前曾对\"源代码将像汇编语言一样\"感到兴奋，但多年极限使用编码模型后，如今不再确信。他认为这是未来方向，但对有正常运行时间和合规需求的严肃软件而言，离\"即将到来\"还很远。该观点是对马斯克\"源代码即将像汇编语言，下一步直接用 AI 生成高效二进制\"推文的回应。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月4日2时48分"
+  },
+  {
+    "id": "cmsdlj6ch01giro0o7e20ir02",
+    "title": "Siri AI 上线，但为何令人感觉平淡？",
+    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic",
+    "summary": "Siri AI 已随 7 月发布的 iOS 27 消费者测试版上线，能理解个人上下文、调用世界知识回答问题，并支持自然对话、打字输入及独立应用。该功能由 Apple 与 Google 合作，利用 Gemini AI 模型训练自有 Apple Foundation Models，可在 Apple Silicon 和 Private Cloud Compute 上运行。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月4日2时43分"
+  },
+  {
+    "id": "cmsdljlwm01jero0o47q64lxl",
+    "title": "金·蒙尼穆斯谈美国放缓前沿AI与中企进展",
+    "url": "https://x.com/kimmonismus/status/2084348071845269580",
+    "summary": "Kim 认为美国单方面放缓前沿AI开发不现实且风险更大。1300余名前沿AI公司员工签署\"Pacing the Frontier\"声明，但不等同于OpenAI或Anthropic公司同意放缓。中国模型如Kimi K3、GLM-5.2已开源权重，MiniMax H3、Qwen3.8权重尚未可用，benchmark显示差距缩小但未全面超越。放缓或让中国实验室在特定能力上反超。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月4日2时38分"
+  },
+  {
+    "id": "cmsdlj2dj01g8ro0ohfhqyh4k",
+    "title": "DMARC能保护您免受哪些威胁，以及它无法提供哪些保护",
+    "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+    "summary": "DMARC仅验证域名所有者是否授权发送邮件，并不验证邮件内容是否安全。它能在防钓鱼和防域名冒用方面发挥作用，但无法阻止合法域名发出的恶意邮件。身份验证不等于信任，DMARC的局限在于它不评估邮件内容本身的安全性。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日2时32分"
+  },
+  {
     "id": "cmsdkakqf00euro0o9vvnavb8",
     "title": "The Best AI Agent Builder Is Trapped Inside Microsoft",
     "url": "https://every.to/also-true-for-humans/the-best-ai-agent-builder-is-trapped-inside-microsoft",
     "summary": null,
     "source": "Every：最新文章（网页）",
     "date": "2026年8月4日2时27分"
+  },
+  {
+    "id": "cmsdlko6t01moro0otviul5u8",
+    "title": "Record A Skill With Claude",
+    "url": "https://www.youtube.com/shorts/jrfB3VY-wDo",
+    "summary": null,
+    "source": "Claude：YouTube（RSS）",
+    "date": "2026年8月4日2时18分"
   },
   {
     "id": "cmsdkggsh00hhro0ocn7owihi",
@@ -38,6 +214,14 @@
     "summary": "我需要停止把 80% 的钱投入股票，假设推理增长 100 倍。每天早上醒来都感觉像在玩老虎机。\n\n而且这还不包括 OpenAI 的股票，所以我甚至不知道为什么还要在 AI 上投入更多。",
     "source": "X：Gabriel (@gabriel1)",
     "date": "2026年8月4日2时15分"
+  },
+  {
+    "id": "cmsdn9udp02iaro0ol303b53a",
+    "title": "GEM 训练：Meta 如何将 LLM 规模广告基础模型效率翻倍",
+    "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model",
+    "summary": "Meta 通过内核、精度、并行、网络与内存的协同设计，将广告推荐基础模型 GEM 的端到端训练效率翻倍至 20-25% MFU，并在 12 个月内将训练 FLOPs 扩展 4 倍。",
+    "source": "Meta Engineering Blog（RSS）",
+    "date": "2026年8月4日2时0分"
   },
   {
     "id": "cmsdjd5r003mvrocaxuxefp77",
