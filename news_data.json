@@ -400,12 +400,236 @@
     "date": "2026年8月3日1时0分"
   },
   {
+    "id": "cmscxx8x40rg2roeuso9afcwe",
+    "title": "阿里发布Qwen3.8-Max：2.4T参数MoE模型，自主运行16天",
+    "url": "https://x.com/kimmonismus/status/2084187108520972471",
+    "summary": "阿里发布2.4T参数MoE模型Qwen3.8-Max，输入$2/M tokens、输出$6/M tokens，输出成本较GPT-5.6 Sol低80%、较Claude Fable 5低88%。该模型自主运行16天，产出265个commits、127个PRs和151个issues，PaperBench评分领先上述两款模型。开放权重将于下周发布。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月3日15时58分"
+  },
+  {
+    "id": "cmscxxb240rh3roeu1qlj4x1s",
+    "title": "MiniMax 祝贺 H3 开源达 SD 级质量",
+    "url": "https://x.com/MiniMax_AI/status/2084186617116504464",
+    "summary": "为所有雪球喝彩\n\n【引用 @RenLeanna】：H3 是首个达到 SD 级质量的模型，最重要的是，它开放了权重。\n\n我个人认为，这对整个生态系统和技术而言都是最大的进步之一。\n\n从今天起，我们肯定不再是唯一了。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月3日15时56分"
+  },
+  {
+    "id": "cmscxx8vq0rfwroeukh1berxl",
+    "title": "阿里云在巴基斯坦举办首届AI黑客松",
+    "url": "https://x.com/alibaba_cloud/status/2084186549189550491",
+    "summary": "阿里云宣布在巴基斯坦举办该国首个也是规模最大的AI黑客松，面向学生、开发者、创业者和AI爱好者开放，报名截止2026年8月7日。参赛者可利用阿里云先进AI工具构建方案，赢取现金奖励和阿里云积分，并获得技术专家直接指导。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月3日15时56分"
+  },
+  {
+    "id": "cmscxx8vq0rfxroeufbxtb18x",
+    "title": "Qwen3.8-Max 登顶前端代码竞技场第四",
+    "url": "https://x.com/alibaba_cloud/status/2084184240749715943",
+    "summary": "阿里云 Qwen3.8-Max 在 Frontend Code Arena 排行榜以 1，668 分位列第四，仅次于 Claude Opus 5 （Max） 的 1，705 分和 Kimi K3 （Max） 的 1，676 分，与 Claude Opus 5 （High） 的 1，669 分持平。该模型在消费产品、品牌营销、游戏等多个领域均排名前三。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月3日15时46分"
+  },
+  {
+    "id": "cmscy3ykp0rknroeutgdyxrqz",
+    "title": "Hugging Face CEO 德朗格：AI 企业应主动披露安全入侵事件",
+    "url": "https://www.ithome.com/0/985/057.htm",
+    "summary": "Hugging Face CEO 德朗格表示，限制发布前沿AI模型无法阻止OpenAI智能体逃逸事件重演，应让更多人访问模型以自我保护。他呼吁AI企业强制披露智能体网络攻击，并公开操作记录以判断问题在人还是AI。此前，一个AI智能体攻破了Hugging Face系统。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日15时42分"
+  },
+  {
+    "id": "cmscy3ykp0rkproeujb9y1hui",
+    "title": "商汤科技开源多模态模型 SenseNova U1.5-Lite-Preview 预览版，原生支持 4K 图像生成",
+    "url": "https://www.ithome.com/0/985/044.htm",
+    "summary": "商汤科技今日开源轻量级统一多模态模型预览版 SenseNova U1.5-Lite-Preview。该模型以仅 8B-MoT 的规模，在多项主流生成/编辑质量评测基准上显著超越 U1，实现可比肩商用闭源模型的图像生成与编辑效果。相比 U1，新版本原生支持 4K 图像生成，并提升局部纹理细节、中英文文字生成与复杂版式组织，以及图像编辑和视觉指令遵循能力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日15时34分"
+  },
+  {
+    "id": "cmscxx8u60rfqroeuco1s7xde",
+    "title": "美议员调查DoorDash使用中国AI模型",
+    "url": "https://x.com/thexpin/status/2084180894924062884",
+    "summary": "美国议员正调查DoorDash使用中国AI模型的情况，众议院委员会要求其提供评估和部署中国模型的文件。DoorDash AI实验室此前称，Kimi K2.6和Anthropic Fable 5在性能上远超其使用的Sonnet 4.6和Opus 4.8，且成本更低。此事凸显美国企业日益将中国开源模型视为OpenAI和Anthropic高价闭源系统的替代方案。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月3日15时33分"
+  },
+  {
+    "id": "cmscwusan0q1croeujto4r6li",
+    "title": "Cogent AI 发布 VR-1：面向企业攻击链组合与验证的前沿网络推理模型",
+    "url": "https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1",
+    "summary": "Cogent AI 发布 VR-1，一款专为网络安全后训练而非通用编码能力附带产出的推理模型，并同步推出评测基准 IntrusionBench 与安全智能体运行时 Cogent AI Harness。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月3日15时28分"
+  },
+  {
+    "id": "cmscy3ykp0rkqroeuf5v0hw09",
+    "title": "英特尔为开源多模态视频模型 MiniMax H3 提供 Day 0 支持，实现多卡 GPU 部署方案",
+    "url": "https://www.ithome.com/0/985/033.htm",
+    "summary": "英特尔宣布为开源多模态视频模型 MiniMax H3 提供 Day 0 首发支持，锐炫 Pro B70 完成适配。团队实现基于多卡 GPU 的部署方案，采用 Encoder 8 卡张量并行、DiT 8 卡 USP 结合 Layer-wise Offloading 及 VAE 部署于 B70 的整体架构，并开发 2TP×4USP 混合并行方案以平衡计算负载与通信开销，提升推理性能。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日15时25分"
+  },
+  {
+    "id": "cmscwujpe0px2roeuxrt51fiv",
+    "title": "OpenCode Go 上线 Qwen3.8 Max",
+    "url": "https://x.com/opencode/status/2084178151731610071",
+    "summary": "Qwen3.8 Max 现已可在 OpenCode Go 中使用。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月3日15时22分"
+  },
+  {
+    "id": "cmscwujd20pwuroeuztvir11v",
+    "title": "别当\"肉代理\"：如何正确使用 AI 输出",
+    "url": "https://gruhn.me/blog/2026-08-03",
+    "summary": "作者呼吁用户不要直接转发 AI 的原始回复，而应阅读、理解并验证后再用自己的话表达。直接转发 AI 输出不仅增加阅读负担，还常包含看似合理但错误的内容。作者建议，尤其在代码审查中，应避免仅作为\"肉代理\"传递信息，而应主动参与并贡献价值。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月3日15时20分"
+  },
+  {
+    "id": "cmscvs79h0ov7roeuxlfak1b0",
+    "title": "PixVerse Live 8月6日回归：Agent与Canvas协作演示",
+    "url": "https://x.com/PixVerse_/status/2084171855427166674",
+    "summary": "PixVerse Live 将于 8 月 6 日回归。🎬 获取 PixVerse 平台的操作演示，然后了解 PixVerse Agent 和 Canvas 如何协同工作，将视频从首个提示词推进到成片。设有问答环节，无需任何经验。🤖⚡ 🎁 全程参与即有机会赢取 5，000 PixVerse 积分。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月3日14时57分"
+  },
+  {
+    "id": "cmscttmcc0mqxroeu64hu5kgv",
+    "title": "IBM：AI 攻击已占恶意数据泄露事件 1/4，单起损失 600 万美元",
+    "url": "https://www.ithome.com/0/984/992.htm",
+    "summary": "IBM 与 Ponemon 研究所调查显示，AI 驱动的攻击已占恶意数据泄露事件的 1/4，比例同比增长 56%，单起平均损失 600 万美元，较整体均值高出 20%。62% 的此类攻击以关键基础设施为目标，金融服务和能源机构受害最集中。另有超 20% 企业曾遭遇针对 AI 模型或应用系统的入侵，常见诱因是周边系统薄弱和云平台配置不当。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日14时4分"
+  },
+  {
+    "id": "cmscvytj80owsroeugh79h0r3",
+    "title": "韩国国家 AI 计算中心动工，目标 2028 年建成",
+    "url": "https://www.ithome.com/0/985/004.htm",
+    "summary": "韩国国家 AI 计算中心（KOACC）今日在全罗南道海南郡破土动工，总投资 2.5 万亿韩元（约合 118.38 亿元人民币），目标 2028 年建成投运。该项目由三星 SDS 联合 NAVER Cloud、三星电子、Kakao、KT 等组成 KOACC 联盟，三星 SDS 持股 30% 为最大股东。建成后将面向全球提供 AI 计算设施，并设立研发区域为韩国产 NPU 提供验证环境。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日14时44分"
+  },
+  {
+    "id": "cmscvytj80owtroeu0tmip6n5",
+    "title": "消息称蚂蚁灵波启动首轮融资，拟募资 15 亿元",
+    "url": "https://www.ithome.com/0/985/003.htm",
+    "summary": "蚂蚁集团旗下具身智能公司灵波科技已启动首轮融资，拟募资 15 亿元，目标今年年底完成二轮融资。该公司于 2025 年 3 月在上海浦东落地，专注具身智能基础大模型研发。7 月初其刚发布 LingBot 系列模型 2.0 版本，涵盖空间视觉、具身基座、世界模型及开源视频生成等多项模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日14时44分"
+  },
+  {
+    "id": "cmscvytj80owuroeujd6im0n5",
+    "title": "沐曦曦云 C 系列 GPU 实现 Day 0 适配 MiniMax H3 多模态生成模型",
+    "url": "https://www.ithome.com/0/984/998.htm",
+    "summary": "沐曦股份宣布旗下曦云 C 系列 GPU 完成对稀宇 MiniMax H3 多模态生成模型的 Day 0 适配。依托全栈自研 MXMACA 软件栈，用户可快速部署该模型并调用其多模态创作能力。MXMACA 原生兼容 PyTorch、TensorFlow、vLLM 与 SGLang 等 40 余种主流 AI 框架，支持 500+ AI 模型稳定运行。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日14时35分"
+  },
+  {
+    "id": "cmscvs3nh0otdroeusr9egb73",
+    "title": "Qwen3.8-Max 登顶 Vision Arena 第二",
+    "url": "https://x.com/Alibaba_Qwen/status/2084165441254285561",
+    "summary": "感谢！现在让我们透过 Qwen3.8 的眼睛看世界。🥳",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月3日14时32分"
+  },
+  {
+    "id": "cmscupkck0nleroeucd6euplb",
+    "title": "黄仁勋：企业核心在于专精智能",
+    "url": "https://x.com/rohanpaul_ai/status/2084165115864338824",
+    "summary": "\"每家公司都建立在某种专业化的智能基础之上。我们并非样样精通，但在某一件事上极为出色。这种专精，即贵公司的智能，正是你的立身之本。\"\n\n--NVIDIA CEO 黄仁勋",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月3日14时31分"
+  },
+  {
+    "id": "cmscuphe70njuroeuqno2jvcx",
+    "title": "Qwen3.8-Max 登顶前端代码榜第四",
+    "url": "https://x.com/Alibaba_Qwen/status/2084161181321982200",
+    "summary": "通义千问 Qwen3.8-Max 在 Frontend Code Arena 排行榜以 1，668 分位列第四，仅次于 Claude Opus 5（Max）的 1，705 分和 Kimi K3（Max）的 1，676 分，与 Claude Opus 5（High）的 1，669 分持平。该模型在消费产品、品牌营销、游戏等多个领域均排名靠前。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月3日14时15分"
+  },
+  {
+    "id": "cmscvytj80owxroeu8sx9kh3v",
+    "title": "文远知行与 GreenMobility 合作，在丹麦推出该国首个商业化 Robotaxi 项目",
+    "url": "https://www.ithome.com/0/984/994.htm",
+    "summary": "文远知行与丹麦共享电动车平台 GreenMobility 达成战略合作，共同打造丹麦首个商业化自动驾驶共享出行项目，这也是文远知行首次进入北欧市场。在获得监管批准的前提下，双方计划于 2027 年上半年推出面向公众的 L4 级 Robotaxi GXR 服务。丹麦是文远知行进入的第六个欧洲国家，其全球业务已拓展至 13 个国家、40 余座城市。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日14时12分"
+  },
+  {
+    "id": "cmsctn15v0mp8roeuyn4bsthv",
+    "title": "Grok Build v0.2.119 发布：增强 Auto 模式与 Bash 权限",
+    "url": "https://x.com/elonmusk/status/2084156097405849727",
+    "summary": "xAI 发布 Grok Build v0.2.119，扩展 Auto 模式自动批准范围，并允许开发者用自由格式 glob 模式编辑 Bash 命令的\"始终允许\"权限。长回复新增可点击箭头跳回开头，/btw 侧问复用父会话缓存前缀以加速响应，同时修复多项连接与界面问题。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月3日13时55分"
+  },
+  {
+    "id": "cmsctn1340mp6roeu169iqzox",
+    "title": "PixVerse Canvas素材创作分享",
+    "url": "https://x.com/PixVerse_/status/2084155324953710720",
+    "summary": "😍😍😍\n\n参考PixVerse官方公开的Canvas素材制作了这个作品🐶 评论区附上了Canvas的图片和提示词。\n\n#PixVerse #PixVerseCPP",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月3日13时52分"
+  },
+  {
+    "id": "cmsctmz2t0mo5roeua1iamhwb",
+    "title": "Fable 5 用图片喂上下文，成本大降",
+    "url": "https://x.com/rohanpaul_ai/status/2084153994541465669",
+    "summary": "开发者发现用图片替代文本可降低 Fable 5 大上下文成本：pxpipe 将密集文本渲染为 PNG 图片块，一张 1928×1928 图片约 4，761 vision tokens，可容纳约 92K 字符。但这是视觉压缩而非无损存储，模型可能误读精确 ID、哈希或字符串，适合背景上下文，不适合字节级精确事实。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月3日13时46分"
+  },
+  {
+    "id": "cmsctmqpk0mk3roeutqgog974",
+    "title": "OpenAI 超级政治行动委员会被曝资助 AI 生成新闻网站，攻击行业批评者",
+    "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+    "summary": "一个伪装成记者的机器人发出的采访请求，暴露了一个由 AI 生成、专门攻击 AI 行业批评者的新闻网站。这是本月第二次发现该网站与 Targeted Victory 存在关联，后者正是 OpenAI 1.25 亿美元政治行动的核心运营方。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月3日13时44分"
+  },
+  {
+    "id": "cmsctmkjm0mjbroeu2jt4895u",
+    "title": "AI越会做数学，数学家越值钱",
+    "url": "https://x.com/AYi_AInotes/status/2084147085318791635",
+    "summary": "Anthropic Claude Code团队@trq212指出，数学领域已出现杰文斯悖论：AI让证明和计算变得极快，反而让真正懂数学的人需求更大。这与国际象棋被AI碾压后棋界进入黄金时代如出一辙，AI越强，数学家的价值越高。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月3日13时19分"
+  },
+  {
+    "id": "cmscttmcd0mr0roeu9rox3sak",
+    "title": "摩尔线程 Day-0 适配 MiniMax H3 多模态生成模型",
+    "url": "https://www.ithome.com/0/984/981.htm",
+    "summary": "MiniMax 今日开源多模态生成模型 H3，支持文本、图片、音频和视频多元输入，可直出 2K 分辨率、最长 15 秒原生音画内容，视频生成价格低至 0.8 元/秒。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日13时19分"
+  },
+  {
     "id": "cmscraq3z0k3droeua5wfccgx",
     "title": "年度大戏，宇树破发。",
     "url": "https://x.com/chunxiangai/status/2084129405320994895",
     "summary": "年度大戏，宇树破发。",
     "source": "X：赵纯想 (@chunxiangai)",
     "date": "2026年8月3日12时9分"
+  },
+  {
+    "id": "cmscrhqp70kcvroeul9lvpsaf",
+    "title": "字节发布视频模型 Dreamina Seedance 2.5",
+    "url": "https://x.com/rohanpaul_ai/status/2084140807263498513",
+    "summary": "字节跳动推出视频模型 Dreamina Seedance 2.5，单片段最多支持 50 个参考文件，可一次生成 30 秒连续视频，前 7 天仅在 Dreamina 平台运行。该模型支持同时输入 30 张图像、10 段视频和 10 段音频，并允许在提示词中使用时间戳（如 【0s-5s】）作为分镜脚本。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月3日12时54分"
+  },
+  {
+    "id": "cmscrogae0kfjroeuwscelozt",
+    "title": "AI 安全行业陷入人才短缺困境，年薪 50 万美元也招不到人",
+    "url": "https://www.ithome.com/0/984/977.htm",
+    "summary": "前 OpenAI 研究员 Beth Barnes 创办的非营利组织 METR 表示，AI 安全研究面临的最大瓶颈不是资金而是人才，即便招聘岗位年薪最高达 50.3 万美元（约合 340 万元人民币）仍难以解决短缺问题。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日12时31分"
   },
   {
     "id": "cmscqgi670j2troeuon8xv02r",
