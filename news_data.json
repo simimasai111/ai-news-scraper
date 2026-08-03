@@ -400,6 +400,238 @@
     "date": "2026年8月3日1时0分"
   },
   {
+    "id": "cmsd5fjjk115zroeu543otfjc",
+    "title": "Hailuo 3 在 PixVerse 上获评测好评",
+    "url": "https://x.com/PixVerse_/status/2084240613730349354",
+    "summary": "评测者实测 PixVerse 上的 MiniMax Hailuo 3（MiniMax H3），称其能生成其他模型易受限的镜头，且保持电影级连贯效果。该模型支持 2K 分辨率下最长 15 秒片段、单次生成最多 9 张参考图、风格参考控制、内置口型同步及多语种支持，并具备较强的物理理解与提示词遵循能力。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月3日19时31分"
+  },
+  {
+    "id": "cmsd5fc83113droeux83ka2b4",
+    "title": "GLM-5.3 将至，中美 AI 差距缩小",
+    "url": "https://x.com/kimmonismus/status/2084240554225770535",
+    "summary": "GLM-5.3 似乎很快就要发布了。\n\nOpenAI，尤其是 Anthropic，是时候加紧行动、巩固领先地位了。\n\n中国近来在 Kimi k3、Qwen 3.8、DeepSeek 4 Flash（非常出色！）和 Minimax h3 上取得了惊人的进展。差距正在缩小。\n\n美国没有时间，也承受不起放慢脚步。否则只会自取灭亡。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月3日19时30分"
+  },
+  {
+    "id": "cmsd4jigb102qroeuoxdyjp61",
+    "title": "ChatGPT Atlas 浏览器将于 8 月 9 日停止服务，用户需抓紧导出书签数据",
+    "url": "https://www.ithome.com/0/985/191.htm",
+    "summary": "OpenAI 旗下 ChatGPT Atlas 浏览器将于 8 月 9 日停止服务，不再有功能和安全更新。该浏览器于 2025 年 10 月 21 日登陆 macOS，上线不到 10 个月。官方称数据不会自动迁移，用户需将书签、历史记录导出为 HTML 文件导入其他浏览器，且 Cookies 无法导出需重新登录。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日18时7分"
+  },
+  {
+    "id": "cmsd4jiga102iroeuv4py1awe",
+    "title": "小米通报：两网友用 AI 生成虚假车祸视频抹黑小米汽车，被行政拘留 7 日、行政罚款",
+    "url": "https://www.ithome.com/0/985/202.htm",
+    "summary": "小米通报，网友\"旧 ** 口\"长期用 AI 生成虚假车祸视频抹黑小米汽车产品商誉、侮辱高管，被行政拘留 7 日并删除所有侵权链接；网友\"花 ** 车\"同类行为被行政罚款并删除侵权链接。小米感谢公安机关秉公执法，称将坚决用法律武器打击 AI 造谣。小米集团公关部总经理徐洁云回应称\"AI 是好技术，但别用错地方\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日18时51分"
+  },
+  {
+    "id": "cmsd4csat0zvmroeuvwzfsgbi",
+    "title": "两个团队用 GPT-5.6 相隔三小时解决同一量子密码学难题",
+    "url": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart",
+    "summary": "两个独立研究团队分别使用 OpenAI 的 GPT-5.6 Sol Ultra，在相隔仅三小时的时间内解决了同一开放量子密码学问题，并先后将论文提交至 arXiv.org。双方采用了不同方法处理\"不可克隆加密\"，目前正考虑合并论文。该案例引发思考：当所有研究者都能使用相同模型时，独立发现的标准将如何界定。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月3日18时49分"
+  },
+  {
+    "id": "cmsd4jigb102jroeu4v0iy7fv",
+    "title": "京东首次在校招流程中引入 AI 面试，面向 2027 届毕业生开启网申",
+    "url": "https://www.ithome.com/0/985/200.htm",
+    "summary": "京东今天宣布开启 2027 年度校招，面向 2027 届本科、硕博研究生毕业生，岗位覆盖采销、物流、技术、产品、运营等方向。与往年不同，京东今年首次在招聘流程中引入 AI 面试，通过简历筛选的毕业生收到测评通知后，部分岗位需进行 AI 面试或在线笔试，通过后发放录用函。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日18时49分"
+  },
+  {
+    "id": "cmsd4cr2l0zv1roeup7rgajfi",
+    "title": "MiniMax 发布 33B 视频模型 H3，可生成同步立体声音频并适配 RTX 5090",
+    "url": "https://x.com/kimmonismus/status/2084229681012711598",
+    "summary": "MiniMax 发布 33B 视频模型 H3，可生成同步立体声音频，支持文本、图像、视频和音频多模态生成与编辑，片段最长 15 秒。ComfyUI 优化栈约 40GB，通过动态 RAM/SSD 卸载适配消费级显卡，RTX 5090 上生成 5 秒 768p 视频约需 5.5 分钟。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月3日18时47分"
+  },
+  {
+    "id": "cmsd4jigb102lroeunmvnq7g8",
+    "title": "智元回应\"首席科学家罗剑岚离职\"：暂未离职，内部岗位调整",
+    "url": "https://www.ithome.com/0/985/198.htm",
+    "summary": "智元机器人回应称，首席科学家罗剑岚暂未离职，系内部岗位调整。智元官网今日更新合伙人名单，合伙人由2025年的七人增至九人（新增熊彦、朱洁、张修征），罗剑岚已不在其中。罗剑岚博士毕业于加州大学伯克利分校，曾在Google X、谷歌DeepMind从事研究，去年4月加入智元并牵头组建\"智元具身智能研究中心\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日18时43分"
+  },
+  {
+    "id": "cmsd3ieox0yl4roeutjx4tlyj",
+    "title": "阿里发布Qwen3.8-Max，2.4T参数支持10天自主编码",
+    "url": "https://x.com/testingcatalog/status/2084226168257966445",
+    "summary": "阿里巴巴发布了Qwen3.8-Max，这是一个拥有2.4T参数的新模型，能够运行10天以上的自主编码任务！\n\n开放权重预计将于下周与Qwen3.8-27B版本一同发布。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月3日18时33分"
+  },
+  {
+    "id": "cmsd27tvm0x7lroeuhckhmc8a",
+    "title": "GSK 与 Relation Therapeutics 达成最高 1.1 亿美元合作，扩大 AI 药物发现中的数据布局",
+    "url": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data",
+    "summary": "GSK 与英国生物技术公司 Relation Therapeutics 达成最高 1.1 亿美元的研究合作，扩大双方在 AI 辅助药物发现领域的现有工作。根据协议，Relation 将生成大规模数据集，测量人类细胞对基因变化和药物干预的反应，这些数据将用于训练 AI 模型。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月3日18时0分"
+  },
+  {
+    "id": "cmsd27kjg0x4vroeuep1pq98s",
+    "title": "前端设计前三甲：Kimi、Qwen、Claude 并列",
+    "url": "https://x.com/kimmonismus/status/2084215318990229972",
+    "summary": "前端设计排行榜前三名现由两家中国模型和一家西方模型包揽：Moonshots Kimi、阿里 Qwen 和 Anthropic Claude。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月3日17时50分"
+  },
+  {
+    "id": "cmsd2eb6o0x9vroeujb4a14jn",
+    "title": "月之暗面回应\"最早本月内提交香港 IPO 申请\"传闻：消息不实",
+    "url": "https://www.ithome.com/0/985/169.htm",
+    "summary": "月之暗面回应称，计划最早于本月内提交香港 IPO 申请、或募资约 30 亿美元的报道消息不实。该公司近日已完成超 35 亿美元 F 轮融资，投后估值涨至 350 亿美元，因认购金额超出原定目标 3 倍有余而提前关闭。月之暗面 7 月 29 日完成工商变更，变更为股份有限公司，并新增张予彤为董事、宋思嘉为财务负责人。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日17时47分"
+  },
+  {
+    "id": "cmsd2eb6o0x9xroeul31uqxuv",
+    "title": "谷歌 Gemini Notebook 新功能曝光：可将学习笔记变为互动游戏",
+    "url": "https://www.ithome.com/0/985/152.htm",
+    "summary": "谷歌正在为 AI 笔记应用 Gemini Notebook（前 NotebookLM）开发新功能，未来将允许用户创建互动应用、游戏及视觉辅助工具，以提升学习效率。目前其\"工作室\"板块已存在\"App\"菜单，包含音频概览、信息图表、思维导图及闪卡（Flashcards）等功能。所有生成内容将被限制在特定笔记本内，与其他笔记本隔离。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日17时37分"
+  },
+  {
+    "id": "cmsd27kfe0x4troeu19vzfj0p",
+    "title": "中国风投回暖：AI与机器人重燃信心",
+    "url": "https://x.com/thexpin/status/2084211130076209198",
+    "summary": "中国风投市场经历三年低迷后现复苏迹象，至少60只新美元基金正寻求募资约350亿美元，红杉中国（HSG）、IDG资本等机构筹备新基金。投资者将中国AI视为对冲美国科技风险的工具，看好DeepSeek、月之暗面等公司的低成本与快速进展。但业内称这仅是选择性重启，并非全面风投繁荣。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月3日17时33分"
+  },
+  {
+    "id": "cmsd27l990x55roeuotc7gpe8",
+    "title": "Qwen3.8-Max上线Command Code Go并即将开源",
+    "url": "https://x.com/Alibaba_Qwen/status/2084210646737100983",
+    "summary": "Live in Command Code！🎉\n\nQwen 3.8 Max 现已上线 Command Code Go。\n\n……而且它将开放权重！！\n\n最重要的是，下周 Qwen3.8-Max 和 Qwen3.8-27B 的开放权重版本将发布！\n\n🔹 2.4T 参数 MoE 旗舰模型\n🔹 输入：$2 输出：$6\n🔹 缓存：$0.25 / M tokens\n\n3.8 比 3.7 便宜 20%",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月3日17时31分"
+  },
+  {
+    "id": "cmsd150ba0vjuroeucg907wnd",
+    "title": "通义千问 Qwen3.8 Max 上线 OpenCode Go",
+    "url": "https://x.com/Alibaba_Qwen/status/2084210175838470430",
+    "summary": "出发！🚀\n\nQwen3.8 Max 现已登陆 OpenCode Go。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月3日17时30分"
+  },
+  {
+    "id": "cmsd279kb0x1vroeurj1sf9nc",
+    "title": "Qwen3.8-Max 发布：16天无人干预自主开发",
+    "url": "https://x.com/AYi_AInotes/status/2084209808245133687",
+    "summary": "阿里发布 Qwen3.8-Max，主打 Autonomous Coding 和 Cowork，官方展示案例中模型从空文件夹起连续16天自主完成写码、commit、提PR、修bug，全程无人干预，最终做出自进化 Agent 系统 oh-my-cli。该模型支持 1M 上下文、2.4T MoE 参数，并具备多模态规划执行自查能力；正式版一周后开源，届时连 27B 版本一并放出。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月3日17时28分"
+  },
+  {
+    "id": "cmsd14zou0vjgroeuaob2w3d6",
+    "title": "阿里下周发布开源权重模型 Qwen3.8-27b",
+    "url": "https://x.com/kimmonismus/status/2084209750477029447",
+    "summary": "阿里将于下周发布开源权重模型 Qwen3.8-27b。此前发布的 Qwen3.8-Max（2.4T 参数 MoE）以 $2/$6 每百万 token 的输入/输出价格，较 GPT-5.6 Sol（$5/$30）和 Claude Fable 5（$10/$50）成本大幅降低，并自主运行 16 天完成 265 次提交、127 个 PR 和 151 个 issue。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月3日17时28分"
+  },
+  {
+    "id": "cmsd156n30vmuroeud1rdlkgr",
+    "title": "fofr 发布 Meanwhile 新作",
+    "url": "https://x.com/fofrAI/status/2084209114943459517",
+    "summary": "与此同时",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月3日17时25分"
+  },
+  {
+    "id": "cmsd094cm0uagroeu41ld379u",
+    "title": "讯飞 AI 眼镜图赏：轻盈舒适，凝练商务风",
+    "url": "https://www.ithome.com/0/985/129.htm",
+    "summary": "科大讯飞于今年 5 月在澳门 BEYOND Expo 2026 发布其首款 AI 眼镜，定位为眼前的超级 AI 助理，主打翻译场景。该眼镜采用经典眼镜形态，机身重 40g（IT之家测得 41g），配备 1200 万像素摄像头、5 颗气导麦克风加 1 颗骨传导麦克风及讯飞多模态 AI 降噪系统，支持近视 600 度以内和散光 200 度以内配镜。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日17时1分"
+  },
+  {
+    "id": "cmsd2eb6p0xa1roeu0vfso261",
+    "title": "TrendForce 预测：全球九大云服务供应商今年资本支出增长 90%",
+    "url": "https://www.ithome.com/0/985/134.htm",
+    "summary": "TrendForce 预计 Alphabet、亚马逊、Meta、微软、Oracle 及阿里巴巴、百度、字节跳动、腾讯今年总体资本支出将突破 8867 亿美元，同比增长 90%；2027 年预计进一步增长 49% 至 1.32 万亿美元。该机构同时将 2026 年 AI 服务器出货量增幅预期上调至 31%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日17时16分"
+  },
+  {
+    "id": "cmsd156tg0vmwroeug8993nkx",
+    "title": "MiniCPM-o 4.5 变身纯本地桌面 AI 助手",
+    "url": "https://x.com/OpenBMB/status/2084206680481656998",
+    "summary": "面壁智能开源模型 MiniCPM-o 4.5 被开发者 LYi 打造成纯本地桌面 AI 助手，可看、可听、自然对话，用于学习、解题或日常聊天。该项目展示了开源多模态模型结合工程化后，无需联网即可成为桌面伴侣的可能性。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月3日17时16分"
+  },
+  {
+    "id": "cmsd2eb6p0xa3roeuq31h9xbc",
+    "title": "讯飞 AI 眼镜体验：翻译成熟完善，AI 助理近在眼前",
+    "url": "https://www.ithome.com/0/985/131.htm",
+    "summary": "科大讯飞发布首款AI眼镜，主打翻译场景，支持旁听同传、面对面翻译等四大模式，覆盖122种语言，依托5+1麦克风阵列可清晰捕捉8-10米内声音，翻译延迟约1秒。眼镜重40g，搭载1200万像素摄像头，支持视觉翻译，并可调用桌面助手Loomy完成总结、存档等任务。售价4299元，续航可支撑一个白天高强度使用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日17时10分"
+  },
+  {
+    "id": "cmsd094cn0uatroeua3j9m6hg",
+    "title": "AI 大模型周榜：阿里千问 3.8-Max 空降综合前五，字节即梦 5.0 生图第六",
+    "url": "https://www.ithome.com/0/985/081.htm",
+    "summary": "Arena 发布 2026 年第 31 周 AI 大模型排行榜，阿里 qwen3.8-max 以 1496 分空降综合榜第 5 名，成为排名最高的国产模型，仅比榜首 claude-fable-5（1509 分）低 13 分。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日16时8分"
+  },
+  {
+    "id": "cmsd094cm0uakroeuaa9oqb2u",
+    "title": "美国四大科技巨头自2023年已在AI领域投入1.1万亿美元",
+    "url": "https://www.ithome.com/0/985/114.htm",
+    "summary": "谷歌、亚马逊、微软和Meta自2023年AI热潮以来已投入1.1万亿美元（约合7.44万亿元人民币），主要用于数据中心、芯片和电力基础设施。今年四家公司7450亿美元资本将用于AI基建，支出暂无放缓迹象。投资成败取决于OpenAI、Anthropic等实验室能否持续获得资本输血，而苹果因未积极参与AI大战，未来可能面临销量下降和利润率降低。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日16时52分"
+  },
+  {
+    "id": "cmsczxoo90u16roeuw8yhu8sn",
+    "title": "OpenAI 用 Codex 一键改进服务 10 亿用户",
+    "url": "https://x.com/thsottiaux/status/2084196918071357707",
+    "summary": "OpenAI 疯狂之处在于，你只需打开笔记本电脑，用 Codex 生成一个 PR，就能向 10 亿用户推送一项改进。就这么简单。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月3日16时37分"
+  },
+  {
+    "id": "cmsczveos0tx7roeuo4858i7s",
+    "title": "传统的面试流程应当终结。改成命题作文 vibecoding，不检查结果，只检查提示词。yc 就是这么干的。",
+    "url": "https://x.com/chunxiangai/status/2084194644821463274",
+    "summary": "传统的面试流程应当终结。改成命题作文 vibecoding，不检查结果，只检查提示词。yc 就是这么干的。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月3日16时28分"
+  },
+  {
+    "id": "cmsd023dg0u3croeu9vq4urto",
+    "title": "DeepSeek V4 单任务成本仅为 Anthropic 旗舰 1/105",
+    "url": "https://x.com/AYi_AInotes/status/2084194345448550519",
+    "summary": "DeepSeek V4 完成同一完整 Agent 任务仅需 3 美分，而 Anthropic 最好的 Fable 5 需 3.15 美元，成本相差 105 倍。V4 Flash 0731 为 284B 总参数、13B 激活的 MoE 架构，支持 1M 上下文，靠后训练将 Agent 能力提升 7 倍。分析认为，可用级智能成本已降至可忽略不计，将催生大规模长程 Agent 应用，并迫使闭源厂商降价。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月3日16时27分"
+  },
+  {
+    "id": "cmscyzunq0so8roeu887l6nov",
+    "title": "阿里 Qwen3.8 宣传片公开叫板美国芯片封锁",
+    "url": "https://x.com/kimmonismus/status/2084191401965666669",
+    "summary": "阿里巴巴 Qwen3.8 发布视频公开挑战美国，展示模型在国产新芯片上连续工作 12 小时，强调中国已具备自主算力与顶尖智能。视频中蛋白质画面暗指 AlphaFold，表明中国不再受制于美国。若美国放缓 AI 模型研发节奏，将正中中国下怀。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月3日16时15分"
+  },
+  {
     "id": "cmscxx8x40rg2roeuso9afcwe",
     "title": "阿里发布Qwen3.8-Max：2.4T参数MoE模型，自主运行16天",
     "url": "https://x.com/kimmonismus/status/2084187108520972471",
