@@ -1,5 +1,85 @@
 [
   {
+    "id": "cmsdt377d00yirojf8x7gkip5",
+    "title": "用稳健数据加载与自动评判评估多模态视觉模型：Moonshot PerceptionBench 端到端评测流程",
+    "url": "https://www.marktechpost.com/2026/08/03/evaluating-multimodal-vision-models-with-moonshot-perceptionbench-using-robust-data-loading-and-automated-judging",
+    "summary": "本文构建了一套 PerceptionBench 多模态基准的端到端评测流程，覆盖 OCR、计数、定位、上下文推理、比较、深度理解与幻觉检测等细粒度视觉感知任务。流程采用多阶段流式与下载策略加载平衡子集，支持盲基线、OpenAI 兼容多模态 API 及本地 Hugging Face 视觉语言模型，并实现基于规则与可选 LLM 辅助评判、bootstrap 置信区间及能力画像对比。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月4日6时26分"
+  },
+  {
+    "id": "cmsdt5gom0130rojfwd72clkl",
+    "title": "GPT-Live实时音频新架构发布",
+    "url": "https://x.com/gdb/status/2084405421041963356",
+    "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月4日6时25分"
+  },
+  {
+    "id": "cmsdt2pn700t7rojfx1qpgr3a",
+    "title": "更小、更快、更安全：Cloudflare 如何在 Workers AI 上大规模运行 Kimi 和 GLM",
+    "url": "https://blog.cloudflare.com/smaller-faster-safer-models",
+    "summary": "Cloudflare 在 Workers AI 上通过量化 KV 缓存、压缩模型权重和缓存完整性检查三项技术，将 Kimi K2.6 和 GLM 5.2 等长上下文 MoE 模型高效部署于 GPU。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日6时16分"
+  },
+  {
+    "id": "cmsdt39qy010qrojfi9rwdgqw",
+    "title": "美国公司AI让乌克兰廉价自杀式无人机自主追踪目标",
+    "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks",
+    "summary": "乌克兰军方7月中旬开始接收SkyFall公司制造的Shrike无人机，搭载美国Auterion公司开发的AI自主追踪硬件和软件。操作员可手动将FPV无人机飞入战场，在约半英里范围内指定目标后切换至\"发射后不管\"终端制导模式。两家公司计划未来数月交付5万架配备Auterion Skynode S打击套件的无人机。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月4日6时11分"
+  },
+  {
+    "id": "cmsdt2pn700t8rojfgw9wyhyb",
+    "title": "领域专业知识是使用 LLM 的关键技能",
+    "url": "https://www.seangoedecke.com/llms-reward-expertise",
+    "summary": "与普遍认知相反，使用 LLM 的核心技能并非提示词技巧，而是对目标领域的专业知识。以陶哲轩与 ChatGPT 讨论雅可比猜想反例为例，其简短、精准的提问和纠错能力源于深厚的数学理解，而非通用提示策略。具备领域知识的人能更有效地引导模型，从同一模型中获取远超新手的价值。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日6时0分"
+  },
+  {
+    "id": "cmsds08dl002wrojf6l5ljvfo",
+    "title": "Replit 推出简易提示设计功能",
+    "url": "https://x.com/Replit/status/2084398966402113821",
+    "summary": "提示 Replit Design，轻松搞定 🎨\n\n开放讨论串 🧵",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月4日6时0分"
+  },
+  {
+    "id": "cmsds0dd4004mrojfolhu4sy8",
+    "title": "Opus 5 口碑崩盘，Anthropic 承压",
+    "url": "https://x.com/kimmonismus/status/2084395116433702979",
+    "summary": "Anthropic 正面临舆论压力，Opus 5 发布后普遍不受好评。用户反映该模型越用越差，易偏离指令、遗忘任务且受护栏干扰，并认为 GPT-5.6 明显更优。自 Opus 4.6 以来，后续 Opus 模型质量持续下滑，Sonnet 5 发布亦不佳。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月4日5时44分"
+  },
+  {
+    "id": "cmsds0h9q006irojfsmd9fdec",
+    "title": "Kimi K3 架构解析：压缩记忆与深度注意力",
+    "url": "https://x.com/SemiAnalysis_/status/2084394819145674794",
+    "summary": "Kimi K3，传奇般的存在。Kimi K3 的架构：压缩记忆、跨深度注意力、潜在专家路由，以及服务性能。\n\nhttps://newsletter.semianalysis.com/p/kimi-k3-the-manos-the-mythos-the",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月4日5时43分"
+  },
+  {
+    "id": "cmsds0az0003irojfjh7f7vh2",
+    "title": "微软研究：小模型谈判与非洲语言评测新进展",
+    "url": "https://x.com/MSFTResearch/status/2084392759335534939",
+    "summary": "小型语言模型借助 SocialRL 学会谈判，PazaBench V2 将语音 AI 评测扩展至非洲多语言，EvoLib 帮助智能体将经验转化为知识。另有：更可靠的 A/B 测试新方法，以及 AI 驱动的精准肿瘤学进展。https://msft.it/6012a8hjI",
+    "source": "X：Microsoft Research (@MSFTResearch)",
+    "date": "2026年8月4日5时35分"
+  },
+  {
+    "id": "cmsdr4jpp00qoromah44h6skt",
+    "title": "Atomic 发布 DeepSeek V4 Flash 14 种量化版本",
+    "url": "https://x.com/testingcatalog/status/2084391415103058394",
+    "summary": "Atomic 在 Hugging Face 发布 DeepSeek V4 Flash 0731 的 14 种量化版本，覆盖无损 BF16 到 1-bit。该模型为 284B 参数 MoE，采用量化感知训练，官方检查点以 MXFP4 存储路由专家。其中 AD-IQ2_M 最适合 128GB 硬件，token 匹配率达 83.6%。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月4日5时30分"
+  },
+  {
     "id": "cmsdqx6i700fmromarn7rtqy5",
     "title": "人工智能生产力差距：为何 AI 未能让开发者效率翻倍",
     "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap",
