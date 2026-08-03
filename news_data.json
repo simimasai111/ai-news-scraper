@@ -1,5 +1,341 @@
 [
   {
+    "id": "cmsdkgniu00hxro0oia1zfnbg",
+    "title": "Locus 自动后训练 Qwen3 超越官方 Instruct 版",
+    "url": "https://x.com/omarsar0/status/2084340684316700773",
+    "summary": "Locus 自动研究系统对 Qwen3 基础模型进行后训练，性能超越官方人工调优的 Qwen3 1.7B Instruct 版本，并在 PostTrainBench 上达到 SOTA。在扩展算力预算的 PostTrainBench+ 测试中，Locus 扩展性最佳，其训练模型整体超越人工后训练的 Qwen3 1.7B。此外，Locus 在 Kaggle 实时竞赛中 16 天取得平均排名第 4。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月4日2时8分"
+  },
+  {
+    "id": "cmsdkgtbv00inro0ov4av2zu9",
+    "title": "Replit 设计马拉松 8/4 开启",
+    "url": "https://x.com/Replit/status/2084339559769190807",
+    "summary": "面向开发者的重磅消息明天发布。👀\n\n大胆的设计。真实的奖品。一周时间证明任何人都能打造出杰出的作品。\n\nReplit 设计马拉松将于 8/4 开启--我们将在太平洋时间上午 9 点进行直播启动。\n\n预留席位：https://luma.com/70wipkmf",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月4日2时4分"
+  },
+  {
+    "id": "cmsdkakqf00euro0o9vvnavb8",
+    "title": "The Best AI Agent Builder Is Trapped Inside Microsoft",
+    "url": "https://every.to/also-true-for-humans/the-best-ai-agent-builder-is-trapped-inside-microsoft",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月4日2时27分"
+  },
+  {
+    "id": "cmsdkggsh00hhro0ocn7owihi",
+    "title": "插电式太阳能即将到来，插电式电池也应紧随其后",
+    "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
+    "summary": "英国智库Regen发文呼吁，在政府已宣布将放开插电式太阳能面板后，应进一步允许独立插电式电池上市。这类电池无需专业安装，插入标准插座即可在低谷电价时充电、高峰时放电，可为租户、公寓住户和低收入家庭每年节省电费，10年最高可省约2，400英镑，并有望降低总成本30-34%。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日2时16分"
+  },
+  {
+    "id": "cmsdkh5by00mpro0osae5nbvw",
+    "title": "Gabriel 反思过度押注 AI 推理增长",
+    "url": "https://x.com/gabriel1/status/2084342443798143294",
+    "summary": "我需要停止把 80% 的钱投入股票，假设推理增长 100 倍。每天早上醒来都感觉像在玩老虎机。\n\n而且这还不包括 OpenAI 的股票，所以我甚至不知道为什么还要在 AI 上投入更多。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月4日2时15分"
+  },
+  {
+    "id": "cmsdjd5r003mvrocaxuxefp77",
+    "title": "Chamath：AI 智能体正让\"10x 工程师\"优势消失",
+    "url": "https://x.com/rohanpaul_ai/status/2084336983707685108",
+    "summary": "Chamath 在 All-In 播客中称，AI 智能体正让\"10x 工程师\"的区分度消失，因为最高效的\"代码路径\"对所有人变得显而易见。他认为开发者不再拥有\"更好的判断力\"，AI 将编码过程简化，如同 AI 破解国际象棋一样，消除了技术差异化，让每个人都能成为 10x 工程师。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日1时53分"
+  },
+  {
+    "id": "cmsdjl9lv03r1rocaz06h7qk7",
+    "title": "Google 生态助力 Gemini 黑客松应用构建",
+    "url": "https://x.com/googleaidevs/status/2084336209208426719",
+    "summary": "规划好你的想法之后，就该开始构建了。🏗️\n\n这段视频展示了如何利用 Google 生态系统，为 Build with Gemini @XPrize 黑客松无缝构建和部署 AI 原生应用。该黑客松将持续至 8 月 17 日。",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "date": "2026年8月4日1时50分"
+  },
+  {
+    "id": "cmsdhg3fu01z2roca9onwst0p",
+    "title": "Kimi K3 登顶 Databricks 推理速度榜",
+    "url": "https://x.com/Yuchenj_UW/status/2084324515719651559",
+    "summary": "Kimi K3 达到 239 tokens/s！\n\n在 Artificial Analysis 上，Databricks 现已成为 Kimi K3 推理速度和延迟的第一名。\n\n这是一个庞大的 2.8T 参数模型，也是我们服务过的最大开源模型。我们确保 GPU 在 Databricks 上全力运转。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月4日1时4分"
+  },
+  {
+    "id": "cmsdjcw5803jdroca5vm77zt1",
+    "title": "德国风能和太阳能发电量首次超过化石燃料",
+    "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379",
+    "summary": "德国风能和太阳能发电量首次超过化石燃料，可再生能源在电力结构中占据主导地位。这一里程碑标志着德国能源转型取得关键进展，风电和光伏装机容量持续增长，推动清洁能源发电占比显著提升。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日1时44分"
+  },
+  {
+    "id": "cmsdiry4z02vxroca2njoo61h",
+    "title": "谷歌开发者博客：用会话感知负载均衡扩展实时 AI 智能体",
+    "url": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing",
+    "summary": "实时 AI 智能体依赖长连接、有状态的双向流，打破了传统请求-响应式负载均衡范式。开发者需在运行时内实现应用级会话跟踪，以准确测量活跃对话的并发工作负载。将精确的会话计数与标准 CPU 利用率指标一同输入混合路由算法，可有效分配有状态的 AI 流量并防止单个后端瓶颈。",
+    "source": "Google Developers Blog（RSS）",
+    "date": "2026年8月4日1时43分"
+  },
+  {
+    "id": "cmsdkgj9m00hnro0ocrleteo0",
+    "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月4日1时38分"
+  },
+  {
+    "id": "cmsdjgkeo03parocar4kjoyo2",
+    "title": "为什么更智能的AI模型可能推高算力价格10倍",
+    "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video",
+    "summary": "更智能的AI模型可能将算力价格推高至当前的10倍。智能提升带来的推理成本增长，将直接传导至算力市场定价。这一趋势源于模型能力与计算资源需求的正向关联，而非单一技术突破。",
+    "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+    "date": "2026年8月4日1时32分"
+  },
+  {
+    "id": "cmsdiafyi02nmroca0uq6gim0",
+    "title": "DeepMind押注递归自我改进，预计2027-28年实现",
+    "url": "https://x.com/kimmonismus/status/2084330455457730624",
+    "summary": "Google 押注 AI 很快将帮助构建更好的 AI：DeepMind 将递归自我改进视为其投资的关键部分，时间约为 2027-2028 年。\n\nDeepMind 战略主管 Jasjeet Sekhon 表示，递归自我改进是\"投资论点中的关键部分\"。他还承认，当前 AI 收入尚不足以支撑资本支出。\n\nGoogle 正在为 AI 研发中可能出现的这一不连续性预建算力。据报道，DeepMind 和 OpenAI 的研究人员将其时间定在 2027-28 年左右。\n\n来源：The Information",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月4日1时28分"
+  },
+  {
+    "id": "cmsdiao9w02q6rocaikh4a0i9",
+    "title": "Omni 新玩法：四角点状动画生成",
+    "url": "https://x.com/fofrAI/status/2084328401511280759",
+    "summary": "仍在寻找 Omni 让我惊叹的新方式\n\nOmni：\n\n> 制作一个有四个角的点状形状，每个角分别位于两根手指和两个拇指上，形状以酷炫方式动画呈现，半透明，内部有动态文字显示\"Omni is cool\"",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月4日1时19分"
+  },
+  {
+    "id": "cmsdiadeb02mirocaggzo1jf9",
+    "title": "Nathan Lambert 西雅图新书发布会邀请",
+    "url": "https://x.com/natolambert/status/2084327965396217952",
+    "summary": "我下周将在西雅图弗里蒙特地区举办一场新书发布会，感谢赞助商 @radixark，我们还有一些额外名额。\n\n如果你在本地且想参加，请简短评论介绍一下你的工作，我稍后会浏览并私信发送链接！",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月4日1时18分"
+  },
+  {
+    "id": "cmsdjcm5w03ijrocabl90ul2x",
+    "title": "Qwen 3.8 性价比碾压 Fable 5",
+    "url": "https://x.com/AYi_AInotes/status/2084327310786724312",
+    "summary": "Qwen 3.8 在 TerminalBench 上以 86.6 分略超 Fable 5 的 84.6 分，价格却仅为后者的零头，性价比差距悬殊。该模型由阿里今日正式发布，能独立用裸 GLSL 实时光追写出物理正确的黑洞渲染，21 个参数可实时调整，零依赖双击即跑，一周后即将开源。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月4日1时15分"
+  },
+  {
+    "id": "cmsdiajtv02oqrocadred3aju",
+    "title": "Grok Build v0.2.120 更新发布",
+    "url": "https://x.com/cb_doge/status/2084327099511222597",
+    "summary": "Grok Build v0.2.120 已上线，SpaceXAI 几乎每日推送新版本。本次修复了模型选择器状态栏同步、变更面板刷新、后台任务日志报告及旧会话 GitHub 导出错误等问题。可通过 `grok update --alpha` 或 `grok update` 命令更新。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月4日1时14分"
+  },
+  {
+    "id": "cmsdiaf1d02n6roca1w4mtays",
+    "title": "阿里新模型 Qwen 3.8 营销视频主打\"工作交给 AI，人类发展爱好\"",
+    "url": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great",
+    "summary": "阿里为 Qwen 3.8 发布营销视频，与 OpenAI、Anthropic 渲染失业威胁的路线不同，视频将移交工作描绘得颇具吸引力：模型干活，人类发展爱好。阿里借此与竞争对手的恐惧式宣传拉开距离。不过目前尚无证据表明 AI 对就业市场或生产率产生重大影响。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月4日1时12分"
+  },
+  {
+    "id": "cmsdh801b01utrocamks1b3zl",
+    "title": "Anthropic/OpenAI 挤压 AI 原生 B2B 低质 SaaS",
+    "url": "https://x.com/SemiAnalysis_/status/2084323485929648209",
+    "summary": "Anthropic/OpenAI 在向他们收取 30 万美元的 token 费用后，正在扼杀 AI 原生的 B2B 低质 SaaS 产品。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月4日1时0分"
+  },
+  {
+    "id": "cmsdg5joy00q0rocasz5iiimg",
+    "title": "欧盟《人工智能法案》第 50 条透明度规则正式生效",
+    "url": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force",
+    "summary": "欧盟《人工智能法案》第 50 条正式生效，为在欧盟运营的 AI 提供商和部署方设定透明度义务。使用生成式 AI 工具的企业现在须遵守该条款，要求特定 AI 系统的提供商和部署方在人们与机器交互时明确告知对方。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月4日0时9分"
+  },
+  {
+    "id": "cmsdg55m700l5rocayeg3zgpj",
+    "title": "开发工具必须是开源的",
+    "url": "https://blog.exe.dev/devtools-must-be-open-source",
+    "summary": "开发者如今可用两条提示词让AI智能体自动下载源码、本地构建并同步上游更新，大幅降低软件个性化门槛。作者将这一机制内置进开源智能体Shelley，并演示了用单条提示词把个人工具meat.dev集成进去、自动预处理代码提交。相比传统配置或插件API，智能体驱动的个性化能完成更复杂的定制任务。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日0时9分"
+  },
+  {
+    "id": "cmsdg5g9b00pcroca6xn7p15l",
+    "title": "RLVR到RLSVR：任务转换实现自验证奖励",
+    "url": "https://x.com/_akhaliq/status/2084310082762719418",
+    "summary": "从 RLVR 到 RLSVR\n\n任务转换可为开放式大语言模型自我改进引入自验证奖励\n\n论文：https://huggingface.co/papers/2607.23802",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月4日0时7分"
+  },
+  {
+    "id": "cmsdg571q00m2rocaf8m98gjr",
+    "title": "微软开源 Orchard 智能体训练框架",
+    "url": "https://x.com/MSFTResearch/status/2084309571351253460",
+    "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6016a8Quj",
+    "source": "X：Microsoft Research (@MSFTResearch)",
+    "date": "2026年8月4日0时5分"
+  },
+  {
+    "id": "cmsdiaasx02l0rocaoxsj05h6",
+    "title": "安迪·帕夫洛加入 ClickHouse，组建数据库研究团队 ClickHouse Labs",
+    "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+    "summary": "卡内基梅隆大学教授安迪·帕夫洛加入 ClickHouse，组建并领导新研究团队 ClickHouse Labs。该团队将与工程、客户及合作伙伴紧密协作，研究事务性与分析型数据库问题，并探索 DBMS 如何适配 AI 与智能体技术。帕夫洛表示，目标是达到 IBM Research 和 Microsoft Research 级别的行业影响力。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日0时56分"
+  },
+  {
+    "id": "cmsdhg1mu01yrrocax07phpyp",
+    "title": "Sign up today for a new Max plan and get 7 days of Unlimited Seedance 2.5 on launch. Coming soon to…",
+    "url": "https://x.com/runwayml/status/2084321054659649690",
+    "summary": null,
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月4日0时50分"
+  },
+  {
+    "id": "cmsdibg0n02qqrocaj01y2tgy",
+    "title": "AI工作坊回归：70+创始人齐聚YC总部",
+    "url": "https://x.com/dexhorthy/status/2084319444361503157",
+    "summary": "上届AI工作坊汇聚70多位创始人、系统工程师与AI爱好者，在Y Combinator的Dogpatch总部交流最新实践。本周末Dex Horthy与@vaibcode将再次举办，包含8小时演讲、分组讨论及多位知名演讲者，如@kwindla、@swyx、@aiDotEngineer等。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月4日0时44分"
+  },
+  {
+    "id": "cmsdh7z0i01uhrocag3vock3e",
+    "title": "Helena：自我改进型 AI 营销员上线",
+    "url": "https://x.com/rohanpaul_ai/status/2084319230888116567",
+    "summary": "Helena 是 Enrich Labs 推出的自称\"全球首个自我改进型 AI 营销员\"，能测试并修复自身输出，已为 2 万家企业带来 1000 万美元销售额。它可自动优化 Meta/Google 广告、撰写 SEO 内容并处理邮件，宣称将部分品牌自然流量提升 35% 以上，并在 5 周内使某 DTC 品牌销售额翻倍。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日0时43分"
+  },
+  {
+    "id": "cmsdh7vfy01t9rocaum9wn0ue",
+    "title": "Qwen3.8-Max开源在即，成本远低于GPT-5.6与Claude Fable 5",
+    "url": "https://x.com/kimmonismus/status/2084319130845315096",
+    "summary": "阿里Qwen3.8-Max据称自主运行16天，产出265个提交、127个PR和151个issue，输出成本较GPT-5.6 Sol低80%、较Claude Fable 5低88%。该2.4T参数MoE模型输入/输出价格分别为$2/$6每百万token，PaperBench评分领先上述两者，开源权重下周发布。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月4日0时43分"
+  },
+  {
+    "id": "cmsdgioa500wdrocaa5e7gi2a",
+    "title": "Nvidia 高管：AI 是值得重建的全新计算模型",
+    "url": "https://runwayml.com/news/customers/nvidia-nyc-summit-2026",
+    "summary": "Nvidia 媒体与娱乐部门副总裁 Richard Kerris 认为，AI 不是可叠加的功能，而是值得围绕其重建的全新计算模型。Runway 仅用一天便将 Gen-4.5 迁移至 Nvidia 最新平台 Vera Rubin，生成速度从分钟级提升至即时，使视频生成变为实时创作循环。",
+    "source": "Runway：News（网页）",
+    "date": "2026年8月4日0时41分"
+  },
+  {
+    "id": "cmsdgioa500wcroca80g0rdcu",
+    "title": "Paramount CTO Phil Wiser：AI 属于史上最伟大技术趋势，但\"iPhone 时刻\"尚未到来",
+    "url": "https://runwayml.com/news/customers/paramount-nyc-summit-2026",
+    "summary": "Paramount 首席技术官 Phil Wiser 认为 AI 应跻身人类史上最伟大技术趋势前五，其影响堪比火的使用。他主张等待依赖条件成熟、以\"aha 时刻\"引导采用，而非以技术为先导；并警告行业巨头过度分析将错失窗口期，这一窗口可能仅 5 至 10 年。Paramount 两年前已通过 Runway 向全员开放 AI 工具，并以业务成果而非 token 消耗量衡量成效。",
+    "source": "Runway：News（网页）",
+    "date": "2026年8月4日0时41分"
+  },
+  {
+    "id": "cmsdgioa500wbrocareha5b2d",
+    "title": "Netflix 与 FutureCel 高管：AI 是工具，故事才是目的",
+    "url": "https://runwayml.com/news/company-news/netflix-aif-2026",
+    "summary": "Netflix 创意创新总监 Girish Balakrishnan 与 FutureCel 创始人 Joel Kuwahara 一致认为，AI 是服务故事的工具。Netflix 用生成式工具为《Brazil '70》重现 1970 世界杯满场观众，保留原本会被剪掉的镜头；Kuwahara 则强调 AI 带来更多迭代机会，但最终仍取决于艺术家的技艺与视野。",
+    "source": "Runway：News（网页）",
+    "date": "2026年8月4日0时41分"
+  },
+  {
+    "id": "cmsdh7pwn01qgrocad6bih27n",
+    "title": "美国国会最青睐的AI工具？ChatGPT",
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt",
+    "summary": "OpenAI的ChatGPT是美国国会目前花费最多的AI工具。截至3月31日的一年内，众议院在798笔交易中为ChatGPT支出约100，580美元，占AI总支出的约90%；Anthropic的Claude以13，160美元位居第二。民主党办公室AI采购额是共和党的三倍。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月4日0时40分"
+  },
+  {
+    "id": "cmsdh83fj01vyrocabxgpyyuv",
+    "title": "Omni 演示：指尖四点连线动画文字",
+    "url": "https://x.com/fofrAI/status/2084317445104320739",
+    "summary": "Omni：\n\n&gt； 做一个四角的点状形状，每个角分别落在两根食指和两根拇指上，形状以酷炫方式呈现动画效果，半透明，内部有动态文字显示\"Omni is cool\"",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月4日0时36分"
+  },
+  {
+    "id": "cmsdgdgoq00u2rocabb3nw8t8",
+    "title": "Runway 新 Max 套餐免费解锁 Seedance 2.5",
+    "url": "https://x.com/runwayml/status/2084316530528096285",
+    "summary": "7 天无限量 Seedance 2.5，上线即免费。\n\n今日注册新 Max 套餐即可解锁：支持最长 30 秒生成、50 个参考素材，以及 Seedance 2.5 带来的全部功能。\n\n即将登陆 Runway。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月4日0时32分"
+  },
+  {
+    "id": "cmsdg72v700rqroca2l2bknjg",
+    "title": "Odyssey 动态揭示结构本质",
+    "url": "https://x.com/odysseyml/status/2084316423065641446",
+    "summary": "运动揭示结构。",
+    "source": "X：Odyssey (@odysseyml)",
+    "date": "2026年8月4日0时32分"
+  },
+  {
+    "id": "cmsdg5agx00n8rocamjesviqz",
+    "title": "中国科技周报：DeepSeek矛盾与CXMT豪赌",
+    "url": "https://x.com/thexpin/status/2084315586017038340",
+    "summary": "中国科技周报聚焦AI竞赛背后的资本逻辑：DeepSeek创始人梁文锋以量化基金利润支撑前沿AI实验室，同时引发散户对其交易策略的争议。CXMT于7月27日登陆科创板，首日市值超$485B，超越工商银行成A股最高市值公司，其崛起依赖政府基金、地方产业政策及阿里、腾讯等战略投资。本周DeepSeek还发布V4-Flash API版本，主打智能体能力，定价低于所有竞品。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月4日0时28分"
+  },
+  {
+    "id": "cmsdg55bi00kwrocar9fdgmxp",
+    "title": "Qwen3.8-Max 让开源模型逼近闭源前沿",
+    "url": "https://x.com/omarsar0/status/2084314695343731026",
+    "summary": "在 Hermes Agent 上试试 Qwen3.8-Max，你就会开始怀疑这些开源前沿模型在多大程度上已经追上了闭源前沿模型。\n\n这些新的开源模型好得离谱。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月4日0时25分"
+  },
+  {
+    "id": "cmsdg55m700l4roca3x3gtfb1",
+    "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+    "url": "https://github.com/lyogavin/airllm",
+    "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日0时24分"
+  },
+  {
+    "id": "cmsdg5fa400oyrocax9rnzndf",
+    "title": "员工为钱入职，Anthropic CEO担忧",
+    "url": "https://x.com/SemiAnalysis_/status/2084314011307220994",
+    "summary": "突发新闻：人们想赚钱。\n\n据报道，Anthropic CEO 越来越担心新员工是为了薪水而工作，而非出于公司使命。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月4日0时22分"
+  },
+  {
+    "id": "cmsdgwa24013vrocaingd6unv",
+    "title": "关于 Astra 与数学的两则重要更新：Anthropic 数学家 24 小时复现 OpenAI 半数结果",
+    "url": "https://garymarcus.substack.com/p/two-critical-updates-re-astra-and",
+    "summary": "Gary Marcus 称 OpenAI 的 Astra 可能并非其宣传的突破，Anthropic 数学家 Levent Alpöge 用已公开的 Fable 模型在 24 小时内复现了 OpenAI 半数结果，质疑其真实进展。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月4日0时21分"
+  },
+  {
+    "id": "cmsdgx6wv01d4rocaktxn01ca",
+    "title": "Simon Willison 引述 David Crawshaw 的夜间 cron 任务提示词",
+    "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw",
+    "summary": "Simon Willison 在博客中引述了 David Crawshaw 的一段提示词，建议设置一个夜间 cron 任务，自动拉取上游变更并基于上游变基所有本地修改，随后检查软件运行是否正常并替换当前版本。该提示词出自 David Crawshaw 的文章\"Devtools must be open source\"。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月4日0时15分"
+  },
+  {
+    "id": "cmsdg3lgo00jvrocaeyyat5bx",
+    "title": "Data Commons on Spanner Graph 正式可用：统一公共与私有数据构建知识图谱",
+    "url": "https://cloud.google.com/blog/products/databases/unify-public-and-private-data-with-data-commons-on-spanner-graph",
+    "summary": "Google Cloud 宣布 Data Commons on Spanner Graph 正式可用，并预览新版 Data Commons Platform，用于统一私有知识与公共数据集知识图谱。",
+    "source": "Google Cloud：Databases（RSS）",
+    "date": "2026年8月4日0时0分"
+  },
+  {
     "id": "cmscl8xqc0bzproeuydn7jlbt",
     "title": "华为半导体首席科学家廖恒罕见受访：首提芯片\"18 层宝塔\"理论，大赞 DeepSeek 梁文锋",
     "url": "https://www.ithome.com/0/984/876.htm",
@@ -350,6 +686,70 @@
     "summary": "我喜欢输入湾区房屋的户型图，让大语言模型以不同美学风格重新设计--这次是京都风格。\n\n模型在 3D 方面的能力已经变得非常出色。",
     "source": "X：Deedy Das (@deedydas)",
     "date": "2026年8月3日2时37分"
+  },
+  {
+    "id": "cmsdf2nrd031nrotjraggyey2",
+    "title": "MirrorCode 更新：Claude Fable 5 领先",
+    "url": "https://x.com/EpochAIResearch/status/2084308067844538692",
+    "summary": "我们已用 Claude Fable 5 和 GPT-5.6 Sol 的结果更新了 MirrorCode 排行榜。\n\nClaude Fable 5 以 64% 的解决率领先，GPT-5.6 Sol 以 20% 紧随其后。",
+    "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年8月3日23时59分"
+  },
+  {
+    "id": "cmsdg6ahd00qkroca69wu1f93",
+    "title": "简化技术英语或成对抗AI套话新手段",
+    "url": "https://x.com/dexhorthy/status/2084306520955912548",
+    "summary": "尽管我在这里说得轻巧，但如果你已经厌倦了\"承重墙\"和\"它赚取X……\"这类说法，让模型使用ASD-STE100（简化技术英语）可能是目前最好的手段。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月3日23时52分"
+  },
+  {
+    "id": "cmsdf2o50031protj836bjddz",
+    "title": "IBM报告：92%遭遇AI安全事故的企业缺乏基本访问控制",
+    "url": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls",
+    "summary": "IBM《2026年数据泄露成本报告》显示，在602家受访公司中，92%遭遇AI相关事件的企业访问控制不足。约五分之一的企业因API受损、关联应用或云服务配置错误而遭入侵，开源或专有模型差异几乎不影响风险。AI相关事件平均造成533万美元损失，高于无AI事件的470万美元；攻击者使用AI时损失升至604万美元。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月3日23时47分"
+  },
+  {
+    "id": "cmsdf42hs0358rotj0s94kxvs",
+    "title": "Deedy 分享减少冷邮件骚扰的默认流程",
+    "url": "https://x.com/deedydas/status/2084304623691841820",
+    "summary": "这是我减少邮件垃圾（尤其是冷邮件）的默认工作流程。\n\n谢天谢地，我听说团队正在专门针对邮件工作流开发一些东西！",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月3日23时45分"
+  },
+  {
+    "id": "cmsdf2wne034protjc6fnvai9",
+    "title": "马斯克：源码将像汇编语言一样被淘汰",
+    "url": "https://x.com/elonmusk/status/2084304083851034949",
+    "summary": "说得完全正确。源代码正濒临变得像汇编语言一样的境地。\n\n下一步是彻底摆脱\"源代码\"，直接用 AI 生成高效的二进制文件。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月3日23时43分"
+  },
+  {
+    "id": "cmsdf2kea0307rotjw25j5p9k",
+    "title": "ComfyUI 新增 MiniMax H3 Day-0 支持：开放权重、原生音频与 2K 视频",
+    "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+    "summary": "ComfyUI 宣布对 MiniMax H3 提供 Day-0 支持，该模型采用开放权重，支持原生音频生成与 2K 视频输出。用户现可在 ComfyUI 中直接使用 MiniMax H3 的完整能力，包括文本、图像、音频与视频的多模态生成。此次集成使开源社区能够第一时间在 ComfyUI 工作流中调用 MiniMax H3。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月3日23时37分"
+  },
+  {
+    "id": "cmsdf9bf1036nrotj9pvk4ku2",
+    "title": "国际刑警组织：AI 已成非洲网络犯罪核心驱动力",
+    "url": "https://www.ithome.com/0/985/252.htm",
+    "summary": "国际刑警组织称，AI 已参与非洲 55% 网络犯罪案件，使攻击更快、规模更大且更难防范。自 2024 年以来，网络犯罪给非洲造成的经济损失已从 1.92 亿美元飙升至 4.84 亿美元，主要受 AI 和自动化工具推动。2025 年已有 17 国制定或修订网络犯罪法律，国际刑警组织在四项行动中逮捕超 1500 名嫌疑人并追回超 1 亿美元资产。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日23时32分"
+  },
+  {
+    "id": "cmsdexxu702xbrotjockerya6",
+    "title": "OpenRouter 推出 Ori Eval 简化评估流程",
+    "url": "https://x.com/OpenRouter/status/2084301100078027143",
+    "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月3日23时31分"
   },
   {
     "id": "cmsdasavu1745roeuxjb1jm6q",
