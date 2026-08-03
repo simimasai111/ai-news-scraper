@@ -1,11 +1,75 @@
 [
   {
+    "id": "cmscl8xqc0bzproeuydn7jlbt",
+    "title": "华为半导体首席科学家廖恒罕见受访：首提芯片\"18 层宝塔\"理论，大赞 DeepSeek 梁文锋",
+    "url": "https://www.ithome.com/0/984/876.htm",
+    "summary": "华为 Fellow、半导体首席科学家廖恒罕见公开受访，首次提出半导体产业链\"18 层宝塔\"理论，认为产业上限由最短短板层级决定，真正稀缺的是纵向贯通多层的复合型人才。他高度评价 DeepSeek 创始人梁文锋主动选择难度更高的稀疏激活架构，称其为\"先验者的价值\"。廖恒还复盘了昇腾芯片突围历程，并坦言曾三次方向性误判。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日9时56分"
+  },
+  {
+    "id": "cmscl25py0buwroeu29arj56b",
+    "title": "通义千问发布Qwen3.8-Max，树立编程协作新标杆",
+    "url": "https://x.com/Alibaba_Qwen/status/2084093402967396594",
+    "summary": "认识 Qwen3.8-Max：编程与协作的新标杆。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月3日9时46分"
+  },
+  {
+    "id": "cmscm5v8h0d75roeuooq39dgp",
+    "title": "Opus 输出风格引热议，简化技术英语将成新烦扰",
+    "url": "https://x.com/dexhorthy/status/2084093110318247993",
+    "summary": "是啊，你现在讨厌 Opus 的\"废话连篇\"，但一个月后我保证你会对那种简化版技术英语烦到不行。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月3日9时44分"
+  },
+  {
+    "id": "cmscl21k10bseroeu61kzc8vj",
+    "title": "14款AI模型生成\"哈布斯堡式下颌青蛙\"SVG测试：部分模型偏离指令添加虚构元素",
+    "url": "https://frogs.vaguespac.es/",
+    "summary": "一项非正式测试让14款主流AI模型生成\"拥有哈布斯堡式下颌的青蛙\"SVG图片，考察指令忠实度。Claude Opus 5、GPT-5.5、Gemini 3.6 Flash等模型在注释中添加了超出要求的解剖学解读甚至虚构的皇室元素，而Claude Sonnet 5、GPT-5.4-mini、Gemini 2.5 Pro等则保持纯粹的结构性标注。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月3日9时44分"
+  },
+  {
+    "id": "cmscl8xqc0bzxroeuhwzk3qbs",
+    "title": "京东外卖推出 AI 智能头盔：搭载 AI 语音助手，内置\"单王路线\"",
+    "url": "https://www.ithome.com/0/984/867.htm",
+    "summary": "京东外卖今日官宣推出 AI 智能头盔，首批将免费发放给全职骑手，后续逐步向全体骑手开放。头盔搭载 AI 语音助手，支持语音接单、拨打电话，内置\"单王路线\"提供导航提醒，并具备\"商户环境核验\"功能，可自动解析订单备注并在送达前主动提醒骑手。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日9时21分"
+  },
+  {
+    "id": "cmscj54li09paroeuz2vddwwf",
+    "title": "洛根提醒：对模型押注还不够激进",
+    "url": "https://x.com/OfficialLoganK/status/2084080601762783530",
+    "summary": "提醒：你可能对模型的信仰还不够深。\n\n无论你现在对模型的押注有多大，很可能仍处于指数曲线的斜率之下。",
+    "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+    "date": "2026年8月3日8时55分"
+  },
+  {
+    "id": "cmscj3qvo09m5roeubelwf0wn",
+    "title": "赶超 NVIDIA：传闻谷歌规划 2028 年部署 1200~1500 万颗 TPU v9 AI 芯片",
+    "url": "https://www.ithome.com/0/984/855.htm",
+    "summary": "台媒援引市场分析报告称，谷歌计划在 2028 年部署 1200~1500 万颗自研 TPU v9 AI ASIC 芯片，规模有望赶上甚至超过英伟达届时约 1240 万颗的 AI GPU 出货量。报告认为 TPU v9 将采用 4 计算裸片结构，大幅提升先进制程与封装产能需求，谷歌或需寻求台积电以外的产能，为英特尔代工和三星晶圆代工带来新商机。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日8时50分"
+  },
+  {
     "id": "cmschudsa084croeu8d6dhn7d",
     "title": "Artificial Analysis 网站流量月增 40%",
     "url": "https://x.com/ArtificialAnlys/status/2084067875258839546",
     "summary": "Artificial Analysis 网站流量环比增长 40% 📈",
     "source": "X：Artificial Analysis (@ArtificialAnlys)",
     "date": "2026年8月3日8时4分"
+  },
+  {
+    "id": "cmscix2g409k3roeuruh3w21b",
+    "title": "Onton 发布 Ontology 1：神经符号搜索模型，比全球最佳电商搜索引擎准确率高 2.7 倍",
+    "url": "https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model",
+    "summary": "Onton 发布神经符号搜索模型 Ontology 1，在 90 条查询基准 Subtext-Decor-90 上平均 precision@10 达 0.630，超过 Google Shopping（0.543）和 Amazon（0.469），且索引量仅为后两者目录的约 1%。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月3日8时49分"
   },
   {
     "id": "cmschvs14088nroeuavtr0vvu",
@@ -334,6 +398,254 @@
     "summary": "SemiAnalysis 测试了 Qwen3.8-Max-Preview，参数量 2.4T。",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年8月3日1时0分"
+  },
+  {
+    "id": "cmscraq3z0k3droeua5wfccgx",
+    "title": "年度大戏，宇树破发。",
+    "url": "https://x.com/chunxiangai/status/2084129405320994895",
+    "summary": "年度大戏，宇树破发。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月3日12时9分"
+  },
+  {
+    "id": "cmscqgi670j2troeuon8xv02r",
+    "title": "百度萝卜快跑香港伦敦启动无人驾驶测试",
+    "url": "https://x.com/Baidu_Inc/status/2084134762965524823",
+    "summary": "Apollo Go 正迈出\"正确\"的一步。\n\n完全无人驾驶试运营在香港启动，这是右舵驾驶市场的全球首创，同时伦敦也开始了道路测试。我们最新的 AI Pulse 涵盖了这一切，还包括一位总统的首次自动驾驶体验等更多内容。\n\n获取详情 👇",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月3日12时30分"
+  },
+  {
+    "id": "cmsco9yco0g86roeulmbj715c",
+    "title": "MiniMax H3 开源即获 vLLM-Omni 支持",
+    "url": "https://x.com/MiniMax_AI/status/2084113653524209777",
+    "summary": "MiniMax H3 开源权重，并在 vLLM-Omni 中获得 Day 0 支持，提供兼容 OpenAI 的视频端点。该模型可将文本、图像、视频和音频作为单一上下文处理，支持文生视频、首/尾帧及多参考生成，输出 4-15 秒、最高 2K 24 FPS 的 H.264 视频并自带同步立体声。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月3日11时6分"
+  },
+  {
+    "id": "cmscpjagh0i29roeunhiuq5qc",
+    "title": "自变量机器人发布并开源 HOST 框架，让机器人看视频学会新技能",
+    "url": "https://www.ithome.com/0/984/958.htm",
+    "summary": "自变量机器人发布并开源 HOST 框架，让机器人仅观察一段数十秒的人类视频就能学会新技能，同时保留已掌握技能。该框架从一段 29 秒人类视频中学习技能的成功率达 62%，超越零样本基线 45%，相比 Pi-0.5 + 微调方案数据量减少 50 倍、学习速度提升 500 倍。HOST 采用\"按任务进度对齐\"和双专家 MoT 架构，研究论文与代码已全部开源。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日11时53分"
+  },
+  {
+    "id": "cmscpce9o0huyroeuivzlo0w6",
+    "title": "Qwen3.8-Max：编程与协同办公的新标杆",
+    "url": "https://qwen.ai/blog?id=qwen3.8",
+    "summary": "通义千问发布 Qwen3.8-Max，定位为编程与协同办公场景的新标杆。该模型在相关任务上设定了新的性能基准，具体参数规模、benchmark 分数及可用性（开源或 API）细节尚未在原文中披露。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月3日11时52分"
+  },
+  {
+    "id": "cmscpcje50hxyroeuh9jff7o2",
+    "title": "Qwen 3.8 Max 着色器测试表现稳健",
+    "url": "https://x.com/emollick/status/2084124237053219289",
+    "summary": "Qwen 3.8 Max 在我的着色器测试中表现如何。\n\n经过一系列实验，初步印象是：这是一个扎实的模型，但就我目前的体验而言，还达不到 Kimi K3 的水平。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月3日11时48分"
+  },
+  {
+    "id": "cmscpcgnm0hwcroeuc76jf1uj",
+    "title": "Qwen 3.8 Max 发布在即，开源模型竞争加剧",
+    "url": "https://x.com/natolambert/status/2084122774185074710",
+    "summary": "Qwen 3.8 Max 的表现值得关注，因为此前他们的大模型在 API 端采用率并不高，现在（在许可条款允许的前提下）可能会有更多人关注。这或许正是 Qwen 团队追赶顶级模型所需的反馈循环。\n\n定价、许可、持续发布、补丁反馈等，即将成为 Kimi、GLM、Qwen、DeepSeek 等厂商之间的分水岭--它们都有能力推出领先模型，也都在不同细分市场各有斩获。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月3日11时42分"
+  },
+  {
+    "id": "cmscpjagh0i2broeuktkh0sln",
+    "title": "联发科：第二款 AI ASIC 加速器有望 2028 年量产，英特尔代工 EMIB 进展良好",
+    "url": "https://www.ithome.com/0/984/952.htm",
+    "summary": "联发科称首款 AI ASIC 加速器预计 2026Q2 量产，第二款有望 2028 年启动初步生产并同年量产。公司已将英特尔代工 EMIB-T 与台积电 CoWoS 并列为关键 2.5D 封装技术，并批准 50 亿美元资金用于保障供应链及扩展至全规模系统与平台。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日11时41分"
+  },
+  {
+    "id": "cmscpg4si0i1eroeukqbxq8cz",
+    "title": "道彤投资布局侵入式脑机，主动科技3.3亿元天使轮刷新国内脑机赛道天使轮融资纪录",
+    "url": "https://elsewhere.news/zh/author-1784793658606/33news",
+    "summary": "上海主动科技有限公司完成3.3亿元人民币天使轮融资，创下中国脑机接口领域天使轮融资纪录。本轮由中科创星领投，道彤投资、联想之星、九合创投等共同投资，资金将用于场地扩展、设备完善与临床试验推进。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月3日11时31分"
+  },
+  {
+    "id": "cmscpg4si0i1froeusz2xqc4e",
+    "title": "云启加注「破壳机器人」亿美元级 Pre-A 轮融资：探索具身智能「操作」难题 | 云启伙伴",
+    "url": "https://elsewhere.news/zh/author-1779868954078/pre-a-1785728067956",
+    "summary": null,
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月3日11时30分"
+  },
+  {
+    "id": "cmsco9yco0g87roeu8gvu7rpm",
+    "title": "MiniMax H3 上线 LMSYS，获 Day 0 支持",
+    "url": "https://x.com/MiniMax_AI/status/2084112746615115865",
+    "summary": "MiniMax H3 已上线 LMSYS，获得 Day 0 服务支持，可在 NVIDIA 和 AMD 硬件上本地运行。该开源模型在 SGLang Diffusion 中性能对标 Seedance 2.0，成本仅为后者三分之一，本地运行（2x 5090 或 1 RTX 6000）则免费。H3 支持文本、图像、视频和音频统一上下文，可生成 5-15 秒原生 2K、24fps 带立体声的视频。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月3日11时2分"
+  },
+  {
+    "id": "cmsco9uv90g67roeumdnmg67t",
+    "title": "阿里发布 Qwen3.8-Max，下周开源权重",
+    "url": "https://x.com/natolambert/status/2084119083973574899",
+    "summary": "阿里发布旗舰模型 Qwen3.8-Max，2.4T 参数，主打自主编码与多模态智能，下周开源其权重并同步开源 Qwen3.8-27B。定价为输入 $2.0/M tokens、输出 $6.0/M tokens、隐式缓存 $0.25/M tokens。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月3日11时28分"
+  },
+  {
+    "id": "cmsco9sj00g4rroeul8757vf1",
+    "title": "Show HN：NixOS-DGX-Spark -- 在 DGX Spark 上运行 Nix 和 NixOS",
+    "url": "https://github.com/graham33/nixos-dgx-spark",
+    "summary": "NixOS-DGX-Spark 项目让用户在 NVIDIA DGX Spark 及 Asus Ascent GX10 上通过 Nix 或完整安装 NixOS 使用 DGX Spark playbooks，提供 USB 镜像和 NixOS 模块。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月3日11时20分"
+  },
+  {
+    "id": "cmsco9wy30g7froeu5ya96wy9",
+    "title": "通义千问团队入驻X开启AMA",
+    "url": "https://x.com/Alibaba_Qwen/status/2084117113447575901",
+    "summary": "🔥来聊聊Qwen吧！#AMA\n\n【引用 @QwenDevs】：git init qwen_devs\n\nREADME.md：嘿👋 我们是Qwen基础模型团队的成员。既然我们终于有了账号……来个AMA？",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月3日11时20分"
+  },
+  {
+    "id": "cmscpjagi0i2iroeugadx97ol",
+    "title": "阿里企业级 Agent 产品\"千问办公\"开启公测，集成最新旗舰模型 Qwen3.8",
+    "url": "https://www.ithome.com/0/984/942.htm",
+    "summary": "阿里巴巴企业级 Agent 产品\"千问办公\"今日开启公测，网页版和独立 PC 客户端已开放，钉钉端入口近期也将上线，用户可体验最新旗舰模型 Qwen3.8。该产品由 QoderWork、MuleRun、悟空三款产品整合而来，是业内首款同时支持桌面端 Agent、云端 Agent、企业协同 Agent 的产品。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日11时12分"
+  },
+  {
+    "id": "cmsco9yco0g85roeuy07hq3sr",
+    "title": "MiniMax H3 开源并原生接入 ComfyUI",
+    "url": "https://x.com/MiniMax_AI/status/2084115117281853549",
+    "summary": "MiniMax H3 权重正式开源，并在发布当天（Day 0）原生集成到 ComfyUI，支持文本生视频、图像生视频、首尾帧控制、参考视频及就地编辑五种工作流。H3 以多模态上下文理解为核心，可同时处理图像、音频和视频，并依据提示词解析其关联。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月3日11时12分"
+  },
+  {
+    "id": "cmscm4u450d6broeubjkij2op",
+    "title": "Patio11智能体定律：对智能体潜力想象不足",
+    "url": "https://x.com/swyx/status/2084099311907013053",
+    "summary": "Patio11 智能体定律：你对智能体能够改进工作流程中--每一个--环节的潜力，想象得还不够充分，即便你已经把 Patio11 智能体定律考虑在内。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月3日10时9分"
+  },
+  {
+    "id": "cmscn711o0enkroeu3y6k0nao",
+    "title": "Claude Code 开源插件 Ponytail 减少 94% 代码量",
+    "url": "https://x.com/AYi_AInotes/status/2084098252824051815",
+    "summary": "开源插件 Ponytail 针对 Claude Code 过度生成代码的问题，强制其在写代码前检查功能是否已存在、能否用标准库解决、是否真有必要生成新代码。该前置检查使生成代码量减少 80%-94%，成本降低 47%-77%，任务速度提升 3-6 倍。插件完全免费开源，安装即用，无需配置。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月3日10时5分"
+  },
+  {
+    "id": "cmscn7bub0er0roeu6h1q1xvp",
+    "title": "阿里通义千问登顶Text Arena第二",
+    "url": "https://x.com/Alibaba_Qwen/status/2084111492182659552",
+    "summary": "🏆 阿里巴巴在 Text Arena 上排名升至第 2 位。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月3日10时57分"
+  },
+  {
+    "id": "cmscn7d6n0eruroeugqp7lnev",
+    "title": "MiniMax H3 开源权重上线 fal 平台",
+    "url": "https://x.com/MiniMax_AI/status/2084110949141848301",
+    "summary": "权重已开源，@fal 已准备好供开发者使用，Day 0 🙌\n\n这不仅仅是获取 H3 的权限。开发者可以研究它、定制它、部署它，并借助背后的生产级基础设施将其推向更远。\n\n#MiniMaxH3 #OpenWeights",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月3日10时55分"
+  },
+  {
+    "id": "cmscn7b3w0eqkroeulps43cww",
+    "title": "阿里云发布 Qwen3.8-Max 全能 AI 助手",
+    "url": "https://x.com/alibaba_cloud/status/2084110324429738016",
+    "summary": "认识 Qwen3.8-Max。你的全天候工作伙伴，适用于 • 编程 • 推理 • 研究 • 写作 • AI 智能体\n\n你过你的生活。它做它的工作。在以下平台试用及调用 API：• Model Studio：https://click.alibabacloud.com/m/20000001093/ • Qwen Cloud：https://click.qwencloud.com/m/20000001102/\n\n#BuildWithQwen #AlibabaCloud #QwenCloud #ModelStudio",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月3日10时53分"
+  },
+  {
+    "id": "cmscne3ve0eurroeufwk70rsq",
+    "title": "MiniMax H3 正式开源：通用视频模型支持多模态上下文与 2K 分辨率",
+    "url": "https://www.ithome.com/0/984/937.htm",
+    "summary": "MiniMax 今日正式开源新一代通用视频模型 MiniMax H3，可统一理解文本、图像、视频和音频构成的多模态上下文，生成最高 2K 分辨率、最长 15 秒且带原生立体声音频的视频。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日10时52分"
+  },
+  {
+    "id": "cmscn7fpu0etaroeuzqc21d2o",
+    "title": "马斯克称AI是超音速海啸",
+    "url": "https://x.com/elonmusk/status/2084108995980108154",
+    "summary": "AI是一场超音速海啸",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月3日10时48分"
+  },
+  {
+    "id": "cmscn7d6n0ervroeu0rg4q27x",
+    "title": "MiniMax-H3 模型正式公开发布",
+    "url": "https://x.com/MiniMax_AI/status/2084106804032872591",
+    "summary": "MiniMax-H3 现已公开发布 https://huggingface.co/MiniMaxAI/MiniMax-H3",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月3日10时39分"
+  },
+  {
+    "id": "cmscmcwkm0db3roeuh76fy6q3",
+    "title": "Qwen3.8-Max 下周开源权重，系 Qwen-Max 首次",
+    "url": "https://x.com/Yuchenj_UW/status/2084105482743287960",
+    "summary": "阿里通义千问宣布 Qwen3.8-Max 将于下周开源权重，这是 Qwen 首次开源 Max 级模型，同时 Qwen3.8-27B 也将开源。该模型为 2.4T 参数，是继 Kimi K3 后第二个超 2T 参数的开源权重模型，定价输入 $2.0/M tokens、输出 $6.0/M tokens。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月3日10时34分"
+  },
+  {
+    "id": "cmscne3ve0euwroeu6n9ioug7",
+    "title": "阿里巴巴千问 Qwen3.8-Max 模型正式上线，总参数量 2.4 万亿",
+    "url": "https://www.ithome.com/0/984/897.htm",
+    "summary": "阿里巴巴千问 Qwen3.8-Max 今日上线，总参数量 2.4 万亿，在编程、办公、长程任务与多模态智能体等方面全面提升。API 已上线千问 AI 平台并接入\"千问办公\"Agent 产品，模型权重将于下周开源。国内 API 每百万 Tokens 输入 12 元、输出 36 元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日10时31分"
+  },
+  {
+    "id": "cmscm668k0d7vroeureoj6kzf",
+    "title": "Codex 助力企业运营",
+    "url": "https://x.com/gdb/status/2084104354911707518",
+    "summary": "Codex 用于协助运营你的业务。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月3日10时29分"
+  },
+  {
+    "id": "cmscm4qki0d4jroeuuoqd7zgu",
+    "title": "通义千问发布 Qwen3.8-Max，2.4T 参数开源在即",
+    "url": "https://x.com/Alibaba_Qwen/status/2084100707423289643",
+    "summary": "通义千问发布最强模型 Qwen3.8-Max，参数规模达 2.4T，主打自主编程与多模态能力，可完成 10 天以上自进化开发及 500+ 轮芯片设计优化。模型将于下周开源权重，同步开源的还有 Qwen3.8-27B。API 定价为输入 $2.0/M tokens、输出 $6.0/M tokens。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月3日10时15分"
+  },
+  {
+    "id": "cmscne3vf0euzroeunohhar1g",
+    "title": "消息称阿里内测 AI 办公平台\"万有无界\"，多智能体协同交付",
+    "url": "https://www.ithome.com/0/984/883.htm",
+    "summary": "阿里云正在内测面向 B 端的人与 Agent 协作平台\"万有无界\"，搭建由多名数字员工组成的协作小组，围绕完整项目共同推进任务。不同于侧重日常办公流程的\"千问办公\"，\"万有无界\"聚焦复杂项目的多智能体协同交付，自由职业者、个体创业者也能找到适配场景。目前所有能力均可免费体验，后续将根据任务规模、模型资源消耗提供不同版本或企业方案。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日10时13分"
+  },
+  {
+    "id": "cmscne3vf0ev1roeu82s2szvv",
+    "title": "小米智能摄像机 4 Max AI 变焦版发售：799 元，12Mp 长焦 + 8Mp 广角",
+    "url": "https://www.ithome.com/0/984/880.htm",
+    "summary": "小米智能摄像机 4 Max AI 变焦版现已在有品发售，首发价 799 元。该机采用 12Mp 长焦 + 8Mp 广角设计，支持 3 倍无损变焦、12 倍混合变焦及红外夜视，云台可水平 360 度、垂直 180 度旋转。其搭载 3TOPS 算力芯片与小米 AI 看护大模型，可分析人物/宠物动作，并支持小米澎湃智联。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日10时10分"
+  },
+  {
+    "id": "cmscldw820c4kroeu7bw1kb27",
+    "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
+    "url": "https://qwen.ai/blog?id=qwen3.8",
+    "summary": "Qwen 正式发布 Qwen3.8-Max，这是 Qwen 家族迄今最强的模型，拥有 2.4T 参数（95B 激活），并首次开源 Qwen-Max 级权重，开放权重将于下周发布。",
+    "source": "Qwen：Blog Retrieval（API）",
+    "date": "2026年8月3日10时0分"
   },
   {
     "id": "cmsc1rbxn0wsyrohvkkub6gdf",
