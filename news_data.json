@@ -1,5 +1,69 @@
 [
   {
+    "id": "cmschudsa084croeu8d6dhn7d",
+    "title": "Artificial Analysis 网站流量月增 40%",
+    "url": "https://x.com/ArtificialAnlys/status/2084067875258839546",
+    "summary": "Artificial Analysis 网站流量环比增长 40% 📈",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月3日8时4分"
+  },
+  {
+    "id": "cmschvs14088nroeuavtr0vvu",
+    "title": "Codex 技能将客户反馈转化为路线图",
+    "url": "https://x.com/gdb/status/2084074129930772953",
+    "summary": "Greg Brockman 分享了一个 Codex 技能，可将支持工单、访谈、调查等客户反馈转化为有证据支持的产品优先级和路线图。该技能能聚类反馈、按来源追溯、进行机会评分，并区分客户原话、潜在问题、待验证事项与可声明内容，支持一键安装且完全开源。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月3日8时29分"
+  },
+  {
+    "id": "cmscit1eq09dxroeur8qxq6js",
+    "title": "BestBlogs 早报 08-03：姚顺雨入腾讯 300 天、英伟达机器人上下文扩至 8K、GitHub Agent 提示注入漏洞",
+    "url": "https://x.com/hongming731/status/2084070680673546543",
+    "summary": "姚顺雨加入腾讯 300 天，混元团队重新聚焦，微信 VLM 与混元长期并存。英伟达与斯坦福联合提出 RoboTTT，将机器人上下文扩展至 8K 时间步。GitHub Agentic Workflow 存在提示注入漏洞，攻击者仅需在公开 Issue 嵌入隐藏指令即可窃取私有仓库数据。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月3日8时15分"
+  },
+  {
+    "id": "cmscit1eq09dyroeunwrfp8qp",
+    "title": "姚顺雨入腾讯300天，混元改革待检验",
+    "url": "https://x.com/hongming731/status/2084070619461918768",
+    "summary": "姚顺雨加入腾讯300天，负责混元大模型与AI Infra，团队重新聚焦并重建训练研发体系，混元3被视为团队磨合的交付而非追赶证明。腾讯计划建设强化学习平台，与WorkBuddy、元宝等产品形成反馈闭环，但尚未大规模铺开。微信VLM与混元大概率长期并存，改革成效仍需第三方基准和真实使用数据检验。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月3日8时15分"
+  },
+  {
+    "id": "cmscgnvm8074oroeut4rwnhip",
+    "title": "BestBlogs 第106期：AI精选文章推荐",
+    "url": "https://x.com/hongming731/status/2084053325356708284",
+    "summary": "BestBlogs 第106期推荐20篇AI文章，围绕Jeff Dean提出的「1%法则」展开：模型能力易接近可用，但规格、上下文、工具、记忆、评测与编排决定产品成败。本期亮点包括GPT-5.6 Sol推理优化使成本降20%、Kimi K3精确规模2.78万亿参数、Gemini Robotics 2全身控制，以及Claude Code、MCP、Skill等工程实践。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月3日7时6分"
+  },
+  {
+    "id": "cmscgnvm8074proeum4ntxuyp",
+    "title": "BestBlogs 第 106 期周刊：1% 法则与 AI 产品工程距离",
+    "url": "https://x.com/hongming731/status/2084053208150970854",
+    "summary": "BestBlogs 第 106 期周刊以 Jeff Dean 的「1% 法则」为主线，探讨 AI 产品从演示到真实用户间的工程距离。Anthropic 产品负责人提出评测正成为新的产品需求文档，OpenAI 披露 GPT-5.6 Sol 使端到端服务成本最高降低 20%、Token 生成效率提升超 15%。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月3日7时6分"
+  },
+  {
+    "id": "cmscgyldf07c7roeumrvibjl7",
+    "title": "国家超算互联网上线 DeepSeek-V4-Flash 正式版 API",
+    "url": "https://www.ithome.com/0/984/834.htm",
+    "summary": "国家超算互联网正式上线 DeepSeek-V4-Flash-0731 模型 API，智能体与指令遵循能力大幅增强，性能可媲美最强闭源模型。企业和开发者通过官网即可一键接入调用。目前超算互联网已汇集 1700 余款国产大模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日7时23分"
+  },
+  {
+    "id": "cmscgyldg07c9roeuai8zjg03",
+    "title": "贾跃亭：法拉第未来 FF EAI 机器人 7 月销售及出货 152 台，创单月新高",
+    "url": "https://www.ithome.com/0/984/831.htm",
+    "summary": "法拉第未来创始人贾跃亭今日透露，FF EAI 机器人 7 月实现销售及出货 152 台，再创单月新高。截至 7 月底累计销售及出货 394 台，向全年 2000 台目标迈进。此前 6 月销售、出货及交付量为 105 台，3-6 月累计 242 台，超额完成原定 220 台目标。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月3日7时16分"
+  },
+  {
     "id": "cmsccpmko03ujroeupr4ud9np",
     "title": "Gemini 桌面应用将支持 MCP 与图像视频生成",
     "url": "https://x.com/testingcatalog/status/2084038211009908982",
@@ -22,6 +86,14 @@
     "summary": "沃顿教授埃森·莫里克指出，数学之外许多领域同样存在未解难题，若 AI 足够强大，或可实证解答并创造巨大社会价值。他以创业学为例，列举了创业成功成因、增长可预测性、干预措施有效性等未解问题，认为 AI 有望在这些领域带来突破。",
     "source": "X：Ethan Mollick (@emollick)",
     "date": "2026年8月3日6时23分"
+  },
+  {
+    "id": "cmscgh8d306tzroeu06uk6qgo",
+    "title": "condense-json 1.0 发布：用替换语法压缩 JSON 重复字符串",
+    "url": "https://simonwillison.net/2026/Aug/2/condense-json",
+    "summary": "Simon Willison 发布 condense-json 1.0，这个 Python 库可将 JSON 中与替换对象匹配的字符串或子串替换为特殊 `{\"$r\"： …}` 语法，并可用 `uncondense_json` 还原。作者用它压缩 LLM 生成的 SQLite 日志中的重复数据以节省空间。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月3日6时19分"
   },
   {
     "id": "cmscchccx03o4roeu80jg0d71",
