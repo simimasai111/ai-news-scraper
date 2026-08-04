@@ -912,12 +912,140 @@
     "date": "2026年8月4日1时0分"
   },
   {
+    "id": "cmsek09wz0vq7ro2eayzzt3uq",
+    "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+    "url": "https://www.ithome.com/0/985/665.htm",
+    "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日19时6分"
+  },
+  {
+    "id": "cmsek09wz0vq8ro2ejydmz72g",
+    "title": "华夏出版社标注书籍内容禁用于 AI 训练，负责人称很难维权但要有态度",
+    "url": "https://www.ithome.com/0/985/664.htm",
+    "summary": "在\"AI 巨头毁书\"风波后，华夏出版社已在书籍中标注内容禁用于 AI 训练。相关负责人表示，若书籍未经授权被用于人工智能训练很难维权，但出版社仍会标注，\"要有态度和这样的声明，这可能会让大家意识到图书是有版权的\"。该社内部讨论后认为标明这句话较好，目前很多非引进书籍已标注。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日19时4分"
+  },
+  {
+    "id": "cmsekyb4t0wslro2e2whdk2oo",
+    "title": "OpenAI 公开与苹果的沟通记录，反驳\"窃取商业机密\"指控",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+    "summary": "OpenAI 发布博文\"Apple is getting this wrong\"，称苹果对其窃取商业机密的诉讼\"草率、激进且针对个人\"，并公开 iMessage 和邮件记录反驳指控。案件涉及前苹果员工 Chang Liu 和 Tang Tan，苹果已申请初步禁令。OpenAI 否认持有或需要苹果商业机密，并指苹果混淆姓氏、未与总法律顾问沟通。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月4日19时27分"
+  },
+  {
+    "id": "cmsehsp0k0t2yro2e0kak92j3",
+    "title": "Genspark 开源 AI 办公套件 GenOffice",
+    "url": "https://x.com/rohanpaul_ai/status/2084581408933388513",
+    "summary": "Genspark 开源 GenOffice，称其为全球首款全功能开源 AI 办公套件，支持 PC 和 Mac，免费且无广告。该 Alpha 版由一名工程师用一周时间和 1 万美元 token 成本构建，内置 Docs、Sheets、Slides、PDF 编辑器及 Genspark Super Agent，可自动完成研究、数据处理和文档生成。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日18时5分"
+  },
+  {
+    "id": "cmsek09wz0vqfro2e6lt9inat",
+    "title": "亚马逊AI项目超支860%历时五个月才被发现，单个项目花费180万美元",
+    "url": "https://www.ithome.com/0/985/651.htm",
+    "summary": "亚马逊内部发现多起AI部署失误导致的严重预算超支。一个利用Anthropic Claude Sonnet匹配商品信息的项目产生180万美元支出，超支860%，历时五个月才被发现；另有两个项目分别产生约54.1万美元和13.4万美元的意外成本。亚马逊回应称正在试验并改进AI使用方式，包括提高成本效率，并强调这些案例仅涉及少数团队。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日18时36分"
+  },
+  {
+    "id": "cmsek09wz0vqgro2ehxcnw1fu",
+    "title": "Anthropic CEO 达里奥内部言论曝光：担忧员工上班只为钱",
+    "url": "https://www.ithome.com/0/985/649.htm",
+    "summary": "外媒 Axios 报道，顶尖 AI 研究员仍在各大实验室间频繁跳槽，薪酬和 IPO 前股权是重要诱因。知情人士称，Anthropic CEO 达里奥·阿莫迪曾在内部表达担忧，一些人更多是为钱加入而非公司使命。Axios 认为，计算资源、研发自由和理念差异对顶尖人才同样关键，频繁流动也令项目难以稳定接续。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日18时28分"
+  },
+  {
+    "id": "cmseiuu130u8tro2epi6223jd",
+    "title": "OpenAI 反击苹果商业秘密诉讼：公布聊天记录显示苹果员工主动联系前同事索取技术信息",
+    "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague",
+    "summary": "OpenAI 发布聊天记录反击苹果的商业秘密诉讼，显示苹果员工在刘昌（Chang Liu）离职后仍主动联系他索取技术信息，并称苹果的访问权限管理不善是\"残留访问\"问题的根源。OpenAI 还指出苹果律师曾因混淆亚裔姓氏而发错邮件，且其声称的电话沟通从未发生。苹果指控逾 400 名前员工入职 OpenAI，并涉及 Jony Ive 联合创立的 io Products。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月4日18时22分"
+  },
+  {
+    "id": "cmsehsr2q0t3wro2ehq98tg8v",
+    "title": "PixVerse 实测 MiniMax Hailuo 3：分镜与运镜出色",
+    "url": "https://x.com/PixVerse_/status/2084580100297891933",
+    "summary": "创作者 @MonetizationDon 在 PixVerse 上实测 MiniMax Hailuo 3（MiniMax H3），称其分镜和电影级运镜表现出色，能生成其他模型易受限的镜头。该模型支持最长 15 秒 2K 视频、单次最多 9 张参考图、风格参考、唇形同步及多语种，并具备较强的物理理解与提示词遵循能力。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月4日18时0分"
+  },
+  {
+    "id": "cmsehqjas0syaro2ex988s5sw",
+    "title": "Reddit 能否抵御新一轮 AI SEO 垃圾信息？",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+    "summary": "AI 搜索让 Reddit 成为被引用最多的域名，也引来品牌和营销机构试图操纵 LLM 回答。r/SkincareAddiction 版主发现疑似 Honeydew Labs 营销机器人账号，已自动过滤其帖子。Semrush 数据显示，5 月 ChatGPT、Perplexity、Gemini 和 AI Mode 引用 Reddit 的次数超过任何新闻媒体和维基百科。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月4日18时0分"
+  },
+  {
     "id": "cmsefpvbw0q3qro2e932emypv",
     "title": "阿里云容器服务 Agent 将于 9 月 3 日起商业化收费，支持按量付费和资源包",
     "url": "https://www.ithome.com/0/985/564.htm",
     "summary": "阿里云宣布容器服务 Agent 将于北京时间 9 月 3 日 10 时开启商业化收费，对话、自主智能运维及定时任务等功能将开始计费，不影响存量用户已有设置和历史任务记录。该服务以积分（Credit）为计量单位，免费开通，支持按量付费及预付费资源包抵扣，两者可叠加使用，总价 = 实际消耗积分 × 单价（0.05 元 / 积分）。",
     "source": "IT之家（RSS）",
     "date": "2026年8月4日17时7分"
+  },
+  {
+    "id": "cmsehv1yo0t5kro2ele0sfhqe",
+    "title": "《莱莎的炼金工房》衍生AI聊天游戏《RyzaChat》开启预注册：插画人工绘制，语音文本用AI",
+    "url": "https://www.ithome.com/0/985/567.htm",
+    "summary": "光荣特库摩授权、SpiralAI开发的AI聊天游戏《RyzaChat：AI与莱莎共同创造只属于你的盛夏梦幻故事》现已开放预注册，预计本月18日上线。游戏以《莱莎的炼金工房 ~常暗女王与秘密藏身处~》世界观为基础，玩家通过聊天推进战斗、旅行和建设，支持\"RPG模式\"和\"聊天模式\"。插画素材全部人工绘制，语音使用野口百合录制素材经SpiralAI语音合成，文本由\"SpiralLLM\"大语言模型生成。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日17时7分"
+  },
+  {
+    "id": "cmsehs2k10t07ro2ev375wnsd",
+    "title": "腾讯混元发布 Hy ASR 3.0 预览版",
+    "url": "https://x.com/TencentHunyuan/status/2084579829303615497",
+    "summary": "AI 终于能真正听懂你了。👂\n\nHy ASR 3.0 预览版今日上线。\n\n由 Hy3 语言大脑驱动 → 精准语音识别 + 深度语义理解\n\n优势领域：• 通用识别 • 上下文感知 • 多场景鲁棒性 • 方言覆盖\n\n嘈杂的真实世界音频？输出干净、连贯的转录文本，精准捕捉你的意图。\n\n公开 + 内部评测：领先水平。多语言 WER ≈ 3%。\n\n语音体验迎来升级。🔥\n\n#HyASR #TencentAI #Hy3",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "date": "2026年8月4日17时58分"
+  },
+  {
+    "id": "cmsehv1yo0t5cro2es2h44rxi",
+    "title": "消息称影石 AI 硬件将接入阿里千问大模型，率先落地于 Go Ultra 系列口袋相机",
+    "url": "https://www.ithome.com/0/985/611.htm",
+    "summary": "影石 Insta360 将为旗下产品新增 AI 语音助手功能，率先落地于 Go Ultra 系列。该助手以影石自研为核心，融合阿里千问多模态模型能力，中国港澳台及海外地区调用谷歌 Gemini，中国大陆接入阿里千问，翻译结果可通过机身扬声器播报。影石官方已宣布 Go Ultra 将于 8 月 5 日迎来大更新，内部代号\"Kira\"的语音助手或是发布主题。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日17时52分"
+  },
+  {
+    "id": "cmsehsq740t3iro2eqn3lojp4",
+    "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+    "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy",
+    "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制传输和 WebGL2 渲染，在 1 万至 1 亿点规模下均保持约 0.08 秒的渲染时间。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月4日17时45分"
+  },
+  {
+    "id": "cmsehqjup0sycro2eyo3jnb0l",
+    "title": "NHS 致歉并承认 Palantir 可访问可识别身份的患者数据",
+    "url": "https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data",
+    "summary": "英国国民医疗服务体系（NHS）公开致歉，承认帕兰蒂尔（Palantir）公司能够访问可识别身份的患者数据。这一承认引发对患者隐私和数据安全的担忧，相关细节来自 PublicTechnology 的报道。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日17时44分"
+  },
+  {
+    "id": "cmseh9cvm0ronro2ef2ujlxk0",
+    "title": "Vidu 一键 MV 重磅升级：四大创作链路覆盖对口型唱、舞蹈演绎与剧情演绎",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489048&idx=1&sn=5a0fd3718d1fd4ce5a55c148021ad847",
+    "summary": "Vidu 一键 MV 全面升级，推出对口型唱、演唱穿插、舞蹈演绎、剧情演绎四大创作链路，覆盖音乐 MV 主流内容形态。用户上传图片和音乐即可生成口型、动作、表情、镜头与剧情，支持 720P 生成。对口型唱、演唱穿插、舞蹈演绎模式每秒 0.75 元，剧情演绎每秒 0.65 元。",
+    "source": "公众号：生数科技（Vidu·视频）",
+    "date": "2026年8月4日17时41分"
+  },
+  {
+    "id": "cmsegq3i30rhlro2egw2pfvgl",
+    "title": "Loopie 循环 Transformer 以少胜多",
+    "url": "https://x.com/rohanpaul_ai/status/2084573782803665306",
+    "summary": "Loopie 证明，AI 模型可重复使用同一 Transformer 层两次，在相同训练时间内超越更大的标准模型。它通过减少层数、每层运行两次，将节省的 GPU 内存用于训练更宽的模型。在匹配训练时间的实验中，Loopie 最终击败了更大的常规 Transformer 基线。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日17时34分"
   },
   {
     "id": "cmsefnjpn0q20ro2el7g7lyjw",
