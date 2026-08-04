@@ -1,5 +1,61 @@
 [
   {
+    "id": "cmsf9q9tg1kh5ro2esb9fv1e1",
+    "title": "SpaceX 携手英伟达开发 Starmind AI1 算力卫星，目标部署 100 万颗",
+    "url": "https://www.ithome.com/0/985/741.htm",
+    "summary": "SpaceX 宣布与英伟达合作，开发名为 Starmind AI1 的算力卫星，计划构建最终规模达 100 万颗卫星的轨道网络，在太空打造分布式 AI 超级计算机。该项目将依靠激光链路高速传输卫星间数据，以扩展地球数据中心以外的计算能力。马斯克表示，Starmind 计划将在地面和太空部署英伟达 Vera Rubin NVL72 机架式系统。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日7时7分"
+  },
+  {
+    "id": "cmsf9x08d1kkbro2e546potga",
+    "title": "Jeff Dean 欢迎 Sanjay 入驻推特",
+    "url": "https://x.com/JeffDean/status/2084778226141065626",
+    "summary": "哦看！我的老友兼同事 @Sanjay_Ghemawat 现在上推特了！大家关注他吧！",
+    "source": "X：Jeff Dean (@JeffDean)",
+    "date": "2026年8月5日7时7分"
+  },
+  {
+    "id": "cmsfaonwr1lalro2ereppde0y",
+    "title": "白宫豁免开源模型，前沿AI测试框架生变",
+    "url": "https://x.com/natolambert/status/2084777970850492429",
+    "summary": "我们又撑过了一天。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月5日7时6分"
+  },
+  {
+    "id": "cmsfazs5j1ljyro2e0ciiqnsq",
+    "title": "BFL发布FLUX 3视频模型，支持原生音频",
+    "url": "https://x.com/testingcatalog/status/2084784513301782947",
+    "summary": "BFL 发布了 FLUX 3 视频模型 👀\n\n> 支持图生视频和文生视频，带原生音频、帧等特性。最长 20 秒，原生 1080p。\n\n> 新增 Draft 模式，可在支付完整视频生成费用前先获取简短样片。\n\n> 2K、4K 及开放权重即将推出！",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月5日7时32分"
+  },
+  {
+    "id": "cmsfaqm0k1learo2es0u72krh",
+    "title": "MiniMax 开源 H3 获合作伙伴支持",
+    "url": "https://x.com/MiniMax_AI/status/2084783822667932137",
+    "summary": "MiniMax 宣布开源 H3 模型，并感谢 @fal、@pika_labs 和 @HelloCivitai 等合作伙伴在基础设施、创意平台和开源社区中的共建支持。公司表示，从 Hailuo 01 到 H3，开源让更多人能在此基础上构建，推动进步更快。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月5日7时29分"
+  },
+  {
+    "id": "cmsfazs5j1ljzro2e6qj0j39y",
+    "title": "SpaceX 与 NVIDIA 合作打造 Starmind AI1 卫星计算载荷",
+    "url": "https://x.com/testingcatalog/status/2084780983996309633",
+    "summary": "SpaceX 与 NVIDIA 合作设计 Starmind AI1 卫星计算载荷，该载荷将由 NVIDIA Vera Rubin NVL72 平台驱动。Starmind 计划在太空捕获太阳能，为地球提供低成本、高性能的 AI 计算服务，将 AI 工厂级算力送入轨道。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月5日7时18分"
+  },
+  {
+    "id": "cmsf9q9tg1kh6ro2egoxiiace",
+    "title": "美国艺电 EA 正式完成 550 亿美元收购交易，沙特成最大股东",
+    "url": "https://www.ithome.com/0/985/740.htm",
+    "summary": "美国艺电（EA）宣布完成约550亿美元收购交易，由沙特公共投资基金（PIF）、银湖资本及Affinity Partners组成的财团全资持有，公司在上市36年后转为非上市企业。交易完成后，PIF将持有EA 93.4%股份，成为最大股东。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日7时0分"
+  },
+  {
     "id": "cmsf8lfxl1ji4ro2e3pnjhfw9",
     "title": "马斯克：Grok 5 将用 SpaceX 全部数据训练",
     "url": "https://x.com/cb_doge/status/2084763004965453880",
@@ -16,6 +72,78 @@
     "date": "2026年8月5日6时5分"
   },
   {
+    "id": "cmsf9q9tg1kh7ro2e4nhnista",
+    "title": "通用汽车正开发自研车载 AI 智能助手，整合实时遥测数据",
+    "url": "https://www.ithome.com/0/985/739.htm",
+    "summary": "通用汽车正开发一款全新车载 AI 智能助手，能力将超过已引入旗下车型的 Gemini AI。该助手结合对话式 AI、车辆知识及 OnStar 智能服务，能调用汽车传感器实时遥测数据，比 Gemini 更了解车辆状态、驾驶环境与用户需求。目前尚未公布具体发布时间，完成后仍需在完整车型阵容中测试以确保稳定性和安全性。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日6时57分"
+  },
+  {
+    "id": "cmsf9q9tg1kh8ro2ewip4zrvk",
+    "title": "SpaceX 公布上市后首份财报：2026Q2 营收 78 亿美元，同比增 92%",
+    "url": "https://www.ithome.com/0/985/738.htm",
+    "summary": "SpaceX 公布 2026 年第二季度财报，营收 78 亿美元，同比增长 92%，净亏损从 10 亿美元收窄至 5.41 亿美元。三大业务中，互联互通营收 42.9 亿美元并保持盈利，人工智能营收 25.6 亿美元但亏损 12.6 亿美元，太空业务营收 9.62 亿美元。财报公布后，SpaceX 股价盘后一度下跌 8%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日6时54分"
+  },
+  {
+    "id": "cmsf9q9tg1kh9ro2e82s4q6b2",
+    "title": "苹果推送 AirPods 新测试版固件 9A5336b，支持 iOS 27 新功能",
+    "url": "https://www.ithome.com/0/985/737.htm",
+    "summary": "苹果面向 AirPods Pro 2、Pro 3、AirPods 4 和 Max 2 推送第四个测试版固件 9A5336b，供开发者测试。该固件加入了对 iOS 27、iPadOS 27 和 macOS Golden Gate 中全新 AirPods 设置界面、自适应模式调节滑块、自定义 EQ 及新版 Siri AI 的支持。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日6时53分"
+  },
+  {
+    "id": "cmsf9x5yf1kkrro2eimf3nd4y",
+    "title": "OpenAI 为 GPT-Rosalind 打造 Codex 下载页",
+    "url": "https://x.com/testingcatalog/status/2084773350153371924",
+    "summary": "OpenAI 正在为 Rosalind Codex 开发新下载页面，该版本为 GPT-Rosalind 配置的 Codex 构建，或意味着其将向\"合格客户\"之外的更广泛用户开放。GPT-Rosalind 是前沿推理模型，支持生物学、药物发现和转化医学研究，目前以研究预览形式向 Amgen、Moderna、Allen Institute 等合格客户提供。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月5日6时47分"
+  },
+  {
+    "id": "cmsf9lwvw1kb9ro2e08p3zq01",
+    "title": "诺贝尔病：部分诺奖得主为何拥抱反科学观点",
+    "url": "https://en.wikipedia.org/wiki/Nobel_disease",
+    "summary": "\"诺贝尔病\"指部分诺奖得主在获奖后，倾向于在自身专业领域之外自信发表缺乏科学依据的观点。2001年诺贝尔生理学或医学奖得主Paul Nurse警告，获奖者易\"相信自己在几乎所有领域都是专家\"，并指出媒体强化了这一倾向。该现象表明，某一领域的权威并不自动成为其他领域的权威，且高智力与理性判断并不必然挂钩。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月5日6时47分"
+  },
+  {
+    "id": "cmsf9o2121kfrro2esryfv9g2",
+    "title": "Starlink 创纪录季度：用户破 1200 万",
+    "url": "https://x.com/cb_doge/status/2084771973675000281",
+    "summary": "SpaceX 总裁 Gwynne Shotwell 公布 Starlink 创纪录季度：全球订阅用户达 1200 万，净增超 170 万（上季为 140 万），ARPU 稳定在每月 66 美元，服务覆盖 167 个市场。在轨运行卫星约 10，200 颗，总下行容量约 800 Tbps，Q2 获美国政府多年期合同超 60 亿美元，并与美国航空等多家航司签约。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月5日6时42分"
+  },
+  {
+    "id": "cmsf9q9tg1kharo2ecnbhm88h",
+    "title": "EA 为《战地 6》推出 1.4.1.5 更新：修复英伟达 RTX50 系显卡崩溃问题",
+    "url": "https://www.ithome.com/0/985/733.htm",
+    "summary": "EA 为《战地 6》推出 1.4.1.5 更新，修复英伟达 RTX50 系显卡在\"大面积水域地图\"中的崩溃问题。此前第四赛季更新后玩家需降级至 596.49 驱动临时解决，此次更新证实问题源于游戏端而非驱动。更新还修复大逃杀模式大厅音效循环、改进补给箱同步并修正坦克平衡。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日6时40分"
+  },
+  {
+    "id": "cmsf97cqm1jrkro2egz7fzn8n",
+    "title": "Claude Code v2.1.222 发布：修复工作树隔离、代理绕过等多项问题",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.222",
+    "summary": "Claude Code v2.1.222 发布，修复了工作树隔离会话及其子代理可对主检出运行破坏性 git 命令的问题，隔离现适用于所有会话类型的文件编辑和 Bash。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月5日6时39分"
+  },
+  {
+    "id": "cmsf9o32n1kgbro2e1r62z5j3",
+    "title": "Gabriel 新产品内测招募反馈用户",
+    "url": "https://x.com/gabriel1/status/2084770522798415913",
+    "summary": "接下来 5 小时内，我会再邀请几个人使用我的新产品，收集反馈。\n\n想试用的话，私信告诉我你的工作内容。\n\n无论是工作中已经在用 AI 的人，还是不用 AI 但在浏览器里大量点击操作的人，都很有帮助。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月5日6时36分"
+  },
+  {
     "id": "cmsf8nsvp1jkoro2e22ffjozz",
     "title": "Luna 性价比惊人，成本降八成",
     "url": "https://x.com/gdb/status/2084770040281211043",
@@ -24,11 +152,27 @@
     "date": "2026年8月5日6时34分"
   },
   {
+    "id": "cmsf9lwvw1kbaro2ek5d6lqpx",
+    "title": "MirrorCode：AI 能独立完成的最大规模软件项目基准测试",
+    "url": "https://epoch.ai/MirrorCode",
+    "summary": "Anthropic 与 METR 联合推出 MirrorCode 基准，要求 AI 在无源码、无联网条件下端到端重写完整程序。Claude Opus 4.7 用 14 小时、$251 重写了约 16，000 行 Go 代码的生物信息学工具 gotree，而人类工程师预计需 2-17 周。该基准单次运行最高花费 $2，600，AI 连续工作 19 天，目前 22/25 个目标程序已开源。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月5日6时31分"
+  },
+  {
     "id": "cmsf8lgdp1jipro2ehiao38n6",
     "title": "Pixel-Native RAG：视觉文档索引实用指南",
     "url": "https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing",
     "summary": "PixelRAG 是一套端到端系统，将网页和 PDF 视为图像处理，突破传统基于文本的解析方式。教程覆盖从渲染、切片到多模态嵌入与混合搜索的完整流程，帮助开发者构建高性能的视觉文档检索系统。",
     "source": "MarkTechPost（RSS）",
+    "date": "2026年8月5日6时27分"
+  },
+  {
+    "id": "cmsf9cdnw1k6pro2emjhrr3bx",
+    "title": "虚假奖励与噪声数据对RLVR的影响",
+    "url": "https://x.com/dongxi_nlp/status/2084768262534173033",
+    "summary": "虚假奖励（2025年6月）\n\n随机奖励可通过放大已有先验来提高分数，但并未产生真正的能力提升。\n\n噪声数据具有破坏性（2026年8月）\n\n经核实的错误标签会强化错误、减少探索，且表现不如干净监督。\n\n论文：\n\n虚假奖励：重新思考RLVR中的训练信号\n噪声数据对基于可验证奖励的强化学习具有破坏性",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
     "date": "2026年8月5日6时27分"
   },
   {
