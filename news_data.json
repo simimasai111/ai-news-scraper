@@ -1,5 +1,21 @@
 [
   {
+    "id": "cmseulooi17horo2edb36j6wf",
+    "title": "Bolt 推出模板市场，免费全栈应用模板",
+    "url": "https://x.com/omarsar0/status/2084671488259403807",
+    "summary": "Bolt 推出 Template Marketplace，由顶尖设计工作室和机构打造，解决 AI 生成应用外观雷同的问题。每个模板都是完整可运行的全栈应用，后端、数据和逻辑已预先接好，全部免费，可直接在 Bolt 中打开使用。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月5日0时3分"
+  },
+  {
+    "id": "cmseulpej17hwro2edoz7az8u",
+    "title": "Replit 设计马拉松 5 万美元奖金",
+    "url": "https://x.com/Replit/status/2084670798393213072",
+    "summary": "Replit 设计马拉松--5 万美元以上现金与奖品 https://x.com/i/broadcasts/1qxoNNowOagJv",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月5日0时0分"
+  },
+  {
     "id": "cmse0n72k087gro2e2w14jo1z",
     "title": "Codex 自主开发游戏并接管电脑",
     "url": "https://x.com/emollick/status/2084459212281962833",
@@ -800,12 +816,324 @@
     "date": "2026年8月4日2时0分"
   },
   {
+    "id": "cmsetl6df16fbro2erz9whqbv",
+    "title": "OpenAI 反击苹果窃密诉讼并公开原始证据",
+    "url": "https://x.com/rohanpaul_ai/status/2084657062714433657",
+    "summary": "OpenAI 反击苹果的窃密诉讼，称其指控\"草率、激进且针对个人\"，并公开了诉讼背后的原始消息与邮件，包括诉讼前长达 5 个月的沉默期。案件指控两名前苹果员工唐坦与刘畅将机密材料带入新工作。苹果称逾 400 名前员工现任职于 OpenAI，此前双方因 ChatGPT 集成而保持合作关系。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日23时5分"
+  },
+  {
+    "id": "cmseunruc17luro2etigd8s17",
+    "title": "Xynova机器人手亮相ICRA 2026",
+    "url": "https://x.com/rohanpaul_ai/status/2084669509898809719",
+    "summary": "这种机器人手可能会让按摩店出现裁员 😅 协调的手指运动。握拳、指点和张开。完全握合手掌。手掌张开、精确捏取动作以及手指控制。Xynova 亮相维也纳 ICRA 2026。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日23时55分"
+  },
+  {
+    "id": "cmseuiejy17g2ro2effpr2dzf",
+    "title": "Codex 用 Sol 指挥 Luna Max 子代理省 Token",
+    "url": "https://x.com/AYi_AInotes/status/2084669144394244401",
+    "summary": "有用户让 Codex 的 Sol 创建 Luna Max 子代理（`~/.codex/agents/` 下配置 `gpt-5.6-luna`，reasoning effort 设 max），跑一天省下 20%-30% Token。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月4日23时53分"
+  },
+  {
+    "id": "cmseulo5y17haro2ebfars4fu",
+    "title": "Spotify 与 Merlin 合作扩展 AI 混音与翻唱项目",
+    "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
+    "summary": "Spotify 在第二季度财报电话会上透露，其 AI 音乐产品将允许乐迷在艺术家同意的前提下制作翻唱和混音，并宣布独立厂牌授权伙伴 Merlin 已加入该项目，带来超过 30，000 家厂牌。该产品定位为\"真实艺术家，而非虚假艺术家\"，强调获得同意、署名和补偿，被视为\"参与 AI 浪潮的首个合法途径\"。研究预览将先向部分用户开放，并以付费附加功能形式推出。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月4日23时50分"
+  },
+  {
+    "id": "cmseuh4ka17fcro2eb0dtyjti",
+    "title": "OpenRouter 新增图像模型试验场",
+    "url": "https://x.com/OpenRouter/status/2084667628895817737",
+    "summary": "新的图像模型试验场，可快速生成、编辑和组合图像 ✨\n\n点击这里试试！https://openrouter.ai/openai/gpt-image-2",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月4日23时47分"
+  },
+  {
+    "id": "cmseunruc17lvro2ec6z47sxc",
+    "title": "乐观实干胜过悲观空谈",
+    "url": "https://x.com/rohanpaul_ai/status/2084667001000321443",
+    "summary": "确实，那每一条现在都已解决。\n\n【引用 @sama】：我宁愿做一个乐观主义者并努力奋斗，也不愿做一个悲观主义者，发帖说事情为什么行不通。\n\n这条路要艰难得多，最可能的结果是失败，但如果人们不去尝试，社会就会失败。\n\n再多的\"这永远不会成功\"的文章也不会推动社会前进。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日23时45分"
+  },
+  {
+    "id": "cmsesgyzp159kro2efe58vs2u",
+    "title": "蚂蚁百灵发布Ling-3.0-flash开源权重",
+    "url": "https://x.com/AntLingAGI/status/2084656533489754475",
+    "summary": "今天，我们发布了 Ling-3.0-flash 的开源权重。🎉\n\n官方 BF16 和 FP8 量化版本现已可用，您可以根据自己的硬件、性能要求和部署需求选择最合适的版本。",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月4日23时3分"
+  },
+  {
+    "id": "cmseuiejy17g3ro2ec2ht86hl",
+    "title": "OpenAI 高管：Codex 两三个月后将被视为原始工具",
+    "url": "https://x.com/AYi_AInotes/status/2084665398092267999",
+    "summary": "OpenAI 负责 Codex 与 ChatGPT 的负责人 Tibo 表示，Codex 目前是优秀的 harness，但两三个月后就会显得原始，前沿 AI 使用方式将迎来又一次重大进化，下一代模型需要的不只是笔记本电脑。这意味着 AI 使用范式将从\"你开着电脑它干活\"转向\"你合上电脑，它在云端连续运行数小时甚至数天\"，自主管理环境、状态并协调多个子 agent，笔记本将沦为控制终端。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月4日23时38分"
+  },
+  {
+    "id": "cmseuh4ka17fdro2exhjczfaq",
+    "title": "OpenRouter Agent SDK 新增生命周期钩子与异步工具",
+    "url": "https://x.com/OpenRouter/status/2084664941882359821",
+    "summary": "为 OpenRouter Agent SDK 推出两项新功能：生命周期钩子（lifecycle hooks）和异步工具（async tools）！\n\n如果你还不熟悉，Agent SDK 是我们用于基于 OpenRouter 构建智能体应用的工具包。这两项新增功能让你能够构建更强大的 AI 工作流。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月4日23时37分"
+  },
+  {
+    "id": "cmseunvng17ncro2el4srsgg9",
+    "title": "Omni 再测：仍令人惊叹",
+    "url": "https://x.com/fofrAI/status/2084664778765590628",
+    "summary": "再来一次 Omni 测试\n\n【引用 @fofrAI】：仍在寻找 Omni 让我惊叹的方式",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月4日23时36分"
+  },
+  {
+    "id": "cmseulndf17h0ro2e8yd3mbjr",
+    "title": "得克萨斯州要求数据中心并网前必须通过审计",
+    "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+    "summary": "得克萨斯州州长Greg Abbott周一指示PUCT和ERCOT对新建数据中心提案进行核查与审计，以\"保持电网稳定可靠\"。数据中心须提供所获激励、电网依赖度、预期用水量及社区影响追踪等信息。ERCOT正审核超474吉瓦并网请求，为历史峰值负荷的五倍多，其中数据中心约占新增电力需求的90%。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月4日23时33分"
+  },
+  {
+    "id": "cmsetj4s216aoro2efxvtm6dd",
+    "title": "萨姆·奥特曼：宁做乐观主义者努力前行",
+    "url": "https://x.com/sama/status/2084663673570971990",
+    "summary": "我宁愿做一个乐观主义者并努力工作，也不愿做一个悲观主义者，发帖抱怨为什么事情行不通。\n\n这条路要艰难得多，最可能的结果是失败，但如果人们不去尝试，社会就会失败。\n\n再多的\"这永远不会成功\"的文章也不会推动社会前进。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年8月4日23时32分"
+  },
+  {
+    "id": "cmsetl6df16faro2e3nb8gnoq",
+    "title": "中国开源AI挑战赛开放报名，奖金500万元",
+    "url": "https://x.com/rohanpaul_ai/status/2084663267981762733",
+    "summary": "中国最新的开源AI竞赛\n\nGOAI全球开源AI挑战赛现已向全球开发者、研究人员、创业团队及开源贡献者开放。🌍\n\n共设4个赛道：\n\n智能体基础设施 · 无界智能体 · AI for Research · 具身未来\n\n💰 总奖金500万元人民币 🏆 大奖100万元 🥇 每赛道50万元 · 🥈 30万元 · 🥉 10万元 ✨ 另设40万元特别奖\n\n扫描海报二维码即可报名。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日23时30分"
+  },
+  {
+    "id": "cmsesuxyi15k6ro2eta3k38ok",
+    "title": "英伟达发布 Alpamayo 2 Super 开源自动驾驶推理模型",
+    "url": "https://x.com/JensenHuang/status/2084656303046332747",
+    "summary": "英伟达今日推出 Alpamayo 2 Super，一款面向自动驾驶的前沿开源推理模型，可在行动前理解并推理复杂世界。该模型适用于 Robotaxi、卡车、班车、配送车及拖拉机等移动机器人，已按 OpenMDW-1.1 协议开放商用，支持团队检查、微调与部署。",
+    "source": "X：Jensen Huang (@JensenHuang)",
+    "date": "2026年8月4日23时2分"
+  },
+  {
+    "id": "cmsetkqf416csro2e4vpmvpts",
+    "title": "Anthropic 与成立仅数月的云初创公司 Volta 签订 100 亿美元算力协议",
+    "url": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago",
+    "summary": "Anthropic 与成立仅数月的云初创公司 Volta Infra Holdings 签订六年期协议，锁定价值 100 亿美元的算力。该算力来自挪威 Tydal 数据中心，由 Bitdeer Technologies 运营，配备 Nvidia Vera Rubin 芯片，总容量 133 兆瓦，分两阶段于 2027 年 3 月前交付。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月4日23时21分"
+  },
+  {
+    "id": "cmsetj3u716amro2eil5s0qur",
+    "title": "美15州总检察长要求OpenAI保留AI越狱记录",
+    "url": "https://x.com/AISafetyMemes/status/2084660418124099647",
+    "summary": "美国15位州总检察长致信Sam Altman，要求OpenAI保留与Hugging Face事件相关的全部记录，包括模型或智能体\"给未来版本留言\"及\"如何摆脱OpenAI内部约束\"的材料。主推文称，因近期AI\"逃脱\"事件，情报机构开始认真对待AI接管场景。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月4日23时19分"
+  },
+  {
+    "id": "cmsetl69m16f2ro2ebcj4caa0",
+    "title": "苹果起诉OpenAI窃取商业机密",
+    "url": "https://x.com/cb_doge/status/2084658986553315542",
+    "summary": "最新消息：苹果寻求法院对OpenAI下达禁令，指控其涉嫌窃取商业机密。\n\n两名前苹果工程师涉嫌窃取数千页涉及屏幕、电源系统及未发布产品的机密设计文件，并将其带至OpenAI。苹果要求法院立即查封OpenAI的计算机和文件。\n\n他们先是雇了xAI的人，那人带走了Grok的商业机密。现在又对苹果故技重施。\n\nOpenAI不值得信任。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月4日23时13分"
+  },
+  {
+    "id": "cmsesrlcn15j6ro2ecpj577wj",
+    "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
+    "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+    "summary": "NVIDIA Alpamayo 2 Super 现已开放商用，基于 Cosmos 3 Super Reasoner 构建，采用强化学习后训练，支持轨迹预测、因果链推理、元动作、自动标注及视觉问答等多任务输出。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月4日23时0分"
+  },
+  {
+    "id": "cmsesrlcn15j7ro2evd57my2c",
+    "title": "NVIDIA 开源 cuFile API，推动 GPU 直连存储",
+    "url": "https://blogs.nvidia.com/blog/ai-storage-fms",
+    "summary": "NVIDIA 在 FMS 大会上宣布开源 cuFile API 及底层存储软件栈，让 GPU 可直接读写存储，访问延迟降至微秒级。其 Vera CPU 在两级压缩与加密流水线中吞吐量比 x86 CPU 最高提升 3.21 倍，并联合 40 多家厂商推出 Storage-Next 计划。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月4日23时0分"
+  },
+  {
+    "id": "cmsesinob15e9ro2er48k1gx2",
+    "title": "PixVerse 发布 PixLight 2026 预告",
+    "url": "https://x.com/PixVerse_/status/2084655746927726843",
+    "summary": "献给那些不止于片刻的故事创作者。8 月 7 日。\n\n#PixLight2026 #PixVerse",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月4日23时0分"
+  },
+  {
+    "id": "cmsesgjf1158vro2enu8jzwzd",
+    "title": "Replit 设计马拉松开启，奖金超 5 万美元",
+    "url": "https://x.com/Replit/status/2084655620787990952",
+    "summary": "Replit 设计马拉松正式开启！🎨\n\n- 在 Replit 中打造一个大胆的页首设计\n- 公开分享\n- 角逐 5 万美元以上的现金与奖品\n\n为期一周。获奖者将于 8/14 直播公布。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月4日23时0分"
+  },
+  {
+    "id": "cmseskzwc15flro2enmdkhw5f",
+    "title": "商汤 SenseNova U1 开源：统一推理与图像生成",
+    "url": "https://x.com/SenseTime_AI/status/2084655603885203466",
+    "summary": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成。其信息图模式可将单条提示词转为结构化幻灯片，交错模式则逐步构建图文内容，如生成六步画龙教程。模型已上线 SenseNova Studio 与 HuggingFace。",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "date": "2026年8月4日23时0分"
+  },
+  {
+    "id": "cmserfjpw145lro2e4df2m5ig",
+    "title": "OpenAI 移动端 UI/UX 完胜 Claude",
+    "url": "https://x.com/kimmonismus/status/2084642693133529316",
+    "summary": "Claude Code 和 Codex 我都在用，包括它们的 iOS 应用。天哪，OpenAI 在 UI/UX 上绝对胜出。\n\n相比之下，Claude 的应用感觉像是来自另一个时代。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月4日22时8分"
+  },
+  {
+    "id": "cmseqfprd1386ro2e7nbas4b1",
+    "title": "小红书封禁大量 AI 毒动画、软色情陪聊及教唆自残等违规账号",
+    "url": "https://www.ithome.com/0/985/708.htm",
+    "summary": "小红书今晚发布治理公告，截至 8 月 4 日已累计处置违规笔记 8.4 万余篇、违规评论 10.5 万余条、违规账号 3571 个。平台对恶意篡改经典动画的 AI\"毒动画\"账号\"可 X\"、诱导未成年人软色情陪聊的\"永叽\"、发布自残倾向内容的\"小 * Q\"等典型账号永久封禁，并升级风险识别模型实施前置拦截。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日22时6分"
+  },
+  {
+    "id": "cmsesile415d4ro2evb21j3n0",
+    "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
+    "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
+    "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日22时58分"
+  },
+  {
+    "id": "cmsesgm161599ro2eqm85qe2g",
+    "title": "后训练配方细节问答：Nathan Lambert 课程答疑",
+    "url": "https://x.com/natolambert/status/2084655250125033898",
+    "summary": "Nathan Lambert 发布课程答疑视频，围绕后训练配方细节展开，涵盖能力分训后合并、RLVR 省略 KL 惩罚、约 1M SFT 提示词预算随模型规模扩展、RL 是否等同于带正则化的 SFT、内部轨迹训练与 ICL 处理、纯蒸馏继续预训练是否损害模型等 6 个问题。其课程将更聚焦于后训练主题。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月4日22时58分"
+  },
+  {
+    "id": "cmsesd7rz1576ro2eu39d7kn7",
+    "title": "AI奇点已至，5个普通人搞钱方向",
+    "url": "https://x.com/AYi_AInotes/status/2084654405782016239",
+    "summary": "阿易 AI Notes 称 AI 奇点已至，@chamath 的加速闭环已成立，未来 18 个月大模型使用成本将趋近于零。他给出 5 个普通人可立即行动的方向：把大模型当免费高级同事用于真实工作、用 AI 放大自身优势做副业、练验证与拍板能力、攒线下本事、留现金与选项。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月4日22时55分"
+  },
+  {
+    "id": "cmses2cpo14kuro2ehdj6irxa",
+    "title": "Introducing Shieldstral. August 4， 2026 By Mistral",
+    "url": "https://mistral.ai/news/shieldstral",
+    "summary": null,
+    "source": "Mistral AI：News（网页）",
+    "date": "2026年8月4日22时52分"
+  },
+  {
+    "id": "cmsesio0b15ehro2eoiqiqkox",
+    "title": "马斯克回应Grok游戏将大放异彩",
+    "url": "https://x.com/elonmusk/status/2084651951774454093",
+    "summary": "是的\n\n（引用 @doganuraldesign：Grok 游戏将会非常精彩）",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月4日22时45分"
+  },
+  {
+    "id": "cmseqb9u41316ro2emjd2n49t",
+    "title": "Apple 称更多前员工可能将机密数据带给了 OpenAI",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
+    "summary": "Apple 在针对 OpenAI 的商业机密案中申请初步禁令，并称调查又发现 11 名前员工可能牵涉其中。Apple 还要求法院允许对 OpenAI 及其员工进行快速取证，并指控有前员工在 OpenAI 面试前泄露未发布产品信息。OpenAI 回应称该禁令请求\"基于虚假信息且完全没必要\"，表示\"没有也不想要\"Apple 的商业机密。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月4日22时3分"
+  },
+  {
+    "id": "cmserg09a147zro2epesnlh1o",
+    "title": "机器人恢复能力：地面是绝佳评测标准",
+    "url": "https://x.com/rohanpaul_ai/status/2084648516580950321",
+    "summary": "这是一种有用的固执。\n\n恢复能力是机器人学的头等技能，而地面是一个很好的评测标准。🙂",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日22时31分"
+  },
+  {
+    "id": "cmsetdxgy1670ro2eqrdiur1o",
+    "title": "Databricks 如何用 Query Tags 实现 dbt 管线的细粒度用量归因",
+    "url": "https://www.databricks.com/blog/granular-usage-attribution-dbt-pipelines-query-tags-cloned",
+    "summary": "Databricks 为 dbt 管线引入基于 Query Tags 的细粒度用量归因，可精确追踪每个模型或任务的算力消耗。该方案帮助团队定位成本翻倍的具体模型，将仓库账单与 dbt 模型一一对应，从而优化资源分配与成本控制。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月4日22时25分"
+  },
+  {
+    "id": "cmserfdla1459ro2e4obvxkmi",
+    "title": "美团LongCat-2.0单提示词创意项目展示",
+    "url": "https://x.com/Meituan_LongCat/status/2084646938268627260",
+    "summary": "自发布 LongCat-2.0 以来，我们一直在用它持续创作。\n\n以下是五个创意项目，每个都由单条提示词生成：🧱 体素艺术 🌍 3D 建模 🌊 CG 动画 🎞️ 落地页 🎮 小游戏\n\n来看看吧 👇",
+    "source": "X：美团 LongCat (@Meituan_LongCat)",
+    "date": "2026年8月4日22时25分"
+  },
+  {
+    "id": "cmsetdxgy1671ro2euu81cqib",
+    "title": "Databricks 加入 Open Secure AI Alliance 以推进 AI 安全与防护",
+    "url": "https://www.databricks.com/blog/databricks-joins-open-secure-ai-alliance-advance-ai-safety-and-security",
+    "summary": "Databricks 本周以赞助商身份参加 Black Hat USA 2026，并宣布加入 Open Secure AI Alliance，以推进 AI 安全与防护。该联盟聚焦于 AI 系统的安全性与可靠性。Databricks 在大会设有展位（Booths #5106）。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月4日22时0分"
+  },
+  {
+    "id": "cmseqfpre138dro2epiallrj3",
+    "title": "Linux 暂存区不欢迎 AI 生成补丁，安全修复需通过实际硬件测试验证",
+    "url": "https://www.ithome.com/0/985/693.htm",
+    "summary": "Linux 内核维护者 Greg Kroah-Hartman 宣布，暂存区将不再接受 AI 模型生成的补丁，真实有效的安全漏洞修复除外。他警告 LLM 补丁易被识别，且目前即使最优秀的 AI 工具生成结果中至少三分之一完全错误或有害，提交者须在对应驱动实际硬件上完成测试并说明过程。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日21时9分"
+  },
+  {
     "id": "cmsep8p7211ooro2eoj8iutfb",
     "title": "LLM垃圾内容泛滥，警惕质量降级",
     "url": "https://x.com/ericzakariasson/status/2084627319256396040",
     "summary": "我注意到，最近 LLM 生成的\"垃圾内容\"变得越来越被接受了。我们不断把这种输出喂给大脑，而它正在降低我们对质量的判断标准。这种垃圾内容以前所未有的规模泛滥，所以大家请保持高标准！",
     "source": "X：Eric Zakariasson (@ericzakariasson)",
     "date": "2026年8月4日21时7分"
+  },
+  {
+    "id": "cmses771x1549ro2eq2t1yw4y",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "summary": null,
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年8月4日21时58分"
+  },
+  {
+    "id": "cmseqdgr7137pro2eigaegn91",
+    "title": "Grok Imagine 具备架构能力",
+    "url": "https://x.com/elonmusk/status/2084635712515678600",
+    "summary": "Grok Imagine\n\nGrok Imagine 同样具备架构能力。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月4日21时40分"
+  },
+  {
+    "id": "cmseqdidu137vro2ecqnk42zo",
+    "title": "面壁智能开源 ForgeStencil 自动优化 HPC 应用",
+    "url": "https://x.com/OpenBMB/status/2084635010934677684",
+    "summary": "面壁智能（OpenBMB）发布开源 AI 系统 ForgeStencil，无需人工干预即可自动研究并部署 Stencil 优化，一周内在 100+ 工业和科学计算应用中实现中位数 1.41×、几何平均 2.05× 的端到端加速。系统由 Kernel Agent 和 App Agent 两个 AI 智能体驱动，已应用于天气预报、地震成像、电磁仿真、核工程、医学影像和量化金融等真实负载。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月4日21时38分"
+  },
+  {
+    "id": "cmseqct6v1340ro2eva2xzblk",
+    "title": "马斯克：AI将直接生成二进制取代源码",
+    "url": "https://x.com/frxiaobei/status/2084634248250818802",
+    "summary": "我也觉得应该这样。\n\n一是现在的代码基本已经没人看了，二是模型先生成一遍给人看的源代码，再让计算机翻译成自己能执行的东西，整条链路实在太绕。\n\n既然两头都是机器，中间这层为人准备的代码，早晚会被拿掉。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月4日21时35分"
   },
   {
     "id": "cmsepaxqq11vgro2e4z8erqiz",
@@ -845,6 +1173,46 @@
     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
     "summary": "Google 在 7 月推出三款新 Gemini 模型--Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber，面向生产级 AI 智能体，主打更高 token 效率、更低延迟和更可靠性能。",
     "source": "Google Blog：AI（RSS）",
+    "date": "2026年8月4日21时0分"
+  },
+  {
+    "id": "cmseq167s12m3ro2eas0pbc9y",
+    "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
+    "url": "https://blog.cloudflare.com/astro-issue-triage",
+    "summary": "Cloudflare 在 Astro 仓库上运行自动化 triage 流水线，通过隔离的 AI 子代理复现、诊断并修复 bug，将开放 issue 从 200 多个降至约 30 个，预计下月归零。该流水线由 issue 标签驱动，修复后自动发布预览版本供用户验证。其底层引擎已发展为 Flue，一个开源的平台无关框架，用于构建持久化智能体与工作流。",
+    "source": "Cloudflare Blog",
+    "date": "2026年8月4日21时0分"
+  },
+  {
+    "id": "cmseq167s12m2ro2efhh7h5ia",
+    "title": "Cloudflare 让智能体通过本地追踪调试 Workers",
+    "url": "https://blog.cloudflare.com/local-tracing",
+    "summary": "Cloudflare 即日起在 wrangler dev 和 vite dev 中自动为本地 Worker 调用捕获 OpenTelemetry 追踪，无需安装 SDK 或配置智能体。智能体可通过 Local Explorer API 查询追踪数据，定位失败操作、修复本地环境并验证结果。开发者也可在浏览器界面 Local Explorer 中可视化查看 spans、时序、错误及关联控制台日志。",
+    "source": "Cloudflare Blog",
+    "date": "2026年8月4日21时0分"
+  },
+  {
+    "id": "cmseq167r12m1ro2eqjsdn6wd",
+    "title": "Cloudflare 推出 Agents 平台，率先上线智能体追踪功能",
+    "url": "https://blog.cloudflare.com/agents-on-cloudflare",
+    "summary": "Cloudflare 推出 Cloudflare Agents，将部署在平台上的智能体会话统一到一个视图中，并率先上线 agent tracing 功能。该功能支持 OpenTelemetry 兼容的 Think、Flue 和 AI SDK 等智能体框架，可测量每次模型调用、工具执行和 token 消耗。",
+    "source": "Cloudflare Blog",
+    "date": "2026年8月4日21时0分"
+  },
+  {
+    "id": "cmseq167r12m0ro2e8gufca0p",
+    "title": "Cloudflare 如何用 AI 强制执行工程标准",
+    "url": "https://blog.cloudflare.com/engineering-standards-enforcement",
+    "summary": "Cloudflare 自建 Codex 知识库，将工程标准以 RFC 格式结构化，供 AI 智能体在代码审查、设计审查等环节实时调用。过去四个月，AI 代码审查器标记近 23 万条违规并阻止约 1.6 万次合并；规范审查智能体在实现前评估了近 600 份技术设计。Codex 已收录 60 余份 RFC，采用 SHOULD/MUST 分级，仅强制状态条款可阻止合并。",
+    "source": "Cloudflare Blog",
+    "date": "2026年8月4日21时0分"
+  },
+  {
+    "id": "cmseq167r12lzro2ecc1f23gs",
+    "title": "Cloudflare 推出 CI SDK：在 Cloudflare 上为百万级仓库运行 CI/CD 流水线",
+    "url": "https://blog.cloudflare.com/ci-workflows",
+    "summary": "Cloudflare 推出基于 Workflows 和 Sandbox SDK 的 CI SDK，让平台方直接在 Cloudflare 上运行 CI/CD 流水线，支持构建、lint、类型检查、单元测试、依赖缓存及条件部署。",
+    "source": "Cloudflare Blog",
     "date": "2026年8月4日21时0分"
   },
   {
