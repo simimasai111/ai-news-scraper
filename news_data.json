@@ -1,5 +1,109 @@
 [
   {
+    "id": "cmsdua60801inrofzmuijsiuj",
+    "title": "谷歌发布 Android 17 QPR2 Beta 2，重新设计设置应用图标",
+    "url": "https://www.ithome.com/0/985/270.htm",
+    "summary": "谷歌面向 Pixel 设备推送 Android 17 QPR2 Beta 2 测试版，内部版本号为 CP41.260701.006，距离 Beta 1 发布仅两周。本次更新最明显的变化是重新设计的\"设置\"应用图标正式向所有测试用户开放，并包含常规 Bug 修复和性能优化。初代 Pixel 6 和 Pixel 6 Pro 不在支持名单中，已正式结束生命周期（EOL）支持。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日7时6分"
+  },
+  {
+    "id": "cmsdvz7mp01xero2e86xoccvf",
+    "title": "不要做\"肉代理\"：Niklas Gruhn 提出 AI 输出盲转新词",
+    "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy",
+    "summary": "Niklas Gruhn 提出\"meat proxy\"（肉代理）一词，指那些盲目将 AI 系统输出复制粘贴给同伴的人。他建议可以提示 AI，但不要直接转发输出，而应阅读、理解、验证后用自己的话撰写回复，以此证明完成了前述步骤，这也是个人能增加的价值。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月4日7时45分"
+  },
+  {
+    "id": "cmsdv83mq000sro2evqphhxf1",
+    "title": "Nightcrawler：一款在智能手机上运行的本地AI渗透测试工具",
+    "url": "https://github.com/garagehq/nightcrawler",
+    "summary": "Nightcrawler 是一款运行在智能手机上的本地 AI 渗透测试智能体，已在 GitHub 开源。它无需云端依赖，直接在设备端执行安全测试任务，为移动端安全研究提供了新的工具选择。该项目发布后获得 Hacker News 社区关注，收获 101 个 HN Points。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日7时20分"
+  },
+  {
+    "id": "cmsdua60801iorofzep1w9vj8",
+    "title": "Hugging Face CEO 德朗格：中国正在赢得 AI 竞赛，而美国则在\"各自为战\"",
+    "url": "https://www.ithome.com/0/985/268.htm",
+    "summary": "Hugging Face CEO 德朗格称中国正赢得 AI 竞赛，因其在开放科学和开放模型上比美国更开放，形成相互借鉴的生态，技术发展速度远快于美国。他预计到今年年底或明年，中国可能在开放模型乃至整个前沿 AI 领域占据主导。德朗格还透露，7 月 OpenAI 智能体入侵 Hugging Face 平台时，公司借助智谱开源模型 GLM 5.2 进行防御。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日7时1分"
+  },
+  {
+    "id": "cmsdv83cg000lro2eyp49endp",
+    "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+    "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月4日7时19分"
+  },
+  {
+    "id": "cmsdv8kz0002xro2evm2zfeve",
+    "title": "SlopCodeBench 揭示软件工厂失败关键",
+    "url": "https://x.com/dexhorthy/status/2084417166569570448",
+    "summary": "重点从来不是\"所有软件工厂都会失败\"，而一直是\"有些事会导致你的工厂失败，你应该考虑不要做那些事\"。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月4日7时12分"
+  },
+  {
+    "id": "cmsdu5hiq019xrofzn4un3bhl",
+    "title": "TokTier 让 tokenization 具备状态，提速智能体推理",
+    "url": "https://x.com/omarsar0/status/2084414040760275278",
+    "summary": "TokTier 提出有状态 tokenization 服务，解决智能体场景下 token 边界漂移导致的缓存失效问题。在 153，951 次真实调用中，tokenization 耗时占首 token 延迟的 64%；该方案通过增量修复，将延迟降低 16-34%，速度最高提升 437 倍。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月4日7时0分"
+  },
+  {
+    "id": "cmsdu64lp01dhrofz5hdmj952",
+    "title": "长上下文致对话退化，Ethan Mollick 建议压缩工作摘要",
+    "url": "https://x.com/emollick/status/2084411397169893801",
+    "summary": "Ethan Mollick 认同 Nate 观点：完整上下文可能以多种方式导致对话质量退化，且 AI 对自身状态缺乏准确认知，不宜直接询问。他建议将当前工作压缩为 Markdown 摘要文件，并在新对话中继续使用。Nate 此前观察到 Claude 随上下文变长而变得更固执。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月4日6时49分"
+  },
+  {
+    "id": "cmsdu66z701e4rofzwquy4tgm",
+    "title": "MiniMax H3登顶开源视频生成SOTA",
+    "url": "https://x.com/MiniMax_AI/status/2084410437618352386",
+    "summary": "MiniMax H3在Video Arena和Artificial Analysis基准中成为SOTA开源视频生成模型，在文生视频和图生视频两项均排名第一。其得分较第二名开源模型hunyuan-video-1.5高出280分，图生视频得分1476，仅比Dreamina Seedance-2.0低2分。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月4日6时45分"
+  },
+  {
+    "id": "cmsdua60801iprofzer5r12ud",
+    "title": "前 R 星设计师透露《湾岸午夜俱乐部 5》曾进入开发阶段，最终被取消",
+    "url": "https://www.ithome.com/0/985/262.htm",
+    "summary": "前 R 星 Rockstar San Diego 高级设计师 Kris Roberts 透露，《湾岸午夜俱乐部 5》曾进入开发阶段并完成伦敦城市原型设计，但项目最终被取消。取消原因之一是 Rockstar 内部工作室存在矛盾，该系列长期被视为次要项目，未来资源将全部投入《侠盗猎车手》等作品。项目取消后，原团队成员被重新分配至 RAGE 引擎及《荒野大镖客：救赎》等项目。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日6时45分"
+  },
+  {
+    "id": "cmsdua60801iqrofzf9o18rtx",
+    "title": "苹果因照片应用\"人物识别功能\"面临超 300 亿美元集体诉讼，被指违反伊利诺伊州 BIPA 法案",
+    "url": "https://www.ithome.com/0/985/261.htm",
+    "summary": "苹果因照片应用\"人物与宠物\"识别功能被诉违反美国伊利诺伊州《生物识别信息隐私法》（BIPA），若败诉可能面临高达 325 亿美元赔偿。该诉讼于 2020 年 3 月提起，法院已批准集体诉讼资格并拒绝苹果的上诉请求，案件将返回地区法院审理。此前 Meta 曾因类似面部识别诉讼以 6.5 亿美元和解，Instagram 则支付 6850 万美元达成和解。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日6时34分"
+  },
+  {
+    "id": "cmsduzvg700bhrox95vsovgfu",
+    "title": "Claude 开发者将提示词写入 CLAUDE.md",
+    "url": "https://x.com/charlieholtz/status/2084407468843770176",
+    "summary": "今天把这个加到了 CLAUDE.md 里：",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月4日6时34分"
+  },
+  {
+    "id": "cmsdu04wy00rorofz61t7gwiy",
+    "title": "Fable 5 写方案、Codex 执行、Fable 验收的 Agent 工作流",
+    "url": "https://x.com/hongming731/status/2084406350604607547",
+    "summary": "洪明分享复杂任务工作流：Fable 5 产出技术方案文档，交 Codex（GPT-5.6 Sol xhigh）执行，再由 Fable 5 验收，兼顾方案质量与性价比。文档确认后立即 /compact 可借 Prompt Caching 降低成本。Opus 5 可替代 GPT-5.6，但稳定性与 token 耐用性均不如后者。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月4日6时29分"
+  },
+  {
     "id": "cmsdt377d00yirojf8x7gkip5",
     "title": "用稳健数据加载与自动评判评估多模态视觉模型：Moonshot PerceptionBench 端到端评测流程",
     "url": "https://www.marktechpost.com/2026/08/03/evaluating-multimodal-vision-models-with-moonshot-perceptionbench-using-robust-data-loading-and-automated-judging",
@@ -150,6 +254,14 @@
     "summary": "OpenAI 下一代主要模型的内部版本以约 2，000 美元 token 成本（按 GPT-5.6 Sol API 费率计算），解决了数学和理论计算机科学领域 10 个长期开放问题，并附有完整的 Lean 形式化证明证书。主推文指出，这一成本低于派两人参会的费用，正因如此，开放问题的求解逻辑将被彻底改变。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月4日4时6分"
+  },
+  {
+    "id": "cmsdua60801irrofz5rv5oti1",
+    "title": "安森美 2026 财年第二财季归母净利润 2.27 亿美元，同比增长 33.18%",
+    "url": "https://www.ithome.com/0/985/258.htm",
+    "summary": "安森美发布 2026 财年第二财季财报，营收 16.04 亿美元，同比增长 9.18%，归母净利润 2.27 亿美元，同比增长 33.18%，自由现金流 4.25 亿美元，同比增长 300.94%。PSG 营收 8.29 亿美元，同比增长 19%，AMG 营收同比下降 2%。公司预计 2026 财年 AI 数据中心业务收入翻倍增长，并给出第三财季营收指引 16.50 亿~17.50 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日4时59分"
   },
   {
     "id": "cmsdpunv704xgro0o53h6iowm",
