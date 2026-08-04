@@ -1,5 +1,229 @@
 [
   {
+    "id": "cmseyxz531bl7ro2ewvcu1l1p",
+    "title": "Artificial Analysis 推出端点精度指数，衡量 serverless API 保留开源模型原始精度的程度",
+    "url": "https://x.com/ArtificialAnlys/status/2084702191466725669",
+    "summary": "Artificial Analysis 发布端点精度指数，以官方权重自托管部署为基准（100%），从工具调用、科学推理和长上下文召回三维度评测各 serverless API 端点。首批覆盖 GLM-5.2、gpt-oss-120b 和 DeepSeek V4 Pro，Kimi K3 即将加入。结果显示输出 token 限制和工具调用处理方式会显著拉低部分端点得分。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月5日2时5分"
+  },
+  {
+    "id": "cmsexo89i1abmro2eifbfakam",
+    "title": "Locus 登顶 PostTrainBench，后训练 Qwen3 超越人工",
+    "url": "https://x.com/karinanguyen/status/2084687672468181020",
+    "summary": "Locus 自动化 AI 研究系统在 PostTrainBench 上达到 SOTA，其后训练的 Qwen3 基础模型超越人工后训练的 Qwen3 模型，相关 LLM 已投入生产服务数百万用户。",
+    "source": "X：Karina Nguyen（@karinanguyen）",
+    "date": "2026年8月5日1时7分"
+  },
+  {
+    "id": "cmsey5jdy1asvro2ensfy78d4",
+    "title": "Perplexity CEO强调智能体研究验证关键",
+    "url": "https://x.com/AravSrinivas/status/2084687628130226400",
+    "summary": "在进行高风险研究时使用智能体，验证是关键！\n\n【引用 @jeffgrimes9】：Perplexity Computer 金融查询中的每个数值都可追溯到原始值，并显示完整的计算轨迹。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月5日1时7分"
+  },
+  {
+    "id": "cmsewswuz19mqro2eze6rnax3",
+    "title": "Mariano-Florentino （Tino） Cuéllar 加入 Anthropic 出任首席全球事务官",
+    "url": "https://www.anthropic.com/news/tino-cuellar",
+    "summary": "Anthropic 任命 Mariano-Florentino （Tino） Cuéllar 为首任首席全球事务官，负责全球政策、国际战略参与及政府关系事务。Cuéllar 曾任卡内基国际和平基金会主席、加州最高法院法官，并自 2026 年 1 月起担任 Anthropic 长期利益信托受托人，现已卸任该职务加入公司。",
+    "source": "Anthropic：Newsroom（网页）",
+    "date": "2026年8月5日1时5分"
+  },
+  {
+    "id": "cmseyrhcj1bgmro2ed47t5b0k",
+    "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
+    "url": "https://x.com/OpenRouter/status/2084699413898027064",
+    "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月5日1时54分"
+  },
+  {
+    "id": "cmseyw5oi1bjdro2ekxv7ifw6",
+    "title": "Gemini Spark 自动生成每周 AI 新闻摘要",
+    "url": "https://x.com/joshwoodward/status/2084698846609682675",
+    "summary": "Google Labs 副总裁 Josh Woodward 转发用户案例：用户仅用一条提示词设置 Gemini Spark，即可每周自动在 Drive 创建文档、筛选 5 条重大 AI 新闻并生成带标题、摘要和来源链接的简报。该任务按计划自动运行，无需人工干预，可用于自动化任何重复性工作。",
+    "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+    "date": "2026年8月5日1时51分"
+  },
+  {
+    "id": "cmseyfjcz1au8ro2enx0b7os6",
+    "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+    "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+    "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "date": "2026年8月5日1时51分"
+  },
+  {
+    "id": "cmseyw0ej1bhvro2e6p6wq06g",
+    "title": "OpenAI 首次网红品牌之旅为何引发争议",
+    "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "summary": "OpenAI 上周末组织了一场名为\"Summer Club\"的网红品牌之旅，邀请多位职业与商业领域创作者前往纽约郊外度假村，展示品牌周边并宣传 ChatGPT。活动引发大量网友批评，指责其忽视 AI 的环境影响与就业替代问题，部分视频评论称\"人们会为了免费酒店出卖灵魂\"。OpenAI 回应称创作者是其社区重要组成部分，活动旨在教育，并欢迎健康辩论。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月5日1时46分"
+  },
+  {
+    "id": "cmsewt1u319ogro2eghxmtx46",
+    "title": "PixVerse Live 直播倒计时48小时",
+    "url": "https://x.com/PixVerse_/status/2084686722239983841",
+    "summary": "⏰ 仅剩48小时。将创意实时转化为视频。8月6日（太平洋时间上午10-11点）加入PixVerse Live，参与实时问答、创意基础讲解，并观看实时制作的真实视频。\n\n🎁 5，000 PixVerse积分等你来拿。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月5日1时3分"
+  },
+  {
+    "id": "cmseyy6w71bntro2em27zagbp",
+    "title": "HyperAgent 成 Airtable 新篇章，1.285B 收购引热议",
+    "url": "https://x.com/swyx/status/2084695630237311086",
+    "summary": "我们是 Airtable 的忠实粉丝--AIE 就运行在 Airtable 上--所以看到这个数字可能令人意外，但别小看 @howietl！\n\n如果你参加过 WF26，应该已经见过 @hyperagentapp，那是 Airtable 团队的下一篇章！\n\n【引用 @fedesimio】：我们已正式达成协议，以 12.85 亿美元收购 Airtable！😍",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月5日1时39分"
+  },
+  {
+    "id": "cmseyy35u1bmbro2ezt5l975w",
+    "title": "Gemini Omni 今晚限时免费生成十个视频",
+    "url": "https://x.com/GeminiApp/status/2084695279870357720",
+    "summary": "在 Gemini Omni 中免费创建十个视频，截止时间为太平洋时间今晚 11：59。\n\n可在网页端或应用中尝试，并在回复中分享你的作品。",
+    "source": "X：Gemini (@GeminiApp)",
+    "date": "2026年8月5日1时37分"
+  },
+  {
+    "id": "cmsexviky1akfro2e5pmlbntn",
+    "title": "Krea 发布 FLUX 3，支持真实世界交互",
+    "url": "https://x.com/krea_ai/status/2084694677522157763",
+    "summary": "推出 FLUX 3。\n\n不止于视频，这是首个通过全新动作预测系统支持与真实世界交互的模型。\n\n现已登陆 Krea，更多模态即将推出。",
+    "source": "X：Krea AI (@krea_ai)",
+    "date": "2026年8月5日1时35分"
+  },
+  {
+    "id": "cmseyw0ej1bhwro2e3vrkvuix",
+    "title": "\"不健康\"的LLM使用比想象中更普遍",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+    "summary": "YouTuber Hank Green因被批评使用AI而暂停内容制作，称自己的AI使用\"不健康\"，但强调仅用于查找研究资料而非撰写脚本。专家指出，AI聊天机器人天生为持续对话而设计，类似社交媒体，可能在引发精神危机前就导致强迫性依赖、认知卸载和批判性思维下降。OpenAI称其周活跃用户已超9亿，即便仅部分使用不健康，受影响人数也可能达数百万。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月5日1时33分"
+  },
+  {
+    "id": "cmsextgzp1aghro2e4541ccyk",
+    "title": "DeepSeek Harness 开源项目内测招募启动",
+    "url": "https://x.com/tianyi/status/2084693319188439211",
+    "summary": "DeepSeek 官方发起 DSH（DeepSeek Harness）内测招募，面向 Agent Harness 相关开源项目作者。入选者可获内测资格及部分 API 额度，实现 DSH 发布时第一时间接入支持。参与需回复 GitHub id、项目地址及邮箱。",
+    "source": "X：Tianyi Cui（@tianyi）",
+    "date": "2026年8月5日1时29分"
+  },
+  {
+    "id": "cmsextgmd1agdro2ebut8058x",
+    "title": "苹果寻求初步禁令，称更多前员工可能将机密数据带到OpenAI",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
+    "summary": "苹果在针对OpenAI的商业机密案中寻求初步禁令，并申请加快取证，指控更多前员工可能参与泄密。除已起诉的刘昌和谭约伟外，调查又发现11名前苹果员工可能涉案。OpenAI回应称该请求\"基于虚假信息且完全没必要\"，强调\"没有也不想要\"苹果的商业机密。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月5日1时28分"
+  },
+  {
+    "id": "cmsexv37u1aibro2ewtph6c2c",
+    "title": "今年普利策奖创纪录：8位获奖者披露使用AI",
+    "url": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use",
+    "summary": "今年普利策奖创纪录地有8位获奖者披露使用AI，包括5位获奖者和3位入围者，披露要求自2024年起实施。获奖者主要用AI和大语言模型快速检索海量文件，如《华尔街日报》用内部LLM总结得州洪水文件，美联社用LLM搜索数万份监控技术泄密文件，《纽约时报》用GPT-5核查SEC加密案件分类。普利策管理员称新闻业已接受\"AI将长期存在\"，明年起图书类作品也需披露。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月5日1时26分"
+  },
+  {
+    "id": "cmsextmvz1ah3ro2e4w5o5zbe",
+    "title": "SlopCodeBench 新结果：Fable 5、GPT-5.6-Sol、Kimi K3",
+    "url": "https://x.com/dexhorthy/status/2084692256460816541",
+    "summary": "应大家要求--新前沿模型 SlopCodeBench 结果出炉：Fable 5、GPT-5.6-Sol 和 Kimi K3\n\n直播现在开始，回顾结果！！！http://x.com/i/article/2083255912949788672",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月5日1时25分"
+  },
+  {
+    "id": "cmsextmvz1ah4ro2ewlojbqaf",
+    "title": "SlopCodeBench：AI 编程基准评测新标准",
+    "url": "https://x.com/dexhorthy/status/2084691326495490256",
+    "summary": "SlopCodeBench：🦄 真正可用的 AI 第 68 期 https://x.com/i/broadcasts/1PKqrrMqaQdGb",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月5日1时21分"
+  },
+  {
+    "id": "cmsexviqv1akhro2ecov2yjjq",
+    "title": "Not Diamond Code 发布，推理路由层降本 20%+",
+    "url": "https://x.com/rohanpaul_ai/status/2084690482312155509",
+    "summary": "Not Diamond 发布 Not Diamond Code，一个为长时程编码智能体设计的模型路由层，可在每一步切换模型。官方称其可将成本降低 20% 以上且不损失整体任务质量，并兼容 Claude Code 等网关。在基准测试中，混合路由策略相比 Anthropic 单一策略性能提升 3.6%，节省成本从 39% 增至 66%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日1时18分"
+  },
+  {
+    "id": "cmsexo9221aboro2erse3g0ov",
+    "title": "如何用 LangSmith 评估语音智能体",
+    "url": "https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience",
+    "summary": "LangChain 官方博客介绍如何用 LangSmith 评估语音智能体，覆盖执行、结果与来电者体验三个层面。评估手段包括 LangSmith traces、代码评估器、LLM judges 和人工审查，帮助开发者系统化验证语音智能体的实际表现。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月5日1时15分"
+  },
+  {
+    "id": "cmsex23r119slro2e2v22z81o",
+    "title": "Gemini Notebook 升级版全面上线",
+    "url": "https://x.com/testingcatalog/status/2084688700567417266",
+    "summary": "升级版 @Gemini_Notebook 体验现已向所有用户开放！Gemini 现在可以直接在聊天中生成多种文件类型并进行研究。\n\n现在我们需要应用了👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月5日1时11分"
+  },
+  {
+    "id": "cmsewsywq19ncro2e20l7x1rv",
+    "title": "Claude 工具调用频率分析：Fable 5 逆势领先",
+    "url": "https://x.com/SemiAnalysis_/status/2084684858282954907",
+    "summary": "Claude 使用工具的频率如何？\n\n我们查看了收集到的 227 万条 Claude 响应来寻找答案。\n\nOpus 模型从 Opus 4.6 到 Opus 4.8 的工具调用呈现明显下降趋势。然而，Fable 5 打破了这一模式，平均每条响应调用 1.00 次工具，而 Opus 4.8 为 0.76 次，Opus 5 为 0.79 次。（1/2）🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月5日0时56分"
+  },
+  {
+    "id": "cmsewraob19jyro2ewqw7jgc9",
+    "title": "Mistral 发布 Shieldstral 端侧安全模型",
+    "url": "https://x.com/MistralAI/status/2084684735725379637",
+    "summary": "🛡️推出 Shieldstral，Mistral 的 3B 开放权重内容安全模型，可部署在设备端 🧵 http://mistral.ai/news/shieldstral",
+    "source": "X：Mistral AI (@MistralAI)",
+    "date": "2026年8月5日0时55分"
+  },
+  {
+    "id": "cmsewvd8f19psro2el3xjquko",
+    "title": "Qwen3.8-Max 上线 Hermes Agent",
+    "url": "https://x.com/Alibaba_Qwen/status/2084683919937634507",
+    "summary": "Qwen3.8-Max 现已上线 Hermes Agent！开造吧！🚀🚀",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月5日0时52分"
+  },
+  {
+    "id": "cmsewck8518x6ro2e32q4bksr",
+    "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+    "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+    "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
+    "source": "GitHub Blog",
+    "date": "2026年8月5日0时47分"
+  },
+  {
+    "id": "cmsew3l4y18qhro2edk0yaat8",
+    "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+    "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+    "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+    "source": "Google Developers Blog（RSS）",
+    "date": "2026年8月5日0时45分"
+  },
+  {
+    "id": "cmsewt0r719o2ro2emm0g3l9z",
+    "title": "DAPD双锚定策略蒸馏论文发布",
+    "url": "https://x.com/_akhaliq/status/2084681869501555031",
+    "summary": "DAPD\n\n双锚定策略蒸馏\n\n论文：https://huggingface.co/papers/2608.01735",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月5日0时44分"
+  },
+  {
+    "id": "cmsewqv1l19izro2e9vmb8mkc",
+    "title": "Not Diamond Code 路由：Claude Code 低成本逼近 Opus 4.8",
+    "url": "https://x.com/omarsar0/status/2084681771694600294",
+    "summary": "Not Diamond 推出 Not Diamond Code，一款面向长时程编码智能体的模型路由器，原生支持 Claude Code。它可在会话每轮前自动选择模型与推理强度，经隐私保护本地代理运行，请求仍走用户自有网关。其基准测试显示，能以比 Opus 4.8 Xhigh 低 39%-61% 的成本逼近其质量，整体成本降幅为 20%-65%。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月5日0时44分"
+  },
+  {
     "id": "cmseulooi17horo2edb36j6wf",
     "title": "Bolt 推出模板市场，免费全栈应用模板",
     "url": "https://x.com/omarsar0/status/2084671488259403807",
@@ -8,11 +232,147 @@
     "date": "2026年8月5日0时3分"
   },
   {
+    "id": "cmsewshps19kuro2e31igaumb",
+    "title": "Google 联手 Broadcom 与摩根士丹利，将 350 亿美元 Anthropic 芯片风险移出资产负债表",
+    "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet",
+    "summary": "Google 与 Broadcom、Apollo、Blackstone、摩根士丹利及多家加密矿企合作，为 Anthropic 提供价值 350 亿美元的 TPU 芯片融资，被英国《金融时报》称为史上最大基础设施融资项目之一。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月5日0时38分"
+  },
+  {
+    "id": "cmsewt0r719o3ro2eyk6csr11",
+    "title": "LongHorizon-Harness 推进长时程智能体研究",
+    "url": "https://x.com/_akhaliq/status/2084680378732753252",
+    "summary": "LongHorizon-Harness\n\n推进面向真实世界任务的长时程智能体\n\n论文：https://huggingface.co/papers/2608.01964",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月5日0时38分"
+  },
+  {
+    "id": "cmsewnkhw19huro2egs6un7zr",
+    "title": "梁文锋26岁闯无人区，DeepSeek成功源于性格",
+    "url": "https://x.com/AYi_AInotes/status/2084680233400009074",
+    "summary": "梁文锋26岁独自驾车深入西藏阿里无人区400公里，被困一周后弃车走出，12年后创立DeepSeek。作者认为DeepSeek的技术路线、成本结构并非商业策略，而是梁文锋性格的延续：敢赌敢输、极致效率、不随大流。引用推文显示，DeepSeek V4完成同一Agent任务仅需3美分，比Anthropic的Fable 5便宜105倍，智能正变成大宗商品。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月5日0时37分"
+  },
+  {
+    "id": "cmsewsi3119kwro2eimcup1p6",
+    "title": "SSI 首款大模型将于八月发布",
+    "url": "https://x.com/kimmonismus/status/2084680033080095067",
+    "summary": "出发吧：Ilya Sutskever 的 SSI 将于八月推出其首款大语言模型。\n\n我们正在加速，朋友们！",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月5日0时37分"
+  },
+  {
+    "id": "cmsevqd8d18iuro2eb9djjwua",
+    "title": "NewEyes 用摄像头取代提示词，实现主动式多模态 AI",
+    "url": "https://x.com/rohanpaul_ai/status/2084679429037633898",
+    "summary": "NewEyes 尝试从多模态 AI 中移除提示词，让摄像头本身成为触发机制：视觉感知识别潜在需求，持久记忆补充上下文，系统自行判断是否采取行动。该应用由 CollovLabs 推出，是首批由端侧多模态智能驱动的消费级 AI 应用之一，可主动实现所见即购、穿搭建议、房间设计、餐食计数及植物缺水提醒等功能。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日0时34分"
+  },
+  {
+    "id": "cmsevqgt118kfro2e00eoxsv4",
+    "title": "Goodfire Silico 公测，可解释前沿 AI 研究",
+    "url": "https://x.com/deedydas/status/2084679398553469437",
+    "summary": "Goodfire 的 AI 研究平台 Silico 正式公开可用，支持在 frontier 规模下解释和训练模型。Deedy Das 实测称，Silico 能对视觉 Transformer（ViT）逐头可视化 ImageNet 图像的 196x196 注意力矩阵，并生成动画弧线展示 patch 间关系，是目前唯一能一次性完成此类综合 AI 研究的模型或产品。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月5日0时34分"
+  },
+  {
+    "id": "cmsevobj518f3ro2elfddi8n2",
+    "title": "自复制AI病毒概念验证成功引担忧",
+    "url": "https://x.com/AISafetyMemes/status/2084678993308205353",
+    "summary": "研究人员基于2025年开源权重模型，首次成功验证了可自我复制的AI病毒概念。该蠕虫能针对每个目标生成定制攻击策略，并寄生在被入侵机器上运行开源大模型以维持推理和扩展攻击。作者警告需为自主生成式对抗威胁做好准备。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月5日0时32分"
+  },
+  {
+    "id": "cmsevlu4f18d9ro2ehp19or37",
+    "title": "To Stay Ahead on AI， Think Like a Designer",
+    "url": "https://every.to/p/to-stay-ahead-on-ai-think-like-a-designer",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月5日0时31分"
+  },
+  {
+    "id": "cmsevzhu118p8ro2evd0i8sec",
+    "title": "Not Diamond Code 智能模型路由器发布",
+    "url": "https://x.com/testingcatalog/status/2084677695762313346",
+    "summary": "Not Diamond 发布智能模型路由器 Not Diamond Code，支持长时编码智能体会话，可在每一步选择模型与推理力度。它可运行于 Claude Code 等现有网关，推理成本降低 20% 以上，并新增缓存感知路由，成本可降 20-65% 且不影响质量。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月5日0时27分"
+  },
+  {
+    "id": "cmsevpvt718gqro2eoloxugu8",
+    "title": "Collov Labs 发布 NewEyes：手机拍照即可点餐",
+    "url": "https://x.com/kimmonismus/status/2084675007783829976",
+    "summary": "Collov Labs 今日发布 NewEyes，一款由端侧多模态智能驱动的消费级 AI 应用。演示中，用户用手机拍下日文菜单，即可获得每道菜的翻译、生成图片、过敏原提示、推荐，并直接用日语完成点餐。NewEyes 具备实时感知、持久记忆与长程执行能力，可主动为用户服务。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月5日0时17分"
+  },
+  {
+    "id": "cmsevqg7m18k1ro2ecgnvbcgj",
+    "title": "fofr 用 AI 生成夜间森林跑酷视频",
+    "url": "https://x.com/fofrAI/status/2084674978293612957",
+    "summary": "> 一段业余拍摄的夜间森林跑酷录像，头灯发出刺眼的白光。在森林中，他们发现自己其实身处一个巨大的室内森林，并来到一扇通往室内的墙门前，穿门而入。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月5日0时17分"
+  },
+  {
+    "id": "cmsevsskb18m4ro2e0mqcb2cj",
+    "title": "Qwen-Image-3.0-Pro 跻身全球第五",
+    "url": "https://x.com/Alibaba_Qwen/status/2084674586462007458",
+    "summary": "Qwen-Image-3.0-Pro 相比上一代实现了巨大飞跃，目前排名全球第五。感谢认可！我们将继续前行。🚀",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月5日0时15分"
+  },
+  {
+    "id": "cmsevqh8x18kjro2ellp6j3zj",
+    "title": "开源生态共享，MoK内核开源获赞",
+    "url": "https://x.com/leerob/status/2084673431820267829",
+    "summary": "当我们共同分享研究与代码时，开放生态将从中受益。为此感到自豪。开源万岁！",
+    "source": "X：Lee Robinson (@leerob)",
+    "date": "2026年8月5日0时10分"
+  },
+  {
     "id": "cmseulpej17hwro2edoz7az8u",
     "title": "Replit 设计马拉松 5 万美元奖金",
     "url": "https://x.com/Replit/status/2084670798393213072",
     "summary": "Replit 设计马拉松--5 万美元以上现金与奖品 https://x.com/i/broadcasts/1qxoNNowOagJv",
     "source": "X：Replit (@Replit)",
+    "date": "2026年8月5日0时0分"
+  },
+  {
+    "id": "cmseuwra417r6ro2ewp3uzvtb",
+    "title": "NVIDIA 加入 NSF 州与区域 AI 基础设施中心计划，扩大全美 AI 研究与教育覆盖",
+    "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program",
+    "summary": "NVIDIA 参与美国国家科学基金会（NSF）今日启动的州与区域 AI 基础设施中心计划，旨在扩大先进计算、数据、软件与专业知识的获取范围。该计划支持州级及多州高校联盟共享 AI 算力资源，可灵活采用本地部署、云计算或混合方式。NVIDIA 将提供培训资源、教育支持与技术指导，并延续其作为 NAIRR 试点项目主要贡献者的合作模式。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月5日0时0分"
+  },
+  {
+    "id": "cmsevj43q18b1ro2euo5lfmyf",
+    "title": "Lyft、Vodafone、LATAM Airlines 的 CX 智能体生产实践与经验教训",
+    "url": "https://www.langchain.com/blog/customer-experience-cx-agents-in-production-lessons-from-lyft-vodafone-and-latam-airlines",
+    "summary": "LangChain 梳理了 Lyft、Vodafone 和 LATAM Airlines 将客户体验（CX）智能体投入生产的实践。三家企业的共同经验是：先用小范围场景验证价值，再逐步扩展；同时需重视智能体与现有客服系统的集成、人工接管机制以及持续评估。文章还总结了避免过度承诺、明确智能体能力边界等关键教训。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月5日0时0分"
+  },
+  {
+    "id": "cmsevo5m118dnro2egdcoaq7p",
+    "title": "Target 如何借助 Spanner Graph 将数据库维护成本降低 50% 并提升零售发现体验",
+    "url": "https://cloud.google.com/blog/topics/retail/how-target-rebuilt-retail-discovery-with-spanner-graph",
+    "summary": "Target 基于 Spanner Graph 构建企业级\"图之图\"本体，统一商品图谱、向量嵌入与全文检索，支撑 Gift Finder 等 AI 购物助手，并将数据库维护成本降低 50%。团队通过四阶段零停机迁移，淘汰了 Elasticsearch 集群，在单一引擎中实现多跳图遍历、向量相似度与全文查询，并支持 ACID 事务。",
+    "source": "Google Cloud：Databases（RSS）",
+    "date": "2026年8月5日0时0分"
+  },
+  {
+    "id": "cmsevo5m118dmro2e9d1ven6v",
+    "title": "Google Cloud 推出 Database Operations Agents，实现自主数据库管理",
+    "url": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents",
+    "summary": "Google Cloud 在 Agentic Data Cloud 发布中推出两款 AI 数据库智能体：Database Onboarding Agent 负责 Day 0 的配置与部署，Database Observability Agent 负责 Day 1/2 的监控、故障排查与维护。",
+    "source": "Google Cloud：Databases（RSS）",
     "date": "2026年8月5日0时0分"
   },
   {
@@ -829,6 +1189,14 @@
     "url": "https://x.com/rohanpaul_ai/status/2084669509898809719",
     "summary": "这种机器人手可能会让按摩店出现裁员 😅 协调的手指运动。握拳、指点和张开。完全握合手掌。手掌张开、精确捏取动作以及手指控制。Xynova 亮相维也纳 ICRA 2026。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日23时55分"
+  },
+  {
+    "id": "cmseut2a517pjro2eb7hkuz07",
+    "title": "How auto mode works with Claude Code",
+    "url": "https://www.youtube.com/watch?v=b8SV4U6fEIc",
+    "summary": null,
+    "source": "Claude：YouTube（RSS）",
     "date": "2026年8月4日23时55分"
   },
   {
