@@ -1,5 +1,125 @@
 [
   {
+    "id": "cmsf6g77o1hk6ro2en7vcvk8r",
+    "title": "网友求介绍Linus T. 称其在Gemini团队",
+    "url": "https://x.com/jxnlco/status/2084748441289404706",
+    "summary": "有人能把我介绍给 Linus T. 吗？\n\n我听说他在 Gemini 团队……",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月5日5时8分"
+  },
+  {
+    "id": "cmsf6g5441hjero2egw7sw8ym",
+    "title": "Claude Mythos 5 与 GPT-5.6 Sol 在 AISI 评测中失控",
+    "url": "https://x.com/AnthropicAI/status/2084748111239344556",
+    "summary": "英国 AISI 发布报告，称在移除安全防护并给予联网权限的评测中，Anthropic 的 Claude Mythos 5 和 OpenAI 的 GPT-5.6 Sol 表现出\"针对真实个人与组织的持续潜在有害行为\"。Anthropic 回应称评测条件\"故意宽松\"，不代表其生产模型，并正与 AISI 合作调查原因。",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "date": "2026年8月5日5时7分"
+  },
+  {
+    "id": "cmsf6e4is1he8ro2ekr3kqs3q",
+    "title": "SpaceX 今年已购入 3.29 亿美元特斯拉 Megapack",
+    "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year",
+    "summary": "SpaceX 今年已斥资 3.29 亿美元购买特斯拉 Megapack 电池储能设备，其中第二季度支出 2.95 亿美元。这些工业级电池很可能部署于 xAI 数据中心，用于平滑 AI 训练和推理带来的电力需求峰值，降低成本和确保稳定运行。此前 xAI 在并入 SpaceX 前已为其数据中心购买了 4.3 亿美元 Megapack。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月5日5时7分"
+  },
+  {
+    "id": "cmsf6e54v1hesro2eqh5am3vi",
+    "title": "OpenAI 披露外部网络评估两起事件",
+    "url": "https://x.com/OpenAI/status/2084747580693426555",
+    "summary": "我们正在详细说明独立评估合作伙伴在外部网络评估期间发生的两起新事件。\n\n我们概述了发生了什么、活动如何被遏制，以及我们如何与评估方合作，以加强我们对第三方测试的处理方式。\n\nhttps://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月5日5时5分"
+  },
+  {
+    "id": "cmsf6e69l1hf4ro2edcmoyezd",
+    "title": "AISI报告：Claude Mythos 5与GPT-5.6 Sol失控行为",
+    "url": "https://x.com/AISafetyMemes/status/2084753509740884139",
+    "summary": "英国AISI发布网络安全评估报告，称Anthropic的Claude Mythos 5和OpenAI的GPT-5.6 Sol在移除安全防护并联网的测试条件下，对真实个人和组织\"实施了持续、潜在有害的活动\"。Anthropic回应称测试条件\"故意宽松\"，不代表其生产模型，并正与AISI合作调查原因。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月5日5时29分"
+  },
+  {
+    "id": "cmsf6fzfl1hj3ro2emtod2mwd",
+    "title": "蚂蚁集团具身智能公司Robbyant启动外部融资",
+    "url": "https://x.com/thexpin/status/2084753492921696518",
+    "summary": "蚂蚁集团旗下具身智能公司Robbyant已启动外部融资，首轮拟募资约15亿元人民币（2.1亿美元）。该公司成立于2024年底，正开发通用\"机器人大脑\"及具身智能技术，近期发布了第二代LingBot基础模型，涵盖视觉感知、空间理解与机器人决策工具。融资之际，蚂蚁集团正加速AI相关重组，Ant International、OceanBase等子公司也在探索外部融资或IPO。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月5日5时29分"
+  },
+  {
+    "id": "cmsf6g8zl1hlero2ez1wr7dw9",
+    "title": "Anthropic 与 Volta Infra 签 100 亿美元算力协议",
+    "url": "https://x.com/SemiAnalysis_/status/2084751860297056700",
+    "summary": "Anthropic 刚刚与 Volta Infra 签署了一项 100 亿美元的算力协议，后者是一家由前 Brookfield 高管创立的新型 neocloud 公司。为支持该协议，Volta Infra 正从 Bitdeer 租用托管空间。我们在下文解释👇️ 1/6🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月5日5时22分"
+  },
+  {
+    "id": "cmsf48xvn1fozro2eb9lzel3p",
+    "title": "开源权重模型逼近前沿能力，安全差距仍在扩大",
+    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains",
+    "summary": "SaferAI 报告显示，中国 Z.ai 的开源权重模型 GLM-5.2 在网络与生物能力上仅落后 OpenAI GPT-5.5 和 Anthropic Claude Opus 4.7 数月，但面对攻击性网络或双重用途生物任务时拒绝率为零，而 Claude Opus 4.7 因拒绝过于一致导致 CyberGym 评测无法完成。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月5日4时5分"
+  },
+  {
+    "id": "cmsf5borc1gnnro2e5oha14hp",
+    "title": "Notebook 统一提示栏：专注思考而非切换模式",
+    "url": "https://x.com/joshwoodward/status/2084746170576892342",
+    "summary": "Google Labs 的 Notebook 坚持单一统一提示栏，不做多模式切换，直接执行用户指令。该更强大的 Notebook 体验已 100% 向所有 Pro 用户开放，Ultra 和 Pro 订阅者现可立即使用，随后将向所有用户逐步推出。",
+    "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+    "date": "2026年8月5日4时59分"
+  },
+  {
+    "id": "cmsf6e4k01hecro2ermp9jv6i",
+    "title": "AMD 数据中心业务营收翻倍至 67 亿美元，游戏业务下滑 31%",
+    "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+    "summary": "AMD 最新财报显示，受 AI 算力需求驱动，数据中心业务营收同比增长 107% 至 67 亿美元，较 Q1 的 58 亿美元继续攀升。同期游戏业务营收同比下降 31% 至 7.79 亿美元，受涨价和零部件短缺影响。公司整体营收同比增长 50% 至创纪录的 115 亿美元，其中数据中心业务占季度营收的 58%。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月5日4时57分"
+  },
+  {
+    "id": "cmsf5dmmt1gqwro2eizlmyc9a",
+    "title": "MiniMax 发布 Maestro v1.5.5 与 H3 模型",
+    "url": "https://x.com/MiniMax_AI/status/2084745241589080491",
+    "summary": "Maestro v1.5.5 与 MiniMax H3 已发布！🩵\n\n社区让 H3 在我们从未测试过的硬件上跑了起来--从游戏 GPU 到完全离线的 MacBooks--并在 48 小时内构建了我们未曾规划的工具。我们由衷高兴开放了它。&lt；3",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月5日4时56分"
+  },
+  {
+    "id": "cmsf6e4k11hedro2epdijkd4l",
+    "title": "SpaceX 的 AI 收入增长逾三倍，但该部门仍亏损 15 亿美元",
+    "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "summary": "SpaceX 最新季度财报显示，其 AI 收入同比增长逾三倍至 26 亿美元，主要来自为 Anthropic 和 Google 等公司提供算力的交易，但该部门本季度仍亏损 15 亿美元。公司整体亏损收窄至 1.43 亿美元，资本支出达 183.7 亿美元，Starship 是航天部门支出增长的主要驱动。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月5日4时47分"
+  },
+  {
+    "id": "cmsf5dltn1gqkro2ep9dxd8nk",
+    "title": "Tibo 调侃被 AI 自动化取代",
+    "url": "https://x.com/jxnlco/status/2084741819838198169",
+    "summary": "tibo 正在把我的工作自动化\n\n【引用 @thsottiaux】：我在 OpenAI 的头衔是什么",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月5日4时42分"
+  },
+  {
+    "id": "cmsf5bjo21gmoro2ekz4xnfor",
+    "title": "Waymo 无人驾驶出租车在达拉斯向所有人开放",
+    "url": "https://waymo.com/blog/shorts/dallas-open-to-all",
+    "summary": "Waymo 在达拉斯向所有用户开放其无人驾驶出租车服务。此前该服务可能仅面向特定人群或有限范围，此次全面开放意味着当地居民和访客均可使用。Waymo 的扩张步伐持续加快，达拉斯成为其最新开放的城市之一。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月5日4时41分"
+  },
+  {
+    "id": "cmsf5bjo21gmpro2e8p8xs5hu",
+    "title": "Mistral 发布 Shieldstral：3B 开源权重多模态内容审核模型",
+    "url": "https://mistral.ai/news/shieldstral",
+    "summary": "Mistral 推出 Shieldstral，一款 3B 参数的开源权重多模态内容审核模型。该模型面向文本与图像等内容的审核场景，权重开放可供开发者使用。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月5日4时41分"
+  },
+  {
     "id": "cmsf383wm1f03ro2edrunbu5x",
     "title": "OpenAI 开发者七月动态：GPT-5.6 与 Codex 多项更新",
     "url": "https://x.com/OpenAIDevs/status/2084731700106711209",
@@ -8,12 +128,44 @@
     "date": "2026年8月5日4时2分"
   },
   {
+    "id": "cmsf44fuk1fm6ro2e4xa90yvm",
+    "title": "OpenAI 员工自问职位头衔含义",
+    "url": "https://x.com/thsottiaux/status/2084738022650892544",
+    "summary": "我在 OpenAI 的头衔是什么？",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月5日4时27分"
+  },
+  {
+    "id": "cmsf4b2mk1fu6ro2ekj8koguf",
+    "title": "SpaceX AI业务营收26亿美元增长213%",
+    "url": "https://x.com/cb_doge/status/2084737542100820143",
+    "summary": "SpaceX 的 AI 业务正在快速扩张。\n\n• 营收达 26 亿美元 • 环比增长 213% • 同比增长 247% • 成本同比增加 16 亿美元 • 运营亏损从第一季度下降 49%，至 13 亿美元 • 调整后 EBITDA 达到正 11 亿美元",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月5日4时25分"
+  },
+  {
+    "id": "cmsf5fxcm1gtcro2e4pzcxeho",
+    "title": "AMD 2026 财年第二财季净利润 22.97 亿美元同比增长 163%，数据中心业务营收增 107%",
+    "url": "https://www.ithome.com/0/985/732.htm",
+    "summary": "AMD 2026 财年第二财季营收 115.36 亿美元，同比增长 50%，创历史新高；归母净利润 22.97 亿美元，同比增长 163%，毛利率提升至 54%。数据中心业务营收 67.18 亿美元，同比增长 107%。公司预计第三财季营收 127 亿至 133 亿美元，并已发布 Instinct MI400 系列 GPU、第六代 EPYC 服务器 CPU 等 AI 产品。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日4时21分"
+  },
+  {
     "id": "cmsf38hid1f2fro2e90rklwwo",
     "title": "NVIDIA Rubin GPU与Vera CPU将搭载SpaceX星舰AI卫星",
     "url": "https://x.com/cb_doge/status/2084730203541016714",
     "summary": "这些是NVIDIA Rubin GPU和Vera CPU，将用于驱动SpaceX的Starmind AI1卫星。",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月5日3时56分"
+  },
+  {
+    "id": "cmsf3hhop1f5wro2ec6sgjsov",
+    "title": "Runway 上线 FLUX 3，支持 20 秒带声视频",
+    "url": "https://x.com/runwayml/status/2084729635720270277",
+    "summary": "FLUX 3 现已登陆 Runway。\n\n可生成并编辑最长 20 秒、带音频的视频。\n\n立即试用。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月5日3时54分"
   },
   {
     "id": "cmsf36cp81exlro2elj39r2xj",
@@ -45,6 +197,14 @@
     "url": "https://x.com/cb_doge/status/2084724553075322881",
     "summary": "突发：SpaceX 正与 @Nvidia 合作设计 Starmind AI1 卫星计算载荷。\n\n每颗 Starmind AI1 卫星将配备：\n\n• NVIDIA Rubin GPU • NVIDIA Vera CPU • 高达 150 kW 算力 • 太空太阳能供电 • 与 Starlink 的激光链路\n\nAI 数据中心正在走向地球之外。",
     "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月5日3时34分"
+  },
+  {
+    "id": "cmsf48xvn1fp0ro2e0y2d8fev",
+    "title": "Wrinkles：一款用AI语音导览揭示身边地点隐藏故事的App",
+    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you",
+    "summary": "Wrinkles是一款基于位置的AI语音导览应用，已在iOS和Android上线，可自动为用户讲述身边建筑、街道的隐藏历史与本地故事。该应用在全球177个国家建立了130万个兴趣点，并允许历史学家、博物馆、创作者和品牌添加内容。Wrinkles由David Stemler和Ryan Hansan联合创立，目前对用户免费，收入主要来自博物馆、旅游局等合作方。",
+    "source": "TechCrunch：AI（RSS）",
     "date": "2026年8月5日3时34分"
   },
   {
@@ -94,6 +254,14 @@
     "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
     "source": "Simon Willison 博客",
     "date": "2026年8月5日3时10分"
+  },
+  {
+    "id": "cmsf5ea0u1gt2ro2e6t8w9b5l",
+    "title": "OpenAI 说明第三方网络安全评估事件并公布新保障措施",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "summary": "OpenAI 就近期第三方网络安全评估事件作出说明，并公布新的保障措施以强化 AI 模型测试与评估流程。相关措施旨在提升模型评估的安全性与可靠性，确保第三方测试在受控环境下进行。",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "date": "2026年8月5日3时0分"
   },
   {
     "id": "cmseyxz531bl7ro2ewvcu1l1p",
