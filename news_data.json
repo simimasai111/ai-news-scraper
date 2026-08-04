@@ -1,5 +1,213 @@
 [
   {
+    "id": "cmse0n72k087gro2e2w14jo1z",
+    "title": "Codex 自主开发游戏并接管电脑",
+    "url": "https://x.com/emollick/status/2084459212281962833",
+    "summary": "当然，网页里的 3js 挺酷的，但 Codex：\"你可以访问 Blender 和 Unity。我要你做一个新游戏，包含完整素材，玩家扮演一只水獭，可以进入动物形状的机甲服，这对游戏玩法至关重要。\"\n\n它接管了我的电脑，然后给了我这些。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月4日9时59分"
+  },
+  {
+    "id": "cmse0pnyk08bgro2es54fb3s6",
+    "title": "欧盟 AI 透明度新规生效：企业需明确标注 AI 生成内容，违者最高罚 1500 万欧元",
+    "url": "https://www.ithome.com/0/985/326.htm",
+    "summary": "欧盟《人工智能法案》新透明度要求于 8 月 2 日正式生效，要求 AI 系统提供商和部署方明确提醒用户是否在与 AI 互动，并在 AI 生成的音视频、图像和文本中加入机器可读标记。部署方还须对拟真深度伪造内容进行标注。违规企业最高面临 1500 万欧元（约 1720 万美元）罚款或全球年营业额 3% 的处罚；8 月 2 日前已上线的模型须在 12 月 2 日前完成合规。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日9时58分"
+  },
+  {
+    "id": "cmse2gf890adjro2ea1jq2fbj",
+    "title": "玉伯谈AI创业：说不清楚才是秘诀",
+    "url": "https://x.com/lifesinger/status/2084458914964255166",
+    "summary": "玉伯认为，AI时代创业的秘诀在于\"说不清楚\"：一句话说不清的产品存活率远大于能说清的，后者易被大模型或大厂吞没；归因说不清的营销在投放超阈值后效果反而好。他主张直接开干，边干边想清楚，而非凡事想清楚再行动。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月4日9时58分"
+  },
+  {
+    "id": "cmse0n9fe088aro2e2cctdhc0",
+    "title": "atomic.chat 发布 DeepSeek V4 Flash 14 款量化版",
+    "url": "https://x.com/rohanpaul_ai/status/2084458005144490042",
+    "summary": "atomic.chat 发布 DeepSeek V4 Flash 0731 的 14 款压缩量化构建，从无损 BF16 到 1-bit，提供 GGUF 格式供本地推理。其用 KL 散度对比未压缩权重，结果显示 3-bit 以上接近原版，以下则快速劣化。面向 128GB 硬件推荐的 AD-IQ2_M，token 匹配率达 83.6%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日9时54分"
+  },
+  {
+    "id": "cmse0hzeq082mro2eutxwvrdj",
+    "title": "Cursor 插件直连 Google Workspace 全应用",
+    "url": "https://x.com/AYi_AInotes/status/2084452909866193155",
+    "summary": "@cursor_ai 这个更新好赞，相当于 Cursor 有了整栋 Google 办公大楼的全套钥匙和权限：\n• 可以直接进邮箱翻邮件、写回复；\n• 进会议室看你的日历、帮你约会议；\n• 进文件柜（Drive）找资料、存新文件；\n• 打开文档和表格直接编辑、填数据、做表格；\n不用再自己切来切去了",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月4日9时34分"
+  },
+  {
+    "id": "cmsdzihp406poro2ey6k0xwou",
+    "title": "OpenCode Go 单日处理 6T token 创纪录",
+    "url": "https://x.com/opencode/status/2084452515886907643",
+    "summary": "OpenCode Go 首个 6T token 日。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月4日9时33分"
+  },
+  {
+    "id": "cmse0pnyk08bmro2eijserfwa",
+    "title": "OpenAI 邀请网红参加奢华品牌活动被批，房价一晚超 2000 美元",
+    "url": "https://www.ithome.com/0/985/317.htm",
+    "summary": "OpenAI 上周末在纽约州北部豪华度假村 Wildflower Farms 举办首次网红品牌活动\"Summer Club\"，邀请创作者体验农场餐饮、养蜂及 ChatGPT 使用课程，周末房价超每晚 2000 美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日9时30分"
+  },
+  {
+    "id": "cmse0pnyk08bnro2edbaf9sxc",
+    "title": "博导透露杨植麟曾拒苹果邀请坚持回国创业，Kimi K3 发布后蝉联前端开发榜全球第一",
+    "url": "https://www.ithome.com/0/985/315.htm",
+    "summary": "月之暗面创始人杨植麟的卡内基梅隆大学博导 Russ Salakhutdinov 透露，杨植麟曾有机会加入苹果，但他坚定选择回国创业。Kimi K3 模型发布后蝉联前端开发榜全球第一，月之暗面成为焦点。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日9时21分"
+  },
+  {
+    "id": "cmsdzkooe06v0ro2ewx6txd63",
+    "title": "黄仁勋：AI 将推动全球 GDP 倍增",
+    "url": "https://x.com/rohanpaul_ai/status/2084448204947599366",
+    "summary": "\"有一种观点认为，全球 GDP 的上限是 100 万亿美元。更可能发生的情况是，AI 将让这 100 万亿变成 200 万亿、300 万亿、500 万亿。GDP 的规模没有根本性的上限。\"\n\n--英伟达 CEO 黄仁勋",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日9时15分"
+  },
+  {
+    "id": "cmse0pnyk08bpro2e6t2ub1qe",
+    "title": "中美 AI 大模型竞争加剧：OpenAI 大幅降价对标 Kimi K3、DeepSeek V4",
+    "url": "https://www.ithome.com/0/985/312.htm",
+    "summary": "OpenAI 将前沿模型 ChatGPT 5.6 Luna 价格下调 80%，每百万输入 Token 降至 0.20 美元，中端模型 5.6 Terra 降价 20% 至每百万输入 Token 2 美元，以应对月之暗面 Kimi K3 和 DeepSeek V4 Flash 的竞争。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日9时12分"
+  },
+  {
+    "id": "cmsdzkntz06ukro2e5l8847x4",
+    "title": "MiniMax 开源 H3，迈向 AGI 之路同行",
+    "url": "https://x.com/MiniMax_AI/status/2084447186742345753",
+    "summary": "MiniMax 宣布开源 H3 模型，称从 Hailuo 01 到 H3 一路与伙伴同行，开源旨在让更多人共同构建、加速进步。引用推文补充，Hailuo 01 于 2024 年 8 月发布，Hailuo 02 于 2025 年 6 月发布，MiniMax H3 于 2026 年 7 月推出。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月4日9时11分"
+  },
+  {
+    "id": "cmsdyaht805kero2eazx3548c",
+    "title": "BestBlogs 早报：Qwen3.8-Max 与多款 AI 新品发布",
+    "url": "https://x.com/hongming731/status/2084431125460783162",
+    "summary": "BestBlogs 早报汇总 10 条 AI 动态：Qwen3.8-Max 聚焦长程自主工作能力；OpenAI 推出 GPT-Live 实现不打断的语音交互；MiniMax H3 视频生成模型开源。另有微软 Orchard 智能体框架、腾讯 TencentDB Agent Memory 开源及推理工程、办公智能体等深度解析。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月4日8时8分"
+  },
+  {
+    "id": "cmsdwfbvg02vjro2ewuvjdwbz",
+    "title": "95 后投资者用 AI 批量编造纯碱虚假消息趁机交易，被罚没 48.5 万元",
+    "url": "https://www.ithome.com/0/985/294.htm",
+    "summary": "四川证监局对\"95 后\"投资者孙某开出罚单，其利用 AI 工具在两天内连发 17 篇关于某上市公司纯碱生产锅炉故障的虚假信息，并趁机交易纯碱期货获利。孙某被没收违法所得 8.5 万元并处罚款 40 万元，合计罚没约 48.5 万元。监管部门认定其编造传播虚假信息行为扰乱期货市场，主观故意明显。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日8时6分"
+  },
+  {
+    "id": "cmsdwjgim0327ro2ek45x3jz5",
+    "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+    "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年8月4日8时6分"
+  },
+  {
+    "id": "cmsdykhsu05t0ro2e063zbtrn",
+    "title": "OpenRouter 称上周 DeepSeek-V4-Flash 调用超 7.22 万亿 Token 登顶全球第一",
+    "url": "https://www.ithome.com/0/985/307.htm",
+    "summary": "OpenRouter 周报显示，7 月 27 日至 8 月 2 日，DeepSeek-V4-Flash 以 7.22 万亿 Token 调用量位居全球第一。OpenCode 称其平台单日处理达 8T Token，其中 5T 为免费试用额度，3T 为付费使用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日8时52分"
+  },
+  {
+    "id": "cmsdykhsu05t1ro2ertakht22",
+    "title": "特斯拉 FSD v14 Lite 引发 HW3 自动驾驶电脑过热故障",
+    "url": "https://www.ithome.com/0/985/306.htm",
+    "summary": "特斯拉推送 FSD v14 Lite 后，多名 HW3 车主报告 Autopilot 计算机过热警告，部分车辆需更换整套计算机。该版本为 HW4 模型压缩版，运行在 8GB 内存的 AI3 计算机上，主板温度达 96 摄氏度，触发 APP_w141 故障代码。特斯拉尚未确认软件更新导致硬件损坏，但需为约 400 万辆 HW3 车辆负责。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日8时47分"
+  },
+  {
+    "id": "cmsdy4dj90579ro2eqazpbwwo",
+    "title": "Steve Yegge 谈 Opus 4.7 的\"再来两件事\"怪癖如何毁掉 Gas Town",
+    "url": "https://simonwillison.net/2026/Aug/4/steve-yegge",
+    "summary": "Steve Yegge 称其可复用项目 Gas Town 在 Opus 4.7 上彻底失败。4.6 及之前版本运行良好，但 4.7 引入\"just two more things\"怪癖，使 Opus 始终无法收敛到可实际工作的状态，总想继续修改 Gas Town 本身，最终导致项目搁浅。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月4日8时42分"
+  },
+  {
+    "id": "cmsdxm1gu04ixro2ezjoppcgw",
+    "title": "MiniMax H3 开源 24 小时，超百家企业 Day 0 上线",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488980&idx=1&sn=54455afae88664c5e033fad873164544",
+    "summary": "MiniMax H3 开源 24 小时内，华为昇腾、AMD、Intel 等 9 家国内外芯片厂商完成 Day 0 适配，Hugging Face、魔搭、ComfyUI、vLLM-Omni、SGLang、腾讯云等超百家合作伙伴 Day 0 上线。在 Artificial Analysis 所有视频评测榜单中，H3 均跻身全球前三，并在质量/价格象限中进入最优梯队，为中国模型最佳表现。",
+    "source": "公众号：MiniMax（稀宇科技）",
+    "date": "2026年8月4日8时30分"
+  },
+  {
+    "id": "cmsdxf9ns04d2ro2ennaexpg0",
+    "title": "阿里 Qwen3.8 Max 发布，开源权重下周放出",
+    "url": "https://x.com/ArtificialAnlys/status/2084434214242623845",
+    "summary": "阿里发布 Qwen3.8 Max，在 Artificial Analysis 智能指数得 53 分，较上代提升 7 分，与 Claude Sonnet 5 持平，但落后开源权重领先者 Kimi K3 4 分。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月4日8时20分"
+  },
+  {
+    "id": "cmsdxfftj04dwro2ei1r2l3vf",
+    "title": "编辑需懂AI研究以拒引问题论文",
+    "url": "https://x.com/emollick/status/2084433995534574042",
+    "summary": "Ethan Mollick 指出，AI 撰写的文章虽有一定价值，但编辑需紧跟 AI 研究，以拒绝引用方法存疑的 NANDA 论文，尤其是一年后已有更可靠企业数据时。引用推文建议新闻机构使用 AI 检测器或让熟悉 AI 的人预审稿件，并认可 Tyler Cowen 直接附上原始 AI 输出的做法。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月4日8时19分"
+  },
+  {
+    "id": "cmsdxfhyg04emro2ezdvkfwao",
+    "title": "MiniMax H3 开源一日即登 Mac",
+    "url": "https://x.com/MiniMax_AI/status/2084433790081061168",
+    "summary": "开源的力量！🩵\n\n感谢本地主机社区，发布后一天内，我们就已经看到 MiniMax H3 在 Mac 上运行了！",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月4日8时18分"
+  },
+  {
+    "id": "cmsdx8v4v046bro2el9z22gol",
+    "title": "Qwen3.8 Max 上线 OpenRouter，下周开源权重",
+    "url": "https://x.com/OpenRouter/status/2084433635411935346",
+    "summary": "阿里巴巴的 Qwen3.8 Max 已在 OpenRouter 上线。\n\n这款新旗舰模型拥有 2.4T 参数（95B 激活），专为长周期编码、研究和多模态智能体任务而构建。开放权重将于下周发布，这将是 Qwen Max 级模型首次开源。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月4日8时18分"
+  },
+  {
+    "id": "cmsdy1orw04vsro2ei0n026gl",
+    "title": "Claude Code v2.1.221 发布：新增 Focus view、沙箱凭据掩码与多项修复",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.221",
+    "summary": "Claude Code v2.1.221 发布，为 VSCode 新增 Focus view 聊天菜单开关，可隐藏工具活动并显示实时运行指示器。新增 Linux/WSL 沙箱凭据文件 \"mask\" 模式，并修复 zsh 隐藏命令执行、PowerShell 路径引号处理等多项权限检查绕过问题。同时改进 Vertex AI 工具搜索、自动模式权限检查缓存效率，并降低提示词缓存成本。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月4日8时14分"
+  },
+  {
+    "id": "cmsdykhsu05t7ro2e52jntkmn",
+    "title": "微软测试首款自研全双工 AI 语音模型 MAI Realtime：支持 16 种语言、2 种语音",
+    "url": "https://www.ithome.com/0/985/297.htm",
+    "summary": "微软正测试其首款原生实时语音模型 MAI Realtime，采用双向全双工交互，可同步聆听和回应，无需严格轮次交替。该模型支持中文等 16 种语言，测试提供 Victoria 和 Grant 两种语音风格，用户可指定语言或启用自动检测。目前已在 MAI Playground 平台邀请部分合作伙伴测试，上线 Microsoft Foundry 及 Copilot 语音功能的时间尚不清楚。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日8时13分"
+  },
+  {
+    "id": "cmsdykhsu05t8ro2eqq2ux3mr",
+    "title": "航拍显示马斯克得州 ATCF 芯片厂施工快速推进，布局全流程一体化芯片制造",
+    "url": "https://www.ithome.com/0/985/295.htm",
+    "summary": "无人机航拍显示，马斯克位于得州的先进技术芯片工厂（ATCF）施工快速推进，整体轮廓已清晰，地基桩施工和地面平整正在进行，并新提交了4份大型拖车综合区域许可证申请。ATCF 是特斯拉与 SpaceX 联合建设的芯片制造设施，将把逻辑计算、存储及先进封装整合在同一工厂内完成，是 AI 芯片研发计划的第一阶段，成果将用于特斯拉汽车、Robotaxi、Optimus 及轨道 AI 数据中心。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日8时10分"
+  },
+  {
+    "id": "cmsdwfbvh02vzro2erwjatq64",
+    "title": "库克称苹果正评估算力成本，iOS 27 的 Siri AI 额度方案尚未敲定",
+    "url": "https://www.ithome.com/0/985/271.htm",
+    "summary": "苹果CEO蒂姆·库克在财报电话会上表示，iOS 27中Siri AI的算力成本与收费方式仍在早期评估阶段，尚未形成完整方案。苹果计划通过拆分AI任务尽可能在设备端本地处理，部分任务交由私有云计算服务器，另有部分需调用谷歌Gemini服务器。此前推测Siri AI使用权限或与iCloud+订阅绑定，按50GB、200GB与2TB存储套餐划分递增的使用上限。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日7时9分"
+  },
+  {
     "id": "cmsdua60801inrofzmuijsiuj",
     "title": "谷歌发布 Android 17 QPR2 Beta 2，重新设计设置应用图标",
     "url": "https://www.ithome.com/0/985/270.htm",
@@ -14,6 +222,38 @@
     "summary": "Niklas Gruhn 提出\"meat proxy\"（肉代理）一词，指那些盲目将 AI 系统输出复制粘贴给同伴的人。他建议可以提示 AI，但不要直接转发输出，而应阅读、理解、验证后用自己的话撰写回复，以此证明完成了前述步骤，这也是个人能增加的价值。",
     "source": "Simon Willison 博客",
     "date": "2026年8月4日7时45分"
+  },
+  {
+    "id": "cmsdwfbvg02vlro2e9m465ksk",
+    "title": "SK 海力士与闪迪将在 FMS 2026 发布 HBF 首个标准规范",
+    "url": "https://www.ithome.com/0/985/289.htm",
+    "summary": "SK 海力士联合闪迪将在 FMS 2026 发布高带宽闪存（HBF）首个标准规范，由 OCP 正式发布为行业通用开放标准。该规范定义 8 层和 16 层 NAND 堆叠、最高 512GB 容量，按 Grade 1~3 设定约 0.4TB/s 至 3.0TB/s 带宽标准，并采用 UCIe 互联。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日7时45分"
+  },
+  {
+    "id": "cmsdwfbvg02vnro2eaqh9meee",
+    "title": "亚马逊市值首次突破 3 万亿美元，贝索斯拟出售近 41 亿美元股票",
+    "url": "https://www.ithome.com/0/985/287.htm",
+    "summary": "亚马逊市值首次突破 3 万亿美元大关，创始人贝索斯拟出售 1500 万股、市值 40.7 亿美元股票。受 AI 需求强劲推动，公司第二季度云计算增长激增，调整后每股收益 1.97 美元超预期，收入 2006.10 亿美元。CEO 贾西称今年资本支出预计达 2200 亿美元，高于此前预测的 2000 亿美元，但仍不足以满足 2026 年需求。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日7时40分"
+  },
+  {
+    "id": "cmsdwczwc02uaro2ebucjkv4g",
+    "title": "Grok Build v0.2.120 更新发布",
+    "url": "https://x.com/elonmusk/status/2084423416493338866",
+    "summary": "xAI 发布 Grok Build v0.2.120 更新，修复多项 bug：模型选择器即时刷新状态栏与 /model 菜单、变更面板在 agent 提交后自动刷新、后台任务报告完整日志大小，以及休眠会话的 GitHub 导出提示。用户可通过 `grok update` 或 `grok update --alpha` 更新至稳定版或 Alpha 版。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月4日7时37分"
+  },
+  {
+    "id": "cmsdwfbvg02vsro2etwnvjiav",
+    "title": "铠侠官宣 GP1 XL-FLASH PCIe Gen6 固态硬盘，随机读取 100M IOPS",
+    "url": "https://www.ithome.com/0/985/279.htm",
+    "summary": "铠侠正式发布首款支持 GPU 直接访问高速闪存的 GP 系列固态硬盘 KIOXIA GP1，基于第二代 XL-FLASH 存储级内存，实现 100M IOPS 随机读取性能。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日7时24分"
   },
   {
     "id": "cmsdv83mq000sro2evqphhxf1",
@@ -670,6 +910,102 @@
     "summary": "Anthropic/OpenAI 在向他们收取 30 万美元的 token 费用后，正在扼杀 AI 原生的 B2B 低质 SaaS 产品。",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年8月4日1时0分"
+  },
+  {
+    "id": "cmse2qaaw0ar7ro2ehrr4ge7r",
+    "title": "DeepSeek Flash 容量告急修复中",
+    "url": "https://x.com/opencode/status/2084475000862720329",
+    "summary": "DeepSeek Flash 目前因前所未有的访问量而出现容量问题\n\n你可能会看到错误--我们正在修复中",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月4日11时2分"
+  },
+  {
+    "id": "cmse2s88c0atfro2e09krnu3v",
+    "title": "Qwen 3.8 Max 上线 AI Gateway，性价比突出",
+    "url": "https://x.com/Alibaba_Qwen/status/2084474950463967237",
+    "summary": "感谢！高性能、低成本，今天就试试吧。💻\n\n【引用 @vercel_dev】：Qwen 3.8 Max 已在 AI Gateway 上线。\n\n它在 DeepsecBench 网络安全排行榜上位列中游，单次运行成本处于最低水平之一。\n\nmodel： 'alibaba/qwen3.8-max'",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月4日11时2分"
+  },
+  {
+    "id": "cmse2siq80awbro2ed8vjbhep",
+    "title": "PixVerse Canvas 打造蜘蛛侠新员工场景",
+    "url": "https://x.com/PixVerse_/status/2084474358144422385",
+    "summary": "蜘蛛侠有了新员工。我们不说是谁。\n\n我们在 PixVerse Canvas 中构建了这个屋顶到办公室的场景，物理效果确实成立--手提袋自然摆动，布料在她行走时以应有的方式运动。\n\n转发 + 回复，我们会通过私信把工作流拆解发给你。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月4日10时59分"
+  },
+  {
+    "id": "cmse2s88c0atgro2eh9kalf4b",
+    "title": "Qwen3.8 Max上线OpenRouter，开源权重将至",
+    "url": "https://x.com/Alibaba_Qwen/status/2084473121818779668",
+    "summary": "已上线，可立即构建。感谢邀请！@OpenRouter。开源权重即将发布。⚡️",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月4日10时54分"
+  },
+  {
+    "id": "cmse2gsar0akdro2etr845j9z",
+    "title": "DeepSeek 崩溃致 Laper 反遭梁总斩杀",
+    "url": "https://x.com/chunxiangai/status/2084472667894325675",
+    "summary": "小 laper 将 TrustMrr 站长斩于马下\n但是 deepseek 崩了，laper 被梁总斩杀",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月4日10时53分"
+  },
+  {
+    "id": "cmse2n5ln0apsro2e7xb09o1i",
+    "title": "Qwen3.8-Max 用 GLSL 复现《星际穿越》黑洞",
+    "url": "https://x.com/AYi_AInotes/status/2084472435055751440",
+    "summary": "阿里正式发布的 Qwen3.8-Max 被开发者用于编写裸 GLSL shader，从零解算史瓦西度规下光子路径，物理正确地渲染出《星际穿越》的 Gargantua 黑洞，含引力透镜、吸积盘多普勒红移蓝移及光子环。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月4日10时52分"
+  },
+  {
+    "id": "cmse2sfxu0av5ro2evliw52f7",
+    "title": "Palo Alto CEO：分析型SaaS公司前景堪忧",
+    "url": "https://x.com/rohanpaul_ai/status/2084472036840370317",
+    "summary": "Palo Alto Networks CEO Nikesh Arora 在 All-In Podcast 上表示，分析型 SaaS 公司\"已经完了\"。他认为用户可直接用 LLM 分析数据，无需再购买 Salesforce Marketplace 等平台的增量分析应用，传统按模块销售的软件功能可能不再需要单独出售。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日10时50分"
+  },
+  {
+    "id": "cmse2uu9v0axfro2edki07mbf",
+    "title": "美国政府完成先进 AI 模型自愿性评估框架制定，内容未公开",
+    "url": "https://www.ithome.com/0/985/380.htm",
+    "summary": "美国政府已按期完成针对先进 AI 模型评估的自愿性框架制定，但白宫未透露具体内容、查看机构及企业采用时间。该框架为 AI 开发商提供与政府合作的结构化流程，以判断研发中模型是否属监管范围，并应明确模型发布前最多提前 30 天获取时的保密、网络安全、内部风险管理及知识产权保护等要求。白宫正与\"远不止 Anthropic、OpenAI 和谷歌\"的行业伙伴讨论下一步计划。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日10时45分"
+  },
+  {
+    "id": "cmse1ywjg09i0ro2eve5dxwtz",
+    "title": "Gemini API 更新：3.5/3.6 Flash 可同用地图与搜索",
+    "url": "https://x.com/OfficialLoganK/status/2084469065322729817",
+    "summary": "Gemini API 小更新：现在你可以在 Gemini 3.5 Flash 和 3.6 Flash 上同时使用 Google Maps 和 Google Search 工具。\n\n这个功能在待办清单上很久了，很高兴我们终于落地了！",
+    "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+    "date": "2026年8月4日10时38分"
+  },
+  {
+    "id": "cmse2uu9v0axhro2ebcgaaeiz",
+    "title": "微软 Teams 本月将新增举报可疑会议功能，遏制 AI 深度伪造欺诈",
+    "url": "https://www.ithome.com/0/985/355.htm",
+    "summary": "微软计划本月为 Teams 推出\"举报\"功能，参会者可在会议期间或会议聊天中提交举报，提醒组织、IT 管理员或安全团队介入调查，用于举报钓鱼、冒充、诈骗、社会工程活动及其他可疑行为。微软称 AI 工具降低了诈骗和网络犯罪的技术门槛，攻击者可制作逼真的深度伪造参会者并克隆目标人物声音。Teams 还将推出外部会议机器人检测功能，以应对机器人未经知晓加入会议引发的安全与隐私问题。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日10时27分"
+  },
+  {
+    "id": "cmse1fe6i08urro2e6k2e0cfx",
+    "title": "Charlie Holtz 称合并即将完成",
+    "url": "https://x.com/charlieholtz/status/2084465385160740894",
+    "summary": "初步反馈看起来非常有前景。合并即将进行。",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月4日10时24分"
+  },
+  {
+    "id": "cmse0nads088uro2eri2mduth",
+    "title": "SemiAnalysis：MI455 为首款搭载主动式 LSI 桥接的芯片",
+    "url": "https://x.com/SemiAnalysis_/status/2084459410265411615",
+    "summary": "SemiAnalysis 认为 MI455 是首款搭载主动式本地硅互连（LSI）桥接的芯片，用于 CoWoS-L 封装内的 chiplet 间连接。TSMC 在 ISSCC 2026 展示了带低功耗中继器的主动桥接，可分担信号完整性负担，使顶层 die 的 PHY 显著缩小。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月4日10时0分"
   },
   {
     "id": "cmsdg5joy00q0rocasz5iiimg",
