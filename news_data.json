@@ -800,6 +800,150 @@
     "date": "2026年8月4日2时0分"
   },
   {
+    "id": "cmsep8p7211ooro2eoj8iutfb",
+    "title": "LLM垃圾内容泛滥，警惕质量降级",
+    "url": "https://x.com/ericzakariasson/status/2084627319256396040",
+    "summary": "我注意到，最近 LLM 生成的\"垃圾内容\"变得越来越被接受了。我们不断把这种输出喂给大脑，而它正在降低我们对质量的判断标准。这种垃圾内容以前所未有的规模泛滥，所以大家请保持高标准！",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月4日21时7分"
+  },
+  {
+    "id": "cmsepaxqq11vgro2e4z8erqiz",
+    "title": "面壁智能开源 ForgeStencil：全自动 HPC 优化系统",
+    "url": "https://x.com/OpenBMB/status/2084632950998499476",
+    "summary": "面壁智能（OpenBMB）发布 ForgeStencil，首个面向真实 HPC 应用、全自动研究与部署 Stencil 优化的开源 AI 系统。无需人工介入，系统通过 Kernel Agent 与 App Agent 两个智能体，在一周内完成 100+ 工业与科学计算应用的自动优化，已应用于天气预报、地震成像、电磁仿真、核工程、医学影像及量化金融等场景。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月4日21时30分"
+  },
+  {
+    "id": "cmsepa9eh11rkro2e72ik0d3p",
+    "title": "工程师之间的效率差距，可能是谁能同时带好 10 个 codex 任务。",
+    "url": "https://x.com/frxiaobei/status/2084632111701742037",
+    "summary": "工程师之间的效率差距，可能是谁能同时带好 10 个 codex 任务。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月4日21时26分"
+  },
+  {
+    "id": "cmseoh97u10w7ro2egtvmv47y",
+    "title": "AI 领袖提出 SAFE 指南，强化智能体网络安全透明度",
+    "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions",
+    "summary": "Linux 基金会发布共享 AI 事件交换（SAFE）指南征求意见稿，旨在将智能体网络安全事件转化为全生态共享防护。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月4日21时0分"
+  },
+  {
+    "id": "cmsep8pcu11ouro2e7c4v6u9a",
+    "title": "Runware 发布模块化数据中心 Sonic Inference Pod，探索便携式 AI 算力未来",
+    "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out",
+    "summary": "AI 基础设施公司 Runware 推出模块化数据中心 Sonic Inference Pod，这是一种可运输的独立计算单元，旨在以更低成本提供更高质量的推理服务。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月4日21时0分"
+  },
+  {
+    "id": "cmseo881f10q5ro2eqhe9s9lw",
+    "title": "Google 发布 Gemini 3.6 Flash 等三款新模型及 Gemini Robotics ER 2",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+    "summary": "Google 在 7 月推出三款新 Gemini 模型--Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber，面向生产级 AI 智能体，主打更高 token 效率、更低延迟和更可靠性能。",
+    "source": "Google Blog：AI（RSS）",
+    "date": "2026年8月4日21时0分"
+  },
+  {
+    "id": "cmseo63z710lvro2eblsf93az",
+    "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+    "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+    "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日20时56分"
+  },
+  {
+    "id": "cmseo7qrl10o3ro2evlk96w39",
+    "title": "DeepSeek 4 Flash 定价优势碾压全场",
+    "url": "https://x.com/kimmonismus/status/2084623032014848505",
+    "summary": "这张图展示了 DeepSeek 4 Flash 在定价上的绝对统治力。差距之大，根本不在一个量级。连一丝接近的余地都没有。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月4日20时50分"
+  },
+  {
+    "id": "cmseo88jq10qnro2ego9pmfwh",
+    "title": "Arcads 智能体：模型之外的控制流才是关键",
+    "url": "https://x.com/rohanpaul_ai/status/2084620614636372143",
+    "summary": "Arcads 将广告创意流程整合为单一智能体运行，避免营销人员在研究、文案、设计和视频系统间手动传递上下文。其新 AI 产品 Mark 已获 1600 万美元融资，拥有持久品牌记忆，可访问完整素材库，并能生成超写实 UGC、动态图形及全球本地化广告，现已向所有用户开放。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日20时40分"
+  },
+  {
+    "id": "cmseo63z710lwro2ezz7p1cc7",
+    "title": "AI生成的图片让我不想读你的博客",
+    "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog",
+    "summary": "一位博主公开表达对博客中AI生成图片的反感，认为这类图片让人怀疑正文是否也由AI生成，并称个人博客出现此类图片比企业博客更令人失望。作者表示宁愿看到粗糙的微软画图作品，也不愿看到AI图片，并呼吁个人博客作者避免使用AI生成图片。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日20时40分"
+  },
+  {
+    "id": "cmseo63z710lyro2em8u0q9o6",
+    "title": "递归自我改进：从 I. J. Good 到前沿实验室的工程学视角",
+    "url": "https://lilianweng.github.io/posts/2026-07-04-harness",
+    "summary": "递归自我改进（RSI）概念源自 I. J. Good（1965）对\"超智能机器\"的定义，Yudkowsky（2008）将其明确为 AI 用当前智能改进自身认知机制的反馈循环。在现代 AI 中，该循环可表现为模型直接重写自身权重，或更广义地改进训练流程与部署系统，从而催生在经济价值任务上表现更优的继任模型。前沿实验室（Anthropic、OpenAI）的研究速度已被证明因此大幅加快。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日20时40分"
+  },
+  {
+    "id": "cmseoak0510sdro2ecq82lo3r",
+    "title": "中国 AI 黑板海外走红：手写公式实时生成曲线、手绘草图秒变 3D 模型",
+    "url": "https://www.ithome.com/0/985/684.htm",
+    "summary": "一段中国 AI 黑板视频在海外社交媒体引发热议，老师手写公式可实时同步大屏并生成动态曲线，手绘草图能瞬间转化为可拆解操控的 3D 模型。该技术基于光学字符识别与 3D 剖分技术，基座为全国产算力训练的深度推理大模型。目前 AI 黑板已进驻全国 300 余个地市、1400 多个区县，在超 10 万个班级常态化应用，课堂问题解答率提升 85%、学生参与度提升 72%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日20时40分"
+  },
+  {
+    "id": "cmsemyg7t0z6gro2e8o7e6z6h",
+    "title": "a16z 领投 Volta A 轮：为初创公司解锁算力的新型 AI 基础设施公司",
+    "url": "https://www.a16z.news/p/investing-in-volta",
+    "summary": "a16z 宣布共同领投 AI 基础设施公司 Volta 的 A 轮融资。Volta 将云运营与项目融资结合，为 AI 原生公司（从前沿实验室到快速成长的 AI 应用）组装信贷支持、项目股权和债务，而非要求客户自带投资级担保。该公司已签署 133 MW 挪威部署的 100 亿美元战略合作，并与 Azora 达成 50 亿美元基础设施计划。",
+    "source": "a16z：News（RSS）",
+    "date": "2026年8月4日20时3分"
+  },
+  {
+    "id": "cmsen3jxn0zabro2eu4dafdh9",
+    "title": "微软PRISM2：临床对话学习病理多模态模型",
+    "url": "https://x.com/MSFTResearch/status/2084616849052831991",
+    "summary": "AI 能否通过临床对话学习病理学？我们推出 PRISM2，一个基于真实病理报告中的病理图像和语言训练的多模态基础模型。通过简单的问答方式，PRISM2 在多个基准任务上媲美专门的癌症检测系统，且无需为每个任务单独训练模型。https://msft.it/6017aDr1t",
+    "source": "X：Microsoft Research (@MSFTResearch)",
+    "date": "2026年8月4日20时26分"
+  },
+  {
+    "id": "cmsen57a40zcyro2echqpj23a",
+    "title": "硅谷开源分歧促使白宫暂缓对中国AI模型的制裁",
+    "url": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai",
+    "summary": "特朗普政府曾考虑对Kimi K3等中国开源AI模型实施制裁和贸易黑名单，OpenAI与Anthropic以国家安全为由推动限制，而Nvidia、Meta、Microsoft、Google强烈反对。在硅谷抵制下，政府暂缓强硬措施，转而提升美国模型竞争力。Nvidia CEO黄仁勋7月24日首次在X发帖捍卫开源模型，其开源安全工具联盟成员已增至230多个。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月4日20时23分"
+  },
+  {
+    "id": "cmsenwhth10f2ro2etljuqtoh",
+    "title": "阿里字节重组办公产品，腾讯WorkBuddy领跑",
+    "url": "https://x.com/foxshuo/status/2084613427037921348",
+    "summary": "阿里将QoderWork、MuleRun、悟空合并为千问办公，字节将飞书并入豆包，两者均因腾讯WorkBuddy在AI办公赛道快速建立市场心智而应激调整。WorkBuddy日活仅百万级，但腾讯已全力倾斜资源，主力业务相继接入。阿里字节此前在旧产品里\"+AI\"被指自缚手脚，现转向以千问/豆包为统一入口的\"AI+\"设计。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月4日20时12分"
+  },
+  {
+    "id": "cmsem340w0ydhro2egulf0xd7",
+    "title": "PixVerse 提示词失控：完美男主追杀残次品",
+    "url": "https://x.com/PixVerse_/status/2084610530107662639",
+    "summary": "一条指令：\"创造完美男主。删除所有不完美版本。\"\n\n不完美者在逃亡。一个美人鱼国王。一个机车骑士。一个眼神冰冷的继承人。\n\n超出提示词--未完待续。转发 + 评论 = 私信获取完整工作流。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月4日20时0分"
+  },
+  {
+    "id": "cmsemc1ck0yh5ro2ej0jipofd",
+    "title": "可灵AI：细节之处见真章",
+    "url": "https://x.com/Kling_ai/status/2084610301606170764",
+    "summary": "凑近看👀 最微小的细节，造就最大的不同。",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年8月4日20时0分"
+  },
+  {
     "id": "cmsdjd5r003mvrocaxuxefp77",
     "title": "Chamath：AI 智能体正让\"10x 工程师\"优势消失",
     "url": "https://x.com/rohanpaul_ai/status/2084336983707685108",
@@ -926,6 +1070,14 @@
     "summary": "在\"AI 巨头毁书\"风波后，华夏出版社已在书籍中标注内容禁用于 AI 训练。相关负责人表示，若书籍未经授权被用于人工智能训练很难维权，但出版社仍会标注，\"要有态度和这样的声明，这可能会让大家意识到图书是有版权的\"。该社内部讨论后认为标明这句话较好，目前很多非引进书籍已标注。",
     "source": "IT之家（RSS）",
     "date": "2026年8月4日19时4分"
+  },
+  {
+    "id": "cmsem5eeh0ye2ro2eougb04ic",
+    "title": "荣耀关海涛谈\"DeepSeek 斩杀线\"：单位 token 成本和性能最优化，至少内中外三层顶级意义",
+    "url": "https://www.ithome.com/0/985/671.htm",
+    "summary": "DeepSeek-V4-Flash 正式版 API 上线公测，AI 单任务成本比 GPT-5.6 Luna 低约 60%，并以 7.22 万亿 Token 调用量登顶 OpenRouter 周榜。荣耀全球首席营销官关海涛称其\"法拉利的性能，电动小摩托的价格\"，认为这条\"行业生死线\"正倒逼硅谷巨头降价，并冲击中间梯队模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日19时45分"
   },
   {
     "id": "cmsekyb4t0wslro2e2whdk2oo",
