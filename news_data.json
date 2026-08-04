@@ -912,6 +912,206 @@
     "date": "2026年8月4日1时0分"
   },
   {
+    "id": "cmse7yrut0gupro2ejfet4a10",
+    "title": "GPT-5.6 Luna降价80%永久生效",
+    "url": "https://x.com/thsottiaux/status/2084506501834829833",
+    "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月4日13时7分"
+  },
+  {
+    "id": "cmse9adxs0idhro2etu8ibvc7",
+    "title": "华尔街日报：AI 助推独行创业者时代到来，1 人可撑起公司 100 万美元年收入",
+    "url": "https://www.ithome.com/0/985/453.htm",
+    "summary": "华尔街日报报道，AI 正推动\"独行创业者时代\"到来，一个人撑起整家公司、年收入超 100 万美元已不再罕见。Stripe 估算，2023 年约 400 万美国人以个体经营为主要收入来源，年销售额超 10 万美元，较 2010 年代初的约 200 万近乎翻番。2025 年年销售额超 100 万美元的单人企业数量约为 2023 年的 2 倍，超 500 万和 1，000 万美元的数量均约为 3 倍。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日13时58分"
+  },
+  {
+    "id": "cmse9adxs0idiro2estk99tow",
+    "title": "蚂蚁阿福否认\"1 号位伟鹤调整\"传闻：假消息",
+    "url": "https://www.ithome.com/0/985/452.htm",
+    "summary": "蚂蚁阿福官方微博今日辟谣，网传\"1 号位伟鹤调整\"为假消息。去年 12 月，蚂蚁集团旗下 AI 健康应用 AQ 品牌升级为蚂蚁阿福，发布 App 新版本，升级健康陪伴、健康问答、健康服务三大功能，并与 8 省市卫健委、18 省市医保局\"依保儿\"合作推出 200 家医院就医智能体。今年 2 月，蚂蚁阿福宣布其 App 用户数超 1 亿。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日13时55分"
+  },
+  {
+    "id": "cmse97yla0iblro2e6reaboov",
+    "title": "黄仁勋：闭源模型更便宜，开源为控制权",
+    "url": "https://x.com/rohanpaul_ai/status/2084517849465237853",
+    "summary": "英伟达CEO黄仁勋在Bloomberg播客中表示，闭源模型实际上更便宜，因为自建需承担训练、微调、维护、安全及算力等高昂成本。他澄清开源模型的真正价值在于提供控制权，可针对高度专业化的用例进行定制。他强调闭源与开源模型各有其适用场景，外界对此存在误解。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日13时52分"
+  },
+  {
+    "id": "cmse9adxs0idjro2eu7jbtb00",
+    "title": "北京 AGI Bar 上线\"不限量免费 Token\"服务，到店连 Wi-Fi 即可畅用 DeepSeek V4 Flash 模型",
+    "url": "https://www.ithome.com/0/985/450.htm",
+    "summary": "北京程序员主题酒吧 AGI Bar 推出\"Token 免费畅饮\"服务，顾客到店消费并连接 Wi-Fi 后，即可获得 DeepSeek V4 Flash API 免费使用权限。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日13时46分"
+  },
+  {
+    "id": "cmse97xyu0ib7ro2ew4hdqlxr",
+    "title": "Grok 支持批量上传图片视频分析",
+    "url": "https://x.com/cb_doge/status/2084514444487327996",
+    "summary": "使用此选项可在 @Grok 上传并分析图片和视频\n\nGrok 支持一次上传多张图片和多个视频。非常实用。试试吧！",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月4日13时39分"
+  },
+  {
+    "id": "cmse9adxs0idlro2eiyouektf",
+    "title": "AI 辅助\"推翻\"考拉兹猜想失败，Lean 4.32.2 修复内核漏洞",
+    "url": "https://www.ithome.com/0/985/448.htm",
+    "summary": "一项借助 AI 完成、声称推翻考拉兹猜想的 Lean 形式化证明被确认无效。形式化验证专家 Ramana Kumar 于 7 月 25 日在 GitHub 发布项目，称在 Lean 中证明\"存在一个无法到达 1 的数\"，但随后发现相关方法甚至能让 Lean 无条件接受\"False\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日13时35分"
+  },
+  {
+    "id": "cmse8wbfj0i21ro2e1mw6km69",
+    "title": "Google 报告称未发现 AI 取代办公室工作迹象",
+    "url": "https://x.com/foxshuo/status/2084511928425091098",
+    "summary": "Google 发布深度报告「AI & Economy ATLAS」，结论是未发现 AI 取代办公室工作的迹象。但该调研全程仅基于 Gemini 的脱敏数据反馈，测试者未使用其他模型，因此结论或受限于 Gemini 自身能力，而非 AI 整体水平。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月4日13时29分"
+  },
+  {
+    "id": "cmse92o6c0i6gro2e282iy5j7",
+    "title": "Qwen 3.8-Max 用 GLSL 实时光追复现《星际穿越》黑洞",
+    "url": "https://x.com/AYi_AInotes/status/2084507824193708103",
+    "summary": "阿里今日正式发布 Qwen 3.8-Max，用户用它独立写出基于 GLSL 的物理正确黑洞实时渲染，复现《星际穿越》Gargantua，含史瓦西度规、引力透镜、多普勒效应与光子环，21 个参数可实时调节，零依赖双击 HTML 即可运行。该模型输入价格仅为 Fable 5 的 1/5，输出价格约为其 1/8.3，长上下文稳定，预计一周后开源。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月4日13时12分"
+  },
+  {
+    "id": "cmse85cz10h1wro2ebmkue06t",
+    "title": "Dreamina Seedance 2.5 发布，支持多模态引用",
+    "url": "https://x.com/rohanpaul_ai/status/2084507317228507139",
+    "summary": "Dreamina Seedance 2.5 刚刚发布。\n\n以更高精度制作扩展视频：\n\n- 原生 30 秒创作\n- 精准视频编辑\n- 支持多达 50 个多模态参考\n- 多语言视频生成\n\n在制作下一个 AI 模型对比表时，务必测试这些能力：\n\n#Dreamina #Seedance25 #Dreaminapartner\n\n在 Dreamina 各平台上，整个 Seedance 系列现价格已降至历史最低。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日13时10分"
+  },
+  {
+    "id": "cmse6xiar0fwpro2ef16co3ju",
+    "title": "开源联盟进步飞速，Qwen 3.8-Max 登顶前端代码榜第四",
+    "url": "https://x.com/AYi_AInotes/status/2084491759568949491",
+    "summary": "阿易 AI Notes 认为 AI 大模型将形成开源与闭源两大阵营，且开源联盟进步飞速。Frontend Code Arena 最新排名显示，前四名中三个是闭源旗舰，第四名是即将开源的 Qwen 3.8-Max。他用该模型独立写出了物理正确的 GLSL 实时光追黑洞，21 个参数可实时调整，零依赖双击即可运行。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月4日12时8分"
+  },
+  {
+    "id": "cmse5yh2r0elyro2en16cl279",
+    "title": "冷邮件模板中的AI垃圾内容泛滥",
+    "url": "https://x.com/dexhorthy/status/2084491171456548995",
+    "summary": "你好 {{ first_name }}，\n\n{{ claude_garbage_slop}}\n\n很高兴能与您联系 {{ claude_garbage_slop_2 }} 您在 {{ company_name }} 的职位\n\n{{ just_when_you_thought_it_was_over_nope_theres_f****_more }}\n\n此致敬礼",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月4日12时6分"
+  },
+  {
+    "id": "cmse4zzze0ds0ro2e3tbeqaan",
+    "title": "全球最小 GPU 芯片 TinyGPU v2.0 通过实测：约 24 万个晶体管，最高渲染 15 FPS",
+    "url": "https://www.ithome.com/0/985/434.htm",
+    "summary": "开发者蓬萨贡·维奇特宣布，全球最小 GPU 芯片 TinyGPU v2.0 已通过实机测试。该芯片拥有约 24 万个晶体管，支持 4-bit 双缓冲和 8-bit 深度缓冲，屏幕最多容纳 1000 个三角形。在 Basys3 FPGA 主机上测试帧率为 7.5 到 15 FPS，TinyGPU v3.0 已提交下一轮流片，新增可编程像素着色器。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日12时6分"
+  },
+  {
+    "id": "cmse4xm2f0doqro2e3bvv8wct",
+    "title": "MiniMax 回应 H3 许可限制传闻",
+    "url": "https://x.com/MiniMax_AI/status/2084490811652333633",
+    "summary": "MiniMax 否认 H3 模型在部分地区\"无法合法使用\"的说法，称可通过正式授权流程在美国、欧盟、英国和韩国部署。申请需提交 H3 许可请求表，团队将尽快处理。官方澄清许可无区域限制，但美国用户因当地法规及 Disney 法律纠纷需额外填写表格并签署弃权书。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月4日12时5分"
+  },
+  {
+    "id": "cmse756990g46ro2eahecu3g7",
+    "title": "IDC：2025 年中国外骨骼机器人市场规模超 16 亿元，出货量约 2.6 万台",
+    "url": "https://www.ithome.com/0/985/443.htm",
+    "summary": "IDC 首次发布《中国外骨骼机器人市场份额，2025》报告，2025 年中国外骨骼机器人市场规模超 16 亿元，出货量约 2.6 万台。医疗康复市场价值最大，规模约 14.2 亿元、出货约 3，200 台；消费助力市场贡献七成以上出货量，约 1.9 万台；行业应用市场约 8，000 万元、出货约 3，800 台。三大细分市场已形成协同发展格局，进入商业化加速成长阶段。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日12时53分"
+  },
+  {
+    "id": "cmse72vne0g31ro2e2wy9ams4",
+    "title": "PixVerse AI 压缩文明引热议",
+    "url": "https://x.com/PixVerse_/status/2084499265754198240",
+    "summary": "文明被 AI 压缩了 😂👍🏻",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月4日12时38分"
+  },
+  {
+    "id": "cmse605850epbro2eqxtlhycq",
+    "title": "微软谷歌早期AI布局大胆回顾",
+    "url": "https://x.com/emollick/status/2084497674112254059",
+    "summary": "回顾今天，令人惊讶的是微软和谷歌最初在AI方面如此大胆。\n\n微软在OpenAI之前就发布了GPT-4，在Sydney事件后没有退缩，并迅速将Copilot推向市场（首个专业AI工具）。\n\n谷歌率先推出深度研究功能，并迅速用Bard完成转型。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月4日12时32分"
+  },
+  {
+    "id": "cmse6r4nw0fs9ro2edjivol08",
+    "title": "手机遥控编程工具 Lody 获推荐",
+    "url": "https://x.com/chunxiangai/status/2084495944708755888",
+    "summary": "赵纯想推荐 Lody，称其支持用手机遥控 coding，适合团队协作，可从桌面到手机丝滑切换。该工具面向远程组队开发场景，其官网 lody.ai 已更新落地页。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月4日12时25分"
+  },
+  {
+    "id": "cmse5tvia0ej6ro2er0ptp9v8",
+    "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+    "summary": "面壁智能联合 OpenBMB 开源全球首个支持 Stencil 自动研究、自动部署的 AI 优化系统 ForgeStencil，由 Kernel Agent 与 App Agent 闭环协作，实现从算子优化到应用集成的全自动流程。",
+    "source": "公众号：面壁智能（MiniCPM）",
+    "date": "2026年8月4日12时20分"
+  },
+  {
+    "id": "cmse608sk0eqtro2et98f209s",
+    "title": "Y Combinator 开源 QM：可在 Slack 和网页端运行的 MIT 许可多智能体协作框架",
+    "url": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness",
+    "summary": "Y Combinator 团队开源了其内部使用的多智能体协作框架 QM，采用 MIT 许可证，可在 Slack 和网页端运行。QM 为每位员工和每个房间提供隔离的内存、文件、密钥、权限和沙箱，并支持 Pi、OpenCode、Codex 和 Claude Code 驱动同一核心。部署需云账户和 Postgres，适合约 10 至 500 人的初创或中型公司。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月4日12时17分"
+  },
+  {
+    "id": "cmse5prmi0e9xro2eexjs74wc",
+    "title": "Conductor poke 功能受阻但未终结",
+    "url": "https://x.com/charlieholtz/status/2084488255995863054",
+    "summary": "唉，我被打败了。\n\n但记住我的话，你们还会再见到 Conductor poke 功能的。",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月4日11时55分"
+  },
+  {
+    "id": "cmse4xmcz0dp0ro2e93zjzi5c",
+    "title": "OpenAI 详解 GPT-Live 实时语音架构",
+    "url": "https://x.com/rohanpaul_ai/status/2084487981486768483",
+    "summary": "OpenAI 详解 GPT-Live 实时语音架构，支持边听边说，无需独立轮次检测。深度推理与工具调用并行运行，对话不中断；音频传输与应用逻辑分离，慢工具调用不冻结对话。媒体前端与推理逻辑改用 Go 重写，p95 帧交付达旧系统 p50 水平；会话启动用 WARP 将 WebRTC 设置从六次网络往返降至一次。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日11时53分"
+  },
+  {
+    "id": "cmse4xpoe0dq8ro2ea719d86j",
+    "title": "Genspark 开源 GenOffice：免费无广告的 AI 办公套件，支持文档、表格、演示与 PDF",
+    "url": "https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf",
+    "summary": "Genspark 以 Apache License 2.0 开源 AI 办公套件 GenOffice，面向 macOS 与 Windows，提供文档、表格、演示和 PDF 工具，当前版本 0.4.110，免费且无广告。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月4日11时46分"
+  },
+  {
+    "id": "cmse4xk7q0do0ro2ed1cdcoge",
+    "title": "Codex 修复 Windows 问题省时减压",
+    "url": "https://x.com/emollick/status/2084485221286563938",
+    "summary": "一个出乎意料地减压的 Codex/Code 用法，就是修复我各种 Windows 机器上的问题：奇怪的驱动问题、游戏不兼容，甚至是一些过去让我烦心的小事（为什么我设为开机启动的程序不启动？）。节省了数小时。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月4日11时42分"
+  },
+  {
+    "id": "cmse4r0u70dioro2ee6m9w14y",
+    "title": "Codex 当前出色，但两三月后将显原始",
+    "url": "https://x.com/thsottiaux/status/2084483765158719542",
+    "summary": "鉴于我最近看到的一些结果，很明显 Codex 是一个不错的工具框架。\n\n但两三个月后它就会显得原始，我们即将经历前沿 AI 使用方式的又一次重大变革。下一代模型需要的不仅仅是你的笔记本电脑。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月4日11时37分"
+  },
+  {
     "id": "cmse2qaaw0ar7ro2ehrr4ge7r",
     "title": "DeepSeek Flash 容量告急修复中",
     "url": "https://x.com/opencode/status/2084475000862720329",
@@ -926,6 +1126,30 @@
     "summary": "感谢！高性能、低成本，今天就试试吧。💻\n\n【引用 @vercel_dev】：Qwen 3.8 Max 已在 AI Gateway 上线。\n\n它在 DeepsecBench 网络安全排行榜上位列中游，单次运行成本处于最低水平之一。\n\nmodel： 'alibaba/qwen3.8-max'",
     "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "date": "2026年8月4日11时2分"
+  },
+  {
+    "id": "cmse4zzzf0ds7ro2embexdy2j",
+    "title": "Linux 内核 7.2-rc6 发布，AI 助推候选版提交量创近年新高",
+    "url": "https://www.ithome.com/0/985/393.htm",
+    "summary": "Linux 内核 7.2 第 6 个候选版本（7.2-rc6）于上周日发布，按提交数量计算是数年来规模最大的第 6 个候选版本。该版本以驱动更新为主，占比逼近 60%，覆盖 GPU、网络、音频、SPI 与 ATA 设备驱动。Linus Torvalds 表示规模扩大很大程度上归因于 AI，目前尚未出现重大问题，若第 7 个候选版本变更量趋稳，Linux 7.2 仍有望在 2 周后按计划发布。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日11时19分"
+  },
+  {
+    "id": "cmse4sbm50dj2ro2eiz31e4l3",
+    "title": "OpenAI下一代模型破解10道数学难题",
+    "url": "https://x.com/AYi_AInotes/status/2084478921630785899",
+    "summary": "解决了 10 个数学和理论计算机科学中的长期未解难题，ChatGPT 下一代版本不会是直接到 GPT-6 吧🤔",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月4日11时17分"
+  },
+  {
+    "id": "cmse3v1490c75ro2eum390q3i",
+    "title": "MakePlay 用对话式流程解决游戏开发交接难题",
+    "url": "https://x.com/rohanpaul_ai/status/2084478449738211691",
+    "summary": "MakePlay 正式上线，让创作者用自然语言描述游戏，系统自动生成可玩的浏览器版本，后续指令可直接修改玩法、画面和音效，无需切换环境。其核心是共享运行中的游戏本体，协调代码、美术、音乐等各环节，避免传统开发中多次交接丢失上下文。完全免费，支持 FPS、开放世界、竞速、解谜等多种类型。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日11时16分"
   },
   {
     "id": "cmse2siq80awbro2ed8vjbhep",
