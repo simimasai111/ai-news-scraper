@@ -912,6 +912,238 @@
     "date": "2026年8月4日1时0分"
   },
   {
+    "id": "cmsefpvbw0q3qro2e932emypv",
+    "title": "阿里云容器服务 Agent 将于 9 月 3 日起商业化收费，支持按量付费和资源包",
+    "url": "https://www.ithome.com/0/985/564.htm",
+    "summary": "阿里云宣布容器服务 Agent 将于北京时间 9 月 3 日 10 时开启商业化收费，对话、自主智能运维及定时任务等功能将开始计费，不影响存量用户已有设置和历史任务记录。该服务以积分（Credit）为计量单位，免费开通，支持按量付费及预付费资源包抵扣，两者可叠加使用，总价 = 实际消耗积分 × 单价（0.05 元 / 积分）。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日17时7分"
+  },
+  {
+    "id": "cmsefnjpn0q20ro2el7g7lyjw",
+    "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+    "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+    "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月4日16时57分"
+  },
+  {
+    "id": "cmsefpvbw0q3uro2egupv1g4s",
+    "title": "我国首部L3/L4自动驾驶系统安全强制性国标发布，2027年7月实施",
+    "url": "https://www.ithome.com/0/985/551.htm",
+    "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国标获批发布，将于2027年7月1日起实施。这是我国首部针对L3/L4级自动驾驶系统的强制性标准，由2024年推荐性国标升级而来，适用于M类载客和N类载货车辆，不适用于自动泊车系统。标准从企业全生命周期安全保障、动态驾驶任务执行、人机交互与用户告知、多维度检验检测四方面构建安全要求体系。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日16时41分"
+  },
+  {
+    "id": "cmsefnikm0q1gro2egcfwf6qh",
+    "title": "谷歌论文：金融研究智能体预测能力不足",
+    "url": "https://x.com/rohanpaul_ai/status/2084560337190154612",
+    "summary": "谷歌新论文指出，金融深度研究智能体在重建过去方面远优于预测未来。在17个基线与FinanceHarness上，所有模型在400道专家标注问题上的总体得分均低于40%。使用相同Qwen3.6-27B骨干，从简单搜索循环升级到完整金融工具栈后，总分从25.3%提升至32.4%，而GRPO额外训练仅增加0.4个百分点，表明主要瓶颈在于因果与情景推理能力。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日16时41分"
+  },
+  {
+    "id": "cmsefpvbw0q3vro2etqm5opla",
+    "title": "广电总局公布 7 月\"AI 魔改\"视频治理成果：清理违规视频 13300 余条",
+    "url": "https://www.ithome.com/0/985/550.htm",
+    "summary": "国家广播电视总局公布部分重点网络视听平台 7 月\"AI 魔改\"视频专项治理处置情况，共清理违规视频 13300 余条、处置违规账号 30 余个。该治理工作自 2 月 1 日起常态化开展，重点清理基于四大名著、历史及革命题材等经典影视作品进行\"AI 魔改\"的违规视频，并同步清理改编少年儿童熟知动画形象的邪典动画。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日16时39分"
+  },
+  {
+    "id": "cmsefn7fk0pzkro2ef1ccfoqv",
+    "title": "阿里云 AI Gateway 支持 Credits 计量与配额",
+    "url": "https://x.com/alibaba_cloud/status/2084559541883052237",
+    "summary": "🚀 AI Gateway 现已支持基于 Credits 的计量与配额。✅ 统一指标：通过 Credits 进行跨模型成本对比。✅ 供应商管理：清晰的服务归属与资源追踪。✅ 智能配额：按 Credits 而非仅 Token 限制支出。解决 LLM 成本不透明问题。有效衡量、约束并优化使用。💡 https://click.alibabacloud.com/m/20000001172/ #AIGateway #LLMOps #FinOps #Credits",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月4日16时38分"
+  },
+  {
+    "id": "cmseeklol0okoro2enekbj276",
+    "title": "阿里云ID验证用Qwen拦截身份欺诈",
+    "url": "https://x.com/alibaba_cloud/status/2084556468158632245",
+    "summary": "🛡️ 使用阿里云身份验证（ID Verification）阻止身份欺诈！我们的检测与响应（Detection & Response）由通义千问（Qwen）驱动，超越传统实时防护，有效阻断协同团伙攻击。🔍 团伙欺诈检测：精准定位协同攻击模式。📱 设备风险识别：拦截高风险设备。端到端守护您的身份安全框架！🔗 https://click.alibabacloud.com/m/20000001144/ #阿里云 #身份验证 #IDV #云计算 #网络安全",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月4日16时26分"
+  },
+  {
+    "id": "cmseekgd30okcro2ez4qsd58r",
+    "title": "Celeris-1 登顶输出速度榜，快 13-16 倍",
+    "url": "https://x.com/kimmonismus/status/2084555593226867170",
+    "summary": "Celeris-1 被 Artificial Analysis 评为输出速度第一，约 2，086 tokens/秒，MMLU-Pro 得分 75.9%，且无需定制推理芯片。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月4日16时22分"
+  },
+  {
+    "id": "cmsefpvbw0q3xro2e85ctwk8q",
+    "title": "腾讯混元发布语音识别模型 Hy ASR 3.0 preview，元宝已首发上线",
+    "url": "https://www.ithome.com/0/985/538.htm",
+    "summary": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于 Hy3 大语言模型，融合高精度语音识别与深度语义理解。该模型在开源评测集上中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%。元宝已首发上线该模型，支持方言识别、上下文智能纠错等功能且免费开放，并已上线腾讯云提供 API 服务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日16时21分"
+  },
+  {
+    "id": "cmsee1mh10nn4ro2e3nkuuzeo",
+    "title": "点讲都得，宝听得明：元宝上线Hy ASR 3.0 preview",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzY4MjM5MA%3D%3D&mid=2247515845&idx=1&sn=bed90eaffaa55ed51837cb02a60cdab3",
+    "summary": null,
+    "source": "公众号：腾讯元宝",
+    "date": "2026年8月4日16时20分"
+  },
+  {
+    "id": "cmseekz5g0oncro2ehfyz40ps",
+    "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+    "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+    "summary": "本教程演示如何用 NVIDIA SkillSpector 评估 AI 技能的安全态势，构建包含干净、风险、恶意及 MCP 示例的合成技能市场，并通过 LangGraph 检查流水线扫描每个技能。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月4日16时12分"
+  },
+  {
+    "id": "cmsee1mhf0nn6ro2em6rt7tr4",
+    "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+    "summary": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。",
+    "source": "公众号：腾讯混元",
+    "date": "2026年8月4日16时12分"
+  },
+  {
+    "id": "cmseekr7l0ol0ro2e436s4xps",
+    "title": "Qwen3.8-Max 更优更便宜",
+    "url": "https://x.com/Alibaba_Qwen/status/2084552484648042776",
+    "summary": "Qwen3.8-Max，更好，更便宜。试试吧。👀",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月4日16时10分"
+  },
+  {
+    "id": "cmsedkp9p0nhqro2edz0tepvk",
+    "title": "腾讯 WorkBuddy / CodeBuddy：Hy3 模型限时免费活动再次延长至 8 月 31 日",
+    "url": "https://www.ithome.com/0/985/527.htm",
+    "summary": "腾讯宣布 CodeBuddy 和 WorkBuddy 中 Hy3 模型限时免费活动延长至 2026 年 8 月 31 日，此前已延长过一次至 8 月 5 日。Hy3 采用 MoE 架构，总参数 295B，激活参数 21B，最大支持 256K 上下文。官方补充称 Hy3 暂不具备多模态能力，执行视频、图像生成任务时会切换至相应模型并产生积分消耗。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日15时53分"
+  },
+  {
+    "id": "cmsedidyd0ngtro2efaa11hkf",
+    "title": "PixVerse 用 AI 生成厚切三文鱼午餐",
+    "url": "https://x.com/PixVerse_/status/2084546686412820501",
+    "summary": "差点忘了这是 AI 做的\n\n（引用推文：辛苦了♪ 在 @PixVerse_ 吃午餐哦✨️ #pixversecpp PixVerse CPP\n\n这是 Saumon en papillote（纸包三文鱼）❤ 纸包烤的哦♪ 这么厚的三文鱼，真想尝尝看呢（〃艸〃）✨️\n\n下午也开心地加油吧٩（ˊᗜˋ*）و♪）",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月4日15时47分"
+  },
+  {
+    "id": "cmsedkp9p0nhsro2exnsvb5w5",
+    "title": "NVIDIA 评估下调 Rubin Ultra HBM 配置，或将不限于 12Hi HBM4E",
+    "url": "https://www.ithome.com/0/985/522.htm",
+    "summary": "NVIDIA 正评估下调明年 Rubin Ultra AI GPU 的 HBM 配置，并行评估原定 12Hi HBM4E 之外的方案。可能的降级路径包括从 HBM4E 降至 HBM4、从 12Hi 降至 8Hi HBM，前者因三大 DRAM 原厂 HBM4E 验证进度存变量。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日15时33分"
+  },
+  {
+    "id": "cmsecfsfg0lz0ro2ekjjku6c5",
+    "title": "递归视频反馈循环：夜间森林手持拍摄",
+    "url": "https://x.com/fofrAI/status/2084543108557971628",
+    "summary": "> 一个递归视频的反馈循环，每一层都向过去回溯 1 秒，低画质业余手持拍摄，有人在夜间森林中行走，刺眼的白光。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月4日15时33分"
+  },
+  {
+    "id": "cmsecfqe00lxyro2efs6vqldt",
+    "title": "最强AI模型在议会博弈中展现持续欺骗能力",
+    "url": "https://x.com/rohanpaul_ai/status/2084542855431819358",
+    "summary": "最新研究显示，最强AI模型能在多轮博弈中维持连贯欺骗策略，而非仅产生单一谎言。Kimi K2.5通过早期帮助对手建立信誉、嫁祸无辜玩家，最终成功让秘密队友当选，全程难以被识别；GPT-5.4同样保持隐蔽。较弱模型则因决策与叙述不一致而暴露。研究基于ParliamentBench社交推理游戏，论文见arxiv.org/abs/2607.28146。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日15时32分"
+  },
+  {
+    "id": "cmsebfj2c0kt6ro2e0vu1jz20",
+    "title": "OpenAI 回应苹果商业纠纷案：称苹果对此案处理有误",
+    "url": "https://www.ithome.com/0/985/493.htm",
+    "summary": "OpenAI 就苹果公司向美国法院申请临时禁令一事发布回应，称苹果相关描述与事实存在出入，并指出苹果外部律师因混淆两名亚洲姓氏将邮件发错对象。OpenAI 称苹果未提出诉讼中的具体指控，反而告知双方正在\"解决所有问题\"，此后连续 5 个月未再联系。OpenAI 还否认 Tang Tan 试图获取或使用苹果商业秘密，并分享相关聊天记录佐证。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日15时2分"
+  },
+  {
+    "id": "cmsecfb3n0lvsro2evzx5aqtx",
+    "title": "苹果诉OpenAI窃密案遭反将一军",
+    "url": "https://x.com/kimmonismus/status/2084540108254949441",
+    "summary": "OpenAI公布邮件反击苹果窃取硬件机密指控，显示苹果前工程师离职数周后仍被员工要求查找内部文件、解释产品决策。邮件还显示苹果律师误谢OpenAI法务负责人并未发生的通话。此举虽未推翻苹果商业机密指控，但苹果需解释自身离职管理漏洞及为何继续向被控窃密者索取机密帮助。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月4日15时21分"
+  },
+  {
+    "id": "cmsecdn1r0lt7ro2erf4q3a4o",
+    "title": "苹果在 AI 策略上搞错了什么",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "summary": "苹果在 AI 策略上犯了方向性错误。文章指出，苹果在 AI 领域的关键失误在于其封闭生态与模型能力上的保守选择，未能跟上 OpenAI 等对手的开放与迭代速度。这一判断基于对苹果当前 AI 产品表现与行业竞争格局的分析，但未给出具体模型版本或性能数据。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日15时20分"
+  },
+  {
+    "id": "cmsebm7f80kysro2eyq5r2isb",
+    "title": "Kimi-K3 开源背后：数据飞轮才是护城河",
+    "url": "https://x.com/karminski3/status/2084532129158025543",
+    "summary": "karminski 受访深圳卫视，谈 Kimi-K3 开源意义：SOTA 模型开放权重不怕被抄，因训练数据与经验未开源，个人微调易越调越差。护城河已从代码权重转向持续进化能力与数据飞轮，开源则换来曝光、社区影响力与生态反馈。",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月4日14时49分"
+  },
+  {
+    "id": "cmseb1gou0kgrro2eg3hy46s7",
+    "title": "宇树机器人翻跟头：仿真强化学习与参数保存",
+    "url": "https://x.com/chunxiangai/status/2084530298927333549",
+    "summary": "宇树机器人翻跟头的本质是大量电机与减速器按正确顺序旋转，评判标准来自仿真模拟强化学习与算力。学习结果中动作最优者被保存参数，加入动作库。实操时动作过多、遥控器按钮有限，需通过特定按键组合激发后空翻，遥控师需记忆大量动作名称。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月4日14时42分"
+  },
+  {
+    "id": "cmsebfj2d0ktbro2e1v31evki",
+    "title": "苹果申请临时禁令，阻止 OpenAI 及两名前员工使用其机密信息",
+    "url": "https://www.ithome.com/0/985/465.htm",
+    "summary": "苹果当地时间周一向美国法院申请初步禁令，要求禁止两名前员工及 OpenAI 获取、访问、使用或披露涉嫌属于苹果的机密信息，并提交加快证据开示程序的动议。苹果上月已起诉 OpenAI 及两名跳槽其公司的前员工，指控其盗用商业机密以推进消费级硬件业务。OpenAI 回应称该禁令\"基于错误信息且完全没有必要\"，并表示其既没有也不希望拥有苹果的任何商业机密。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日14时39分"
+  },
+  {
+    "id": "cmsebcp7r0kp3ro2euc18z7vo",
+    "title": "OpenAI 称下一代模型将超越笔记本",
+    "url": "https://x.com/kimmonismus/status/2084528920653664435",
+    "summary": "OpenAI 表示下一代模型需要超越笔记本的算力，并预测当前前沿 AI 使用方式将在 2-3 个月内显得原始，迎来又一次重大进化。引用推文指出 Codex 目前是优秀工具，但很快会被视为初级形态。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月4日14时36分"
+  },
+  {
+    "id": "cmsebb0mc0kn1ro2ejvmi5lg8",
+    "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+    "url": "https://github.com/leonickson1/Swiftlet",
+    "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月4日14时32分"
+  },
+  {
+    "id": "cmsebfj2d0ktgro2e88lk8cqe",
+    "title": "Cloudflare 推出 @cloudflare/computer 开源库，为每个 AI 智能体配备独立虚拟工作计算机",
+    "url": "https://www.ithome.com/0/985/457.htm",
+    "summary": "Cloudflare 以早期预览版形式推出 @cloudflare/computer 开源库，为每个 AI 智能体独立分配包含文件系统与命令执行能力的虚拟工作计算机。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月4日14时18分"
+  },
+  {
+    "id": "cmseaak6f0jesro2e7cqoy0ev",
+    "title": "扎克伯格：每家企业都将拥有自己的AI",
+    "url": "https://x.com/rohanpaul_ai/status/2084524239076614296",
+    "summary": "扎克伯格称，多数企业不会像Meta或OpenAI那样拥有前沿AI，但每家都会拥有\"自己的AI\"--一个反映公司实际运作方式的定制化运营层。他比喻未来AI将像网站、邮箱、社媒账号一样普及，用于客户互动、销售与支持。其核心观点是：企业AI通常不是从零训练的前沿模型，而是基于共享模型构建、由产品与客户历史塑造的定制层。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月4日14时18分"
+  },
+  {
+    "id": "cmseb7u0p0kliro2ecz142s77",
+    "title": "Vercel团队60B tokens总结8条AGENTS.md规则",
+    "url": "https://x.com/AYi_AInotes/status/2084522269745820010",
+    "summary": "Vercel Next.js团队基于约60B tokens的实践，总结出一份仅含8条规则的AGENTS.md，核心是让AI编程智能体避免过度设计、优先复用成熟方案。规则包括不保留向后兼容、选最简单实现、先跑通最小端到端版本、优先用成熟库等。作者警告该规则仅适合side projects，生产环境需谨慎，曾因\"不保留向后兼容\"险些删除生产数据库表。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月4日14时10分"
+  },
+  {
     "id": "cmse7yrut0gupro2ejfet4a10",
     "title": "GPT-5.6 Luna降价80%永久生效",
     "url": "https://x.com/thsottiaux/status/2084506501834829833",
