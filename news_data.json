@@ -1032,12 +1032,188 @@
     "date": "2026年8月5日1时11分"
   },
   {
+    "id": "cmsfr2pmj0atgrochg15fazsv",
+    "title": "Grok iOS 应用新增多款语音与全新界面",
+    "url": "https://x.com/testingcatalog/status/2084900237798207833",
+    "summary": "SpaceXAI 正在为 iOS 版 Grok 应用推出大量新语音，同时更新了界面。\n\n太空球体 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月5日15时12分"
+  },
+  {
+    "id": "cmsfqnwbs0aibrochgzxdp7bm",
+    "title": "梁文锋26岁闯阿里无人区，DeepSeek成功早有伏笔",
+    "url": "https://x.com/AYi_AInotes/status/2084892418130817266",
+    "summary": "梁文锋26岁独自驾车深入西藏阿里无人区400公里，被困一周后弃车走出，这段经历预示了DeepSeek的独特打法。他做基础模型、不融资不社交，用别人十分之一的成本做出匹敌的产品，敢赌敢输，输了认，继续走。DeepSeek不是商业计划书的结果，而是他本性的自然延伸。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月5日14时41分"
+  },
+  {
+    "id": "cmsfqt55w0alcroch2l4otmrb",
+    "title": "阿里云2027届校园招聘启动，聚焦AI全栈",
+    "url": "https://x.com/alibaba_cloud/status/2084891501578907930",
+    "summary": "阿里云2027届校园招聘正式启动，面向全球招募AI领域人才。招聘强调AI已从概念走向真实系统与场景，覆盖从基础设施到应用的全栈AI方向。申请者可登录阿里巴巴集团校园招聘官网，找到阿里云页面提交申请。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月5日14时37分"
+  },
+  {
+    "id": "cmsfqx7xb0aphrochzp1738fn",
+    "title": "卡帕西提出 AI 能力测试新思路：100 万 Tokens 让 Claude Opus 5 构建《指环王》3D 交互场景",
+    "url": "https://www.ithome.com/0/985/921.htm",
+    "summary": "OpenAI 联合创始人卡帕西提出 AI 基准测试新思路：向模型提供《指环王》开篇首段文字，要求其创建可交互的 3D 世界。他以 100 万 tokens（成本约 10 美元）为额度，让 Claude Opus 5 用 three.js 构建场景，模型耗时约 2 小时输出约 5500 行代码，生成作品呈现比尔博告别宴会等画面，完成度较高。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日14时32分"
+  },
+  {
+    "id": "cmsfpqvnq09b3rochnflj4pq1",
+    "title": "Extropic Z1 热力学芯片流片，能效超 GPU 万倍",
+    "url": "https://x.com/rohanpaul_ai/status/2084887123480793530",
+    "summary": "Extropic 已流片 Z1 热力学芯片，以低于 1W 功耗运行 269，000 个概率位，宣称能效比 GPU 高 10，000 倍，现已进入制造阶段。同时发布 Torx 和 Thermalizers，即面向热力学硬件的 PyTorch 与内核库。Z1 将提供 0.5M pbit 条状和 4M pbit PCIe 卡两种规格。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日14时20分"
+  },
+  {
+    "id": "cmsfonqkn085srochttxxvvpr",
+    "title": "美团LongCat-2.0登陆OpenCode免费开源",
+    "url": "https://x.com/Meituan_LongCat/status/2084882374261964956",
+    "summary": "LongCat-2.0 现已在 @opencode 上免费开放！🐱🚀\n\n1M 上下文窗口 · 完全开源\n\n美团最新针对编程优化的模型",
+    "source": "X：美团 LongCat (@Meituan_LongCat)",
+    "date": "2026年8月5日14时1分"
+  },
+  {
+    "id": "cmsfooa7g088croch0sqa5gem",
+    "title": "安德森谈阅读策略：新闻与经典书籍",
+    "url": "https://x.com/rohanpaul_ai/status/2084882093096505547",
+    "summary": "马克·安德森谈他的\"杠铃策略\"阅读习惯。\n- 实时新闻看 X，或读超过 50 年的书。\n- 他忽略报纸和杂志。\n- 他认为从业者主导的通讯是更优质、被低估的资源。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日14时0分"
+  },
+  {
+    "id": "cmsfos2k208azrochq3kls2hk",
+    "title": "消息称宇树科技 IPO 发行价约 104 元，市值将达 400 亿元以上",
+    "url": "https://www.ithome.com/0/985/901.htm",
+    "summary": "宇树科技科创板 IPO 于 8 月 5 日启动初步询价，8 月 10 日开启申购，拟募资 42.02 亿元，公开发行新股 4，044.64 万股。市场预估其发行市值将达 400 亿元以上，发行价约 104 元/股，一签新股约缴款 5.2 万元。招股书显示，该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，是全球少数实现盈利的高性能通用机器人公司。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日13时9分"
+  },
+  {
+    "id": "cmsfnlp5906xfroch5mizcdy6",
+    "title": "MemHarness：记忆在检索后需经重构而非直接回放",
+    "url": "https://x.com/rohanpaul_ai/status/2084868478159479046",
+    "summary": "MemHarness在检索与行动间加入决策步骤，用同一策略比对记忆原始状态与当前状态，重写可迁移部分或拒绝记忆并直接推理。基于Qwen2.5-7B-Instruct，该方法在ALFWorld达85.2%、WebShop达75.6%成功率，优于无记忆强化学习的76.4%和66.1%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日13时5分"
+  },
+  {
+    "id": "cmsfos2k108asroch05a8ona5",
+    "title": "Liquid AI 发布 LFM2.5-2.6B 端侧小模型，支持智能手机本地运行",
+    "url": "https://www.ithome.com/0/985/909.htm",
+    "summary": "Liquid AI 发布开源智能体模型 LFM2.5-2.6B，仅 26 亿参数，可在智能手机等设备端本地部署，同时支持规划、调用、多步骤处理的智能体工作流。该模型在 34T Token 数据集上预训练，并扩展分词器以增强非拉丁字母语言支持，基础和后训练版本已在 Hugging Face 平台提供。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日13时54分"
+  },
+  {
+    "id": "cmsfooa7h088drochxa7i9ekx",
+    "title": "SpaceX 上市后首份财报：季度营收近翻倍至 $7.8B",
+    "url": "https://x.com/rohanpaul_ai/status/2084880521323295127",
+    "summary": "SpaceX 上市后首份财报显示季度营收近乎翻倍至 $7.8B，Starlink 贡献过半收入，订阅用户翻倍至 12M，但人均付费下降 22%。AI 部门收入增长约 250%，主要来自与 Anthropic、Google 和 Reflection AI 的算力合同，总运营亏损从 $970M 收窄至 $143M。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日13时53分"
+  },
+  {
+    "id": "cmsfom5g3084hrochg67yzv81",
+    "title": "美团LongCat-2.0开源免费上线",
+    "url": "https://x.com/opencode/status/2084879638807842918",
+    "summary": "LongCat-2.0 现已在 OpenCode 上免费提供\n\n1M 上下文 · 完全开源\n\n美团最新针对编程优化的模型",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月5日13时50分"
+  },
+  {
+    "id": "cmsfooa7h088erocho9i2wuya",
+    "title": "Anthropic 任命前加州法官为首席全球事务官",
+    "url": "https://x.com/rohanpaul_ai/status/2084876912007250085",
+    "summary": "Anthropic 聘请前加州最高法院法官 Tino Cuéllar 出任其首位首席全球事务官，负责政策与全球政府关系。Cuéllar 曾领导加州前沿 AI 工作组，其建议影响了该州前沿模型透明度法案 SB 53。他上任之际，Anthropic 正就五角大楼涉军用途限制的供应链风险认定提出挑战。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日13时39分"
+  },
+  {
+    "id": "cmsfoiqde083crochyiwmr0ca",
+    "title": "Claude 智能体组合 5 个月跑赢标普 19%",
+    "url": "https://x.com/AYi_AInotes/status/2084876734785097771",
+    "summary": "一个由 Claude 智能体管理的 5 万美元实验组合，5 个月收益 19.04%，同期标普 500 为 12.24%，目前有 2700 万美元跟投。组合胜率仅四成，靠重仓赢家与及时止盈获利，并常年持有近四分之一现金买短期国债。架构上由 14 个 Opus 做研究、21 个 Sonnet 负责审计，所有交易公开，9 个决策周期选择不买入。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月5日13时38分"
+  },
+  {
+    "id": "cmsfos2k108awrochqjssvj6p",
+    "title": "CoreWeave 首度落子亚太，将在印尼建设合计 360MW 数据中心",
+    "url": "https://www.ithome.com/0/985/904.htm",
+    "summary": "Neocloud 企业 CoreWeave 宣布将在印度尼西亚建设 3 座数据中心，合计容量达 360MW，预计 2028 年投入使用，这是其在亚太地区的首个数据中心布局。该公司表示，亚洲企业、AI 原生公司和政府机构对靠近其数据和用户的人工智能计算资源需求日益增长，受延迟敏感型工作负载和数据本地化要求驱动。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日13时35分"
+  },
+  {
+    "id": "cmsfos2k108ayrochy55dp7ux",
+    "title": "马斯克：SpaceX 将完全使用英伟达架构平台",
+    "url": "https://www.ithome.com/0/985/902.htm",
+    "summary": "马斯克在 SpaceX 二季度财报电话会上表示，公司将完全采用英伟达架构平台，并称 Vera Bubin 设计的架构是最好的。他预计今年年底计算能力将超过 2 吉瓦，明年年底累计在线计算能力可能接近 10 吉瓦。马斯克还指出当前算力瓶颈在内存，需求每年增长约 200%，远超供应增速。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日13时31分"
+  },
+  {
+    "id": "cmsfnlp5806xdrochapvkmv22",
+    "title": "马斯克承诺 SpaceX 扩展中的 AI 数据中心将独家采用 NVIDIA Vera Rubin",
+    "url": "https://x.com/rohanpaul_ai/status/2084873314007441750",
+    "summary": "马斯克承诺 SpaceX 扩展中的 AI 数据中心将独家采用 NVIDIA Vera Rubin，并计划到 2027 年底实现近 10GW 的 AI 算力。SpaceX 在 Q2 已投入约 158 亿美元用于 AI 基础设施，称新算力部署一年内即可收回成本。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日13时25分"
+  },
+  {
+    "id": "cmsfnlphv06xorochiprpxmdp",
+    "title": "马斯克黄仁勋联手将AI算力送上天",
+    "url": "https://x.com/cb_doge/status/2084871550818279691",
+    "summary": "埃隆·马斯克 × 黄仁勋。\n\n这场合作将把AI算力送上太空。🚀",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月5日13时18分"
+  },
+  {
+    "id": "cmsfnlp5806xerochn4ndsct0",
+    "title": "Cursor 开源 MoK 内核，训练吞吐提升 41%",
+    "url": "https://x.com/rohanpaul_ai/status/2084870412262068437",
+    "summary": "Cursor 开源 Mixture-of-Kittens（MoK），一个面向 NVL72 的 MoE 训练 megakernel，将专家通信与计算融合为单一确定性内核，前向传播比最强公开基线快 2.37 倍。该内核通过重写 token 调度（改推为拉）使 512 张生产 GPU 吞吐从 760.9 提升至 1，070.2 tokens/s，提升 41%，且不依赖新硬件。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日13时13分"
+  },
+  {
     "id": "cmsflgihx04i8rochmfatxml2",
     "title": "Harness-R1：9B模型修复智能体胜过397B",
     "url": "https://x.com/rohanpaul_ai/status/2084853824922219007",
     "summary": "Harness-R1 用 9B 模型重写冻结目标智能体的执行层，在修复任务上超越 397B 模型。该 9B 模型经监督微调和在线 RL 训练，依据可执行补丁是否提升目标智能体任务奖励来更新。目标模型不漂移，编辑器通过 GRPO 学习哪些补丁真正改善执行。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月5日12时7分"
+  },
+  {
+    "id": "cmsfmj3zd05ucroch9d5y8g31",
+    "title": "黄仁勋2015年采访马斯克旧视频",
+    "url": "https://x.com/cb_doge/status/2084866232814071947",
+    "summary": "英伟达CEO黄仁勋在2015年采访@elonmusk，距今已逾十年。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月5日12时56分"
+  },
+  {
+    "id": "cmsfmj69n05v6rochvnqek07o",
+    "title": "CopilotKit 开源 Channels SDK：MIT 许可库让任意 AG-UI 智能体接入 Slack 和 Microsoft Teams",
+    "url": "https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk",
+    "summary": "CopilotKit 发布开源 Channels SDK（@copilotkit/channels 0.5.0，MIT 许可），可将现有 AG-UI 智能体接入 Slack 和 Microsoft Teams 等消息平台，无需为每个平台重写代码。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月5日12时43分"
+  },
+  {
+    "id": "cmsfnbv0306e1rochlnngl1gf",
+    "title": "Charlie Holtz 移动端 TestFlight 今日开始发放",
+    "url": "https://x.com/charlieholtz/status/2084860747532869830",
+    "summary": "今天开始发放移动端 TestFlight 测试资格了！目前还处于早期阶段，但如果你向我申请过访问权限而我还没回复你，欢迎再私信提醒我一下 ：）",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月5日12时35分"
   },
   {
     "id": "cmsfkdm7f02zmrochcdkfuh6z",
@@ -1064,6 +1240,14 @@
     "date": "2026年8月5日12时21分"
   },
   {
+    "id": "cmsfmmuis05wurochzv3rcgrc",
+    "title": "Visa 以 24 亿美元收购以色列 AI 防诈公司 BioCatch，提升账号风险检测能力",
+    "url": "https://www.ithome.com/0/985/894.htm",
+    "summary": "Visa 宣布以 24 亿美元现金收购以色列 AI 金融防诈公司 BioCatch，利用其行为分析与设备情报技术提升账户盗用、金融诈骗等风险检测能力。BioCatch 服务全球 21 个国家超 350 家金融机构，每月分析约 190 亿次用户交互行为，覆盖 7.6 亿用户和 18 亿台设备。交易预计在 Visa 2027 财年第二季度结束前完成。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日12时21分"
+  },
+  {
     "id": "cmsflk8xi04nbrochv2v2ei0m",
     "title": "Qwen-Image-3.0-Pro 上线 fal 平台",
     "url": "https://x.com/Alibaba_Qwen/status/2084856462434807977",
@@ -1072,12 +1256,28 @@
     "date": "2026年8月5日12时18分"
   },
   {
+    "id": "cmsfmdkpt05pfrochpw2iu4rj",
+    "title": "梁文锋2011年微博揭示DeepSeek成功底色",
+    "url": "https://x.com/AYi_AInotes/status/2084856138005168318",
+    "summary": "梁文锋2011年独自驾车深入阿里无人区400公里，被困一周后走出，车留在草原，此后不再更新自驾内容。这一行为模式与其创办DeepSeek的打法一致：不融资、不站队、不按硅谷牌理出牌，以极低成本做出匹敌全球顶尖的模型。DeepSeek的成功不是商业策略，而是同一性格在12年后的自然延伸。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月5日12时16分"
+  },
+  {
     "id": "cmsflk8xi04ncroch41evesuw",
     "title": "Qwen3.8-Max上线Cline，5倍折扣订阅",
     "url": "https://x.com/Alibaba_Qwen/status/2084855446595408121",
     "summary": "试试在 Cline 上运行 npm i -g cline！👀\n\n【引用 @cline】：Qwen3.8-Max 现已登陆 ClinePass，该订阅可享受约 5 倍折扣。\n\n使用 $4.99 特惠价在 Cline CLI 上使用：npm i -g cline\n\n这是目前访问 Qwen 最实惠的方式。",
     "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "date": "2026年8月5日12时14分"
+  },
+  {
+    "id": "cmsfmmuis05wxrochspb72rjh",
+    "title": "字节跳动发布音视频全双工大模型 SeedRealtime，已上线豆包 App",
+    "url": "https://www.ithome.com/0/985/891.htm",
+    "summary": "字节跳动 Seed 今日推出原生音视频全双工大模型 SeedRealtime，用统一架构融合音频、视频与文本，支持\"边看、边听、边说\"的实时交互。端到端评测显示，相比级联模型，其音视频对话节奏问题减少一半。该模型已在豆包 App 全量上线，更新至最新版本后可在对话框选择\"打电话\"体验。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日12时12分"
   },
   {
     "id": "cmsflglsq04k7rochoc5ls1iz",
