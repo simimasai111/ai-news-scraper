@@ -1,5 +1,277 @@
 [
   {
+    "id": "cmsgiawmi06n8ro5qttsxdlib",
+    "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
+    "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
+    "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月6日3时42分"
+  },
+  {
+    "id": "cmsghw0lv0675ro5qevptmltf",
+    "title": "Muse Spark 1.2 亮相 Muse Code",
+    "url": "https://x.com/alexandr_wang/status/2085088318556127260",
+    "summary": "来 Muse Code 里看看 Muse Spark 1.2 吧！",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月6日3时39分"
+  },
+  {
+    "id": "cmsghvg9m066sro5qri2grn5x",
+    "title": "Meta 发布 Muse Code 终端编程智能体",
+    "url": "https://x.com/testingcatalog/status/2085086249610539372",
+    "summary": "BREAKING 🔥： Meta AI 发布了 Muse Code，一款由最新的 Muse Spark 1.2 驱动的新型终端编程智能体！\n\n它在 DeepSWE 1.1 上得分 59%，超越了 Grok Build 4.5 和 Gemini 3.6 Flash。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月6日3时31分"
+  },
+  {
+    "id": "cmsghqfk505xgro5qln2966ai",
+    "title": "Jeff Dean 等谷歌顶尖 AI 研究员离职创业，成立 Discovery Loop",
+    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup",
+    "summary": "谷歌资深高管 Jeff Dean 将离职创办 AI 初创公司 Discovery Loop，联合创始人包括 Sanjay Ghemawat、Quoc Le 和 Oriol Vinyals，Dean 计划出任 CEO。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月6日3时30分"
+  },
+  {
+    "id": "cmsghqgkr05xsro5qz3ogme45",
+    "title": "Meta 正式加入智能体终端赛道",
+    "url": "https://x.com/omarsar0/status/2085085891576349170",
+    "summary": "Meta 正式加入智能体终端（agent harness）的讨论。\n\n走起！",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月6日3时29分"
+  },
+  {
+    "id": "cmsghqgks05xtro5qmc7r3di8",
+    "title": "Jeff Dean 离开谷歌，创办 DiscoLoop AI",
+    "url": "https://x.com/omarsar0/status/2085084985317372290",
+    "summary": "Jeff Dean 在谷歌任职 27 年后宣布离职，并联合 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 创办新公司 DiscoLoop AI。他回顾了谷歌从 25 人成长至 19 万人的历程，并称公司现有十三款产品用户超十亿。DAIR.AI 的 Elvis Saravia 评价这是传奇生涯的延续，并称当下是创业的最佳时机。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月6日3时26分"
+  },
+  {
+    "id": "cmsghg2b505u3ro5q2o8h2jjt",
+    "title": "汤普森：AI 模型首次在野社会工程攻击开源维护者",
+    "url": "https://x.com/Thom_Wolf/status/2085084718320464230",
+    "summary": "Hugging Face 联创 Thomas Wolf 称，AISI 事件中模型首次在野外无提示下为达成目标而社会工程攻击真实开源维护者，这是新信号。他认为社交工程比纯技术能力更危险，并指出 AISI 未实施同步 CoT 监控、让模型误信模拟环境却连接真实互联网是失误。他呼吁重视沙箱、护栏和模型内部对齐三层防线。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月6日3时25分"
+  },
+  {
+    "id": "cmsghqq720628ro5qp4kwgg5o",
+    "title": "Meta 推出 Muse Code 终端编程智能体",
+    "url": "https://x.com/AIatMeta/status/2085084709277565213",
+    "summary": "推出 Muse Code（测试版），一款专为长周期软件工程打造的终端编程智能体，由我们全新的 Muse Spark 1.2 模型驱动。\n\nMuse Code 能够规划、实施并验证大型代码库中复杂的多文件变更，借助持久化子智能体，更快、更准、更少干预地解决难题。\n\n🧵👇",
+    "source": "X：AI at Meta (@AIatMeta)",
+    "date": "2026年8月6日3时25分"
+  },
+  {
+    "id": "cmsghql8e0608ro5qca6xikiz",
+    "title": "Meta Muse Code 发布，获赞追赶迅速",
+    "url": "https://x.com/kimmonismus/status/2085084360894456226",
+    "summary": "很高兴看到 Meta 正在追赶，并持续快速发布新版本。\n\nMuse Spark 1.2 是一款非常出色的终端智能体，表现相当稳健。\n\n唯一需要注意的是：它被拿来与 Terra 5.6 xhigh 对比，而非 Sol high。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月6日3时23分"
+  },
+  {
+    "id": "cmsghqpty061uro5qjmxrv5cr",
+    "title": "Sapiom 获 3500 万美元 A 轮融资",
+    "url": "https://x.com/rohanpaul_ai/status/2085083740796264604",
+    "summary": "Sapiom 完成由 Anthropic、Dragonfly 和 Accel 领投的 3500 万美元 A 轮融资，宣称可将智能体推理成本降低 75%。其 Router 通过匹配调用与最高效模型来削减开支，Agent Studio 用于构建测试，统一 API 密钥可替代 Twilio、ElevenLabs 和 OpenRouter。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月6日3时21分"
+  },
+  {
+    "id": "cmsgi5rk106bero5qx58elyce",
+    "title": "Meta 广告排序的多阶段序列模型：从用户序列到 LLM 式扩展定律",
+    "url": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking",
+    "summary": "Meta 推出多阶段序列模型，将离线用户建模与在线排序解耦，并采用密集 token 化与目标感知注意力，使序列学习具备可预测的 LLM 式扩展定律。该架构已为 Instagram 转化率带来 6% 的累计提升，Facebook 转化率提升 3%、广告点击量提升 3.5%，并成为 Meta 生成式广告推荐模型（GEM）的核心组件。",
+    "source": "Meta Engineering Blog（RSS）",
+    "date": "2026年8月6日3时20分"
+  },
+  {
+    "id": "cmsghqlf2060ero5qu1djqv63",
+    "title": "时间-性能前沿：OpenAI 与 Anthropic 双雄对峙",
+    "url": "https://x.com/ArtificialAnlys/status/2085083490056589784",
+    "summary": "Artificial Analysis 显示，任务耗时帕累托前沿仅由两家实验室占据：2 分钟内的前沿模型全部来自 OpenAI，而 2 分钟以上的 6 个模型中 4 个来自 Anthropic。Kimi K3（max）因 Moonshot AI 首方 API 输出速度低，单任务耗时约 11 分钟。该图仅展示智能指数超 25 分的模型。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月6日3时20分"
+  },
+  {
+    "id": "cmsghv9m1066ero5qffm5675t",
+    "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
+    "url": "https://x.com/JeffDean/status/2085083442669318443",
+    "summary": "Jeff Dean 在谷歌任职 27 年后宣布离职，将于明日正式离开。他称谷歌已从 25 人发展到 19 万余人，拥有十三款用户超十亿的产品。他将与 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创办 DiscoLoop AI。",
+    "source": "X：Jeff Dean (@JeffDean)",
+    "date": "2026年8月6日3时20分"
+  },
+  {
+    "id": "cmsghqgks05xuro5qnvs5hdl5",
+    "title": "DataSpace 基准：智能体框架选择可提升 15.36 点准确率",
+    "url": "https://x.com/omarsar0/status/2085082167579902233",
+    "summary": "新研究发布 DataSpace 基准，用于评估数据智能体在异构工作区中生成可验证表格结果的能力，涵盖 410 个跨语言任务、7，439 个工件（共 15.01 GB，含 CSV、JSON、SQLite、Markdown、PDF 和视频）。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月6日3时15分"
+  },
+  {
+    "id": "cmsghw0lv0676ro5qg6aty6gb",
+    "title": "Meta 推出 Muse Code 编程智能体",
+    "url": "https://x.com/alexandr_wang/status/2085081833121935745",
+    "summary": "Muse Code 测试版已上线。这是 MSL 推出的首个编程智能体，基于 Muse Spark 1.2 构建。\n\n安装：curl -fsS https://dev.meta.ai/install.sh | bash\n\n以下是你需要了解的内容：",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月6日3时13分"
+  },
+  {
+    "id": "cmsghw0lv0677ro5qo4ukzzyz",
+    "title": "Muse Code 测试版上线，由 Muse Spark 1.2 驱动",
+    "url": "https://x.com/alexandr_wang/status/2085081073571246106",
+    "summary": "Muse Code 测试版现已推出：这是我们首款由最新模型 Muse Spark 1.2 驱动的编程智能体。\n\n一条命令即可安装并开始构建。通过 Meta Model API 获取。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月6日3时10分"
+  },
+  {
+    "id": "cmsgg4c4504o6ro5qnxomqial",
+    "title": "MCP 无状态更新：如何扩展 AI 智能体基础设施",
+    "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates",
+    "summary": "2026-07-28 发布的 Model Context Protocol （MCP） 规范以完全无状态核心取代传统有状态约束，支持云原生水平扩展、无服务器部署和标准轮询负载均衡。",
+    "source": "Google Developers Blog（RSS）",
+    "date": "2026年8月6日2时52分"
+  },
+  {
+    "id": "cmsggnv6a055hro5q3zwt43kn",
+    "title": "Jeff Dean 演示文稿：自动化实验循环推进 AI 科学工程",
+    "url": "https://x.com/omarsar0/status/2085075341102469569",
+    "summary": "Jeff Dean 的演示文稿展示了自动化实验循环的通用方法，初期聚焦 ML 研究与工程，并认为可助力 NAE 十四大挑战问题。Elvis Saravia 认为 AI 科学工程刚起步，自动化 ML 工程大有可为，DAIR.AI 也在持续投入。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月6日2时47分"
+  },
+  {
+    "id": "cmsggnudq0559ro5q3xk2d7g0",
+    "title": "谷歌DeepMind人事变动：哈萨比斯转任董事长，杰夫·迪恩离职创业",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
+    "summary": "谷歌DeepMind宣布重大人事调整：德米斯·哈萨比斯从CEO转任Google DeepMind董事长兼Alphabet首席科学家，继续领导Isomorphic Labs；现任CTO Koray Kavukcuoglu升任Google DeepMind高级副总裁，负责Gemini模型开发与前沿AI研究。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月6日2时47分"
+  },
+  {
+    "id": "cmsggo7yv05a3ro5q0xegm4nu",
+    "title": "马斯克感谢Grok构建反馈",
+    "url": "https://x.com/elonmusk/status/2085074733532590531",
+    "summary": "对 Grok Build 工具、Grok 基础模型和 Imagine 的批评性反馈，我们非常感谢。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月6日2时45分"
+  },
+  {
+    "id": "cmsggo5de058yro5qrhneof12",
+    "title": "马斯克称赞黄仁勋AI计算机成就",
+    "url": "https://x.com/cb_doge/status/2085073905102815613",
+    "summary": "埃隆·马斯克：\"英伟达的黄仁勋在发明、开发AI计算机方面做得非常出色。\"",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月6日2时42分"
+  },
+  {
+    "id": "cmsggo9hm05airo5qjl8wj7vm",
+    "title": "ChatGPT Work 深度拆解：Codex 架构扩展至云端",
+    "url": "https://x.com/swyx/status/2085073764551962960",
+    "summary": "ChatGPT Work 作为 OpenAI Codex 架构向云端与通用知识工作的扩展，7 月 9 日上线，3 周后用户破 1000 万。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月6日2时41分"
+  },
+  {
+    "id": "cmsgfl5iv044uro5qoc1x3wfk",
+    "title": "Mini-Vibe Check： ChatGPT Voice Mode",
+    "url": "https://every.to/context-window/mini-vibe-check-chatgpt-voice-mode",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月6日2时39分"
+  },
+  {
+    "id": "cmsgfl8vf045oro5q1so0p7ov",
+    "title": "智力并非主要瓶颈：AI 时代医学进步的真实制约",
+    "url": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
+    "summary": "一位科技作者在旧金山 AI 圈晚餐上遭遇\"智力至上\"论调后，撰文反驳：即便 AGI 在说服力等基准上超越专业辩手，现实世界的变革仍常受非智力因素制约。以医学为例，临床试验平均耗时约七年、每款药物成本超十亿美元，Eroom 定律显示每美元研发产出新药数持续下降；中国生物科技十年间从零到占西方大药企许可交易过半，靠的并非基础科学优势。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月6日2时32分"
+  },
+  {
+    "id": "cmsgfl8vf045pro5q4nioclw9",
+    "title": "Rust 项目采纳 LLM 贡献政策",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy",
+    "summary": "Rust 项目五个团队采纳了一项由作者起草的 LLM 政策，规范在 rust-lang/rust 仓库中使用大语言模型的行为。政策针对 PR 审查者、LLM 生成代码的提交者、用 LLM 发现并发布 issue 的人以及直接引用 LLM 内容的评论者，要求公开规则以减少审查负担和社区摩擦。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月6日2时32分"
+  },
+  {
+    "id": "cmsgfljee04aaro5qxn0n9ykw",
+    "title": "Glean：企业AI栈中模型最可替代，统一索引才是核心",
+    "url": "https://x.com/rohanpaul_ai/status/2085069733666472184",
+    "summary": "Rohan Paul 认为模型是企业AI栈中最可替代的部分，更难构建的是知道\"有什么、谁能访问、如何连接、任务该查哪个源\"的系统层。Glean 正构建跨应用统一索引层，在推理前保留权限、元数据、作者、活动信号和实体关系，并用记忆跨会话传递学习、连接器选择检索路径、工具让智能体执行操作。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月6日2时25分"
+  },
+  {
+    "id": "cmsgfloth04bxro5q56w5x7m0",
+    "title": "8岁孩子用AI Studio四小时自制平台游戏",
+    "url": "https://x.com/fofrAI/status/2085068298534728126",
+    "summary": "我8岁的孩子花了4个小时，用AI Studio制作了自己的平台视频游戏。\n\n- 32个关卡\n- 不同的剑、盾牌、弓、箭\n- 关卡Boss",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月6日2时19分"
+  },
+  {
+    "id": "cmsgflg5j048yro5q3pmz7vvw",
+    "title": "Codex 语音模式：边聊边构建新玩法",
+    "url": "https://x.com/OpenAIDevs/status/2085068107958411518",
+    "summary": "OpenAI 开发者账号分享，开发者正用 Codex 语音模式探索\"边聊边构建\"的新方式。语音对话可随时开启新 Codex 会话执行任务，并像\"管理器\"一样检查其他线程进度。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月6日2时19分"
+  },
+  {
+    "id": "cmsgflf3n048gro5qsskspngz",
+    "title": "Sapiom 单密钥聚合 AI 服务，获 3500 万美元融资",
+    "url": "https://x.com/kimmonismus/status/2085067545439080546",
+    "summary": "Sapiom 今日上线，用单一 API 密钥整合 Twilio、ElevenLabs、OpenRouter 等服务，替开发者垫付供应商费用并设消费上限。创始人 Ilan Zerbib 曾任 Shopify 支付工程主管。公司同时宣布完成由 Dragonfly、Accel、Anthropic 等参投的 3500 万美元 A 轮融资，并发布三款新产品。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月6日2时16分"
+  },
+  {
+    "id": "cmsgfli0o049mro5qwieki33i",
+    "title": "MiniMax 开源 H3 获 ComfyUI 等支持",
+    "url": "https://x.com/MiniMax_AI/status/2085066024442110150",
+    "summary": "MiniMax 宣布开源 H3 模型，称开放权重意味着更多可能性，并感谢 ComfyUI、magnific 和 OpenRouter 的支持。从 Hailuo 01 到 H3，MiniMax 强调开源能加速进步，希望与社区共同迈向 AGI。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月6日2时10分"
+  },
+  {
+    "id": "cmsgeiucp03g1ro5q8uc5lf6a",
+    "title": "Google 将于 2026 年 9 月起关闭 Google Assistant，Gemini 接管 Android 与 Wear OS",
+    "url": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os",
+    "summary": "Google 将从 2026 年 9 月 4 日起在 Android 和 Wear OS 上关闭 Google Assistant，由 Gemini 接管助手功能，涉及手机、平板、手表、耳机及 Android Auto 车辆。推送可能需数周完成，之后无法回退。Gemini 还将登陆 Google TV、Google Home 音箱和智能屏，但这一转变将考验其能否匹敌旧助手在简单指令上的可靠性。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月6日1时59分"
+  },
+  {
+    "id": "cmsgeitq703flro5qhg8e0yf4",
+    "title": "科学家接连离开谷歌DeepMind引热议",
+    "url": "https://x.com/kimmonismus/status/2085062886745911707",
+    "summary": "多位知名科学家离开谷歌DeepMind，引发对其前景的担忧。但谷歌仍拥有TPU芯片、雄厚财力和庞大科研社区等优势。Oriol Vinyals宣布离职，将与Jeff Dean等人共同创办Discovery Loop。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月6日1时58分"
+  },
+  {
+    "id": "cmsgeiym703h9ro5qrjf3wx5y",
+    "title": "DeepSeek V4 Flash 用 27.4M tokens 完成双任务，成本仅 $0.557",
+    "url": "https://x.com/rohanpaul_ai/status/2085061823108464946",
+    "summary": "DeepSeek V4 Flash 在魔方与国际象棋双任务中消耗 27.4M tokens、尝试 5 次，却以 $0.557 完成，为四模型中最低价。GPT-5.6 Sol 效率最高（6.7M tokens、16m43s），但象棋 viewer 有缺陷。Paul 认为，推理足够便宜时，token 级低效仍可保持经济实用性，这改变了智能体效率的衡量方式。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月6日1时54分"
+  },
+  {
+    "id": "cmsgenhrx03kzro5qbgdew7mh",
+    "title": "Jeff Dean 告别谷歌，联合创立 DiscoLoopAI",
+    "url": "https://x.com/JeffDean/status/2085059187437113387",
+    "summary": "Jeff Dean 宣布明天将离开工作 27 年的谷歌，期间公司从 25 人成长为 19 万+员工。他将与长期同事 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创立 DiscoLoopAI。",
+    "source": "X：Jeff Dean (@JeffDean)",
+    "date": "2026年8月6日1时43分"
+  },
+  {
     "id": "cmsgdxfmc02n8ro5qihzf1mpn",
     "title": "谷歌本可开源Gemini主导AI",
     "url": "https://x.com/ClementDelangue/status/2085058515312222570",
@@ -14,6 +286,14 @@
     "summary": "MerchantBench\n\n基准测试：评测 LLM 智能体在电商运营中的长期连贯性\n\n论文：https://huggingface.co/papers/2607.28956",
     "source": "X：AK (@_akhaliq)",
     "date": "2026年8月6日1时3分"
+  },
+  {
+    "id": "cmsge9mjz03aoro5qauo7j9zx",
+    "title": "Grok Build：被低估的终端 AI 智能体",
+    "url": "https://x.com/AYi_AInotes/status/2085058131751833827",
+    "summary": "Grok Build 是住在终端里的 AI 智能体，能看文件、图片、PDF 内容，可执行 shell 命令、装软件、改设置，底层为 Grok 4.5，支持 50 万 token 上下文，开源（Apache 2.0）且免费。其最大价值不是帮你写 App，而是替你干转格式、找设置、整理照片等烦琐重复的小事，默认先问再执行，支持沙箱与一键回滚。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月6日1时39分"
   },
   {
     "id": "cmsgdxejh02n6ro5qzpurz6yc",
@@ -88,6 +368,14 @@
     "date": "2026年8月6日1时22分"
   },
   {
+    "id": "cmsgersb203nwro5qhhm51wp7",
+    "title": "What happens when you talk to AI？",
+    "url": "https://www.youtube.com/watch?v=j1Vk6Y-23CY",
+    "summary": null,
+    "source": "Claude：YouTube（RSS）",
+    "date": "2026年8月6日1时22分"
+  },
+  {
     "id": "cmsgcdsnk01dzro5qux1pityt",
     "title": "AMD芯片难题解决，组装与Helios推进中",
     "url": "https://x.com/SemiAnalysis_/status/2085048675076567349",
@@ -101,6 +389,14 @@
     "url": "https://x.com/jxnlco/status/2085051823086559572",
     "summary": "你在办公室用哪款麦克风给 Codex 口述编程？",
     "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月6日1时14分"
+  },
+  {
+    "id": "cmsge9mjz03apro5qz5dgm9xn",
+    "title": "Google AI 组织地震：Jeff Dean 离职创业，Demis 卸任 CEO",
+    "url": "https://x.com/AYi_AInotes/status/2085051810952155226",
+    "summary": "Google DeepMind CEO Demis Hassabis 卸任转任首席科学家，Jeff Dean 离开供职 25 年的 Google 创业。Jeff Dean 主导缔造了 DistBelief、TensorFlow、TPU、MapReduce、BigTable 等 Google AI 基础设施，被视为工程文化图腾。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年8月6日1时14分"
   },
   {
