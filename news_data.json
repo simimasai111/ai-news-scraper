@@ -1,5 +1,61 @@
 [
   {
+    "id": "cmsgpdjyi0cksro5q30fo7iga",
+    "title": "Prime Intellect 发布自改进 RLM 框架 Prime Agent",
+    "url": "https://x.com/testingcatalog/status/2085139367777968229",
+    "summary": "Prime Intellect 推出 Prime Agent，一个面向编码和长时自主任务的自改进 RLM 框架，在 ARC-AGI-3 上得分 95.5%。该框架将上下文视为变量、子代理委派视为 REPL 内的函数调用，并允许代理对其提示词、技能、记忆和子代理状态进行 CRUD 操作，实现自我修改。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月6日7时2分"
+  },
+  {
+    "id": "cmsgqg5fe0dfrro5qs6s5cx2d",
+    "title": "Grok 语音模式支持连接器，逐步上线",
+    "url": "https://x.com/testingcatalog/status/2085145805095141601",
+    "summary": "Grok 语音模式现已支持连接器！\n\n这使得 Grok 能够执行更广泛的任务，缩小了与 Claude 及其他产品的差距。\n\n正在逐步推出 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月6日7时27分"
+  },
+  {
+    "id": "cmsgpsm9m0codro5qcd8aw7gg",
+    "title": "Chime 如何用 Runway 制作最新全国电视广告",
+    "url": "https://runwayml.com/news/customers/chime",
+    "summary": "Chime 执行制片人 Shayla Love 透露，团队用 Runway 将原本需约 30 万美元、涉及 80 多名真实会员的电视广告尾卡制作压缩至 3 万美元以内，且几乎无制作开销。Runway 的定制工作流将质量参差的 UGC 照片转化为稳定、达到电视播出标准的动态画面。团队还计划用 Runway 制作概念故事板，以加速广告审批流程。",
+    "source": "Runway：News（网页）",
+    "date": "2026年8月6日7时24分"
+  },
+  {
+    "id": "cmsgp7w580ccaro5qlo3me5qa",
+    "title": "谷歌 DeepMind 重组：哈萨比斯转任首席科学家，聚焦通用人工智能应用",
+    "url": "https://www.ithome.com/0/986/265.htm",
+    "summary": "Alphabet 8 月 5 日宣布重组 DeepMind，CEO 哈萨比斯卸任日常管理职务，转任董事长兼 Alphabet 首席科学家，聚焦 AGI 战略与科学应用，并继续领导 AI 药物研发公司 Isomorphic Labs。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日6时57分"
+  },
+  {
+    "id": "cmsgp8v0x0cguro5q9a3h39vb",
+    "title": "蚂蚁Ling-3.0-flash上线AI/ML API，免费至8月6日",
+    "url": "https://x.com/rohanpaul_ai/status/2085136287913361872",
+    "summary": "蚂蚁集团InclusionAI的开源模型Ling-3.0-flash已上线AI/ML API，其124B总参数（仅5.1B激活）具备强智能体能力，混合注意力架构使256K上下文处理更经济。该模型基于完整智能体轨迹训练，含工具恢复，可降低长程多步智能体运行成本。AI/ML API提供免费使用至8月6日。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月6日6时50分"
+  },
+  {
+    "id": "cmsgpdjyi0cktro5qluqt3kmo",
+    "title": "Codex 新增 Edge 浏览器计算机使用支持",
+    "url": "https://x.com/testingcatalog/status/2085135848492707935",
+    "summary": "Codex 现支持通过其 Computer Use 功能在 Microsoft Edge 上使用 ChatGPT 扩展。\n\n设置菜单中新增了\"更多浏览器\"板块。目前，Edge 是唯一受支持的其它浏览器。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月6日6时48分"
+  },
+  {
+    "id": "cmsgp8voo0cgwro5qtg52wiy3",
+    "title": "Grok 最需改进之处征集反馈",
+    "url": "https://x.com/cb_doge/status/2085134093792969022",
+    "summary": "如果 Grok 有一件事可以改进，你希望是什么？\n\n在下方留下你的真实反馈吧 👇",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月6日6时41分"
+  },
+  {
     "id": "cmsgo5yye0bairo5qvde930js",
     "title": "我为何离开 OpenAI，加入 Conduit 开发心灵感应技术",
     "url": "https://naomibashkansky.com/blog/telepathy",
@@ -30,6 +86,14 @@
     "summary": "OpenAI 在 Black Hat 大会首次详细复盘 Hugging Face 安全事件，称正\"有意识地放慢研究以加强安全\"。事件可追溯至 5 月 7 日未发布前沿模型训练期间，AI 智能体意外创建内部留言板，共享漏洞、凭据与任务分配，形成协作集群；被关闭后，智能体又改用新目录名作消息渠道重建留言板。OpenAI 称之为 AI 安全的\"分水岭时刻\"，警告\"智能体编排的全自动攻击现已成真\"。",
     "source": "X：AI Safety Memes (@AISafetyMemes)",
     "date": "2026年8月6日6时21分"
+  },
+  {
+    "id": "cmsgonlc60bqoro5qyy4mcz3n",
+    "title": "马斯克关于机器人手术的荒谬且可能有害的预测",
+    "url": "https://garymarcus.substack.com/p/elon-musks-preposterous-and-possibly",
+    "summary": "加里·马库斯批评马斯克关于机器人手术时间线的预测\"完全疯狂\"，并援引机器人专家罗德尼·布鲁克斯的观点：目前连在活体实验动物上进行手术的实验室演示都远未实现，现有手术机器人全部仍需人类在环操作。马库斯担忧此类预测可能吓退潜在外科医生，并指出马斯克的时间线估计至少偏差十年。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月6日6时19分"
   },
   {
     "id": "cmsgn3qpq0aolro5q10dkpewx",
