@@ -1032,12 +1032,228 @@
     "date": "2026年8月5日1时11分"
   },
   {
+    "id": "cmsfw5x560h02rochvdxt6a17",
+    "title": "特朗普政府不对开放权重模型做安全测试",
+    "url": "https://x.com/kimmonismus/status/2084928879370600594",
+    "summary": "特朗普政府不会对开放权重模型进行安全测试。这只能得出两个结论：\n\n1. 要么这是一种退让，开源或开放权重模型将继续正常使用。\n\n2. 要么他们正在准备更大规模的禁运或禁令，而这在安全测试的语境下甚至没有必要。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月5日17时5分"
+  },
+  {
+    "id": "cmsfx23ld0igkrochvn581nu5",
+    "title": "小红书\"问一问\"多模态推理加速实践：让视觉 Token 更精简、MoE 专家更聚焦",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247495927&idx=1&sn=cfc2a126460fcb1528d21570661db92a",
+    "summary": "小红书针对\"问一问\"多图场景，从 Prefill 与 Decode 两端优化多模态推理：动态 Vision Token 压缩减少冗余视觉输入，SERE 专家重路由配合关键专家保护降低 Decode 阶段专家计算与权重搬运。",
+    "source": "公众号：小红书技术（dots.llm）",
+    "date": "2026年8月5日17时59分"
+  },
+  {
+    "id": "cmsfx930y0inmrochh4fm8fyd",
+    "title": "H3 自制乐高版 8 岁幽默段子",
+    "url": "https://x.com/fofrAI/status/2084940637648941301",
+    "summary": "用 H3 制作我自己的乐高改编版，配上 8 岁级别的幽默。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月5日17时52分"
+  },
+  {
+    "id": "cmsfx3fkp0ihgrochf4pir5a6",
+    "title": "梁文锋的独立坐标系：普通人最该学的反常识特质",
+    "url": "https://x.com/AYi_AInotes/status/2084928355430744308",
+    "summary": "梁文锋最值得普通人学习的不是如何成为他，而是他拥有完全独立的内部坐标系，只问\"这是不是我要走的路、这件事对不对\"，而非外界评分表。他因此在量化最赚钱时转身做大模型，敢不被资本绑架节奏。所谓奇迹不过是20年选对方向、握稳方向盘攒出的复利。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月5日17时3分"
+  },
+  {
+    "id": "cmsfv3ifa0ft8roch65kic0rz",
+    "title": "小米二代AI眼镜开发完成但发布或推迟",
+    "url": "https://x.com/thexpin/status/2084928144675320072",
+    "summary": "小米第二代AI眼镜据报已完成开发，但因高管卢伟冰对设计不满、要求调整，发布可能推迟至2026年Q4甚至2027年。小米否认该报道，称信息不准确，拒绝透露实际开发进展。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月5日17时3分"
+  },
+  {
+    "id": "cmsfx92s00inkrochpzg0z81q",
+    "title": "PixVerse Canvas 用户创作 PPAPANDA 奇幻冒险短片",
+    "url": "https://x.com/PixVerse_/status/2084936549800767505",
+    "summary": "PixVerse 用户 @PpaPpa152417 受官方 Canvas 示例启发，用原创角色 PPAPANDA 创作了一支全新电影感奇幻冒险短片。他设计了圣竹林、暗影獠牙生物和天凤等原创元素，并分享了角色参考与 Canvas 提示词，鼓励他人用原创角色尝试。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月5日17时36分"
+  },
+  {
+    "id": "cmsfx3fkp0ihfrochc98lb2ki",
+    "title": "梁文锋成功密码：知行合一与20年复利",
+    "url": "https://x.com/AYi_AInotes/status/2084933532820889838",
+    "summary": "梁文锋的成功源于知行合一：不追估值、不凑热闹、长期主义、克制，每句话都真做到了。其底层原因是好奇心驱动的内驱力、极强的内部控制点、20年未断的技术能力线，以及量化积累的资金与算力带来的决策自主权。克制不是性格而是战略，只为最大化做成AGI的概率。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月5日17时24分"
+  },
+  {
+    "id": "cmsfxcsgx0ipgroch84sqlopj",
+    "title": "华为全联接大会 2026 官宣 9 月 17 至 19 日举行，主题\"智启新未来\"",
+    "url": "https://www.ithome.com/0/986/118.htm",
+    "summary": "华为全联接大会 2026 将于 9 月 17 日至 19 日在上海举行，主题为\"智启新未来\"。大会将围绕全面智能化战略，阐述构建高效 AI 基础设施、发挥\"华为 + 伙伴\"体系化能力、繁荣开源开放 AI 生态，以实现行业智能化规模落地。华为还将发布创新产品与解决方案、行业智能化应用样板点及开发者工具与平台。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日17时20分"
+  },
+  {
+    "id": "cmsfw62ic0h14rochz3zz8onm",
+    "title": "阿里云新加坡 AI 视频挑战赛落幕",
+    "url": "https://x.com/alibaba_cloud/status/2084930154124439852",
+    "summary": "阿里云新加坡联合 Fizzdragon 举办 SGWANders AI 视频挑战赛，祝贺所有获奖者与参与者。参赛作品基于阿里云通义万相（Wan）与 Happy Horse AI 模型创作。阿里云正开放其 AI 内容创作能力，感兴趣者可注册了解。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月5日17时10分"
+  },
+  {
+    "id": "cmsfuy9190fperoch720ogtyv",
+    "title": "Grok 视频生成打斗不如 Seedance 2.5",
+    "url": "https://x.com/AYi_AInotes/status/2084914024014074075",
+    "summary": "阿易 AI Notes 对比 Grok 与 Seedance 2.5 的视频生成效果，认为 Grok 打斗场面\"软绵绵\"，不如 Seedance 干净利落，或因数据源不足。此前其称 Seedance 2.5 太贵，Grok 可一次生成 15 秒视频且 0 抽卡，是目前唯一能与之较量的视频大模型。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月5日16时6分"
+  },
+  {
+    "id": "cmsfsyb5y0d7mrochvjcn9y98",
+    "title": "阿里云Qwen3.8-Max非高峰时段五折优惠",
+    "url": "https://x.com/alibaba_cloud/status/2084913475713654844",
+    "summary": "使用全球顶尖大语言模型构建--非高峰时段现享五折优惠。🚀\n\n为何选择 Qwen3.8-Max？🏆 LLM Arena 编程能力全球第 3 🏆 LLM Arena 文本能力全球第 2\n\n👉 立即体验或调用 API：• 阿里云百炼：https://click.alibabacloud.com/m/20000001228/ • Qwen Cloud：https://click.qwencloud.com/m/20000001244/\n\n#BuildWithQwen #LLM #AI",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月5日16时4分"
+  },
+  {
+    "id": "cmsfuy9180fpdrochbv9ga746",
+    "title": "梁文锋 20 年：不按别人规则做 AI",
+    "url": "https://x.com/AYi_AInotes/status/2084923894822064287",
+    "summary": "梁文锋的成功并非\"天降猛男\"式赌赢，而是 20 年死磕 AGI 一条主线：从 17 岁填志愿起不追风口、不进大厂，用幻方量化赚的钱自养团队，不融资不看投资人脸色。其 2011 年独闯阿里无人区 400 公里、被困一周后弃车走出的经历，与后来带 DeepSeek 扎进大模型\"技术无人区\"的逻辑一致，最终以 V3、R1 让全球重新评估中国大模型能力。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月5日16时46分"
+  },
+  {
+    "id": "cmsfu0w3u0edtrochruso429g",
+    "title": "阿里云：Qwen3.8-Max 发布首日获主流平台接入",
+    "url": "https://x.com/alibaba_cloud/status/2084920802068091287",
+    "summary": "阿里云宣布 Qwen3.8-Max 发布首日即获 OpenRouter、OpenCode、Vercel、DeepInfra 等主流 AI 开发者平台接入支持。生态快速响应表明开发者正基于 Qwen3.8 展开构建，官方同步开放 Model Studio 与 Qwen Cloud 试用入口。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月5日16时33分"
+  },
+  {
+    "id": "cmsfu19g30eg5rochm0d4q3po",
+    "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+    "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+    "summary": "NVIDIA 发布 Alpamayo 2 Super，一款 34B 参数的视觉-语言-动作（VLA）模型，专为自动驾驶长尾事件设计，权重采用 Linux 基金会 OpenMDW-1.1 许可，代码为 Apache 2.0，发布首日即可商用。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月5日16时25分"
+  },
+  {
+    "id": "cmsfv7jzw0fxarochngl7xl0e",
+    "title": "国际 AI 安全榜单 CyberGym 放榜：中国方案 DoGNAVY 全球第三、开源第一",
+    "url": "https://www.ithome.com/0/986/042.htm",
+    "summary": "国际 AI 安全基准 CyberGym 今日公布最新排名，中国团队达酷诺威（DARKNAVY）联合研发的 DoGNAVY 以 90.8% 的通过率位列全球第三、开源第一。DoGNAVY 仅用一款开源通用模型（智谱 6 月开源的 GLM-5.2），而排名靠前的微软、谷歌依靠多个顶级闭源模型组合\"作战\"。央视新闻称，AI 安全攻防正进入实战化阶段，开源路线正让顶尖安全能力被更多创新者掌握。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日16时19分"
+  },
+  {
+    "id": "cmsfsybux0d7orochut6f8sax",
+    "title": "DeepSeek 二轮融资 70 亿美元估值启动",
+    "url": "https://x.com/thexpin/status/2084912290844082457",
+    "summary": "DeepSeek 已重启第二轮融资，拟以约 700 亿美元投前估值募资 70 亿美元，据市场消息预计 8 月底完成。一个月前其首轮外部融资同样募得 70 亿美元，投后估值超 490 亿美元。若两轮完成，DeepSeek 累计融资将超 140 亿美元，创中国 AI 公司新纪录。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月5日16时0分"
+  },
+  {
+    "id": "cmsfswj380d5hrochis11i0oi",
+    "title": "Show HN：Maple-Preview--在 iPhone 上以 120 tok/s 运行 ternary 20B MoE",
+    "url": "https://deepgrove.ai/maple-preview",
+    "summary": "Maple-Preview 是一款可在 iPhone 上运行的 ternary 20B MoE 模型，推理速度达 120 tok/s。该项目通过深度优化实现在移动端设备上的高效部署，相关代码与细节已在 deepgrove.ai 公开。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月5日15时51分"
+  },
+  {
+    "id": "cmsft2e9y0dbrrochiow6bemd",
+    "title": "阿里云上线 One Key MCP 服务：兼容 Qoder、Codex 等，可一键调用多家 MCP 服务",
+    "url": "https://www.ithome.com/0/986/008.htm",
+    "summary": "阿里云今日上线 One Key MCP 服务，开发者可通过统一的阿里云百炼 API Key 调用所有生态伙伴 MCP 服务，兼容 Qoder、Codex、Claude Code、Cursor 等主流 Coding Agent，简化多 MCP 服务的接入、鉴权与计费管理流程。该服务首批包含 14 家合作伙伴，覆盖电商供应链、时空与环境数据、金融投资、法律合规、产业与企业数据、物流与车辆六大领域。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日15时51分"
+  },
+  {
+    "id": "cmsfsymkc0d94rochbrvhkmek",
+    "title": "文生图提示词越长未必越好，结构化更关键",
+    "url": "https://x.com/rohanpaul_ai/status/2084907993657975187",
+    "summary": "论文《Scaling Properties of Text Conditioning in Visual Generation》发现，文生图模型的效果受提示词对场景的暴露清晰度限制，而非长度；跨开源模型，单纯延长自然语言描述最终会使输出劣于最短描述。作者提出用结构化提示词，将场景、物体、边界框、深度、属性和关系分入命名字段，提示词工程应优化视觉变量的显式表达。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日15时42分"
+  },
+  {
+    "id": "cmsft2e9y0dburoch3nyto3du",
+    "title": "小米具身基座模型 Xiaomi-Robotics-1 正式开源",
+    "url": "https://www.ithome.com/0/985/985.htm",
+    "summary": "小米技术宣布具身基座模型 Xiaomi-Robotics-1 正式开源。该模型基于超过 10 万小时 UMI 数据进行预训练，并使用超过 1 万小时跨本体数据进行后训练。本次开源覆盖从真机后训练到模型部署的完整流程，并提供相关 Benchmark 的评测代码。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日15时40分"
+  },
+  {
+    "id": "cmsfst36i0d46roch1biya6ch",
+    "title": "Qwen 3.8-Max 用 GLSL 实时光追复现《星际穿越》黑洞",
+    "url": "https://x.com/AYi_AInotes/status/2084907027629826230",
+    "summary": "开发者用阿里今日正式发布的 Qwen 3.8-Max 独立写出零依赖 GLSL 实时光追代码，物理正确地渲染出《星际穿越》Gargantua 黑洞，含史瓦西度规、引力透镜、吸积盘多普勒效应及光子环。21 个参数可实时拖动，纯 ES Module 双击 html 即跑。核心物理一次写对，长上下文对话五六轮无失忆，较 Preview 版更稳更快，一周后开源。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月5日15时39分"
+  },
+  {
+    "id": "cmsft2e9y0dbwrochbymxdqso",
+    "title": "世界银行：新兴经济体应尽快拥抱 AI，但没必要与富裕国家比拼数据中心、大模型",
+    "url": "https://www.ithome.com/0/985/972.htm",
+    "summary": "世界银行最新报告敦促发展中经济体尽快将 AI 用于政府治理和企业经营，并强调无需与富裕国家比拼大型数据中心和大语言模型，推广本地化调整的小型低成本 AI 工具更可能改善医疗和教育。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日15时33分"
+  },
+  {
+    "id": "cmsfrw1le0br9rochwumntg9w",
+    "title": "Grok新增27种语音，立即更新体验",
+    "url": "https://x.com/cb_doge/status/2084903727975031267",
+    "summary": "SpaceXAI 新增了一组语音，Grok 现在共有 27 种语音！\n\n• Ara • Eve • Leo • Rex • Sal • Gork • Carina • Zagan • Helix • Orion • Luna • Iris • Altair • Zenith • Perseus • Helios • Lux • Kepler • Rigel • Cosmo • Celeste • Ursa • Sirius • Lumen • Castor • Naksh • Atlas\n\n立即更新你的 Grok 应用，试试全部语音吧！",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月5日15时25分"
+  },
+  {
+    "id": "cmsft2e9z0dc1rochecy2nrxu",
+    "title": "报告称 2026 普利策奖 5 个获奖和 3 个入围项目披露使用 AI 创新高",
+    "url": "https://www.ithome.com/0/985/953.htm",
+    "summary": "尼曼新闻实验室报告称，2026 年普利策奖共有 5 个获奖项目和 3 个入围项目披露使用 AI，数量创纪录。普利策奖管理人表示，新闻业正减少对 AI 工具的顾虑，但参评作品不应依赖 AI 写作或编辑。获奖案例中，《华尔街日报》用内部工具 WSJPT 结合大语言模型筛选洪灾记录，《明尼苏达星论坛报》用 ChatGPT 翻译日记，《纽约时报》用 GPT-5 复查超 10，000 份文件。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日15时22分"
+  },
+  {
+    "id": "cmsfrvkon0bnfrochszqi5ig6",
+    "title": "用户吐槽 Opus 5 表现差，Anthropic 恐成 AI 时代雅虎",
+    "url": "https://x.com/kimmonismus/status/2084902612168577476",
+    "summary": "Kim 发推称将取消 Claude 订阅，吐槽 Opus 5 在邮件处理任务中未读完整线程、忽略最新邮件，承认错误后仅回\"Valid point. I didn't read it.\"。主推文称该帖 11 小时获 1200 条评论，95-99% 认同 Opus 表现糟糕，并指 Anthropic 正走向成为 AI 时代的雅虎。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月5日15时21分"
+  },
+  {
+    "id": "cmsft2e9z0dc2rochemzpv0i7",
+    "title": "消息称月之暗面 Kimi 启动 Pre-IPO 融资，估值达 500 亿美元",
+    "url": "https://www.ithome.com/0/985/952.htm",
+    "summary": "月之暗面 Kimi G 轮（Pre-IPO）融资已启动，本轮估值达 500 亿美元（约合 3，381.47 亿元人民币）。K3 模型发布后投资额度\"骤然紧俏\"，不少机构已完成投资意向登记。本轮要求参与方在 8 月 15 日前打款，直接进入股东名册需管理规模 5 亿美元以上的机构。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日15时20分"
+  },
+  {
     "id": "cmsfr2pmj0atgrochg15fazsv",
     "title": "Grok iOS 应用新增多款语音与全新界面",
     "url": "https://x.com/testingcatalog/status/2084900237798207833",
     "summary": "SpaceXAI 正在为 iOS 版 Grok 应用推出大量新语音，同时更新了界面。\n\n太空球体 👀",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月5日15时12分"
+  },
+  {
+    "id": "cmsfx3ska0ihjrochi0a0tv71",
+    "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+    "summary": "作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。",
+    "source": "公众号：卡尔的AI沃茨",
+    "date": "2026年8月5日14时46分"
   },
   {
     "id": "cmsfqnwbs0aibrochgzxdp7bm",
