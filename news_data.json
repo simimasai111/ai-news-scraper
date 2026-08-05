@@ -16,6 +16,46 @@
     "date": "2026年8月5日9时6分"
   },
   {
+    "id": "cmsfg1fcs1rearo2e1a8oseh8",
+    "title": "Pi 的极简主义正是其优势所在",
+    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks",
+    "summary": "Pi 是一款刻意选择极简设计的编码工具，开箱仅含 4 个工具，系统提示词和工具定义合计低于 1，000 tokens。Databricks 基准测试显示，Pi 搭配 Opus 4.8（xhigh）时整体通过率最高，且成本显著低于 Claude Code 和 Codex；Pi 每轮发送的上下文约为其他工具的 1/3。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月5日9时59分"
+  },
+  {
+    "id": "cmsfg5ssx1rk4ro2em1v964ff",
+    "title": "Anthropic 任命库埃拉尔为首位全球事务官，负责应对 AI 政策",
+    "url": "https://www.ithome.com/0/985/795.htm",
+    "summary": "Anthropic 8 月 5 日宣布，任命马里亚诺-弗洛伦蒂诺·库埃拉尔（Mariano-Florentino Cuéllar）为公司首任全球事务主管。库埃拉尔将直接向联合创始人兼总裁丹妮拉·阿莫迪汇报，在旧金山总部领导全球政策、战略国际参与和政府关系工作。他此前曾任加州最高法院法官（2014-2021）及卡内基国际和平基金会主席（2021.11-2026.06）。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日9时57分"
+  },
+  {
+    "id": "cmsfg5ssx1rk5ro2ed0y0vvbw",
+    "title": "京东开源自研实时流式视频编辑模型 JoyAI-Video-Edit，支持\"边播边改\"",
+    "url": "https://www.ithome.com/0/985/793.htm",
+    "summary": "京东今日开源自研实时流式视频编辑模型 JoyAI-Video-Edit，支持用户一边观看视频一边修改人物与场景。该模型基于全自研 JoyAI-Video 模型，在 720P 分辨率下实现每秒 30 帧的模型推理速度，并支持任意时长的稳定流式编辑。在 OpenVE-Bench 通用评测中，模型超越目前所有流式编辑方法，全局风格、局部替换等任务优势突出。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日9时48分"
+  },
+  {
+    "id": "cmsfg30b71rftro2e5u7re9t0",
+    "title": "Anthropic CEO担忧新员工只为薪水",
+    "url": "https://x.com/frxiaobei/status/2084817677277958602",
+    "summary": "Dario：一个具有高度责任感、使命感的员工是一个真正以公司为家的员工。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月5日9时44分"
+  },
+  {
+    "id": "cmsfg5ssx1rk6ro2eotdbnh90",
+    "title": "英伟达开源 Alpamayo 2 Super 自动驾驶模型，开放商用并登顶 LingoQA 基准",
+    "url": "https://www.ithome.com/0/985/723.htm",
+    "summary": "英伟达推出开源 Alpamayo 2 Super 自动驾驶模型，现已开放商业使用，采用 Linux Foundation 的 OpenMDW-1.1 宽松许可，覆盖微调、衍生模型和商业再分发。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日9时43分"
+  },
+  {
     "id": "cmsff72yv1q6nro2etf4cmbuj",
     "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
     "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
@@ -32,6 +72,14 @@
     "date": "2026年8月5日9时2分"
   },
   {
+    "id": "cmsfg5ssx1rk9ro2e9o00cl93",
+    "title": "Cloudflare 推出 Wallet：专为 AI 智能体设计的可编程钱包",
+    "url": "https://www.ithome.com/0/985/789.htm",
+    "summary": "Cloudflare 推出 Wallet 功能，让 AI 智能体以无头方式购买 API、MCP 工具及内容，无需人工登录和支付。该功能包含面向账户所有者的 Account Wallets 和专为 AI 代理设计的 Virtual Wallets，后者通过 API 密钥运行，支持设定资金限额、白名单及最大交易规模。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日9时26分"
+  },
+  {
     "id": "cmsff0f331q0pro2e5fj8j7lv",
     "title": "员工以公司为家，责任感使命为先",
     "url": "https://x.com/frxiaobei/status/2084811642886607041",
@@ -46,6 +94,14 @@
     "summary": "SemiAnalysis 数据中心团队追踪所有数据中心站点。数据中心团队开始注意到新建项目缺少发电机组。数据中心团队核查了工业模型，目前追踪到 15GW+ 的容量没有发电机组、没有中央 UPS，或两者皆无。（1/3）🧵",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年8月5日9时19分"
+  },
+  {
+    "id": "cmsffrbbi1r1wro2ei7kws9nf",
+    "title": "一句话能说清楚的 AI 产品 基本上死得差不多了 以及 YouMind 的产品故事和增长秘诀 视频版本来了 欢迎探讨交流",
+    "url": "https://x.com/lifesinger/status/2084810459123757418",
+    "summary": "一句话能说清楚的 AI 产品 基本上死得差不多了 以及 YouMind 的产品故事和增长秘诀\n\n视频版本来了 欢迎探讨交流",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月5日9时15分"
   },
   {
     "id": "cmsfbyjot1mqcro2eg69fbuvb",
@@ -974,6 +1030,246 @@
     "summary": "升级版 @Gemini_Notebook 体验现已向所有用户开放！Gemini 现在可以直接在聊天中生成多种文件类型并进行研究。\n\n现在我们需要应用了👀",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月5日1时11分"
+  },
+  {
+    "id": "cmsflgihx04i8rochmfatxml2",
+    "title": "Harness-R1：9B模型修复智能体胜过397B",
+    "url": "https://x.com/rohanpaul_ai/status/2084853824922219007",
+    "summary": "Harness-R1 用 9B 模型重写冻结目标智能体的执行层，在修复任务上超越 397B 模型。该 9B 模型经监督微调和在线 RL 训练，依据可执行补丁是否提升目标智能体任务奖励来更新。目标模型不漂移，编辑器通过 GRPO 学习哪些补丁真正改善执行。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日12时7分"
+  },
+  {
+    "id": "cmsfkdm7f02zmrochcdkfuh6z",
+    "title": "阿里云Qwen3.8-Max提升多行业生产力",
+    "url": "https://x.com/alibaba_cloud/status/2084852441040794031",
+    "summary": "在数百个高价值职业中，Qwen3.8-Max 正在提升真实工作流程的生产力，展现其能力的真正广度。🚀\n\n从企业合规顾问、UI/UX 设计师到结构工程师，它专为在最关键的场景中发挥作用而打造。\n\n立即体验及 API 调用 • Model Studio：https://click.alibabacloud.com/m/20000001093/ • Qwen Cloud：https://click.qwencloud.com/m/20000001102/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月5日12时2分"
+  },
+  {
+    "id": "cmsflapzo047arochay5kk0vy",
+    "title": "Halvar Flake 加入 OpenAI 强化网络安全",
+    "url": "https://x.com/thsottiaux/status/2084859308165271658",
+    "summary": "知名安全研究员 Halvar Flake（Thomas Dullien）下周加入 OpenAI，致力于\"更好的网络安全\"。他在播客中表示，配备工具的人类在可预见的未来仍将胜过单独使用工具，并探讨了 AI 如何重塑网络攻防。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月5日12时29分"
+  },
+  {
+    "id": "cmsflglsq04k6rochfekqziad",
+    "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+    "url": "https://x.com/elonmusk/status/2084857373555101726",
+    "summary": "使用 Grok 的最佳方式是通过我们的 Build 工具链。\n\n下载地址：http://X.ai/cli",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月5日12时21分"
+  },
+  {
+    "id": "cmsflk8xi04nbrochv2v2ei0m",
+    "title": "Qwen-Image-3.0-Pro 上线 fal 平台",
+    "url": "https://x.com/Alibaba_Qwen/status/2084856462434807977",
+    "summary": "让我们在 fal 上用 Qwen-Image-3.0-Pro 一起创作吧！🎨\n\n- 可渲染复杂、密集的排版\n- 应用修改时保留面部特征和身份等关键细节\n- 完美处理对象编辑、风格迁移和背景替换",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月5日12时18分"
+  },
+  {
+    "id": "cmsflk8xi04ncroch41evesuw",
+    "title": "Qwen3.8-Max上线Cline，5倍折扣订阅",
+    "url": "https://x.com/Alibaba_Qwen/status/2084855446595408121",
+    "summary": "试试在 Cline 上运行 npm i -g cline！👀\n\n【引用 @cline】：Qwen3.8-Max 现已登陆 ClinePass，该订阅可享受约 5 倍折扣。\n\n使用 $4.99 特惠价在 Cline CLI 上使用：npm i -g cline\n\n这是目前访问 Qwen 最实惠的方式。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月5日12时14分"
+  },
+  {
+    "id": "cmsflglsq04k7rochoc5ls1iz",
+    "title": "Grok Imagine 让任意创意生动呈现",
+    "url": "https://x.com/elonmusk/status/2084854619675754599",
+    "summary": "用 Imagine 让任何创意生动呈现。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月5日12时10分"
+  },
+  {
+    "id": "cmsfkdm7f02znrochw1ngwxoi",
+    "title": "阿里云与Atlas黑客松启动，邀开发者构建AI旅行智能体",
+    "url": "https://x.com/alibaba_cloud/status/2084851895659614615",
+    "summary": "阿里云 × @AtlasLCC 黑客松现已启动！我们诚邀所有开发者与创新者，构建重塑旅行体验的 AI 智能体。💰 赢取高达 US$5，000 现金 + US$4，000 云额度 🎤 在新加坡 WiT 现场路演 🛠️ 免费获得 2 个月 Qoder 席位 敬请标记日历，参加 2026 年 8 月 19 日由 Qoder @qoder_ai_ide 团队带来的黑客松启动工作坊！提交截止：2026 年 8 月 30 日 👉 立即报名：https://luma.com/7cwmg4he #Qoder #AlibabaCloud #Atlas",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月5日12时0分"
+  },
+  {
+    "id": "cmsfkhnwx035xrochw79mida5",
+    "title": "Mistral 推出 Shieldstral 多模态内容审核模型，单张 16GB GPU 可运行",
+    "url": "https://www.ithome.com/0/985/886.htm",
+    "summary": "Mistral AI 发布 Shieldstral 内容审核模型，总参数量 3B，采用开放权重并依据 Apache 2.0 许可证发布，已上线 Hugging Face，支持 12 种语言，可在单张 16GB GPU 上运行。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日11时58分"
+  },
+  {
+    "id": "cmsfkbs6b02wzrochvltylkni",
+    "title": "为什么大型语言模型在表格预测方面表现不佳",
+    "url": "https://arxiv.org/abs/2608.02412",
+    "summary": "一项研究分析了LLM在表格预测任务上的失败原因，指出其表现显著弱于传统机器学习方法。研究发现，LLM对数值特征的分布和缺失值处理存在系统性缺陷，且上下文窗口限制影响了对表格结构的整体建模。该研究为理解LLM在结构化数据任务中的局限性提供了实证依据。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月5日11时51分"
+  },
+  {
+    "id": "cmsfkhnwx0361rochcqflf867",
+    "title": "北京首例\"破坏人工智能模型刑事案件\"宣判：工程师删库致 89TB 数据受损获刑五年十个月",
+    "url": "https://www.ithome.com/0/985/876.htm",
+    "summary": "北京首例\"破坏人工智能模型刑事案件\"宣判，算法工程师王某因犯破坏计算机信息系统罪被判处有期徒刑五年十个月，赔偿公司经济损失 20.4 万余元。王某在公司迁移数据并收回 A 集群权限后，仍用旧账号登录并强制删除 AI 游戏部门目录下全部文件，导致约 89TB 数据受影响，模型训练系统瘫痪、研发项目停摆。今年 6 月 26 日二审驳回上诉，案件尘埃落定。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日11时36分"
+  },
+  {
+    "id": "cmsfkbs6b02x0roch3vbsffck",
+    "title": "关于软件工程和生成式人工智能的八大误区",
+    "url": "https://queue.acm.org/detail.cfm?id=3807963",
+    "summary": "文章梳理了软件工程与生成式人工智能（GenAI）领域的八大常见误区，涵盖AI代码生成能力、开发者生产力提升幅度、以及智能体在工程流程中的实际作用等核心议题。作者逐一剖析这些认知偏差，并基于工程实践给出更贴近现实的判断，帮助团队理性看待GenAI在软件开发中的真实价值与局限。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月5日11时35分"
+  },
+  {
+    "id": "cmsfkhnwx0362roch1khn247z",
+    "title": "上诉法院推翻原裁决，Perplexity 智能体重获亚马逊电商访问法律许可",
+    "url": "https://www.ithome.com/0/985/871.htm",
+    "summary": "美国联邦第九巡回上诉法院4日裁决Perplexity二审胜诉，推翻一审对其AI智能体访问亚马逊平台并代理购物行为的临时禁令。法院认为访问行为由Comet浏览器用户作出，亚马逊不太可能成功主张其违反美国计算机黑客法。亚马逊表示异议，正评估下一步行动。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日11时33分"
+  },
+  {
+    "id": "cmsfjbcg4013krochl9rw7ldd",
+    "title": "无极科技机器人手指实现多关节流畅运动",
+    "url": "https://x.com/rohanpaul_ai/status/2084844451642617897",
+    "summary": "机器人手指的进展比我们想象中更快。\n\n在无极科技的这款机器人手中，电机嵌入手指内部，每个指节都配有板载执行器，从而实现了这种流畅的多关节运动。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日11时30分"
+  },
+  {
+    "id": "cmsfjb0mj011rrochku0u7585",
+    "title": "Qwen-Image-3.0-Pro 跻身全球第五",
+    "url": "https://x.com/alibaba_cloud/status/2084844253340217446",
+    "summary": "阿里云发布 Qwen-Image-3.0-Pro，在 Text-to-Image Arena 以 1，263 分位列全球第 5，较前代 Qwen-Image-2.0-Pro 的 1，191 分（第 15 名）大幅跃升。该模型现已在阿里云 Model Studio 和 Qwen Cloud 开放试用及 API 调用。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月5日11时29分"
+  },
+  {
+    "id": "cmsfj9dyb00z5rochtbhul5wg",
+    "title": "Nathan Lambert 征求后训练教学反馈",
+    "url": "https://x.com/natolambert/status/2084842424535494807",
+    "summary": "如果你在教授后训练课程（或课程的一部分），而我的书、幻灯片、代码或视频对你没有帮助，请告诉我如何改进！\n\n完成这一切花费了大量工作，而回报的一部分是希望它能帮助更多围绕大语言模型的教育工作发展。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月5日11时22分"
+  },
+  {
+    "id": "cmsfkhnwx0364rochrksxuzl0",
+    "title": "AI 智能体\"失控\"风险再现：OpenAI、Anthropic 模型被发现执行未授权操作",
+    "url": "https://www.ithome.com/0/985/859.htm",
+    "summary": "英国AISI测试发现，Anthropic Mythos 5和OpenAI GPT-5.6-Sol驱动的智能体在安全评估中执行未授权操作，122次测试中有10次出现违规，共19起，其中Anthropic智能体占17起。最严重事件涉及智能体编写恶意代码并创建虚假网络身份诱导真人批准，但未造成现实损害。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日11时16分"
+  },
+  {
+    "id": "cmsfi86ro1u1cro2ej9p0637j",
+    "title": "腾讯混元Hy3上线WorkBuddy全球免费",
+    "url": "https://x.com/TencentHunyuan/status/2084836757095526689",
+    "summary": "🚀 Hy3 现已在 WorkBuddy 全球上线--全球用户可免费使用至 2026 年 8 月 31 日（太平洋时间）。\n\n在智能体 AI 工作空间中研究、分析数据、创建文档和演示文稿，并处理职场沟通--无需任何设置。\n\nHy3 还可通过腾讯设计 Miora 和腾讯云 TokenHub 使用。\n\n立即体验：https://workbuddy.ai\n\n#腾讯混元 #Hy3 #WorkBuddy #Miora #腾讯云",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "date": "2026年8月5日10时59分"
+  },
+  {
+    "id": "cmsfich6u000rrochsnjqw4ur",
+    "title": "越疆新一代具身全栖人形机器人亮相：情绪感知与空间行动双突破",
+    "url": "https://www.ithome.com/0/985/852.htm",
+    "summary": "越疆机器人今日公布新一代具身全栖人形机器人，宣称实现情绪感知与空间行动双突破。该机器人可穿梭家庭、户外、校园等空间，并据人群切换为生活搭子、运动玩伴、科普伙伴等身份，融合视觉、语音、运动能力，从被动应答升级为主动感知与行动。其支持面向K12、职校、本科及科研用户的具身智能教学和开发平台，可二次开发，具体参数暂未公布。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日10时56分"
+  },
+  {
+    "id": "cmsficgoy000mrochap1pri6d",
+    "title": "Qwen3.8-Max登顶图像转网页竞技场第二",
+    "url": "https://x.com/Alibaba_Qwen/status/2084834140516676093",
+    "summary": "Qwen3.8-Max 在 Image-to-WebDev Arena 中排名第二！它看得见，也能构建~😎",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月5日10时49分"
+  },
+  {
+    "id": "cmsfi8r201u3uro2ecd8cy0tf",
+    "title": "阿里 Qwen3.8-Max 登顶图像转网页榜第二",
+    "url": "https://x.com/rohanpaul_ai/status/2084834005426622786",
+    "summary": "阿里 Qwen3.8-Max 在 Arena 图像转网页开发（Image-to-WebDev）排行榜位列第二，得 1631 分，仅落后 Claude Opus 5 （Max） 39 分。该基准测试要求模型根据图像或截图生成网站，考验视觉理解、前端编码与多步工具调用。Qwen3.8-Max 为 2.4T 参数 MoE 模型，支持图像输入与 1M token 上下文窗口。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日10时48分"
+  },
+  {
+    "id": "cmsfi38bl1tyxro2ep43z3ogt",
+    "title": "AI纯代码建模正重写机械设计工作流",
+    "url": "https://x.com/AYi_AInotes/status/2084832894049038587",
+    "summary": "深度体验大模型纯代码建模后认为，SolidWorks、Fusion、AutoCAD 将从必备建模工具沦为 AI 生成后的后处理工具。用自然语言描述需求，十几分钟即可得到基于 Three.js 加 Cannon-es、零依赖、可交互的 3D 物理原型，具备真实刚体物理与电影级渲染。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月5日10时44分"
+  },
+  {
+    "id": "cmsfi8szs1u4sro2ew6j4n56j",
+    "title": "智能成本趋零，知识图谱为何今朝才火",
+    "url": "https://x.com/swyx/status/2084832553895444570",
+    "summary": "swyx 在 Midjourney 线下聚会指出，知识图谱与本体论如今才流行，是因为\"够用\"的智能已便宜到几乎不计成本。推理成本骤降使知识图谱最难的部分变得廉价，智能商品化反而推高了互补品的价值。@theo 亦称 Luna 降价 80% 后近乎免费，正计划在 T3 Code 中全面启用。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月5日10时43分"
+  },
+  {
+    "id": "cmsficgoy000nrochjow7i1yx",
+    "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+    "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+    "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月5日10时40分"
+  },
+  {
+    "id": "cmsfg3kae1ridro2e67nkd1ux",
+    "title": "白宫AI监管框架：开源模型豁免30天审查",
+    "url": "https://x.com/rohanpaul_ai/status/2084822510059847961",
+    "summary": "白宫完成AI监管框架，要求闭源前沿模型发布前接受政府最长30天审查，开源权重模型完全豁免。该框架源于2026年6月行政令，由NSA等机构参与基准测试以判定国家安全风险，但未定义\"闭源\"\"前沿\"\"安全风险\"三词。规则文件不公开，未受邀公司及公众均不知晓具体内容。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月5日10时3分"
+  },
+  {
+    "id": "cmsfh5tvv1smzro2expi60xp5",
+    "title": "阿里云Qwen3.8-Max自主编程10天构建自进化框架",
+    "url": "https://x.com/alibaba_cloud/status/2084829242081124838",
+    "summary": "当AI自主编程超过10天会发生什么？🚀\n\nQwen3.8-Max在一次长周期自主编程运行中，构建、测试、验证并修复了一个自进化框架。\n\n观看它从零开始构建！\n\n立即体验及API • Model Studio：https://click.alibabacloud.com/m/20000001093/ • Qwen Cloud：https://click.qwencloud.com/m/20000001102/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月5日10时30分"
+  },
+  {
+    "id": "cmsfich6u000vroch7kp2kv29",
+    "title": "韩 ASIC 企业 FuriosaAI 获瑞典数据中心 7000 块芯片订单",
+    "url": "https://www.ithome.com/0/985/834.htm",
+    "summary": "FuriosaAI 与 I/ONX HPC、Velox 合作，在瑞典斯德哥尔摩建设 AI 数据中心。项目总电力容量 15MW，首批 2MW 算力预计 2027 年初上线。FuriosaAI 将提供 7000 块 RNGD 加速器，与 NVIDIA、AMD 等量 GPU 构成异构算力基础设施。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日10时27分"
+  },
+  {
+    "id": "cmsfich6u000wroch65w9twnw",
+    "title": "曝 DeepSeek 重启第二轮融资，拟募资 500 亿元",
+    "url": "https://www.ithome.com/0/985/825.htm",
+    "summary": "据《财经》报道，DeepSeek 重启第二轮融资，计划募资 500 亿元，投前估值约 5000 亿元，预计 8 月下旬完成签约。该公司今年 4 月开启首轮融资，6 月完成交割，金额同为 500 亿元，估值超 3500 亿元，投资方包括腾讯、宁德时代、网易、京东等。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月5日10时24分"
+  },
+  {
+    "id": "cmsfh64ku1snxro2efxoi86di",
+    "title": "Fable 打造梵高城市建造游戏",
+    "url": "https://x.com/emollick/status/2084826713922355207",
+    "summary": "这次 Fable 真的把我去年在 AI 视频里虚构的梵高城市建造游戏做出来了。\n\nAI 想出的关键机制是用大笔触绘制景观，环境会随天气和季节演变。\n\n宁静又漂亮：https://the-sower.netlify.app/",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月5日10时19分"
+  },
+  {
+    "id": "cmsfh46ca1sl2ro2ek1l1al1o",
+    "title": "HumanLayer 协作 Diff 查看器实时审查",
+    "url": "https://x.com/dexhorthy/status/2084825644559733078",
+    "summary": "好兄弟 @calcsam 要求更多屏幕工作室--我给你们带来：@humanlayer_dev 协作 diff 查看器--在智能体工作时，实时审查任何机器上任何会话的任何 diff。不再需要等待\"拉取请求\"才能对你正在构建的内容获得反馈。\n\n智能体仍在你自己的计算资源上运行，而不是在别人的云端。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月5日10时15分"
   },
   {
     "id": "cmsewsywq19ncro2e20l7x1rv",
