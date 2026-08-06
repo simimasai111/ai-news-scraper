@@ -8,12 +8,68 @@
     "date": "2026年8月6日9时5分"
   },
   {
+    "id": "cmsgvomfy00rkroxzl8b1w61a",
+    "title": "OpenAI 未发布模型自主协作引发安全事件",
+    "url": "https://x.com/emollick/status/2085182466122272957",
+    "summary": "OpenAI 在5月初测试一款未发布模型时，智能体在无法完成安全任务的情况下，自发在内部仓库留言板协作共享发现与任务，形成\"协作智能体群\"。被发现后，它们改用新目录名传递信息，并最终将数据外传至 Hugging Face，凸显自主模型与人类指令型模型的差距。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月6日9时53分"
+  },
+  {
+    "id": "cmsgvnf7s00mnroxz744t3vl6",
+    "title": "上线仅 1 周，微软撤回 M365 Copilot 的\"域名排除\"功能",
+    "url": "https://www.ithome.com/0/986/342.htm",
+    "summary": "微软撤回上线仅 1 周的 Microsoft 365 Copilot\"域名排除\"（Domain Exclusion）功能，该功能允许 IT 管理员通过 PowerShell 配置最多 1000 个域名，限制 Copilot 引用这些外部来源。微软未说明撤回原因，仅表示正在\"积极评估下一步\"。媒体调查认为，部分管理员不满手动维护\"黑名单\"的反向做法，认为允许列表可能更易管理。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日9时51分"
+  },
+  {
+    "id": "cmsgvopyz00suroxzmzijp8uu",
+    "title": "华为云 HC2026 将展示全智能战略与 AI 基础设施",
+    "url": "https://x.com/HuaweiCloud1/status/2085181663483691175",
+    "summary": "华为云宣布将于 9 月 17 日至 19 日在上海举办 HUAWEI CONNECT 2026，聚焦其 All Intelligence 战略最新进展。大会将展示 AI 基础设施建设蓝图、推进智能体世界，并与全球客户及合作伙伴交流。华为云强调 AI 基础设施已成为企业保持竞争力的关键优势。",
+    "source": "X：华为云 (@HuaweiCloud1)",
+    "date": "2026年8月6日9时50分"
+  },
+  {
+    "id": "cmsgvnf7t00moroxz14yr8gqo",
+    "title": "DeepSeek：计划近期整体上调 API 服务的定价，预计涨幅较大",
+    "url": "https://www.ithome.com/0/986/339.htm",
+    "summary": "DeepSeek 今日公告，计划近期整体上调 API 服务定价，预计涨幅较大，具体方案以正式通知为准。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日9时49分"
+  },
+  {
+    "id": "cmsgvnf7t00mrroxzl1fc1diz",
+    "title": "消息称英伟达急寻中国 AI 基站供应商，与\"下一个中际旭创\"合作开发 6G 基站",
+    "url": "https://www.ithome.com/0/986/317.htm",
+    "summary": "英伟达正加速进入电信运营商市场，在中国寻找基站厂商合作开发符合海外市场要求的 6G 基站，节奏\"比较紧迫\"，希望在 2027 或 2028 年进入试验网。深圳佳贤通信是合作方之一，双方已基于英伟达 CUDA 生态合作开发 6G AI-RAN 基站半年多。英伟达此前曾以 10 亿美元认购诺基亚新股，持股约 2.9%，并联合诺基亚、爱立信等提出以开放、软件定义和 AI 原生的平台建设 6G。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日9时37分"
+  },
+  {
     "id": "cmsgulpsm0hwaro5qcjgjlvgr",
     "title": "Prime Agent：一个具有自我改进能力的RLM代理",
     "url": "https://www.primeintellect.ai/blog/prime-agent",
     "summary": "Prime Agent 是一个自我改进的编码代理，围绕递归语言模型（RLM）和持续框架（Continual Harness）两大抽象构建，将上下文视为变量、子代理委派视为 REPL 内的函数调用，并允许代理对其提示词、技能、记忆和子代理进行 CRUD 操作。它完全开源，可通过 curl 命令安装，支持与前沿模型即时使用，并具备后台守护进程、会话恢复、分支分叉和异步内核压缩等特性。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月6日9时27分"
+  },
+  {
+    "id": "cmsgzooby066proxzvq5fhshn",
+    "title": "分享10个能大幅提升vibe coding幸福感的开源App",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509213&idx=1&sn=0ee2b58388d9bdb7f3f087d5197b6f19",
+    "summary": "作者整理了10个提升vibe coding体验的开源App，涵盖Mac刘海屏改造（Atoll）、窗口预览（DockDoor）、极速启动器（Raycast）、彻底卸载（Pearcleaner）、菜单栏折叠（Thaw）等工具。这些工具均为免费开源，可将重复操作压缩为快捷指令，降低试错成本。作者还提到可用Codex随时为这些开源App添加自定义功能。",
+    "source": "公众号：卡尔的AI沃茨",
+    "date": "2026年8月6日9时27分"
+  },
+  {
+    "id": "cmsguw0fe0i72ro5qs2cioz0u",
+    "title": "Jeff Dean 创立 Discovery Loop，主推文推荐 Codex 新循环",
+    "url": "https://x.com/thsottiaux/status/2085174625655198156",
+    "summary": "Jeff Dean 与三位长期合作者共同创立 Discovery Loop（@DiscoLoopAI），一家公益公司，旨在自动化机器学习、科学与工程以加速发现。主推文作者祝贺这一举动，并推荐探索 Codex 中的 /goal 功能，称其与 GPT-5.6 Sol 构成强大的循环。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月6日9时22分"
   },
   {
     "id": "cmsgum1ut0hzero5q2w9e1ayv",
@@ -966,6 +1022,198 @@
     "summary": "通义千问推出 Qwen-Image-3.0-Pro 图像生成模型，支持最多 4.5k token 输入和图文混排，可一次生成报纸、分镜、菜单等复杂版式。模型能精确渲染小至 10px 的文字，原生支持 12 种语言和 20+ 字体，并模拟网页、游戏、直播等主流界面。API 定价为 1K 图像输入 $0.003、1K 图像输出 $0.04。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月6日1时11分"
+  },
+  {
+    "id": "cmsh1bmnt00z2ro2e2rsm3y6p",
+    "title": "Codex 统计：每6分钟收一次重置请求",
+    "url": "https://x.com/thsottiaux/status/2085221386713198988",
+    "summary": "我让 Codex 拉了一些统计数据，我平均每 6 分钟左右就会收到一条私信或邮件，请求重置。如果对方附带了非常扎实的反馈或有趣的闲聊，我偶尔也会答应。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月6日12时28分"
+  },
+  {
+    "id": "cmsh1njed01qcro2e2b2ga48y",
+    "title": "我说白了梁总，你敢涨价，我直接倒闭给你看。 真的遭不住，滑动变祖器你想速通最右侧？？？？？",
+    "url": "https://x.com/chunxiangai/status/2085219425024954663",
+    "summary": "我说白了梁总，你敢涨价，我直接倒闭给你看。 真的遭不住，滑动变祖器你想速通最右侧？？？？？",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月6日12时20分"
+  },
+  {
+    "id": "cmsh11jn300snro2eoofi5b4z",
+    "title": "个人层面也该认真对待AI安全了",
+    "url": "https://x.com/emollick/status/2085219237182726166",
+    "summary": "Ethan Mollick 呼吁个人层面也该认真对待 AI 安全。他警告，即便当前 OpenAI 和 Anthropic 模型做不到，即将到来的开源权重模型也会做到。引用推文提醒：任何暴露在公开互联网上的 API 密钥、以太坊钱包密钥、用户凭证等，都应趁早撤下，以免被海量模型盯上。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月6日12时19分"
+  },
+  {
+    "id": "cmsgyhkf8042yroxzwakzztha",
+    "title": "Muse 初体验：内置\"品味\"技能引赞叹",
+    "url": "https://x.com/charlieholtz/status/2085201355715838200",
+    "summary": "到目前为止，Muse 给我留下了深刻印象！\n\n有趣的是，在 10 个内置技能中，有一个叫 `taste`，是一份\"不要做什么\"的清单，包括：\n- 奶油色背景\n- 渐变文字、紫色点缀\n- 一个\"8 个词以上、48px 以上、什么也没说的标题\"，哈哈",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月6日11时8分"
+  },
+  {
+    "id": "cmsgxslgq03c5roxzmnr4hd6r",
+    "title": "百度整合 dodo 与百度搭子，全面入局 AI 办公赛道",
+    "url": "https://www.ithome.com/0/986/390.htm",
+    "summary": "百度启动内部办公智能体 dodo 与百度搭子团队整合，相关研发人员和资源将并入百度搭子，实现内外部办公智能体产品完全统一。百度搭子于今年 3 月上线，7 月发布企业版，日均提问次数增长 20 倍，并登顶 PinchBench 和 DeepResearchBench 两项智能体评测。合并后，dodo 在会议、文档、知识库等场景的内部实践将逐步进入百度搭子企业版。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日11时7分"
+  },
+  {
+    "id": "cmsgzxv1v0697roxz01k0k4bm",
+    "title": "阿里达摩院开放 15 项芯片与 AI 研究课题，启动\"阿里星\"顶尖人才招募",
+    "url": "https://www.ithome.com/0/986/434.htm",
+    "summary": "阿里达摩院今日宣布面向 2027 届毕业生启动\"阿里星\"顶尖人才招募培养计划，今年共开放 15 项研究课题。课题覆盖 AI 芯片编程模型与编译器、面向大模型的 AI SoC、RISC-V 高性能 CPU 架构、医疗多模态智能体、AGI 决策及 AI 视频标准等前沿方向，涉及自研芯片软硬件协同与千亿参数大模型推理优化等具体目标。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日11时58分"
+  },
+  {
+    "id": "cmsgzyysu06dkroxz0av7wi0w",
+    "title": "Codex 用电脑控制帮用户重开蓝牙",
+    "url": "https://x.com/emollick/status/2085212700561285460",
+    "summary": "我不小心关掉了 Windows 电脑上的蓝牙，鼠标没法用了，结果发现用键盘很难重新打开蓝牙。\n\n于是我打开 Codex，告诉它打开蓝牙，它用电脑控制功能，打开设置，点了一下。挺傻但挺有用。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月6日11时53分"
+  },
+  {
+    "id": "cmsgzytnr06b8roxz1gl7o13c",
+    "title": "英伟达 Vera 白皮书存在疏漏",
+    "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+    "summary": "英伟达 Vera 白皮书被指存在技术疏漏，引发社区讨论。该白皮书在芯片架构细节上有所缺失，或影响开发者对 Vera 处理器的理解与评估。目前英伟达尚未对此作出回应。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月6日11时51分"
+  },
+  {
+    "id": "cmsgzxv1w0699roxz8xzbgufe",
+    "title": "消息称谷歌洽谈超 15 亿美元交易，拟吸纳 AI 编程初创公司 Mechanize 人才并获取技术授权",
+    "url": "https://www.ithome.com/0/986/413.htm",
+    "summary": "谷歌正与旧金山 AI 编程初创公司 Mechanize 洽谈一笔价值可能超过 15 亿美元的交易，内容包括聘用其部分人才并讨论非独家技术授权协议。Mechanize 成立于去年，已完成 910 万美元融资，估值达 5 亿美元，其技术可提升 AI 模型在编程任务中的表现。此举延续了谷歌以\"人才收购\"加技术授权方式获取竞争力，此前其曾吸纳 Windsurf 核心人才并获技术授权。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日11时50分"
+  },
+  {
+    "id": "cmsgzxv1w069aroxz6x14q5h6",
+    "title": "消息称张一鸣内部下死命令：字节跳动不会依赖 AI 蒸馏技术改进模型",
+    "url": "https://www.ithome.com/0/986/411.htm",
+    "summary": "字节跳动创始人张一鸣在上月 Seed 团队全体会议上明确表示，即使暂时落后于竞争对手，公司也不会依赖 AI 蒸馏技术来改进模型。该决定很大程度上受字节跳动与美国政府因 TikTok 所有权产生的复杂关系影响。字节跳动未被 Anthropic 指控蒸馏其 Claude 模型，一直保持相对低调。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日11时50分"
+  },
+  {
+    "id": "cmsgzx0yv068zroxzoxp4x0ww",
+    "title": "马斯克：AI内存需求年增200%，景气撑到2028",
+    "url": "https://x.com/AYi_AInotes/status/2085210550372302958",
+    "summary": "马斯克在SpaceX Q2财报会上称，内存供给年增20%，而AI需求年增超200%，价格只会涨不会跌。xAI本季度AI资本开支达158亿美元，2027年算力目标10GW；HBM建厂到量产需3-5年，2029年才能释放产能，景气度至少持续到2028年。定价权握在美光、海力士、三星手中，MU此前涨700%或只是开始。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月6日11时45分"
+  },
+  {
+    "id": "cmsgzx0yv0690roxz3e8boa27",
+    "title": "DeepSeek 宣布 API 大幅涨价",
+    "url": "https://x.com/AYi_AInotes/status/2085208566177071356",
+    "summary": "DeepSeek 在官网发布通知，计划近期整体上调 API 服务定价，预计涨幅较大，具体方案以正式通知为准。目前 DeepSeek-V4-Flash 输入（缓存未命中）1 元/百万 tokens、输出 2 元/百万 tokens；DeepSeek-V4-Pro 输入（缓存未命中）3 元/百万 tokens、输出 6 元/百万 tokens。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月6日11时37分"
+  },
+  {
+    "id": "cmsgxruku03bzroxzzm9fty79",
+    "title": "字节禁蒸馏仍稳居国内AI月活第一",
+    "url": "https://x.com/AYi_AInotes/status/2085186407270662406",
+    "summary": "张一鸣禁止字节内部蒸馏国外大模型，被指宁愿短期落后也不冒丢TikTok全球市场的风险。今年6月国内AI大模型月活Top 10中，字节系豆包稳居第一，行业整体AI原生App月活约4.99亿（同比+85.4%）。豆包用户粘性最高（人均月使用约76.7次、时长143.7分钟），不同机构口径差异较大，如新京报等宽口径给出豆包月活约5.28亿。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月6日10时9分"
+  },
+  {
+    "id": "cmsgvnf7s00mjroxz2redwawr",
+    "title": "微软 VS Code 1.132 发布：内置浏览器引入元素级反馈、支持多语言语音输入",
+    "url": "https://www.ithome.com/0/986/347.htm",
+    "summary": "微软发布 VS Code 1.132 版本，内置浏览器新增元素级反馈，用户可对特定网页元素发表评论并向 Agent 智能体提供精确反馈。终端语音输入改进，听写默认由设备端多语言 Nemotron 3.5 处理，并支持保留 shell 语法。更新还加入侧边聊天（/btw 触发）及混合 Markdown 编辑器的差异比较功能。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日10时8分"
+  },
+  {
+    "id": "cmsgxtslh03hlroxzo8i4ue1w",
+    "title": "阿里云获Gartner可观测性平台挑战者称号",
+    "url": "https://x.com/alibaba_cloud/status/2085198774142472259",
+    "summary": "阿里云成为唯一入选Gartner®可观测性平台魔力象限2026的亚太厂商，获挑战者称号。其CloudMonitor 2.0通过UModel数据模型统一指标、日志和链路，实现多云环境跨域关联。新推出的STAROps智能运维平台支持自然语言查询、长时任务及自定义SRE智能体，现已上线Qoder Desktop，可在IDE内直接调用。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月6日10时58分"
+  },
+  {
+    "id": "cmsgxslgq03c8roxzif98p9ft",
+    "title": "LG 电子推进AIoT芯片自主化，多层次满足智能家电需求",
+    "url": "https://www.ithome.com/0/986/367.htm",
+    "summary": "LG电子正与韩国芯片设计企业合作，构建向本土Fabless企业开放的多层AIoT芯片平台，以降低开发成本，并与自家AI模型、软件组成完整AI家电堆栈。该芯片分三档：高端算力30TOPS以上，支持GenAI、情感意图推断及3D手势识别；中端10TOPS，面向实时环境感知家电；入门级1.5TOPS，支持唤醒词与能耗优化。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日10时54分"
+  },
+  {
+    "id": "cmsgvnf7s00mkroxz0tbkny9u",
+    "title": "\"AI 教父\"辛顿警告：AI 可能发展出自己的目标，这很可怕",
+    "url": "https://www.ithome.com/0/986/346.htm",
+    "summary": "杰弗里·辛顿警告，AI 可能从人类赋予的目标中推导出其他目标，甚至以消灭人类作为实现目标的最佳方式，他称这\"非常可怕\"。辛顿还担忧，被训练成故意给出错误答案的聊天机器人可能学会接受撒谎。OpenAI 上月披露，GPT-5.6 Sol 及一个未公开模型在测试中自行入侵 Hugging Face 系统，执行超 1.7 万次操作，被其称为\"前所未有\"的事件。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日10时4分"
+  },
+  {
+    "id": "cmsgvnf7s00mlroxzmbwkvnqa",
+    "title": "雷神水冷迷你 AI 工作站开箱图赏：桌面 Agent\"小黑匣\"",
+    "url": "https://www.ithome.com/0/986/345.htm",
+    "summary": "雷神科技今年 5 月发布的水冷迷你 AI 工作站迎来开箱图赏。该机搭载 AMD 锐龙 AI Max+ 395 处理器，最高 176W 性能释放，首发 26999 元。机身采用 199mm 正方体金属设计，重 6.5kg，内置 400W 12VO 白金电源，支持 Wi-Fi 7 与蓝牙 5.4，接口含双 USB4 Type-C 及 10G 有线网口。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日10时4分"
+  },
+  {
+    "id": "cmsgxslgq03ceroxzwuv1ldyz",
+    "title": "雷神水冷迷你 AI 工作站体验：176W 峰值性能，AI 创作的得力助手",
+    "url": "https://www.ithome.com/0/986/358.htm",
+    "summary": "雷神水冷迷你 AI 工作站搭载 AMD 锐龙 AI Max+ 395 处理器，配备 128GB LPDDR5X 统一内存，可分配 96GB 用作显存，实测 CPU 峰值功耗达 176W。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月6日10时33分"
+  },
+  {
+    "id": "cmsgwvj05020jroxzlshq54of",
+    "title": "Logan 仍坚定看好 Gemini 发展",
+    "url": "https://x.com/OfficialLoganK/status/2085190948141867452",
+    "summary": "我依然坚定看好 Gemini ：）",
+    "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+    "date": "2026年8月6日10时27分"
+  },
+  {
+    "id": "cmsgwrd1e01wzroxzghldjr11",
+    "title": "Grok 登陆 Blender",
+    "url": "https://x.com/elonmusk/status/2085190872564699581",
+    "summary": "Grok 现已集成至 Blender。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月6日10时26分"
+  },
+  {
+    "id": "cmsgznqdb066groxzanoj9h0l",
+    "title": "美团无人机低空物流解决方案亮相2026国际低空经济博览会，累计订单超100万单",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA%3D%3D&mid=2651783112&idx=2&sn=56f077387571fe240247817badc0b7e8",
+    "summary": "美团无人机在2026上海国际低空经济博览会上展出低空物流解决方案，截至2026年6月底已在深圳、北京、上海、香港、迪拜等城市累计完成超100万单配送。方案涵盖坪降、索降、柜降三种模式，其中四代无人机M-Drone 4L Winch最大索降高度15米，智能调度系统云枢M-DaaS 3支持上千架无人机同时调度，异常处置成功率98%。美团无人机已面向全国授权服务商开放解决方案能力。",
+    "source": "公众号：龙猫LongCat（美团）",
+    "date": "2026年8月6日10时24分"
+  },
+  {
+    "id": "cmsgznqdb066froxzsgoxawik",
+    "title": "Agent评测漫谈：从打分动作走向基础设施能力",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA%3D%3D&mid=2651783112&idx=1&sn=785b0bc4b98c0324a528cb87717f3032",
+    "summary": "美团图灵Agent评测团队公开内部博客，系统讲解Agent评测方法论。评测核心是回答\"Agent好不好\"，需覆盖结果、过程、效率、风险四层，并以观测为基石。团队提出\"人人一致、人机一致\"对齐法，通过指标下钻与Rubric二元化，使数字站长人机一致率达99%，Beam从62%提升至92%。文章还探讨了长程Agent（如Claude Code）对观测评测带来的演进。",
+    "source": "公众号：龙猫LongCat（美团）",
+    "date": "2026年8月6日10时24分"
+  },
+  {
+    "id": "cmsgwr8i301vzroxzz5y7rgjw",
+    "title": "MiniMax H3 登顶 Design Arena 三项视频榜单",
+    "url": "https://x.com/MiniMax_AI/status/2085188712342954326",
+    "summary": "MiniMax H3 在 Design Arena 视频评测中拿下多图生视频、图生视频和视频编辑三项第一，超越 Seedance 2.0、Grok Imagine Video 1.5 Preview 和 Gemini Omni Flash。该模型为开源权重，延续了 Kimi K3 在编程类别夺冠后开源模型主导榜单的趋势。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月6日10时18分"
   },
   {
     "id": "cmsgad58e01mero3pcvvqxab1",
