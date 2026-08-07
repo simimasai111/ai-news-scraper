@@ -1,11 +1,115 @@
 [
   {
+    "id": "cmsj7f6uw01twroo5j0v5qmyf",
+    "title": "NoimosAI 发布 Social Agent 社交趋势研究智能体",
+    "url": "https://x.com/testingcatalog/status/2085775212142809252",
+    "summary": "NoimosAI 发布 Social Agent，可跨社交平台研究趋势，分析特定领域内表现优异的帖子并据此生成内容。该智能体支持多平台帖子与轮播图自动发布及定时推送，还能从产品图、链接或代码生成 UGC 和产品视频，并对已连接账号进行表现分析与改进建议。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月8日1时8分"
+  },
+  {
+    "id": "cmsj7cr3001orroo5683monq6",
+    "title": "文生图竞技场更新：GPT Image 2 全项第一",
+    "url": "https://x.com/ArtificialAnlys/status/2085774161138635016",
+    "summary": "Artificial Analysis 更新文生图竞技场，按 10 类真实用例与 9 项能力评测模型，覆盖营销、电商、UI/UX 设计等场景。GPT Image 2 在所有用例和能力榜单均列第一；Nano Banana 2 以 $67/千图成为性价比之选，MAI-Image-2.5 是电商领域最佳廉价选项，Nano Banana Pro 则在真人电影领域表现突出。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月8日1时4分"
+  },
+  {
+    "id": "cmsj7cmrx01mfroo5cotpsq5g",
+    "title": "Keras社区会议今日召开，聚焦vLLM集成",
+    "url": "https://x.com/fchollet/status/2085773575282143337",
+    "summary": "Keras社区会议现在开始--加入链接见下方推文。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月8日1时2分"
+  },
+  {
+    "id": "cmsj81yyp02cwroo5rcq20vke",
+    "title": "LangChain 推出 Managed Deep Agents 公开测试版",
+    "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+    "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月8日1时24分"
+  },
+  {
+    "id": "cmsj7cqqt01ojroo5msk982px",
+    "title": "Logan 成谷歌最佳引援，力挺 Gemini 团队",
+    "url": "https://x.com/kimmonismus/status/2085775499557589421",
+    "summary": "Logan 是谷歌能做出的最佳引援。只有得体的回应，出色的社区工作。\n\n【引用 @OfficialLoganK】：对 SemiAnalysis 只有爱，但这是如此肤浅的看法。\n\nGemini 团队正在发力，那么多极其聪明、优秀的人正倾尽毕生心血，为世界打造令人惊叹的 AI 模型和产品。我无比看好！",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日1时10分"
+  },
+  {
+    "id": "cmsj7cmbh01mbroo5l1nh1azh",
+    "title": "Google AI 团队大调整背后：The Vergecast 解读模型竞赛与\"时间花费\"之争",
+    "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+    "summary": "The Vergecast 本期讨论 Google AI 团队领导层变动，包括传奇工程师 Jeff Dean 离开 Google，并探讨这是否预示 Google 在 AI 竞赛中陷入动荡。节目还谈及 Google 与 Reddit 的相互依赖关系及其潜在问题，以及 Disney+ 内容扩张、BMW 车载广告等话题。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月8日0时45分"
+  },
+  {
+    "id": "cmsj7cmry01mgroo5uu2yw10c",
+    "title": "Keras社区会议将展示vLLM集成新进展",
+    "url": "https://x.com/fchollet/status/2085769216515293639",
+    "summary": "Keras社区会议将在15分钟后开始！\n\n本周五上午10点（太平洋时间）将举行Keras社区会议--团队将展示Keras生态系统的最新进展，特别是新的vLLM集成。\n\n任何人都可以加入会议。会议开始时（周五上午10点），请使用此链接 http://meet.google.com/gva-bbpr-twe 加入。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月8日0时45分"
+  },
+  {
+    "id": "cmsj7cufs01q1roo56jdhb15q",
+    "title": "OpenAI 首款智能音箱预计 2027 年推出，售价超 300 美元",
+    "url": "https://the-decoder.com/openais-first-smart-speaker-is-expected-in-2027-at-over-300",
+    "summary": "OpenAI 的 AI 硬件设备预计于 2027 年推出，售价超过 300 美元。据 Bloomberg 报道，该设备是一款无屏幕的甜甜圈造型智能音箱，大小接近冰球，内置麦克风、扬声器、摄像头系统及可动部件。其功能类似 ChatGPT 现有语音模式，但能学习对话并适应用户，苹果的诉讼可能推迟发布。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月8日0时43分"
+  },
+  {
+    "id": "cmsj6aai200prroo515b6e9uz",
+    "title": "GPT-5.6 Luna 降价 10 倍，token 用量激增超 10 倍",
+    "url": "https://x.com/rohanpaul_ai/status/2085766523705291180",
+    "summary": "GPT-5.6 Luna 在 OpenRouter 降价 10 倍后，token 用量增长超 10 倍，并超越 GLM 5.2。微软研究显示，2026 年 Q1 全球仅 17.8% 劳动人口使用生成式 AI，杰文斯悖论效应才刚开始。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月8日0时34分"
+  },
+  {
+    "id": "cmsj69kyh00kbroo5efimpgna",
+    "title": "SlopCodeBench 新基准：最强模型通过率仅 33%",
+    "url": "https://x.com/dexhorthy/status/2085764187507265980",
+    "summary": "新一期播客深入解析华盛顿大学推出的 SlopCodeBench 基准，该基准要求模型随时间演化代码库，并衡量代码复杂度增长。目前最强模型（Fable、Sol、Kimi K3）通过率仅 33%。主持人 Dex Horthy 与 Vaib 探讨了基准机制及前沿模型测试发现。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月8日0时25分"
+  },
+  {
+    "id": "cmsj78cz401lcroo59v0d8l27",
+    "title": "中国首所机器人学校开学，人形机器人将持证上岗",
+    "url": "https://x.com/AYi_AInotes/status/2085764087900753944",
+    "summary": "中国开设首所机器人学校，由浙江大学机器人研究院联合浙江省质量科学研究院及行业企业创办，首批30台来自16家公司的机器人（以人形为主，含机器狗）入学。学校设技校、卫校、艺校、体校四个方向，培训流程为入学体检、分科实训、场景实操、技能考核，通过后颁发《专项技能等级证书》实现\"持证上岗\"。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月8日0时24分"
+  },
+  {
     "id": "cmsj57ite002srov86d5li5ie",
     "title": "Replit 设计马拉松直播：获取设计反馈",
     "url": "https://x.com/Replit/status/2085758168601444762",
     "summary": "Designathon 直播：获取你的设计反馈 https://x.com/i/broadcasts/1kKzDDZynMoJv",
     "source": "X：Replit (@Replit)",
     "date": "2026年8月8日0时1分"
+  },
+  {
+    "id": "cmsj6rznd018nroo504an375v",
+    "title": "Token 消耗危机来临：企业正争相削减 AI 开支",
+    "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible",
+    "summary": "埃森哲内部数据显示，token 消耗的主要推手并非工程师，而是大量非工程人员。该公司智能体 AI 战略负责人透露，将 PDF 转为图片再转成 markdown 文件是最大的 token 消耗源之一。企业正因此争相控制 AI 相关支出。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月8日0时18分"
+  },
+  {
+    "id": "cmsj6a36000m7roo5yanx2147",
+    "title": "Cloudflare 推出专为 AI 智能体打造的浏览器 Kitesurf",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
+    "summary": "Cloudflare 发布 Kitesurf，一款专为 AI 智能体设计的云托管浏览器，让开发者无需自研浏览器即可构建能导航网站、填写表单的软件。它完全运行于其 serverless 平台 Workers 上，在 Browser Run 中免费提供 beta 版，并称其 CPU 和内存消耗比 Chromium 更高效，已通过 215，000+ 项 Web 平台测试。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月8日0时16分"
   },
   {
     "id": "cmsib5tcp1782ronk25cxokvi",
@@ -544,6 +648,14 @@
     "date": "2026年8月7日23时5分"
   },
   {
+    "id": "cmsj6en0v00uiroo565gjcjua",
+    "title": "Meta Muse Spark 1.2 登顶文本竞技场第四",
+    "url": "https://x.com/alexandr_wang/status/2085756692025987188",
+    "summary": "nice\n\n（注：主推文仅为\"nice\"一词，无实质内容。根据引用式 teaser 例外规则，正文概括引用推文核心要点。）\n\nMeta 的 Muse Spark 1.2 （xHigh） 在文本竞技场中位列第四（1498 分），重塑了帕累托前沿。定价为每百万 token $1.25/$4.25。再次祝贺 @AIatMeta 团队发布此版本！",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月7日23时55分"
+  },
+  {
     "id": "cmsj5fkfu00a5rov8amr7d3ro",
     "title": "GPT-5.6 Luna 降价十倍带动 token 量激增",
     "url": "https://x.com/OpenRouter/status/2085756417353412922",
@@ -606,6 +718,14 @@
     "summary": "亚马逊 AWS 要求工程师关闭闲置的 EC2 实例以缓解 AI 带来的算力压力，约 65% 的实例在 30 天周期内平均 CPU 利用率低于 20%。AWS 升级了 Compute Optimizer，自动分析 14 天数据并标记峰值 CPU 利用率低于 15%、网络流量极低的虚拟机。过去一年 AWS 新增 3.8 吉瓦电力容量，足以为 280 万户家庭供电。",
     "source": "IT之家（RSS）",
     "date": "2026年8月7日23时25分"
+  },
+  {
+    "id": "cmsj6bawu00sqroo5obcdov2f",
+    "title": "OpenAI 发布 Astra 初步网络安全评估与防护强化措施",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "summary": "OpenAI 公布了 Astra 的初步网络安全评估结果，并介绍了为强化安全防护与控制所采取的措施。此次评估聚焦于 Astra 在关键网络能力方面的表现，相关安全更新旨在应对前沿领域的潜在风险。",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "date": "2026年8月7日23时20分"
   },
   {
     "id": "cmsj32dg4234cronk3bsbx8pg",
