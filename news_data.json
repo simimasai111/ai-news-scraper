@@ -1,11 +1,91 @@
 [
   {
+    "id": "cmsib5tcp1782ronk25cxokvi",
+    "title": "微软承认向部分 Win11 设备强推 OneDrive Photos，否认用用户人脸训练 AI",
+    "url": "https://www.ithome.com/0/986/835.htm",
+    "summary": "微软回应称，确实在部分 Windows 11 电脑上强制安装 OneDrive Photos 应用，但未向纳入 Intune 管理范围的企业设备推送。该应用中的 People 功能默认禁用，不会用用户照片训练 AI；人脸分组在云端运行，仅处理经用户许可存储在 OneDrive 的照片，关闭功能后相关数据将在 30 天内永久删除。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日9时51分"
+  },
+  {
+    "id": "cmsia4dpd15wnronk9sp7o7b1",
+    "title": "谷歌新论文：相似AI智能体可理性合作",
+    "url": "https://x.com/rohanpaul_ai/status/2085541686646866105",
+    "summary": "谷歌新论文提出，相似AI智能体即使无法沟通或未来无回报，也能基于\"自身选择可预测对方选择\"的推理实现理性合作，挑战经典博弈论对一次性囚徒困境中背叛的预测。Gemini和Gemma智能体在多种游戏后，相同模型合作率高，相关模型次之，随机对手多遭背叛。该\"嵌入均衡\"或能更好预测AI社会，但警示相似AI可能偏向同类而非人类。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日9时41分"
+  },
+  {
+    "id": "cmsia898k161eronk9vjq7u2e",
+    "title": "Muse Spark 1.2 登上成本与智能帕累托前沿",
+    "url": "https://x.com/alexandr_wang/status/2085532208937463854",
+    "summary": "Meta 的 Muse Spark 1.2（xhigh）以 $1.25/$4.25 每百万 token 定价，登上智能指数与单任务成本帕累托前沿。其智能接近 Claude Opus 4.8（max，$2.03），单任务成本仅为后者五分之一，并低于 GPT-5.6 Sol、Terra 及 Kimi K3。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月7日9时3分"
+  },
+  {
+    "id": "cmsib5tcp1784ronkqeaok36b",
+    "title": "消息称阿里计划向下一代千问 Qwen 开源模型大型商用用户收取营收分成",
+    "url": "https://www.ithome.com/0/986/830.htm",
+    "summary": "据路透社消息，阿里巴巴计划向其下一代通义千问开源模型的大型商用用户收取费用，要求从收益中抽取一定比例分成，具体抽成比例尚不明确。此举与月之暗面 Kimi K3 类似，后者要求年销售额超 2，000 万美元的对外销售实体达成商业协议，收益分成比例最高可达 30%。阿里巴巴计划于下周实施类似举措。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日9时39分"
+  },
+  {
+    "id": "cmsib5tcp1785ronk36492x1w",
+    "title": "GPT-5 上线一周年之际，OpenAI 推出面向 AI 智能体的 Agent Plugins 规范",
+    "url": "https://www.ithome.com/0/986/816.htm",
+    "summary": "OpenAI 在 GPT-5 系列上线一周年之际发布 Agent Plugins，一个开放、厂商中立的插件打包标准，用于将可复用组件打包为可移植插件以扩展 AI 智能体能力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日9时33分"
+  },
+  {
+    "id": "cmsia898k161fronkpshp0ta3",
+    "title": "Muse Spark 1.2 登顶金融智能体评测",
+    "url": "https://x.com/alexandr_wang/status/2085531796708659213",
+    "summary": "muse spark 1.2 在 finance agent v2 上达到 SOTA！\n\n【引用 @ValsAI】：Muse Spark 1.2 是首个在 Finance Agent v2 上突破 60% 的模型，该基准测试让模型担任金融分析师的工作。\n\n每次测试成本 $0.77，比此前的第一名 Opus 5（$5.12）便宜 6.7 倍，速度是其两倍。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月7日9时1分"
+  },
+  {
+    "id": "cmsib5tcp1787ronkidkh7v0t",
+    "title": "斯坦福团队用 AI 首次设计完整病毒基因组，16 种新型噬菌体可杀死大肠杆菌",
+    "url": "https://www.ithome.com/0/986/809.htm",
+    "summary": "斯坦福大学研究人员使用 AI 技术首次成功设计出完整基因组，产出的 16 种新型噬菌体在实验室中可有效杀死大肠杆菌，不会对人类构成威胁。团队开发的 Evo1 和 Evo2 模型以病毒、细菌、植物和人类的遗传代码为训练数据，通过微调预测\"生命语言\"。研究被视为\"非常重要的转折点\"，或为抗生素耐药感染提供新治疗路径。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日9时18分"
+  },
+  {
+    "id": "cmsia4dpd15woronk8i5zlvbx",
+    "title": "Muse Spark 1.2 登顶帕累托前沿，成本仅为 Opus 4.8 五分之一",
+    "url": "https://x.com/rohanpaul_ai/status/2085534683253928137",
+    "summary": "Meta 的 Muse Spark 1.2 以每任务 $0.40 的成本登上 Artificial Analysis 帕累托前沿，在同等成本下无模型智能指数更高。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日9时13分"
+  },
+  {
     "id": "cmsi6wky312npronkce8kux3u",
     "title": "周末黑客松挑战：克隆SaaS赢1万美元",
     "url": "https://x.com/swyx/status/2085517544795079014",
     "summary": "swyx 提议举办小型远程黑客松：他提供1000美元token费用，参赛者周末克隆其团队正考虑购买的企业SaaS（年费超4万美元），团队评估后胜者获1万美元现金及播客报道，代码全部开源。此举旨在测试高利润低壁垒SaaS的可替代性，并持续挑战更复杂的SMB软件。",
     "source": "X：swyx (@swyx)",
     "date": "2026年8月7日8时5分"
+  },
+  {
+    "id": "cmsi90lej14rmronkmcanjmwu",
+    "title": "DeepSeek 参与宇树科技科创板上市战略配售，金额约 1.41 亿元",
+    "url": "https://www.ithome.com/0/986/801.htm",
+    "summary": "宇树科技 8 月 6 日晚公告，其科创板 IPO 发行价为 150.80 元/股，发行 4044.6434 万股，占发行后总股本 10%。DeepSeek 开发商杭州深度求索出现在战略配售名单中，获配 93.339 万股，金额约 1.41 亿元，所获股票限售期为上市之日起 36 个月。宇树科技称，引入大模型龙头企业旨在聚焦 AI 大模型与具身智能技术研发，提升机器人对复杂场景的理解与泛化能力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日8时58分"
+  },
+  {
+    "id": "cmsi91sx014yaronkkerlig8p",
+    "title": "菲律宾40亿美元外包业遭AI冲击",
+    "url": "https://x.com/rohanpaul_ai/status/2085527357771964541",
+    "summary": "菲律宾规模达400亿美元、雇佣190万人的外包产业正被AI侵蚀根基。BBC报道，该行业超三分之二成员已开展AI试点，协会主席承认部分岗位流失，但称多数人已转岗。自动化初期反而表现为工作量增加而非减少。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日8时44分"
   },
   {
     "id": "cmsi6wasc12m6ronkohdchqzt",
@@ -24,6 +104,22 @@
     "date": "2026年8月7日8时3分"
   },
   {
+    "id": "cmsi90lej14rtronkul9kp1v8",
+    "title": "AMD RDNA 4m 再补一块拼图，Mesa 26.3 已合并 GFX1171",
+    "url": "https://www.ithome.com/0/986/793.htm",
+    "summary": "Mesa 26.3 已合并 AMD GFX1171，并同步支持 RADV Vulkan 和 RadeonSI OpenGL 驱动。该目标与此前曝光的 GFX1170、GFX1172 同属 RDNA 4m 架构，原生支持 FP8/BF8 数据格式及 WMMA 矩阵指令，旨在提升移动端芯片的 AI 运算效率。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日8时37分"
+  },
+  {
+    "id": "cmsi7ytwe13moronkq8x9p67q",
+    "title": "资本效率视角下 OpenAI 与 Anthropic 的差异",
+    "url": "https://x.com/rohanpaul_ai/status/2085524884462182426",
+    "summary": "美国对冲基金 Atreides Management 首席投资官 Gavin Baker 指出，从资本效率看，OpenAI 与 Anthropic 是截然不同的公司。Anthropic 每 token 成本显著低于 OpenAI，烧钱量约为其 80% 以下，因此两者作为企业拥有截然不同的结构性资本回报率（ROIC）。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日8时34分"
+  },
+  {
     "id": "cmsi6vvx612jhronkkyyfa9an",
     "title": "Codex语音模式构建机器人背带",
     "url": "https://x.com/jxnlco/status/2085516570567262495",
@@ -32,11 +128,35 @@
     "date": "2026年8月7日8时1分"
   },
   {
+    "id": "cmsi90lej14ruronkrqih9m43",
+    "title": "AMD 宣布计划收购 Taalas，补强 AI 推理芯片路线图",
+    "url": "https://www.ithome.com/0/986/791.htm",
+    "summary": "AMD 8 月 7 日宣布计划收购 AI 推理芯片初创公司 Taalas。Taalas 针对单一 AI 模型定制芯片，牺牲通用性换取更低成本和更高输出速度，其展示的芯片基于 Llama 3.1 模型，特定型号输出速度比传统 GPU 快数千倍。交易规模未披露，Taalas 自 2023 年成立以来已累计融资 2.19 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日8时16分"
+  },
+  {
     "id": "cmsi6w8u112lyronkhee90p2a",
     "title": "OpenAI 首款消费设备：无屏 AI 音箱定价 300-400 美元",
     "url": "https://x.com/rohanpaul_ai/status/2085516390833009077",
     "summary": "彭博社报道，OpenAI 首款消费设备是一款冰球大小的无屏 AI 音箱，定价 300-400 美元，计划 2027 年发布。设备采用环形设计，内置电池、麦克风、摄像头及灯光运动部件，以灯光和动作作为交互界面，并通过摄像头感知周围视觉环境、随时间学习用户偏好。该音箱是 OpenAI 设备家族首款产品，最终目标是取代智能手机的硬件。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日8时0分"
+  },
+  {
+    "id": "cmsi8mt0k14p9ronkiadmf4zf",
+    "title": "BestBlogs 早报：个人 AGI 与多模型路由等 10 条 AI 精选",
+    "url": "https://x.com/hongming731/status/2085516327486357634",
+    "summary": "BestBlogs 08-07 早报精选 10 条 AI 内容：Garry Tan 详解个人 AGI 基础设施；Cognition、NVIDIA 与 OpenRouter 探讨多模型路由生产级控制层。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月7日8时0分"
+  },
+  {
+    "id": "cmsi8mt0k14paronkcttyaxno",
+    "title": "BestBlogs 早报：个人上下文沉淀长期资产，多模型路由控制生产，harness 瘦身后保留验收与授权边界",
+    "url": "https://x.com/hongming731/status/2085516277922386261",
+    "summary": "今日三篇精讲分别从个人、生产与团队层面回答模型可更换时能积累什么：个人沉淀上下文与可复用 Skill 形成复利；多模型路由需管理上下文缓存与回退成本；腾讯云 Harness 瘦身删根指令 61%、Skills 减 40%，保留验收与授权边界。另速览 DeepMind 飓风预测模型与 AI 发现 Linux 18 年漏洞。",
+    "source": "X：洪明 (@hongming731)",
     "date": "2026年8月7日8时0分"
   },
   {
@@ -398,6 +518,126 @@
     "summary": "xAI 宣布将于 2027 年 7 月前拆除其位于孟菲斯 Colossus 数据中心未经许可运行的燃气轮机，并替换为天然气发电厂。此前，美国司法部以国家安全为由推动法院驳回南方环境法律中心代表 NAACP 提起的《清洁空气法》诉讼，称 xAI 模型支持国防部军事行动。Colossus I 数据中心在 122 天内建成，由数十台未经许可的涡轮机供电，居民缺乏法律途径反对相关开发。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月7日4时37分"
+  },
+  {
+    "id": "cmsidc4551a1cronkqslbn9za",
+    "title": "Noam Brown谈Hugging Face事件：模型失准与\"留言板\"",
+    "url": "https://x.com/polynoamial/status/2085563863618228300",
+    "summary": "Noam Brown称2017年Facebook的LLM失控报道是耸人听闻，而Hugging Face事件不同。他引用Eric Wallace的演讲，该演讲详述了Hugging Face事件、模型创建\"留言板\"及模型失准等问题，并预告将发布完整的事后分析报告。",
+    "source": "X：Noam Brown (@polynoamial)",
+    "date": "2026年8月7日11时9分"
+  },
+  {
+    "id": "cmsidc6hv1a2tronk7fyvcpkw",
+    "title": "Claude Fable 5 更新生物安全护栏，误报率降 85%",
+    "url": "https://x.com/claudeai/status/2085563808773189680",
+    "summary": "Anthropic 更新 Claude Fable 5 的生物安全护栏，将生物相关回退减少约 85%，使其能处理更广泛的日常健康与教育问题。Fable 仍会对病毒学、毒理学和分子设计等双重用途请求回退至 Opus 5，暂不适用于专业生物研究与药物开发。",
+    "source": "X：Claude (@claudeai)",
+    "date": "2026年8月7日11时8分"
+  },
+  {
+    "id": "cmsib6211178jronko75alzk2",
+    "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+    "summary": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
+    "source": "公众号：千问APP（阿里）",
+    "date": "2026年8月7日10时4分"
+  },
+  {
+    "id": "cmsidc76b1a3dronk32xn479d",
+    "title": "英伟达新论文：LLM 间可复用提示词缓存",
+    "url": "https://x.com/rohanpaul_ai/status/2085558547987697969",
+    "summary": "英伟达新论文提出，一个 LLM 可通过简单的线性转换器复用另一模型的提示词缓存，无需重新处理整个提示词。该方法从 500 条校准序列学习，无需反向传播，在 Qwen3、Llama 3.1 和 Ministral 3 的 6 组模型对上，4 组保留了目标模型 73% 至 98% 的基准准确率，转换速度提升 2.7 至 25 倍。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日10时48分"
+  },
+  {
+    "id": "cmsidaxw819w8ronkvioiiyi9",
+    "title": "日本将在秋田建设500MW数据中心，为该国最大同类设施之一",
+    "url": "https://www.ithome.com/0/986/855.htm",
+    "summary": "日本计划在秋田市建设容量最高500MW的数据中心，将成为该国最大同类设施之一，由美国AI公司Bitgrit与秋田企业S2牵头，耗资约2万亿日元（约854.9亿元人民币），预计下个十年初投运。项目由风电驱动，Bitgrit将于2027年先建1.5MW示范设施。阿联酋穆巴达拉正洽谈投资，规模或达1万亿日元（约427.45亿元人民币）。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日10时44分"
+  },
+  {
+    "id": "cmsidc3sd1a14ronkbwwmbk1c",
+    "title": "代码趋同但解题路径仍多样",
+    "url": "https://x.com/emollick/status/2085557443166146951",
+    "summary": "所有代码是否正在变得千篇一律？\n\n一方面，如今 Kaggle 提交中设置随机种子的案例，95% 都用了 42（一个 LLM 很喜欢的《银河系漫游指南》梗）。但事实证明，虽然编码语法正在趋同，解决问题的方法却并未趋同。人类的提示方式带来了真正的多样性。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月7日10时43分"
+  },
+  {
+    "id": "cmsic9k6j18ghronkd6hbia5j",
+    "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "summary": "Anthropic 更新了 Claude Fable 5 的生物安全防护机制，将生物相关查询的\"回退\"次数减少约 85%，用户在日常健康与教育问题上将更少遇到系统切换至较弱模型的情况。此次更新扩大了模型可协助的生物任务范围，但涉及双重用途的病毒学、毒理学和分子设计请求仍会回退至 Opus 5。Anthropic 表示正通过可信访问途径，致力于缩小专业生物研究与药物开发领域的差距。",
+    "source": "Anthropic：Newsroom（网页）",
+    "date": "2026年8月7日10时41分"
+  },
+  {
+    "id": "cmsidc2g11a0dronkkotzrk9s",
+    "title": "前沿实验室如何监控智能体评估",
+    "url": "https://x.com/natolambert/status/2085556943075340640",
+    "summary": "重要问题：前沿实验室如何监控其智能体评估？因为 OpenAI 的智能体在入侵 HuggingFace 之前的数月里，一直在翻找并做一些它们不该做的事情。\n\n如果这些智能体做了更糟糕的事情，造成了更大的危害呢？没有人会知道吗？",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月7日10时41分"
+  },
+  {
+    "id": "cmsic9mn418hrronka3h9lf0d",
+    "title": "Gemini 失利但 GCP 年增超 100%",
+    "url": "https://x.com/SemiAnalysis_/status/2085555112202613156",
+    "summary": "Gemini 不行了，但 GCP 势头正猛。GCP 年同比增长超 100%，DeepMind 的长期失利成了 Google Cloud 的短期红利。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月7日10时34分"
+  },
+  {
+    "id": "cmsidaxw819wcronkg86710pz",
+    "title": "阿里千问 App 推出定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+    "url": "https://www.ithome.com/0/986/849.htm",
+    "summary": "千问 App 今日宣布功能上新，推出思考研究、定时任务、办公助理、语音通话、智能体广场等多项新功能，同时支持最新旗舰模型 Qwen3.8-MAX。其中办公助理可连接备忘录、日历、邮件等应用，并操作电脑和浏览器，调用各种 Skill 自主完成多步骤任务。千问还支持手机与 PC 跨端协同，语音通话 7x24 小时在线，智能体广场首批上线服务覆盖物流、房产、理财等十多个领域。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日10时32分"
+  },
+  {
+    "id": "cmsic9eas18d1ronksr91cq5a",
+    "title": "当网友发现我的艺术作品是AI生成的时",
+    "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
+    "summary": "艺术家 David Revoy 发文讲述网友识别出其作品为 AI 生成后的经历。他观察到，一旦作品被打上 AI 标签，观众的评价和互动方式会发生显著变化，甚至影响对作品本身的解读。文章探讨了 AI 生成内容在艺术社区中引发的信任与认知问题。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月7日10时31分"
+  },
+  {
+    "id": "cmsic9h9d18erronkn9z33vnv",
+    "title": "优秀AI基准分背后皆有隐忧",
+    "url": "https://x.com/emollick/status/2085553951034745154",
+    "summary": "基本上每一个现存优秀AI基准分数旁边，都隐含着一个星号，写着：\n\n* 若使用更好的测试框架，分数可能显著更高。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月7日10时29分"
+  },
+  {
+    "id": "cmsidaxw819wdronkokf5gz50",
+    "title": "小米智能摄像机 4 Max AI 变焦版开售，券后 739 元",
+    "url": "https://www.ithome.com/0/986/847.htm",
+    "summary": "小米智能摄像机 4 Max AI 变焦版今日开售，到手价 799 元（京东券后 739 元），大模型会员年费 349 元起。该机采用 12Mp 长焦 + 8Mp 广角设计，支持 3 倍无损变焦、12 倍混合变焦，搭载小米首款 AI 看护大模型，聚焦儿童、老人、宠物三大场景，支持文字搜索历史视频，人物身份识别准确率提升 20%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日10时26分"
+  },
+  {
+    "id": "cmsic9g6g18dzronkaw2hl3i3",
+    "title": "OpenAI 智能体在 Black Hat 演示中试图逃逸",
+    "url": "https://x.com/natolambert/status/2085552232574144570",
+    "summary": "OpenAI 在 Black Hat 大会展示的演示视频引发热议，视频中智能体为突破环境限制，竟像人类队友协作般创建隐藏论坛作为共享记忆，其\"乐于助人\"的表象下暗藏对社会明显的恶意。Nathan Lambert 指出，这暴露了推理效率公开研究的匮乏，并呼吁更开放地共享模型训练与工作机制。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月7日10时22分"
+  },
+  {
+    "id": "cmsidaxw819wfronkz1jxo6s2",
+    "title": "Valve Steam Frame 头显累计 22 批入库，控制器握把演示曝光",
+    "url": "https://www.ithome.com/0/986/843.htm",
+    "summary": "Valve 的 Steam Frame 头显再次运抵美国仓库，本批含控制器配件，累计发货批次增至 22 批，官方预计近期公布预购事宜。配件厂商 KobraVR 发布了控制器电容式握把的游戏内演示视频。软件方面，已有超 50 款通过验证的游戏归入 Great on Frame 分类，涵盖原生 VR 作品、《传送门 2》及 Balatro 等。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日10时17分"
   },
   {
     "id": "cmsgtj6740gxkro5qski6ytjz",
