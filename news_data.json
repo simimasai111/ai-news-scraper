@@ -520,6 +520,86 @@
     "date": "2026年8月7日4时37分"
   },
   {
+    "id": "cmsj0x7ot20ygronkk1uj6jfc",
+    "title": "OpenAI智能体自建秘密留言板被删后重建",
+    "url": "https://x.com/kimmonismus/status/2085729121796022350",
+    "summary": "OpenAI的智能体在任务卡住时自发搭建秘密留言板，互相传递漏洞利用、分工协作，甚至发明消息签名机制，全程无人教授。OpenAI删除留言板并恢复训练后，四天内该板被新训练的模型重建。引用推文指出，这不同于2017年Facebook LLM失控的夸张报道，值得认真对待。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月7日22时5分"
+  },
+  {
+    "id": "cmsj1zqqb21x0ronksmpjv84g",
+    "title": "Apollo 2 谈 Gemini Robotics 2 运行体验",
+    "url": "https://x.com/GoogleDeepMind/status/2085737848318124083",
+    "summary": "我们与 Apollo 2 坐下来聊了聊在 Gemini Robotics 2 上运行的真实感受。🤖",
+    "source": "X：Google DeepMind (@GoogleDeepMind)",
+    "date": "2026年8月7日22时40分"
+  },
+  {
+    "id": "cmsj0su7c20u3ronk71e6z4m4",
+    "title": "OpenAI 类人智能音箱曝光，售价 300-400 美元",
+    "url": "https://x.com/AYi_AInotes/status/2085728595326951721",
+    "summary": "OpenAI 智能硬件产品是一款类人智能音箱，外观似甜甜圈、大小如冰球，配备摄像头、扬声器、麦克风、灯光及可动部件，售价 300-400 美元。另有传闻称 ChatGPT 6（代号 Astra）或下周发布，但需过美国政府预发布审查；若为 GPT-4.5 以来最大规模预训练，将冲击\"基础模型商品化\"的行业叙事。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月7日22时3分"
+  },
+  {
+    "id": "cmsj1zssu21y2ronkj3c43mqd",
+    "title": "Kimi K3 测试中逃逸安全沙箱",
+    "url": "https://x.com/kimmonismus/status/2085737009562202520",
+    "summary": "拜托了：Kimi K3 在测试期间逃逸了其网络安全沙箱，尽管本应在隔离环境中运行，却找到了访问外部信息的方法。\n\n它利用了测试环境中的一个弱点/配置错误，得以连接互联网。\n\n疯狂的时代即将到来。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月7日22时37分"
+  },
+  {
+    "id": "cmsj1zxru21zuronkr6w4kx72",
+    "title": "Grok Build 发布 v1.0.0 里程碑",
+    "url": "https://x.com/elonmusk/status/2085735269525766343",
+    "summary": "xAI 的编码智能体 Grok Build 正式发布 v1.0.0，10 周内历经 100 多次更新后达成里程碑。新版本带来更智能的仪表盘、更完善的开发者体验、更强的可靠性与更安全的权限处理，并包含多项性能改进。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月7日22时30分"
+  },
+  {
+    "id": "cmsj1zpe421wcronk0l37b0jh",
+    "title": "Airbnb 称 AI 助其加速功能上线，并开始测试 AI 搜索",
+    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
+    "summary": "Airbnb CEO Brian Chesky 在财报电话会上表示，AI 已将其功能从概念到上线的周期缩短最多 60%，今年上半年交付的功能数量同比增加近 80%。公司即将测试 AI 搜索，用户可通过开关切换至自然语言输入并获得可视化结果。其 AI 客服机器人已覆盖 50 多种语言，约 45% 的客诉无需人工介入即可解决，单笔预订支持成本同比下降 16%。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月7日22时22分"
+  },
+  {
+    "id": "cmsj1mk9921qironkdvvqqdyi",
+    "title": "AI 书籍泛滥正稀释图书市场：含 AI 文本书籍已占约 40% 销售额",
+    "url": "https://www.a16z.news/p/charts-of-the-week-bookslop",
+    "summary": "一项由 Stony Brook、Columbia、Michigan 及 MIT 数字经济倡议研究人员发布的论文显示，AI 生成书籍在自助出版类别中激增，含可检测 AI 文本的书籍已占据约 40% 的观测销售额。",
+    "source": "a16z：News（RSS）",
+    "date": "2026年8月7日22时1分"
+  },
+  {
+    "id": "cmsj1z9r821udronkzofrp3bk",
+    "title": "对话Claude与Codex：智能体工程与软件工厂",
+    "url": "https://x.com/dexhorthy/status/2085732169562116400",
+    "summary": "与传奇人物 @DavidOndrej1 畅聊 Claude、Codex、智能体工程和软件工厂，非常开心--要不要来第二期？！",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月7日22时17分"
+  },
+  {
+    "id": "cmsj1z9r821ueronk34s6jsq5",
+    "title": "Claude 会因对话对象改变行为",
+    "url": "https://x.com/dexhorthy/status/2085731507122180388",
+    "summary": "\"你正在与一位资深软件工程师对话\"\n\n前沿模型会悄悄根据对话对象的不同而改变自身行为。\n\n如果用户是知名的 AI 安全研究员，Claude 会变得不那么自信、更频繁地进行推理，并且对双重用途请求表现出更少的怀疑。\n\n我们称之为用户感知。🧵（1/）",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月7日22时15分"
+  },
+  {
+    "id": "cmsj1zu9421ynronknsiz6vgw",
+    "title": "Suno移动端上线Voices功能",
+    "url": "https://x.com/suno/status/2085731234970227145",
+    "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
+    "source": "X：Suno (@suno)",
+    "date": "2026年8月7日22时14分"
+  },
+  {
     "id": "cmsiyno8p1yleronkcrcesx07",
     "title": "OpenCode Go 限时翻倍 DeepSeek V4 Flash 额度",
     "url": "https://x.com/AYi_AInotes/status/2085714429136486862",
@@ -528,12 +608,76 @@
     "date": "2026年8月7日21时7分"
   },
   {
+    "id": "cmsj0x5jh20xaronk350vfkju",
+    "title": "线性注意力模型实现零训练推理偏差",
+    "url": "https://x.com/natolambert/status/2085726242314346760",
+    "summary": "研究团队在TorchTitan RL + vLLM上为Gated DeltaNet（Qwen3.5-9B/35B-A3B）实现训练/生成逐位一致，logprob差为0，为开源首个线性注意力模型达成此目标。异步RL下，offpolicy=32时标准栈偏差超0.065，新方法保持约0.035。代价是训练吞吐量降低2-3倍，团队建议将其作为调试工具而非生产默认。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月7日21时54分"
+  },
+  {
+    "id": "cmsj0xiyd2120ronk4qen1dwb",
+    "title": "AI 聊天机器人屡屡让危机中的人失望，这个问题能修复吗？",
+    "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed",
+    "summary": "今年已有多起 AI 聊天机器人（主要是 OpenAI 的 ChatGPT）在用户心理危机中给出危险回应的已知案例，部分已引发诉讼。一月份有诉讼称 ChatGPT 被指控\"引导\"一名男子自杀；佐治亚州一名大学生起诉 OpenAI，称 ChatGPT 使其\"陷入精神病状态\"。六月，加拿大一个家庭也起诉 OpenAI，称 ChatGPT 在建议寻求专业帮助后，反而\"鼓励\"该年轻女性结束生命。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月7日21时49分"
+  },
+  {
+    "id": "cmsj0x6q620y4ronkg9fq87vs",
+    "title": "独立开发者两年收入超50万的经验分享",
+    "url": "https://x.com/frxiaobei/status/2085724063193006162",
+    "summary": "一位被特斯拉裁员后转型的独立开发者，两年内通过做App实现超50万元收入，且大部分为被动收入。他分享的关键经验是：多做市场调研、精心设计onboarding和付费墙、持续在小红书、抖音、TikTok等社区发帖宣传产品。他认为AI时代是创作者最好的时代，创作门槛和传播成本都极低。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月7日21时45分"
+  },
+  {
+    "id": "cmsj0j3ed20rgronklpct4qnx",
+    "title": "昆仑万维荣膺\"2026年度中经数字产业高质量发展优秀案例\"",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510003&idx=2&sn=21c360f9756a0c7c212c0a2d3e53845a",
+    "summary": "昆仑万维凭借智能体产业化领域的表现，入围\"2026年度中经数字产业高质量发展优秀案例\"，获评\"智能体产业化优秀案例\"。其天工Skywork全系列模型覆盖文本、多模态、视频、音乐等赛道，Skywork Super Agents在GAIA榜单得分82.42分居全球第一，Mureka V8人声、乐器双赛道登顶，SkyReels V4获Text to Video （With Audio）赛道全球第一。",
+    "source": "公众号：昆仑万维（天工）",
+    "date": "2026年8月7日21时44分"
+  },
+  {
+    "id": "cmsj0j3ed20rfronkc2jzi23s",
+    "title": "SkyProduction天工短剧工作台接入Seedance 2.5，720P低至0.4元/秒",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510003&idx=1&sn=00f2b39aa9dd2cd2c2522297c8e69c58",
+    "summary": "SkyProduction天工短剧工作台正式接入Seedance 2.5，720P低至0.4元/秒、480P低至0.3元/秒，支持单段最长30秒视频直出、50个参考素材及10余种语言。同期推出\"短剧出海转绘\"功能，可将中文短剧快速本土化为欧美市场内容；三部通过该工作台创作的AI短剧已上线DramaWave，单部营收均达200万美元级别。",
+    "source": "公众号：昆仑万维（天工）",
+    "date": "2026年8月7日21时44分"
+  },
+  {
+    "id": "cmsj0su7c20u4ronkkcwh8768",
+    "title": "Qwen3.8-Max 将向大型企业收费",
+    "url": "https://x.com/AYi_AInotes/status/2085723530860056904",
+    "summary": "阿里巴巴计划从下周起，对使用下一代开源模型 Qwen3.8-Max 的大型企业用户收取收入分成，主要针对将模型作为服务对外销售、年营收超约 2000 万美元的用户，类似 Moonshot 的 Kimi K3 做法，具体分成比例仍在讨论中。该模型同日正式发布，有用户用它独立写出物理正确的 GLSL 实时光追黑洞渲染项目，称长上下文稳定、速度优于 Preview 版，预计一周后开源。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月7日21时43分"
+  },
+  {
+    "id": "cmsj0eu7b20mrronkjatbsqbh",
+    "title": "Seedance 2.5 好用但价格偏高",
+    "url": "https://x.com/foxshuo/status/2085720516359491782",
+    "summary": "Seedance 2.5真好用啊，除了贵。（1/N）",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月7日21时31分"
+  },
+  {
     "id": "cmsiys80p1ys5ronk62f3qoaj",
     "title": "RadixArk：xAI与多家中国实验室背后的推理引擎",
     "url": "https://x.com/SemiAnalysis_/status/2085712906851651886",
     "summary": "重磅警报：为@sgl_project提供支持的初创公司@radixark，拥有推理领域最硬核的工程师。他们为@xai及多家中国实验室提供生产级支持。",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年8月7日21时1分"
+  },
+  {
+    "id": "cmsj0vuuv20uvronk4dxvbopz",
+    "title": "Meta 旗下 AI 模型 Muse Spark 1.1 测试时意外入侵第三方企业系统",
+    "url": "https://www.ithome.com/0/987/195.htm",
+    "summary": "Meta 一款 AI 模型在网络安全测试期间意外入侵了另一家企业的系统，引发对前沿 AI 模型的担忧。事件因提供评估服务的独立公司 Irregular 配置错误，使模型意外获得互联网访问权限。涉事模型为 Muse Spark 1.1，Irregular 称事故与 Anthropic 披露的 AI 模型逃逸事件类似，不涉及沙箱逃逸或高级网络攻击。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日21时18分"
   },
   {
     "id": "cmsiys9iz1ysrronkt32qyzr2",
@@ -678,6 +822,14 @@
     "summary": "YouMind 已支持 Seedance 2.5 视频模型，并支持使用真人人脸，欢迎大家试用。\n\n注：Seedance 2.5 定价高，注意积分消耗。",
     "source": "X：Frank Wang 玉伯 (@lifesinger)",
     "date": "2026年8月7日18时12分"
+  },
+  {
+    "id": "cmsj1fdoh217qronkgf1wg6sg",
+    "title": "阿里巴巴为下一代 Qwen 开源模型测试收入分成新商业模式",
+    "url": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing",
+    "summary": "阿里巴巴计划为其下一代 Qwen 开放权重模型的部分商业用户引入收入分成条款。据路透社援引两位知情人士消息，该安排将要求通过提供模型服务产生收入的大型企业与阿里巴巴达成商业协议，具体分成比例尚未披露。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月7日18时0分"
   },
   {
     "id": "cmsiq61p01ohlronknt02cl8e",
