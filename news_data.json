@@ -1,11 +1,75 @@
 [
   {
+    "id": "cmsjdsiyf076droo5odyiwnyk",
+    "title": "GPT-5.6 Sol 获赞网络安防得力助手",
+    "url": "https://x.com/gdb/status/2085819760953192790",
+    "summary": "GPT-5.6 Sol 用于网络安全防护：\n\n【引用 @GregKara6】：@cryps1s 感谢您的联系。我对 OpenAI 模型没有任何意见，codex（gpt 5.6 sol）是我的最爱！\n\nGpt 5.6 sol 让我们能够以非常迅速的方式进行调查和响应。谢谢！继续加油！",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月8日4时5分"
+  },
+  {
+    "id": "cmsjds6xo070troo5c4fjvclv",
+    "title": "Fenix Flexin 不再否认用 AI 制作《Rubberz》",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+    "summary": "洛杉矶说唱歌手 Fenix Flexin 回应 AI 制作争议，称\"从未说过没用 AI\"，并强调 AI 与录音过程无关。此前制作人 Medasin 指认 AI 工具 Treblo（原 Sonauto）参与制作，该公司发布的 AI 检测器也将其标记为 Treblo AI 生成。Fenix 上月接受 Hot 97 采访时曾明确表示歌曲\"没有 AI\"。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月8日4时1分"
+  },
+  {
+    "id": "cmsjdsgzn075lroo51fgkta2r",
+    "title": "SpaceX 2027 年 10GW 数据中心供电分析",
+    "url": "https://x.com/SemiAnalysis_/status/2085821313919472016",
+    "summary": "SpaceX 2027 年 10GW--为何属实，将推动 SpaceX 实现 5000 亿美元年收入，以及为何微软将成为最大承购方\n每年每 GW 推理量达 1000 亿，SpaceX 惊人的推进速度，微软 2026 年 10GW 的觉醒，Azure 可实现三位数增长\n\nhttps://semianalysis.substack.com/p/spacex-10gw-in-2027-why-its-real",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月8日4时12分"
+  },
+  {
     "id": "cmsjbn0kp058proo578osry36",
     "title": "Claude Code自动模式默认上线，更安全",
     "url": "https://x.com/trq212/status/2085804481984475437",
     "summary": "automode 比任何其他权限系统都安全得多，尤其是相比你自己逐个审查。\n\n很高兴宣布，我们将默认向所有人推出该功能，且分类器不增加额外成本。\n\n【引用 @ClaudeDevs】：自 8 月 14 日起，自动模式将成为 Claude Code 中 Pro、Max 和 Team 用户的默认权限模式。\n\n自动模式使用独立的分类器审查 shell 命令和操作。测试中，它捕获了 89% 的危险命令，而人工审批仅捕获了 14%。",
     "source": "X：Thariq (@trq212)",
     "date": "2026年8月8日3时5分"
+  },
+  {
+    "id": "cmsjds6z9070wroo5fucrle1x",
+    "title": "OpenAI 应对关键网络能力的下一个前沿领域",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "summary": "OpenAI 发文阐述其应对关键网络能力下一个前沿领域的策略，聚焦于网络安全与 AI 的交叉方向。文章强调在提升防御能力的同时，需防范 AI 被用于恶意网络活动，并推动相关安全框架与负责任部署。具体技术细节与产品信息未在原文中披露。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月8日3时58分"
+  },
+  {
+    "id": "cmsjds6z9070yroo5xidgcrh5",
+    "title": "三星、SK海力士、美光2027年存储产能已全部售罄给AI公司",
+    "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+    "summary": "新报告显示，三星、SK海力士和美光三大存储厂商2027年的存储产能已全部被AI公司预订售罄。这意味着AI算力扩张对高带宽存储（HBM）等存储芯片的需求正持续挤压供应，未来存储市场可能面临更紧张的供需格局。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月8日3时58分"
+  },
+  {
+    "id": "cmsjdsk6p076rroo561c8askl",
+    "title": "Claude Code 会话间可互发消息",
+    "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+    "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月8日3时55分"
+  },
+  {
+    "id": "cmsjds6z9070zroo5bzs9x19b",
+    "title": "如果整个阶层的劳动者对自己的职业生涯失去信心，会发生什么？",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad",
+    "summary": "文章探讨当某一整个职业阶层普遍对自身职业生涯失去信心时可能产生的后果。这种集体性的职业信念崩塌，可能引发人才流失、行业创新停滞以及社会信任度下降等连锁反应。文章通过分析这一现象，警示职业信心危机对个人、行业乃至社会结构的深层影响。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月8日3时42分"
+  },
+  {
+    "id": "cmsjdsedw074sroo5fftuoslz",
+    "title": "OpenAI 首次将 Astra 模型标记为可能达到最高网络安全风险等级",
+    "url": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time",
+    "summary": "OpenAI 因内部测试显示 Astra 网络安全能力过强，已暂停该模型部分开发，并首次将其标记为可能达到自身安全框架中的最高风险等级（Critical）。OpenAI 表示无法排除 Astra 达到 Critical 能力等级的可能，此前包括 GPT-5.6-Sol 在内的模型最高仅被评为 High。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月8日3时41分"
   },
   {
     "id": "cmsjcpoor064proo5eq732nvb",
@@ -16,11 +80,35 @@
     "date": "2026年8月8日3时37分"
   },
   {
+    "id": "cmsjd7gl106msroo54s1p6ua6",
+    "title": "Moonlight & Mayhem：Codex 与 GPT-5.6 Sol Ultra 一次生成完整游戏",
+    "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem",
+    "summary": "Simon Willison 用同一提示词让 Codex Desktop 上的 GPT-5.6 Sol Ultra 生成游戏，效果优于此前 Claude Fable 5 的版本。新作《Moonlight & Mayhem》设定在博物馆，玩家需解救同伴以盗取金沙丁鱼。Codex 用时 52 分钟完成项目，但未能发现角色眼球异常放大的 bug，经提示后修复。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月8日3时18分"
+  },
+  {
     "id": "cmsjbsjl805ieroo52oejpphv",
     "title": "Claude Code 自动模式将成默认权限模式",
     "url": "https://x.com/bcherny/status/2085807103382519872",
     "summary": "我和团队完全使用自动模式，已经好几个月了。我无法想象回到权限提示的日子！非常激动能把这个功能带给所有人。",
     "source": "X：Boris Cherny (@bcherny)",
+    "date": "2026年8月8日3时15分"
+  },
+  {
+    "id": "cmsjbqwsg05goroo5sdjzw1s7",
+    "title": "Running auto mode in production",
+    "url": "https://claude.com/blog/auto-mode-in-production",
+    "summary": null,
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月8日3时15分"
+  },
+  {
+    "id": "cmsjbqwsg05gnroo5oocr0846",
+    "title": "Auto mode is now the default in Claude Code for Pro， Max， and Team plans",
+    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "summary": null,
+    "source": "Claude：Blog（网页）",
     "date": "2026年8月8日3时15分"
   },
   {
