@@ -1,5 +1,45 @@
 [
   {
+    "id": "cmsjbn0kp058proo578osry36",
+    "title": "Claude Code自动模式默认上线，更安全",
+    "url": "https://x.com/trq212/status/2085804481984475437",
+    "summary": "automode 比任何其他权限系统都安全得多，尤其是相比你自己逐个审查。\n\n很高兴宣布，我们将默认向所有人推出该功能，且分类器不增加额外成本。\n\n【引用 @ClaudeDevs】：自 8 月 14 日起，自动模式将成为 Claude Code 中 Pro、Max 和 Team 用户的默认权限模式。\n\n自动模式使用独立的分类器审查 shell 命令和操作。测试中，它捕获了 89% 的危险命令，而人工审批仅捕获了 14%。",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月8日3时5分"
+  },
+  {
+    "id": "cmsjcpoor064proo5eq732nvb",
+    "title": "OpenAI 将 Astra 列为首个\"严重\"网络安全模型",
+    "url": "https://x.com/kimmonismus/status/2085812651163296161",
+    "summary": "OpenAI 依据其 Preparedness Framework，将即将推出的 Astra 模型列为首个\"严重\"网络安全等级模型，因其内部评估显示该模型在智能体编码和网络攻击能力上取得重大进展，无法排除达到\"严重\"能力阈值的可能。OpenAI 已暂停 Astra 中未达强化安全要求的工作，并限制网络与工具访问、加强模型权重保护及监控智能体行为，同时表示正努力让 Astra 广泛可用。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日3时37分"
+  },
+  {
+    "id": "cmsjbsjl805ieroo52oejpphv",
+    "title": "Claude Code 自动模式将成默认权限模式",
+    "url": "https://x.com/bcherny/status/2085807103382519872",
+    "summary": "我和团队完全使用自动模式，已经好几个月了。我无法想象回到权限提示的日子！非常激动能把这个功能带给所有人。",
+    "source": "X：Boris Cherny (@bcherny)",
+    "date": "2026年8月8日3时15分"
+  },
+  {
+    "id": "cmsjbnd2505e9roo50wa9hco4",
+    "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
+    "url": "https://x.com/gdb/status/2085805983440499060",
+    "summary": "OpenAI 下一代模型 Astra 在智能体编码与网络安全评估中展现显著能力提升，被其 Preparedness Framework 列为首个\"关键\"网络安全模型。团队正加强安全管控以确保其安全开发，并计划将高级网络能力提供给防御方，推动 Astra 广泛可用。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月8日3时11分"
+  },
+  {
+    "id": "cmsjcplur062vroo5x91oo2fw",
+    "title": "DeepSeek V4 Flash 0731 在 ARC-AGI 基准上公布验证得分",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "summary": "DeepSeek V4 Flash 0731 在最大推理强度下，ARC-AGI-1 Semi-Private 得分 89.0%，每任务成本 $0.02；ARC-AGI-2 Semi-Private 得分 61.4%，每任务成本 $0.04。该模型在 ARC-AGI-1 和 ARC-AGI-2 上均提供 Max、High、Low 三档推理强度下的验证分数。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月8日3时10分"
+  },
+  {
     "id": "cmsj9hugb03kcroo5o9hav84d",
     "title": "蚂蚁百灵 Ling-3.0-flash 上线 DeepInfra",
     "url": "https://x.com/AntLingAGI/status/2085790064119087157",
@@ -24,6 +64,94 @@
     "date": "2026年8月8日2时5分"
   },
   {
+    "id": "cmsjbn3vv05atroo50l95bc03",
+    "title": "Roku 上线 Fairground AI 频道：无尽 AI 生成内容像\"从食槽里进食\"",
+    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "summary": "Roku 本周新增四个频道，其中 Fairground AI Creator TV 全天候播放 AI 生成视频，内容由与 Fairground 合作的内容创作者制作。该频道无法选择具体视频类型，观看约一小时后发现内容多为短格式\"slop\"，缺乏视觉打磨，但部分视频有半连贯叙事。Fairground 成立于 2025 年，向合作者支付生成费用及未披露的收入分成，但未提及所用模型及训练数据授权情况。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月8日2时59分"
+  },
+  {
+    "id": "cmsjbn0kl058nroo5kq0m0jws",
+    "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+    "url": "https://blog.cloudflare.com/kitesurf",
+    "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月8日2时54分"
+  },
+  {
+    "id": "cmsjbn0pq058vroo55qpgw1si",
+    "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
+    "url": "https://x.com/OpenAI/status/2085801349866729975",
+    "summary": "OpenAI 在评估其即将推出的模型 Astra 后，依据\"准备框架\"将其列为首个\"关键\"网络安全模型。OpenAI 表示已为此情景做好规划，并将实施额外控制措施以确保 Astra 后续开发的安全。该公司正努力让 Astra 广泛可用，并将其先进网络能力交到防御者手中。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月8日2时52分"
+  },
+  {
+    "id": "cmsjbn8p105crroo5y1ut21g9",
+    "title": "Grok Build 将面向非技术用户简化",
+    "url": "https://x.com/elonmusk/status/2085799495808204931",
+    "summary": "我们正在努力让 Grok Build 对非技术用户来说变得非常易于使用。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月8日2时45分"
+  },
+  {
+    "id": "cmsjbpju105garoo55we4snbh",
+    "title": "ChatGPT语音模式支持文件与项目",
+    "url": "https://x.com/testingcatalog/status/2085799350790226423",
+    "summary": "OPENAI 🔥：ChatGPT 上的 GPT Live 语音模式现已支持文件附件和项目。\n\n目前看来正在逐步推送中。\n\n测试时间 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月8日2时44分"
+  },
+  {
+    "id": "cmsjajxd904b7roo51ivsv71u",
+    "title": "Magnitude：Mac 上完全本地离线编码智能体",
+    "url": "https://x.com/dexhorthy/status/2085798511099220195",
+    "summary": "Magnitude 发布，一款 100% 本地、离线且开源的编码智能体，无需 token 费用或 API 密钥。其推理引擎内置于智能体，模型直接在电脑上运行，并自动检测硬件以推荐适配模型。支持终端操作、编辑文件、运行脚本，可通过技能扩展至 Excel、PPT、PDF 或 Chrome。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月8日2时41分"
+  },
+  {
+    "id": "cmsjbn3vv05auroo5hsf79hwa",
+    "title": "OpenAI 因 Astra 模型可能具备\"关键\"网络安全能力而暂停其开发",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "summary": "OpenAI 暂停了在研模型 Astra 的\"内部活动\"，因其内部评估显示该模型在智能体编码和网络安全方面有\"显著进展\"，且无法排除其达到《预备框架》下\"关键\"网络安全阈值的可能性。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月8日2时40分"
+  },
+  {
+    "id": "cmsjbn0kl058oroo56bc1q0i1",
+    "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "summary": "甲骨文以安全、知识产权风险为由，禁止OpenJDK贡献者提交AI生成的代码，但允许开发者私下用LLM调试和审查代码。该政策与公司内部实践形成鲜明对比：联合创始人Larry Ellison称AI模型已在编写甲骨文的代码，联合CEO Mike Sicilia也归功于AI工具让更小的工程团队交付更快。甲骨文今年将投资700亿美元扩建数据中心，S&P因此将其评级下调至BBB-。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月8日2时38分"
+  },
+  {
+    "id": "cmsjakm5504fgroo5toccxc5v",
+    "title": "AI 音乐生成器 Suno 收紧规则以打击垃圾信息并应对版权争议",
+    "url": "https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns",
+    "summary": "Suno 正面临使用受版权保护材料训练的指控，德国法院近期裁定其未经许可使用受版权保护歌曲进行训练，且美国合理使用原则不适用于此案。为此，Suno 推出新下载政策以限制批量分发，并强调其\"原创创作\"训练策略，包括从训练元数据中剔除艺术家姓名，以及与 Audible Magic 等第三方合作检查上传内容。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月8日2时35分"
+  },
+  {
+    "id": "cmsjakezl04cdroo5bbjhl7nw",
+    "title": "弗朗索瓦·乔莱：未来AI将走向符号学习",
+    "url": "https://x.com/fchollet/status/2085796727362052241",
+    "summary": "弗朗索瓦·乔莱（François Chollet）表示，他在2024年底o3测试时计算演示后改变了看法，认为LLM研究路线可实现无上限的能力扩展，\"不会有墙\"。但他仍预测15年后的AI不会基于LLM技术栈，而将转向其最优最终形态--符号学习。他认为当前技术在数据效率和测试时计算效率上距最优差4-6个数量级，未来AI将接近最优。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月8日2时34分"
+  },
+  {
+    "id": "cmsjaksyd04hlroo5hdy2qd4i",
+    "title": "Claude Code 八月起默认自动模式",
+    "url": "https://x.com/ClaudeDevs/status/2085794862608318627",
+    "summary": "自 8 月 14 日起，自动模式将成为 Claude Code 中 Pro、Max 和 Team 用户的默认权限模式。\n\n自动模式使用独立的分类器审查 shell 命令和操作。在测试中，它捕获了 89% 的危险命令。手动审批仅捕获了 14%。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月8日2时27分"
+  },
+  {
     "id": "cmsj9i1p103ndroo51a852k4w",
     "title": "AMD 收购 Taalas，将 AI 模型直接烧录进芯片",
     "url": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon",
@@ -38,6 +166,22 @@
     "summary": "一个小而强大的模型，快和我们的合作伙伴 @kilocode 一起试试吧！它足够小，可以在很多不同的……设备上自托管 😈 期待你的创作！\n\n【引用 @kilocode】：用更少的算力获得更多智能？我们加入 😎\n\n今天就在 Kilo 中试试 Ling-3.0-tiny。限时完全免费。",
     "source": "X：蚂蚁百灵 (@AntLingAGI)",
     "date": "2026年8月8日2时1分"
+  },
+  {
+    "id": "cmsjakgyq04dhroo5pgkrzdyu",
+    "title": "教育内容季结束，回归研究写作",
+    "url": "https://x.com/natolambert/status/2085792591585419708",
+    "summary": "教育内容季结束了，回到埋头研究和日常写作的状态。⛵️",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月8日2时18分"
+  },
+  {
+    "id": "cmsjakifz04e8roo59tiltssf",
+    "title": "Opus 5 被评差，网友调侃改用 Fable 5",
+    "url": "https://x.com/kimmonismus/status/2085791331557720562",
+    "summary": "人们总说：没错，Opus 5 不行。改用 Fable 5 吧。\n\nFable 5 的反应是：",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日2时13分"
   },
   {
     "id": "cmsj9i6ah03p6roo5nxfkziht",
