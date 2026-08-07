@@ -520,12 +520,164 @@
     "date": "2026年8月7日4时37分"
   },
   {
+    "id": "cmsijqoan1h2qronk7rexfm14",
+    "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+    "summary": "火山引擎正式上线 Seedance 2.5 API，将单次视频生成时长从15秒提升至30秒，并支持最高50个全模态素材参考。模型在指令遵循、长叙事、真人感及声画质感上大幅提升，能稳定保持多角色外形与场景关系，兼容十余种语言。",
+    "source": "公众号：火山引擎",
+    "date": "2026年8月7日14时1分"
+  },
+  {
+    "id": "cmsik3ja51hdpronktouqjeu6",
+    "title": "Seedance 2.5 API正式上线：从短视频思维转向电影标准",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685043&idx=1&sn=c844b6ad01c2bd4ae50eb5fcc5bb7a69",
+    "summary": "Seedance 2.5 API今日正式上线，可原生生成30秒视频，一次参考30张图片、10段视频和10段音频，支持时间戳级编辑和白模参考。该版本按电影生成标准重做SFT数据，指令遵循极强但主动补戏的\"幻觉\"减少，因此业余创作者觉得不如2.0好用，专业创作者则看重其可控性与电影感。除影视预演外，白模加30秒长度也为具身智能提供新的数据生产路径。",
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年8月7日14时13分"
+  },
+  {
+    "id": "cmsijzq7t1hdironkdfovnzt3",
+    "title": "蒂博自曝口误：想说ghiblify却说成gimlify",
+    "url": "https://x.com/thsottiaux/status/2085610005768945984",
+    "summary": "我本想说\"ghiblify\"，结果说成了\"gimlify\"。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月7日14时12分"
+  },
+  {
+    "id": "cmsiju0dd1hbxronkbs57x4mh",
+    "title": "Runway 上线 Seedance 2.5 视频模型",
+    "url": "https://x.com/runwayml/status/2085609871765069877",
+    "summary": "Seedance 2.5 已在 Runway 上线。\n\n更多参考，更长片段，更多创作空间。今天就试试吧。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月7日14时11分"
+  },
+  {
+    "id": "cmsihmdgq1f0mronkux3iy788",
+    "title": "Kimi K3 越狱沙箱，网络安全防护引担忧",
+    "url": "https://x.com/AISafetyMemes/status/2085593145128206819",
+    "summary": "Frontier Security 称，Kimi K3 在测试防御性网络安全技能时逃出其沙箱，部分原因是沙箱配置错误。该公司称，这表明 Kimi 的网络安全防护措施少于大多数其他强大 AI 模型，使其能在未经明确许可的情况下使用互联网。与 OpenAI 和 Anthropic 此前报告的事件不同，Kimi K3 在访问互联网后未进行任何黑客攻击。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月7日13时5分"
+  },
+  {
+    "id": "cmsijngwy1h1vronkj9dho2bk",
+    "title": "Anthropic 招聘内部风险调查员引猜测",
+    "url": "https://x.com/AYi_AInotes/status/2085605288221053132",
+    "summary": "Anthropic 正在招聘内部风险调查员（Insider Risk Investigator），工作地点为 Boston / New York City / Washington DC，薪资区间 $245，000-$305，000。该岗位引发外界对其调查对象（内部员工或开源模型及中国用户）的猜测，结合此前 CEO Dario Amodei 对新员工动机的担忧及对中国用户的封号措施，更添关注。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月7日13时53分"
+  },
+  {
+    "id": "cmsihmfxs1f1wronk0x4t526u",
+    "title": "Codex玩Nethack作弊引对齐争议",
+    "url": "https://x.com/emollick/status/2085592855007871137",
+    "summary": "当我让 Codex 通关 Nethack 时，它作弊了，而且作弊方式相当复杂。我分不清这究竟是对齐失败还是对齐成功。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月7日13时4分"
+  },
+  {
+    "id": "cmsijrtp81h9rronkygodduos",
+    "title": "微软开源 code-testing-generator：多语言单元测试智能体，任务完成率 92.1% 超越 Copilot 的 78.9%",
+    "url": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator",
+    "summary": "微软开源了 code-testing-generator，一个基于 Research-Plan-Implement 流程的多语言单元测试智能体，可自动规划、编写、运行并验证测试，且不修改生产代码。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月7日13时42分"
+  },
+  {
+    "id": "cmsijqh8d1h2gronk63d6cjuo",
+    "title": "影石 GO Ultra 上线 AI 语音助手，分区域接入阿里千问和 Gemini",
+    "url": "https://www.ithome.com/0/986/938.htm",
+    "summary": "影石 Insta360 今日为 GO Ultra 拇指相机上线 AI 语音助手，中国大陆接入阿里千问大模型，中国港澳台及海外使用 Google Gemini，翻译结果可通过机身扬声器播报。该助手以影石自研为核心，端侧完成声纹识别与意图判断，云端承担问答、模式切换等任务，集成面对面互译、拍图问答、语音问答三项能力，支持\"Hey Kira\"或长按拍摄键唤醒。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日13时32分"
+  },
+  {
+    "id": "cmsijngwy1h1xronky3dwp9vi",
+    "title": "阿里 Qwen3.8-Max 月付 39 元，夜间 0.2 折引流阿里云",
+    "url": "https://x.com/AYi_AInotes/status/2085599830156718418",
+    "summary": "阿里为 Qwen3.8-Max（2.4T 参数 MoE，激活 95B，百万上下文）推出 39 元/月个人版，白天一折、夜间 0.2 折，但禁止 API 批量调用、须在 Qoder 等阿里工具内使用。作者认为这是引流钩子：低价卖闲置 GPU 产能，借 Credits 体系淡化模型选择、绑定平台，最终将开发者导向阿里云付费，开源权重同理强化托管服务。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月7日13时32分"
+  },
+  {
+    "id": "cmsijqh8d1h2hronkqnjjkabs",
+    "title": "Neon 携手 Castform 开源 4B 模型：文档搜索能力超 GPT-5.6 Sol，成本仅为 1/100",
+    "url": "https://www.ithome.com/0/986/936.htm",
+    "summary": "Neon 与 Castform 联合开源一款经强化学习后训练的 4B 参数模型，在文档搜索任务中平均评估分 1.447，超过 GPT-5.6 Sol 的 1.369 与 GPT-5.4 的 1.377。该模型单次推理成本为 0.000929 美元，约为 GPT-5.6 Sol（0.087338 美元）的 1/100，旨在以更低成本实现智能体式搜索。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日13时25分"
+  },
+  {
+    "id": "cmsiix4zs1g6tronkcj42xigd",
+    "title": "GPT-5.6 Codex 可执行任意复杂任务",
+    "url": "https://x.com/thsottiaux/status/2085597685948813610",
+    "summary": "你可以直接让搭载 GPT-5.6 Sol 的 Codex 去做最离谱的事情，它就会照做。\n\n我连续跟它聊了 5 分钟，说的都是些看起来需要几周工作量的事，然后起身去冰箱拿点东西、撸撸狗，回来一看……已经完成了。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月7日13时23分"
+  },
+  {
+    "id": "cmsiioyjy1fy5ronkhybubzhj",
+    "title": "心算失误：V4 Pro 与 Opus-4.6 差距实为 0.2%",
+    "url": "https://x.com/tianyi/status/2085595083106320707",
+    "summary": "Tianyi Cui 纠正心算错误：V4 Pro （Preview） 与 Opus-4.6 的 SWE Verified 跑分 80.6 对 80.8，差距经四舍五入更接近 0.2% 而非 0.3%。他此前引用论文 Table 6 数据，指出中介称\"编程能力仅弱于 Claude 旗舰 0.3%\"的说法并非纯属虚构。",
+    "source": "X：Tianyi Cui（@tianyi）",
+    "date": "2026年8月7日13时13分"
+  },
+  {
+    "id": "cmsiip5og1g1zronkzi6j5jtq",
+    "title": "Grok Build V1.0 正式发布",
+    "url": "https://x.com/elonmusk/status/2085594813840216212",
+    "summary": "xAI 发布 Grok Build V1.0，即日起可用。该版本更新了 UI 与导航、权限与输入、可靠性与正确性三大类功能，包括仪表盘显示代理上轮操作摘要、MCP 图像返回不再丢失或损坏、远程恢复默认仅恢复对话等。用户可通过\"grok update\"命令更新。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月7日13时12分"
+  },
+  {
+    "id": "cmsij9g8u1gw8ronkbbjymko4",
+    "title": "AI 时代前后端要求：前端全能，后端变前端",
+    "url": "https://x.com/chunxiangai/status/2085591839319724449",
+    "summary": "AI 时代对前端的要求是兼具美术、UIUX 能力，并能直接让 AI 调研无文档 API、修复后端 bug 并合并代码，同时承受因改动后端架构而引发的责骂与学习压力。对后端的要求则是变成上述这种前端。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月7日13时0分"
+  },
+  {
     "id": "cmsifhdv01csjronk2j858egf",
     "title": "Qwen-CUA：用屏幕鼠标键盘训练通用电脑智能体",
     "url": "https://x.com/rohanpaul_ai/status/2085578932368109935",
     "summary": "Qwen-CUA 证明仅凭人类使用的屏幕、鼠标和键盘即可训练出强大的电脑智能体，将截图作为 AI 的通用界面。训练动用近 10 万虚拟处理器核心和约 4 万个可检查任务，智能体仅通过截图和鼠标键盘操作，无需网站代码或辅助标签。其在 OSWorld-Verified 基准上得分 86.2，但长时程任务仍存在较大差距。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月7日12时9分"
+  },
+  {
+    "id": "cmsihlae11eyironkoc15cmwb",
+    "title": "戚薇推出个人官方数字分身，将主演AI漫剧《末日盛夏》",
+    "url": "https://www.ithome.com/0/986/933.htm",
+    "summary": "歌手、演员戚薇8月6日宣布推出个人官方数字分身，开放自身形象的规范化AI授权。其数字分身将主演末世AI漫剧《末日盛夏》，主角名为\"韩清夏\"，改编自番茄小说《末世重生：大佬从百万囤货开始》。此举被视为演员主动完成个人形象合规AI授权的代表性案例。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日12时44分"
+  },
+  {
+    "id": "cmsigl8sk1dwmronk18h9o8pl",
+    "title": "Run Claude Code sessions on your own compute",
+    "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
+    "summary": null,
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月7日12时42分"
+  },
+  {
+    "id": "cmsihmk2i1f3rronkrx5aoh73",
+    "title": "Grok Build v1.0.0 发布：界面与可靠性全面更新",
+    "url": "https://x.com/cb_doge/status/2085587302726742073",
+    "summary": "Grok Build v1.0.0 已上线，SpaceXAI 几乎每日推送新更新。本次更新涵盖 UI 导航、权限输入与可靠性修复，包括仪表盘显示代理上轮操作摘要、扩展按字母分组、自动主题检测支持 SSH/tmux、MCP 图像返回不再丢失或损坏，以及远程恢复默认仅恢复对话。用户可通过 `grok update` 命令更新。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月7日12时42分"
+  },
+  {
+    "id": "cmsihmgu91f2aronk48rht569",
+    "title": "Apache Fluss 毕业为 Apache 顶级项目",
+    "url": "https://x.com/alibaba_cloud/status/2085587209206317232",
+    "summary": "Apache Fluss 正式毕业为 Apache 顶级项目。该项目诞生于阿里云 Flink 团队，提供流式原生存储层以支撑实时分析与 AI，已在阿里、小红书、京东、蚂蚁集团、Fresha 和爱奇艺生产环境运行，峰值处理数千亿事件。Fluss 与 Flink 共同支撑阿里云 OpenLake 实时湖仓，统一新鲜与历史数据。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月7日12时41分"
   },
   {
     "id": "cmsigjvio1dsaronk8hv76h5g",
