@@ -1,11 +1,27 @@
 [
   {
+    "id": "cmsjhkcut0a6jroo592eci7th",
+    "title": "DeepSeek V4 Flash 低推理预算下仍近满分",
+    "url": "https://x.com/dongxi_nlp/status/2085835844984692910",
+    "summary": "DeepSeek V4 Flash 在 ARC-AGI-1 上以低推理预算即得约 84 分，最高约 89 分，额外推理仅多解 5 题，表明其后训练产生了异常高效的抽象推理。该模型 ARC-AGI-2 得分 61.4%（$0.04/任务），ARC-AGI-1 得分 89.0%（$0.02/任务），树立了性价比帕累托前沿新标准。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月8日5时9分"
+  },
+  {
     "id": "cmsjfxfoz08r5roo5066nkt3q",
     "title": "AI2027预测之准令人惊叹",
     "url": "https://x.com/kimmonismus/status/2085834526526189975",
     "summary": "\"AI2027\"的预测准确得离谱。\n\n而且它仍然落后于实际时间线。\n\n事情发生得比任何人预期的都要快。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月8日5时4分"
+  },
+  {
+    "id": "cmsjh01gp09hdroo540de1g3v",
+    "title": "OpenAI Astra 因安全风险推迟发布",
+    "url": "https://x.com/kimmonismus/status/2085843928666767752",
+    "summary": "OpenAI 的 GPT-Astra（预计以 GPT-6 名义发布）因安全风险确认推迟，不会按预期下周推出。内部部分工作（可能含训练）将暂停直至满足新安全要求，整体开发在更严格管控下继续。作者认为这反而证明模型能力提升已跨过影响社会运作的阈值，且中国模型（如开源的 Kimi K3）不会因此放缓，可能借此追赶。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日5时42分"
   },
   {
     "id": "cmsjfxm9x08tkroo55przvm1g",
@@ -16,12 +32,44 @@
     "date": "2026年8月8日5时3分"
   },
   {
+    "id": "cmsjgzya509f6roo52s1z4n1l",
+    "title": "Rippling 推出 AI Spend Console，帮企业追踪并控制 AI 支出",
+    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+    "summary": "Rippling 发布 AI Spend Console，可追踪个人、团队和岗位的 AI 花费，并衡量其是否真正提升生产力。该工具源于 Rippling 年初 AI 支出失控：曾以每月 80% 的速度增长，一度占研发人力预算的 40%，一名工程师月耗 5 万美元。Rippling 通过自建 AI 网关将 token 成本降至人力预算的 15%，7 月 token 花费仅为 4 月的 37%。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月8日5时30分"
+  },
+  {
+    "id": "cmsjh00gu09gtroo5mtrf6ywe",
+    "title": "Replit 半年代码产出翻三倍",
+    "url": "https://x.com/Replit/status/2085840934768402669",
+    "summary": "过去 6 个月，Replit 的代码产出几乎翻了三倍。\n\n质量保持稳定。没有出任何问题。\n\n我们开始成为一家自动驾驶公司。\n\n这实际上意味着什么 🧵",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月8日5时30分"
+  },
+  {
     "id": "cmsjfxda908pdroo5dr0iyopk",
     "title": "Databricks 将 AI 编码支出降低 70%：规模化成本管理实践",
     "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
     "summary": "Databricks 通过迁移至更高效模型、动态路由及元 harness 等策略，将 AI 编码支出降低 70%，同时保持每用户成本大致固定。该公司已开源其关键基础设施组件 Omnigent 与 Unity AI Gateway。Stripe 等企业发现 Opus 4.7 较 4.6 质量无提升且成本更高，因此未内部部署。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月8日5时2分"
+  },
+  {
+    "id": "cmsjgzga009e8roo52c9a7yi7",
+    "title": "Dex Horthy 称 Luna Low 是最懒模型",
+    "url": "https://x.com/dexhorthy/status/2085836881657299196",
+    "summary": "天哪，我觉得 Luna Low 可能是目前世界上最懒的模型了。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月8日5时14分"
+  },
+  {
+    "id": "cmsjh070p09jfroo5iep61594",
+    "title": "用 NVIDIA NeMo Retriever 构建多模态 RAG 流水线：托管 NIM、LanceDB、重排序与 grounded 生成",
+    "url": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation",
+    "summary": "本教程演示如何用 NVIDIA NeMo Retriever 构建多模态 RAG 流水线：先以 PDFium 离线提取 PDF 文本，再通过托管 NIM 端点检测页面元素、抽取表格/图表/信息图并生成稠密向量存入 LanceDB。随后实现稠密检索、视觉-语言重排序、元数据过滤搜索及带内联引用的 grounded 生成，并用 recall-at-k 评估检索质量。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月8日5时13分"
   },
   {
     "id": "cmsjdsiyf076droo5odyiwnyk",
