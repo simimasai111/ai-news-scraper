@@ -1,5 +1,405 @@
 [
   {
+    "id": "cmsi6wky312npronkce8kux3u",
+    "title": "周末黑客松挑战：克隆SaaS赢1万美元",
+    "url": "https://x.com/swyx/status/2085517544795079014",
+    "summary": "swyx 提议举办小型远程黑客松：他提供1000美元token费用，参赛者周末克隆其团队正考虑购买的企业SaaS（年费超4万美元），团队评估后胜者获1万美元现金及播客报道，代码全部开源。此举旨在测试高利润低壁垒SaaS的可替代性，并持续挑战更复杂的SMB软件。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月7日8时5分"
+  },
+  {
+    "id": "cmsi6wasc12m6ronkohdchqzt",
+    "title": "很多人确实喜欢能量",
+    "url": "https://x.com/gabriel1/status/2085517156754882646",
+    "summary": "很多人确实喜欢能量",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月7日8时3分"
+  },
+  {
+    "id": "cmsi6vfc712gbronk0lvrl6nj",
+    "title": "曝 OpenAI 最快下周推出 Astra 模型，系 GPT-4.5 以来训练的最大模型",
+    "url": "https://www.ithome.com/0/986/789.htm",
+    "summary": "消息源爆料称，OpenAI 目标下周发布内部代号为 mewfour 的 Astra 模型，这是其自 GPT-4.5 以来训练的最大全新预训练模型。该模型可组织和协同 AI 智能体，适合长周期、高难度任务，面向更强的推理和协作型工作流。此前有报道称，Astra 一个内部版本已解出 10 个重要开放数学问题，按 Sol API 费率计算所需 token 成本约 2，000 美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日8时3分"
+  },
+  {
+    "id": "cmsi6vvx612jhronkkyyfa9an",
+    "title": "Codex语音模式构建机器人背带",
+    "url": "https://x.com/jxnlco/status/2085516570567262495",
+    "summary": "Codex语音模式正在构建机器人背带\n\n机器人正在将其能力反馈回语音模式……\n\n太棒了。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月7日8时1分"
+  },
+  {
+    "id": "cmsi6w8u112lyronkhee90p2a",
+    "title": "OpenAI 首款消费设备：无屏 AI 音箱定价 300-400 美元",
+    "url": "https://x.com/rohanpaul_ai/status/2085516390833009077",
+    "summary": "彭博社报道，OpenAI 首款消费设备是一款冰球大小的无屏 AI 音箱，定价 300-400 美元，计划 2027 年发布。设备采用环形设计，内置电池、麦克风、摄像头及灯光运动部件，以灯光和动作作为交互界面，并通过摄像头感知周围视觉环境、随时间学习用户偏好。该音箱是 OpenAI 设备家族首款产品，最终目标是取代智能手机的硬件。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日8时0分"
+  },
+  {
+    "id": "cmsi4q9j110amronkuxfz96zq",
+    "title": "英伟达开源 cuFile API，让 SSD 充当额外显存减少游戏卡顿",
+    "url": "https://www.ithome.com/0/986/777.htm",
+    "summary": "英伟达在 2026 年黑帽大会上宣布开源 cuFile API 及其底层存储软件栈，该技术可让 SSD 充当额外显存，改善游戏或 AI 场景运行表现。cuFile 依托 DMA 将 NVMe 硬盘数据直接送入 GPU 内存，绕过主内存中转，实现毫秒级低延迟，缓解分布式 GPU 阵列中的\"GPU 饥饿\"问题。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日7时7分"
+  },
+  {
+    "id": "cmsi6w8u112lzronki3ov3wng",
+    "title": "Grok 4.5 以 13 倍低成本击败 Kimi K3",
+    "url": "https://x.com/rohanpaul_ai/status/2085512712881357146",
+    "summary": "AI/ML API 用同一提示词、一次性任务对比四款模型生成 3D 玩偶的成本：Grok 4.5 仅 $0.15，GPT 5.6 Sol 为 $0.60，Qwen 3.8 Max 为 $0.67，而 Kimi K3 高达 $1.98。Kimi 思考约 19 分钟，费用是 Grok 的 13 倍。对生产级智能体而言，单次任务完成成本正变得比单 token 价格更重要。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日7时45分"
+  },
+  {
+    "id": "cmsi6vfc712gdronk9p787ewc",
+    "title": "DeepSeek 官宣拟大幅上调 API 定价；OpenAI 将 ChatGPT 免费用户默认模型升级为 GPT-5.6 Luna",
+    "url": "https://www.ithome.com/0/986/785.htm",
+    "summary": "DeepSeek 发布公告，计划近期整体上调 API 服务定价，预计涨幅较大，当前 API 按输入输出 Token 分别计费，分缓存命中情况计价。OpenAI 宣布将 ChatGPT 免费用户默认模型升级为 GPT-5.6 Luna，并为 Plus 和 Pro 用户更新聊天界面至 GPT-5.6 Sol。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日7时43分"
+  },
+  {
+    "id": "cmsi6vfc712geronk947bmhyl",
+    "title": "为缓解 HBM 供应短缺，消息称英伟达考虑降低 Rubin Ultra GPU 配置",
+    "url": "https://www.ithome.com/0/986/784.htm",
+    "summary": "英伟达为应对 HBM 内存供应短缺，考虑降低 Rubin Ultra GPU 配置。据 The Information 援引 3 名知情人士消息，英伟达内部在过去数周至少测试了 3 种低 HBM 配置的 Rubin Ultra GPU，其所需 HBM 容量低于最初公布规格。可能的降级路径包括从 HBM4E 下调至 HBM4、从 12Hi HBM 下调至 8Hi HBM。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日7时40分"
+  },
+  {
+    "id": "cmsi6vfc712gfronkm6kb4pfv",
+    "title": "前小鹏副总裁陈永海加入众擎机器人，担任运营总裁",
+    "url": "https://www.ithome.com/0/986/783.htm",
+    "summary": "前小鹏集团产品副总裁陈永海已加入众擎机器人，担任运营总裁，向董事长及CEO赵同阳汇报。陈永海今年1月从小鹏离职，曾有意亲自创业做机器人，最终选择加入众擎。众擎由赵同阳于2023年下半年创办，今年4月完成2亿美元B轮融资，估值超100亿元人民币。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日7时36分"
+  },
+  {
+    "id": "cmsi5t14s11b4ronkoj04p2e1",
+    "title": "Muse Spark 1.2 登顶 Meta 成本效益前沿",
+    "url": "https://x.com/ArtificialAnlys/status/2085509023852572804",
+    "summary": "Muse Spark 1.2 以 $1.25/$4.25 每百万 token 定价，登上 Meta 智能指数与单任务成本帕累托前沿，智能水平接近 Claude Opus 4.8（max，$2.03），单任务成本仅为后者五分之一。相比 Muse Spark 1.1（$0.29/任务），1.2 版每 token 定价不变，成本上升源于智能体任务更重的 token 消耗。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月7日7时31分"
+  },
+  {
+    "id": "cmsi6vfc712gironk3e9q12ks",
+    "title": "SpaceX 将为得州 AI 芯片工厂 Terafab 建造天然气发电厂",
+    "url": "https://www.ithome.com/0/986/780.htm",
+    "summary": "SpaceX 宣布将与特斯拉首期投入 168 亿美元（约合 1，136.05 亿元人民币），在得克萨斯州格赖姆斯县建设 Terafab 先进 AI 芯片制造基地。SpaceX 回应环保担忧，称运营不会推高电费、耗尽水源或导致纳瓦索塔河水位下降，并将自建天然气发电厂和超大型电池阵列为厂区供电，而非接入 ERCOT 主电网。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日7时20分"
+  },
+  {
+    "id": "cmsi5tpsg11e1ronkci50i8vr",
+    "title": "Energy 发布：前 OpenAI 员工瞄准计算机使用市场",
+    "url": "https://x.com/gabriel1/status/2085506228801937485",
+    "summary": "前 OpenAI 员工 Gabriel 离职三个月后推出 AI 产品 Energy，主打让 AI 在电脑上完成全部工作。其团队认为目前仅不足 1% 的旧金山以外人群了解\"计算机使用\"的价值，市场近乎空白，因此选择边公开构建边探索用户增长。现有用户已能实现\"数天工作数小时完成\"。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月7日7时20分"
+  },
+  {
+    "id": "cmsi5sy2s118zronksld82tj9",
+    "title": "AMD 收购 Taalas，通过将模型蚀刻到硅片中提升推理性能",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "summary": "AMD 收购 AI 芯片初创公司 Taalas，后者通过将模型直接蚀刻到硅片中来提升推理性能。该交易旨在强化 AMD 在 AI 推理硬件领域的竞争力，具体财务条款未披露。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月7日7时1分"
+  },
+  {
+    "id": "cmsi5sy2s1192ronkt3lk2z88",
+    "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月7日7时1分"
+  },
+  {
+    "id": "cmsi5sy2s1193ronkiesfqj5n",
+    "title": "当编程的\"墙\"消失后，剩下的只有品味",
+    "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+    "summary": "作者认为，AI 让\"从想法到成品\"的距离几乎归零，但过去靠试错和成本磨炼出的判断力--品味--并未消失，而是成为唯一不可自动化的核心能力。品味源于长期与错误共处，而非消费优秀作品；当摩擦被移除，新一代开发者虽更高效，却可能跳过培养品味的学徒期。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月7日7时1分"
+  },
+  {
+    "id": "cmsi6vfc712gjronk91okob0n",
+    "title": "效力 27 年后谷歌首席科学家迪恩离职创立 Discovery Loop，要加速 AI 前沿发现",
+    "url": "https://www.ithome.com/0/986/779.htm",
+    "summary": "谷歌首席科学家杰夫·迪恩在 DeepMind 重组中离开公司，与桑杰·格马瓦特、郭乐、奥里奥尔·维尼亚尔斯共同创办公益性公司 Discovery Loop，旨在利用 AI 加速科学研究。该公司将开发先进 AI 系统，通过自动化完整实验循环改变创新效率，已获 Alphabet 等机构支持，首轮融资由 Radical Ventures 和 Khosla Ventures 领投。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日7时19分"
+  },
+  {
+    "id": "cmsi5tq5311ehronk3grs5crr",
+    "title": "AMD顶尖AI工程师多在上海，ROCm核心在华构建",
+    "url": "https://x.com/SemiAnalysis_/status/2085505657927500206",
+    "summary": "AMD 顶尖的 10 倍效率 AI 工程师大多在上海 🔥 其中包括 AMD 的 MoRI 团队、UMBP KV-cache 卸载与池化团队、其分离式应用的前沿部署工程团队，以及其他深谙从第一性原理入手进行推理工程的 AMD 团队。\n\nROCm 软件栈的许多最关键组件均在中国大陆构建。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月7日7时17分"
+  },
+  {
+    "id": "cmsi5sy2s118yronk9echzr24",
+    "title": "Herdr 加入 Y Combinator，运行时保持开源",
+    "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator",
+    "summary": "Herdr 创始人 Can 宣布项目加入 Y Combinator F26 批次，并将组建小团队将其发展为一家公司。目前使用的运行时保持免费，许可证已从 AGPL 切换为 Apache-2.0。该项目已获 25k stars 和 340k 下载，并拥有超过 500 个插件。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月7日7时16分"
+  },
+  {
+    "id": "cmsi5ttx811fdronklaxw51sv",
+    "title": "水卢实习生四大AI论点获验证，谁接棒成悬念",
+    "url": "https://x.com/swyx/status/2085504717829058569",
+    "summary": "@waterloo_intern 在 swyx 播客上提出的四大论点--megakernels 已死、ASIC 已死、GPU 内核开发已死、NVIDIA 不惧 AMD--近期均获验证。他道歉称\"每个判断都正确\"，并指出数据中心 Transformer 推理 ASIC 公司押注架构收敛失败。主推文追问：剩余两大论点（GPU 内核开发、NVIDIA 与 AMD）将由谁继续验证？",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月7日7时14分"
+  },
+  {
+    "id": "cmsi4qemr10cbronkecygzqd3",
+    "title": "Replit 创吉尼斯纪录：1.4万人共上AI课",
+    "url": "https://x.com/Replit/status/2085501387714986373",
+    "summary": "一项吉尼斯世界纪录--规模最大的AI视频课程：14，075人在同一场直播中共同学习。\n\n祝贺 @KanzHire 以及每一位到场让这一切成真的人。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月7日7时0分"
+  },
+  {
+    "id": "cmsi2l81b0ymrronkd19tc96n",
+    "title": "Claude Tag 更新：减少打扰并修复发布位置",
+    "url": "https://x.com/noahzweben/status/2085488359502409799",
+    "summary": "我们一直在根据反馈努力调优 Claude Tag：\n* 在未经提示时主动插话的情况应显著减少（降低 30%）\n* Sonnet 5 发布到频道而非帖子的情况应已修复（减少 90%）\n\n请继续发送反馈，我们会持续调优！",
+    "source": "X：Noah Zweben（@noahzweben）",
+    "date": "2026年8月7日6时9分"
+  },
+  {
+    "id": "cmsi2m1or0yqrronk1k20vcfo",
+    "title": "OpenAI黑帽大会详述HF事件时间线",
+    "url": "https://x.com/gdb/status/2085488217030266943",
+    "summary": "团队在黑帽大会上的演讲，详细梳理了OpenAI-Hugging Face事件的时间线与经验教训：https://www.youtube.com/watch?v=87DyyMV0kCY",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月7日6时8分"
+  },
+  {
+    "id": "cmsi4r8jn10hkronk5xayom45",
+    "title": "GPT 5.6 个人理财 AI 能力再升级",
+    "url": "https://x.com/gdb/status/2085500884239413600",
+    "summary": "OpenAI 联合创始人 Greg Brockman 表示，个人理财 AGI 时代已至，相关实验基于 GPT 5.2 运行，若在今天进行结果会更强。OpenAI 在 5.5 时期发布的 Personal Finance benchmark 较 5.3 有巨大提升，如今已推进至 5.6，虽无外部基准数据，但性能更优。团队仍需帮助用户提出更好的问题以获得最佳答案。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月7日6时58分"
+  },
+  {
+    "id": "cmsi4r8gy10hironkuo4x4gmz",
+    "title": "Agent Plugins 开放标准与 Harbor 规范呼应",
+    "url": "https://x.com/swyx/status/2085500541707456908",
+    "summary": "你有没有注意到 plugins 规范与 @harborframework 规范之间有趣的对应关系……\n\n你知道接下来会发生什么，对吧",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月7日6时57分"
+  },
+  {
+    "id": "cmsi4q9j110anronkbxsrqsg1",
+    "title": "OpenAI 将 ChatGPT 免费用户默认模型升级为 GPT-5.6 Luna，Plus 和 Pro 用户更新 GPT-5.6 Sol 聊天界面",
+    "url": "https://www.ithome.com/0/986/776.htm",
+    "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 模型回答事实准确性更高、重点更突出，新增滑动条可调节回复思考深度，该版本仅限常规对话界面使用。免费和 Go 用户默认模型升级为 GPT-5.6 Luna，下周起全面开放无限次文本聊天，复杂问题可通过全新\"思考\"按钮调用高阶推理能力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日6时52分"
+  },
+  {
+    "id": "cmsi4q9j110aoronkxah0fh5m",
+    "title": "古尔曼爆料 OpenAI 首款 AI 硬件：甜甜圈造型、冰球大小，先进语音交互等",
+    "url": "https://www.ithome.com/0/986/775.htm",
+    "summary": "彭博社古尔曼爆料，OpenAI 首款 AI 硬件为冰球大小的\"甜甜圈形\"设备，由 OpenAI 与前苹果设计师乔纳森·伊夫合作开发，定位无显示屏的智能音箱，面向家庭场景。该设备售价预估 300 到 400 美元，有望 2027 年发布，配备可移动部件、灯光、摄像头及传感器，交互机制类似手机端 ChatGPT 语音模式，将使用更先进模型支持接近人类的交流。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日6时47分"
+  },
+  {
+    "id": "cmsi6vj5i12gzronkxcpgr4tu",
+    "title": "OpenAI 新款 AI 智能音箱据报售价 300 至 400 美元",
+    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
+    "summary": "OpenAI 与 Jony Ive 设计工作室 LoveFrom 合作开发的 AI 智能音箱据报将采用\"甜甜圈\"造型，由\"高品质金属\"制成，并带有独特\"活动部件\"，售价约 300 至 400 美元。该设备被描述为 ChatGPT 的\"物理化身\"，预计 2027 年发布。目前 OpenAI 正因涉嫌窃取商业机密被苹果起诉，OpenAI 已否认不当行为。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月7日6时43分"
+  },
+  {
+    "id": "cmsi4qckt10b9ronk8qdrregb",
+    "title": "OpenAI 新款 AI 智能音箱据报售价 300-400 美元",
+    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400",
+    "summary": "OpenAI 与 Jony Ive 设计工作室 LoveFrom 合作开发的 AI 智能音箱据报将采用\"甜甜圈\"造型，由高品质金属制成并带有可动部件，预计售价 300-400 美元，高于亚马逊主流智能音箱的 40-240 美元区间。该设备被描述为 ChatGPT 的\"物理化身\"，计划于 2027 年发布。OpenAI 正因涉嫌窃取商业机密遭苹果起诉，公司已否认相关指控。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月7日6时43分"
+  },
+  {
+    "id": "cmsi4r8jn10hlronkvcug9gvc",
+    "title": "Codex 可为 GitHub PR 执行安全审查",
+    "url": "https://x.com/gdb/status/2085496677725860064",
+    "summary": "Codex 现可对每个 GitHub 拉取请求执行安全审查，并将发现的问题直接内联展示。该功能属于研究预览版，会利用仓库上下文深入检查 PR 中的安全漏洞，并在 PR 内直接呈现可操作的结果。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月7日6时42分"
+  },
+  {
+    "id": "cmsi2l7g50ym7ronk6dnvf2d0",
+    "title": "Replit 携手 Clerk 支持 SSO 登录",
+    "url": "https://x.com/Replit/status/2085488664918835669",
+    "summary": "你在 Replit 上构建了一款更优秀的 SaaS 应用。\n\n你赢得了第一批客户。\n\n他们要求使用 SSO 登录。\n\n借助 @clerk，我们现在为你处理这一切。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月7日6时10分"
+  },
+  {
+    "id": "cmsi22osk0y91ronktovbgklj",
+    "title": "AMD 收购 Taalas，其芯片跑 Llama 8B 达 15k tokens/秒",
+    "url": "https://x.com/EMostaque/status/2085473398587564176",
+    "summary": "AMD 宣布收购 AI 推理芯片公司 Taalas，后者硬件围绕模型设计，号称全球最快且最具成本效益的推理硅。Taalas 首次流片演示中，以 Llama 8B 模型实现每秒 15k tokens 的处理速度，且该能力可扩展蚀刻至硅片上。Emad Mostaque 认为随着模型趋于满足需求，蚀刻方案（尤其三元模型）意义凸显，并看好 AMD。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月7日5时9分"
+  },
+  {
+    "id": "cmsi2lsjw0yoxronka80mjswf",
+    "title": "谷歌调整DeepMind领导层，Hassabis转任首席科学家",
+    "url": "https://x.com/rohanpaul_ai/status/2085485761806377273",
+    "summary": "谷歌宣布DeepMind重大领导层调整：Demis Hassabis将出任Google DeepMind主席及Alphabet首席科学家，退出日常管理，专注AGI战略与科研，由Kavukcuoglu负责Gemini交付。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日5时58分"
+  },
+  {
+    "id": "cmsi2oqs70ysmronkn8bok15b",
+    "title": "OpenAI 甜甜圈形智能音箱 2027 年发布",
+    "url": "https://x.com/testingcatalog/status/2085484507067539661",
+    "summary": "据 Bloomberg，OpenAI 即将推出的设备是一款甜甜圈形智能音箱，带摄像头、扬声器、麦克风、灯光及可动部件以展示交互性，售价 300-400 美元。该无屏设备定位为 AI-first 计算机，便于携带，计划 2027 年发布，目标是比现有智能音箱更\"有生命力\"。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月7日5时53分"
+  },
+  {
+    "id": "cmsi2l99i0yn3ronkmjgdme2x",
+    "title": "OpenAI 无屏设备外形曝光：甜甜圈造型",
+    "url": "https://x.com/kimmonismus/status/2085484280726057300",
+    "summary": "OpenAI 首款硬件设备将是无显示屏的 AI 优先计算机，外形类似甜甜圈、约冰球大小，便于单手在家中携带。设备内置扬声器、麦克风及可自主移动的部件以显示交互状态，电池供电，可手持或置于床头柜、厨房台面。据 Bloomberg，该设备售价 300-400 美元，并配备摄像头。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月7日5时52分"
+  },
+  {
+    "id": "cmsi22osk0y8zronkrnmu814b",
+    "title": "Luna 非推理超 GPT-4o，推理超 GPT-5",
+    "url": "https://x.com/EMostaque/status/2085483036842381641",
+    "summary": "Emad Mostaque 称 Luna 非推理模式略优于两年前的 SOTA GPT-4o，Luna（medium）思考模式略优于一年前的 SOTA GPT-5（High）。Luna 现已向所有人免费无限开放，并预测 Sol Max/Fable Max 级 AI 将在两年内免费且更快。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月7日5时47分"
+  },
+  {
+    "id": "cmsi2ln930ynrronkatrvxit4",
+    "title": "OpenAI 推出 Codex 安全审查功能",
+    "url": "https://x.com/OpenAIDevs/status/2085482310636560830",
+    "summary": "现推出研究预览版：Codex 安全审查\n\n它能更深入地检查 GitHub 拉取请求中的安全问题，利用仓库上下文直接在 PR 中呈现可操作的发现。\n\n了解如何启用自动审查：https://learn.chatgpt.com/docs/security/security-review",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月7日5时45分"
+  },
+  {
+    "id": "cmsi22osk0y90ronk7sxaji8k",
+    "title": "Fable 的 AI 幻觉与物理错误引质疑",
+    "url": "https://x.com/EMostaque/status/2085480381390688512",
+    "summary": "我很惊讶，Fable 没有引发又一波 AI 精神病式反应。\n\n它在如此自信的同时犯下如此怪异的错误，尤其是在物理方面，错误微妙却深刻。\n\n我觉得它在数学上不可用，即使在最大模式下也是如此，大家是怎么用它？",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月7日5时37分"
+  },
+  {
+    "id": "cmsi5gv1x1132ronklz07nfw0",
+    "title": "什么是智能体工作流？",
+    "url": "https://www.databricks.com/blog/agentic-workflows",
+    "summary": "智能体工作流正成为企业从单次提示词交互迈向多步骤自动化任务的关键范式。这类工作流让 AI 系统能够自主规划、调用工具并迭代执行复杂任务，而非仅生成单一回答。Databricks 从架构、应用场景与工程实践角度解析了智能体工作流的定义与落地路径。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月7日5时36分"
+  },
+  {
+    "id": "cmsi5gv1x1133ronkwrumkhtz",
+    "title": "Databricks 详解什么是 Tool Calling",
+    "url": "https://www.databricks.com/blog/what-is-tool-calling",
+    "summary": "Tool calling 是 AI 模型调用外部工具和 API 的能力，让模型能突破自身局限、执行实时数据获取或具体操作。该机制通常涉及模型生成结构化请求、系统调度执行并将结果返回模型，从而完成更复杂的任务。Databricks 从概念、工作原理到应用场景对这一能力进行了系统说明。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月7日5时31分"
+  },
+  {
+    "id": "cmsi23l0x0yg4ronk09wk23qm",
+    "title": "模型可在不暴露影响下被引导",
+    "url": "https://x.com/dongxi_nlp/status/2085475096739692618",
+    "summary": "模型可以在不暴露其影响的情况下被引导。\n\n悄无声息的轻推可以逃过推理监控器的检测。\n\n论文：\n\n《在隐式影响场景下，思维链监控可能不可靠》",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月7日5时16分"
+  },
+  {
+    "id": "cmsi1iyvu0xppronkuz1jeewl",
+    "title": "ChatGPT语音转录出色引热议",
+    "url": "https://x.com/jxnlco/status/2085474514885124181",
+    "summary": "ChatGPT 的语音转录效果太好了……咳咳 嗯哼",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月7日5时14分"
+  },
+  {
+    "id": "cmsi1yins0xxtronkkgzxj2sd",
+    "title": "Hugging Face CEO 西雅图旧金山寻算力",
+    "url": "https://x.com/ClementDelangue/status/2085474143722742169",
+    "summary": "与 @julien_c 在西雅图和旧金山，为 HF 及我们的客户获取算力。如果你需要与 HF 模型和数据集超高速连接的 GPU，请告诉我们！",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月7日5时12分"
+  },
+  {
+    "id": "cmsi0g0pv0wvlronkepm17lck",
+    "title": "Keras 社区会议周五举行，聚焦 vLLM 集成",
+    "url": "https://x.com/fchollet/status/2085471158887923728",
+    "summary": "Keras 社区会议将于本周五上午 10 点（太平洋时间）举行--团队将介绍 Keras 生态系统的最新进展，特别是新的 vLLM 集成。\n\n任何人都可以加入会议。会议开始时（周五上午 10 点），请使用此链接 http://meet.google.com/gva-bbpr-twe 加入。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月7日5时0分"
+  },
+  {
+    "id": "cmsi2l6sr0yltronkm3w6g40r",
+    "title": "Jony Ive 与 OpenAI 合作的首款设备据报为冰球大小的智能音箱",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "summary": "OpenAI 与苹果前设计总监 Jony Ive 合作开发的 AI 设备据报是一款无屏幕、电池供电的甜甜圈造型智能音箱，大小接近冰球。该设备预计 2027 年发布，售价超过 300 美元，配备可自主移动的部件、灯光、摄像头系统及其他传感器，以显示设备正在响应或与用户互动。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月7日4时55分"
+  },
+  {
+    "id": "cmsi0lxzl0x3pronkw1cj47ak",
+    "title": "Antigravity CLI 命令使用指南",
+    "url": "https://x.com/googleaidevs/status/2085468449145544780",
+    "summary": "使用这些 @Antigravity 命令来更高效地操作 CLI、管理后台任务、配置工具，以及运行研究子智能体。🚀",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "date": "2026年8月7日4时49分"
+  },
+  {
+    "id": "cmshzxijp0wixronk8rkpbj08",
+    "title": "人工智能难敌人类愚蠢",
+    "url": "https://x.com/EMostaque/status/2085468090813333865",
+    "summary": "人工智能远不及人类的愚蠢。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月7日4时48分"
+  },
+  {
+    "id": "cmshzyerx0wprronkxa1ltyup",
+    "title": "PIMiner 将红队测试转化为智能体搜索",
+    "url": "https://x.com/dongxi_nlp/status/2085467442659127562",
+    "summary": "PIMiner 将红队测试转化为智能体搜索。\n\n成功的策略会沉淀为可复用的策略库。安全测试能够适应未见过的模型。\n\n论文：\n\nAgent Against Agent：用于自动提示注入红队测试的智能体系统",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月7日4时45分"
+  },
+  {
+    "id": "cmshzbkfy0vv2ronk0fmhre20",
+    "title": "A Codex of One's Own",
+    "url": "https://every.to/context-window/a-codex-of-one-s-own",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月7日4时39分"
+  },
+  {
+    "id": "cmsi0g05f0wuxronknxg088yh",
+    "title": "xAI 与 SpaceX 的 AI 基础设施建设竞赛：无视法规与环境污染争议",
+    "url": "https://illegal.solutions/posts/xai_pollution",
+    "summary": "xAI 宣布将于 2027 年 7 月前拆除其位于孟菲斯 Colossus 数据中心未经许可运行的燃气轮机，并替换为天然气发电厂。此前，美国司法部以国家安全为由推动法院驳回南方环境法律中心代表 NAACP 提起的《清洁空气法》诉讼，称 xAI 模型支持国防部军事行动。Colossus I 数据中心在 122 天内建成，由数十台未经许可的涡轮机供电，居民缺乏法律途径反对相关开发。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月7日4时37分"
+  },
+  {
     "id": "cmsgtj6740gxkro5qski6ytjz",
     "title": "Prime Agent 自改进 RLM 编程框架发布",
     "url": "https://x.com/omarsar0/status/2085170252594212931",
