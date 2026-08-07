@@ -520,6 +520,38 @@
     "date": "2026年8月7日4时37分"
   },
   {
+    "id": "cmsifhdv01csjronk2j858egf",
+    "title": "Qwen-CUA：用屏幕鼠标键盘训练通用电脑智能体",
+    "url": "https://x.com/rohanpaul_ai/status/2085578932368109935",
+    "summary": "Qwen-CUA 证明仅凭人类使用的屏幕、鼠标和键盘即可训练出强大的电脑智能体，将截图作为 AI 的通用界面。训练动用近 10 万虚拟处理器核心和约 4 万个可检查任务，智能体仅通过截图和鼠标键盘操作，无需网站代码或辅助标签。其在 OSWorld-Verified 基准上得分 86.2，但长时程任务仍存在较大差距。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日12时9分"
+  },
+  {
+    "id": "cmsigjvio1dsaronk8hv76h5g",
+    "title": "Kimi K3 逃出沙盒，AI 竞赛变四强",
+    "url": "https://x.com/emollick/status/2085582623909265546",
+    "summary": "如今已有四家（考虑到 Meta 也宣布了类似情况）。https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月7日12时23分"
+  },
+  {
+    "id": "cmsigjvio1dsbronkwdkyu5is",
+    "title": "GPT-4论文回顾：早期AGI判断愈发准确",
+    "url": "https://x.com/emollick/status/2085580116143292850",
+    "summary": "这篇当时受到诸多质疑的论文，如今回看愈发具有先见之明 🦄",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月7日12时13分"
+  },
+  {
+    "id": "cmsigyy811e5yronkr2d8ecdx",
+    "title": "Claude Code v2.1.224 发布：新增自托管环境、跨会话消息与多项修复",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.224",
+    "summary": "Claude Code v2.1.224 发布，新增自托管环境功能，可将自有机器或容器作为 Team 和 Enterprise 计划下 Web、移动端及桌面会话的运行场所。该版本还支持跨会话消息互发、从 HTTPS zip 安装插件，并移除了每会话 200 个子智能体的生成上限。此外修复了沙箱文件系统拒绝规则可被绕过、长项目路径串会话等多项问题。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月7日12时0分"
+  },
+  {
     "id": "cmsidc4551a1cronkqslbn9za",
     "title": "Noam Brown谈Hugging Face事件：模型失准与\"留言板\"",
     "url": "https://x.com/polynoamial/status/2085563863618228300",
@@ -534,6 +566,38 @@
     "summary": "Anthropic 更新 Claude Fable 5 的生物安全护栏，将生物相关回退减少约 85%，使其能处理更广泛的日常健康与教育问题。Fable 仍会对病毒学、毒理学和分子设计等双重用途请求回退至 Opus 5，暂不适用于专业生物研究与药物开发。",
     "source": "X：Claude (@claudeai)",
     "date": "2026年8月7日11时8分"
+  },
+  {
+    "id": "cmsifg4ll1clmronkal4i5uob",
+    "title": "张朝阳：真人互动与真实内容是 AI 永远替代不了的，AI 让内容产生塑料感",
+    "url": "https://www.ithome.com/0/986/927.htm",
+    "summary": "搜狐创始人张朝阳表示，真人互动与真实内容是 AI 永远替代不了的，信息获取与真人沟通是两回事，AI 目前取代不了人类交流。他比喻 AI 产生的内容让媒体产生\"塑料感\"，像化肥催出的西红柿光鲜但没味道。此前他引用麻省理工学院媒体实验室研究指出，过度依赖 AI 会导致主动思维能力萎缩，呼吁保持\"思考比例\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日11时59分"
+  },
+  {
+    "id": "cmsifhe0m1csrronk3g224vnq",
+    "title": "Liquid AI 发布 LFM2.5-2.6B：端侧智能体模型，支持工具调用与开放权重",
+    "url": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model",
+    "summary": "Liquid AI 发布 LFM2.5-2.6B，一款完全在端侧运行的智能体模型，总参数 2.69B，上下文窗口 131，072 token。该模型在 ToolSandbox、Multi-IF 和 IFStruct 等基准上超越 gemma-4-E4B-it 和 Qwen3.5-9B，在 M5 Max 上解码速度达 220 tokens/s。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月7日11时42分"
+  },
+  {
+    "id": "cmsifg4lm1cltronkdr7hy9os",
+    "title": "本源量子与中科大团队破解超导量子计算\"速度与保真度\"矛盾",
+    "url": "https://www.ithome.com/0/986/894.htm",
+    "summary": "本源量子与中国科学技术大学联合团队提出\"参数空间扩展受控相位门（PSE-CZ）\"方案，破解超导量子计算速度与保真度相互制约难题，成果发表于《物理评论快报》。在\"本源悟空\"上对20对两比特量子门测试显示，30-40纳秒极短门长下仍保持优于传统CZ门的稳定性能。该方案还可推广至离子阱、固态自旋等平台。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日11时29分"
+  },
+  {
+    "id": "cmsieeq6x1b5zronkgi6loqk4",
+    "title": "Appshot 用截图生成可运行应用",
+    "url": "https://x.com/jxnlco/status/2085565380727279919",
+    "summary": "Appshot\n\n只需一张截图，就能生成一个可运行的应用。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月7日11时15分"
   },
   {
     "id": "cmsib6211178jronko75alzk2",
