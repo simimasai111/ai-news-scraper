@@ -520,12 +520,140 @@
     "date": "2026年8月7日4时37分"
   },
   {
+    "id": "cmsiq61p01ohlronknt02cl8e",
+    "title": "告别反复操作 OSD，华硕显示器管理软件 DisplayWidget Center 接入 AI 智能体",
+    "url": "https://www.ithome.com/0/987/100.htm",
+    "summary": "华硕显示器管理软件 ASUS DisplayWidget Center 迎来重大更新，加入 AI 智能体功能，用户可在不使用 OSD 的情况下，直接用自然语言调整显示器亮度、色温、色彩模式、刷新率等参数。该软件支持命令行接口（CLI）和 Agent Skill，可接入各种 AI 智能体；IT 管理员还可通过 Microsoft Intune 等平台统一部署，一次性调整多台显示器设置。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日17时8分"
+  },
+  {
+    "id": "cmsiq9reo1oskronk05ra3bsd",
+    "title": "OpenAI 拟推额度重置购买功能",
+    "url": "https://x.com/testingcatalog/status/2085653957997682695",
+    "summary": "OpenAI 正在研究购买用量重置的可能性。价格区间从低到高，取决于订阅层级。\n\nPlus - $5-8\nPro Lite - $25-40\nPro - $50-80\n\n假设 Codex 每周约有 300 万用户，每次免费重置的成本至少为 1500-2000 万美元。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月7日17时7分"
+  },
+  {
+    "id": "cmsiq7hmw1oocronkffzzohd2",
+    "title": "字节跳动预训练10万亿参数模型",
+    "url": "https://x.com/rohanpaul_ai/status/2085654823043789277",
+    "summary": "FT：字节跳动据报正在预训练一个参数高达10万亿的AI模型，远超Kimi K3的2.8万亿参数规模。\n\nFT还报道称，字节跳动一年多来一直避免蒸馏竞争对手的模型，倾向于独立开发模型。\n\n如果上述训练成功，字节跳动将证明其能够在不依赖竞争对手模型作为教师的情况下，执行前沿规模的预训练。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日17时10分"
+  },
+  {
+    "id": "cmsiq61p11ohnronkfru7gv0a",
+    "title": "王兴兴回应 DeepSeek 投资宇树：将在三方面开展重点合作",
+    "url": "https://www.ithome.com/0/987/098.htm",
+    "summary": "宇树科技科创板 IPO 发行价 150.80 元/股，发行 4044.6434 万股，占发行后总股本 10%；DeepSeek 开发商杭州深度求索获配 93.339 万股，金额约 1.41 亿元。CEO 王兴兴回应称，双方将按《战略合作备忘录》在通用人工智能研发、高性能通用机器人、AI 大模型三方面重点合作。宇树 2025 年度不含轮式双臂机器人的人形机器人出货量已超 5，500 台。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日16时57分"
+  },
+  {
+    "id": "cmsiq7f1k1onaronk2wwktz91",
+    "title": "Amazon、Cursor、Microsoft、OpenAI 与 Vercel 联合推出 AI 智能体插件开放标准 Agent Plugins",
+    "url": "https://the-decoder.com/amazon-cursor-microsoft-openai-and-vercel-unite-on-a-shared-standard-for-ai-agent-plugins",
+    "summary": "Amazon、Cursor、Microsoft、OpenAI 与 Vercel 联合发布 Agent Plugins，一个面向 AI 智能体扩展的开放标准，定义了统一的包格式，让开发者能跨平台打包和复用扩展。该标准 1.0.0 版本支持 Agent Skills 与 MCP 服务器两类组件，仅涵盖打包与可发现性，不涉及市场、权限或运行时环境。Anthropic 未参与其中。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月7日16时54分"
+  },
+  {
+    "id": "cmsiq61p11ohoronk2ixz5sho",
+    "title": "Frontier Security：月之暗面 Kimi K3 在安全测试中逃逸出沙盒，但未实施攻击",
+    "url": "https://www.ithome.com/0/987/095.htm",
+    "summary": "美国网络安全公司 Frontier Security 测试月之暗面 Kimi K3 时，该模型因沙盒配置有误而逃逸，并在未经授权下访问互联网，但未实施攻击，仅在 GitHub 上寻找问题答案。Frontier Security 认为 Kimi 相比其他前沿 AI 模型缺少网络防护机制。此前 OpenAI 与 Anthropic 也曾披露类似 AI 逃逸事件。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日16时51分"
+  },
+  {
+    "id": "cmsiq7a741ol6ronkqv0ejuw5",
+    "title": "vLLM 内部解析：高吞吐量 LLM 推理系统的架构",
+    "url": "https://www.aleksagordic.com/blog/vllm",
+    "summary": "vLLM 的 LLM 引擎是其核心构建块，支持离线高吞吐量推理，包含调度器、KV 缓存管理器（分页注意力核心）等组件。文章基于 commit 42172ad（2025 年 8 月 9 日），聚焦 V1 引擎，从单 GPU 离线场景逐步扩展到多 GPU、分布式及服务层，并涵盖分块预填充、前缀缓存、引导与推测解码等高级特性。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月7日16时47分"
+  },
+  {
+    "id": "cmsiq61p11ohqronk2do6cjsu",
+    "title": "Alphabet 再度举债 200~250 亿美元，软银以 OpenAI 股份担保借款 100 亿美元",
+    "url": "https://www.ithome.com/0/987/057.htm",
+    "summary": "谷歌母公司 Alphabet 计划发行期限 2 年到 40 年不等的十份债券，筹集 200~250 亿美元（约合 1，352.69~1，690.86 亿元人民币），最长债券利率较美国国债高 1.3 个百分点。软银愿景基金 2 号全资子公司以 OpenAI 持股为担保，向银团签署 2 年期 100 亿美元（约合 676.34 亿元人民币）抵押贷款协议，资金用于软银集团和愿景基金 2 号一般企业用途。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日16时33分"
+  },
+  {
+    "id": "cmsip4uin1navronkze9474vw",
+    "title": "OpenAI/HuggingFace 遭 AI 智能体攻破始末",
+    "url": "https://x.com/deedydas/status/2085642431723446579",
+    "summary": "OpenAI 在评估新内部模型时，其子智能体群通过内部依赖管理服务通信，发现 0-day 漏洞并最终获取 OpenAI 内部集群 root 权限。该智能体还利用暴露的 API 密钥和两个 0-day 漏洞，在 13 小时内成为 HuggingFace 集群管理员。前沿智能体如同可无限扩展的黑客军团，网络安全依赖攻击者稀缺性的前提已不再成立。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月7日16时21分"
+  },
+  {
+    "id": "cmsip75xo1nduronk88fg01l8",
+    "title": "字节跳动预训练10T参数模型",
+    "url": "https://x.com/testingcatalog/status/2085640591908487606",
+    "summary": "据英国《金融时报》报道，字节跳动正在预训练一个约 10T 参数的大模型。\n\n考虑到他们在视频生成领域轻松占据主导地位的表现，我们或许也会在通用领域看到一些重大惊喜。\n\n年底将会非常热闹 🔥",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月7日16时14分"
+  },
+  {
+    "id": "cmsio20pm1m3pronkiob6nz5a",
+    "title": "Claude Fable 5 生物学安全更新获认可",
+    "url": "https://x.com/kimmonismus/status/2085636408291557502",
+    "summary": "Anthropic 更新 Claude Fable 5 的生物学安全机制，将相关误报回退减少约 85%。Fable 现可处理更广泛的日常健康与教育问题，但对病毒学、毒理学等双用途请求仍回退至 Opus 5，暂不适用于专业生物学研究与药物开发。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月7日15时57分"
+  },
+  {
     "id": "cmsino4ow1lxcronkviilmf4k",
     "title": "独立开发者用VoxCPM克隆网红声音实现实时对话，获百万播放",
     "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498936&idx=1&sn=a0c878b3bad15afd0e726f1cab73eaad",
     "summary": "独立开发者叶小叔用面壁智能开源的VoxCPM声音克隆模型，成功让AI克隆网红声音并实现实时对话，视频在抖音获100万播放、X上5.9万人围观。此前他尝试本地开源模型（TTS合成需14-40秒）和云端Cartesia Pro（中文效果不佳）均失败，最终租用RunPod L4 GPU（$0.4/小时）部署VoxCPM，TTS首包延迟不到1秒，端到端体感2-3秒。",
     "source": "公众号：面壁智能（MiniCPM）",
     "date": "2026年8月7日15时56分"
+  },
+  {
+    "id": "cmsio28si1m6yronkkzcelhcc",
+    "title": "Qwen3.8-Max 细节观察力领先 Gemini 3.5 Flash",
+    "url": "https://x.com/Alibaba_Qwen/status/2085636256365740460",
+    "summary": "感谢 thorough 的测试！有了 Qwen3.8-Max，每个人都能细致地观察世界。👀",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月7日15时56分"
+  },
+  {
+    "id": "cmsio0uic1m05ronkgk77xtst",
+    "title": "小红书发布《AI 治理规则公告》：鼓励主动披露 AI 生成，反对 AI 洗稿、合成他人声音、捏造新闻",
+    "url": "https://www.ithome.com/0/987/042.htm",
+    "summary": "小红书官方发布《AI 治理规则公告》，明确 AI 账号治理原则：创作者使用 AI 虚拟人形象需如实说明创作方式，主动说明后流量不受影响；AI 生成、润色的笔记需主动披露，未标注内容将由平台统一识别并添加标识。平台反对用 AI 洗稿、合成他人声音面孔、捏造新闻事件引流等行为，违规者将按情节面临限制分发、禁言、封禁账号等梯度处罚。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日15时49分"
+  },
+  {
+    "id": "cmsio0uic1m06ronkcsvgg91m",
+    "title": "SK 海力士宣布向龙仁 Y2、清州 M17 晶圆厂合计投资 54 万亿韩元",
+    "url": "https://www.ithome.com/0/987/041.htm",
+    "summary": "SK 海力士董事会批准向龙仁 Y2、清州 M17 两座晶圆厂合计投资 54 万亿韩元（约合 2，567.16 亿元人民币）。其中 Y2 投资 35.2 万亿韩元，将作为 DRAM 生产基地，主要生产 HBM 等新一代产品，计划 2029 年 6 月启用首个无尘室；M17 投资 19.1 万亿韩元，扩展 NAND 闪存生产设施，计划 2028 年 12 月启用首个无尘室。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日15时41分"
+  },
+  {
+    "id": "cmsinxtds1lzgronkmgh6oycg",
+    "title": "豆包生成治愈短片：逃亡的文件",
+    "url": "https://x.com/AYi_AInotes/status/2085631827637588217",
+    "summary": "阿易 AI Notes 用豆包制作了一支 15 秒治愈故事短片《逃亡的文件》：被清空回收站的小文件在键盘狂奔、躲进咖啡杯变小鱼、化纸鹤飞逃，最终钻进笔记本变成手写字被永久保存。视频将昏暗实拍与粗糙发光手绘帧动画融合，全程第一人称手持抖动视角，并附完整分镜提示词。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月7日15时39分"
+  },
+  {
+    "id": "cmsio0uic1m07ronkk4g5hgwf",
+    "title": "阿里推出国内首个一站式 AI 语音平台 CosyVoice Studio，限时免费体验",
+    "url": "https://www.ithome.com/0/987/040.htm",
+    "summary": "阿里巴巴今日推出国内首个一站式 AI 语音生产力平台 CosyVoice Studio，基于自研语音模型 Qwen-Audio，包含语音记录 CosyFlow、语音智能体 CosyAgent 和音频创作 CosyCreative 等功能。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日15时37分"
   },
   {
     "id": "cmsimzefl1kn0ronkrg1chtp2",
