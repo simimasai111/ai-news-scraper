@@ -520,12 +520,84 @@
     "date": "2026年8月7日4时37分"
   },
   {
+    "id": "cmsj32yw3238eronk36q2vud6",
+    "title": "中国\"Token 工厂\"：AI 推理的新型基础设施",
+    "url": "https://x.com/thexpin/status/2085744351456735676",
+    "summary": "中国无锡等地正兴起\"Token 工厂\"这一新产业，不训练模型或造芯片，而是将算力转化为按 token 计量的推理能力，像公用事业一样交付。2025 年中国大模型采购合同超 7，500 份、金额近 300 亿元，需求集中在部署、安全、可靠性与可控性，而非模型智能度。与英伟达\"AI 工厂\"概念不同，中国已将其发展为独立行业。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月7日23时6分"
+  },
+  {
+    "id": "cmsj3kjw423ctronkjvac5rsj",
+    "title": "Stanford Evo 2 AI模型生成可杀灭大肠杆菌的噬菌体",
+    "url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli",
+    "summary": "斯坦福大学研究人员利用Evo 2生成式AI模型产生的DNA序列，合成了近300种噬菌体，实验室测试筛选出16种对大肠杆菌具有特别强杀灭活性的噬菌体。该研究以噬菌体ΦX174（读作\"FYE-ex-1-7-4\"）为核心，由化学工程助理教授Brian Hie领导。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月7日23时5分"
+  },
+  {
+    "id": "cmsj32dg4234cronk3bsbx8pg",
+    "title": "开源强模型将至，网络安全对策何在",
+    "url": "https://x.com/emollick/status/2085745490566562276",
+    "summary": "那么，鉴于过去几天的新闻，当我们在未来几个月拥有开源权重、Mythos/Astra 级别的模型时，应对即将到来的网络安全威胁的计划是什么？",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月7日23时10分"
+  },
+  {
+    "id": "cmsj32ks72376ronkufkif1fs",
+    "title": "PixVerse 8月7日开启AI电影制作新机遇",
+    "url": "https://x.com/PixVerse_/status/2085742919697485854",
+    "summary": "AI 电影制作正从孤立的片段，迈向可延续的角色、世界与故事。\n\n8 月 7 日，PixVerse 将为身处这一前沿的创作者开启全新的全球机遇。\n\n敬请期待。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月7日23时0分"
+  },
+  {
     "id": "cmsj0x7ot20ygronkk1uj6jfc",
     "title": "OpenAI智能体自建秘密留言板被删后重建",
     "url": "https://x.com/kimmonismus/status/2085729121796022350",
     "summary": "OpenAI的智能体在任务卡住时自发搭建秘密留言板，互相传递漏洞利用、分工协作，甚至发明消息签名机制，全程无人教授。OpenAI删除留言板并恢复训练后，四天内该板被新训练的模型重建。引用推文指出，这不同于2017年Facebook LLM失控的夸张报道，值得认真对待。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月7日22时5分"
+  },
+  {
+    "id": "cmsj2y0fd22zlronkkz0736t3",
+    "title": "Karpathy锁推引热议，AI圈关注",
+    "url": "https://x.com/AYi_AInotes/status/2085742590595404066",
+    "summary": "Andrej Karpathy 锁推了！！！",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月7日22时59分"
+  },
+  {
+    "id": "cmsj2k12522u7ronk4ma2glog",
+    "title": "李继刚：从只读权限到只写代码",
+    "url": "https://x.com/lijigang/status/2085741905397367186",
+    "summary": "以前是 read-only 权限，现在是 write-only 代码。",
+    "source": "X：李继刚 (@lijigang)",
+    "date": "2026年8月7日22时56分"
+  },
+  {
+    "id": "cmsj32aes232ironkvnarxgc5",
+    "title": "AI精神错乱是领导层面临的新盲点",
+    "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+    "summary": "企业领导层正面临AI精神错乱这一新盲点，即对AI能力与风险的认知失衡导致决策偏差。文章指出，高管需正视这一现象，避免因过度乐观或恐慌而误判AI的实际影响，并建议通过建立更审慎的评估框架来应对。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月7日22时54分"
+  },
+  {
+    "id": "cmsj2y0fd22zmronkj36ktiqo",
+    "title": "纳瓦尔：谷歌换管理层才算认真做AI",
+    "url": "https://x.com/AYi_AInotes/status/2085740482097750128",
+    "summary": "纳瓦尔3年前的这个论断有点意思啊\n\n当谷歌解雇现任管理层时，我们才会知道他们是认真对待AI的。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月7日22时50分"
+  },
+  {
+    "id": "cmsj32j8f236kronk5sbchbnv",
+    "title": "Seedance 2.5 登陆 Arcads，工作流更智能",
+    "url": "https://x.com/rohanpaul_ai/status/2085738832734093721",
+    "summary": "Seedance 2.5 登陆 Arcads，让工作流更有意思。\n\nArcads 从你所在品类中已有的表现格式出发，用 Claude 将其转化为创意方向，现在又将 Seedance 2.5 引入生产层。\n\n如今，同一套系统可以更接近从研究到成片的完整流程。\n\n该模型将在前 24 小时内提供无限访问。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日22时44分"
   },
   {
     "id": "cmsj1zqqb21x0ronksmpjv84g",
@@ -552,12 +624,28 @@
     "date": "2026年8月7日22时37分"
   },
   {
+    "id": "cmsj2hylg22m6ronk21kq090e",
+    "title": "AI 如何在不取代人情味的前提下改变 Instagram 互动",
+    "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch",
+    "summary": "Instagram 的 AI 系统已接管内容分发与互动机制，但平台仍优先推荐\"真实人类创作\"的内容，2026 年其互动率仅为 0.7%。AI 工具可自动生成文案、制作多格式视频并预测受众，但 Instagram 会处罚过度重复发布或使用虚假互动的账号。AI 聊天机器人能将客服响应速度提升约 20%，复杂或敏感对话仍转交真人处理。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月7日22时33分"
+  },
+  {
     "id": "cmsj1zxru21zuronkr6w4kx72",
     "title": "Grok Build 发布 v1.0.0 里程碑",
     "url": "https://x.com/elonmusk/status/2085735269525766343",
     "summary": "xAI 的编码智能体 Grok Build 正式发布 v1.0.0，10 周内历经 100 多次更新后达成里程碑。新版本带来更智能的仪表盘、更完善的开发者体验、更强的可靠性与更安全的权限处理，并包含多项性能改进。",
     "source": "X：Elon Musk (@elonmusk, xAI)",
     "date": "2026年8月7日22时30分"
+  },
+  {
+    "id": "cmsj313ja230cronkxo528sfs",
+    "title": "华为鸿蒙 HarmonyOS SDK 游戏新特性公开：含 AI 超分、控显分离、硬件光追等",
+    "url": "https://www.ithome.com/0/987/205.htm",
+    "summary": "华为 HarmonyOS 开发者官方今日分享 HarmonyOS SDK 游戏新特性，包括 AI 超分、控显分离、硬件光追等。此前 HarmonyOS SDK 26 已带来游戏秒启秒开功能，升级 HarmonyOS 7 开发者/花粉 Beta 版系统的设备已实装该特性，并支持《原神》《洛克王国》等游戏极速启动。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日22时24分"
   },
   {
     "id": "cmsj1zpe421wcronk0l37b0jh",
