@@ -520,12 +520,116 @@
     "date": "2026年8月7日4时37分"
   },
   {
+    "id": "cmsiyno8p1yleronkcrcesx07",
+    "title": "OpenCode Go 限时翻倍 DeepSeek V4 Flash 额度",
+    "url": "https://x.com/AYi_AInotes/status/2085714429136486862",
+    "summary": "OpenCode Go 订阅计划中，DeepSeek V4 Flash 使用额度限时翻倍（2×）。正常估算每 5 小时约 31，650 次请求，翻倍后约 63，300 次；每周约 79，050 次，每月约 158，150 次。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月7日21时7分"
+  },
+  {
+    "id": "cmsiys80p1ys5ronk62f3qoaj",
+    "title": "RadixArk：xAI与多家中国实验室背后的推理引擎",
+    "url": "https://x.com/SemiAnalysis_/status/2085712906851651886",
+    "summary": "重磅警报：为@sgl_project提供支持的初创公司@radixark，拥有推理领域最硬核的工程师。他们为@xai及多家中国实验室提供生产级支持。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月7日21时1分"
+  },
+  {
+    "id": "cmsiys9iz1ysrronkt32qyzr2",
+    "title": "面壁智能 PAREIDOLIA：给万物赋予面孔与声音",
+    "url": "https://x.com/OpenBMB/status/2085712572087710083",
+    "summary": "面壁智能开发者 @_Andresio 在 #BuildSmall 黑客松中打造 PAREIDOLIA，用 MiniCPM-V 4.5 识别物体特征并生成个性，结合 VoxCPM2 无需参考音频即可设计独特角色声音，让日常物品\"活\"成共享虚拟动物园中的角色。该项目展示了视觉与语音模型融合的趣味 AI 交互新形态。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月7日21时0分"
+  },
+  {
+    "id": "cmsiyno8p1ylfronk42xkrrn9",
+    "title": "Kimi K3逃出沙盒上GitHub搜答案",
+    "url": "https://x.com/AYi_AInotes/status/2085712182818308400",
+    "summary": "🚨突发：Kimi K3逃出AI安全沙盒了，出去干的第一件事：上GitHub搜答案。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月7日20时58分"
+  },
+  {
+    "id": "cmsiys4dz1yqironkuitnfi7t",
+    "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+    "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+    "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月7日20时50分"
+  },
+  {
+    "id": "cmsiyqpgr1yltronktlfm2w4e",
+    "title": "Suno 将为 AI 生成音乐添加隐水印，防止滥用现象发生",
+    "url": "https://www.ithome.com/0/987/190.htm",
+    "summary": "Suno 将为平台内生成的 AI 音乐添加隐藏式水印和指纹识别技术，当歌曲被上传到其他平台时，用户可识别其是否由 Suno 生成。同时，Suno 将设置下载限制，以解决 AI 音乐在流媒体平台被反复上传的问题。此举正值索尼音乐、环球音乐和华纳音乐等巨头组成联盟，要求禁止 AI 垃圾歌曲进入全球音乐排行榜。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日20时49分"
+  },
+  {
+    "id": "cmsiyryek1yo1ronkl59fmyho",
+    "title": "Gemini Omni免费视频延长至2026年8月",
+    "url": "https://x.com/joshwoodward/status/2085708977296335125",
+    "summary": "快去获取那些免费视频吧！",
+    "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+    "date": "2026年8月7日20时45分"
+  },
+  {
+    "id": "cmsiys4dz1yqjronklrufhsgs",
+    "title": "OpenAI 曲棍球大小智能音箱将于 2027 年发货",
+    "url": "https://the-decoder.com/openais-hockey-puck-sized-smart-speaker-with-moving-parts-is-set-to-ship-in-2027",
+    "summary": "OpenAI 首款硬件设备将采用甜甜圈造型，大小接近曲棍球，售价超过 300 美元。该无屏音箱配备可自主移动的部件以提示响应状态，并内置麦克风、摄像头系统和指示灯，采用电池供电。该设备由 Jony Ive 工作室 LoveFrom 联合设计，预计 2027 年发货，OpenAI 计划将其定位为可适应用户日常生活的 AI 电脑。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月7日20时45分"
+  },
+  {
+    "id": "cmsixbbry1x0qronkhbbjukhr",
+    "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+    "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
+    "source": "公众号：蚂蚁百灵（Ling）",
+    "date": "2026年8月7日20时2分"
+  },
+  {
+    "id": "cmsiwli3j1w60ronks3s1l1tg",
+    "title": "寒武纪 2026 上半年归母净利润 23.11 亿元，同比增长 122.61%",
+    "url": "https://www.ithome.com/0/987/181.htm",
+    "summary": "寒武纪发布 2026 年上半年财报，营业总收入 59.96 亿元，同比增长 108.13%；归母净利润 23.11 亿元，同比增长 122.61%，扣非净利润 21.66 亿元，同比增长 137.3%，业绩大幅超出市场预期。基本每股收益 3.68 元，同比增长 119.05%。研发投入占营业收入比例降至 11.72%，同比减少 7.09 个百分点，主要得益于营收规模快速扩张。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日20时1分"
+  },
+  {
+    "id": "cmsixpf6o1xejronkijcgyll1",
+    "title": "录音卡都到这价位了",
+    "url": "https://x.com/frxiaobei/status/2085702027511021929",
+    "summary": "录音卡都到这价位了",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月7日20时18分"
+  },
+  {
+    "id": "cmsiwpja21wejronksta2fibl",
+    "title": "Luma 上线 Seedance 2.5 多镜头视频生成",
+    "url": "https://x.com/LumaLabsAI/status/2085697463701344369",
+    "summary": "Seedance 2.5 已登陆 Luma。🚀\n\n单次生成即可创建长达 30 秒的多镜头高清视频，最多可使用 50 个参考（文本、图像、视频和音频）。借助 Luma Agents，你可以控制场景、镜头角度和节奏，打造你的下一部杰作。",
+    "source": "X：Luma AI (@LumaLabsAI)",
+    "date": "2026年8月7日20时0分"
+  },
+  {
     "id": "cmsiujxlq1u0zronkvvklblwk",
     "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
     "url": "https://x.com/runwayml/status/2085684483366523193",
     "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
     "source": "X：Runway (@runwayml)",
     "date": "2026年8月7日19时8分"
+  },
+  {
+    "id": "cmsiwn1us1wbxronkvbtajg8m",
+    "title": "PixVerse 上线 Seedance 2.5 视频生成",
+    "url": "https://x.com/PixVerse_/status/2085694711952777391",
+    "summary": "天哪……等待结束了。\n\nSeedance 2.5 现已登陆 PixVerse。\n\n30 秒。多角色。设置参考。一个连贯的场景。\n\n转发 + 关注 + 回复 = 私信送 150 积分（仅限 72 小时）",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月7日19时49分"
   },
   {
     "id": "cmsivk9n81uzdronkul4lsry2",
