@@ -520,6 +520,110 @@
     "date": "2026年8月7日4时37分"
   },
   {
+    "id": "cmsino4ow1lxcronkviilmf4k",
+    "title": "独立开发者用VoxCPM克隆网红声音实现实时对话，获百万播放",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498936&idx=1&sn=a0c878b3bad15afd0e726f1cab73eaad",
+    "summary": "独立开发者叶小叔用面壁智能开源的VoxCPM声音克隆模型，成功让AI克隆网红声音并实现实时对话，视频在抖音获100万播放、X上5.9万人围观。此前他尝试本地开源模型（TTS合成需14-40秒）和云端Cartesia Pro（中文效果不佳）均失败，最终租用RunPod L4 GPU（$0.4/小时）部署VoxCPM，TTS首包延迟不到1秒，端到端体感2-3秒。",
+    "source": "公众号：面壁智能（MiniCPM）",
+    "date": "2026年8月7日15时56分"
+  },
+  {
+    "id": "cmsimzefl1kn0ronkrg1chtp2",
+    "title": "蚂蚁百灵 Ling-3.0-flash 支持本地部署",
+    "url": "https://x.com/AntLingAGI/status/2085630640456892811",
+    "summary": "蚂蚁百灵推出 Ling-3.0-flash 本地部署方案，获 Atomic Chat 社区首日支持。Hugging Face 已发布从无损 BF16 到 1-bit 的 GGUF 量化版本及 NVFP4 格式。其中 AD-Q5_K_M 最适合 128GB 硬件（DGX Spark 测试），token 匹配率达 97.5%，漂移比同尺寸 llama.cpp 默认量化低 31%。",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月7日15时34分"
+  },
+  {
+    "id": "cmsimzpmf1ks3ronk4hh1d0z0",
+    "title": "Krea 推出 Seedance 2.5 视频模型",
+    "url": "https://x.com/krea_ai/status/2085629541385736662",
+    "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
+    "source": "X：Krea AI (@krea_ai)",
+    "date": "2026年8月7日15时30分"
+  },
+  {
+    "id": "cmsimzdrq1kmkronkxrn8oufw",
+    "title": "Show HN：Channels SDK--将任意客服人员接入任意沟通渠道（Slack、MS Teams）",
+    "url": "https://github.com/CopilotKit/channels-sdk",
+    "summary": "Channels SDK 是一个开源工具，可将任意客服人员接入 Slack、MS Teams 等任意沟通渠道。该项目在 Hacker News 上获得 100 点热度，旨在简化客服系统与多渠道的集成流程。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月7日15时14分"
+  },
+  {
+    "id": "cmsilwssq1ji6ronkttoyuvyu",
+    "title": "OpenCode Go 限时双倍 DeepSeek Flash 用量",
+    "url": "https://x.com/opencode/status/2085621778039087160",
+    "summary": "注意\n\nDeepSeek Flash 用量已翻倍\n\n限时活动\n\n在 OpenCode Go 上\n\n谢谢",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月7日14时59分"
+  },
+  {
+    "id": "cmsilvone1jesronke3d9bfex",
+    "title": "王兴兴：宇树科技将积极探索人形机器人、机甲等更多产品形态",
+    "url": "https://www.ithome.com/0/986/984.htm",
+    "summary": "宇树科技董事长王兴兴今日网上路演时表示，公司将攻坚具身大模型、强化学习等软硬件关键技术，并探索人形机器人、四足机器人、机甲等更多产品形态。宇树科技科创板发行价150.80元/股，发行4044.6434万股，预计募资总额约60.99亿元，战略配售获配808.9286万股，网上申购日为8月10日。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日14时56分"
+  },
+  {
+    "id": "cmsilvone1jewronkehdzq4i8",
+    "title": "Composio 测试 4 个 AI 编程智能体框架：谁是 DeepSeek V4 Flash 最佳搭档？",
+    "url": "https://www.ithome.com/0/986/967.htm",
+    "summary": "Composio 用 30 项真实工具任务测试 4 个 AI 编程智能体框架，统一调用 DeepSeek V4 Flash 正式版。Oh My Pi 成功率最高（17/30），但速度最慢（每任务 272 秒）；Claude Code 速度最快（122 秒）但成本最高（每任务 0.195 美元），OpenCode 成本最低（每成功任务 0.073 美元）。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日14时48分"
+  },
+  {
+    "id": "cmsilwxxm1jkkronk0lopisn9",
+    "title": "MiniMax H3 团队将在 Reddit 举办 AMA",
+    "url": "https://x.com/MiniMax_AI/status/2085618024137330887",
+    "summary": "MiniMax 邀请用户参与其 H3 核心团队在 r/StableDiffusion 举办的 AMA 活动。H3 研发负责人 dacongya 及多名研究员、系统工程师将出席，时间为北京时间 22：00-23：00。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月7日14时44分"
+  },
+  {
+    "id": "cmsilwwf11jk0ronkdvklu5lh",
+    "title": "通义千问 Qwen3.8-Max 登顶全球智能体评测",
+    "url": "https://x.com/alibaba_cloud/status/2085617433516089853",
+    "summary": "Qwen3.8-Max 在 Artificial Analysis Agentic Index 中排名全球第一，领先其他 25 个模型。它是首个达到 Max 规模的开放权重模型，在编程、工作及长周期任务上均有提升。\n\n了解其能力：• Model Studio：https://click.alibabacloud.com/m/20000001093/ • Qwen Cloud：https://click.qwencloud.com/m/20000001102/\n\n#Qwen #阿里云 #AI #AgenticAI",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月7日14时41分"
+  },
+  {
+    "id": "cmsil63w11iaxronk6ry9zfbw",
+    "title": "面壁智能亮相 APEC：李大海谈端侧 AI 如何成为中小企业\"数字水电煤\"",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=2&sn=38d14f212bbd6d13d52b3b2b401401e7",
+    "summary": "面壁智能 CEO 李大海在 APEC 专题研讨会上发表演讲，称端侧 AI 已从\"科幻\"变为工业现实，可帮助亚太中小企业破解网络延迟、数据隐私与高昂成本三重壁垒。其端侧模型\"面壁小钢炮\"总下载量突破 4300 万次，全球开发者平台星标超 13 万；开源智能体操作系统 PilotDeck 支持常驻任务与端云协同，已与华为、三星、上汽等企业合作落地。",
+    "source": "公众号：面壁智能（MiniCPM）",
+    "date": "2026年8月7日14时41分"
+  },
+  {
+    "id": "cmsil63w11iawronkshdpjgy5",
+    "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
+    "summary": "独立开发者叶小叔用面壁智能开源的 VoxCPM 克隆千万粉丝网红声音，搭建 STT → LLM → VoxCPM（TTS）三段式实时对话管道，TTS 首包延迟不到 1 秒，端到端体感 2 到 3 秒。",
+    "source": "公众号：面壁智能（MiniCPM）",
+    "date": "2026年8月7日14时41分"
+  },
+  {
+    "id": "cmsilvone1jezronk60ahdbgi",
+    "title": "OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升",
+    "url": "https://www.ithome.com/0/986/957.htm",
+    "summary": "OpenAI 报告称全球超 10 亿用户使用 ChatGPT，使用方式从\"问答工具\"转向\"任务工具\"，工作场景中完成任务或创建内容的可能性是非工作场景的 2 倍以上。自 2026 年 4 月发布 ChatGPT Images 2.0 以来，多媒体相关消息占比升至 7.8%。35 岁及以上用户发送消息份额较 12 个月前增加 5 个百分点，法国和捷克增幅超 10 个百分点。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日14时28分"
+  },
+  {
+    "id": "cmsikuagu1i56ronk68l9z10h",
+    "title": "MiniMax开源四日社区即造5倍速LoRA",
+    "url": "https://x.com/MiniMax_AI/status/2085614043512127542",
+    "summary": "开源权重四天后，社区就做出了通常是实验室才能交付的东西：一个知识蒸馏 LoRA，把采样步数从 20 步降到 4-8 步。\n\n这就是我们开源的原因。🫡",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月7日14时28分"
+  },
+  {
     "id": "cmsijqoan1h2qronk7rexfm14",
     "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
     "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
@@ -549,6 +653,14 @@
     "url": "https://x.com/runwayml/status/2085609871765069877",
     "summary": "Seedance 2.5 已在 Runway 上线。\n\n更多参考，更长片段，更多创作空间。今天就试试吧。",
     "source": "X：Runway (@runwayml)",
+    "date": "2026年8月7日14时11分"
+  },
+  {
+    "id": "cmsilvone1jf1ronk6fs8o4d4",
+    "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+    "url": "https://www.ithome.com/0/986/951.htm",
+    "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+    "source": "IT之家（RSS）",
     "date": "2026年8月7日14时11分"
   },
   {
