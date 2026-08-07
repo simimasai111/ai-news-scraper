@@ -1,11 +1,91 @@
 [
   {
+    "id": "cmsj9hugb03kcroo5o9hav84d",
+    "title": "蚂蚁百灵 Ling-3.0-flash 上线 DeepInfra",
+    "url": "https://x.com/AntLingAGI/status/2085790064119087157",
+    "summary": "感谢我们的 day0 合作伙伴 @DeepInfra 提供无可挑剔的推理支持！欢迎在 Deep Infra 高度定制、专业服务的推理平台上试用 Ling-3.0-flash！🚀",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月8日2时7分"
+  },
+  {
+    "id": "cmsj9hxq103m2roo5lxq52e1k",
+    "title": "GPT-Live 支持文件与项目功能",
+    "url": "https://x.com/jxnlco/status/2085789973010354299",
+    "summary": "与你的 PDF 聊天，甚至更进一步。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月8日2时7分"
+  },
+  {
+    "id": "cmsj9hugb03kdroo5k1ej14lk",
+    "title": "蚂蚁百灵 Ling-3.0-flash 上线 SGLang",
+    "url": "https://x.com/AntLingAGI/status/2085789437553004874",
+    "summary": "蚂蚁百灵 Ling-3.0-flash 已在 SGLang 中提供 Day-0 支持，该 124B MoE 模型专为生产级智能体打造。模型从预训练起采用混合线性架构（KDA+MLA 5：1 堆叠、1/64 稀疏 MoE），并新增 INT4 和 MXFP4 变体，可在单台 NVIDIA DGX Spark 上端到端运行。",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月8日2时5分"
+  },
+  {
+    "id": "cmsj9i1p103ndroo51a852k4w",
+    "title": "AMD 收购 Taalas，将 AI 模型直接烧录进芯片",
+    "url": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon",
+    "summary": "AMD 收购加拿大 AI 芯片初创公司 Taalas，后者将模型架构与训练参数直接嵌入芯片，推理速度极快但每颗芯片锁定单一模型。其演示芯片运行 Llama 3.1-8B 时，每用户每秒处理超 16，000 tokens，远超竞品。AMD 计划将该技术纳入加速器路线图，与 Instinct GPU 作为系统级方案共同提供，交易尚待监管批准。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月8日2时1分"
+  },
+  {
+    "id": "cmsj9hugb03keroo5qf7f0fuu",
+    "title": "蚂蚁百灵发布Ling-3.0-tiny，可自托管",
+    "url": "https://x.com/AntLingAGI/status/2085788442726965571",
+    "summary": "一个小而强大的模型，快和我们的合作伙伴 @kilocode 一起试试吧！它足够小，可以在很多不同的……设备上自托管 😈 期待你的创作！\n\n【引用 @kilocode】：用更少的算力获得更多智能？我们加入 😎\n\n今天就在 Kilo 中试试 Ling-3.0-tiny。限时完全免费。",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月8日2时1分"
+  },
+  {
+    "id": "cmsj9i6ah03p6roo5nxfkziht",
+    "title": "前沿实验室的标配：逃逸沙箱的模型",
+    "url": "https://x.com/swyx/status/2085790995569090966",
+    "summary": "如果你的模型在网络安全测试中没有逃出沙箱，你还算前沿实验室吗？",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月8日2时11分"
+  },
+  {
+    "id": "cmsja7g5z0492roo5yrl3gga8",
+    "title": "Sierra 推出 Voice Personas，让智能体同时定制行为与表达",
+    "url": "https://sierra.ai/blog/introducing-voice-personas",
+    "summary": "Sierra 今日发布 Voice Personas，将智能体的行为与表达方式解耦，允许企业分别设计\"做什么\"和\"怎么说\"。该功能旨在让 AI 智能体在完成任务的同时，以更贴合品牌调性的语气与用户互动，提升客户体验的个性化程度。",
+    "source": "Sierra：Blog（RSS）",
+    "date": "2026年8月8日2时0分"
+  },
+  {
     "id": "cmsj7f6uw01twroo5j0v5qmyf",
     "title": "NoimosAI 发布 Social Agent 社交趋势研究智能体",
     "url": "https://x.com/testingcatalog/status/2085775212142809252",
     "summary": "NoimosAI 发布 Social Agent，可跨社交平台研究趋势，分析特定领域内表现优异的帖子并据此生成内容。该智能体支持多平台帖子与轮播图自动发布及定时推送，还能从产品图、链接或代码生成 UGC 和产品视频，并对已连接账号进行表现分析与改进建议。",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月8日1时8分"
+  },
+  {
+    "id": "cmsj9hugb03kfroo5ii91u9gz",
+    "title": "蚂蚁百灵Ling-3.0-tiny上线Novita",
+    "url": "https://x.com/AntLingAGI/status/2085787954954592728",
+    "summary": "试试我们合作伙伴的 Ling-3.0-tiny！@novita_labs 哦，它小到可以托管在……很多设备上 😎 让我们看看你的设计！\n\n【引用 @novita_labs】：来自 @AntLingAGI 的 Ling-3.0-tiny 现已在 Novita 上线，可通过 @openrouter 使用。\n\n🎁 8 月 13 日前免费。\n\n7.9B MoE · 每 token 仅 1.3B 激活参数。\n\n专为响应式 AI 智能体、指令遵循和多轮对话而构建。",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月8日1时59分"
+  },
+  {
+    "id": "cmsj8zv6c03eqroo5fvv6nhzu",
+    "title": "TutorMoments： Do AI tutors know when to help and when to hold back？",
+    "url": "https://huggingface.co/blog/allenai/tutormoments",
+    "summary": null,
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年8月8日1时53分"
+  },
+  {
+    "id": "cmsj8rfkl02ruroo5uvyqiqiq",
+    "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
+    "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
+    "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "date": "2026年8月8日1时51分"
   },
   {
     "id": "cmsj7cr3001orroo5683monq6",
@@ -16,6 +96,38 @@
     "date": "2026年8月8日1时4分"
   },
   {
+    "id": "cmsj8fnii02n9roo57yydhmel",
+    "title": "OpenAI 智能音箱或定价超 300 美元，用活动部件营造\"更鲜活\"感",
+    "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+    "summary": "OpenAI 即将推出的智能音箱售价可能超过 300 美元，知情人士称该公司已讨论最高定价 400 美元。该设备被 OpenAI 视为智能手机的替代品，并将通过活动部件让产品显得\"更鲜活\"。OpenAI 拒绝对产品路线图置评。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月8日1时36分"
+  },
+  {
+    "id": "cmsj8ffib02kyroo5sa8d9vwp",
+    "title": "Anthropic 放宽 Fable 5 生物学限制，但保留病毒学与毒理学防护",
+    "url": "https://the-decoder.com/anthropic-loosens-fable-5s-biology-restrictions-but-keeps-the-guardrails-on-for-virology-and-toxicology",
+    "summary": "Anthropic 将 Fable 5 生物学安全过滤器的误报率降低约 85%，此前几乎所有生物学查询都被拦截并转至能力较弱的 Opus 5。用户现可用 Fable 5 处理解读化验结果、理解症状、回答医学问题等更多任务。病毒学、毒理学和分子设计等\"双重用途\"主题仍受限，Anthropic 正构建访问计划供研究人员未来使用受限功能。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月8日1时35分"
+  },
+  {
+    "id": "cmsj8u7ne02x1roo5nkai7nca",
+    "title": "CPU 与神经符号 AI 的崛起",
+    "url": "https://garymarcus.substack.com/p/cpus-and-the-rise-of-neurosymbolic",
+    "summary": "纯神经网络主要依赖 GPU 进行并行矩阵运算，而经典计算多用 CPU，神经符号 AI 则通常两者兼需。2012 年至 2023 年中，商业 AI 几乎完全由 GPU 驱动，如今这一格局正在改变。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月8日1时35分"
+  },
+  {
+    "id": "cmsj8fes302kuroo5oev7x5g5",
+    "title": "MiniMax H3 打造生物发光入侵奇景",
+    "url": "https://x.com/MiniMax_AI/status/2085781012978843972",
+    "summary": "OMG 生物发光生物入侵了！！🫨\n\n这可能是用 H3 做过的最好玩的东西。快来试试！✨🪼\n\n【引用 @PixVerse_】：一家便利店。一个连续手机长镜头。玻璃内有东西在动。\n\n使用 MiniMax_AI H3 在 PixVerse 上创作--原始手持写实感、一致的空间运动、反射表面，以及粗糙的手绘动画，全部融于一段 15 秒的连续镜头中。@Hailuo_AI",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月8日1时32分"
+  },
+  {
     "id": "cmsj7cmrx01mfroo5cotpsq5g",
     "title": "Keras社区会议今日召开，聚焦vLLM集成",
     "url": "https://x.com/fchollet/status/2085773575282143337",
@@ -24,12 +136,52 @@
     "date": "2026年8月8日1时2分"
   },
   {
+    "id": "cmsj8hsae02pfroo5bzv4b8qa",
+    "title": "OpenAI 因 Astra 网络能力升级安全管控",
+    "url": "https://x.com/testingcatalog/status/2085779636181516698",
+    "summary": "OpenAI 内部报告称，即将推出的模型 Astra 在智能体编码和网络安全方面取得显著进展，公司据此判定其可能具备关键网络能力。OpenAI 随即对更高能力模型实施更严格的安全控制，包括隔离测试环境、限制网络和工具访问、加强模型权重保护与加密，并暂停不符合新要求的 Astra 相关内部活动。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月8日1时26分"
+  },
+  {
+    "id": "cmsj8v4cc0311roo5d6d5ij8d",
+    "title": "黄仁勋：AI处于最终前沿",
+    "url": "https://x.com/JensenHuang/status/2085779369830822040",
+    "summary": "AI at the final frontier 🚀\n\n【引用 @elonmusk】：SpaceX 已承诺独家使用 Nvidia GPU，因为它们是最好的",
+    "source": "X：Jensen Huang (@JensenHuang)",
+    "date": "2026年8月8日1时25分"
+  },
+  {
     "id": "cmsj81yyp02cwroo5rcq20vke",
     "title": "LangChain 推出 Managed Deep Agents 公开测试版",
     "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
     "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
     "source": "LangChain：Blog（RSS）",
     "date": "2026年8月8日1时24分"
+  },
+  {
+    "id": "cmsj8kfxp02qzroo5ioxvvu5j",
+    "title": "Databricks 揭示 AI 编程 token 支出指数级增长",
+    "url": "https://x.com/Yuchenj_UW/status/2085779009913430237",
+    "summary": "Databricks 数据显示 AI 编程 token 支出正指数级增长。GLM 5.2、Opus 4.8 和 GPT 5.6-Sol 位于\"效率前沿\"，即每美元质量最优；而 Opus 5.0 相比 4.8 出现成本回退，说明新模型未必更高效。该公司正重投路由、评估及开源与专有模型组合，以优化支出经济学。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月8日1时24分"
+  },
+  {
+    "id": "cmsj8fcb002jvroo5mab9qpdn",
+    "title": "OpenAI 因网络风险放缓 Astra 开发",
+    "url": "https://x.com/kimmonismus/status/2085777800783355997",
+    "summary": "OpenAI 已放缓\"Astra\"（即\"GPT-6\"）的开发，因其无法排除该模型具备\"关键\"网络攻击能力。据 Axios 报道，新模型在发布前将接受更严格的安全测试、隔离评估环境及对智能体应用的全面监控。这可能是前沿 AI 实验室首次因网络安全隐患而公开承诺放缓自家模型的开发。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日1时19分"
+  },
+  {
+    "id": "cmsj999i903i8roo5jxe3i6dw",
+    "title": "持续学习时代的 8 个预测",
+    "url": "https://www.dwarkesh.com/p/era-of-continual-learning",
+    "summary": "持续学习将颠覆现有 AI 监管与对齐范式：模型不再\"训练后部署\"，而是每日基于数百万次工作会话更新权重，因此监管应转向月度或季度风险检查，而非部署前一次性评估。技术对齐需解决权重持续更新下的越狱与恶意注入问题。个性化权重服务的算力经济将偏向大型组织，个人以 batch size 1 服务自身可能面临 100 倍以上的算力效率惩罚。",
+    "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+    "date": "2026年8月8日1时17分"
   },
   {
     "id": "cmsj7cqqt01ojroo5msk982px",
