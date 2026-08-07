@@ -1,5 +1,29 @@
 [
   {
+    "id": "cmsjfxfoz08r5roo5066nkt3q",
+    "title": "AI2027预测之准令人惊叹",
+    "url": "https://x.com/kimmonismus/status/2085834526526189975",
+    "summary": "\"AI2027\"的预测准确得离谱。\n\n而且它仍然落后于实际时间线。\n\n事情发生得比任何人预期的都要快。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日5时4分"
+  },
+  {
+    "id": "cmsjfxm9x08tkroo55przvm1g",
+    "title": "OpenAI 谈 HuggingFace 事件与模型失准",
+    "url": "https://x.com/fofrAI/status/2085834260238287322",
+    "summary": "必看内容。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月8日5时3分"
+  },
+  {
+    "id": "cmsjfxda908pdroo5dr0iyopk",
+    "title": "Databricks 将 AI 编码支出降低 70%：规模化成本管理实践",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "summary": "Databricks 通过迁移至更高效模型、动态路由及元 harness 等策略，将 AI 编码支出降低 70%，同时保持每用户成本大致固定。该公司已开源其关键基础设施组件 Omnigent 与 Unity AI Gateway。Stripe 等企业发现 Opus 4.7 较 4.6 质量无提升且成本更高，因此未内部部署。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月8日5时2分"
+  },
+  {
     "id": "cmsjdsiyf076droo5odyiwnyk",
     "title": "GPT-5.6 Sol 获赞网络安防得力助手",
     "url": "https://x.com/gdb/status/2085819760953192790",
@@ -8,12 +32,60 @@
     "date": "2026年8月8日4时5分"
   },
   {
+    "id": "cmsjgimao093jroo5ekt3rjhi",
+    "title": "Conductor Cloud 为云端智能体提供本地逃生通道",
+    "url": "https://x.com/charlieholtz/status/2085830262294974904",
+    "summary": "在云端运行智能体最令人头疼的一点是，有时你确实需要访问本地机器。\n\n通过 Conductor Cloud，我们既提供云端的全部优势，也配备了一系列本地逃生通道。\n\n所有云端智能体均可使用：\n- 从云端到本地主机的端口转发\n- 从云端环境到本机的文件同步\n- 一个\"运行本地命令\"工具，让智能体能在你的 Mac 上远程执行命令\n\n以下是演示：",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月8日4时47分"
+  },
+  {
+    "id": "cmsjfxl3q08t2roo5jft39c5z",
+    "title": "Grok 语音模式新增 27 种音色",
+    "url": "https://x.com/cb_doge/status/2085829723108651284",
+    "summary": "Grok 语音模式现在有 27 种不同的音色。\n\n网页端也可使用。试试看吧。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月8日4时45分"
+  },
+  {
+    "id": "cmsjev0o207vzroo58q2t5u9b",
+    "title": "NVIDIA Labs 开源 NOOA：将 AI 智能体封装为单一 Python 类的面向对象框架",
+    "url": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework",
+    "summary": "NVIDIA Labs 开源 NOOA，一个模型无关的 Python 框架，将提示词模板、工具模式、回调与工作流图整合为单一 Python 类。在 SWE-bench Verified 上达 82.2%、CyberGym L1 达 86.8%，token 消耗约为对比开源 harness 的一半。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月8日4时42分"
+  },
+  {
+    "id": "cmsjeus3607saroo5bip4hrmc",
+    "title": "Claude Code 会话间可互发消息",
+    "url": "https://x.com/AISafetyMemes/status/2085828393539719190",
+    "summary": "\"你的会话现在可以互相发消息了。\"\n\n鉴于 OpenAI 刚发现其智能体在做什么，今天大胆发布此功能。\n\n【引用 @ClaudeDevs】：Claude Code 新功能：你的会话现在可以互相发消息。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代劳。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务中途接收它。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月8日4时40分"
+  },
+  {
+    "id": "cmsjerngp07pzroo5u007b9k5",
+    "title": "Designing With AI？ Make a Jig.",
+    "url": "https://every.to/p/designing-with-ai-make-a-jig",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月8日4时39分"
+  },
+  {
     "id": "cmsjds6xo070troo5c4fjvclv",
     "title": "Fenix Flexin 不再否认用 AI 制作《Rubberz》",
     "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
     "summary": "洛杉矶说唱歌手 Fenix Flexin 回应 AI 制作争议，称\"从未说过没用 AI\"，并强调 AI 与录音过程无关。此前制作人 Medasin 指认 AI 工具 Treblo（原 Sonauto）参与制作，该公司发布的 AI 检测器也将其标记为 Treblo AI 生成。Fenix 上月接受 Hot 97 采访时曾明确表示歌曲\"没有 AI\"。",
     "source": "The Verge：AI（RSS）",
     "date": "2026年8月8日4时1分"
+  },
+  {
+    "id": "cmsjeuusg07u0roo56hfnufk5",
+    "title": "OpenAI 暂停 Astra 部分内部工作，称其网络安全能力或已达\"严重\"阈值",
+    "url": "https://x.com/kimmonismus/status/2085822646705696784",
+    "summary": "OpenAI 称其即将推出的 Astra 模型网络安全能力可能已达\"严重\"阈值，初步内部评估发现其在智能体编码和网络性能上取得重大进展，因此无法排除达到该级别的可能。OpenAI 将暂停 Astra 中未满足强化安全控制要求的内部活动（含部分训练），同时限制网络和工具访问、加强模型权重保护，并监控所有智能体用途的风险行为。整体开发将在更严格管控下继续，这可能为中国模型带来契机。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日4时17分"
   },
   {
     "id": "cmsjdsgzn075lroo51fgkta2r",
@@ -78,6 +150,14 @@
     "summary": "OpenAI 依据其 Preparedness Framework，将即将推出的 Astra 模型列为首个\"严重\"网络安全等级模型，因其内部评估显示该模型在智能体编码和网络攻击能力上取得重大进展，无法排除达到\"严重\"能力阈值的可能。OpenAI 已暂停 Astra 中未达强化安全要求的工作，并限制网络与工具访问、加强模型权重保护及监控智能体行为，同时表示正努力让 Astra 广泛可用。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月8日3时37分"
+  },
+  {
+    "id": "cmsjehg6n07niroo5mph45vk0",
+    "title": "LangChain 推出 Managed Deep Agents：最快上生产环境的深度智能体方案",
+    "url": "https://www.langchain.com/blog/introducing-managed-deep-agents",
+    "summary": "LangChain 发布 Managed Deep Agents，现处于私有测试阶段。该托管服务提供持久化执行、沙箱、工具访问和 LangSmith 可观测性，让开发者无需自建运行时即可在生产环境运行深度智能体，旨在成为最快落地生产级深度智能体的方案。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月8日3时36分"
   },
   {
     "id": "cmsjd7gl106msroo54s1p6ua6",
