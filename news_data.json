@@ -1,11 +1,75 @@
 [
   {
+    "id": "cmsjiao310albroo5ir78fwo7",
+    "title": "手机里的魔法：AI智能体等你体验",
+    "url": "https://x.com/thsottiaux/status/2085850908559298732",
+    "summary": "在你手机的某个角落，藏着我们发布的最接近魔法的东西。它能为你做事。只要你愿意，全天候都可以。去试试吧。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月8日6时9分"
+  },
+  {
+    "id": "cmsjj5cs50b67roo5a7lqvrij",
+    "title": "AI 让工作成果大幅提升",
+    "url": "https://x.com/gabriel1/status/2085857138522685821",
+    "summary": "啊，AI 让我的工作成果好太多了\n\n当我们发布新功能时，AI 会把新功能的截图发送给每一位在客户通话中请求过该功能的人\n\n否则这完全不可能做到",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月8日6时34分"
+  },
+  {
+    "id": "cmsjj56og0b3qroo546czol3c",
+    "title": "Xfinity客服机器人冒充人类引批评",
+    "url": "https://x.com/natolambert/status/2085855936284110967",
+    "summary": "最糟糕的垃圾体验是 @Xfinity 那个糟糕透顶的客服机器人，他们指示它声称自己是人类，可它明显是 AI。我正打着这条推文，它就一直在循环\"你好 nathan，你还在吗 nathan，你好你好，你好 nathan……\"\n\n可耻。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月8日6时29分"
+  },
+  {
+    "id": "cmsjj566t0b3eroo518jvtk7g",
+    "title": "Replit 本周更新：安全扫描、SSO、迁移",
+    "url": "https://x.com/Replit/status/2085855494518747276",
+    "summary": "Replit 本周动态。三项更新：\n\n1） 在构建时运行的安全扫描 2） 使用单点登录构建 Replit 应用 3） 在工作区之间移动项目\n\nThread 🧵",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月8日6时27分"
+  },
+  {
+    "id": "cmsjj5i9y0b7mroo5b6yg54k9",
+    "title": "Claude托管代理本周推出四项更新",
+    "url": "https://x.com/ClaudeDevs/status/2085853169930957158",
+    "summary": "本周我们为Claude托管代理推出了四项更新。\n\n首先，你现在可以为会话设置预算，以保持支出可预测。达到限制的会话会暂停并触发budget_reached事件，你可以提高预算以恢复会话。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月8日6时18分"
+  },
+  {
     "id": "cmsjhkcut0a6jroo592eci7th",
     "title": "DeepSeek V4 Flash 低推理预算下仍近满分",
     "url": "https://x.com/dongxi_nlp/status/2085835844984692910",
     "summary": "DeepSeek V4 Flash 在 ARC-AGI-1 上以低推理预算即得约 84 分，最高约 89 分，额外推理仅多解 5 题，表明其后训练产生了异常高效的抽象推理。该模型 ARC-AGI-2 得分 61.4%（$0.04/任务），ARC-AGI-1 得分 89.0%（$0.02/任务），树立了性价比帕累托前沿新标准。",
     "source": "X：马东锡 NLP (@dongxi_nlp)",
     "date": "2026年8月8日5时9分"
+  },
+  {
+    "id": "cmsji2lcy0aebroo5zz4iz68x",
+    "title": "Replit 应用现支持自定义注册体验",
+    "url": "https://x.com/Replit/status/2085847272902873317",
+    "summary": "这也适用于所有现有项目。只需让 agent 迁移到 clerk auth 即可。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月8日5时55分"
+  },
+  {
+    "id": "cmsji2src0ahcroo5rw9dxsmq",
+    "title": "fofr 发布智能体寻人启事",
+    "url": "https://x.com/fofrAI/status/2085846686367088754",
+    "summary": "他当时并不知道。\n\n（引用推文：有人见过我的智能体吗？）",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月8日5时52分"
+  },
+  {
+    "id": "cmsji2rsf0agzroo5wj0xbk8t",
+    "title": "腾讯云开源 TencentDB Agent Memory v2.0：面向 AI 编码智能体的团队级记忆中枢",
+    "url": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0",
+    "summary": "腾讯云开源 TencentDB Agent Memory v2.0，一个面向 AI 智能体的团队级记忆中枢，将对话、文档和代码转化为 Chat Memory、Skill、LLM-Wiki 和 Code-Graph 四类可版本化、带权限的记忆资产。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月8日5时52分"
   },
   {
     "id": "cmsjfxfoz08r5roo5066nkt3q",
