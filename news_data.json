@@ -528,12 +528,76 @@
     "date": "2026年8月7日17时8分"
   },
   {
+    "id": "cmsis3r2o1r6mronk5kvbxtpz",
+    "title": "当 AMD 收购 Taalas，一家中国公司决定把 AI 模型刻进硅片",
+    "url": "https://elsewhere.news/zh/zhenfund/amd-taalas-ai",
+    "summary": null,
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月7日17时8分"
+  },
+  {
     "id": "cmsiq9reo1oskronk05ra3bsd",
     "title": "OpenAI 拟推额度重置购买功能",
     "url": "https://x.com/testingcatalog/status/2085653957997682695",
     "summary": "OpenAI 正在研究购买用量重置的可能性。价格区间从低到高，取决于订阅层级。\n\nPlus - $5-8\nPro Lite - $25-40\nPro - $50-80\n\n假设 Codex 每周约有 300 万用户，每次免费重置的成本至少为 1500-2000 万美元。",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月7日17时7分"
+  },
+  {
+    "id": "cmsiry2eo1r4tronkt9qv2twu",
+    "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+    "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
+    "source": "公众号：小红书技术（dots.llm）",
+    "date": "2026年8月7日17时59分"
+  },
+  {
+    "id": "cmsisexul1rhuronkqbco4rt8",
+    "title": "OpenAI 联合多厂商发布 Agent Plugins 开放标准",
+    "url": "https://x.com/testingcatalog/status/2085666271727645068",
+    "summary": "OpenAI 联合 Cursor、Vercel、GitHub 等推出 Agent Plugins 开放标准，打包 Agent Skills 并支持共享格式的 MCP 服务器配置，实现一次构建、跨兼容智能体客户端使用。Google 已宣布加入维护者行列，Gemini Enterprise 近期进展显示其计划集成该标准；Anthropic 则沿用自家 Claude 专属标准。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月7日17时56分"
+  },
+  {
+    "id": "cmsira4in1pvjronkofnhj6bg",
+    "title": "Qwen3.8-Max云图识别比肩顶级模型",
+    "url": "https://x.com/Alibaba_Qwen/status/2085661188843794548",
+    "summary": "云一直像只猫，Qwen3.8-Max只是最先看到了。😼☁️ 试试吧！",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月7日17时35分"
+  },
+  {
+    "id": "cmsir9x291ps8ronklayt3rcn",
+    "title": "谷歌AI战略重回布林手中",
+    "url": "https://x.com/kimmonismus/status/2085660891442254029",
+    "summary": "谷歌（联合）创始人谢尔盖·布林此前实际上已退休，但谷歌在AI竞赛中的困境将他拉回了行动中。\n\n讽刺的是，Gemini危机让这位联合创始人再次成为塑造谷歌AI战略的最有影响力的声音之一。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月7日17时34分"
+  },
+  {
+    "id": "cmsisb7ky1r7mronkxzyc0ikb",
+    "title": "特斯拉 FSD 监督版已在欧洲 19 国完成 220 万公里训练测试，号称可处理\"普通人一生难遇\"的极端路况",
+    "url": "https://www.ithome.com/0/987/119.htm",
+    "summary": "特斯拉官方今日宣布，FSD（监督版）已在欧盟 19 个国家累计完成 220 万公里的训练与测试，期间处理了包括普通人一生难遇的极端情况。特斯拉强调该功能目前仍属 L2 级辅助驾驶，驾驶员需保持注意力并随时准备接管。一周前（7 月 29 日）欧洲官方账号曾称，过去 4 个月 FSD 在 5 个欧盟国家累计行驶超 5200 万公里，安全性为人工驾驶的 5.2 倍以上。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日17时31分"
+  },
+  {
+    "id": "cmsisb7ky1r7nronk1bnv2bsy",
+    "title": "小米澎湃 HyperOS 4 更多特性首曝：超级小爱专家模式、全新融合设备中心等",
+    "url": "https://www.ithome.com/0/987/118.htm",
+    "summary": "小米澎湃 HyperOS 4 宣传页面曝光，自研内核新增负载精算、内存预载技术，并采用柔光玻璃材质与全新锁屏设计。系统支持同尺寸小部件堆叠、桌面文件夹最大 6*3 调整，全新融合设备中心支持设备置顶与多家庭切换。超级小爱新增专家模式，支持复杂任务深度思考与定时任务自动执行，另有 AI 笔记与智能输入法。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日17时29分"
+  },
+  {
+    "id": "cmsisb7ky1r7qronkgpohspmx",
+    "title": "AI 艺人\"方桃子\"带货美瞳广告遭下架，声称\"戴了一天都很舒服\"",
+    "url": "https://www.ithome.com/0/987/103.htm",
+    "summary": "AI 短剧《被裁掉的女孩》女主角\"方桃子\"抖音主页上的美瞳广告视频已下架。该推广视频中\"方桃子\"口播美瞳\"戴了一天都很舒服\"\"眨眼不偏移\"，引发网友质疑：AI 虚拟人没有真实眼睛，无法试戴美瞳，不可能有真实佩戴体验。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日17时11分"
   },
   {
     "id": "cmsiq7hmw1oocronkffzzohd2",
