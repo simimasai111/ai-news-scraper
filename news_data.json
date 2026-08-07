@@ -1,5 +1,13 @@
 [
   {
+    "id": "cmsj57ite002srov86d5li5ie",
+    "title": "Replit 设计马拉松直播：获取设计反馈",
+    "url": "https://x.com/Replit/status/2085758168601444762",
+    "summary": "Designathon 直播：获取你的设计反馈 https://x.com/i/broadcasts/1kKzDDZynMoJv",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月8日0时1分"
+  },
+  {
     "id": "cmsib5tcp1782ronk25cxokvi",
     "title": "微软承认向部分 Win11 设备强推 OneDrive Photos，否认用用户人脸训练 AI",
     "url": "https://www.ithome.com/0/986/835.htm",
@@ -536,6 +544,70 @@
     "date": "2026年8月7日23时5分"
   },
   {
+    "id": "cmsj5fkfu00a5rov8amr7d3ro",
+    "title": "GPT-5.6 Luna 降价十倍带动 token 量激增",
+    "url": "https://x.com/OpenRouter/status/2085756417353412922",
+    "summary": "杰文斯悖论正在上演：\n\nGPT-5.6 Luna 在 OpenRouter 上的价格下降了 10 倍，其 token 用量也随之增长了 10 倍。本周尚未结束，我们预计增幅将超过 10 倍。\n\n同时超越了 GLM 5.2：",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月7日23时54分"
+  },
+  {
+    "id": "cmsj4cz7x249hronk2hynz72z",
+    "title": "GPT-5.6 Luna 降价十倍后 token 量激增十倍",
+    "url": "https://x.com/OpenRouter/status/2085754853423231199",
+    "summary": "杰文斯悖论正在上演：\n\nGPT-5.6 Luna 在 OpenRouter 上的价格降至原来的十分之一后，其 token 使用量增长了十倍。\n\n超越了 GLM 5.2。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月7日23时48分"
+  },
+  {
+    "id": "cmsj57pqq005trov8h4361y00",
+    "title": "维诺德·科斯拉：AI 将终结印度 BPO 业务",
+    "url": "https://x.com/rohanpaul_ai/status/2085753409022710137",
+    "summary": "维诺德·科斯拉警告，传统 IT 服务和 BPO 业务\"将消失\"，但印度若转向部署 AI 仍可获胜。此前 BBC 报道，菲律宾 400 亿美元外包业雇佣 190 万人，AI 正取代其赖以生存的岗位；超三分之二行业协会成员已开展 AI 试点，其总裁承认部分岗位已流失。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月7日23时42分"
+  },
+  {
+    "id": "cmsj5377924zoronkrpjrmhch",
+    "title": "Gemini 3.5 Pro难产暴露谷歌内斗",
+    "url": "https://x.com/AYi_AInotes/status/2085752373427716525",
+    "summary": "谷歌内斗是不是挺严重的，感觉Gemini 3.5 Pro难产，可能是谷歌AI最小的问题。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月7日23时38分"
+  },
+  {
+    "id": "cmsj44w1j240ironksmzrc43m",
+    "title": "智能体AI推动CPU算力需求激增",
+    "url": "https://x.com/fchollet/status/2085751995973964054",
+    "summary": "随着智能体AI的发展，工作负载对CPU的消耗越来越大。转移到CPU上的认知计算份额持续增加。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月7日23时36分"
+  },
+  {
+    "id": "cmsj4508o242uronkhyuv8mn5",
+    "title": "OpenAI Slack 挑战赛：频道人数控制在 10 人以内",
+    "url": "https://x.com/jxnlco/status/2085749820002824628",
+    "summary": "OpenAI Slack 挑战赛，超高难度。保持 Slack 频道人数少于 10 人。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月7日23时28分"
+  },
+  {
+    "id": "cmsj567sg000erov8s05amyhc",
+    "title": "Anthropic 自研 AI 芯片岗位薪资倒挂：模型训练研究岗最高 85 万美元，高于造芯工程师",
+    "url": "https://www.ithome.com/0/987/218.htm",
+    "summary": "Anthropic 扩大内部芯片设计团队并计划开发自研 ASIC 芯片，但岗位薪资出现倒挂：负责\"Chip Design RL\"的研究工程师年薪最高 85 万美元，而实际设计芯片的 Silicon Engineer 岗位薪资约为 32 万至 48.5 万美元。两类岗位技能重合度较高，均要求完整 ASIC/FPGA 设计流程及实际芯片开发经验。首款 ASIC 芯片规格、制造合作方及发布时间尚未公布。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日23时25分"
+  },
+  {
+    "id": "cmsj567sg000frov8i9bdonah",
+    "title": "AWS 要求工程师关闭闲置 EC2 实例，缓解 AI 算力紧缺",
+    "url": "https://www.ithome.com/0/987/217.htm",
+    "summary": "亚马逊 AWS 要求工程师关闭闲置的 EC2 实例以缓解 AI 带来的算力压力，约 65% 的实例在 30 天周期内平均 CPU 利用率低于 20%。AWS 升级了 Compute Optimizer，自动分析 14 天数据并标记峰值 CPU 利用率低于 15%、网络流量极低的虚拟机。过去一年 AWS 新增 3.8 吉瓦电力容量，足以为 280 万户家庭供电。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月7日23时25分"
+  },
+  {
     "id": "cmsj32dg4234cronk3bsbx8pg",
     "title": "开源强模型将至，网络安全对策何在",
     "url": "https://x.com/emollick/status/2085745490566562276",
@@ -549,6 +621,14 @@
     "url": "https://x.com/PixVerse_/status/2085742919697485854",
     "summary": "AI 电影制作正从孤立的片段，迈向可延续的角色、世界与故事。\n\n8 月 7 日，PixVerse 将为身处这一前沿的创作者开启全新的全球机遇。\n\n敬请期待。",
     "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月7日23时0分"
+  },
+  {
+    "id": "cmsj5wtvm00gproo53sovhy39",
+    "title": "Databricks 推出 FILE 原生列类型，面向多模态数据",
+    "url": "https://www.databricks.com/blog/introducing-file-type-native-column-type-multimodal-data",
+    "summary": "Databricks 发布 FILE 原生列类型，用于在 Lakehouse 中直接存储和管理多模态数据。该类型将文件作为一等公民纳入表结构，支持图像、音频、视频等非结构化数据与结构化数据统一处理，简化了多模态数据管线的构建与查询。",
+    "source": "Databricks：Blog（RSS）",
     "date": "2026年8月7日23时0分"
   },
   {
@@ -592,12 +672,28 @@
     "date": "2026年8月7日22时50分"
   },
   {
+    "id": "cmsj44fqg23zeronk557773k1",
+    "title": "GC 提问：过度自信 AI 诊断误导如何称呼",
+    "url": "https://x.com/dexhorthy/status/2085739929146134530",
+    "summary": "GC 里的一个问题--当有人被过度自信的 AI 调试诊断误导，随后一堆垃圾输出接踵而至，这种情况你们怎么称呼？",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月7日22时48分"
+  },
+  {
     "id": "cmsj32j8f236kronk5sbchbnv",
     "title": "Seedance 2.5 登陆 Arcads，工作流更智能",
     "url": "https://x.com/rohanpaul_ai/status/2085738832734093721",
     "summary": "Seedance 2.5 登陆 Arcads，让工作流更有意思。\n\nArcads 从你所在品类中已有的表现格式出发，用 Claude 将其转化为创意方向，现在又将 Seedance 2.5 引入生产层。\n\n如今，同一套系统可以更接近从研究到成片的完整流程。\n\n该模型将在前 24 小时内提供无限访问。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月7日22时44分"
+  },
+  {
+    "id": "cmsj32ct8233wronkz5bpkdm5",
+    "title": "Nathan Lambert 发布后训练免费视频课程",
+    "url": "https://x.com/natolambert/status/2085738662072127959",
+    "summary": "Nathan Lambert 完成其夏季项目：一套 20 个视频的免费后训练课程，约 12 小时内容，配套幻灯片可修改复用。课程覆盖核心基础及他认为重要性将上升的研究方向，并附有代码练习。为庆祝发布，其书籍在 Manning 平台使用代码 PBLambert 可享 50% 折扣。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月7日22时43分"
   },
   {
     "id": "cmsj1zqqb21x0ronksmpjv84g",
