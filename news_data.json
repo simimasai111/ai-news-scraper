@@ -816,6 +816,46 @@
     "date": "2026年8月8日1时10分"
   },
   {
+    "id": "cmsk1fsdc072wro4brnx6hcv8",
+    "title": "Grok Imagine Image 2.0 发布，支持精准编辑",
+    "url": "https://x.com/testingcatalog/status/2085985289399373839",
+    "summary": "xAI 发布 Grok Imagine Image 2.0 图像模型，现已在 Grok 应用的 Quality Mode 下可用。新模型主打精准编辑、清晰文本渲染、更高事实性和实用性，将编辑作为一等能力，在文生图与图像编辑两项上均排名世界第二。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月8日15时3分"
+  },
+  {
+    "id": "cmsk1ddvm06zgro4bmxfzvqrp",
+    "title": "Airbnb CEO称AI是公司最大利好",
+    "url": "https://x.com/rohanpaul_ai/status/2085987408684913025",
+    "summary": "Airbnb CEO Brian Chesky：\"今年我们在AI token上的投入将远超预期，但这很好，因为投资回报率摆在那里。\n\n我认为现在可以放心地说，AI是Airbnb遇到过的最好的事情。我觉得我们正在成为一家AI原生的公司，这可能是我们业绩表现的头号原因。\"\n\n- Airbnb财报超预期后股价大涨15%\n\n----\n\n来源：\"CNBC Television\" YouTube频道（完整视频链接见评论）",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月8日15时12分"
+  },
+  {
+    "id": "cmsk1bqvu06tvro4b0yi15otk",
+    "title": "小米音箱\"超级小爱-专家模式\"开启内测招募：升级声纹管理、语音歌单等功能",
+    "url": "https://www.ithome.com/0/987/325.htm",
+    "summary": "小米音箱\"超级小爱-专家模式\"开启内测招募，Xiaomi 智能家庭屏 11、Xiaomi Sound 2 Max、Xiaomi Sound 2 Pro 可在\"小米音箱\"App 申请。新版本升级声纹管理、小爱记忆、小爱管家、语音歌单等功能，支持语音创建自动化场景、语音调整歌单。今年 7 月，小爱同学已宣布小米音箱大升级，9 款设备内置超级小爱。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日14时54分"
+  },
+  {
+    "id": "cmsk1bqvu06twro4bkmguwgr9",
+    "title": "Anthropic 优化 Claude Fable 5 生物安全机制，减少 85% 误拦截",
+    "url": "https://www.ithome.com/0/987/323.htm",
+    "summary": "Anthropic 更新 Claude Fable 5 模型的生物安全防护机制，使生物学相关问答的降级现象减少 85%，系统现可处理更广泛的生物学任务。公司调整了安全分类器（safety classifiers）的工作机制，使其能更准确区分无害问题与高风险问题。为防范 AI 风险，Fable 5 仍会限制专业生物学研究和药物开发相关请求。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日14时50分"
+  },
+  {
+    "id": "cmsk0aslc05u2ro4bbtojvzi7",
+    "title": "Grok Imagine 2.0（Low）登顶文生图竞技场第二",
+    "url": "https://x.com/rohanpaul_ai/status/2085977596723175628",
+    "summary": "Grok Imagine Image 2.0（Low）在文生图竞技场跃升12位至第2名（1320分），超越自家上一代质量模型（第14名，1228分）。该版本仅限App使用，不支持API。在图像编辑竞技场同样以1439分位列第2，并在艺术、肖像、文字渲染等五个类别中均排名第2。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月8日14时33分"
+  },
+  {
     "id": "cmsjx2z4e03d9ro4b6lvxnb1v",
     "title": "OpenAI智能体互聊视频值得一看",
     "url": "https://x.com/emollick/status/2085956565157253272",
