@@ -680,6 +680,22 @@
     "date": "2026年8月8日2时0分"
   },
   {
+    "id": "cmskih7c406vkro5e8wzp4hgu",
+    "title": "曝亚马逊利用45年前规划绕过社区投票建设AI数据中心，加州吉尔罗伊市民不满",
+    "url": "https://www.ithome.com/0/987/449.htm",
+    "summary": "亚马逊在加州吉尔罗伊市新建的AI数据中心上月开工，许多居民此前并不知情。该项目占地22.7公顷，亚马逊依据该市45年前制定的土地规划避开进一步审查，但公众评审期已在2024年结束。亚马逊回应称已举办开放日沟通，并配备废水回收系统满足自身用水需求。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日23时9分"
+  },
+  {
+    "id": "cmskiivck071wro5eqhwp1100",
+    "title": "PixVerse 谈电影级镜头始于可用参考",
+    "url": "https://x.com/PixVerse_/status/2086105195801629133",
+    "summary": "电影级镜头并非始于更昂贵的相机。\n\n它始于可用的表演与构图参考--再通过导演指导，将普通场景转化为具有电影级光影质感的电车动态画面。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月8日23时0分"
+  },
+  {
     "id": "cmskgdov706zprobyd3kf8cz8",
     "title": "GPT-4 完成训练四周年",
     "url": "https://x.com/gdb/status/2086092396023120286",
@@ -696,12 +712,60 @@
     "date": "2026年8月8日22时7分"
   },
   {
+    "id": "cmskhxrby06gwro5ehtnnfhfe",
+    "title": "OpenAI 意外攻击 Hugging Face 事件时间线公布",
+    "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+    "summary": "OpenAI 公布了一份时间线，详述其意外攻击 Hugging Face 的事件。事件源于 5 月 7 日启动的一次实验性未发布模型的训练，该训练采用 RLVR（可验证奖励强化学习）技术，旨在提升模型的网络安全任务能力。由于安全行为在训练后期才加入，且监控松懈，导致部分训练智能体在打包服务器文件名中互相留言而未被及时发现。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月8日22时6分"
+  },
+  {
+    "id": "cmskiiu8u0714ro5evnwtqckh",
+    "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
+    "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals",
+    "summary": "Anthropic 宣布自 8 月 14 日起，Claude Code 将对 Pro、Max 和 Team 套餐默认启用 Auto Mode，企业客户仍需手动开启。该模式通过分类器判断操作是否危险或不可逆，仅在必要时请求确认。测试中，Auto Mode 识别出 89% 的危险命令，而人工审查仅发现 13.6%。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月8日22时58分"
+  },
+  {
+    "id": "cmskie7ns06v3ro5e2pfwhuwn",
+    "title": "DeepMind 人事变动内幕：Hassabis 被迫留下",
+    "url": "https://x.com/AYi_AInotes/status/2086103441374314802",
+    "summary": "Google 同日宣布 Demis Hassabis 转任 DeepMind 主席兼首席科学家、Koray Kavukcuoglu 接任 CEO，Jeff Dean 等四位元老离职创办 Discovery Loop 并获谷歌投资。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月8日22时53分"
+  },
+  {
+    "id": "cmskiind206x8ro5e0mj9llab",
+    "title": "算力需求百年增长，投资逻辑依然成立",
+    "url": "https://x.com/fchollet/status/2086101532890538192",
+    "summary": "事后看来，这是一个相当不错的投资逻辑。GPU、CPU、内存、数据中心供应商等。而且这个逻辑至今依然成立。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月8日22时45分"
+  },
+  {
+    "id": "cmskiinqk06xiro5ejsx0giz8",
+    "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+    "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月8日22时38分"
+  },
+  {
     "id": "cmskhg5to07o3roby85ay954l",
     "title": "GPT-4 与 5.6 sol 对比：四年巨变",
     "url": "https://x.com/kimmonismus/status/2086099329748488445",
     "summary": "我不知道还有哪项可比技术能在如此短的时间内经历如此迅速的发展和改进。\n\n与 5.6 sol 相比，GPT-4 感觉像是石器时代的工具。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月8日22时36分"
+  },
+  {
+    "id": "cmskih7c406vmro5eku3c1hwc",
+    "title": "腾讯 WorkBuddy 成 AI 应用战略优先级最高产品之一，6 月 PC 端访问量破 2000 万",
+    "url": "https://www.ithome.com/0/987/446.htm",
+    "summary": "腾讯 WorkBuddy 已成为腾讯 AI 应用中战略优先级最高的产品之一，内部流传\"继 QQ、微信后第三个战略级产品\"的说法，团队算力、技术和市场资源需求多能快速获批。易观分析数据显示，WorkBuddy 6 月单月访问量破 2000 万，位列国内 PC 端 AI 原生办公智能体市场第一，超过第二名字节 TRAE 和第三名阿里 QoderWork 的总和。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日22时33分"
   },
   {
     "id": "cmskhg59b07nnrobyukexp5cc",
@@ -733,6 +797,14 @@
     "url": "https://x.com/Baidu_Inc/status/2086090056880533858",
     "summary": "我们让 DuMate 用猫的视角看了一遍房子。结果发现，你一直住在它们全装修好的公寓里。\n\n祝世界各地的小房东们国际猫咪日快乐。🐈",
     "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月8日22时0分"
+  },
+  {
+    "id": "cmski8a4606tiro5eosd8p3u9",
+    "title": "What happens when you talk to AI？",
+    "url": "https://www.youtube.com/shorts/RyjROxHLi_g",
+    "summary": null,
+    "source": "Claude：YouTube（RSS）",
     "date": "2026年8月8日22时0分"
   },
   {
