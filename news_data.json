@@ -1,11 +1,59 @@
 [
   {
+    "id": "cmskoyilt0664rocmsyr71u46",
+    "title": "Rahul 出任 CTO 引热议",
+    "url": "https://x.com/jxnlco/status/2086152262234350076",
+    "summary": "天哪，@rahulgs 现在是首席技术官了？！",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月9日2时7分"
+  },
+  {
+    "id": "cmskoyfms063mrocmmgw11jm6",
+    "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+    "summary": "Gentoo 的 Bugzilla 因 AI 爬虫流量过载而被迫关闭。大量 AI 抓取机器人持续访问该平台，导致服务不堪重负，项目方不得不暂时关停以应对。目前尚无恢复时间表，这一事件也再次凸显了 AI 爬虫对开源基础设施造成的压力。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月9日2时6分"
+  },
+  {
+    "id": "cmskoyfms063nrocmfpmdkmna",
+    "title": "我在办公室弄丢手机，Claude 建议用蓝牙信号强度追踪",
+    "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+    "summary": "有人在办公室弄丢手机后，Claude 建议通过追踪蓝牙信号强度来定位。该建议来自一次实际求助场景，相关讨论在 Hacker News 上获得 100 点热度。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月9日2时6分"
+  },
+  {
+    "id": "cmskoygc00644rocmsipo8d2t",
+    "title": "Claude 逆向重构 1996 年宝可梦系统",
+    "url": "https://x.com/trq212/status/2086153459787768091",
+    "summary": "我：Claude 被用来在零源码访问的情况下，自主逆向工程并现代化了一个 1996 年的关键任务系统。\n\n对方：难以置信，哪个垂直领域？\n\n我：……消费级，手持消费级。",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月9日2时11分"
+  },
+  {
+    "id": "cmskoyfah0638rocmcpnpg2o7",
+    "title": "亚马逊得州数据中心配套电厂或成美国最大温室气体排放源之一",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+    "summary": "亚马逊在得克萨斯州佩科斯县投资新建一座天然气电厂，为其西得州数据中心供电，装机容量7.65吉瓦，由35台天然气涡轮机组成，初期不接入州电网。该电厂获准每年排放多达3300万吨二氧化碳，超过美国最大燃煤电厂。亚马逊已确认购下该厂址并计划购电，此举或对其2040年碳中和承诺构成挑战。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月9日1时53分"
+  },
+  {
     "id": "cmskmtg9g08uyroyz63imsqik",
     "title": "Pokee AI 发布 Pokee-Isaac 28B：可在客户边界内运行的千万级 token 上下文智能体模型",
     "url": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary",
     "summary": "Pokee AI 发布 Pokee-Isaac 28B，一款 280 亿参数、支持 1000 万 token 上下文的纯文本模型，专为数据不得离开客户边界的受监管行业设计。该模型在 RULER 基准 10M token 长度下得分 93.3%，单张 B200 级 GPU 即可推理，通过 OpenAI 兼容 API 提供并授权 VPC、本地或设备端部署。",
     "source": "MarkTechPost（RSS）",
     "date": "2026年8月9日1时4分"
+  },
+  {
+    "id": "cmskoyilt0665rocmdhdst4ah",
+    "title": "Codex 帮我省订阅费并清理磁盘空间",
+    "url": "https://x.com/jxnlco/status/2086147506363322849",
+    "summary": "今天，codex\n\n1. 帮我省下每年 2000 美元的已取消订阅费用\n2. 找回了 44GB 的额外磁盘空间",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月9日1时48分"
   },
   {
     "id": "cmskn31ek08yjroyzi1jx3j54",
