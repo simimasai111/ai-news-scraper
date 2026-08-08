@@ -24,6 +24,38 @@
     "date": "2026年8月9日2时6分"
   },
   {
+    "id": "cmskq161b06vorocm22fc4n24",
+    "title": "用户呼吁模型切换滑块表情",
+    "url": "https://x.com/ericmitchellai/status/2086160265826218440",
+    "summary": "人们渴望那个滑块\n\n【引用 @ForwardEditor】：拜托让这个球变成我正在使用的模型的表情符号\n\n🌕🌍☀️",
+    "source": "X：Eric Mitchell (@ericmitchellai)",
+    "date": "2026年8月9日2时39分"
+  },
+  {
+    "id": "cmskq18i306wurocmf8pr4gha",
+    "title": "swyx 周末黑客松：一万美元挑战 SaaS",
+    "url": "https://x.com/swyx/status/2086157587205296255",
+    "summary": "翻阅申请。超过 600 人申请，昨晚录取 100 人。\n\n我们要干掉大量 SaaS 产品。\n\n【引用 @swyx】：一万美元\"周末干掉我的 SaaS\"竞赛已上线！\n\n技术栈：任意编码智能体、任意模型，token 花费上限 500 美元（含订阅）。\n\n详情见 luma。来晚了可加入候补名单--截止时间已延至周三。\n\n任务书已发布，已经有人在给他们的\"铁疙瘩\"写提示词了。开干吧！！！",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月9日2时28分"
+  },
+  {
+    "id": "cmskp884i06c4rocm7i3pdlmm",
+    "title": "用户因Claude代理接其他模型遭Anthropic封号",
+    "url": "https://x.com/thsottiaux/status/2086153754525712706",
+    "summary": "开发者@alexgetmancom按教程配置Claude代理（claude-proxy）后，账号遭Anthropic封禁，已提起申诉。Tibo回应称自己不在Anthropic工作，并质疑用其工具链搭配其他模型是否真属违规，同时询问是否有其他用户遇到类似情况。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月9日2时13分"
+  },
+  {
+    "id": "cmskq118f06s9rocmnq8bmptv",
+    "title": "Claude 逆向重构 1996 宝可梦系统",
+    "url": "https://x.com/trq212/status/2086153676113281228",
+    "summary": "我：Claude 被用来在零源码访问的情况下，自主逆向工程并现代化一个 1996 年的关键任务系统。\n\n对方：难以置信，哪个垂直领域？\n\n我：……消费级，手持消费级。",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月9日2时12分"
+  },
+  {
     "id": "cmskoygc00644rocmsipo8d2t",
     "title": "Claude 逆向重构 1996 年宝可梦系统",
     "url": "https://x.com/trq212/status/2086153459787768091",
