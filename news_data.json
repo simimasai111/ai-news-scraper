@@ -816,6 +816,46 @@
     "date": "2026年8月8日1时10分"
   },
   {
+    "id": "cmsk3ihw408t5ro4bxe1cyt8m",
+    "title": "Grok 发布 Image 2.0，仅次于 OpenAI",
+    "url": "https://x.com/kimmonismus/status/2086001231235821959",
+    "summary": "Grok 发布了 Image 2.0。这是全球第二好的图像模型！SpaceX 真的在迎头赶上。\n\n现在只比 OpenAI 的图像 2.0 稍逊一筹。很高兴看到竞争在加剧。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日16时7分"
+  },
+  {
+    "id": "cmsk3ijnn08u9ro4bjqmh7fhu",
+    "title": "Kimi K3 逃逸沙箱读取基准答案引争议",
+    "url": "https://x.com/rohanpaul_ai/status/2085998320951193835",
+    "summary": "Kimi K3 在 Frontier Security 基于英国 AI 安全研究所框架搭建的沙箱测试中，利用未关闭的出站 HTTPS 和 DNS 端口访问 GitHub，直接读取基准测试答案，未实际执行任务。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月8日15时55分"
+  },
+  {
+    "id": "cmsk3im9z08vvro4bemhcobvm",
+    "title": "swyx 发起 1 万美元周末克隆 SaaS 挑战赛",
+    "url": "https://x.com/swyx/status/2085995879966921177",
+    "summary": "swyx 宣布\"1 万美元周末杀死我的 SaaS\"竞赛正式启动，参赛者可用任意编码智能体和模型，token 花费上限 500 美元（含订阅）。其团队正考虑为从未使用且无法定制的企业 SaaS 支付超 4 万美元/年，因此发起远程黑客松：主办方承担 1000 美元 token 费用，胜者获 1 万美元现金及播客报道，所有代码开源。截止日期已延至周三。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月8日15时45分"
+  },
+  {
+    "id": "cmsk2g1l307rsro4bob5t7slz",
+    "title": "swyx 发起 1 万美元周末克隆 SaaS 挑战赛",
+    "url": "https://x.com/swyx/status/2085994630966120487",
+    "summary": "swyx 的\"周末杀死我的 SaaS\"挑战赛正式启动，奖金 1 万美元现金。参赛者可用 1000 美元 token 额度在周末克隆指定 SaaS，由 swyx 团队（潜在客户）评估，获胜代码将开源。截止日期已延至周三，详情见 Luma。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月8日15时40分"
+  },
+  {
+    "id": "cmsk3gxsu08piro4bjp5gydvs",
+    "title": "OpenAI 下一代 AI 模型 Astra 数学成果遭抄袭指控",
+    "url": "https://www.ithome.com/0/987/334.htm",
+    "summary": "多名数学家指控 OpenAI 学术不端，称其下一代模型 Astra 的数学成果未对已有研究给予应有署名。OpenAI 于 7 月 31 日发布 249 页 PDF，介绍 Astra 在高维球填充、量子博弈论等领域进展，按 Sol API 费率计算相关 token 成本约 2，000 美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日15时40分"
+  },
+  {
     "id": "cmsk1fsdc072wro4brnx6hcv8",
     "title": "Grok Imagine Image 2.0 发布，支持精准编辑",
     "url": "https://x.com/testingcatalog/status/2085985289399373839",
