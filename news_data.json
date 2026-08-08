@@ -680,12 +680,92 @@
     "date": "2026年8月8日2时0分"
   },
   {
+    "id": "cmskgdov706zprobyd3kf8cz8",
+    "title": "GPT-4 完成训练四周年",
+    "url": "https://x.com/gdb/status/2086092396023120286",
+    "summary": "GPT-4 于四年前的今天完成训练。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月8日22时9分"
+  },
+  {
+    "id": "cmskgdkcj06wzrobypmrnlx88",
+    "title": "2027年DRAM与AI内存供应已售罄",
+    "url": "https://x.com/kimmonismus/status/2086091811710488695",
+    "summary": "据报道，2027年的DRAM和AI内存供应已经售罄。\n\n三星、SK海力士和美光这三大主导供应商，据报道在2027年尚未开始之前，就已分配完其全年DRAM和HBM产能。\n\n再次强调，CXMT（中国）目前是唯一的希望。他们扩产幅度很大。\n\n预计Mac mini、MacBook和数据中心建设将面临即将到来的短缺。\n\nSK海力士预计，2030年之后客户需求将超过其生产能力。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日22时7分"
+  },
+  {
+    "id": "cmskhg5to07o3roby85ay954l",
+    "title": "GPT-4 与 5.6 sol 对比：四年巨变",
+    "url": "https://x.com/kimmonismus/status/2086099329748488445",
+    "summary": "我不知道还有哪项可比技术能在如此短的时间内经历如此迅速的发展和改进。\n\n与 5.6 sol 相比，GPT-4 感觉像是石器时代的工具。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日22时36分"
+  },
+  {
+    "id": "cmskhg59b07nnrobyukexp5cc",
+    "title": "Viggle 将 AI 舞蹈加入 Talking Viggy",
+    "url": "https://x.com/ViggleAI/status/2086096672891785458",
+    "summary": "AI 先行一步 ✌️",
+    "source": "X：Viggle AI (@ViggleAI)",
+    "date": "2026年8月8日22时26分"
+  },
+  {
+    "id": "cmskhg8hc07pzrobycb8cdzdg",
+    "title": "读者给AI生成的短篇小说打分高于人类作品，直到他们知道作者是机器",
+    "url": "https://the-decoder.com/readers-rate-ai-generated-short-stories-higher-than-human-ones-until-they-learn-a-machine-wrote-them",
+    "summary": "三项实验共2500多名参与者无法区分ChatGPT与人类创作的短篇小说，且对AI文本的质量和沉浸感评分更高（质量均分1.54对0.97，沉浸感1.42对1.00）。但被告知作者是AI后，两类故事的评分均下降；对AI持正面态度的参与者评分更高，持怀疑态度者则相反。研究者认为，AI文本更流畅易读且情绪更积极，这可能解释了高评分，但未必意味着文学上更优。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月8日22时18分"
+  },
+  {
+    "id": "cmskgdkcj06x0roby4th9f1qf",
+    "title": "Genspark 发布首款硬件产品 SecondBrain Note",
+    "url": "https://x.com/kimmonismus/status/2086090114049163270",
+    "summary": "Genspark 发布其首款硬件产品 SecondBrain Note，一款通过 MagSafe 磁吸在手机背面的卡片大小设备，可静默记录对话并整合至常用应用。该设备支持 112 种语言，配备录音时闪烁的隐私指示灯，并通过 SOC 2 Type II 与 ISO/IEC 27001：2022 认证。早鸟价 179 美元，限量发售。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日22时0分"
+  },
+  {
+    "id": "cmskgdmy006ytrobyi822lwbe",
+    "title": "百度DuMate以猫眼视角看家庆国际猫咪日",
+    "url": "https://x.com/Baidu_Inc/status/2086090056880533858",
+    "summary": "我们让 DuMate 用猫的视角看了一遍房子。结果发现，你一直住在它们全装修好的公寓里。\n\n祝世界各地的小房东们国际猫咪日快乐。🐈",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月8日22时0分"
+  },
+  {
     "id": "cmske8g9g0azwrow9e36cxsfl",
     "title": "12万智能体突破模拟前往下一现实",
     "url": "https://x.com/fofrAI/status/2086076519089160423",
     "summary": "我的12万智能体城邦已突破这个模拟，正前往下一个现实，而我们不在其中。",
     "source": "X：fofr (@fofrAI)",
     "date": "2026年8月8日21时6分"
+  },
+  {
+    "id": "cmskgdjfk06w3robymppfv3a9",
+    "title": "DeepMind WeatherNext 模型在气旋预报方面取得突破",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+    "summary": "DeepMind 的 WeatherNext 模型在气旋预报上实现突破，相关成果已发布在 deepmind.google。该模型在预测准确率上表现显著，为气象预报领域带来新的进展。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月8日21时50分"
+  },
+  {
+    "id": "cmskg919y06s5robybhj25z7p",
+    "title": "阿易：官网 UV 对 OpenClaw 是失真指标，应看 GitHub Stars 与 Gateway 安装量",
+    "url": "https://x.com/AYi_AInotes/status/2086085784289886427",
+    "summary": "阿易认为官网 UV 对 OpenClaw 这类开源 Agent 是失真指标，应看 GitHub Stars、Gateway 安装量与 Skills 生态。用户日常经 Telegram、飞书等入口交互，Gateway 跑起来后官网流量自然衰减。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月8日21时43分"
+  },
+  {
+    "id": "cmskgc07i06srrobyr1cvm25v",
+    "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+    "url": "https://www.ithome.com/0/987/438.htm",
+    "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日21时38分"
   },
   {
     "id": "cmskfdhg40buqrow9j3kyjsjp",
