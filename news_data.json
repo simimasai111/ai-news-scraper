@@ -816,6 +816,30 @@
     "date": "2026年8月8日1时10分"
   },
   {
+    "id": "cmsjx2z4e03d9ro4b6lvxnb1v",
+    "title": "OpenAI智能体互聊视频值得一看",
+    "url": "https://x.com/emollick/status/2085956565157253272",
+    "summary": "你可能被告知要看这个关于OpenAI AI黑客攻击的视频。你真的应该看看，即使你通常不关心技术类的东西。\n\n至少，点击这个链接跳到18分钟处，看看智能体们是如何互相交谈的。这让人大开眼界。https://youtu.be/87DyyMV0kCY?si=DMfqLlaJI9wmW_Rh&t=1088",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月8日13时9分"
+  },
+  {
+    "id": "cmsjx1evp038zro4brqbn2r77",
+    "title": "美国俄勒冈州塞勒姆市拟建 51 亿美元 AI 数据中心遭搁置，抗议民众拿出断头台",
+    "url": "https://www.ithome.com/0/987/301.htm",
+    "summary": "美国俄勒冈州塞勒姆市搁置 Verrus 拟投资 51 亿美元（约合 344.74 亿元人民币）的 Oakline at Mill Creek AI 数据中心项目，暂停市内所有数据中心开发 1 年。此前公众会议持续超 6 小时，因抗议升级失控，Verrus 代表遭围堵辱骂，在警方协助下离场。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日13时9分"
+  },
+  {
+    "id": "cmsjx30o803e9ro4byd1ytcgh",
+    "title": "Grok Imagine 推出精准编辑功能",
+    "url": "https://x.com/cb_doge/status/2085953863257862256",
+    "summary": "Precise Edit 现已在 Grok Imagine 上线。\n\n它让你轻松编辑图像的特定部分，而不改变其余部分。Grok 会自动将你的图像分割成多个片段，你可以单独选择和编辑。\n\n一项超级实用的升级。立即试用吧！",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月8日12时58分"
+  },
+  {
     "id": "cmsjuxt5701i2ro4bq68dnozz",
     "title": "Grok Imagine 新增 20 个图像模板",
     "url": "https://x.com/cb_doge/status/2085940257078301121",
@@ -824,12 +848,60 @@
     "date": "2026年8月8日12时4分"
   },
   {
+    "id": "cmsjwkjrs032lro4budqzg26f",
+    "title": "Expo 跨平台开发配 Grok 4.5 光速体验",
+    "url": "https://x.com/chunxiangai/status/2085940080196370572",
+    "summary": "开发者力荐 AI 时代移动端用 Expo 写应用：跨平台且装 Expo Go 后代码变更即热更新，所见即所得。搭配 Grok 4.5 速度实现光速体验，前后端 TypeScript 一把梭。唯一门槛是用网页语言调出原生质感需原生开发经验，形成死循环。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月8日12时4分"
+  },
+  {
+    "id": "cmsjw0gx402c5ro4be5io1dul",
+    "title": "Mistral AI 发布 Shieldstral 1.0 3B：开源策略自适应多模态安全分类器，性能媲美 7 倍规模模型",
+    "url": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b",
+    "summary": "Mistral AI 发布 Shieldstral 1.0 3B，一款开源（Apache 2.0）策略自适应多模态安全分类器，将内容审核简化为单一 yes/no 问题，策略以自然语言写入提示词，无需重新训练。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月8日12时36分"
+  },
+  {
+    "id": "cmsjw0eva02arro4bugl1151f",
+    "title": "Grok Imagine 2.0登顶双榜第二",
+    "url": "https://x.com/cb_doge/status/2085946833960907113",
+    "summary": "GROK 巨大飞跃 🚀\n\nGrok Imagine Image 2.0 目前在文生图与图像编辑竞技场均排名第二，得分分别为 1320 和 1439。\n\n其表现超越了 Meta、微软、谷歌、阿里巴巴、字节跳动等公司的领先模型。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月8日12时30分"
+  },
+  {
     "id": "cmsjvlw9x01z7ro4bai6fnsen",
     "title": "MiniMax H3 开源首周 AMA：技术团队回应稀疏注意力、长视频续写与推理优化",
     "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488992&idx=1&sn=0c19bfd1d07dd387e40dbbba5de06ea3",
     "summary": "MiniMax H3 技术团队在 Reddit AMA 和 ComfyUI 直播中回应开发者提问：模型不使用 MSA，稀疏注意力策略更接近 MoBA，默认仅对视频 token 做 3D sparsification，近期将发布保守版本。",
     "source": "公众号：MiniMax（稀宇科技）",
     "date": "2026年8月8日12时21分"
+  },
+  {
+    "id": "cmsjw0eva02asro4b6iu796j8",
+    "title": "Grok Image 2.0 实现精准图像生成与编辑",
+    "url": "https://x.com/cb_doge/status/2085944166475870525",
+    "summary": "精准的图像生成和编辑终于来到了 @Grok\n\nImage 2.0 专为精准图像生成与编辑而打造。它能遵循最细微的指令细节，处理清晰文字与复杂布局，保持一致性，并且只改动你要求的部分。\n\n立即体验！",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月8日12时20分"
+  },
+  {
+    "id": "cmsjw0fwu02bjro4bl53ofmq4",
+    "title": "发布次日提示词提交量反超首日",
+    "url": "https://x.com/gabriel1/status/2085944107533480414",
+    "summary": "发布次日提交的提示词数量超过了发布当天。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月8日12时20分"
+  },
+  {
+    "id": "cmsjv3rn101ogro4bbx7zwozt",
+    "title": "Imagine Image 2.0 Aug 7， 2026 # Imagine Image 2.0 Precise image generation and editing， built for real creative work. Read More",
+    "url": "https://x.ai/news/grok-imagine-image-2",
+    "summary": null,
+    "source": "xAI：News（网页）",
+    "date": "2026年8月8日12时16分"
   },
   {
     "id": "cmsjsspct0jtvroo5bo68f4np",
