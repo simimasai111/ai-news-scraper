@@ -680,6 +680,54 @@
     "date": "2026年8月8日2时0分"
   },
   {
+    "id": "cmske8g9g0azwrow9e36cxsfl",
+    "title": "12万智能体突破模拟前往下一现实",
+    "url": "https://x.com/fofrAI/status/2086076519089160423",
+    "summary": "我的12万智能体城邦已突破这个模拟，正前往下一个现实，而我们不在其中。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月8日21时6分"
+  },
+  {
+    "id": "cmske8cr50axdrow9xggdjem9",
+    "title": "传哈萨比斯曾想与迪恩同退，被劝留任董事长",
+    "url": "https://x.com/kimmonismus/status/2086077586430427642",
+    "summary": "据Pathfounders援引行业消息，DeepMind联合创始人Demis Hassabis曾想与Dean同时离开谷歌，但谷歌管理层担心消息引发股价崩盘而劝其留下。公告发布后谷歌股价下跌5%，哈萨比斯最终被说服转任董事长，以便日后体面退出。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日21时10分"
+  },
+  {
+    "id": "cmske8etv0az0row95c9u9foq",
+    "title": "中国10T参数MoE模型预训练或需约3万块Blackwell GPU",
+    "url": "https://x.com/rohanpaul_ai/status/2086072724552810954",
+    "summary": "Rohan Paul估算，中国传闻中10T总参数MoE模型预训练约需3万块Blackwell GPU，但参数量只是内存账单而非算力账单。前沿模型稀疏度持续下降，10T规模下激活参数约200-500B。字节跳动已通过马来西亚云运营商租用3.6万块Blackwell GPU（500个GB200机架，$2.5B），预训练窗口为3-6个月。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月8日20时51分"
+  },
+  {
+    "id": "cmskd5pc109v4row92ih3602x",
+    "title": "谷歌AI重组，布林亲自督战Gemini",
+    "url": "https://x.com/fchollet/status/2086069179589783615",
+    "summary": "关于谷歌衰落的报道被大大夸大了。我不会低估他们。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月8日20时37分"
+  },
+  {
+    "id": "cmskd5ueu09ykrow9zq209c56",
+    "title": "Claude Code 会话现可跨终端互相通信并共享上下文",
+    "url": "https://the-decoder.com/claude-code-sessions-can-now-talk-to-each-other-and-share-context-across-terminals",
+    "summary": "Anthropic 为 macOS 和 Linux 上的 Claude Code 新增会话间通信功能，终端间无需手动复制信息，Claude 即可向另一会话发送文本摘要或提问并直接获取回答，也可在变更影响其他会话时主动发消息。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月8日20时28分"
+  },
+  {
+    "id": "cmskd5p8p09uurow9tlykrpvh",
+    "title": "OpenCode Go 单日处理 6T token 创纪录",
+    "url": "https://x.com/opencode/status/2086063078613889447",
+    "summary": "周五处理了 9T tokens\n\n【引用 @opencode】：OpenCode Go 首个 6T token 日",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月8日20时12分"
+  },
+  {
     "id": "cmsj7f6uw01twroo5j0v5qmyf",
     "title": "NoimosAI 发布 Social Agent 社交趋势研究智能体",
     "url": "https://x.com/testingcatalog/status/2085775212142809252",
