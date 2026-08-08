@@ -1,5 +1,45 @@
 [
   {
+    "id": "cmskveq1g044grolqdwud8bxb",
+    "title": "Grok Image 2.0 助你修复老照片",
+    "url": "https://x.com/cb_doge/status/2086196712079573194",
+    "summary": "使用 @Grok Image 2.0 增强你的老照片",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月9日5时3分"
+  },
+  {
+    "id": "cmskveox4043grolql8qoccoq",
+    "title": "OpenAI与Anthropic高管互怼升级",
+    "url": "https://x.com/kimmonismus/status/2086196589261898141",
+    "summary": "OpenAI的Tibo与Anthropic的Boris Cherny将两大AI公司间的竞争推向新高度。Tibo甚至每周重置Codex使用量以展示谁做得更好。此前OpenAI的@thsottiaux宣布，GPT-5.6 Sol可在包括CC harness在内的任何地方使用，并已重置ChatGPT Work和Codex所有付费用户的用量限制。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月9日5时3分"
+  },
+  {
+    "id": "cmskvgmrb048jrolqb6df3umn",
+    "title": "Gemini Gems 十月退役，将转为 Skills",
+    "url": "https://x.com/testingcatalog/status/2086198663773339687",
+    "summary": "Google 计划于 10 月 20 日前在 Gemini 上退役 Gems。\n\n用户将被要求将其 Gems 重新创建为 Skills。这意味着届时 Skills 也应已推广到 Spark 之外。\n\n> Gems 将于 10 月 20 日退役 - 请保存您的 Gem 内容或将其重新创建为技能，以保持工作流正常运行。\n\n很快被 Google 终结 👀 感谢 @thomas_gmry",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月9日5时11分"
+  },
+  {
+    "id": "cmskverw3045urolqv4lwrkxn",
+    "title": "Shepherd：让元智能体分叉、重放与回滚任意智能体运行的 Python 开源基底",
+    "url": "https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run",
+    "summary": "东北大学和斯坦福大学的研究者发布 Shepherd，一个将智能体运行记录为类 Git 类型事件轨迹的 Python 运行时基底，支持分叉、重放与回滚任意历史状态。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月9日4时54分"
+  },
+  {
+    "id": "cmskveqix044qrolqrc0kslex",
+    "title": "Grok 图像编辑新版本上线试用",
+    "url": "https://x.com/elonmusk/status/2086193242232537208",
+    "summary": "试试 Grok 图像编辑的新版本。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月9日4时50分"
+  },
+  {
     "id": "cmskuc4uz0391rolq73zds32a",
     "title": "Fable 5 将红警2移植到 iPhone",
     "url": "https://x.com/ammaar/status/2086191229801275679",
