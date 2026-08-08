@@ -1,5 +1,37 @@
 [
   {
+    "id": "cmskzmhrs03rtrowg9bvgckbr",
+    "title": "OpenAI 收购 AI 演示文稿初创公司 NextSlide",
+    "url": "https://www.ithome.com/0/987/455.htm",
+    "summary": "OpenAI 收购 AI 演示文稿初创公司 NextSlide，其团队成员现已投身于 ChatGPT 的开发工作。NextSlide 的产品可将提示词、笔记、文档或研究资料转化为可编辑的演示文稿。双方未公布具体财务条款，收购已于今年早些时候完成。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日6时54分"
+  },
+  {
+    "id": "cmskzmhrs03rvrowgmoymfoh3",
+    "title": "亚马逊筹建得州数据中心，配套天然气发电厂或成美国最大碳排放源",
+    "url": "https://www.ithome.com/0/987/453.htm",
+    "summary": "亚马逊正在得克萨斯州佩科斯县筹建一座数据中心，并计划投资建设配套天然气发电厂。该发电厂已获准每年排放3，300万吨二氧化碳，排放量将超过美国目前任何一座发电厂。亚马逊去年碳排放量同比增加16%，与其2040年实现碳排放净零的承诺相悖。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日6时50分"
+  },
+  {
+    "id": "cmskzmhrs03rwrowg146pdv9j",
+    "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+    "url": "https://www.ithome.com/0/987/452.htm",
+    "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日6时46分"
+  },
+  {
+    "id": "cmskz33rg03eorowgifsmye6n",
+    "title": "Claude Code 在 Pro、Max 和 Team 套餐中默认启用 Auto 模式",
+    "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+    "summary": "Anthropic 宣布自 8 月 14 日起，Claude Code 在 Pro、Max 和 Team 套餐中默认启用 Auto 模式。内部测试显示，1，053 名付费测试者中仅 13.6% 拒绝危险命令，而 Auto 模式可拦截其中 89% 的操作。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月9日6时36分"
+  },
+  {
     "id": "cmskveq1g044grolqdwud8bxb",
     "title": "Grok Image 2.0 助你修复老照片",
     "url": "https://x.com/cb_doge/status/2086196712079573194",
