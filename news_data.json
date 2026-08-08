@@ -1,5 +1,53 @@
 [
   {
+    "id": "cmskuc4uz0391rolq73zds32a",
+    "title": "Fable 5 将红警2移植到 iPhone",
+    "url": "https://x.com/ammaar/status/2086191229801275679",
+    "summary": "我用 Fable 5 把《命令与征服：红色警戒 2》及《尤里的复仇》带到了 iPhone 和 iPad！\n\nEA 从未发布 RA2 的源代码，所以无现成内容可移植。Gemini 3.6 Flash 对其进行了数小时的试玩测试，GPT-5.6 Sol 重建了遭遇战 AI。\n\n以下全部开源。",
+    "source": "X：Ammaar Reshi (@ammaar)",
+    "date": "2026年8月9日4时42分"
+  },
+  {
+    "id": "cmskuc0ud035yrolq5vno45qj",
+    "title": "亚马逊在得州建 7.65 吉瓦燃气电厂，或成美国最大污染源",
+    "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+    "summary": "亚马逊正悄悄推进美国最大燃气电厂项目，在得克萨斯州佩科斯县购置土地并获许可，为一座 7.65 吉瓦燃气电厂供电的 AI 数据中心，初期完全脱离得州电网。该电厂获准年排放 3300 万吨二氧化碳，将成为美国最大污染源，超过最大燃煤电厂，与亚马逊 2040 年净零承诺形成鲜明对比。亚马逊本周已提交三份数据中心建设许可，土地清理已开始。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月9日4时30分"
+  },
+  {
+    "id": "cmskumkvv03emrolqf6o1ckm5",
+    "title": "GPT-5.6 Sol 可用，ChatGPT Work 与 Codex 限额重置",
+    "url": "https://x.com/thsottiaux/status/2086188036493344823",
+    "summary": "OpenAI 的 Tibo 宣布 GPT-5.6 Sol 已可在包括 CC harness 在内的几乎所有环境中使用。为庆祝此事，他重置了 ChatGPT Work 和 Codex 所有付费用户的用量限制。Anthropic 的 @bcherny 回应称不会封禁使用其他模型 harness 的用户，并正调查相关账号分类器问题。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月9日4时29分"
+  },
+  {
+    "id": "cmskuc3uh0386rolqb0v9l78j",
+    "title": "Suno 迈阿密对话 Bhavi 与 Christian Rich",
+    "url": "https://x.com/suno/status/2086187150517919906",
+    "summary": "\"你就是乐器，其余不过是工具。\"🛠️ 在迈阿密与 Bhavi 和 Christian Rich 一起创造魔法，这是最新一期 In The Cut。",
+    "source": "X：Suno (@suno)",
+    "date": "2026年8月9日4时25分"
+  },
+  {
+    "id": "cmskuc6nd03afrolq6lk1nubj",
+    "title": "Flux 3 畅想太空邮轮之旅",
+    "url": "https://x.com/fofrAI/status/2086185808541733305",
+    "summary": "用 Flux 3 想象一场太空邮轮之旅：\n\n> 一名游客在太空邮轮舒适豪华的客房内的业余手持视角镜头，铺着地毯的地板和舒适的床，大窗户可以看到土星的景色，你能在窗户上看到他们的倒影，他们中途关掉了灯，这样我们就能更好地看到外面的景象。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月9日4时20分"
+  },
+  {
+    "id": "cmskuc7nd03b3rolqmclvvh5g",
+    "title": "Odyssey：小事依然重要",
+    "url": "https://x.com/odysseyml/status/2086185489581625665",
+    "summary": "小事依然重要。",
+    "source": "X：Odyssey (@odysseyml)",
+    "date": "2026年8月9日4时19分"
+  },
+  {
     "id": "cmskroznz002vroyg41n4utwo",
     "title": "GitHub Conductor 即将推出 stacks 功能",
     "url": "https://x.com/charlieholtz/status/2086167071696789990",
