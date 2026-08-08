@@ -816,12 +816,36 @@
     "date": "2026年8月8日1时10分"
   },
   {
+    "id": "cmsk7srap03d2roksbhoa7602",
+    "title": "什么是产品？AI 原型不等于产品",
+    "url": "https://roge.onwrite.app/what-is-a-product",
+    "summary": "大量用 AI 生成的网站或应用原型被当作产品展示，但原型并非产品。真正的产品需要真实用户、真实市场并解决真实问题，而目前几乎没有仅靠 AI 打造的 YouTube、Figma 或 Instagram 竞争者。若无人使用，你构建的只是玩具而非产品。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月8日18时6分"
+  },
+  {
+    "id": "cmsk8vgn30456roksadv96glc",
+    "title": "AI 智能体 KISS Sorcar 8 小时优化 SQLite 提速 59%",
+    "url": "https://x.com/rohanpaul_ai/status/2086038118608801981",
+    "summary": "AI 智能体 KISS Sorcar 在不到 8 小时、API 成本低于 $150 的情况下，将 SQLite 优化提速 59%（几何平均 1.59x），且全部 1，032，940 项测试通过。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月8日18时33分"
+  },
+  {
     "id": "cmsk5j5yf0ah4ro4bp7v5gni8",
     "title": "当下焦虑终成小事，AI时代更需练就核心能力",
     "url": "https://x.com/AYi_AInotes/status/2086016544186749159",
     "summary": "主推文以\"三年级忘带红领巾\"类比，指出当下焦虑终会随时间淡去，劝人不必放大眼前困难。引用推文进一步强调，AI时代替代的是中间层可重复劳动，能扛事、做决策、拿结果的人议价权更高，需提前3-5年练就不可替代能力或选对平台。",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年8月8日17时7分"
+  },
+  {
+    "id": "cmsk7oc880005roksihuxakf7",
+    "title": "Grok Imagine 2.0跃居文生图竞技场第二",
+    "url": "https://x.com/AYi_AInotes/status/2086024179237662917",
+    "summary": "老马真的是频频放大招啊，\n\n@SpaceXAI xAI在文本生成图像这块闷声干了票大的，\n\nGrok Imagine Image 2.0 Low版，直接从文生图竞技场第14名跳到第2名🥇\n\n1320分！！！\n\n更离谱的是分项： 艺术第2，肖像第2，文字渲染第2，卡通动漫第2，照片级电影感第2，产品品牌商业设计第3。\n\n图像编辑竞技场也第2，1439分。\n\n注意，这还仅仅是Low版啊兄弟们，\n\n目前仅在app内可用，API还没开放。\n\n从14到2，这就不是普通迭代了，简直就是跃迁",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月8日17时38分"
   },
   {
     "id": "cmsk3ihw408t5ro4bxe1cyt8m",
