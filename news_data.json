@@ -832,6 +832,30 @@
     "date": "2026年8月8日16时7分"
   },
   {
+    "id": "cmsk5m3kp0ahlro4b2qzzb7ur",
+    "title": "Cloudflare 发布 Kitesurf：专为 AI 智能体打造的云端浏览器",
+    "url": "https://www.ithome.com/0/987/374.htm",
+    "summary": "Cloudflare 推出专为 AI 智能体打造的云端浏览器 Kitesurf，运行在 Workers 平台上，可浏览网站、填写表单，开发者能通过代码控制并与无头浏览器实例交互。该浏览器重点管理上下文窗口、性能与可扩展性，并防范提示词注入等攻击风险。相比 Chromium，Kitesurf 消耗计算资源更少，可降低运行成本，目前处于测试阶段。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日16时53分"
+  },
+  {
+    "id": "cmsk5m3kq0ahmro4brtt8nx8a",
+    "title": "华为乾崑 ADS 代客充电功能展望：让车自己去充电，机械臂自动插拔枪",
+    "url": "https://www.ithome.com/0/987/373.htm",
+    "summary": "华为发布乾崑 ADS 代客充电\"创意畅想\"演示视频，车主通过手机 App 一键下达指令，车辆可自主寻找空闲充电车位并泊入，配套机械臂自动插拔充电枪，全程无需人工介入。该功能属于\"10 分钟乾崑智驾生态圈\"组成部分，规划于今年 4 月 23 日提出，2026 年第二季度停车缴费服务将支持 30 万个停车场、超 180 万根充电桩接入地图。华为乾崑智驾总搭载量已突破 190 万台。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日16时51分"
+  },
+  {
+    "id": "cmsk5m3kq0ahnro4bux6ejeha",
+    "title": "谷歌否认 Gemini 使用私人文档训练，此前有开发者称未公开内容遭泄露",
+    "url": "https://www.ithome.com/0/987/371.htm",
+    "summary": "谷歌否认扫描私人 Google Docs 文档或训练 Gemini 模型，称仅当用户主动请求时才会访问 Workspace 文件。此前一名独立游戏开发者称，玩家在 Gemini 搜索其未公开游戏信息时，模型回答中出现了仅存在于私人文档中的角色\"Vantage Tripod\"。谷歌回应称，公开链接可能被搜索引擎爬虫索引，用户可控制文件权限，事件真实原因仍在调查中。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日16时40分"
+  },
+  {
     "id": "cmsk4l4rc09kiro4bu2xi8104",
     "title": "SemiAnalysis称OpenAI新模型Doug开发中",
     "url": "https://x.com/rohanpaul_ai/status/2086009166460862693",
@@ -854,6 +878,22 @@
     "summary": "35岁后职场要么成为别人可依赖的核心骨干，要么找到可靠平台，AI时代只会放大这一规则。AI替代的是中间层可重复劳动，能扛事、做决策、拿结果的人议价权反而更高。应提前3-5年验证自身核心能力或所选赛道，留足试错时间。",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年8月8日16时28分"
+  },
+  {
+    "id": "cmsk5m3kq0ahpro4b5allrn62",
+    "title": "微信 AI 助手\"小微\"灰度测试朋友圈\"帮写\"及\"点评\"功能",
+    "url": "https://www.ithome.com/0/987/367.htm",
+    "summary": "微信正在灰度测试朋友圈\"AI 帮写\"与\"AI 点评\"两项新能力，基于原生 AI 助手\"小微\"实现，目前小范围内测中。用户在朋友圈编辑页点击\"AI 帮写\"后会跳转至小微对话界面，小微可识别正在编辑的文字和配图，按指令生成\"简洁\"\"调侃\"\"文艺\"三种风格候选文案。当前灰测版本中，最终发布可能仍需用户手动确认。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日16时27分"
+  },
+  {
+    "id": "cmsk5m3kq0ahqro4bn4nh1r6r",
+    "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+    "url": "https://www.ithome.com/0/987/366.htm",
+    "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日16时25分"
   },
   {
     "id": "cmsk3ijnn08u9ro4bjqmh7fhu",
