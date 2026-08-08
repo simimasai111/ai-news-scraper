@@ -1,5 +1,37 @@
 [
   {
+    "id": "cmskm99de08enroyzw10xa2e0",
+    "title": "GPT-4训练四周年，Stable Diffusion同日巧合",
+    "url": "https://x.com/EMostaque/status/2086132424400880038",
+    "summary": "奇怪的是，我记得 Stable Diffusion（1.4）大约也是在四年前的今天完成训练的。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月9日0时48分"
+  },
+  {
+    "id": "cmsklqt1907v8royz2pbppkk1",
+    "title": "Grok Imagine 图像编辑迎来重大升级",
+    "url": "https://x.com/elonmusk/status/2086127247077843282",
+    "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月9日0时27分"
+  },
+  {
+    "id": "cmsklqt1907v9royzdmj8cffz",
+    "title": "Grok 图像模型编辑功能获好评",
+    "url": "https://x.com/elonmusk/status/2086126679248740517",
+    "summary": "试试吧！\n\n【引用 @venturetwins】：我对新的 Grok 图像模型和编辑功能印象深刻！\n\n我从 Gap 网站截了几件商品图，快速生成了一组照片。\n\n工作流工具很酷--物品/人物可分段编辑，可以调整宽高比，还能融入新的参考内容。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月9日0时25分"
+  },
+  {
+    "id": "cmsklqsbe07uuroyz3lv9utj7",
+    "title": "Anthropic 投资者施压淡化 AI 风险警告",
+    "url": "https://x.com/rohanpaul_ai/status/2086124664192168318",
+    "summary": "The Information 报道，部分 Anthropic 投资者希望 CEO Dario Amodei 在 IPO 前软化其 AI 风险警告。Amodei 将重大决策保留在联合创始人与家族小圈子内，股东影响力有限。有董事会成员今年建议效仿微软和 Meta 宣传 AI 药物研发，但遭 Amodei 拒绝，他认为生存级风险不能按普通科技营销处理。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日0时17分"
+  },
+  {
     "id": "cmsjpzjuu0h0wroo54ok9y37u",
     "title": "Claude Code v2.1.225 发布：新增网关支出限额支持与工作区信任提示",
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.225",
