@@ -1,5 +1,37 @@
 [
   {
+    "id": "cmskmtg9g08uyroyz63imsqik",
+    "title": "Pokee AI 发布 Pokee-Isaac 28B：可在客户边界内运行的千万级 token 上下文智能体模型",
+    "url": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary",
+    "summary": "Pokee AI 发布 Pokee-Isaac 28B，一款 280 亿参数、支持 1000 万 token 上下文的纯文本模型，专为数据不得离开客户边界的受监管行业设计。该模型在 RULER 基准 10M token 长度下得分 93.3%，单张 B200 级 GPU 即可推理，通过 OpenAI 兼容 API 提供并授权 VPC、本地或设备端部署。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月9日1时4分"
+  },
+  {
+    "id": "cmskn31ek08yjroyzi1jx3j54",
+    "title": "布林直接监管Gemini，谷歌重组AI领导层",
+    "url": "https://x.com/Yuchenj_UW/status/2086139590721851750",
+    "summary": "\"据报道，谢尔盖·布林将直接监管Gemini，谷歌正在重组其AI领导层。\"\n\n这非常利好。\n\nDatabricks从未有过这个问题。每位联合创始人都处于创始人模式，在公司创立13年后依然如此。这是我加入的一个重要原因。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月9日1时16分"
+  },
+  {
+    "id": "cmskmtffi08ueroyz7v933jjc",
+    "title": "DeepSeek稀疏注意力挑战主流范式",
+    "url": "https://x.com/SemiAnalysis_/status/2086135577733108189",
+    "summary": "DSA 挑战了主流范式。在有限资源下，DSA 倾向于选择性再分配，将资源导向最关键的领域，同时减少浪费。\n\n我们说的是 DeepSeek 稀疏注意力。配图无关。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月9日1时0分"
+  },
+  {
+    "id": "cmskmta2v08riroyzq9cthlan",
+    "title": "蚂蚁百灵Ling-3.0-flash开放推理服务",
+    "url": "https://x.com/AntLingAGI/status/2086132653317914781",
+    "summary": "面向真实世界的开放智能，以高性价比、高可靠性的推理服务交付。虽然免费期已结束，您仍可通过我们的day0合作伙伴@novita_labs，以相当优惠的价格使用Ling-3.0-flash API，访问 https://openrouter.ai/inclusionai/ling-3.0-flash?endpoint=ad853a79-97b2-4260-8163-fbe2a796cebf#providers 🥳",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月9日0时49分"
+  },
+  {
     "id": "cmskm99de08enroyzw10xa2e0",
     "title": "GPT-4训练四周年，Stable Diffusion同日巧合",
     "url": "https://x.com/EMostaque/status/2086132424400880038",
@@ -21,6 +53,14 @@
     "url": "https://x.com/elonmusk/status/2086126679248740517",
     "summary": "试试吧！\n\n【引用 @venturetwins】：我对新的 Grok 图像模型和编辑功能印象深刻！\n\n我从 Gap 网站截了几件商品图，快速生成了一组照片。\n\n工作流工具很酷--物品/人物可分段编辑，可以调整宽高比，还能融入新的参考内容。",
     "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月9日0时25分"
+  },
+  {
+    "id": "cmskmojd008pjroyzp5mlbw92",
+    "title": "黄仁勋谈低期望值：从刷厕所到4.9万亿市值",
+    "url": "https://x.com/AYi_AInotes/status/2086126600911819080",
+    "summary": "黄仁勋在斯坦福分享，将英伟达做到4.9万亿美元市值的核心是\"永远保持极低的期望值\"。他9岁被送入问题少年学校，每天刷厕所、过缺木板的吊桥，15岁在Denny's从洗碗工做起，称晚餐高峰压力比英伟达三次濒临破产教给他的更多。他后来捐200万美元给该校并以自己名字命名大楼，认为从最烂的泥里爬出来过，就不会对路上的磕绊大惊小怪。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年8月9日0时25分"
   },
   {
