@@ -816,6 +816,126 @@
     "date": "2026年8月8日1时10分"
   },
   {
+    "id": "cmsjuxt5701i2ro4bq68dnozz",
+    "title": "Grok Imagine 新增 20 个图像模板",
+    "url": "https://x.com/cb_doge/status/2085940257078301121",
+    "summary": "突发：随着 Image 2.0 模型的发布，Grok Imagine 现新增 20 个用于精准图像生成与编辑的模板。\n\n• 吉祥物制作 • 表情符号创建 • 智能调整大小 • 个人头像 • 重新想象 • 周边制作 • 专业证件照 • 背景移除与更换 • 产品换色 • 图标制作 • 编辑产品海报 • 房间布景 • 电商照片 • 主打产品展示 • 角色精灵 • 道具与 UI 套件 • 二维码皮肤 • 照片拼贴 • UGC 照片 • 照片编辑",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月8日12时4分"
+  },
+  {
+    "id": "cmsjvlw9x01z7ro4bai6fnsen",
+    "title": "MiniMax H3 开源首周 AMA：技术团队回应稀疏注意力、长视频续写与推理优化",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488992&idx=1&sn=0c19bfd1d07dd387e40dbbba5de06ea3",
+    "summary": "MiniMax H3 技术团队在 Reddit AMA 和 ComfyUI 直播中回应开发者提问：模型不使用 MSA，稀疏注意力策略更接近 MoBA，默认仅对视频 token 做 3D sparsification，近期将发布保守版本。",
+    "source": "公众号：MiniMax（稀宇科技）",
+    "date": "2026年8月8日12时21分"
+  },
+  {
+    "id": "cmsjsspct0jtvroo5bo68f4np",
+    "title": "ChatGPT Work 助力消除繁琐工作",
+    "url": "https://x.com/gdb/status/2085926213294727447",
+    "summary": "ChatGPT Work 用于消除繁琐事务。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月8日11时8分"
+  },
+  {
+    "id": "cmsjuxqx501gmro4b0e9xy1b4",
+    "title": "企业级 Agent 的真正上行空间在于重塑工作流",
+    "url": "https://x.com/frxiaobei/status/2085937012411089044",
+    "summary": "企业级 Agent 的真正上行空间在于改变底层工作流本身，而非仅作为问答系统。这需要为 Agent 提供正确数据、跨越组织边界，并调整 human-in-the-loop 环节。最终，企业中绝大多数 token 使用量将来自被\"部署\"执行工作流任务的 Agent。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月8日11时51分"
+  },
+  {
+    "id": "cmsjut9wt01cgro4b6yix5rni",
+    "title": "OpenAI 发布 Critical 级网络安全模型 Astra",
+    "url": "https://x.com/AYi_AInotes/status/2085936997659496751",
+    "summary": "OpenAI 发布新模型 Astra，成为其 Preparedness Framework 下首个\"Critical\"级别网络安全模型，可在无人指挥下独立开发零日漏洞利用代码或执行端到端网络攻击。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月8日11时51分"
+  },
+  {
+    "id": "cmsjuxt5701i3ro4blhpfy9l5",
+    "title": "Grok Imagine 2.0 精准图像生成能力展示",
+    "url": "https://x.com/cb_doge/status/2085935948232020264",
+    "summary": "Grok Imagine Image 2.0 在精准图像生成方面表现出色。\n\n它能处理复杂布局、组织密集信息，甚至能以惊人准确度渲染小号文字。\n\n以下是一些完全使用 Image 2.0 制作的信息图 👇",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月8日11时47分"
+  },
+  {
+    "id": "cmsjufbcd012pro4blrkgns99",
+    "title": "软件研发将走向黑盒验收时代",
+    "url": "https://x.com/Barret_China/status/2085935770326687927",
+    "summary": "软件研发未来将走向黑盒验收时代，AI 必须参与代码审查和功能验收，并完成自部署、自监控。将各工种经验蒸馏给 AI，转化为 Workflow、Skills 和 Scheduled Task 即可走通链路。作者团队已让 AI 学会搭建监控大盘，一个月可搞通一个角色的大部分工作。",
+    "source": "X：Barret 李靖 (@barret_china)",
+    "date": "2026年8月8日11时46分"
+  },
+  {
+    "id": "cmsjuxt5801i4ro4btsst2sgb",
+    "title": "Grok Imagine 2.0 登顶图像编辑榜第二",
+    "url": "https://x.com/cb_doge/status/2085934885609381943",
+    "summary": "突发：Grok Imagine Image 2.0 以 1439 分的 Arena 评分位列图像编辑模型第二名，超越 Meta、微软、谷歌和字节跳动的模型。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月8日11时43分"
+  },
+  {
+    "id": "cmsjtv88t00aqro4bx85zyt1z",
+    "title": "Grok Imagine 2.0 登顶文生图榜第二",
+    "url": "https://x.com/cb_doge/status/2085934121214251179",
+    "summary": "突发：Grok Imagine Image 2.0 以 1320 分的 Arena 评分位列文生图模型第二名，超越 Meta、Google、阿里巴巴、字节跳动等公司的模型。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月8日11时40分"
+  },
+  {
+    "id": "cmsjuw9bt01d0ro4bs5i6xyv6",
+    "title": "微软为 Win10/Win11 经典版 Outlook 推送 Explain This：Copilot 基于上下文解释选中文本",
+    "url": "https://www.ithome.com/0/987/274.htm",
+    "summary": "微软开始向 Windows 10、Windows 11 经典版 Outlook 推送名为 Explain This 的 Copilot AI 功能。用户选中邮件中任意文本后，Copilot 会结合整封邮件内容给出上下文解释。该功能预计 9 月底前完成推送，大多数用户将在 9 月初看到。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日11时39分"
+  },
+  {
+    "id": "cmsjtv88t00arro4bh5f4wut8",
+    "title": "SpaceXAI发布Grok Imagine Image 2.0图像模型",
+    "url": "https://x.com/cb_doge/status/2085932238349148365",
+    "summary": "突发：SpaceXAI 刚刚发布了 Grok Imagine Image 2.0，这是其用于专业图像生成和编辑的最新模型。\n\n• 改进的提示词准确性、排版和布局 • 使用魔棒和分割进行精确编辑 • 背景移除和智能调整大小 • 支持最多 5 张输入图像 • 跨代生成的一致性更好 • 新增产品图、头像、图标、游戏资产等模板\n\n现已在 Grok 网页版、iOS 和 Android 上以 Quality Mode 提供。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月8日11时32分"
+  },
+  {
+    "id": "cmsjtuhbt004xro4b7so8sg2d",
+    "title": "编程智能体应只干活不唠叨",
+    "url": "https://x.com/dexhorthy/status/2085932009818616202",
+    "summary": "这些模型其实挺好的，除了它们跟我说话的时候……\n\n编程智能体应该只干活，别出声！？",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月8日11时32分"
+  },
+  {
+    "id": "cmsjufbce012qro4bt45r1zqy",
+    "title": "AI 测试应转向目标驱动的验收方式",
+    "url": "https://x.com/Barret_China/status/2085931904268984590",
+    "summary": "Barret 李靖认为 AI 完全有机会在验收测试上测得比人更完善，关键在于两点：完整理解需求（偏向 BDD 或 Goal Driven Verification，而非 TDD）和具备足够的手脚眼（编写 E2E 用例，通过 OCR、模拟点击、截图等丰富界面认知）。其团队实践为每次迭代让 AI 分析代码 diff、编写并自修正 E2E 测试，全程记录操作生成测试报告，再回头判断是否达成最初目标。",
+    "source": "X：Barret 李靖 (@barret_china)",
+    "date": "2026年8月8日11时31分"
+  },
+  {
+    "id": "cmsjuw9bu01d3ro4bbre85qau",
+    "title": "微软 Win10/Win11 新版 Outlook 收件箱塞入 Copilot，AI 摘要过去 8 小时邮件",
+    "url": "https://www.ithome.com/0/987/271.htm",
+    "summary": "微软计划为 Windows 10/11 新版 Outlook 引入\"每日小结\"AI 功能，将 Copilot 入口整合进收件箱场景。用户点击后，Copilot 仅基于过去 8 小时内 Inbox 和 Sent 邮件生成晚间简报，按\"当天完成事项、前 3 个关注重点、明天前 3 个优先事项\"三类组织内容。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日11时29分"
+  },
+  {
+    "id": "cmsjtvafo00c4ro4bx6ehtslr",
+    "title": "GPT-5.6 Luna降价80%后ARC-AGI成绩持平",
+    "url": "https://x.com/gdb/status/2085927739559911627",
+    "summary": "luna 是个非常特别的模型，性价比惊人。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月8日11时15分"
+  },
+  {
     "id": "cmsjqnflx0hu6roo5u8zavlxk",
     "title": "DynaRobotics 双臂机器人破解幸运饼干取出纸条",
     "url": "https://x.com/rohanpaul_ai/status/2085910823134982242",
@@ -838,6 +958,14 @@
     "summary": "好公司\n\n【引用 @derek_gilbert】：纯按氛围感给 AI 编程工具排名：\n\n氛围绝佳：Grok Build、Warp、Conductor、Droid\n\n感觉不错：Cursor、Claude Code、Codex、Amp、Devin、OpenCode\n\nNGMI：Antigravity、Copilot、Cline、Augment",
     "source": "X：Charlie Holtz（@charlieholtz）",
     "date": "2026年8月8日10时5分"
+  },
+  {
+    "id": "cmsjsr32z0jmqroo5hjm7tffj",
+    "title": "消息称英伟达拟向电力基础设施开发商 Lancium 投资至多 30 亿美元",
+    "url": "https://www.ithome.com/0/987/266.htm",
+    "summary": "英伟达拟向电力基础设施开发商 Lancium 投资至多 30 亿美元，先期投入 20 亿美元获取约 20% 股权，若达成电网并网等指标或追加 10 亿美元。Lancium 由黑石集团支持，其得州阿比林\"清洁园区\"是\"星际之门\"AI 超算数据中心项目首期所在地，公司估值约 100 亿美元，并评估 2027 年 IPO。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日10时55分"
   },
   {
     "id": "cmsjsa4p70jdrroo5wbahjkbk",
@@ -870,6 +998,14 @@
     "summary": "组织朝AI转型，首先要解决人的意识问题。AI开始补齐人的短板，使越来越多的人具备端到端交付能力--不仅是全栈技术，还包括需求洞察、产品运营和市场推广。若仍按过去专业分工推进，AI用上了组织却还是原来的组织；意识转变后，人需对更完整的结果负责，并将经验转化为AI可执行的工作流。",
     "source": "X：Barret 李靖 (@barret_china)",
     "date": "2026年8月8日10时47分"
+  },
+  {
+    "id": "cmsjsr32z0jmsroo5q5cvaz91",
+    "title": "网友AI自制开源工具12VHPWR Guard，避免华硕RTX 5080/5090显卡烧熔",
+    "url": "https://www.ithome.com/0/987/262.htm",
+    "summary": "网友在AI编程辅助下推出开源工具12VHPWR Guard，针对华硕ROG Astral RTX 5080/5090显卡，通过I2C总线读取传感器监测6个供电针脚电流，任一针脚连续15秒高于9.5A即强制关机。工具资源占用约1%单核CPU和35MB内存，目前仅支持Windows，作者称其只是\"最后一道防线\"，不能修复物理损坏。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日10时38分"
   },
   {
     "id": "cmsjrpaqj0igiroo5urnvgkl7",
