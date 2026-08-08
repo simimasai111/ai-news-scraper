@@ -1,11 +1,67 @@
 [
   {
+    "id": "cmsjpzjuu0h0wroo54ok9y37u",
+    "title": "Claude Code v2.1.225 发布：新增网关支出限额支持与工作区信任提示",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.225",
+    "summary": "Claude Code v2.1.225 为用量警告新增网关支出限额支持，达到限额时提示将显示上限、重置时间及操作者消息。该版本还为不受信任目录中的 claude agents 增加工作区信任提示，并修复了 MCP OAuth 服务器在 macOS 上的间歇性 401 错误、跨会话消息滞留及 Remote Control 会话恢复后对话历史损坏等问题。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月8日9时9分"
+  },
+  {
+    "id": "cmsjqixoo0hp1roo5r9zp9pk0",
+    "title": "Claude Code 会话间可直接互发消息",
+    "url": "https://x.com/AYi_AInotes/status/2085908393584218541",
+    "summary": "Claude Code 最新版支持会话之间直接发消息，无需手动切换窗口重复解释。需 v2.1.224 或更高版本，支持 macOS 和 Linux（含 WSL2）。用 /rename 或 --name 命名会话后，可直接用自然语言让一个会话向另一个发送摘要（不含历史或文件），对方可在任务中接收。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月8日9时58分"
+  },
+  {
+    "id": "cmsjpkxpv0gn4roo5qfcec1uo",
+    "title": "ChatGPT 发布 GPT 5.6 Sol 与 Luna 新模型",
+    "url": "https://x.com/gdb/status/2085901941838844369",
+    "summary": "ChatGPT 团队本周发布多项更新：付费用户将获得 GPT 5.6 Sol 模型，支持通过滑块调节推理深度；免费用户将获得 GPT 5.6 Luna 并享受无限文本消息。此外还改进了网页编辑器格式保留、Android 相机速度，并支持在语音体验中上传文件提问。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月8日9时32分"
+  },
+  {
+    "id": "cmsjq50kc0hj7roo5wvry2tb5",
+    "title": "95后AI生成17篇假新闻操纵期货被罚",
+    "url": "https://x.com/foxshuo/status/2085900157653287325",
+    "summary": "一名95后利用AI生成17篇虚构纯碱工厂受损的文章，全部发布在百度百家号，总浏览量不足1万，却成功扰动市场情绪。该男子随后交易纯碱期货获利8万余元，被证监局没收违法所得并加罚40万元，其精神病申辩未被采纳。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月8日9时25分"
+  },
+  {
+    "id": "cmsjqlwqb0hpjroo5x45dh9p1",
+    "title": "Anthropic 8 月 14 日起将 Claude Code 默认权限调整为自动模式",
+    "url": "https://www.ithome.com/0/987/249.htm",
+    "summary": "Anthropic 宣布自 8 月 14 日起，Pro、Max 和 Team 订阅用户的 Claude Code 默认权限模式将调整为自动模式（Auto Mode），由独立 AI 分类器实时评估工具调用和 Shell 命令，拦截破坏性、不可逆或越权行为。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日9时17分"
+  },
+  {
     "id": "cmsjnfs790et2roo5pjene620",
     "title": "OpenAI 智能音箱曝光，网友呼吁直接造手机",
     "url": "https://x.com/swyx/status/2085884470306234676",
     "summary": "彭博社 Mark Gurman 爆料，OpenAI 首款设备为甜甜圈造型、冰球大小的类人智能音箱，带摄像头、扬声器、麦克风、灯光及可动部件，售价 300-400 美元。swyx 发文呼吁 OpenAI 直接造手机，称人们阅读速度比说话快 2-4 倍，音箱只是过渡，用户真正想要的是 OpenAI 手机。",
     "source": "X：swyx (@swyx)",
     "date": "2026年8月8日8时23分"
+  },
+  {
+    "id": "cmsjo3f130fnkroo55mqvz8tk",
+    "title": "BestBlogs 早报：贾扬清新公司、RSI、Cursor GPU 优化",
+    "url": "https://x.com/hongming731/status/2085883723262930954",
+    "summary": "BestBlogs 8 月 8 日早报精选 10 条 AI 动态：贾扬清官宣第二家创业公司 Intent Lab，其上一家 Lepton AI 被英伟达收购；田渊栋联合创立的 Recursive Superintelligence 估值超 46 亿美元。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月8日8时20分"
+  },
+  {
+    "id": "cmsjo3f140fnlroo53jzidzs4",
+    "title": "贾扬清官宣 Intent Lab，回溯 AI 二十年创业路",
+    "url": "https://x.com/hongming731/status/2085883653645873616",
+    "summary": "贾扬清官宣第二家创业公司 Intent Lab，并在《声东击西》访谈中回溯从 2005 年读研到 Google Brain、Meta、阿里的亲历路径。其上一家公司 Lepton AI 第二年盈利后被英伟达收购，新公司聚焦多 Agent 协同，判断单个 Agent 已足够聪明但一群 Agent 尚不能像团队一样协作。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月8日8时19分"
   },
   {
     "id": "cmsjk6eiz0byoroo5cc4bcwg6",
@@ -758,6 +814,86 @@
     "summary": "Logan 是谷歌能做出的最佳引援。只有得体的回应，出色的社区工作。\n\n【引用 @OfficialLoganK】：对 SemiAnalysis 只有爱，但这是如此肤浅的看法。\n\nGemini 团队正在发力，那么多极其聪明、优秀的人正倾尽毕生心血，为世界打造令人惊叹的 AI 模型和产品。我无比看好！",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月8日1时10分"
+  },
+  {
+    "id": "cmsjqnflx0hu6roo5u8zavlxk",
+    "title": "DynaRobotics 双臂机器人破解幸运饼干取出纸条",
+    "url": "https://x.com/rohanpaul_ai/status/2085910823134982242",
+    "summary": "DynaRobotics 展示其双臂机器人破解幸运饼干并取出内藏纸条。可变形物体是机器人操作中最棘手的问题之一，饼干裂开后场景剧变，机器人需实时更新内部应力模型以应对不可逆状态转换，这暴露了当前基础模型的局限。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月8日10时7分"
+  },
+  {
+    "id": "cmsjqngyi0hv6roo5bi69zy1s",
+    "title": "Eric Mitchell 宣布发布 AGI",
+    "url": "https://x.com/ericmitchellai/status/2085910607191310373",
+    "summary": "我们发布了 AGI！快来试试吧！",
+    "source": "X：Eric Mitchell (@ericmitchellai)",
+    "date": "2026年8月8日10时6分"
+  },
+  {
+    "id": "cmsjr8gdx0i5jroo5b9kvqi8s",
+    "title": "AI编程工具按\"氛围感\"排名引热议",
+    "url": "https://x.com/charlieholtz/status/2085910350164283866",
+    "summary": "好公司\n\n【引用 @derek_gilbert】：纯按氛围感给 AI 编程工具排名：\n\n氛围绝佳：Grok Build、Warp、Conductor、Droid\n\n感觉不错：Cursor、Claude Code、Codex、Amp、Devin、OpenCode\n\nNGMI：Antigravity、Copilot、Cline、Augment",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月8日10时5分"
+  },
+  {
+    "id": "cmsjsa4p70jdrroo5wbahjkbk",
+    "title": "测试与前端细分工种正被AI收敛",
+    "url": "https://x.com/Barret_China/status/2085922322914136246",
+    "summary": "Barret 李靖指出，测试和前端开发等细分工种正逐渐被 AI 收敛。核心是从 Human in the Loop 转向 Human over the Loop，让任务自循环、自验证、自进化，验证本身也须交给 AI。未来人才结构将收敛为端到端交付者和领域专家两类，细分工种不断减少。",
+    "source": "X：Barret 李靖 (@barret_china)",
+    "date": "2026年8月8日10时53分"
+  },
+  {
+    "id": "cmsjqlwqb0hphroo5ys8q1jp8",
+    "title": "Claude Code v2.1.224 支持 AI 跨会话消息传递",
+    "url": "https://www.ithome.com/0/987/256.htm",
+    "summary": "Anthropic 宣布从 Claude Code v2.1.224 开始，不同会话之间可以互相发送消息、更新及其他相关信息。该功能支持 Claude 在会话间传递消息，例如在某个会话的更改破坏另一会话内容时提前发出警告，或在某会话解决问题后将答案发送给另一会话。最佳使用场景包括移交调查结果、协调并行工作树、获取长时间运行任务状态及跨机器回复。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月8日10时4分"
+  },
+  {
+    "id": "cmsjs4poo0ixsroo5wleixcgd",
+    "title": "Claude Code v2.1.226 发布",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.226",
+    "summary": "Anthropic 发布 Claude Code v2.1.226。该版本为终端内的智能体编码工具，可通过自然语言指令执行日常任务、解释复杂代码并处理 git 工作流，帮助开发者加速编码。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月8日10时48分"
+  },
+  {
+    "id": "cmsjsa4p70jdsroo5jh6z74i3",
+    "title": "组织AI转型先解决人的意识问题",
+    "url": "https://x.com/Barret_China/status/2085920792152609104",
+    "summary": "组织朝AI转型，首先要解决人的意识问题。AI开始补齐人的短板，使越来越多的人具备端到端交付能力--不仅是全栈技术，还包括需求洞察、产品运营和市场推广。若仍按过去专业分工推进，AI用上了组织却还是原来的组织；意识转变后，人需对更完整的结果负责，并将经验转化为AI可执行的工作流。",
+    "source": "X：Barret 李靖 (@barret_china)",
+    "date": "2026年8月8日10时47分"
+  },
+  {
+    "id": "cmsjrpaqj0igiroo5urnvgkl7",
+    "title": "非官方AI精神病邮件列表曝光",
+    "url": "https://x.com/dexhorthy/status/2085916845576773746",
+    "summary": "天哪，这周我得知有一个非官方的AI精神病邮件列表，人们会把关于AI的吐槽和文章发给上面，然后把所有知名AI人士的邮箱都填在收件人栏里（Boris、Sam、swyx、Mario、Pete、Dario、Theo、还有该死的Andy Jassy）。\n\n邮箱列表每次都不一样，但总会有一些常见的名字。\n\n内容嘛……总是……挺有意思的。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月8日10时31分"
+  },
+  {
+    "id": "cmsjrpz710ijyroo5g2tzjncg",
+    "title": "AlphaGo第37手十年后对数学科学突破的意义",
+    "url": "https://x.com/demishassabis/status/2085914742414061886",
+    "summary": "非常高兴与@bzcohen聊了聊AlphaGo著名的第37手，以及十年后它对可验证领域数学与科学突破的意义。",
+    "source": "X：Demis Hassabis (@demishassabis)",
+    "date": "2026年8月8日10时23分"
+  },
+  {
+    "id": "cmsjrpwr50iieroo5stib0n5u",
+    "title": "美国能源部启动\"创世开放模型计划\"",
+    "url": "https://genesisopenmodels.anl.gov/",
+    "summary": "美国能源部推出\"创世开放模型计划\"（Genesis Open Models Initiative），相关网站已上线（genesisopenmodels.anl.gov）。该计划旨在推动开放模型的发展，具体细节尚未公布。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月8日10时22分"
   },
   {
     "id": "cmsj7cmbh01mbroo5l1nh1azh",
