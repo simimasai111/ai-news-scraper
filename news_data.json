@@ -816,11 +816,43 @@
     "date": "2026年8月8日1时10分"
   },
   {
+    "id": "cmsk9y37t045jrow9jyxmmle1",
+    "title": "菲尔兹奖得主 Jacob Tsimerman 加入 OpenAI 从事 AI 安全研究",
+    "url": "https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai",
+    "summary": "新晋菲尔兹奖得主、多伦多大学数论学家 Jacob Tsimerman 加入 OpenAI，从事 AI 安全研究。他曾于去年发表关于 AI 可能导致人类灭绝的\"omnicide events\"论文，并认为 AI 很快将在数学研究上超越人类。前 DeepMind CEO Demis Hassabis 则评价 AI 最新数学进展是进步，但尚未达到 AlphaGo \"Move 37\"式的根本性突破。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月8日19时8分"
+  },
+  {
+    "id": "cmsk9xzse043qrow9t814ybzo",
+    "title": "GPT-5 发布一周年：OpenAI 的转折与逆袭",
+    "url": "https://x.com/kimmonismus/status/2086046261749145864",
+    "summary": "GPT-5 发布已满一年，当时引入的路由机制未达预期，模型表现也低于期待，成为 OpenAI 变革期的一个低谷。但 OpenAI 正视问题后实现彻底逆转，凭借 5.6 Sol 版本重回领先（对比 Fable 5 视口径而定），如今处境比以往任何时候都好。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月8日19时6分"
+  },
+  {
+    "id": "cmsk9yb97046zrow93i345be7",
+    "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+    "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+    "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月8日19时5分"
+  },
+  {
     "id": "cmsk7srap03d2roksbhoa7602",
     "title": "什么是产品？AI 原型不等于产品",
     "url": "https://roge.onwrite.app/what-is-a-product",
     "summary": "大量用 AI 生成的网站或应用原型被当作产品展示，但原型并非产品。真正的产品需要真实用户、真实市场并解决真实问题，而目前几乎没有仅靠 AI 打造的 YouTube、Figma 或 Instagram 竞争者。若无人使用，你构建的只是玩具而非产品。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月8日18时6分"
+  },
+  {
+    "id": "cmsk9fkgb03slrow9yjuisbis",
+    "title": "阿莫代伊：AI教皇的执念与争议",
+    "url": "https://x.com/foxshuo/status/2086031403100385697",
+    "summary": "The Information万字长文披露，Anthropic创始人阿莫代伊以强烈个人意志凌驾于公司之上，坚持AI威胁论、拒绝宣传AI治癌等公关建议，甚至不惜损害融资前景。他排斥日常管理，由妹妹丹妮拉操持，员工离职率极低。为防\"坏人获益\"，他接受中东主权基金投资，并以30万年薪招聘内部侦探调查员工。",
+    "source": "X：阑夕 (@foxshuo)",
     "date": "2026年8月8日18时6分"
   },
   {
@@ -830,6 +862,14 @@
     "summary": "AI 智能体 KISS Sorcar 在不到 8 小时、API 成本低于 $150 的情况下，将 SQLite 优化提速 59%（几何平均 1.59x），且全部 1，032，940 项测试通过。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月8日18时33分"
+  },
+  {
+    "id": "cmsk9zc64047irow9ugoumccd",
+    "title": "Firebird 在亚美尼亚启动独联体地区最大 AI 工厂",
+    "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
+    "summary": "Firebird 在亚美尼亚启动独联体地区最大 AI 工厂，由 NVIDIA 加速计算和 Dell Technologies 基础设施驱动，亚美尼亚总理等官员出席开幕式。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月8日18时24分"
   },
   {
     "id": "cmsk5j5yf0ah4ro4bp7v5gni8",
