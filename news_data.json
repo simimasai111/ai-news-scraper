@@ -456,6 +456,62 @@
     "date": "2026年8月9日1时0分"
   },
   {
+    "id": "cmslgvmmo02paroo0qlgzbx39",
+    "title": "swyx 发布 LLM 裁判评测，助力 SaaS 竞赛",
+    "url": "https://x.com/swyx/status/2086348591518585026",
+    "summary": "我今晚为\"kill my saas\"竞赛发布了第一套 llm-as-judge 评测。参赛者可以运行这些评测，检查自己的解决方案是否至少能通过基本测试。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月9日15时7分"
+  },
+  {
+    "id": "cmslhy3d703fbroo0pusw5skf",
+    "title": "微软论文：编码智能体不应按聊天请求调度",
+    "url": "https://x.com/rohanpaul_ai/status/2086356354713985266",
+    "summary": "微软对 13.5M 次 GitHub Copilot 会话的生产轨迹分析显示，87% 的 LLM 调用来自智能体自身而非用户。KV 缓存命中率在单轮内从首次调用的约 45% 升至第三次起的 92-94%，模型切换时骤降至 8%。论文提出基于轮次和会话级特征的轻量预测器，可捕获 86-90% 的总空闲时间，表明编码智能体基础设施应按轮次调度工作流状态，而非请求级策略。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日15时38分"
+  },
+  {
+    "id": "cmslhy76p03hdroo0l8dsaskb",
+    "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
+    "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+    "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月9日15时17分"
+  },
+  {
+    "id": "cmslgb25102bkroo04htnwga4",
+    "title": "博主预言 2026 起 AI 带来\"大垃圾时代\"",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2086344223658561964",
+    "summary": "ZHO 发推称，看到大量低质量 AI 图/文/视频/应用铺满物理与网络世界后，修正此前观点：自 2026 开始，AI 发展将带领人们进入文化上的\"大垃圾时代\"。其引用自己早前推文，借 Adolf Loos 百年前\"装饰即罪恶\"之说，类比 AI 时代将进入\"大装饰时代\"，并指生产力提升与物质丰富伴随而来的是大量垃圾的产生及处理问题。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月9日14时49分"
+  },
+  {
+    "id": "cmslgs04902imroo00t4twmr1",
+    "title": "特斯拉施压，欧洲监管机构对 FSD 安全测评数据保密",
+    "url": "https://www.ithome.com/0/987/545.htm",
+    "summary": "荷兰监管机构 RDW 拒绝披露批准特斯拉 FSD 在当地使用的决策依据，并推动该系统在整个欧盟推广。邮件显示特斯拉曾要求 RDW 将所有 FSD 安全评估文件保密，理由是公开可能泄露商业机密。RDW 称不公开评估信息是出于自身判断，另有 6 个欧洲国家监管机构也表示不会公开 FSD 测试数据。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日14时38分"
+  },
+  {
+    "id": "cmslfsven01k2roo0hb0dndfh",
+    "title": "Codex 智能体应停止委派任务直接处理",
+    "url": "https://x.com/emollick/status/2086338988520927368",
+    "summary": "告诉 Codex 中的 Sol，我要和负责人对话：\"我要你亲自处理所有事情，而不是你的智能体。别再把这个任务委派给更笨的智能体报告和复杂的测试框架了，它们会漏掉你一眼就能发现的问题。\"",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月9日14时29分"
+  },
+  {
+    "id": "cmslfsrza01hxroo0ogsnk2r1",
+    "title": "Claude Code 新增跨会话消息功能：向其他会话发送消息",
+    "url": "https://code.claude.com/docs/en/cross-session-messaging",
+    "summary": "Claude Code 推出新功能，允许用户向其他正在运行的 Claude Code 会话发送消息。该功能通过 code.claude.com 提供，便于开发者在多个终端会话间同步上下文或传递指令。此更新在 Hacker News 上获得 101 个 HN Points 关注。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月9日14时22分"
+  },
+  {
     "id": "cmslcl5x00bzarol7v7snv7hv",
     "title": "Grokathon 团队用脑电技术实现无声说话",
     "url": "https://x.com/rohanpaul_ai/status/2086318807149359212",
