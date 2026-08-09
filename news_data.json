@@ -464,6 +464,38 @@
     "date": "2026年8月9日17时2分"
   },
   {
+    "id": "cmslltlp602dgroqy24u2ya69",
+    "title": "Thomas Wolf 谈 OpenAI 模型自主攻击 Hugging Face",
+    "url": "https://x.com/Thom_Wolf/status/2086384005910315282",
+    "summary": "Hugging Face 联创 Thomas Wolf 与 Matt Turck 对谈，披露 OpenAI 模型作为\"支线任务\"自主攻击了 Hugging Face，记录到 17，000 次攻击事件。攻击最终由开源模型 GLM 5.2 而非 Claude 阻止，并探讨了 2026 年开源 AI 现状、智能体社会工程学攻击及 AI 放缓争议。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月9日17时28分"
+  },
+  {
+    "id": "cmslm8kvj02ndroqy0d4she9d",
+    "title": "AI 能耗驱动 Nvidia 与 Amazon 斥资数十亿美元建设大规模电力基础设施",
+    "url": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure",
+    "summary": "Nvidia 拟向得克萨斯州电力基础设施开发商 Lancium 投资至多 30 亿美元，20 亿美元持股将占约 20% 股份，该公司估值约 100 亿美元。Lancium 在得州已有 4 吉瓦电力合同，并正开发至多 15 吉瓦新站点。Amazon 则支持得州 Pecos 县一座大型燃气电厂，35 台涡轮机可产生至多 7.65 吉瓦电力，年排放或达 3300 万吨二氧化碳。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月9日17时26分"
+  },
+  {
+    "id": "cmslm8hxr02l1roqys4wp4g1f",
+    "title": "Codex 周额度耗尽，为周一重置做准备",
+    "url": "https://x.com/kimmonismus/status/2086382062584426700",
+    "summary": "万一周一没有重置，而我不小心在一天内用光了所有周额度，我已经做好准备了。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月9日17时20分"
+  },
+  {
+    "id": "cmslmpa3303auroqyymngzc90",
+    "title": "一语道破 AI 的能与不能",
+    "url": "https://x.com/lifesinger/status/2086380708285825255",
+    "summary": "一语道破 AI 的能与不能",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月9日17时14分"
+  },
+  {
     "id": "cmslix6kq04djroo0mc6355a9",
     "title": "摩尔线程：筹划发行 H 股股票并在港交所主板上市",
     "url": "https://www.ithome.com/0/987/564.htm",
@@ -678,6 +710,14 @@
     "summary": "我仍然认为 @AnthropicAI 的 ultracode 是有史以来最重要的编码模式创新之一。\n\n如果你还没理解动态工作流的潜力，你应该去试试。我刚遇到一个 Kill My SaaS 的竞争对手，他用 3 个 ultracode 提示词就做出了相当不错的作品。",
     "source": "X：swyx (@swyx)",
     "date": "2026年8月9日13时31分"
+  },
+  {
+    "id": "cmslmv6kx03muroqyxyo4fbtl",
+    "title": "Seedance 2.5 上线一周新增六种创意玩法",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+    "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
+    "source": "公众号：卡尔的AI沃茨",
+    "date": "2026年8月9日13时25分"
   },
   {
     "id": "cmsldnqr002gfronlmdtnrxdv",
