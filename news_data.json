@@ -13846,5 +13846,53 @@
     "summary": "全球多模型聚合平台 OpenRouter 最新一周 AI 大模型调用量榜单中，前五名全部由中国企业研发，小米 MiMo-V2.5 以单周 10.5 万亿 Tokens 调用量登顶，环比增长 12%。DeepSeek 两款模型分列第二和第五，腾讯混元 Hy3 单周环比增幅超 999%。Hugging Face 数据显示，我国开源模型累计下载量居全球首位，千问系列以超 10 亿次优势排名榜首。",
     "source": "IT之家（RSS）",
     "date": "2026年8月2日14时12分"
+  },
+  {
+    "id": "cmsm2bbb405osroy96ls45345",
+    "title": "1985经典文字冒险游戏开源可玩",
+    "url": "https://x.com/emollick/status/2086500208444080380",
+    "summary": "1985年的《A Mind Forever Voyaging》被认为是最佳文字冒险游戏之一（它更像互动故事，谜题很少），至今仍值得一试。\n\n由于它现已开源，我让 Codex 快速搭建了一个界面，既可以玩原版，也可以使用简易 GUI 游玩：https://mind-forever-voyaging.netlify.app/",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月10日1时9分"
+  },
+  {
+    "id": "cmsm3e8vd06gwroy90av5d502",
+    "title": "提醒定期清理AI技能避免上下文污染",
+    "url": "https://x.com/swyx/status/2086505938144616810",
+    "summary": "偶尔提醒一下：删除你的技能。\n\nhttps://forge.smol.ai/blog/dangerous-release-code-was-a-skill\n\n当时间线上不断刷屏\"这个技能改变了我的生活！！你一定要试试！！\"时，你会堆积起一堆东西--往好了说只是消耗上下文，往坏了说，如果你不盯着自己的追踪记录，它们会以意想不到的方式与其他技能产生糟糕的交互。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月10日1时32分"
+  },
+  {
+    "id": "cmsm3dqor06c0roy9c647d1mb",
+    "title": "硅谷误读科幻作品，并削弱了民主",
+    "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+    "summary": "哈佛历史学家、普利策奖得主Jill Lepore在新书中警告，科技公司正日益取代民主政府职能，标志着\"以算法、企业和机器统治形式回归暴政与神秘化\"。她强调自己并非反技术，批评的是私营企业未经同意逐步接管国家角色，并指Elon Musk等硅谷领袖正推动一个源自误读科幻小说的未来。Lepore还谈到苹果1984年Macintosh广告及将Twitter称为\"数字市政厅\"实属荒谬。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月10日1时18分"
+  },
+  {
+    "id": "cmsm2bk8t05r4roy9qd9ax25j",
+    "title": "AI 生成美文难被人类识破",
+    "url": "https://x.com/deedydas/status/2086497020840215003",
+    "summary": "Deedy Das 指出，AI 有时能生成优美的文字，却远超出我们识别其来源的能力。他引用 @lichthauch 的一段文学性推文作为例证，该推文对比了七孩父亲与丁克男性的生活状态，文字细腻动人，几乎无法让人察觉是 AI 所写。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月10日0时57分"
+  },
+  {
+    "id": "cmsm2bbb405otroy91kwrr31p",
+    "title": "ChatGPT与Claude工作模式应像PM般解释选择",
+    "url": "https://x.com/emollick/status/2086496495771988267",
+    "summary": "ChatGPT Work 和 Claude Cowork 的一个失败之处在于，它们假设非程序员无法像程序员一样思考问题，因此把所有相关内容都隐藏了起来。\n\n它们反而应该像一位优秀的产品经理那样解释各种选择（什么应该委派？什么应该泛化？）",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月10日0时55分"
+  },
+  {
+    "id": "cmsm2dqe105turoy9eyayyaky",
+    "title": "Gemini Notebook 应用定制菜单将推提示建议",
+    "url": "https://x.com/testingcatalog/status/2086495110179573942",
+    "summary": "Gemini Notebook 上的\"应用\"定制菜单将根据 Notebook 的内容提供提示建议。\n\n\"应用\"功能目前正在开发中，尚未可用。发布后，用户将有机会基于 Notebook 的资料来源生成任何应用或游戏。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月10日0时49分"
   }
 ]
