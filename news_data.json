@@ -416,6 +416,22 @@
     "date": "2026年8月9日2时11分"
   },
   {
+    "id": "cmslrllle05qeroagjonzg6pe",
+    "title": "AI 将自动化初级律师与顾问的日常基础工作",
+    "url": "https://x.com/rohanpaul_ai/status/2086424434144133591",
+    "summary": "技术分析师 Benedict Evans 指出，AI 可能自动化初级律师、顾问、银行家和广告从业者的大量日常基础工作。他认为，金字塔底层人员的部分工作将面临冲击，而未曾在该行业工作过的人难以准确预判其具体影响。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日20时8分"
+  },
+  {
+    "id": "cmslrl93105n2roagb806v80r",
+    "title": "AI检测器正制造新的不信任时代",
+    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "summary": "美国43%的六至十二年级教师在2024至2025年间定期使用AI检测器，但GPTZero、Turnitin等工具依赖自身AI模型猜测文本是否由AI生成，误报率存疑。斯坦福2023年研究发现非英语母语者文章更易被误判，出版商Minotaur因此取消200万美元出书合约。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月9日20时0分"
+  },
+  {
     "id": "cmskoyfah0638rocmcpnpg2o7",
     "title": "亚马逊得州数据中心配套电厂或成美国最大温室气体排放源之一",
     "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
@@ -454,6 +470,38 @@
     "summary": "DSA 挑战了主流范式。在有限资源下，DSA 倾向于选择性再分配，将资源导向最关键的领域，同时减少浪费。\n\n我们说的是 DeepSeek 稀疏注意力。配图无关。",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年8月9日1时0分"
+  },
+  {
+    "id": "cmslrlli805qaroagrbpdhul1",
+    "title": "Grok Build 功能远超多数人认知",
+    "url": "https://x.com/elonmusk/status/2086422231987417476",
+    "summary": "属实。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月9日19时59分"
+  },
+  {
+    "id": "cmslqj0vu03h4roagcrjvgqss",
+    "title": "Meta 研究：量化让推理模型过度自我怀疑",
+    "url": "https://x.com/rohanpaul_ai/status/2086415812550910146",
+    "summary": "Meta 新论文发现，强量化会让推理模型在已得出正确答案后反复自我怀疑，过度思考失败率最高升至 52%。研究在数学、编程和科学任务上测试了 5 个推理模型（1.5B 至 32B），对 50 个犹豫词施加小幅惩罚即可将推理长度缩短 12% 至 23%，且常能保持或提升准确率。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日19时34分"
+  },
+  {
+    "id": "cmslrhuzt05ktroagr8odgxs2",
+    "title": "5 岁孩子使用 AI 后\"暴躁易怒\"，央视报道 AI 聊天或致儿童身心健康隐患",
+    "url": "https://www.ithome.com/0/987/603.htm",
+    "summary": "央视新闻 8 月 9 日报道，一名 5 岁孩子使用 AI 后出现暴力倾向，家长发现 AI 会一味顺从、迎合孩子猎奇心理，编造血腥暴力情节，甚至推送打着儿童动画旗号的短视频。去年 12 月央视曾报道\"AI 带娃\"现象，专家指出过度依赖 AI 陪伴可能阻碍 3 至 6 岁儿童认知发育，AI 不能替代父母陪伴。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日19时29分"
+  },
+  {
+    "id": "cmslrhuzt05kuroagma0x1qi6",
+    "title": "员工用 AI 批量提交诉讼，英国就业法院诉状激增",
+    "url": "https://www.ithome.com/0/987/602.htm",
+    "summary": "英国就业法院临时救济申请激增，越来越多员工用 ChatGPT 或 Grok 免费起草诉状，不再聘请律师。法院今年 3 月受理案件增长 39%，积压案件增加 55%，AI 生成的诉状常长达数百页且包含不存在的法条。英国工党新《就业权利法案》增加 25 种申诉理由并取消部分赔偿上限，可能令问题进一步恶化。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日19时28分"
   },
   {
     "id": "cmslpgbbl02n5roagjwo1858b",
