@@ -456,12 +456,60 @@
     "date": "2026年8月9日1时0分"
   },
   {
+    "id": "cmslcl5x00bzarol7v7snv7hv",
+    "title": "Grokathon 团队用脑电技术实现无声说话",
+    "url": "https://x.com/rohanpaul_ai/status/2086318807149359212",
+    "summary": "这有点疯狂。\n\n在 @SpaceXAI 举办的 Grokathon 上，一个团队将 Grok Voice 与脑电感应技术相结合，打造了一款应用，让人不用张嘴就能说话。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日13时9分"
+  },
+  {
+    "id": "cmslchkdr0bu3rol7rmw4x2gh",
+    "title": "2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等",
+    "url": "https://www.ithome.com/0/987/537.htm",
+    "summary": "2026 国际基础科学大会今日在北京开幕，主题为\"聚焦基础科学，引领人类未来\"，千余名中外科学家参会。为期两周的会议将举办 500 余场学术会议，覆盖生成式大模型推理、计算机视觉、人机交互、量子信息等前沿热点。8 月 10 日至 12 日，9 位基础科学奖章得主将带来 9 场基础科学报告。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日13时6分"
+  },
+  {
     "id": "cmslafxl70a91rol71wrq46sr",
     "title": "Sam Altman：奇点已经到来",
     "url": "https://x.com/rohanpaul_ai/status/2086302856064414012",
     "summary": "Sam Altman 称奇点已经发生，我们正处于这一时刻。他表示十年前这还只是遥不可及的梦想，如今已身处当年非正式讨论的那个节点。他认为这既是一个疯狂的指数增长过程，也是又一个决定曲线走向的关键时期。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月9日12时5分"
+  },
+  {
+    "id": "cmslcl5x10bzbrol7lcz192ee",
+    "title": "英伟达拟投30亿美元入股Lancium",
+    "url": "https://x.com/rohanpaul_ai/status/2086314227049038046",
+    "summary": "据 The Information 报道，英伟达将向 Stargate 电力开发商 Lancium 投资至多 30 亿美元。\n\nLancium 提供 AI 数据中心建设目前所依赖的土地和电网接入。\n\n若 30 亿美元全额支付，英伟达在估值近 100 亿美元的投资组合中的持股比例将升至约 30%。\n\n英伟达的承诺为纯股权投资，不涉及建设信贷担保或租赁义务，因此英伟达承担的是估值风险而非建设风险。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日12时50分"
+  },
+  {
+    "id": "cmslbiiv10ayerol71davfpo7",
+    "title": "OpenAI 收购演示文稿初创公司 NextSlide 并并入 ChatGPT 团队",
+    "url": "https://x.com/rohanpaul_ai/status/2086309423052718080",
+    "summary": "OpenAI 收购了成立约一年的演示文稿初创公司 NextSlide，并将其整个团队并入 ChatGPT。NextSlide 的软件可将提示词、笔记、文档或研究转化为可编辑的演示文稿，弥补了 ChatGPT 原生生成 .pptx 文件格式不佳的短板。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日12时31分"
+  },
+  {
+    "id": "cmslchkdr0bu5rol73uj5fa8d",
+    "title": "首个全国产 10 万卡 AI 超集群\"曙光 8000（登峰）\"投用",
+    "url": "https://www.ithome.com/0/987/535.htm",
+    "summary": "首个全国产 10 万卡人工智能超集群在国家超算互联网郑州核心节点投用，标志我国算力基建迈入 10 万卡级部署新阶段。该集群每秒峰值算力相当于全人类持续计算 200 年，正支持新材料、创新药、AI 等 26 个领域 300 多种计算任务。中科曙光的\"曙光 8000（登峰）\"采用超智融合技术，支持 FP64 到 INT8 全精度，覆盖科学计算、大模型训练、AI 推理等场景。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日12时23分"
+  },
+  {
+    "id": "cmslbijkh0aysrol73itbr5kh",
+    "title": "Grok Imagine 可制作梗图",
+    "url": "https://x.com/elonmusk/status/2086305001110954244",
+    "summary": "马斯克称 Grok Imagine 可用于制作梗图。其 Imagine Image 2.0 支持魔棒局部编辑、背景移除导出透明图、一次生成最多 5 张图的多参考功能，文字渲染清晰，可完成完整梗图制作流程。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月9日12时14分"
   },
   {
     "id": "cmsl620tx066irol71g9lp0qb",
