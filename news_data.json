@@ -13848,12 +13848,52 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsm4gqz808qfroy9k32g28sb",
+    "title": "Nano Banana 2 Lite 被低估的实力",
+    "url": "https://x.com/fofrAI/status/2086514574530867340",
+    "summary": "我觉得 Nano Banana 2 Lite 的优秀被低估了。又快又便宜又聪明又能干。\n\n就像魔法一样。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月10日2时6分"
+  },
+  {
+    "id": "cmsm4gtog08rlroy9mt3qji13",
+    "title": "Codex 读细则为用户年省六千美元",
+    "url": "https://x.com/gdb/status/2086516262491046364",
+    "summary": "Codex 帮你省钱，靠的是仔细阅读合同细则：\n\n【引用 @SIGKITTEN】：codex 刚刚帮我每年省下约 6000 美元电费",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月10日2时13分"
+  },
+  {
     "id": "cmsm2bbb405osroy96ls45345",
     "title": "1985经典文字冒险游戏开源可玩",
     "url": "https://x.com/emollick/status/2086500208444080380",
     "summary": "1985年的《A Mind Forever Voyaging》被认为是最佳文字冒险游戏之一（它更像互动故事，谜题很少），至今仍值得一试。\n\n由于它现已开源，我让 Codex 快速搭建了一个界面，既可以玩原版，也可以使用简易 GUI 游玩：https://mind-forever-voyaging.netlify.app/",
     "source": "X：Ethan Mollick (@emollick)",
     "date": "2026年8月10日1时9分"
+  },
+  {
+    "id": "cmsm4ghns08o1roy91290pw7k",
+    "title": "Ethan Mollick：Fableish 是心智理论应用的失败",
+    "url": "https://x.com/emollick/status/2086511535015268647",
+    "summary": "Ethan Mollick 赞同 @deepfates 观点，认为 Fable 或 Sol 的密集术语风格并非智能低下的证据，而是缺乏心智理论（theory of mind）的表现。他指出，即使 Fableish 对 Fable 最高效，它未能理解用户不想听到晦涩的新造词，也不应让 Fableish 泄漏到面向不同受众的成品中。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月10日1时54分"
+  },
+  {
+    "id": "cmsm4gcaf08mnroy9j2sel8n3",
+    "title": "Meta 新研究：EvoHarness-RL 让智能体自主学习工具编排策略",
+    "url": "https://x.com/omarsar0/status/2086509069762981896",
+    "summary": "Meta 新研究提出 EvoHarness-RL，让智能体离线学习工具编排（harness）策略，并在运行时在线更新外部状态，替代手工编写。Qwen3-8B 在 ALFWorld 上达到 96.9% 准确率。训练中出现的\"工具编排退火\"与\"工具编排进化\"两种动态表明，长程任务智能体从可训练的协调策略中获益，胜过更大的工具集或记忆。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月10日1时45分"
+  },
+  {
+    "id": "cmsm3uh3806wdroy9nrylkiz9",
+    "title": "Kimi K3登顶Slides Arena引热议",
+    "url": "https://x.com/EMostaque/status/2086509049286140413",
+    "summary": "为什么没人蒸馏Kimi K3来登顶Slides Arena？",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月10日1时44分"
   },
   {
     "id": "cmsm3e8vd06gwroy90av5d502",
