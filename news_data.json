@@ -456,12 +456,84 @@
     "date": "2026年8月9日1时0分"
   },
   {
+    "id": "cmsll2cci01mproqyz2i8d797",
+    "title": "美国\"机器狗\"保安陆续上岗，每年可节省 8 万-13 万美元",
+    "url": "https://www.ithome.com/0/987/574.htm",
+    "summary": "美国机器狗已开始承担数据中心、高价值农作物及体育场馆的安保巡逻任务，一个 24 小时值守岗位每年可比雇用真人保安节省 8 万至 13 万美元。全美约 130 万名保安面临就业压力，其中 60.8% 为有色人种、27.8% 年龄在 55 岁及以上。机器狗企业 Asylon 已为 25 个客户部署约 50 台机器人，但专家认为短期内保安不会被完全取代，而是被推向更困难、责任更重的工作环节。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日17时2分"
+  },
+  {
     "id": "cmslix6kq04djroo0mc6355a9",
     "title": "摩尔线程：筹划发行 H 股股票并在港交所主板上市",
     "url": "https://www.ithome.com/0/987/564.htm",
     "summary": "摩尔线程今日公告，拟发行境外上市外资股（H 股）股票并申请在港交所主板挂牌上市。该公司同日发布 2026 年半年度报告，营业总收入 17.36 亿元，同比增长 147.42%；归母净利润 -1，156.31 万元，同比亏损收窄 95.73%。",
     "source": "IT之家（RSS）",
     "date": "2026年8月9日16时9分"
+  },
+  {
+    "id": "cmsll5zsc01t5roqyjsofpt7n",
+    "title": "Google 拆解 DeepMind 押注新起点，Hassabis 或将离开",
+    "url": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit",
+    "summary": "Google DeepMind 正失去独立性，创始人 Demis Hassabis 可能在未来数月彻底离开，日常运营将交由 Koray Kavukcuoglu 负责，但不再设 CEO 头衔。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月9日16时56分"
+  },
+  {
+    "id": "cmslk3c3k05bxroo0ykg45fwo",
+    "title": "彭博：AI基建融资转向债券与合资",
+    "url": "https://x.com/rohanpaul_ai/status/2086372571428356109",
+    "summary": "彭博：超大规模企业历来主要依靠现金流为扩张提供资金，但庞大的投资规模正促使更多债券、租赁、合资企业和项目融资进入其融资计划。\n\n摩根大通目前预计，随着AI基础设施从债券市场吸引更多资本，科技、媒体和电信债券发行量将达到5400亿美元。\n\n摩根大通估计，未来5年AI芯片可能需要超过2万亿美元。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日16时42分"
+  },
+  {
+    "id": "cmslkle9j01ggroqyees9frke",
+    "title": "马东锡NLP周报：RL数值失配与递归合成",
+    "url": "https://x.com/dongxi_nlp/status/2086370934512836707",
+    "summary": "最佳阅读 第32周\n\n博客：\n\n防御 RL 中训练-推理数值失配（尤其是线性注意力）--以及它是否有助于异步 RL\n\n论文：\n\n长时程终端任务的递归合成",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月9日16时36分"
+  },
+  {
+    "id": "cmslk3c3k05byroo0twq8u9vw",
+    "title": "哈佛新研究：生成模型或存第三扩展轴",
+    "url": "https://x.com/rohanpaul_ai/status/2086370187784470962",
+    "summary": "哈佛新论文提出生成模型可能缺失第三扩展轴：训练中的探索量。在强表征自编码器（RAE）图像生成方案中加入探索后，模型以6.2×更少的训练样本和4.1×更少的FLOPs达到基线最终性能。该方法将best-of-K训练视为扩展模型可学习模态数量的途径，而无需增加推理步骤。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日16时33分"
+  },
+  {
+    "id": "cmsll2cci01msroqyc1d9wv79",
+    "title": "谷歌 Chrome、微软 Edge 双双要求：下载本地 AI 模型需预留 20GB 空间",
+    "url": "https://www.ithome.com/0/987/568.htm",
+    "summary": "谷歌更新帮助文档，要求 Chrome 设备端 AI 模型下载前须预留约 20GB 可用磁盘空间，并需使用不限流量网络且硬件达标。微软 Edge 同样将本地 AI 模型最低存储要求提至 20GB，另需 GPU 显存至少 5.5GB。用户可在 Chrome\"设置 > 系统\"关闭该功能，Edge 则在可用空间低于 10GB 时自动删除本地 AI 模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日16时27分"
+  },
+  {
+    "id": "cmslk3etf05dproo0gtrjjym4",
+    "title": "PixVerse Seedance 2.0 促销最高省 67%",
+    "url": "https://x.com/PixVerse_/status/2086368766561227124",
+    "summary": "更多创意值得更多尝试。\n\nSeedance 2.0 促销费率现已覆盖所有模型：Pro 或 Premium 套餐最高节省 45%，Ultra 套餐最高节省 67%。\n\n截止至 2026 年 9 月 7 日 24：00（太平洋夏令时）。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月9日16时27分"
+  },
+  {
+    "id": "cmslk39jb05afroo0xvpg6c1v",
+    "title": "Codex 周额度重置前，周日冲刺用完",
+    "url": "https://x.com/kimmonismus/status/2086366089806557630",
+    "summary": "好吧，周日开始了。\n\n今天的挑战：在明天之前有效用完本周所有 codex 额度，这样周一的额度重置才划算。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月9日16时16分"
+  },
+  {
+    "id": "cmslk3c3k05bzroo0al127asj",
+    "title": "哈萨比斯：AGI 或在 2030 年前后到来",
+    "url": "https://x.com/rohanpaul_ai/status/2086366039693201906",
+    "summary": "Google DeepMind CEO Demis Hassabis 称，我们正站在\"奇点\"山脚，AGI 可能只需几年、约 2030 年前后（误差一年）即可实现。他认为真正的颠覆不在于 AGI 精确抵达时间，而在于机构适应能力--技术演进速度将远超人类系统的响应能力，若 AGI 按前沿实验室时间表到来，这一滞后将压缩成危险鸿沟。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日16时16分"
   },
   {
     "id": "cmslj0t6c04l6roo0zx4cg3di",
