@@ -456,6 +456,22 @@
     "date": "2026年8月9日1时0分"
   },
   {
+    "id": "cmslpgbbl02n5roagjwo1858b",
+    "title": "OpenAI 下一代模型代号 Doug 曝光",
+    "url": "https://x.com/kimmonismus/status/2086405529010663862",
+    "summary": "OpenAI 继 GPT-5.5 后的下一代模型代号已确定为\"Doug\"，据称是 OpenAI 规模最大的一次预训练，将让 Fable 显得\"原始\"。此前代号为\"Astra\"的模型已完成训练，仅待安全审查通过，而 Doug 规模更大、预训练更充分。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月9日18时53分"
+  },
+  {
+    "id": "cmslpcpce02jnroagyxsuf0y9",
+    "title": "上半年全国人形机器人领域新设企业 11.6 万户，同比增长 9.5%",
+    "url": "https://www.ithome.com/0/987/596.htm",
+    "summary": "市场监管总局数据显示，上半年全国新设\"8大新兴产业+9大未来产业\"相关企业56.1万户。其中人形机器人领域新设企业11.6万户，同比增长9.5%；生成式人工智能领域新设5.5万户，同比增长28.0%。同期高端装备制造业新设2.8万户，高技术制造业企业总量达33.0万户。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日18时41分"
+  },
+  {
     "id": "cmslodpxk04mjroqy97nje5ef",
     "title": "国内 Apple 智能合作伙伴尘埃落定？ 恭喜千问！",
     "url": "https://x.com/frxiaobei/status/2086401392802218266",
@@ -478,6 +494,14 @@
     "summary": "Google DeepMind 发布 DiffusionGemma，将现有 Gemma-4-26B-A4B 改造为文本扩散模型，训练 token 预算不到原来的 10%。",
     "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月9日18时1分"
+  },
+  {
+    "id": "cmslpcpce02joroagnmf39q3o",
+    "title": "穆迪警告：银行加速拥抱 AI 或陷入科技巨头依赖",
+    "url": "https://www.ithome.com/0/987/590.htm",
+    "summary": "穆迪警告，大型银行日益依赖少数硅谷科技公司的 AI 模型，可能形成系统性依赖，一旦模型故障，客户服务将迅速受影响。英国财政部 1 月报告显示，英国已有 75% 金融企业使用 AI，主要用于自动化工作乃至处理保险理赔、信贷评估等核心业务。穆迪还指出，占据主导地位的 AI 提供商或获议价能力对银行坐地起价，而 OpenAI、Anthropic 等公司目前仍处亏损状态。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日18时14分"
   },
   {
     "id": "cmslnb3vl03tqroqyglarw346",
