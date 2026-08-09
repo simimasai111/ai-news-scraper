@@ -416,12 +416,84 @@
     "date": "2026年8月9日2时11分"
   },
   {
+    "id": "cmsltt0x50341rovips6gso59",
+    "title": "美国顶尖AI实验室三强之争",
+    "url": "https://x.com/testingcatalog/status/2086439527854330153",
+    "summary": "此时此刻，你认为这些美国AI实验室中哪些能跻身前三？",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月9日21时8分"
+  },
+  {
+    "id": "cmsltqsdj030vrovifpejl44t",
+    "title": "Sam Altman：AI token 用量呈指数级增长",
+    "url": "https://x.com/rohanpaul_ai/status/2086438555581284660",
+    "summary": "Sam Altman 在 YC Startup School 2026 表示，AI token 使用量正呈指数级增长。六年前全球 token 用量领先者每月约 10 万 token，如今全球人均已达该水平，OpenAI 内部最高者每月达数千亿。他预测再过六年半，人均月用量或达 5000 亿，领先者将达千万亿级。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日21时4分"
+  },
+  {
+    "id": "cmsltqlu702ytroviir28jgn0",
+    "title": "OpenAI Atlas 浏览器今日正式退役",
+    "url": "https://x.com/kimmonismus/status/2086437653285605695",
+    "summary": "今天是 OpenAI atlas 浏览器的最后一天。它将被退役。\n\n我用过它一两次，但从未觉得需要一个 AI 浏览器。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月9日21时1分"
+  },
+  {
+    "id": "cmsltqsav030lrovi2d55tlu1",
+    "title": "骗子用 AI 在美国社区大学注册假学生骗取助学金",
+    "url": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid",
+    "summary": "据《纽约客》报道，诈骗者在美国社区大学注册假学生以骗取助学金，并用 AI 完成课程作业。东洛杉矶学院教授 David Song 几年前发现，其历史课上出现大量名字普通的盎格鲁-撒克逊学生，与以拉丁裔和亚裔为主的生源不符。历史教授 David Roach 估计，超过一半学生用 AI 写论文。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月9日21时0分"
+  },
+  {
     "id": "cmslrllle05qeroagjonzg6pe",
     "title": "AI 将自动化初级律师与顾问的日常基础工作",
     "url": "https://x.com/rohanpaul_ai/status/2086424434144133591",
     "summary": "技术分析师 Benedict Evans 指出，AI 可能自动化初级律师、顾问、银行家和广告从业者的大量日常基础工作。他认为，金字塔底层人员的部分工作将面临冲击，而未曾在该行业工作过的人难以准确预判其具体影响。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月9日20时8分"
+  },
+  {
+    "id": "cmsltqsdj030wrovir9rcabai",
+    "title": "自我改进智能体记忆奖励膨胀研究",
+    "url": "https://x.com/rohanpaul_ai/status/2086435490119713248",
+    "summary": "一项研究发现，自我改进的LLM智能体即使冻结权重，也会因信任自身记忆而性能退化。智能体存储过往片段并用LLM评分复用，但测试模型对其错误答案的自评分中，有31%至54%被误判为正确。作者将这一现象称为\"回声差距\"，且更强或不同的LLM无法可靠修复此问题。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日20时52分"
+  },
+  {
+    "id": "cmsltjzty02vjrovigae29q4a",
+    "title": "GPT-5.6联手Fable 5证明25年通信难题",
+    "url": "https://x.com/AYi_AInotes/status/2086434454432514503",
+    "summary": "GPT-5.6与Fable 5联手，在数学上严格证明了N×N高斯MIMO信道上LMMSE估计加热心逐位翻转算法（复杂度O（N3））在SNR≥2log N时能达到信息论最优阈值，与指数时间最大似然检测打平，解决了自2000年代初悬而未决的计算-统计鸿沟问题。该证明分三步，未引入新数学，但展示了AI可低成本扫清社区已放弃的长期开放理论问题。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月9日20时48分"
+  },
+  {
+    "id": "cmslsm3e001serovi314rzcp3",
+    "title": "Your AI Is a Mirror of How You Think",
+    "url": "https://every.to/context-window/your-ai-is-a-mirror-of-how-you-think",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月9日20时42分"
+  },
+  {
+    "id": "cmslso5z101xkrovikazjtodc",
+    "title": "SpaceXAI 为 Grok Image 2.0 发布新宣传视频",
+    "url": "https://x.com/cb_doge/status/2086432263810511244",
+    "summary": "SpaceXAI 已在 App Store 上新增了一段宣传 Grok Image 2.0 的视频。\n\n更新你的 Grok 应用，立即体验吧！",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月9日20时39分"
+  },
+  {
+    "id": "cmslso7hy01yaroviz1782064",
+    "title": "Google DeepMind 推出 WeatherNext Cyclones，同时预测气旋路径与强度",
+    "url": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time",
+    "summary": "Google DeepMind 推出 WeatherNext Cyclones（WN-C），可同时预测热带气旋路径与强度，五天路径误差平均 230 公里，优于 ECMWF ENS 的 370 公里。该模型基于 Functional Generative Networks，单次前向传播即可生成预测，速度比扩散模型快 8 倍，代码与权重已在 GitHub 开源。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月9日20时29分"
   },
   {
     "id": "cmslrl93105n2roagb806v80r",
