@@ -432,12 +432,44 @@
     "date": "2026年8月9日23时7分"
   },
   {
+    "id": "cmsm06i5r04d7ro6urbo4sh8v",
+    "title": "Greg Brockman 教你用 ChatGPT Work 的 14 项能力",
+    "url": "https://x.com/gdb/status/2086482546389631111",
+    "summary": "Greg Brockman 分享如何学习使用 ChatGPT Work。该工具被形容为云端版 Codex，支持手机、网页和桌面端，可用于运营业务。教程涵盖演示文稿、插件、Blocks、网站与应用托管、分支对话、语音模式、技能、定时自动化、电子表格及多智能体工作区等 14 项知识工作能力。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月9日23时59分"
+  },
+  {
+    "id": "cmsm065ut049wro6u8n0humgl",
+    "title": "Codex 无 /loop 命令但能识别执行",
+    "url": "https://x.com/jxnlco/status/2086482516861722628",
+    "summary": "codex 没有 /loop 命令，但只要你发送这个字符串，它就知道该怎么做。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月9日23时59分"
+  },
+  {
     "id": "cmsly0xdi02ioro6u9kb8djlt",
     "title": "OpenAI团队以客户成功为荣",
     "url": "https://x.com/sama/status/2086468661670461671",
     "summary": "OpenAI团队最让我欣赏的一点是，他们如此专注于客户和用户的成功，并且如此热忱地为之庆祝。",
     "source": "X：Sam Altman (@sama)",
     "date": "2026年8月9日23时4分"
+  },
+  {
+    "id": "cmslz3jx403b7ro6uznompl56",
+    "title": "Opus 5 被批太懒，Anthropic 被促速修",
+    "url": "https://x.com/kimmonismus/status/2086474969307881590",
+    "summary": "Opus 5 是一场灾难。又一个例子说明 Anthropic 应该*立即*发布重做版本，或者至少发布一个费率更优的 Fable 更新：\n\nOpus 5 实在太懒了。我用 GPT 5.6 Sol 工作时从没见过这种情况。\n\n它能把活儿干完，而 Opus 会停下来然后说：\"兄弟，我活儿没干完，但我做了这些：\"",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月9日23时29分"
+  },
+  {
+    "id": "cmslz3pse03cjro6uddruxchh",
+    "title": "Grok Image 2.0 发布：细节指令与编辑功能升级",
+    "url": "https://x.com/cb_doge/status/2086473289065549829",
+    "summary": "xAI 推出 Grok Image 2.0 模型，指令遵循更精细，文本渲染更锐利，并强化了复杂布局处理与生成一致性。新增 Magic Wand 局部编辑、区域分割、背景移除（支持透明导出）、最多 5 图多参考编辑及 Smart Resize 任意宽高比扩展，还提供 15 个照片编辑与产品图等场景模板。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月9日23时22分"
   },
   {
     "id": "cmsly1a8202m9ro6u0fadrtor",
