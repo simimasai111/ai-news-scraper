@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsm8r0lv04lfro980foz99j5",
+    "title": "Metis：把记忆内化进 LLM 自身状态",
+    "url": "https://x.com/rohanpaul_ai/status/2086544779974955262",
+    "summary": "Metis 提出将记忆作为 LLM 自身能力，通过骨干网络内的持久记忆状态，在前向传播中压缩过往交互，而非外挂检索系统。无上下文设置下，Metis-27B 在 LoCoMo （Gold） 得分 26.74，远超 vanilla Qwen3.5-27B 的 0.07 和 Temp-LoRA-27B 的 4.24，但仍低于全上下文 Qwen3.5-27B 的 65.03。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月10日4时6分"
+  },
+  {
     "id": "cmsm7null03m3ro98hablwm3e",
     "title": "SlopCodeBench：渐进披露如何考验模型重构能力",
     "url": "https://x.com/dexhorthy/status/2086538504977170592",
