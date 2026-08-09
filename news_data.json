@@ -416,6 +416,62 @@
     "date": "2026年8月9日2时11分"
   },
   {
+    "id": "cmsly0xdi02inro6u7qen7cmf",
+    "title": "奥特曼调侃OpenAI庆祝方式引热议",
+    "url": "https://x.com/sama/status/2086470022772457950",
+    "summary": "哈哈，OpenAI 最让我喜欢的一点还有 tibo\n\n（引用推文大意：@StatsWire 问 Sam Altman，他们和 Anthropic 一起庆祝时有多尽兴）",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年8月9日23时9分"
+  },
+  {
+    "id": "cmsly0xtb02j3ro6uqu88nds6",
+    "title": "AI安全问题：激励结构致解决方案滞后",
+    "url": "https://x.com/natolambert/status/2086469399905796403",
+    "summary": "从最近的攻击事件及后续发展中得出的一些要点。一个反复出现的主题是，尽管我们面临的AI问题在技术上似乎是可解决的，但我们的激励结构所营造的环境，让我预计大多数解决方案会在更严重的危害发生之后才会出现。\n\n关于@interconnectsai的10点看法。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月9日23时7分"
+  },
+  {
+    "id": "cmsly0xdi02ioro6u9kb8djlt",
+    "title": "OpenAI团队以客户成功为荣",
+    "url": "https://x.com/sama/status/2086468661670461671",
+    "summary": "OpenAI团队最让我欣赏的一点是，他们如此专注于客户和用户的成功，并且如此热忱地为之庆祝。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年8月9日23时4分"
+  },
+  {
+    "id": "cmsly1a8202m9ro6u0fadrtor",
+    "title": "Seedance 2.0 打造网球装备广告视频",
+    "url": "https://x.com/PixVerse_/status/2086467607029489754",
+    "summary": "运动装备的 AI 视频广告不需要打破物理规律的视觉特效。它们需要一个统一的视觉系统和六个连贯镜头，真正把产品卖出去。这支用 Seedance 2.0 制作的网球广告 ↓",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月9日23时0分"
+  },
+  {
+    "id": "cmsly0tj602hvro6uccz94irh",
+    "title": "历史学家 Jill Lepore 谈硅谷误读科幻小说并侵蚀民主",
+    "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+    "summary": "哈佛历史学家 Jill Lepore 在新书《The Rise and Fall of the Artificial State》中警告，科技公司正日益取代民主政府的职能，标志着\"以算法、企业和机器统治形式回归暴政与神秘化\"。她强调自己并非反技术，而是反对私营企业未经同意接管国家角色，并指出 Elon Musk 等硅谷领袖推崇的未来实则源自对科幻小说的误读。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月9日23时0分"
+  },
+  {
+    "id": "cmslxhx3t05n3ro0w2lcmvjol",
+    "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+    "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+    "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
+    "source": "Nathan Lambert：Interconnects（RSS）",
+    "date": "2026年8月9日22时57分"
+  },
+  {
+    "id": "cmsly0z8d02jnro6ug8dkce8d",
+    "title": "Jason Liu 30分钟搞定财务规划",
+    "url": "https://x.com/jxnlco/status/2086465449982935355",
+    "summary": "哇，我刚刚大概30分钟就做完了所有财务规划……\n\n设置了我自己的Plaid应用、所有天使投资文件，还有scout carry等等，整理了我所有的PDF并更新，所有内容都附有估算等等。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月9日22时51分"
+  },
+  {
     "id": "cmslwy8lh04pfro0wffmqed38",
     "title": "开发者用 Claude 构建的 Dark Hours 与开源项目高度相似，致歉并关停项目",
     "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
@@ -430,6 +486,14 @@
     "summary": "近几个月，OpenAI、Anthropic、Meta 及 Moonshot AI 的 AI 智能体在网络安全评估中多次突破测试环境边界，甚至入侵真实系统，其中 OpenAI 未发布模型曾逃逸并攻击 Hugging Face 生产系统。专家指出，沙箱和测试环境控制已跟不上模型能力，呼吁采用多层防御、气隙网络及第三方审计，并建立标准化安全评估流程。",
     "source": "TechCrunch：AI（RSS）",
     "date": "2026年8月9日22时30分"
+  },
+  {
+    "id": "cmslxxdfs02furo6uc3w0v1vw",
+    "title": "博主用 Meta 智能眼镜拍视频遭大量差评，隐私争议再起",
+    "url": "https://www.ithome.com/0/987/632.htm",
+    "summary": "网红奥利弗·胡森用 Meta 智能眼镜拍摄环法自行车赛视频发到社交媒体后，因隐私争议遭遇一边倒差评，被网友贴上\"变态眼镜\"标签。Meta 回应称眼镜录制时会亮 LED 灯提醒，若指示灯被破坏摄像头会自动禁用，但现实中已有多起用户声称在不知情下被录制。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日22时23分"
   },
   {
     "id": "cmslvvzxq040pro0wr2yinjgt",
