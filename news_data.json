@@ -1,5 +1,69 @@
 [
   {
+    "id": "cmsl5z31v0667rol7gfe7zfmh",
+    "title": "一人靠AI小生意年入500万美金案例",
+    "url": "https://x.com/AYi_AInotes/status/2086265618169200688",
+    "summary": "博主分享Oliver靠AI小生意Bustem一年半做到年入500万美金，仅143个客户，平均每客户月付2800美元。Oliver在trust_mrr榜单上迅速升至最高MRR第3名，目标冲击第1。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月9日9时37分"
+  },
+  {
+    "id": "cmsl620tx066lrol7tul0pj2s",
+    "title": "AI 浪潮催生高薪数据中心岗位，美国电工、安装工等需求大增",
+    "url": "https://www.ithome.com/0/987/490.htm",
+    "summary": "Indeed 研究显示，美国增长最快的科技岗位已转向电工、安装工等数据中心相关职位。过去两年，相关招聘信息数量增加一倍以上，目前每 1，000 个招聘岗位中约 6 个与数据中心有关，是 2023 年的 3 倍。约四分之一此类岗位属安装和维护人员，时薪通常比行业外类似工作高出约 10 美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日9时35分"
+  },
+  {
+    "id": "cmsl620ty066nrol7v2mrpzma",
+    "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+    "url": "https://www.ithome.com/0/987/488.htm",
+    "summary": "小米机器人事业部新成立具身智能与应用部，由前字节 Seed Robotics 具身智能负责人孔涛挂帅，并收拢陈龙的 VLA 团队、蔡锐的机器人具身部等业务方向。此前小米机器人在汽车工厂自攻螺母上件工站连续自主运行 3 小时，双侧同时安装成功率为 90.2%，满足最快 76 秒产线节拍；7 月该工站双侧作业成功率提升至 98%，并开启中控台侧盖板排序和料箱折叠回收新工站，均达 90% 成功率。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日9时32分"
+  },
+  {
+    "id": "cmsl49wjn04l8rol7t6o304tx",
+    "title": "OpenRouter 上线 Dreamina Seedance 2.5",
+    "url": "https://x.com/OpenRouter/status/2086260287683092792",
+    "summary": "来自 @BytePlusGlobal 的 Dreamina Seedance 2.5 现已在 OpenRouter 上线。\n\n这是一款音视频联合模型，适用于长篇叙事、多模态参考和精准编辑。单次生成最长 30 秒，可多轮扩展，支持最多 50 个参考。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月9日9时16分"
+  },
+  {
+    "id": "cmsl620ty066prol7g7vscsfq",
+    "title": "马斯克发布 Terafab 渲染视频：Optimus 人形机器人、Robovan 无人车齐亮相",
+    "url": "https://www.ithome.com/0/987/485.htm",
+    "summary": "马斯克在 X 平台发布 Terafab 渲染视频，展示 Optimus 人形机器人与 Robovan 无人车在规划中的得州厂区内工作场景。Robovan 仍无确定量产时间表，而 Optimus 已改造弗里蒙特旧产线，并计划 2027 年夏季在得州超级工厂实现大规模量产，最终年产能达 1，000 万台。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日9时12分"
+  },
+  {
+    "id": "cmsl40d7b04gnrol739g2q00s",
+    "title": "MiniMax H3 开源路线图：坚持开源至 AGI",
+    "url": "https://x.com/MiniMax_AI/status/2086253065657790895",
+    "summary": "MiniMax 在 Reddit AMA 中公布 H3 系列开源路线图，并承诺\"在 AGI 到来前保持开源\"。计划开源 H3-Regenerate-2K 潜在空间 DiT 再生模型、统一文生图与图像编辑模型，并考虑转向 Apache-2.0 许可证。H3 采用 MoBA 风格稀疏注意力，支持 4-NFE/8-NFE 低步长变体，Ref2VA 可续接生成 60 秒长视频。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月9日8时47分"
+  },
+  {
+    "id": "cmsl3jjc804adrol7xah3dnic",
+    "title": "BestBlogs 早报：智能体代码质量与 H3 视频架构",
+    "url": "https://x.com/hongming731/status/2086247096475390431",
+    "summary": "BestBlogs 早报精选 10 篇 AI 文章，涵盖智能体代码质量、H3 视频架构、AI 原生软件原语等主题。H3 开放部分约 600 亿参数，BF16 权重约需 120 GB 内存；Claude Code 在 Pro、Max 和 Team 方案中默认启用自动模式以减少提示词注入。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月9日8时24分"
+  },
+  {
+    "id": "cmsl3jjc804aerol7l7inc231",
+    "title": "BestBlogs 早报：代码质量转向智能体门禁，H3 公开架构边界，AI 原生软件探索新原语",
+    "url": "https://x.com/hongming731/status/2086247046198235185",
+    "summary": "今日三篇精讲聚焦智能体代码质量门禁、MiniMax H3 架构边界与 AI 原生软件新原语。H3 开放部分约 600 亿参数，BF16 权重约需 120 GB 内存，未原生训练递归长轨迹。Daily 从计算史类比，提出智能体只是 AI 原生软件早期形态，需探索聊天框外的新交互原语。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月9日8时23分"
+  },
+  {
     "id": "cmsl2xuvt007crol773bt20z7",
     "title": "ChatGPT 移动端获赞：办公电脑故障时救急",
     "url": "https://x.com/gdb/status/2086246436690350190",
@@ -390,6 +454,14 @@
     "summary": "DSA 挑战了主流范式。在有限资源下，DSA 倾向于选择性再分配，将资源导向最关键的领域，同时减少浪费。\n\n我们说的是 DeepSeek 稀疏注意力。配图无关。",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年8月9日1时0分"
+  },
+  {
+    "id": "cmsl620tx066irol71g9lp0qb",
+    "title": "Meta CTO：AI 省下的时间不是用来休假的，应投入开发产品",
+    "url": "https://www.ithome.com/0/987/495.htm",
+    "summary": "Meta 首席技术官 Andrew Bosworth 在 7 月初的员工问答会上表示，AI 带来的生产力提升不应转化为更多休假时间，而应投入为用户开发更多产品。他称员工\"正在做这个星球上最令人兴奋的事情\"，并劝员工别再追问已取消的\"Meta Days\"假期计划。Meta 每年为员工提供 4 周带薪休假，取消 Meta Days 后改为增加两个\"自选休假日\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日10时7分"
   },
   {
     "id": "cmskmta2v08riroyzq9cthlan",
