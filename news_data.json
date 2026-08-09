@@ -1,5 +1,61 @@
 [
   {
+    "id": "cmsl2xuvt007crol773bt20z7",
+    "title": "ChatGPT 移动端获赞：办公电脑故障时救急",
+    "url": "https://x.com/gdb/status/2086246436690350190",
+    "summary": "\"谢天谢地，ChatGPT 在移动端上体验很棒\"--来自一位办公电脑无法使用的同事。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月9日8时21分"
+  },
+  {
+    "id": "cmsl1u70w0828rowgxv44olqm",
+    "title": "Replit 设计马拉松报名即将截止",
+    "url": "https://x.com/Replit/status/2086241213166805054",
+    "summary": "时间所剩无几。这是你参加 Replit 设计马拉松的最后机会。\n\n提交截止时间为太平洋时间 8 月 11 日（周一）上午 10 点。\n\n详情见下方帖子 🧵",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月9日8时0分"
+  },
+  {
+    "id": "cmsl1ubha085crowg7iot4ezh",
+    "title": "谷歌开源TPU Raiden推理优化库",
+    "url": "https://x.com/SemiAnalysis_/status/2086241160243118556",
+    "summary": "谷歌已开源其 TPU Raiden 推理优化库。这是与 NVIDIA NIXL 对等的栈层，提供预填充与解码实例之间的 KVCache 传输，并包含 KVCache 卸载移动的原语！很高兴看到谷歌将越来越多的 TPU 技术栈开源并外部化！",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月9日8时0分"
+  },
+  {
+    "id": "cmsl1ro1m07y5rowgd6xiopyr",
+    "title": "67 岁农民误信 AI 推荐除草剂，150 亩芝麻苗一夜枯萎",
+    "url": "https://www.ithome.com/0/987/474.htm",
+    "summary": "安徽滁州 67 岁农户吴大伯按 AI 生成的\"百亩芝麻飞防除草 + 除虫全套方案\"，用无人机全田喷洒 AI 推荐的除草剂和除虫剂，次日 150 亩芝麻苗全部枯萎，预计损失约 15 万元。农技人员证实，AI 推荐的\"氟磺胺草醚\"专用于大豆田，严禁用于芝麻田全田喷洒。涉事 AI 软件客服称答复系整合网络公开信息生成，已登记损失并反馈；专家提醒高风险场景下 AI 内容只能作参考，须由专业人员判定。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日7时48分"
+  },
+  {
+    "id": "cmsl1oqhj07xurowgw2cmn8cq",
+    "title": "OpenAI与Anthropic互怼，Codex周限额重置",
+    "url": "https://x.com/AYi_AInotes/status/2086236960310407590",
+    "summary": "OpenAI的Tibo与Anthropic的Boris在X上互怼，起因是用户用代理在Claude Code跑别家模型被封号。Boris回应称官方支持此举，并半开玩笑挖人；Tibo则反击称GPT-5.6 Sol可在Claude Code中使用，并重置了所有付费用户的ChatGPT Work和Codex周限额。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月9日7时43分"
+  },
+  {
+    "id": "cmsl1ro1n07yarowg6ba6nbhs",
+    "title": "苹果中国官网删除 Apple 智能接入阿里千问使用手册",
+    "url": "https://www.ithome.com/0/987/467.htm",
+    "summary": "苹果中国官网8月8日上线《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作，但该中文操作手册现已从官网删除，原链接无法访问。此前文档显示，千问扩展适用于 macOS 26.6 或更高版本，支持写作工具与 Siri，用户需登录千问账户方可使用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日7时33分"
+  },
+  {
+    "id": "cmsl1ro1n07ycrowg2666y92z",
+    "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
+    "url": "https://www.ithome.com/0/987/465.htm",
+    "summary": "一项发表在《判断与决策》期刊上的研究显示，1，682 名成年人阅读 6 篇短篇小说（3 篇人类创作、3 篇由 ChatGPT 创作）后，认为 AI 生成的故事更引人入胜、质量更高；但当被告知故事由人类创作时，评价反而更高。两项后续实验（共 905 人参与）中，参与者判断故事作者身份的正确率分别约为 40% 和 52%，未发现普遍证据表明人们能区分两者。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日7时24分"
+  },
+  {
     "id": "cmskzmhrs03rtrowg9bvgckbr",
     "title": "OpenAI 收购 AI 演示文稿初创公司 NextSlide",
     "url": "https://www.ithome.com/0/987/455.htm",
