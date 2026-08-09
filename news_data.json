@@ -456,6 +456,22 @@
     "date": "2026年8月9日1时0分"
   },
   {
+    "id": "cmslix6kq04djroo0mc6355a9",
+    "title": "摩尔线程：筹划发行 H 股股票并在港交所主板上市",
+    "url": "https://www.ithome.com/0/987/564.htm",
+    "summary": "摩尔线程今日公告，拟发行境外上市外资股（H 股）股票并申请在港交所主板挂牌上市。该公司同日发布 2026 年半年度报告，营业总收入 17.36 亿元，同比增长 147.42%；归母净利润 -1，156.31 万元，同比亏损收窄 95.73%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日16时9分"
+  },
+  {
+    "id": "cmslj0t6c04l6roo0zx4cg3di",
+    "title": "ChatGPT Finance 帮你省钱，揪出幽灵订阅",
+    "url": "https://x.com/gdb/status/2086364812326670454",
+    "summary": "ChatGPT Finance 用于帮你省钱：",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月9日16时11分"
+  },
+  {
     "id": "cmslgvmmo02paroo0qlgzbx39",
     "title": "swyx 发布 LLM 裁判评测，助力 SaaS 竞赛",
     "url": "https://x.com/swyx/status/2086348591518585026",
@@ -464,12 +480,60 @@
     "date": "2026年8月9日15时7分"
   },
   {
+    "id": "cmslj0q0t04joroo06rtopzuo",
+    "title": "用户因跨模型使用Claude工具遭封禁引热议",
+    "url": "https://x.com/rohanpaul_ai/status/2086358373013045484",
+    "summary": "你只有在X上才能看到这个 😄\n\n【引用 @thsottiaux】：我很想帮忙，但我不在Anthropic工作。\n\n他们因为你在另一个模型上使用他们的工具链就封禁你的账号，这确实看起来很奇怪。\n\n还有其他人遇到同样的情况吗？",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月9日15时46分"
+  },
+  {
+    "id": "cmsliu4up04cxroo027pg5j6u",
+    "title": "字节牛逼啊， 豆包已经开始在樟宜机场替吉祥航空报登机了， 字节跳动这是已经进军新加坡市场了吗？！ 有一说一，豆包的这个播报比航司的空姐播报的舒服多了🤣",
+    "url": "https://x.com/AYi_AInotes/status/2086357161504903589",
+    "summary": "字节牛逼啊，\n\n豆包已经开始在樟宜机场替吉祥航空报登机了，\n\n字节跳动这是已经进军新加坡市场了吗？！\n\n有一说一，豆包的这个播报比航司的空姐播报的舒服多了🤣",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月9日15时41分"
+  },
+  {
     "id": "cmslhy3d703fbroo0pusw5skf",
     "title": "微软论文：编码智能体不应按聊天请求调度",
     "url": "https://x.com/rohanpaul_ai/status/2086356354713985266",
     "summary": "微软对 13.5M 次 GitHub Copilot 会话的生产轨迹分析显示，87% 的 LLM 调用来自智能体自身而非用户。KV 缓存命中率在单轮内从首次调用的约 45% 升至第三次起的 92-94%，模型切换时骤降至 8%。论文提出基于轮次和会话级特征的轻量预测器，可捕获 86-90% 的总空闲时间，表明编码智能体基础设施应按轮次调度工作流状态，而非请求级策略。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月9日15时38分"
+  },
+  {
+    "id": "cmslix6kq04dnroo0wltvo41v",
+    "title": "摩尔线程 2026 年半年度归母亏损 1156.31 万元，同比亏损收窄 95.73%",
+    "url": "https://www.ithome.com/0/987/558.htm",
+    "summary": "摩尔线程 2026 年上半年营收 17.36 亿元，同比增长 147.42%；归母净利润亏损 1，156.31 万元，同比收窄 95.73%。扣非净利润亏损 1.51 亿元，同比收窄 52.37%；经营现金流净额 -21.69 亿元，同比扩大 86.3%。总资产达 169.24 亿元，较上年度末增长 10.34%，实际控制人仍为张建中及一致行动人。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日15时33分"
+  },
+  {
+    "id": "cmslig7k4046eroo033vf3kc9",
+    "title": "赵纯想拆解3000万计划：面向高流动现金流人群的AI订阅制产品",
+    "url": "https://x.com/chunxiangai/status/2086353905081020480",
+    "summary": "赵纯想拆解3000万计划，核心是面向高流动现金流人群开发AI驱动的订阅制产品。其策略以心理锚点为切入点：白领工资按月发放，月费订阅易产生\"每月被扣\"的抵触感；而女主播以日收入为心理锚点，用一天收入的一部分支付订阅更易接受。类似人群还包括二奢、名表、珠宝卖家，美甲美睫师，汽车贴膜店，微商买手，小型MCN，球鞋潮玩卖家及婚礼摄影等。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月9日15时28分"
+  },
+  {
+    "id": "cmslix6kq04dproo0iyosdjwu",
+    "title": "李开复：AI 时代人的优势在\"右脑\"，可做出数据不能预测的事情",
+    "url": "https://www.ithome.com/0/987/554.htm",
+    "summary": "零一万物首席执行官李开复在回答\"AI 远比人类聪明时人还能做什么\"时表示，AI 强于\"左脑\"但尚未具备\"右脑\"，与同理心、审美品味、远见相关的优势正是人类区别于 AI 之处，可做出数据不能预测的事情，如 iPhone、可回收火箭、ChatGPT。他建议普通人择业选择\"没有数据\"的领域和开放领域，并认为未来 5 到 10 年开放式蓝领工作更难被 AI 替代。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日15时25分"
+  },
+  {
+    "id": "cmslig7k4046froo0sydnt7ky",
+    "title": "赵纯想谈VibeCoding双打：OPC不可取",
+    "url": "https://x.com/chunxiangai/status/2086351674764132395",
+    "summary": "赵纯想称在梁适之带领下，laper 已做到 trustMRR No.75。梁适之负责用 Codex 管理增长表格与 Admin 工具，赵纯想专注业务代码，两人组成 VibeCoding 男子双打集团。结论是 OPC 不可取，应找到市场合伙人。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月9日15时19分"
   },
   {
     "id": "cmslhy76p03hdroo0l8dsaskb",
