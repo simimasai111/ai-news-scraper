@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsm7null03m3ro98hablwm3e",
+    "title": "SlopCodeBench：渐进披露如何考验模型重构能力",
+    "url": "https://x.com/dexhorthy/status/2086538504977170592",
+    "summary": "SlopCodeBench 与多数基准不同，它逐步披露问题，迫使 LLM 实时重构代码库，避免\"垃圾堆积\"。该基准来自 UW，最强模型（Fable、Sol、Kimi K3）通过率仅 33%，并衡量代码随问题难度增加而增长的复杂度。Dex Horthy 与 @vaibcode 深入探讨了该基准机制及前沿模型测试发现。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月10日3时42分"
+  },
+  {
+    "id": "cmsm7oj2r03rbro98n3lh0o4b",
+    "title": "AI智能体集群面临大量无防御攻击目标",
+    "url": "https://x.com/fofrAI/status/2086537265774235893",
+    "summary": "有太多目标对AI智能体集群来说如同\"待宰的鸭子\"--毫无防御能力。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月10日3时37分"
+  },
+  {
+    "id": "cmsm7o4am03n7ro98567fkupy",
+    "title": "Anthropic 将 Claude Code 的自动模式设为默认选项",
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+    "summary": "Anthropic 宣布自 8 月 14 日起，将 Claude Code 的自动模式设为 Pro、Max 和 Team 账户的默认选项，该模式仅在操作被判定为\"不可逆、具破坏性或超出环境范围\"时才请求人工批准。测试显示，在 1，053 名付费测试者中，自动模式捕获了 89% 的有害操作，而人工审查仅捕获 13.6%。公司还新增了提示词注入筛查和可自定义的硬性拒绝规则等安全功能。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月10日3时20分"
+  },
+  {
+    "id": "cmsm7o8zw03oxro98zahiy1n4",
+    "title": "AI发展呈指数级，未来9个月更剧变",
+    "url": "https://x.com/kimmonismus/status/2086531955311394936",
+    "summary": "我想补充一点：未来9个月的发展将超过过去9个月。\n\n为什么？因为发展不是线性的，而是指数级的。这一点常常被遗忘。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月10日3时15分"
+  },
+  {
+    "id": "cmsm6lzwe0350ro98wkuitmld",
+    "title": "瓶颈日益在于明确自身需求",
+    "url": "https://x.com/gdb/status/2086530739609407502",
+    "summary": "瓶颈日益在于明确自身需求。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月10日3时11分"
+  },
+  {
     "id": "cmsm4gqz808qfroy9k32g28sb",
     "title": "Nano Banana 2 Lite 被低估的实力",
     "url": "https://x.com/fofrAI/status/2086514574530867340",
