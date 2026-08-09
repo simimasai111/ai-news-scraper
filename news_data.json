@@ -416,6 +416,14 @@
     "date": "2026年8月9日2时11分"
   },
   {
+    "id": "cmslvvzxq040pro0wr2yinjgt",
+    "title": "算力定价如何驱动SpaceX万兆瓦布局",
+    "url": "https://x.com/SemiAnalysis_/status/2086452515604705570",
+    "summary": "退役GPU的最佳用途就是在机架里\"刷光环\"。云端算力如此便宜，Jeremie借鉴了SpaceX的未来发展轨迹。\n\n同样的逻辑--算力定价塑造行为--正是推动SpaceX 10吉瓦建设规模及其背后3000亿美元年经常性收入案例的原因。\n\n每兆瓦1亿美元的经济性、SpaceX的10GW豪赌、微软的承购方角色，以及更多内容，尽在本周SemiAnalysis Weekly。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月9日22时0分"
+  },
+  {
     "id": "cmsltt0x50341rovips6gso59",
     "title": "美国顶尖AI实验室三强之争",
     "url": "https://x.com/testingcatalog/status/2086439527854330153",
@@ -430,6 +438,14 @@
     "summary": "Sam Altman 在 YC Startup School 2026 表示，AI token 使用量正呈指数级增长。六年前全球 token 用量领先者每月约 10 万 token，如今全球人均已达该水平，OpenAI 内部最高者每月达数千亿。他预测再过六年半，人均月用量或达 5000 亿，领先者将达千万亿级。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月9日21时4分"
+  },
+  {
+    "id": "cmslvs6vq03ubro0wgv5nngq6",
+    "title": "甲骨文 OpenJDK 项目新规：不允许提交 AI 生成代码",
+    "url": "https://www.ithome.com/0/987/615.htm",
+    "summary": "甲骨文已通知 OpenJDK 开发者，项目组不能再提交 AI 生成的代码。新规明确，社区贡献内容不得包含由大语言模型、扩散模型或深度学习系统生成的内容，涵盖代码、文本、PR、电子邮件沟通、维基和 Bug 报告。此举主要出于知识产权风险、网络安全风险及代码审查工作量方面的担忧，开发者仍可私下用 AI 工具审查、调试代码。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月9日21时22分"
   },
   {
     "id": "cmsltqlu702ytroviir28jgn0",
