@@ -13848,6 +13848,78 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsntm5d10j5trohfg55p39kn",
+    "title": "MAI-Image-2.6 登顶文生图竞技场第二",
+    "url": "https://x.com/mustafasuleyman/status/2086944832258236781",
+    "summary": "微软 MAI-Image-2.6 在文生图竞技场以 1336 分升至第二名，距榜首 GPT Image 2 仅差 45 分，领先第三名 Grok Imagine 20 分。该版本较上一代 MAI-Image-2.5（第 10 名，1256 分）全面提升，下周将登陆 Playground 并在 Foundry 开放早期 API 访问。",
+    "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+    "date": "2026年8月11日6时36分"
+  },
+  {
+    "id": "cmsnshmyu0iborohfxy7msqbu",
+    "title": "将大语言模型的输出\"人性化\"是愚蠢的",
+    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "summary": "给 LLM 输出套上\"人性化\"风格指令（如\"我有 ADHD\"或 ASD-STE 简化技术英语）是错误抽象：这类压缩是有损的，会掩盖失败细节，且让智能体间传递信息时层层丢失关键状态。作者主张智能体应默认保留高保真机器状态（如精确错误、堆栈、置信度），仅在人类消费边界做压缩渲染。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日6时2分"
+  },
+  {
+    "id": "cmsntmvu20j8yrohf8crbe085",
+    "title": "MiniMax H3 推理引擎获 Redis 作者移植",
+    "url": "https://x.com/MiniMax_AI/status/2086940119324565748",
+    "summary": "MiniMax 开源 H3 模型权重后，Redis 作者 antirez 为其编写了面向 Mac 的 Metal 推理引擎，并已在 GitHub 开源。MiniMax 表示，开放权重让任何人能将 H3 带到任意硬件，并感谢 antirez 的贡献。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月11日6时17分"
+  },
+  {
+    "id": "cmsnskb0m0iekrohfpif2rast",
+    "title": "Uncensored AI 实测：敢答敏感问题",
+    "url": "https://x.com/rohanpaul_ai/status/2086939126897766677",
+    "summary": "Rohan Paul 实测 Uncensored【.】AI，称其能回答多数传统聊天机器人回避的政治、宗教、战争等敏感问题。该平台基于检索增强生成（RAG）与知识图谱构建，提供无审查信息。作者强调其输出\"不加修饰\"，即使内容令人不适。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日6时13分"
+  },
+  {
+    "id": "cmsnskemx0igyrohf6h9prnlb",
+    "title": "Meta 发布开源模型 Muse Glimmer，并承诺数周内开放 Muse Spark 1.2 权重",
+    "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy",
+    "summary": "Meta 宣布将重心转向开源权重大语言模型，并发布开源模型 Muse Glimmer，同时承诺在未来几周内开放其更强模型 Muse Spark 1.2 的权重。CEO 扎克伯格发表逾 6000 字长文阐述公司 AI 与治理理念，意在区别于 OpenAI、Anthropic 等闭源模型厂商，并回应中国实验室大规模知识蒸馏带来的竞争压力。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月11日6时13分"
+  },
+  {
+    "id": "cmsnskhy50ihwrohfl47tqn8a",
+    "title": "Claude 新模型将嵌入隐形文本水印",
+    "url": "https://x.com/steipete/status/2086938582825173277",
+    "summary": "Anthropic 宣布所有 Claude 新模型将在生成文本中嵌入隐形水印，覆盖 Claude 提供的所有场景。水印属于文本本身而非元数据，复制粘贴后仍会保留，并可能经受部分编辑。该功能自 2026 年 8 月 2 日起随新模型上线，依据 Anthropic 签署的欧盟 AI 法案准则，全球范围推行，现有模型仍在适配中。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月11日6时11分"
+  },
+  {
+    "id": "cmsntnbq90jc8rohfb4yjqv7e",
+    "title": "算力即货币：黄仁勋谈计算价值",
+    "url": "https://x.com/AravSrinivas/status/2086935801397711270",
+    "summary": "算力即货币",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月11日6时0分"
+  },
+  {
+    "id": "cmsntk99v0j4crohfhgzv7yds",
+    "title": "马克·扎克伯格不懂如何生活",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+    "summary": "扎克伯格发布6500字长文，为AI描绘积极未来，试图平息公众对数据中心和失业的反弹情绪。文章批评其\"个性化AI代理\"愿景将人际关系和爱好外包给机器，认为爱是一种关注方式，AI无法替代个人投入与陪伴。作者以AI生成励志海报和AI挑选烘焙食谱为例，指出这种效率优先的愿景牺牲了真实生活体验。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月11日6时0分"
+  },
+  {
+    "id": "cmsntji3y0j31rohfbim4o072",
+    "title": "Cohere CEO 认同 Meta 超级智能愿景",
+    "url": "https://x.com/aidangomez/status/2086935375105114187",
+    "summary": "这是 AI 未来的正确愿景，聚焦于进步和建设更美好的未来，而非执着于风险、厄运和负面。\n\n相信美好未来的人，终将缔造它。",
+    "source": "X：Aidan Gomez（Cohere CEO，@aidangomez）",
+    "date": "2026年8月11日5时59分"
+  },
+  {
     "id": "cmsnrwnsb0i1erohfuhfjc4q6",
     "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
     "url": "https://x.com/JensenHuang/status/2086934705207959965",
