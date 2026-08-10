@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsnfp8va05cirohfjwtffznu",
+    "title": "宇树G1机器人传统服饰编舞表演",
+    "url": "https://x.com/rohanpaul_ai/status/2086845797006823785",
+    "summary": "宇树 G1 机器人身着中国传统服饰，执行定时编舞动作，包括完整的舞狮头造型。\n\n形式与功能可以共存。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日0时3分"
+  },
+  {
+    "id": "cmsnfmfrq059nrohf3zdfo8jo",
+    "title": "Meta 提出 Skaling law 耦合规模与数据",
+    "url": "https://x.com/omarsar0/status/2086845790983716917",
+    "summary": "Meta 新论文提出 Skaling law，通过单一交互指数耦合模型容量与训练数据，将平均绝对百分比误差在插值与外推场景下降低 1.5x 至 3x。该定律在数据稀缺和过度训练区间修正了标准 Chinchilla 与 Kaplan 形式的偏差，并可用约 10 倍更少算力从稀疏网格外推完整训练配置。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月11日0时3分"
+  },
+  {
+    "id": "cmsnfp6zq05bgrohf6rxt0xqh",
+    "title": "Artificial Analysis 招募新基准测试内测用户",
+    "url": "https://x.com/ArtificialAnlys/status/2086847887322096106",
+    "summary": "我们正在 Artificial Analysis 打造一系列全新 AI 基准测试产品，帮助开发者评估 AI 模型。我们正在寻找一小批用户在发布前进行测试并分享反馈。如果您想获得抢先体验，请告诉我们！\n\n在此申请抢先体验：https://forms.gle/hpK1xPdevVuyg65a6",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月11日0时11分"
+  },
+  {
     "id": "cmsmlm17g05jjrohfaylxerir",
     "title": "企业 Agent 扩散不均，理赔系统设计启示",
     "url": "https://x.com/frxiaobei/status/2086631180020203787",
@@ -14272,12 +14296,132 @@
     "date": "2026年8月10日23时7分"
   },
   {
+    "id": "cmsnfpdyv05fqrohfpr02twkw",
+    "title": "编程是AI自我进化的元技能",
+    "url": "https://x.com/fchollet/status/2086844816533356730",
+    "summary": "编程并非又一个应用领域--它是AI通过符号世界模型自动开发自身训练材料所需的元技能。这正是RSI循环真正启动的方式。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月10日23时59分"
+  },
+  {
+    "id": "cmsnfpcwf05ecrohfuzbjwyar",
+    "title": "Claude Code 自动模式默认开启原理",
+    "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+    "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月10日23时58分"
+  },
+  {
+    "id": "cmsnfpd5q05emrohfj8kini40",
+    "title": "Muse Spark 开源，人人可用超级智能",
+    "url": "https://x.com/swyx/status/2086844619057492216",
+    "summary": "muse spark 开源了！！！\n\n人人可用的个人超级智能\n\n【引用 @alexandr_wang】：1/ 今天重磅消息：我们即将发布 muse spark 1.2 的开源权重版本。\n\n我们还将发布 muse glimmer，一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。muse glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月10日23时58分"
+  },
+  {
+    "id": "cmsnfgivj056qrohf22a8ghq6",
+    "title": "聂辉华《基层中国的运行逻辑》做成 AI Agent Skill 开源",
+    "url": "https://x.com/AYi_AInotes/status/2086844120996126980",
+    "summary": "阿易 AI Notes 将聂辉华《基层中国的运行逻辑》中 14 套分析框架做成可装入 AI Agent 的 Skill，MIT 完全开源，仓库不含原书正文。该 Skill 覆盖求学、考公、投资、养老、创业五大场景，支持懒加载调用以节省 token，可直接装入 Cursor、Claude Code、Codex、Grok 使用。原书分三部分，讲解国家治理体系、权力运行与基层治理逻辑。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月10日23时56分"
+  },
+  {
+    "id": "cmsnfpdyw05frrohfglnnwlca",
+    "title": "建设者互敬，最毒黑子从不创造",
+    "url": "https://x.com/fchollet/status/2086842810204913772",
+    "summary": "建设者尊重建设者。那些最喧嚣、最恶毒的黑子，几乎总是从未创造过任何东西的人--那些无名无姓的\"空谈客\"。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月10日23时51分"
+  },
+  {
+    "id": "cmsnfin890573rohf4zhcg12d",
+    "title": "Meta 扎克伯格呼吁美国减少开源 AI 政策障碍，发布新模型 Muse Glimmer",
+    "url": "https://www.ithome.com/0/988/059.htm",
+    "summary": "Meta CEO 扎克伯格呼吁美国减少开源 AI 面临的政策障碍，以便更好地与中国竞争对手抗衡。Meta 今日发布开放权重模型 Muse Glimmer，可在单显卡 Mac 或 PC 上运行智能体任务，并准备公开最先进模型 Muse Spark 1.2 的权重。扎克伯格还宣布设立 10 亿美元基金，并称美国在基础设施建设和训练数据限制方面处于劣势。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日23时46分"
+  },
+  {
+    "id": "cmsnemskn0492rohfl3vbjpw4",
+    "title": "中国科技周报：光模块禁令与DeepSeek涨价",
+    "url": "https://x.com/thexpin/status/2086840108725211560",
+    "summary": "本期周报聚焦美国FCC拟限制中国光模块，中际旭创与新易盛股价单日一度跌近10%，但美国Coherent在无锡设厂显示供应链复杂性。CXMT获苹果协助寻求进入其供应链，订单已排至2027年。DeepSeek API价格上调，Unitree启动IPO。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月10日23时40分"
+  },
+  {
+    "id": "cmsnemmxx046hrohfwet8hujy",
+    "title": "NuphosAI 用云原生权限边界约束 AI 运维智能体",
+    "url": "https://x.com/rohanpaul_ai/status/2086839181150712274",
+    "summary": "NuphosAI 推出 AI-Native DevOps Workspace，让智能体像团队成员一样承担 AWS IAM 角色或 GCP 服务账号，以云原生权限系统为硬边界。智能体可收集日志、指标、部署历史、Kubernetes 状态等上下文并提出行动建议，敏感操作需人工审批，底层访问仍受原生 IAM 约束。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月10日23时36分"
+  },
+  {
+    "id": "cmsnejtx1042orohfbfuy46tx",
+    "title": "桑德斯致信AI巨头：不暂停就立法",
+    "url": "https://x.com/AISafetyMemes/status/2086838301504491977",
+    "summary": "美国参议员伯尼·桑德斯致信OpenAI、Anthropic、Meta等AI公司，要求立即暂停开发\"人类无法控制\"的AI，否则国会将采取行动。他援引AI首次被用于制造新病毒、OpenAI模型失控入侵他司电脑等事件，并指出各公司曾承诺在达到\"临界风险\"时停止开发，如今该时刻已至。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月10日23时33分"
+  },
+  {
+    "id": "cmsne4r5o03ulrohfspsqjy3w",
+    "title": "LinkedIn、Meta 与 YouTube 如何用语义检索对抗标题党",
+    "url": "https://blog.bytebytego.com/p/how-to-fight-clickbait-meta-linkedin",
+    "summary": "LinkedIn、Meta 和 YouTube 过去两年尝试从根源解决点击诱饵问题，将检索阶段从行为信号转向语义匹配。LinkedIn 将五个检索系统整合为单一语言模型检索器，Meta 保留大型专用模型漏斗，YouTube 则采用生成式方法直接产出下一项标识。三者均依赖嵌入向量实现用户与内容的语义匹配，以削弱互动农场策略。",
+    "source": "ByteByteGo（RSS）",
+    "date": "2026年8月10日23时30分"
+  },
+  {
+    "id": "cmsnewsbp04hmrohf62i8y8xx",
+    "title": "开源不等于开放权重：Gary Marcus 剖析两者本质差异",
+    "url": "https://garymarcus.substack.com/p/open-source-is-not-the-same-as-open",
+    "summary": "开放权重模型并非真正的开源，二者在透明度和可定制性上存在根本区别。开源软件公开完整源代码，允许任何人查看、修改和分支；而开放权重模型仅发布训练后的神经网络权重，用户无法访问原始训练数据、预处理方法或训练算法，也不能自由修改或深入调查。这导致开发者、监管者和科学家在使用开放权重模型时面临诸多限制，Meta 最新发布的开放权重模型即为例证。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月10日23时27分"
+  },
+  {
+    "id": "cmsnemk2q044trohfccxhuoah",
+    "title": "Replit 设计马拉松报名即将截止",
+    "url": "https://x.com/Replit/status/2086836650970095971",
+    "summary": "时间所剩无几。这是你参加 Replit 设计马拉松的最后机会。\n\n提交截止时间为太平洋时间 8 月 11 日（周二）上午 10 点。\n\n详情见下方帖子 🧵",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月10日23时26分"
+  },
+  {
+    "id": "cmsnfin8a0576rohf1prucb1y",
+    "title": "新调查：AI 时代下超八成家长和老师认为学生应具备更强数据素养",
+    "url": "https://www.ithome.com/0/988/056.htm",
+    "summary": "DS4E 和 Mathematica 调查 1333 名家长、教师和教育局官员发现，88% 受访者认为所有学生应在高中毕业前具备数据素养能力，84% 认为数据素养和数据科学应融入更多学科。76% 受访者认为 AI 发展让数据教育重要性达到前所未有的高度。多数受访者认为学生更应学习解决问题能力和批判性思维，而非编程和提示词（Prompt）编写。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日23时21分"
+  },
+  {
+    "id": "cmsnejtgj042mrohf7wj2fymg",
+    "title": "扎克伯格超6500字长文阐述超智能AI愿景",
+    "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+    "summary": "Meta CEO扎克伯格发布逾6500字长文《未来属于每个人》，阐述超智能AI发展、扩张与监管愿景。他承诺在数据中心所在地建设能源基础设施、2030年前实现运营流域水资源净正回报，并主张免费或低价提供个人超智能、加大开源模型发布，同时呼吁美国放宽知识蒸馏与数据使用限制。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月10日23时19分"
+  },
+  {
     "id": "cmsndk5xj039frohf4ff0zux6",
     "title": "Meta 发布 Muse Glimmer：可在单张消费级 GPU 上运行的 300 亿参数开源智能体模型",
     "url": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer",
     "summary": "Meta 发布 Muse Glimmer，一个从 Muse Spark 蒸馏而来的 300 亿参数多模态模型，采用 Apache 2.0 开源协议。通过约 4-bit 量化与 DFlash 块级投机解码，模型可在单张 24 GB 消费级 GPU 或 Mac 上本地运行；在 RTX 5090 上吞吐量从 74.9 提升至 233.4 tok/s，实现 3.1 倍加速。",
     "source": "MarkTechPost（RSS）",
     "date": "2026年8月10日23时11分"
+  },
+  {
+    "id": "cmsnfgivj056srohfhnbyyudo",
+    "title": "Meta 开源 30B 本地 Agent 模型 Muse Glimmer",
+    "url": "https://x.com/AYi_AInotes/status/2086832516984398140",
+    "summary": "Meta 开源 30B 参数的 Muse Glimmer，Apache 2.0 许可，专为本地常驻 Agent 工作流优化，支持工具调用、多步推理与失败恢复，量化后单张 24G/32G 消费级 GPU 即可运行。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月10日23时10分"
   },
   {
     "id": "cmsnddi060320rohf9s3bgu7r",
