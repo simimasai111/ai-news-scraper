@@ -13848,6 +13848,86 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsnhucx407h5rohftm0umka1",
+    "title": "OpenAI 为网络防御者推出限制更少的新模型",
+    "url": "https://x.com/kimmonismus/status/2086861696769917206",
+    "summary": "OpenAI 为网络防御者推出了一款限制更少的新模型。\n\n想必这也是在为发布能力更强、带来更多网络安全威胁的模型做准备，并据此进行准备和测试。\n\n狂野的时代即将到来。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日1时6分"
+  },
+  {
+    "id": "cmsnhuhlk07jurohf230g87bl",
+    "title": "NPO：过渡期优于CPO的共封装光学方案",
+    "url": "https://x.com/SemiAnalysis_/status/2086860579415761313",
+    "summary": "SemiAnalysis 分析称，NPO 是从可插拔光模块向真正 CPO 过渡的临时方案，兼具 CPO 大部分优势，同时规避其生产与可靠性难题。NPO 支持现场更换、故障影响范围限于单个模块，且光学引擎与交换 ASIC/XPU 分开封装，组装更简便。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月11日1时1分"
+  },
+  {
+    "id": "cmsnhucle07gurohf42lysz3a",
+    "title": "OpenAI战略未来主管Dean Ball遭白宫与业界群嘲",
+    "url": "https://x.com/natolambert/status/2086864083593437371",
+    "summary": "OpenAI战略未来主管Dean Ball自称特朗普AI行动计划架构师，遭白宫驳斥为\"最荒谬说法\"，称其仅为\"初级至中级政策分析师\"，观点\"常被忽视\"，且\"从未获得安全许可\"。五角大楼AI主管Emil Michael更称其为AI界\"最高级村愚\"，指其实际智商与自我认知差距约40点。白宫官员警告Sam Altman雇佣此人正危及OpenAI与政府的整体关系。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月11日1时15分"
+  },
+  {
+    "id": "cmsnhucx407h4rohfbphz680e",
+    "title": "Lindy Teammate 上线：Slack 里的 AI 员工",
+    "url": "https://x.com/kimmonismus/status/2086863764251365777",
+    "summary": "Lindy 推出 AI 员工 Lindy Teammate，可直接在 Slack 中协作，让团队效率提升 10 倍。它持续学习，成为企业自我更新的知识大脑。作者实测称其能读取通话与文档，在 Slack 中直接回答并附来源链接，解决搜索难题。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日1时14分"
+  },
+  {
+    "id": "cmsngf5c9067grohfbyxu9zyv",
+    "title": "OpenAI CFO Sarah Friar 谈构建 AI 原生财务部门的五点经验",
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "summary": "OpenAI CFO Sarah Friar 分享了构建 AI 原生财务部门的五点经验，涵盖自动化预测、强化管控与 AI 投资回报率。她强调财务团队应主动拥抱 AI 以提升效率与决策质量，而非被动等待技术渗透。这些经验为财务职能的 AI 转型提供了从工具落地到组织文化的实操路径。",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "date": "2026年8月11日1时0分"
+  },
+  {
+    "id": "cmsnhrnf007flrohfbymmswct",
+    "title": "\"变态眼镜\"：针对Meta智能眼镜的批评声浪日益高涨",
+    "url": "https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows",
+    "summary": "Meta智能眼镜因隐私担忧正遭遇日益强烈的舆论反弹，被部分用户冠以\"变态眼镜\"的蔑称。批评者主要担忧其隐蔽拍摄功能可能被用于偷拍等侵犯他人隐私的行为，相关争议在社交平台持续发酵。目前Meta尚未就这一负面标签及隐私质疑作出公开回应。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日0时58分"
+  },
+  {
+    "id": "cmsnhun0c07m8rohfca9ei1i6",
+    "title": "Gemini 3.7 Flash现身谷歌Python SDK",
+    "url": "https://x.com/testingcatalog/status/2086859500812714288",
+    "summary": "GOOGLE 🔥： Gemini 3.7 Flash 已在谷歌 Python GenAI SDK GitHub 上被发现。\n\n正如预言的那样 👀\n\n鉴于 OpenAI 和其他实验室近期的密集发布，Gemini Flash 要想成功，必须大幅提高标准。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月11日0时57分"
+  },
+  {
+    "id": "cmsngrumh06gerohf8bq424ru",
+    "title": "OpenAI Codex 助力全球开发者实现创意",
+    "url": "https://x.com/OpenAIDevs/status/2086856098091528301",
+    "summary": "来自世界各地的 Build Week 参与者借助 Codex 将他们的想法变成了真实项目。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月11日0时44分"
+  },
+  {
+    "id": "cmsngonjk06ajrohfoox2crt4",
+    "title": "I Vibe Coded a Security Risk",
+    "url": "https://every.to/working-overtime/i-vibe-coded-a-security-risk",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月11日0时43分"
+  },
+  {
+    "id": "cmsnhlo7b07earohfmamzis7y",
+    "title": "OpenAI 高管晒机票，Codex 重置悬念再起",
+    "url": "https://x.com/AYi_AInotes/status/2086855651985134004",
+    "summary": "OpenAI 的 Jason 晒出商务舱机票，暗示即将出差。博主认为竞争不算激烈，明天的 Codex 重置可能蹲不到了。此前 OpenAI 与 Anthropic 双方人员刚在 X 上对线，引发对 Codex 重置的期待。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月11日0时42分"
+  },
+  {
     "id": "cmsnfp8va05cirohfjwtffznu",
     "title": "宇树G1机器人传统服饰编舞表演",
     "url": "https://x.com/rohanpaul_ai/status/2086845797006823785",
@@ -13864,11 +13944,83 @@
     "date": "2026年8月11日0时3分"
   },
   {
+    "id": "cmsnh48t906vnrohff6zmo6yz",
+    "title": "OpenRouter 自动路由升级：按市场实际用量调度",
+    "url": "https://x.com/OpenRouter/status/2086854699576180940",
+    "summary": "我们为 Auto Router 发布了一次重大升级：https://openrouter.ai/openrouter/auto\n\n现在，它会根据市场在各类任务中实际使用的模型进行路由。当市场将某项工作负载迁移到新模型时，路由会在数天内跟进。\n\n基准测试与更多内容 👇",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月11日0时38分"
+  },
+  {
+    "id": "cmsngrsb706eurohf04lr1ctk",
+    "title": "蚂蚁百灵Ling-3.0-tiny开源多精度模型发布",
+    "url": "https://x.com/AntLingAGI/status/2086854604621554039",
+    "summary": "Ling-3.0-tiny 现以开放权重模型形式提供，支持 BF16、FP8 和 INT4 精度。在 Artificial Analysis 上，其智能指数得分 25，智能体指数得分 16，GDPval-AA v2 上 Elo 评分 772，τ3-Banking 上得分 20.80--专为真实任务执行而构建。🧵",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月11日0时38分"
+  },
+  {
+    "id": "cmsngrwn106hirohfq8sdzt72",
+    "title": "PixVerse 用 Seedance 2.5 制作拔都汗短片",
+    "url": "https://x.com/PixVerse_/status/2086854302866514352",
+    "summary": "拔都汗是用 PixVerse 上的 Seedance 2.5 制作的\n\n30 秒冬日对峙：拔都的骑兵。罗斯盾墙。雪。呼吸。\n\n转发 + 回复\"BATU\"→ 完整工作流私信发送",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月11日0时36分"
+  },
+  {
+    "id": "cmsngp2sy06brrohfggnrdlpz",
+    "title": "Meta 发布开源权重模型 Muse Glimmer，一窥扎克伯格\"个人超级智能\"愿景",
+    "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
+    "summary": "Meta 发布开源权重模型 Muse Glimmer，旨在本地消费级硬件上驱动 AI 智能体。该 30B 参数模型采用 Apache 2.0 许可，支持文本与图像，训练覆盖超 100 种语言，可在单张消费级 GPU 的 Mac 或 PC 上本地运行多步任务。此举呼应扎克伯格\"个人超级智能\"愿景，但更强大的 Muse Spark 仍保持闭源。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月11日0时20分"
+  },
+  {
+    "id": "cmsnh1s4b06mkrohfszypmzqc",
+    "title": "Meta 开源 Muse Glimmer 权重，Andrew Ng 致谢",
+    "url": "https://x.com/AndrewYNg/status/2086845515665166398",
+    "summary": "感谢 Mark、Alex 以及整个 Meta 团队对开放权重 AI 的贡献。",
+    "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+    "date": "2026年8月11日0时1分"
+  },
+  {
+    "id": "cmsngruln06garohf6tlygspa",
+    "title": "Human Behavior：AI 原生产品分析新方向",
+    "url": "https://x.com/rohanpaul_ai/status/2086849753212682598",
+    "summary": "Human Behavior 推出 v2，获 Paul Graham、Y Combinator、General Catalyst、Vercel 等 500 万美元融资。其 SDK 持续捕获会话、点击、网络调用与错误，AI 智能体可自动分析变化原因并执行操作，如开 PR、提交工单、发 Slack 消息。用户可直接提问\"注册量为何下降\"，智能体基于完整产品上下文作答并流转至后续任务。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日0时18分"
+  },
+  {
+    "id": "cmsng1n8405lprohfz8zceyoj",
+    "title": "Meta 开源 Muse Glimmer 与 Spark 1.2 权重",
+    "url": "https://x.com/Yuchenj_UW/status/2086849057306325243",
+    "summary": "Meta 宣布开源 Muse Glimmer，一个 30B 参数的稠密模型，可本地运行；并即将发布最新基础模型 Muse Spark 1.2 的权重。扎克伯格称开源是赋能用户、防止权力集中的积极力量。作者对此表示欢迎，并希望 Anthropic、OpenAI 等前沿实验室也能拥抱开源。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月11日0时16分"
+  },
+  {
     "id": "cmsnfp6zq05bgrohf6rxt0xqh",
     "title": "Artificial Analysis 招募新基准测试内测用户",
     "url": "https://x.com/ArtificialAnlys/status/2086847887322096106",
     "summary": "我们正在 Artificial Analysis 打造一系列全新 AI 基准测试产品，帮助开发者评估 AI 模型。我们正在寻找一小批用户在发布前进行测试并分享反馈。如果您想获得抢先体验，请告诉我们！\n\n在此申请抢先体验：https://forms.gle/hpK1xPdevVuyg65a6",
     "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月11日0时11分"
+  },
+  {
+    "id": "cmsngp26i06bjrohfucchbhhw",
+    "title": "Mistral 获\"基于代码实现的工具调用\"专利，涵盖沙箱执行与暂停恢复机制",
+    "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+    "summary": "Mistral AI 获得美国专利 US 12，670，045 B1，涵盖一种基于代码实现的工具调用方法。该方法由大语言模型（LLM）生成封装工具调用的代码块，在服务器沙箱中执行，遇待处理调用时暂停并将请求发送至客户端执行，随后恢复代码块运行并替换结果。专利共 20 项权利要求，发明人为 Gabriel Vergnaud。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日0时11分"
+  },
+  {
+    "id": "cmsngp26j06blrohfujaksjbt",
+    "title": "ChatGPT 开始屏蔽直接要求复制作者写作风格的请求",
+    "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
+    "summary": "ChatGPT 开始屏蔽用户直接要求其复制特定作者写作风格的请求。该调整针对的是此前用户可通过提示词让模型模仿某位作者文风的现象，OpenAI 正通过更新模型行为来限制此类直接指令。目前尚不清楚该限制的具体适用范围及执行标准。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月11日0时11分"
   },
   {
