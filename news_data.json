@@ -13848,6 +13848,94 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsnrwnsb0i1erohfuhfjc4q6",
+    "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
+    "url": "https://x.com/JensenHuang/status/2086934705207959965",
+    "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
+    "source": "X：Jensen Huang (@JensenHuang)",
+    "date": "2026年8月11日5时56分"
+  },
+  {
+    "id": "cmsnrnxfm0hl6rohfifnv9qdj",
+    "title": "Forking-Sequences：一种统计与计算上更高效的多步预测训练范式",
+    "url": "https://blog.ml.cmu.edu/2026/08/10/forking-sequences-part-i-statistically-and-computationally-efficient-multi-horizon-forecasting",
+    "summary": "CMU 研究团队正式定义并系统评测了 forking-sequences 训练范式：它无需新增参数，在一次前向传播中跨所有预测创建日期编码解码整条序列。",
+    "source": "CMU：Machine Learning Blog",
+    "date": "2026年8月11日5时51分"
+  },
+  {
+    "id": "cmsnqfbcm0goxrohfr4evjlqy",
+    "title": "Runway 上线 P-Image-Ideogram，0.6 秒出图",
+    "url": "https://x.com/runwayml/status/2086921725044817922",
+    "summary": "P-Image-Ideogram 现已登陆 Runway。\n\n从提示词到图像最快仅需 0.6 秒，并提供四种质量模式，可按需平衡速度与细节。\n\n立即通过下方链接开始使用。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月11日5时4分"
+  },
+  {
+    "id": "cmsnrf1po0hbvrohftarnddwy",
+    "title": "AI 时代的两项关键技能：算力分配与思维协作",
+    "url": "https://x.com/trq212/status/2086931647468097932",
+    "summary": "我认为这体现了使用 AI 的两项关键技能：\n\n1） 算力分配--大多数工作并没有一份\"最重要的 X 个问题\"清单，你必须自己判断哪些问题值得投入\n\n2） 思维协作--@__alpoge__ 必须真正深入挖掘并理解证明过程，才能确认它是真的",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月11日5时44分"
+  },
+  {
+    "id": "cmsnrf1f40hbrrohfkxvngf24",
+    "title": "Nuphos AI 原生 DevOps 工作区获赞",
+    "url": "https://x.com/omarsar0/status/2086929829773873571",
+    "summary": "DAIR.AI 的 Elvis Saravia 称赞 NuphosAI 是干净的 AI 原生 DevOps 工作区，并指出行业缺乏对智能体质量、审查和可观测性的关注。NuphosAI 定位为人类与智能体协作调查事件、理解基础设施并共同构建知识的平台，而非仅让 Claude Code 或 Codex 接入 AWS CLI。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月11日5时36分"
+  },
+  {
+    "id": "cmsnqf1pq0gk1rohfe08ysuuk",
+    "title": "AI 行业一日三变：Meta 开源、Claude 突破、Gemini 提速",
+    "url": "https://x.com/kimmonismus/status/2086921219601768909",
+    "summary": "Meta 重回开源，发布智能体模型 Glimmer，并将开源 Spark 1.2。Anthropic 用未发布 Claude 模型尝试证明黎曼猜想未果，但意外将黎曼 zeta 函数零点满足猜想的比例下界从 41.6% 提升至 67.2%。同时 Sonnet 长期降价，Gemini 3.5 Pro 消息暗示 Google 或直接推进至 Gemini 4。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日5时2分"
+  },
+  {
+    "id": "cmsnrf1f40hbsrohfmpuzjf1q",
+    "title": "LLM评审怪象：文件名影响评分",
+    "url": "https://x.com/omarsar0/status/2086927060375642487",
+    "summary": "LLM 评审确实存在怪象。\n\n避免使用 LLM 评审打分，若必须使用则需格外谨慎。尽可能使用二元标签。\n\n将上传的 PDF 从\"paper.pdf\"重命名为\"paper_final_draft_pdf_ready_for_review.pdf\"，平均评分就会提升。\n\n（gpt-5.6-terra）",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月11日5时25分"
+  },
+  {
+    "id": "cmsnqfoti0gpbrohf8wnvkd3z",
+    "title": "An update to our downloads policy and Terms of Service By Team Suno·Aug 10， 2026 Explaining upcoming changes that will take effect on September 3， 2026 Announcements",
+    "url": "https://suno.com/blog/suno-updates-tos",
+    "summary": null,
+    "source": "Suno：Blog（网页）",
+    "date": "2026年8月11日5时17分"
+  },
+  {
+    "id": "cmsnqll0b0gs6rohf100sg9mg",
+    "title": "Google AI 专家打造离线赛车教练应用",
+    "url": "https://x.com/googleaidevs/status/2086923273707950576",
+    "summary": "时速 100 英里的实时 AI 意味着将整个技术栈迁移到边缘端。\n\n我们的 @GoogleDevExpert 社区成员走上赛道，构建了一款离线 AI 赛车教练应用，无需依赖云端即可即时处理实时车辆遥测数据。以下是背后的技术原理 🏎️ ↓",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "date": "2026年8月11日5时10分"
+  },
+  {
+    "id": "cmsnqf5zr0gmjrohf842ua496",
+    "title": "操作系统与微架构如何影响智能体AI体验",
+    "url": "https://x.com/SemiAnalysis_/status/2086920743615397926",
+    "summary": "不同的操作系统和微架构如何影响终端用户使用智能体AI的体验？\n\n我们分析了291万条真实的Claude工具使用响应来寻找答案。\n\n根据我们的数据，Linux在执行shell命令时通常比Windows快约3倍。（1/2）🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月11日5时0分"
+  },
+  {
+    "id": "cmsnqcff80gifrohfp4y3xi0u",
+    "title": "马克·扎克伯格的AI宣言恰恰解释了人们为何反感AI",
+    "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai",
+    "summary": "马克·扎克伯格发布6500字宣言，描绘Meta AI\"个人超级智能\"系统的美好前景，但文中充满模糊的智能泛论，且教育、法律等示例与现实脱节。近期调查显示64%美国人认为社交媒体危害民主，法院刚判Meta赔偿5.67亿美元，公众对科技高管缺乏信任，此类宣言反而加剧对AI的焦虑。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月11日4时53分"
+  },
+  {
     "id": "cmsno77s80eu1rohf4xhlvlci",
     "title": "澳大利亚用户用 Claude Opus 4.6 驱动的 OpenClaw 智能体黑进健身房预订系统，引发热议",
     "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym",
@@ -13861,6 +13949,14 @@
     "url": "https://x.com/dongxi_nlp/status/2086916939486744671",
     "summary": "小红书的研究\n\n理解视频意味着在时间中保持在场。\n\nStreamArena 在单一实时流中测试记忆、主动性和工具使用。StreamMind 让快速行动与深层记忆共同成长。\n\n论文：\n\nStreamArena：迈向连续、交互、长时程的智能体流式视频理解",
     "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月11日4时45分"
+  },
+  {
+    "id": "cmsnqf8q70gnvrohf5ownnpx9",
+    "title": "亚马逊投资得州天然气电厂，或成美国最大气候污染源",
+    "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge",
+    "summary": "亚马逊的人工智能扩张将部分依赖得克萨斯州一座天然气发电厂，据《纽约时报》报道，该电厂可能成为美国最大的单一气候污染源。此类燃气电厂正越来越多地与数据中心项目捆绑，其排放的有害污染物会加速气候变化并损害公众健康。自xAI去年春天开始用燃气轮机为其Colossus数据中心供电以来，公众对亚马逊这类离网数据中心的反对声不断。",
+    "source": "Ars Technica：AI（RSS）",
     "date": "2026年8月11日4时45分"
   },
   {
