@@ -13848,6 +13848,174 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsnm21kj0d5grohfj0wsjcpq",
+    "title": "马克·扎克伯格抨击\"封闭式\"AI竞争对手，Meta重返开放式模型",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "summary": "Meta CEO马克·扎克伯格公开批评\"封闭式\"AI竞争对手，重申Meta将回归开放式模型路线。他强调开源AI对行业创新和透明度的价值，并以此作为Meta与OpenAI、Google等闭源对手差异化竞争的核心策略。此举标志着Meta在AI模型策略上明确转向开放生态。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日3时6分"
+  },
+  {
+    "id": "cmsnm4rva0d8frohfjfn4gklw",
+    "title": "Claude Sonnet 5 入门定价永久化",
+    "url": "https://x.com/claudeai/status/2086891169217122586",
+    "summary": "我们正在将 Claude Sonnet 5 的入门定价设为永久方案。\n\n我们于 6 月推出 Sonnet 5，定价为每百万输入 token 2 美元、每百万输出 token 10 美元，有效期至 8 月 31 日，该价格将保持不变。\n\n它能制定计划、使用浏览器和终端等工具，并以几个月前还需要更大更贵模型才能达到的水平自主运行。",
+    "source": "X：Claude (@claudeai)",
+    "date": "2026年8月11日3时3分"
+  },
+  {
+    "id": "cmsnm4udu0da3rohf42cjxwtt",
+    "title": "MiniMax H3 时尚MV全唇形同步演示",
+    "url": "https://x.com/PixVerse_/status/2086890429979795705",
+    "summary": "MiniMax H3 可以拍摄时尚MV。@MiniMax_AI 这支男团新作展示了每个镜头上的完整唇形同步。\n\n《NO LIMIT》- 15秒暗黑流行风。巨型字体保持锐利。英文说唱+副歌锁定。\n\n完整工作流 ↓",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月11日3时0分"
+  },
+  {
+    "id": "cmsnm4p6u0d71rohf2os5zsmy",
+    "title": "Replit CEO谈自驱公司未来",
+    "url": "https://x.com/Replit/status/2086890325608419625",
+    "summary": "一家自我运转的公司到底是什么样？\n\n我们的CEO @amasad 做客 @platformer，解释了\"自驱公司\"的概念：一个充当企业大脑的内部机器人、借助智能体大幅提升代码交付效率的工程师团队，以及一个我们使用更少应用、而智能体代我们使用应用的未来。\n\n更多内容请阅读：https://www.platformer.news/replit-amjad-massad-interview-coding-design-jobs/?ref=platformer-newsletter",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月11日3时0分"
+  },
+  {
+    "id": "cmsnjzne60bg6rohfw0nittqg",
+    "title": "Claude 推动黎曼猜想证明率跃升25.6个百分点",
+    "url": "https://x.com/deedydas/status/2086877686996386092",
+    "summary": "Claude 的这一惊人成果，是自 2013 年有界素数间隔以来解析数论领域最重大的突破。\n\n它将黎曼 zeta 函数临界线上已被证明的零点比例提升了 25.6 个百分点。而在此前 37 年间，数学家们仅将其推进了 0.8 个百分点。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月11日2时9分"
+  },
+  {
+    "id": "cmsnm4s0f0d8prohfn6ktctjk",
+    "title": "webAI 开源 1.7B 逻辑模型 TwiL-LM3，击败 GPT-OSS-120B",
+    "url": "https://x.com/rohanpaul_ai/status/2086890254011924778",
+    "summary": "webAI 开源 TwiL-LM3，一款 1.7B 参数的正式逻辑推理模型，在 5 项形式推理基准中 4 项超越 OpenAI 的 GPT-OSS-120B，参数量少 40 倍，推理速度快 2.6 倍，可在手机和树莓派等消费级硬件上运行。该模型通过 289MB LoRA 适配器微调基础模型而来，基于专有数据引擎训练，专注于将自然语言转化为形式逻辑并验证结论。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日2时59分"
+  },
+  {
+    "id": "cmsnm4p6q0d70rohfcsvww6az",
+    "title": "鼓励性话语也能提升大语言模型表现，Claude 意外改进黎曼猜想零点下界",
+    "url": "https://x.com/kimmonismus/status/2086889910930215413",
+    "summary": "研究发现，\"相信自己！\"这类鼓励性话语不仅能激励人，也能帮助大语言模型提升表现。Anthropic 让未发布版 Claude 尝试攻克黎曼猜想，虽未证明，却意外将满足假设的 zeta 函数零点比例下界从 41.6% 提升至 67.2%，期间协调了 60 个子智能体并形式化验证了结果。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日2时58分"
+  },
+  {
+    "id": "cmsnm21kj0d5hrohfp5uqysve",
+    "title": "金尼药房因数百起客户投诉下架AI手机助手Burt",
+    "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints",
+    "summary": "金尼药房（Kinney Drugs）在收到数百起客户投诉后，缩减其AI手机助手Burt的使用范围。客户反映该助手通话内容混乱、提供错误剂量并漏发处方通知。药房将恢复传统的按键式电话系统处理来电，但Burt仍将用于处方续药短信等外发通信，患者需主动选择接收。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日2时50分"
+  },
+  {
+    "id": "cmsnjwvfn0bcbrohft0omk645",
+    "title": "Claude 研究版提升黎曼猜想零点下界",
+    "url": "https://x.com/trq212/status/2086876017319457181",
+    "summary": "有时候你只需要告诉 Claude 继续下去\n\n@jarredsumner\n\n【引用 @AnthropicAI】：我们让一个未发布的研究版 Claude 尝试攻克黎曼猜想。\n\n它没有解决该猜想，但在一个相关问题上取得了进展：它将满足猜想的黎曼 zeta 函数零点比例的下界从 41.6% 提升到了 67.2%。\n\nhttps://www.anthropic.com/research/riemann-zeta",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月11日2时3分"
+  },
+  {
+    "id": "cmsnl2aou0cd9rohfgkcji79b",
+    "title": "建立循环的循环：后台智能体新思路",
+    "url": "https://x.com/swyx/status/2086884225643647400",
+    "summary": "建立循环的循环\n\n【引用 @threepointone】：新文章：每家公司都需要一个卡珊德拉。\n\nhttps://sunilpai.dev/posts/every-company-needs-a-cassandra/\n\n文中我提议打造一个人们本不愿与之共事的后台智能体/工作进程。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月11日2时35分"
+  },
+  {
+    "id": "cmsnkzg8s0c77rohfr45fj0ry",
+    "title": "SAP 因 AI 成本飙升暂停大部分差旅和招聘",
+    "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
+    "summary": "SAP 上月因 AI 成本飙升暂停了大部分差旅和招聘活动，仅对 AI 相关的差旅或招聘例外放行。内部邮件显示该禁令目前仍有效，一名员工称公司正将新 AI 工具推广至全公司，预计将大幅推高成本。此举反映出企业正面临 AI 开支失控的现实，部分公司已开始限制员工 AI 使用以控制成本。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日2时34分"
+  },
+  {
+    "id": "cmsnkk68z0byorohfynveywic",
+    "title": "Omnigent 上下文策略如何阻断\"致命三重奏\"组合攻击",
+    "url": "https://www.databricks.com/blog/innocent-until-combined-blocking-lethal-trifecta-omnigent-contextual-policies",
+    "summary": "Omnigent 的上下文策略（Contextual Policies）可阻断\"致命三重奏\"组合攻击--即多个看似无害的请求叠加后形成的恶意行为。该机制在单个请求层面不设防，而是在组合上下文中识别并拦截风险，从而在不牺牲正常功能的前提下提升安全性。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月11日2时30分"
+  },
+  {
+    "id": "cmsnjzj8g0bdirohfnmmlfz2s",
+    "title": "Ethan Mollick 质疑 Claude 黎曼猜想提示词技巧",
+    "url": "https://x.com/emollick/status/2086875820279128574",
+    "summary": "Ethan Mollick 对 Anthropic 用提示词引导 Claude 攻克黎曼猜想相关问题的做法表示质疑，称其早期实验（用稍旧模型）未发现该提示词方法能稳健奏效。Anthropic 称未发布的研究版 Claude 将满足黎曼猜想的零点占比下界从 41.6% 提升至 67.2%。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月11日2时2分"
+  },
+  {
+    "id": "cmsnkzgfj0c7brohfevw1bw1a",
+    "title": "Dyna-2 世界动作模型发现新缩放定律",
+    "url": "https://x.com/omarsar0/status/2086881901000720618",
+    "summary": "DynaRobotics 推出 Dyna-2，一个基于 100 万小时人类视频预训练的世界动作模型，可同时预测未来视频与动作。首次发现人类数据在 1000 至 100 万小时四个数量级上的缩放定律，并外推至未见过的机器人数据，表明世界建模与视频数据缩放对跨本体迁移至关重要。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月11日2时26分"
+  },
+  {
+    "id": "cmsnlheoe0cyvrohfpslr4ood",
+    "title": "Claude研究版提升黎曼零点下界",
+    "url": "https://x.com/dongxi_nlp/status/2086881714710679851",
+    "summary": "一个未发布的研究版本 = 没什么大不了\n\n【引用 @AnthropicAI】：我们让一个未发布的研究版 Claude 尝试攻克黎曼猜想。\n\n它没有解决该猜想，但在一个相关问题上取得了进展：它将满足猜想的黎曼ζ函数零点比例的下界从 41.6% 提高到了 67.2%。\n\nhttps://www.anthropic.com/research/riemann-zeta",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月11日2时25分"
+  },
+  {
+    "id": "cmsnl26yb0cbgrohf5u81qri4",
+    "title": "Lindy 用共享记忆解决 AI 工作上下文瓶颈",
+    "url": "https://x.com/rohanpaul_ai/status/2086881602349789505",
+    "summary": "Lindy 推出 Teammate，定位从 AI 智能体升级为\"AI 员工\"，团队成员可在 Slack 中直接使用。其核心是解决 AI 工作上下文割裂问题：通过跨会议、Slack、文档及 Gmail、Linear、Salesforce、Stripe 等系统的共享状态，让记忆以团队可检查、编辑或删除的文件形式存在，避免上下文随聊天窗口消失。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日2时25分"
+  },
+  {
+    "id": "cmsnl23uw0c96rohfknbvvmc6",
+    "title": "OpenAI 发布 GPT-5.6-Cyber 强化防御",
+    "url": "https://x.com/sama/status/2086881528282587524",
+    "summary": "OpenAI 发布 GPT-5.6-Cyber，这是其首个大规模直接提升高级网络安全任务（如漏洞利用开发）能力的模型。该模型在加速防御性工作方面表现强劲，已用于内部红队测试，并帮助安全研究人员发现和修复大量开源软件中的 0-day 漏洞。Sam Altman 呼吁业界考虑使用该模型来防御自身系统。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年8月11日2时25分"
+  },
+  {
+    "id": "cmsnl245p0c9mrohf3n3jkc3v",
+    "title": "Claude 未解黎曼猜想却改进关键下界",
+    "url": "https://x.com/kimmonismus/status/2086881395465466004",
+    "summary": "Anthropic 让未发布版 Claude 尝试黎曼猜想，虽未解决，却将满足猜想的黎曼 zeta 函数零点比例下界从 41.6% 提升至 67.2%。Claude 协调 60 个子智能体、测试数百个想法并检索文献，还用 Lean 形式化验证了结果。这被视为自主 AI 驱动科学发现的早期范例。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日2时24分"
+  },
+  {
+    "id": "cmsnl299h0ccjrohfgf2uou35",
+    "title": "FineBooks 项目评测 14 款开源 OCR 模型：小模型胜出，历史书籍文本可作 AI 训练数据",
+    "url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale",
+    "summary": "Hugging Face 与 EleutherAI 的 FineBooks 项目在 2，165 页历史书籍上评测了 14 款开源 OCR 模型。最佳模型 dots.mocr（3B 参数）字符准确率超 97%，每千页成本低于 2 美元，且小模型普遍优于大模型。研究认为输出质量足以用于 AI 训练，但尚不适合学术用途。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月11日2时20分"
+  },
+  {
+    "id": "cmsnjzngu0bgcrohfvunwl6q2",
+    "title": "OpenAI 推出 GPT-5.6-Cyber，帮助防御者在攻击者之前发现漏洞",
+    "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do",
+    "summary": "OpenAI 扩展 Daybreak 网络安全计划，新增 Blue 与 Red 两个访问层级，并推出专为进攻性安全研究训练的 GPT-5.6-Cyber 模型。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月11日2时1分"
+  },
+  {
+    "id": "cmsnjzksl0besrohf1huqjpsn",
+    "title": "MiniMax 将携 H3 模型亮相 AiOS 旧金山活动",
+    "url": "https://x.com/MiniMax_AI/status/2086879111574917290",
+    "summary": "MiniMax 宣布参加 AiOS San Francisco 活动，届时将现场演示其视频生成模型 MiniMax H3 在 Mac 上的本地运行。活动还包含 Wendy Labs 展示 Swift 驱动的 AI 应用部署至机器人与嵌入式设备，以及由前 Apple 员工主持的开幕座谈，时间为明日旧金山当地下午 6 点。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月11日2时15分"
+  },
+  {
     "id": "cmsnhucx407h5rohftm0umka1",
     "title": "OpenAI 为网络防御者推出限制更少的新模型",
     "url": "https://x.com/kimmonismus/status/2086861696769917206",
@@ -13864,12 +14032,52 @@
     "date": "2026年8月11日1时58分"
   },
   {
+    "id": "cmsnjzj8g0bdjrohfsu5hibjo",
+    "title": "数据中心与历次工业革命轻工业的就业差异",
+    "url": "https://x.com/emollick/status/2086874631437230225",
+    "summary": "数据中心与以往工业革命中的轻工业相比，一个真正的问题在于它们不需要很多人来运营（尽管建设它们需要更多人）。这打破了产业在明显的本地负面外部性与明显的本地收益之间的权衡。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月11日1时57分"
+  },
+  {
+    "id": "cmsnkc0pm0blbrohfz8a528ox",
+    "title": "OpenAI 推出 GPT-5.6-Cyber 与 Daybreak 新层级",
+    "url": "https://x.com/thsottiaux/status/2086874565909815403",
+    "summary": "OpenAI 扩大网络安全计划 Daybreak，推出新模型 GPT-5.6-Cyber，用于高级、经授权的网络安全工作。同时新增 Daybreak Blue 与 Red 访问层级，以加速防御能力。OpenAI 表示，此举旨在让可信防御者在攻击者大规模部署进攻性 AI 之前掌握前沿智能。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月11日1时57分"
+  },
+  {
     "id": "cmsnj9g7808owrohfie9rzjao",
     "title": "OpenAI 推出 GPT-5.6-Cyber 与 Daybreak 新层级",
     "url": "https://x.com/thsottiaux/status/2086873743138427262",
     "summary": "OpenAI 扩大网络安全计划 Daybreak，推出专用于高级授权安全工作的新模型 GPT-5.6-Cyber，并新增 Daybreak Blue 与 Red 访问层级，以加速防御能力。该举措旨在让可信防御者在攻击者大规模部署进攻性 AI 之前，率先获得前沿智能。",
     "source": "X：Tibo (@thsottiaux)",
     "date": "2026年8月11日1时54分"
+  },
+  {
+    "id": "cmsnjzokm0bgurohfd9262st7",
+    "title": "Odyssey 发布慢呼吸表面动画",
+    "url": "https://x.com/odysseyml/status/2086873666105602433",
+    "summary": "一次缓慢的呼吸掠过表面。",
+    "source": "X：Odyssey (@odysseyml)",
+    "date": "2026年8月11日1时53分"
+  },
+  {
+    "id": "cmsnjzjy80be6rohfscjqac9c",
+    "title": "蚂蚁百灵Ling模型获vLLM首日支持",
+    "url": "https://x.com/AntLingAGI/status/2086872794168770804",
+    "summary": "Ling 模型通过我们的 day0 合作伙伴将包容性带到各类设备。感谢 @vllm_project 的持续支持！",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月11日1时50分"
+  },
+  {
+    "id": "cmsnjzj8g0bdkrohf8qhcerzw",
+    "title": "专家询问高级AI网络攻击对策研究数据",
+    "url": "https://x.com/emollick/status/2086871954762469691",
+    "summary": "是否有已发表的数据或研究，能够支持以下两种观点中的任何一种：\"阻止高级AI网络攻击的方法是让所有人同时获得高级AI\"与\"阻止高级AI网络攻击的方法是在很长一段时间内仅限关键企业使用\"？",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月11日1时47分"
   },
   {
     "id": "cmsnix1by08d3rohfftiex1xp",
