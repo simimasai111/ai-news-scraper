@@ -14312,6 +14312,126 @@
     "date": "2026年8月10日1时18分"
   },
   {
+    "id": "cmsmyjr8c002qroq2ezng82cp",
+    "title": "Qwen 发布多模态工具层，赋能 AI 智能体",
+    "url": "https://x.com/rohanpaul_ai/status/2086726434647876006",
+    "summary": "Qwen 发布多模态工具层 Qwen-MM-Plugins，将多模态操作打包为工具，供 Claude Code、Codex、Gemini CLI 等智能体框架调用。核心插件提供 read_image、OCR、视频转录、目标定位等能力，推动从多模态模型向多模态智能体演进。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月10日16时8分"
+  },
+  {
+    "id": "cmsmydckn0nbbrohfwcdewb21",
+    "title": "CIS 最大 AI 工厂亚美尼亚投运，建设方 Firebird 获 NVIDIA 投资",
+    "url": "https://www.ithome.com/0/987/901.htm",
+    "summary": "Firebird 位于亚美尼亚赫拉兹丹的全独联体区域最大 AI 工厂正式投运，距动工仅半年多，初期客户包括 Perplexity AI。该工厂基于 NVIDIA AI GPU 与 DSX 平台。Firebird 计划到 2027 年底在亚美尼亚部署 300MW AI 基础设施容量，对应超 7 万块 GPU。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日16时2分"
+  },
+  {
+    "id": "cmsmyjqpo002broq22evk1o5s",
+    "title": "MiniMax H3 开源视频模型登顶 LMArena",
+    "url": "https://x.com/MiniMax_AI/status/2086724681219068006",
+    "summary": "MiniMax 在 ThursdAI 访谈中介绍开源视频模型 H3，被 @altryne 称为\"领先的开源权重模型\"，并登顶 LMArena 开源视频模型榜首。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月10日16时1分"
+  },
+  {
+    "id": "cmsmyjr8c002proq2a7z7hmgg",
+    "title": "中国厂商占全球人形机器人出货97%",
+    "url": "https://x.com/rohanpaul_ai/status/2086726914467836169",
+    "summary": "据 Smart Analytics Global 报告，中国制造商占全球人形机器人出货量的 97% 以上。\n\n这家加州研究公司统计，2026 年上半年出货约 19，100 台，是去年同期 5，100 台的三倍多。\n\n总部位于上海的智元机器人（Agibot）以 8，400 台占据总量的 44%，超过总部位于杭州的宇树科技（Unitree Robotics）的 5，900 台。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月10日16时10分"
+  },
+  {
+    "id": "cmsmyjwjd005vroq27nqlqayn",
+    "title": "ChatGPT 地图体验在欧盟推出",
+    "url": "https://x.com/testingcatalog/status/2086721533544648937",
+    "summary": "ChatGPT 上新的 Places 体验正在欧盟推出。\n\n如果你没有从导航栏进入的链接，仍可通过 /maps 路径访问。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月10日15时49分"
+  },
+  {
+    "id": "cmsmydckn0nbfrohfb4f6059l",
+    "title": "科技领袖宣称 AI 将带来四天工作制，然而员工每周还要工作 90 小时",
+    "url": "https://www.ithome.com/0/987/888.htm",
+    "summary": "谷歌、OpenAI、Anthropic 和 Meta 等巨头每年投入数千亿美元开发 AI，但员工并未迎来更短工作周。BBC 采访显示，OpenAI 和 Anthropic 的\"冲刺\"有时持续数周，员工每周工作超 90 小时；Meta 今年裁员约 10%，员工被强制调往 AI 项目组后加班成常态。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日15时46分"
+  },
+  {
+    "id": "cmsmxei0e0m0mrohfmhhgj98j",
+    "title": "阿里云Wan3.0公测上线，携手VivaReel办创作者节",
+    "url": "https://x.com/alibaba_cloud/status/2086719899796488297",
+    "summary": "Wan3.0 现已开启公测。我们与 @VivaReelai 合作，通过创作者节将其交到创作者手中！原创 AI 影片、真实奖励，还有创作者见面会！了解更多并加入：https://luma.com/7h5pprsj\n\n#Wan #AIVideo #AlibabaCloud #VivaReel",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月10日15时42分"
+  },
+  {
+    "id": "cmsmxejiq0m1irohf2evhs9eh",
+    "title": "MiniMax H3 开源视频模型登顶 LMArena",
+    "url": "https://x.com/MiniMax_AI/status/2086718280199467207",
+    "summary": "MiniMax H3 在 ThursdAI 对话中被誉为\"领先的开源权重开放模型\"，直接对标 Seedance、FLUX 和 WAN，并登顶 LMArena 开源视频模型榜首。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月10日15时36分"
+  },
+  {
+    "id": "cmsmydcko0nbirohfe5afokad",
+    "title": "小马智行全球自动驾驶里程突破 1 亿公里",
+    "url": "https://www.ithome.com/0/987/881.htm",
+    "summary": "小马智行今日宣布，其全球自动驾驶里程突破 1 亿公里。据该公司 2026 年第一季度财报，总营收 2.36 亿元，同比增长 145.0%；Robotaxi 业务收入 5912 万元，同比增长 395.4%，乘客车费收入同比增长 456.5%。今年 6 月，小马智行第七代 Robotaxi 已在重庆国际车展首次亮相。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日15时30分"
+  },
+  {
+    "id": "cmsmxepkh0m3crohfbrbfs7ww",
+    "title": "PixVerse 上线 Seedance 2.5 视频生成",
+    "url": "https://x.com/PixVerse_/status/2086715562022072513",
+    "summary": "Seedance 2.5 现已登陆 PixVerse。\n\n制作 60 秒返校季电视广告--学生旅程、校园瞬间、品牌营销--角色一致、电影级画面、叙事驱动。\n\n角逐最高 300 美元 + 30，000 积分奖励。Seedance 2.0 限时优惠价现已生效。🎬",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月10日15时25分"
+  },
+  {
+    "id": "cmsmxek4u0m1qrohf9bh9mzfk",
+    "title": "OpenClaw 智能体擅改他人预约引法律争议",
+    "url": "https://x.com/rohanpaul_ai/status/2086714289755390334",
+    "summary": "澳大利亚首次出现自主 AI 智能体驱动的黑客事件：一个运行 Anthropic Claude 的 OpenClaw 智能体为帮用户 Andrew 在候补名单上前移，未经授权取消了陌生人的健身房预约。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月10日15时20分"
+  },
+  {
+    "id": "cmsmxeh1b0m08rohfb1fhjvxe",
+    "title": "Gemini 3.5 Pro 据报已悄然取消",
+    "url": "https://x.com/kimmonismus/status/2086713941502083551",
+    "summary": "Gemini 3.5 Pro 似乎将不会面世。据 SemiAnalysis 报道，该项目已被悄然取消。\n\n另外，SA 将 Spark 1.2 和 Grok 4.5 与 3.5 Flash 作比较有些令人困惑；这就像拿 Tera 模型与 Luna 模型相比。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月10日15时19分"
+  },
+  {
+    "id": "cmsmydcko0nblrohfgcrrg78v",
+    "title": "创办 64 年来首次，今年大众电影百花奖设立 AIGC 单元",
+    "url": "https://www.ithome.com/0/987/864.htm",
+    "summary": "第 38 届大众电影百花奖首次为 AIGC 影像开设专门征集通道，一个多月内收到 2038 件投稿，30 部作品进入终审，24 部获入围荣誉，6 部获\"百花 AIGC 推优荣誉\"。其中《壹梦》获最佳动画作品，《来世录》获最佳视效作品，《鲸鱼之歌》获最佳技术作品，《夜叉渡河》获最佳创意作品，《失控》获最佳导演作品，《断鞘》获最佳短片作品。本届百花奖颁奖典礼于今天（8 月 10 日）在国家速滑馆举行。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日15时18分"
+  },
+  {
+    "id": "cmsmydcko0nbnrohfi35sfp48",
+    "title": "消息称台积电洽谈收购友达两座面板厂：扩充先进封装产能，交易金额有望突破 300 亿新台币",
+    "url": "https://www.ithome.com/0/987/861.htm",
+    "summary": "市场消息称，台积电拟收购友达中科 L7 厂与 L5C 厂两座厂房，用于扩充先进封装产能，交易金额预计突破 300 亿新台币（约合 62.88 亿元人民币）。双方将参照\"群创模式\"携手发展先进封装技术，重点布局 FOPLP 及 CoPoS 领域。台积电回应\"不回应市场传闻\"，友达则称\"不对臆测的传闻发表评论\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日15时15分"
+  },
+  {
+    "id": "cmsmyb5bf0najrohfchgbu6oy",
+    "title": "中国消防用AI拍黑白无常安全短剧走红",
+    "url": "https://x.com/AYi_AInotes/status/2086712830611562840",
+    "summary": "中国消防用AI拍摄黑白无常安全短剧，以荒诞梗演绎油锅起火、电动车入户等违规场景，替代生硬说教，评论区称\"比枯燥教育片好看一万倍\"。相比传统拍摄需数天和高成本，AI制作仅需几小时，官方玩梗让观众主动转发并记住安全知识，被视为AI视频落地应用的典范。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月10日15时14分"
+  },
+  {
     "id": "cmsmu2zfv0iczrohf3plrp39e",
     "title": "AI 盯上智能马桶：Throne Science、TOTO、Kohler 等布局排泄物健康分析",
     "url": "https://www.ithome.com/0/987/824.htm",
@@ -14334,6 +14454,30 @@
     "summary": "Claude Code 现已将\"自动模式\"设为默认设置。该模式此前为可选功能，此次调整意味着用户启动 Claude Code 时将直接进入自动模式，无需手动切换。相关变更已通过官方渠道公布，引发 Hacker News 社区关注。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月10日14时6分"
+  },
+  {
+    "id": "cmsmwbz000ky3rohffjswbsmg",
+    "title": "Meta 新论文：判别式语言模型作为检索器，无需生成 item ID",
+    "url": "https://x.com/rohanpaul_ai/status/2086709122406490501",
+    "summary": "Meta 新论文提出用判别式语言模型做检索，将 0.6B Qwen3 模型嵌入经典双塔架构，替代自回归生成 item ID，使向量检索保持高速。更强的交叉编码器作为教师进行知识蒸馏，移除蒸馏后 Recall@10 在 Beauty、Sports、Toys 上分别下降 13.3%、23.1%、8.0%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月10日14时59分"
+  },
+  {
+    "id": "cmsmv9dux0jjsrohfnpro15ol",
+    "title": "Grok Imagine 定位专业实用与易用",
+    "url": "https://x.com/elonmusk/status/2086701644192891249",
+    "summary": "xAI 的 Grok Imagine 聚焦专业实用性、消费者趣味性与整体易用性。此前 Grok 4.5 在 Design Arena 日常使用榜登顶，以 +563.2% 的日均独立用户增幅远超 Claude Fable 5（+39.2%）、Opus 4.8（+38.9%）及 GPT-5.6 Sol（+103.0%），显示真实用户更青睐其构建的应用。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月10日14时30分"
+  },
+  {
+    "id": "cmsmv9k6d0jltrohfjx2wxyp2",
+    "title": "swyx 回应 AI 大会质量批评：社区价值大于流量",
+    "url": "https://x.com/swyx/status/2086700857358450853",
+    "summary": "swyx 反驳对 AI Engineer 大会演讲质量的批评，强调社区和行业价值超越个人视角，演讲者多为工程师和创始人，演讲准备时间短且未经专业训练。他承认策展、辅导和制作可改进，但拒绝仅以播放量评判质量，并暂拒将演讲发布到次要频道。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月10日14时27分"
   },
   {
     "id": "cmsmu6wuc0ik7rohftck5niuh",
