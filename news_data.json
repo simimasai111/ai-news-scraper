@@ -13856,12 +13856,100 @@
     "date": "2026年8月11日1时6分"
   },
   {
+    "id": "cmsnjbogp08uqrohfm0e8cuav",
+    "title": "Claude 研究版突破黎曼猜想下界",
+    "url": "https://x.com/EMostaque/status/2086874738203242911",
+    "summary": "还记得我们曾以为提示工程师会是一份工作吗 🤷♀️\n\n我们让一个未发布的研究版 Claude 尝试攻克黎曼猜想。\n\n它没有解决该猜想，但在一个相关问题上取得了进展：它将满足猜想的黎曼 zeta 函数零点比例下界从 41.6% 提高到了 67.2%。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月11日1时58分"
+  },
+  {
+    "id": "cmsnj9g7808owrohfie9rzjao",
+    "title": "OpenAI 推出 GPT-5.6-Cyber 与 Daybreak 新层级",
+    "url": "https://x.com/thsottiaux/status/2086873743138427262",
+    "summary": "OpenAI 扩大网络安全计划 Daybreak，推出专用于高级授权安全工作的新模型 GPT-5.6-Cyber，并新增 Daybreak Blue 与 Red 访问层级，以加速防御能力。该举措旨在让可信防御者在攻击者大规模部署进攻性 AI 之前，率先获得前沿智能。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月11日1时54分"
+  },
+  {
+    "id": "cmsnix1by08d3rohfftiex1xp",
+    "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "date": "2026年8月11日1时46分"
+  },
+  {
+    "id": "cmsnjque00b9mrohfqi6kblwq",
+    "title": "Cursor 设计负责人离职赴亚洲引热议",
+    "url": "https://x.com/AYi_AInotes/status/2086871581767143482",
+    "summary": "Cursor 设计负责人 @ryolu_ 在公司估值飞涨时离职，前往亚洲重新开始。他在旧金山科技圈工作 10 年，曾任职 Asana、Stripe、Notion 创始设计师，称需要更慢的节奏、更多文化、aliveness 和日常真实连接。主推文作者认为这是主动选择，而非逃离。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月11日1时45分"
+  },
+  {
+    "id": "cmsnix4cv08f2rohfycbqu4oi",
+    "title": "OpenAI 得州 AI 基建责任建设之道",
+    "url": "https://x.com/gdb/status/2086868041451901009",
+    "summary": "我们如何在得克萨斯州负责任地建设 AI 基础设施：https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月11日1时31分"
+  },
+  {
+    "id": "cmsnix2eb08durohf15yop35q",
+    "title": "Claude 研究版推进黎曼猜想相关证明",
+    "url": "https://x.com/AnthropicAI/status/2086867246073401655",
+    "summary": "我们让一个未发布的研究版 Claude 尝试攻克黎曼猜想。\n\n它没有解决该猜想，但在一个相关问题上取得了进展：它将满足该猜想的黎曼 zeta 函数零点比例的下界从 41.6% 提高到了 67.2%。\n\nhttps://www.anthropic.com/research/riemann-zeta",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "date": "2026年8月11日1时28分"
+  },
+  {
+    "id": "cmsniu8dr088zrohf2yegypuq",
+    "title": "Lindy Teammate 上线：AI 员工替代 AI 智能体",
+    "url": "https://x.com/omarsar0/status/2086867246396199091",
+    "summary": "Lindy 推出 AI 员工 Lindy Teammate，用户可在 Slack 中直接@它完成任务，替代过去事事找同事的协作方式。它能从会议、文档和已连接工具中提取答案并标注来源，且持续学习，成为企业自我更新的知识中枢。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月11日1时28分"
+  },
+  {
+    "id": "cmsniu90e0893rohfl2sndo1f",
+    "title": "AI智能体无好坏，关键在用户",
+    "url": "https://x.com/AISafetyMemes/status/2086867140964155722",
+    "summary": "没有不好的AI智能体，只有不好的使用者。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月11日1时27分"
+  },
+  {
+    "id": "cmsnix4cv08f3rohfzfxukyxn",
+    "title": "GPT-5.6-Cyber发布，Daybreak扩展助力防御者",
+    "url": "https://x.com/gdb/status/2086866967479341305",
+    "summary": "我们正在发布一个新模型（GPT-5.6-Cyber），并扩展 Daybreak，以帮助将前沿智能交到防御者手中：\n\n【引用 @OpenAI】：我们正在扩展网络安全计划 Daybreak，并推出 GPT-5.6-Cyber，这是一个面向高级、授权网络安全工作的新模型。\n\n随着威胁形势的演变，我们正在攻击者大规模部署进攻性 AI 之前，将前沿智能交到可信防御者手中。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月11日1时27分"
+  },
+  {
     "id": "cmsnhuhlk07jurohf230g87bl",
     "title": "NPO：过渡期优于CPO的共封装光学方案",
     "url": "https://x.com/SemiAnalysis_/status/2086860579415761313",
     "summary": "SemiAnalysis 分析称，NPO 是从可插拔光模块向真正 CPO 过渡的临时方案，兼具 CPO 大部分优势，同时规避其生产与可靠性难题。NPO 支持现场更换、故障影响范围限于单个模块，且光学引擎与交换 ASIC/XPU 分开封装，组装更简便。",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年8月11日1时1分"
+  },
+  {
+    "id": "cmsniu8ct088xrohfi5lknwpr",
+    "title": "5万个船名：NOAA船舶数据中的趣味命名一览",
+    "url": "https://www.beautifulpublicdata.com/boat-names",
+    "summary": "美国国家海洋和大气管理局（NOAA）的船舶交通数据中，约15万艘采样船只里有5万艘通过AIS广播了船名。这些名字充满双关语、影视和文学梗，如\"LIQUID ASSETS\"\"BILBOAT BAGGINS\"等，也折射出船主的职业与财富。休闲船占43%，货船占14%。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日1时19分"
+  },
+  {
+    "id": "cmsniu8il0891rohfagey8lj9",
+    "title": "OpenAI 扩大 Daybreak 并推出 GPT-5.6-Cyber",
+    "url": "https://x.com/OpenAI/status/2086864365379010729",
+    "summary": "我们正在扩大网络安全计划 Daybreak，并推出 GPT-5.6-Cyber，一款面向高级授权网络安全工作的新模型。\n\n随着威胁形势不断演变，我们正赶在攻击者大规模部署攻击性 AI 之前，将前沿智能交到可信防御者手中。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月11日1时16分"
   },
   {
     "id": "cmsnhucle07gurohf42lysz3a",
@@ -13966,6 +14054,14 @@
     "summary": "拔都汗是用 PixVerse 上的 Seedance 2.5 制作的\n\n30 秒冬日对峙：拔都的骑兵。罗斯盾墙。雪。呼吸。\n\n转发 + 回复\"BATU\"→ 完整工作流私信发送",
     "source": "X：PixVerse (@PixVerse_)",
     "date": "2026年8月11日0时36分"
+  },
+  {
+    "id": "cmsnh74w7078srohftrbxn3wn",
+    "title": "Build Low-Latency Multilingual Voice Agents： Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "summary": null,
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年8月11日0时25分"
   },
   {
     "id": "cmsngp2sy06brrohfggnrdlpz",
