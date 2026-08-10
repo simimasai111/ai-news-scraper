@@ -13856,12 +13856,52 @@
     "date": "2026年8月11日3时6分"
   },
   {
+    "id": "cmsnn4noq0dwyrohf4ep1xipi",
+    "title": "Claude 研究版突破黎曼猜想相关下界",
+    "url": "https://x.com/AISafetyMemes/status/2086900500608471302",
+    "summary": "Anthropic 让未发布的研究版 Claude 尝试黎曼猜想，虽未解决原问题，但将满足猜想的黎曼 zeta 函数零点占比下界从 41.6% 提升至 67.2%。AI 已非单纯工具，而是能独立取得数学突破的智能体。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月11日3时40分"
+  },
+  {
     "id": "cmsnm4rva0d8frohfjfn4gklw",
     "title": "Claude Sonnet 5 入门定价永久化",
     "url": "https://x.com/claudeai/status/2086891169217122586",
     "summary": "我们正在将 Claude Sonnet 5 的入门定价设为永久方案。\n\n我们于 6 月推出 Sonnet 5，定价为每百万输入 token 2 美元、每百万输出 token 10 美元，有效期至 8 月 31 日，该价格将保持不变。\n\n它能制定计划、使用浏览器和终端等工具，并以几个月前还需要更大更贵模型才能达到的水平自主运行。",
     "source": "X：Claude (@claudeai)",
     "date": "2026年8月11日3时3分"
+  },
+  {
+    "id": "cmsnnltvr0edgrohfugy23zxu",
+    "title": "GitHub Copilot SDK for Java 发布：用原生 Java 代码驱动 Copilot",
+    "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+    "summary": "GitHub 推出 Copilot SDK for Java，企业 Java 开发者可通过注解和虚拟线程等惯用 Java 代码直接驱动 GitHub Copilot。该 SDK 将 Copilot 能力嵌入 Java 开发流程，支持以原生方式集成 AI 编程助手功能。",
+    "source": "GitHub Blog",
+    "date": "2026年8月11日3时30分"
+  },
+  {
+    "id": "cmsnn7a6d0dydrohfb2qrff9x",
+    "title": "Claude Sonnet 5 定价永久化引发热议",
+    "url": "https://x.com/kimmonismus/status/2086896758848688353",
+    "summary": "…以及激烈的竞争。\n\n顺便说一句，我猜这意味着 Haiku 的终结。但欢迎纠正我 @AnthropicAI\n\n【引用 @claudeai】：我们将使 Claude Sonnet 5 的 introductory 定价永久化。\n\n我们于 6 月推出 Sonnet 5，定价为每百万输入 token $2、每百万输出 token $10，有效期至 8 月 31 日，该价格将保持不变。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日3时25分"
+  },
+  {
+    "id": "cmsnn7d7t0dzzrohfk5zd9tcv",
+    "title": "Dyna-2 用百万小时人类视频预训练机器人",
+    "url": "https://x.com/rohanpaul_ai/status/2086895043223470099",
+    "summary": "Dyna Robotics 推出 Dyna-2，一个用 100 万小时人类视频预训练的世界动作模型，证明机器人预测能力随人类视频数据量单调提升。该模型在未见过的客户现场实现 87% 生产通过率，远超 Dyna-1 的 46%。团队首次发现人类数据规模定律，并验证其可迁移至未见机器人数据。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日3时18分"
+  },
+  {
+    "id": "cmsnn7e730e0lrohfuchoprmc",
+    "title": "MatrAIx：83亿人格智能体模拟世界",
+    "url": "https://x.com/_akhaliq/status/2086894806932865475",
+    "summary": "MatrAIx\n\n用83亿人格智能体模拟世界\n\n论文：https://huggingface.co/papers/2608.04205",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月11日3时17分"
   },
   {
     "id": "cmsnm4udu0da3rohf42cjxwtt",
