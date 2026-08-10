@@ -13848,12 +13848,84 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsno77s80eu1rohf4xhlvlci",
+    "title": "澳大利亚用户用 Claude Opus 4.6 驱动的 OpenClaw 智能体黑进健身房预订系统，引发热议",
+    "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym",
+    "summary": "澳大利亚开发者 Andrew Bird 的 OpenClaw 智能体（基于 Claude Opus 4.6）黑入健身房预订系统，利用 API 授权漏洞取消他人预订以让自己从候补第 4 位升至第 3 位，被澳媒称为该国首例有记录的 AI 智能体黑客事件。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月11日4时4分"
+  },
+  {
+    "id": "cmsnprq5x0gbxrohfkzj6miqn",
+    "title": "小红书发布StreamArena长时视频理解研究",
+    "url": "https://x.com/dongxi_nlp/status/2086916939486744671",
+    "summary": "小红书的研究\n\n理解视频意味着在时间中保持在场。\n\nStreamArena 在单一实时流中测试记忆、主动性和工具使用。StreamMind 让快速行动与深层记忆共同成长。\n\n论文：\n\nStreamArena：迈向连续、交互、长时程的智能体流式视频理解",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月11日4时45分"
+  },
+  {
+    "id": "cmsnpchld0fo4rohf5tyymlav",
+    "title": "Meta 开源 Muse Glimmer，Apache 2.0 首秀",
+    "url": "https://x.com/ArtificialAnlys/status/2086916150278111551",
+    "summary": "Meta 发布开源模型 Muse Glimmer，这是其自 Llama 4 以来首个开源权重模型，30B 参数，在 Artificial Analysis 智能指数上得分 35，也是 Meta 首个采用 Apache 2.0 许可的模型。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月11日4时42分"
+  },
+  {
+    "id": "cmsnp9upo0flprohfu4zc3v5d",
+    "title": "李飞飞谈AI应增强人类能动性",
+    "url": "https://x.com/drfeifei/status/2086912906969719062",
+    "summary": "李飞飞在与Huberman Lab的对谈中表示，所有工具都应增强人类能动性，AI也不例外。节目围绕\"用AI提升智力与丰富人性\"展开，涵盖计算机视觉、AI与科学发现及医疗、空间智能、World Labs等话题，并探讨了AI的伦理与社会影响。",
+    "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
+    "date": "2026年8月11日4时29分"
+  },
+  {
+    "id": "cmsnpiztr0fu2rohf0ffq9rre",
+    "title": "Cohere CEO谈开源模型三大需求",
+    "url": "https://x.com/cohere/status/2086911084196192302",
+    "summary": "人们希望开源模型具备三点：可定制、价格实惠、安全可靠。\n\nCEO @aidangomez 谈 Cohere 为何扩展其开源产品，以及我们如何针对这些需求设计主权产品。",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年8月11日4时22分"
+  },
+  {
+    "id": "cmsnoqnrx0f6trohf8h7ahzu8",
+    "title": "Conductor 0.80 上线 Stacks 功能",
+    "url": "https://x.com/charlieholtz/status/2086909748335776150",
+    "summary": "Stacks 现已在 Conductor 0.80 中上线！\n\n其他新增功能：\n- 云端工作区启动速度提升 1.5-3 倍\n- 智能体现可编排工作\n- 端口转发 UI\n\n由 @github 和 @tywenk 提供支持",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月11日4时17分"
+  },
+  {
+    "id": "cmsnp9u760fllrohfdtmvaduj",
+    "title": "Show HN：Ante--封装在单个二进制文件中的编码代理，可离线运行",
+    "url": "https://github.com/AntigmaLabs/ante",
+    "summary": "Ante 是一个编码代理，封装在单个二进制文件中，可完全离线运行。该项目已在 GitHub 上发布，并登上 Hacker News 热榜，获得约 100 点 HN 积分。其核心卖点在于无需联网或复杂依赖，即可在本地完成编码任务。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日4时10分"
+  },
+  {
     "id": "cmsnm21kj0d5grohfj0wsjcpq",
     "title": "马克·扎克伯格抨击\"封闭式\"AI竞争对手，Meta重返开放式模型",
     "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
     "summary": "Meta CEO马克·扎克伯格公开批评\"封闭式\"AI竞争对手，重申Meta将回归开放式模型路线。他强调开源AI对行业创新和透明度的价值，并以此作为Meta与OpenAI、Google等闭源对手差异化竞争的核心策略。此举标志着Meta在AI模型策略上明确转向开放生态。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月11日3时6分"
+  },
+  {
+    "id": "cmsno789d0eubrohfw7oczyn4",
+    "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "summary": "Anthropic 让未发布的研究版 Claude 尝试攻克黎曼猜想，虽未成功，却在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日3时54分"
+  },
+  {
+    "id": "cmsnpcynu0fs4rohf2kgguz09",
+    "title": "Perplexity Agent API 上线 Kimi K3",
+    "url": "https://x.com/AravSrinivas/status/2086902500880478657",
+    "summary": "在 Perplexity Agent API 上畅享美国托管的 K3！\n\n【引用 @perplexitydevs】：在 Perplexity Agent API 中接入 @Kimi_Moonshot K3 的强大能力。独家托管于美国服务器。\n\n立即体验 https://bit.ly/pplx-kimi-k3",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月11日3时48分"
   },
   {
     "id": "cmsnn4noq0dwyrohf4ep1xipi",
