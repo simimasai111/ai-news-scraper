@@ -13848,12 +13848,132 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsnuitct0k2urohfkw4u3fst",
+    "title": "苹果 iOS / iPadOS 27 Beta 5 更新汇总：Safari 等启用新图标，Siri AI 支持定制语音",
+    "url": "https://www.ithome.com/0/988/076.htm",
+    "summary": "苹果发布 iOS / iPadOS 27 Beta 5，为 Safari、Siri、设置等应用启用新图标，并扩展 Siri AI 语音定制功能，用户可调整全部 7 种美国语音和 4 种英国语音的语速与表现力，该功能在设备端完成，仅限 iPhone 17 Pro、iPhone 17 Pro Max 或 iPhone Air。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日7时5分"
+  },
+  {
+    "id": "cmsnvs8d60l4drohfuv6amory",
+    "title": "Grok 4.6 短暂上线 Cursor 后被撤回",
+    "url": "https://x.com/testingcatalog/status/2086962127852523916",
+    "summary": "Grok 4.6 在 Cursor 编辑器上短暂可用，随后被撤回。\n\nGrok 4.5 发布不到一个月。如果接下来几周我们真的能迎来 Grok 4.6，那将意义重大！\n\n快了？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月11日7时45分"
+  },
+  {
+    "id": "cmsnvs27y0l0drohf2j20hj2l",
+    "title": "同一模型输出速度因推理商差异超15倍",
+    "url": "https://x.com/ArtificialAnlys/status/2086958697444696113",
+    "summary": "同一模型，输出速度因推理服务商不同可相差 15 倍以上。我们将于 8 月 12 日（周三）在旧金山解析这些差异为何存在，以及它们在实践中的意义。\n\n届时，Artificial Analysis 与领先推理服务商将直接分享他们对速度、成本与模型支持的观点。\n\n报名参加 👇 https://luma.com/0ukamlad?utm_source=x",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月11日7时31分"
+  },
+  {
+    "id": "cmsnvs8d60l4erohfw2sd0aci",
+    "title": "微软MAI Image 2.6登顶文生图榜第二",
+    "url": "https://x.com/testingcatalog/status/2086956497297137717",
+    "summary": "微软的 MAI Image 2.6 在 Arena 上首次亮相，便在文生图排行榜上位列第二。\n\nMAI-Image-2.6 预计将于下周在 MAI Playground 和 API 上开放使用。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月11日7时22分"
+  },
+  {
+    "id": "cmsnvpg0p0kwmrohfoqxah0ru",
+    "title": "VectorWare 在 GPU 上实现 Rust 可移植 SIMD",
+    "url": "https://www.vectorware.com/blog/simd-on-gpu",
+    "summary": "VectorWare 宣布成功在 GPU 上使用 Rust 的可移植 SIMD（core：：simd），将每个 SIMD 向量直接映射到 GPU 的 warp 通道上，无需修改源代码即可将同一段代码编译为 CPU 或 GPU 指令。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日7时22分"
+  },
+  {
+    "id": "cmsnvoogx0kvarohfpaoiqbzw",
+    "title": "HumanLayer 与 Blacklight 实时迭代发布说明",
+    "url": "https://x.com/dexhorthy/status/2086955969163251859",
+    "summary": "在 HumanLayer 中直接与 @0xblacklight 实时迭代发布说明。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月11日7时20分"
+  },
+  {
+    "id": "cmsnvs3uj0l1jrohfl1i4m9l1",
+    "title": "两年后人类或将不再读写代码",
+    "url": "https://x.com/rohanpaul_ai/status/2086955771754103267",
+    "summary": "是的，无法想象两年后人类还会读写代码。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日7时20分"
+  },
+  {
+    "id": "cmsnvs3uj0l1krohfdm81zbhx",
+    "title": "MAI-Image-2.6 登顶文生图竞技场第二",
+    "url": "https://x.com/rohanpaul_ai/status/2086955024761115101",
+    "summary": "微软 MAI-Image-2.6 在文生图竞技场排名第二（1336 分），仅落后榜首 GPT Image 2 （Medium） 45 分，领先第三名 Grok Imagine Image 2.0 （Low） 20 分。相比排名第十的 MAI-Image-2.5（1256 分），该版本实现全面显著提升。MAI 将于下周在 Playground 上线该模型，并提供 Foundry 早期 API 访问。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日7时17分"
+  },
+  {
+    "id": "cmsnupnag0kcerohfotfw1b1a",
+    "title": "Anthropic 探索 Claude 移动端多设备远程连接",
+    "url": "https://x.com/testingcatalog/status/2086954788751589833",
+    "summary": "Anthropic 正在研究从 Claude 移动应用连接多个远程设备的可能性。\n\nclaude rc 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月11日7时16分"
+  },
+  {
+    "id": "cmsnuphrb0k88rohf2259deay",
+    "title": "Grok 图像模型拓扑理解力胜出",
+    "url": "https://x.com/elonmusk/status/2086950103898603725",
+    "summary": "Grok 太强了",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月11日6时57分"
+  },
+  {
+    "id": "cmsnuitct0k2wrohfgdln6hkd",
+    "title": "宏碁 Googlebook 14 笔记本规格信息曝光：至高搭载酷睿 Ultra 7 355 处理器、配 14 英寸 2.8K OLED 面板",
+    "url": "https://www.ithome.com/0/988/074.htm",
+    "summary": "宏碁 Googlebook 14（型号 GP714-91N，代号\"Moonstone\"）规格曝光，基于英特尔 Panther Lake 架构，至高搭载酷睿 Ultra 7 355 处理器，可选 16GB 或 32GB LPDDR5X 内存及 256GB 或 512GB 固态硬盘。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日6时56分"
+  },
+  {
+    "id": "cmsnupnag0kcfrohfw2sabagb",
+    "title": "Anthropic 为移动应用开发多账户支持",
+    "url": "https://x.com/testingcatalog/status/2086949617858420973",
+    "summary": "Anthropic 正在为其移动应用开发多账户支持。用户最终将能够连接多个 Claude 账户，并随时在它们之间切换。\n\n此外，用户将获得一个新的开关，让 Claude 记住敏感话题。\n\n> 让 Claude 保存敏感话题的信息，如健康状况和宗教信仰。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月11日6时55分"
+  },
+  {
+    "id": "cmsnuitct0k2xrohfm9fnffx9",
+    "title": "美国加拿大地区 ChatGPT 进一步接入点评平台 Yelp，消费者可在聊天过程中直接预订餐厅",
+    "url": "https://www.ithome.com/0/988/073.htm",
+    "summary": "Yelp 与 ChatGPT 宣布进一步内容合作，美国和加拿大用户现可直接在聊天中通过 Yelp 完成餐厅预订或加入候补名单，无需跳转其他应用。ChatGPT 可协助选择用餐人数、日期时间、填写联系方式并确认预约，后续还可通过 Yelp 修改预约信息。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日6时49分"
+  },
+  {
     "id": "cmsntm5d10j5trohfg55p39kn",
     "title": "MAI-Image-2.6 登顶文生图竞技场第二",
     "url": "https://x.com/mustafasuleyman/status/2086944832258236781",
     "summary": "微软 MAI-Image-2.6 在文生图竞技场以 1336 分升至第二名，距榜首 GPT Image 2 仅差 45 分，领先第三名 Grok Imagine 20 分。该版本较上一代 MAI-Image-2.5（第 10 名，1256 分）全面提升，下周将登陆 Playground 并在 Foundry 开放早期 API 访问。",
     "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
     "date": "2026年8月11日6时36分"
+  },
+  {
+    "id": "cmsnvor1w0kvirohf1vcg7wrg",
+    "title": "MAI-Image-2.6 launches at No. 2 on Arena ahead of Google， Meta and xAI",
+    "url": "https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai",
+    "summary": null,
+    "source": "Microsoft AI：官方博客（网页）",
+    "date": "2026年8月11日6时35分"
+  },
+  {
+    "id": "cmsnuitcu0k31rohfpjq5a7gt",
+    "title": "iOS 27 代码显示苹果正开发 Apple Reference Image 认证功能，用于检测 iPhone 拍摄照片真实性",
+    "url": "https://www.ithome.com/0/988/068.htm",
+    "summary": "外媒 9to5Mac 在 iOS 27 开发者预览版 Beta 5 代码中发现，苹果正开发 Apple Reference Image 功能，用于认证 iPhone 拍摄照片的来源真实性。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日6时33分"
   },
   {
     "id": "cmsnshmyu0iborohfxy7msqbu",
@@ -13926,6 +14046,14 @@
     "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
     "source": "X：Jensen Huang (@JensenHuang)",
     "date": "2026年8月11日5时56分"
+  },
+  {
+    "id": "cmsnvy8za0l5crohf8ig9bqwt",
+    "title": "Forking-Sequences 系列（二）：多时域预测集成如何降低波动性",
+    "url": "https://blog.ml.cmu.edu/2026/08/10/forking-sequences-part-ii-multi-horizon-forecast-ensembling-with-reduced-volatility",
+    "summary": "CMU 研究团队提出，基于 forking-sequences 架构的模型可在单次前向传播中天然生成多个重叠预测，推理时集成几乎零额外编码器计算。新指标 sFPC 实时衡量预测修订幅度，Excess Volatility 则只惩罚偏离真实值的修订。",
+    "source": "CMU：Machine Learning Blog",
+    "date": "2026年8月11日5时52分"
   },
   {
     "id": "cmsnrnxfm0hl6rohfifnv9qdj",
