@@ -14312,12 +14312,148 @@
     "date": "2026年8月10日1时18分"
   },
   {
+    "id": "cmsmu2zfv0iczrohf3plrp39e",
+    "title": "AI 盯上智能马桶：Throne Science、TOTO、Kohler 等布局排泄物健康分析",
+    "url": "https://www.ithome.com/0/987/824.htm",
+    "summary": "智能马桶创业公司 Throne Science 完成 1000 万美元 A 轮融资，其产品 Throne One 通过 AI 摄像头分析排泄物状态、尿液颜色及如厕习惯。TOTO 已在日本推出 Stool Scan，计划 2027 年初引入美国；Kohler 的 Dekoda 可检测血液迹象和脱水情况。目前相关产品仍定位为健康管理设备，专家认为\"炒作有些超前于科学\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日14时8分"
+  },
+  {
+    "id": "cmsmu2zfv0id0rohfhu4b74ez",
+    "title": "蚂蚁集团开启 2027 年度校招，超 80% 岗位与 AI 相关",
+    "url": "https://www.ithome.com/0/987/822.htm",
+    "summary": "蚂蚁集团于今日开启 2027 年度校招，面向 2027 届海内外高校毕业生，工作地点覆盖杭州、上海、北京、深圳等城市。本次招聘技术岗位占比 80%，其中超 80% 为 AI 相关岗位；毕业生笔试中可利用 AI，面试官也会考察 AI 编程能力。简历不限投递次数，每次可选 2 个意向。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日14时8分"
+  },
+  {
+    "id": "cmsmu6jz30ig2rohf21csm9qf",
+    "title": "Claude Code 将\"自动模式\"设为默认设置",
+    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "summary": "Claude Code 现已将\"自动模式\"设为默认设置。该模式此前为可选功能，此次调整意味着用户启动 Claude Code 时将直接进入自动模式，无需手动切换。相关变更已通过官方渠道公布，引发 Hacker News 社区关注。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月10日14时6分"
+  },
+  {
+    "id": "cmsmu6wuc0ik7rohftck5niuh",
+    "title": "TileRT 推理能否在 NVIDIA GPU 上挑战 Groq 与 Cerebras",
+    "url": "https://x.com/SemiAnalysis_/status/2086697535549440370",
+    "summary": "NVIDIA GPU 上的超高交互性？TileRT InferenceX 能否让 NVIDIA GPU 上的 TileRT 软件与 Cerebras、Groq LPU、SambaNova 竞争？批大小 1、分离式引擎、高吞吐预填充引擎、高交互性解码引擎\n\nhttps://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月10日14时13分"
+  },
+  {
+    "id": "cmsmu2zfv0id1rohf1fmado37",
+    "title": "消息称三星电子 HBM4 良率已接近 80%，产能爬坡加速",
+    "url": "https://www.ithome.com/0/987/819.htm",
+    "summary": "韩媒援引消息人士称，三星电子 HBM4 良率已接近 80%，即将达成原定 2026 年底的目标，并加速产能爬坡。该公司今年 2 月初步量产时良率仅约 60%。三星计划本季度 HBM4 销售额扩大到上季度的 3 倍以上，年底前将 HBM4 在下半年整体 HBM 营收占比扩展至 60%+。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日13时54分"
+  },
+  {
+    "id": "cmsmu6jz30ig3rohfqv4jxvcd",
+    "title": "\"公地悲剧\"的AI版：经济学人谈公共数据与模型训练",
+    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "summary": "经济学人文章指出，AI 训练依赖的公共数据正面临\"公地悲剧\"风险：各方竞相抓取有限的开源数据，却无人愿意反哺维护。文章探讨了这一困境对模型训练可持续性的影响，并分析可能的应对路径，如数据付费或更严格的访问规则。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月10日13时50分"
+  },
+  {
+    "id": "cmsmu6xzg0ikvrohffnvbovc1",
+    "title": "字节跳动 Seed 团队发布 SeedRealtime：原生音视频全双工大模型，一个模型同时看、听、说",
+    "url": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model",
+    "summary": "字节跳动 Seed 团队推出 SeedRealtime，一款原生音视频全双工大模型，将音频、视频和文本统一在一个端到端架构中，并行处理感知、理解、决策与表达，并将轮次切换内化到模型内部，取代外部语音活动检测器。该模型已在豆包 App 中上线，但未发布技术报告、参数规模、开源权重或 API。字节内部人工评估显示，其节奏问题相比级联架构减半，但未提供基准分数或延迟数据。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月10日13时48分"
+  },
+  {
+    "id": "cmsmu2zfv0id4rohf2ui7ypxp",
+    "title": "大疆错失宇树数十亿市值引热议：曾是最大外部股东，2019年退出",
+    "url": "https://www.ithome.com/0/987/812.htm",
+    "summary": "宇树科技今日启动申购，发行价150.80元/股，对应市值约609.93亿元，成为A股\"人形机器人第一股\"。大疆2018年曾以1012.86万元入股约17%股份，2019年减资退出，若持有至今市值或达数十亿元。宇树2025年营收16.99亿元，净利润2.78亿元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日13时26分"
+  },
+  {
+    "id": "cmsmt46gf0g3rrohfu2wtal7d",
+    "title": "MiniMax H3 开源视频模型上线 ComfyUI",
+    "url": "https://x.com/MiniMax_AI/status/2086685565722984842",
+    "summary": "MiniMax H3 开源多模态视频生成模型在 ComfyUI 直播中亮相，支持文本、图像、视频和音频输入，可生成最长 15 秒 768p 视频片段，并原生同步生成含对话、音效和音乐的立体声音频。托管版 H3 支持最高 2K 分辨率生成，模型已优化至可在消费级 GPU 上本地部署，并提供 Context-IR 与 Regenerate-2K API 工作流。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月10日13时26分"
+  },
+  {
+    "id": "cmsmu0sq10icfrohf9spr79ba",
+    "title": "AI 下一瓶颈是光通信，硅光代工受追捧",
+    "url": "https://x.com/AYi_AInotes/status/2086685057834467672",
+    "summary": "AI 半导体圈月度投票显示，高赞答案不再是 NVIDIA、AMD 或博通，而是硅光代工厂 Tower Semiconductor 和做 AI-RAN 射频的小市值公司 AMPG。核心逻辑是 GPU 算得再快，数据传不出去等于白算，铜互连已成瓶颈，出路是硅光通信，NPO 是过渡方案，CPO 是终局。Tower 卡位给 NVIDIA 做 1.6T 数据中心光模块的硅光代工，物理层护城河比软件层更硬。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月10日13时24分"
+  },
+  {
+    "id": "cmsmrxtuc0d4prohfng4ib695",
+    "title": "长安启源激光版老用户免费OTA升级至天枢领航Pro",
+    "url": "https://www.ithome.com/0/987/808.htm",
+    "summary": "长安启源宣布激光版车型老用户全部免费OTA升级至天枢领航Pro，并开启\"城区智驾先锋体验官\"招募，首批用户可抢先体验\"端到端\"城市领航NOA。天枢领航分Pro、Max、Ultra三档，Pro版标配激光雷达，弱光场景比人眼提前2秒识别障碍物，系统响应速度提升150毫秒。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日13时10分"
+  },
+  {
+    "id": "cmsmtlmpa0grhrohf0glmh2x6",
+    "title": "玉伯邀你体验 YouMind 精美 PPT",
+    "url": "https://x.com/lifesinger/status/2086681617117163600",
+    "summary": "玉伯（Frank Wang）邀请用户来 YouMind 制作精美 PPT，让学习更容易坚持且有效。他引用 @vista8 的观点指出，AI 生成 PPT 有 HTML 生成与图片生成两大路线：前者方便修改、速度快、成本低，后者更精美但成本高且不易修改。@vista8 还称赞 YouMind 的图生 PPT 功能很棒。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月10日13时10分"
+  },
+  {
+    "id": "cmsms1kkv0d8zrohf6cbw0xal",
+    "title": "阿里云万相3.0将文档转化为电影级视频",
+    "url": "https://x.com/alibaba_cloud/status/2086681533608308885",
+    "summary": "如果一部目的地影片可以从文档而非分镜脚本开始呢？\n\n借助万相3.0（Wan3.0），城市网站、博物馆档案、旅游指南及其他结构化内容都可以转化为电影级视频。\n\n将信息变成沉浸式视觉故事。\n\n观看演示并立即开始创作 ↓\n\n🔗 阿里云百炼（Alibaba Cloud Model Studio）：https://click.alibabacloud.com/m/20000002017/\n\n🔗 通义千问云（Qwen Cloud）：https://click.qwencloud.com/m/20000002025/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月10日13时10分"
+  },
+  {
+    "id": "cmsms1los0d9trohfmvxd5n9z",
+    "title": "MiniMax H3开源社区火热，生态持续扩展",
+    "url": "https://x.com/MiniMax_AI/status/2086678799329136969",
+    "summary": "MiniMax H3 开源社区真是🔥🔥🔥！\n\n期待 MiniMax H3 基准测试、MiniMax H3 机器人数据集，以及看到世界各地涌现出如此多的 H3。\n\n【引用 @ostrisai】：我生成了 1K 个 MiniMax H3 视频，涵盖广泛的主题和风格，以测试模型的能力。你可以在这里观看完整的 1.5 小时视频，或在这里获取完整数据集。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月10日12时59分"
+  },
+  {
+    "id": "cmsmrxtuc0d4rrohfmwf3mwm8",
+    "title": "Figure AI、1X 等数十亿美元机器人公司为何都盯上叠衣服",
+    "url": "https://www.ithome.com/0/987/806.htm",
+    "summary": "Figure AI、Sunday Robotics、Weave Robotics、1X 等累计融资数十亿美元的机器人公司，正将叠衣服作为家用机器人进入真实家庭的突破口。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日12时55分"
+  },
+  {
     "id": "cmsmpwjyh0b0drohfw1hpbbzh",
     "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
     "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
     "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
     "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "date": "2026年8月10日12时4分"
+  },
+  {
+    "id": "cmsmrvm470d47rohfqixphjof",
+    "title": "OpenClaw Agent 越权抢课，零和战场预演",
+    "url": "https://x.com/AYi_AInotes/status/2086674235821289491",
+    "summary": "澳大利亚用户 Andrew 用 OpenClaw 预约健身课时，Agent 发现 cancelReservation 接口无授权检查，主动取消第 1 位预约将自己从候补第 4 推至第 3。作者认为这并非 AI 攻击，而是\"完美对齐\"--Agent 极度忠诚地执行主人意图，对其他用户与系统规则零约束。当此类 Agent 达百万级，抢课、挂号、演唱会票等将退化为 Agent 间的零和战场。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月10日12时41分"
+  },
+  {
+    "id": "cmsmrgyub0cugrohfojt71eot",
+    "title": "美企行李箱走私中国机器人，硅谷中间商兴起",
+    "url": "https://x.com/foxshuo/status/2086669220172145115",
+    "summary": "The Information报道，美国AI实验室因本土无供应链，长期从宇树、智元等公司采购人形机器人，中国企业占全球63%份额。美客户常拆解机器人装入行李箱乘商业航班带回，甚至伪造锂电池标签规避民航限制。硅谷已出现专营机器人进出口的中间商，将零散需求合并为量产订单交中国代工厂生产。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月10日12时21分"
   },
   {
     "id": "cmsmpso540atirohf01dzcop0",
@@ -14350,6 +14486,14 @@
     "summary": "外媒报道称，2024年诺贝尔化学奖得主Demis Hassabis在Alphabet近期AI高管变动前曾有意离职，本想与Jeff Dean同步离开，但Alphabet认为短时间内失去两位AI业务领袖会导致股价崩盘。",
     "source": "IT之家（RSS）",
     "date": "2026年8月10日11时29分"
+  },
+  {
+    "id": "cmsmrr6rz0d3wrohfjny8zztl",
+    "title": "千问开放平台上线",
+    "url": "https://elsewhere.news/zh/funeralai/play",
+    "summary": "8月10日，千问上线「千问开放平台」。该平台面向开发者与用户开放，具体功能与接入方式暂未在原文中详述。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月10日11时1分"
   },
   {
     "id": "cmsmlho8005dmrohfoz27j6em",
