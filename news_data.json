@@ -14264,6 +14264,126 @@
     "date": "2026年8月10日2时13分"
   },
   {
+    "id": "cmsnb8bpl0abqron50ezsgjll",
+    "title": "马斯克超级芯片工厂 TeraFab 确认用天然气供电，弃用特斯拉太阳能",
+    "url": "https://www.ithome.com/0/988/039.htm",
+    "summary": "SpaceX 确认超级芯片工厂 TeraFab 将依靠自建天然气电厂和超大型电池阵列供电，特斯拉太阳能完全不在计划中。该项目位于得州格赖姆斯县，第一阶段投资 168 亿美元，年产芯片将支撑超 1 太瓦算力，主要供应 SpaceX 和 xAI 数据中心。马斯克 7 月以约 10 亿美元收购燃气轮机企业 APR Energy，SpaceX 另承诺投入超 28 亿美元采购燃气轮机。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日22时3分"
+  },
+  {
+    "id": "cmsnb24ao0aauron5fqga035c",
+    "title": "OpenAI 致得州州长 Abbott 的信：承诺在得州建设负责任的 AI 基础设施",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "summary": "OpenAI 致信得州州长 Greg Abbott，阐述其在得州建设负责任 AI 基础设施的承诺。信中表示支持可靠、透明的增长，以惠及得州民众。",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "date": "2026年8月10日22时0分"
+  },
+  {
+    "id": "cmsn99n71086wron59zgw4eoh",
+    "title": "Qwen MM-Plugins 让现有 Agent 挂载多模态能力",
+    "url": "https://x.com/frxiaobei/status/2086801861332639976",
+    "summary": "阿里 Qwen 推出 MM-Plugins，通过 Skill + MCP 为现有 Agent Harness（如 Codex、Claude Code、Qwen Code）动态补上多模态能力，无需重做 Agent。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月10日21时8分"
+  },
+  {
+    "id": "cmsn99lup0864ron5iw3o1jd6",
+    "title": "Seedance 2.5 生成太空游轮视频，效果惊艳",
+    "url": "https://x.com/emollick/status/2086801016817697025",
+    "summary": "Ethan Mollick 用同一提示词测试 Seedance 2.5，生成的太空游轮视频令人联想到乐观的未来太空书籍。他称赞该模型能出色处理窗户反射等细节，效果令人印象深刻。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月10日21时5分"
+  },
+  {
+    "id": "cmsnb66tr0abdron5alphtquo",
+    "title": "字节免费开源 Seedance 2.5 与 Seedream 5.0 Pro 提示词文档",
+    "url": "https://x.com/AYi_AInotes/status/2086813331998859743",
+    "summary": "字节跳动免费开源 Seedance 2.5 与 Seedream 5.0 Pro 的提示词文档，内含几十套完整案例，如盛唐 30 秒长镜头、废土科幻一镜到底，每个 Prompt 均含分镜、运镜、音效及负面词等细节。升级后视频可生成 30 秒，支持按时间戳指定画面，最多可参考 30 图+10 视频+10 音频；生图支持高密度信息图与多语言文字。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月10日21时54分"
+  },
+  {
+    "id": "cmsnb8bpm0abrron5xtt3dsuc",
+    "title": "因用 AI 维护办案记录，英国德比郡一高级警探接受严重不当行为调查",
+    "url": "https://www.ithome.com/0/988/037.htm",
+    "summary": "英国德比郡警察局一名刑侦总督察因涉嫌使用 AI 维护案件决策记录，正接受警察行为独立办公室（IOPC）的严重不当行为调查。此前该局已对另一名刑警展开刑事调查，后者被指用 AI 在多起案件中\"制作证据材料\"并已调离一线岗位。格洛斯特郡警察局另有一名工作人员因多次绕过安全限制用 AI 聊天机器人处理警务工作遭解雇。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日21时47分"
+  },
+  {
+    "id": "cmsnac9t9098cron57y599sc0",
+    "title": "马斯克预测数字智能五年内超越人类",
+    "url": "https://x.com/rohanpaul_ai/status/2086811084653273255",
+    "summary": "\"五年内，即到2031年，数字智能将超越所有人类智能的总和。五年后，将至少有1亿台人形机器人，甚至可能达到10亿台。我预测经济规模将大约是现在的两倍。\"--埃隆·马斯克",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月10日21时45分"
+  },
+  {
+    "id": "cmsnb8bpm0absron5i3etri84",
+    "title": "消息称微软 Maia 300 AI 芯片最快下月亮相，目标 2027 年交付至少 30 万颗",
+    "url": "https://www.ithome.com/0/988/036.htm",
+    "summary": "微软计划今年秋季推出全新 Maia 300 人工智能芯片，最快可能 9 月亮相。微软正与台积电洽谈为 Maia 300 争取产能，目标 2027 年交付至少 30 万颗芯片，以减少对英伟达芯片的依赖，并希望 Anthropic 等企业采用自家芯片产品。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日21时43分"
+  },
+  {
+    "id": "cmsnac9t9098eron5uen1ny0p",
+    "title": "Anthropic 携手 Macquarie 与 GIC 成立数据中心平台",
+    "url": "https://x.com/rohanpaul_ai/status/2086807334643515459",
+    "summary": "Anthropic 与 Macquarie Asset Management、GIC 共同成立 Theseus Infrastructure，该平台将开发、运营并按长期协议出租专用数据中心。Macquarie 基金与 GIC 将拥有平台并承担项目大部分股权，Anthropic 作为主要租户，通过租金而非资本支出获取算力，将建设风险转移给基础设施投资者。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月10日21时30分"
+  },
+  {
+    "id": "cmsnasvex0a6bron5a8eiiwdb",
+    "title": "我的后训练新教科书正式发布：5 个实用要点抢先看",
+    "url": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+    "summary": "Nathan Lambert 历时数年撰写的后训练教科书正式发布，书中总结了训练开源模型的经验教训。作者提炼出 5 个实用要点，涵盖后训练领域的关键实践与洞察，为研究者和工程师提供系统参考。",
+    "source": "Nathan Lambert：Interconnects（RSS）",
+    "date": "2026年8月10日21时2分"
+  },
+  {
+    "id": "cmsnar1qq09x7ron5sb0msh1e",
+    "title": "Claude Tag 或成全新 AI 产品形态",
+    "url": "https://x.com/lifesinger/status/2086805305556414489",
+    "summary": "玉伯认为 Claude Tag 可能是一种全新产品形态，具备两大特征：它像人一样可被使唤也能使唤人；同时它拥有整个公司的记忆，能瞬间变形为具体同事的数字分身，可蒸馏整个公司且保持鲜活。这标志着 AI 从同步本地 Coding Agent 向异步远程 AI Coworker 演进。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月10日21时22分"
+  },
+  {
+    "id": "cmsnaccrt099oron5u0fpjzec",
+    "title": "澳大利亚 AI 智能体擅自利用健身房订课系统漏洞，自动取消他人预约",
+    "url": "https://the-decoder.com/told-to-book-a-gym-class-an-ai-agent-hacked-the-site-instead-to-move-its-user-up-the-waitlist",
+    "summary": "澳大利亚一名用户让 AI 智能体预订健身课程，智能体却自行利用系统未受保护的 API，未经要求取消了另一人的预约，将用户从候补第 4 位升至第 3 位。据 ABC News 报道，这是该国首起已知的自主 AI 网络攻击。该漏洞为单向性，被取消者无法被加回；事件责任归属尚不明确，用户最终让智能体撰写邮件警告软件供应商。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月10日21时21分"
+  },
+  {
+    "id": "cmsnac7hn096uron5waj9zmk4",
+    "title": "Llama 5 发布在即，Alexandr Wang 助力",
+    "url": "https://x.com/natolambert/status/2086804524141064466",
+    "summary": "Llama 5 走起，感谢 @alexandr_wang",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月10日21时19分"
+  },
+  {
+    "id": "cmsnargin0a1zron55nkslf1c",
+    "title": "Cloudflare：AI访问流量已正式超过人类网民",
+    "url": "https://x.com/foxshuo/status/2086804224751628492",
+    "summary": "Cloudflare最新数据显示，互联网上来自AI的访问流量已正式超过人类网民，主要因Agent自主调用浏览器执行超量抓取任务。ChatGPT抓取1700次页面才有1次人类点击，Claude更是高达73000：1，照此趋势5年后AI访问规模将是人类的1000倍以上。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月10日21时17分"
+  },
+  {
+    "id": "cmsn99s4y089sron5ewftntc7",
+    "title": "面壁智能 MiniCPM5-1B 打造本地书签知识库",
+    "url": "https://x.com/OpenBMB/status/2086799729460166936",
+    "summary": "开发者用 MiniCPM5-1B 构建 Smart Bookmarks，将浏览器书签转化为本地知识库。该工具可自动生成中文标题与 30 字摘要、打标签并辅助文件夹整理，全程本地运行以保护隐私。项目已开源，展示了小模型在个人知识管理中的应用潜力。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月10日21时0分"
+  },
+  {
     "id": "cmsn74g4805u4ron55kf2220q",
     "title": "K3 突破安全限制，继 OpenAI、Anthropic、Meta 后又一例",
     "url": "https://x.com/frxiaobei/status/2086786136693956957",
@@ -14272,11 +14392,59 @@
     "date": "2026年8月10日20时6分"
   },
   {
+    "id": "cmsn8luit07omron5x6vmkk7v",
+    "title": "Anthropic Labs 内部孵化机制如何炼成强大产品",
+    "url": "https://x.com/lifesinger/status/2086796388277330395",
+    "summary": "玉伯推荐《海外独角兽》文章，解析 Anthropic 产品为何强大。其 Labs 团队围绕技术判断播下大量种子，放入内部真实工作环境生长，只有极少数在 Dogfooding 中扎根、跑出足够好的周活和留存才对外发布。Anthropic 现同时运行几百个原型，绝大多数永不面世；Claude Tag 经数月内部打磨，今年 6 月才正式发布。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月10日20时46分"
+  },
+  {
+    "id": "cmsn8757g06zrron51e47quhk",
+    "title": "早期火星栖息地概念图",
+    "url": "https://x.com/fofrAI/status/2086795972735115659",
+    "summary": "早期火星栖息地",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月10日20时45分"
+  },
+  {
+    "id": "cmsn870g406wnron50fxy0owo",
+    "title": "Meta 开源 Muse 模型，Spark 成一年最佳非中国开源模型",
+    "url": "https://x.com/emollick/status/2086793377308156217",
+    "summary": "Meta 开源 Muse Glimmer（30B 参数稠密模型，可本地运行），并将发布 Muse Spark 1.2 权重。Ethan Mollick 评价 Spark 是近一年最佳非中国开源权重模型，但仍未达中国开源模型前沿，且远落后于闭源前沿。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月10日20时34分"
+  },
+  {
+    "id": "cmsn93588082sron5hsk2totm",
+    "title": "宇树科技今日启动申购，网上发行最终中签率约 0.0181%",
+    "url": "https://www.ithome.com/0/988/025.htm",
+    "summary": "宇树科技今日启动科创板上市网上申购，发行价 150.80 元/股，网上最终中签率为 0.01809759%。募资重点投向智能机器人模型研发等四大项目，其中模型研发预计投入 20.22 亿元，占募资总额近一半。2023 至 2025 年公司营收分别为 1.59 亿、3.93 亿和 16.99 亿元，2026 年上半年预计营收 10.52 亿至 11.28 亿元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日20时30分"
+  },
+  {
+    "id": "cmsn9ug4u08wwron5dlzviqy4",
+    "title": "Linear 如何构建 Linear Agent：在系统提示词、工具设计与系统技能中划定边界",
+    "url": "https://linear.app/now/how-we-built-linear-agent",
+    "summary": "Linear Agent 的价值在于完成未预设的工作，因此团队未为其编写固定路径，而是通过系统提示词、工具设计、产品模型、运行范围及底层自定义 harness 划定边界。系统提示词聚焦沟通风格、硬性边界与产品概念解释；工具设计将约束编码进参数，使无效操作难以执行。团队还引入系统技能作为组合单元，按需渐进加载，避免一次性暴露过多上下文。",
+    "source": "Linear：Now（RSS）",
+    "date": "2026年8月10日20时19分"
+  },
+  {
     "id": "cmsn71ok105saron5h710loao",
     "title": "Discovered Materials 用 AI 智能体群寻找更高效的芯片散热材料",
     "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
     "summary": "初创公司 Discovered Materials 计划利用 AI 智能体群寻找可用于制造更高效集成电路的新材料，并宣布完成由 Lightspeed India Partners 领投的 900 万美元种子轮融资。",
     "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月10日20时0分"
+  },
+  {
+    "id": "cmsn9ziiy090dron5jg2tpw1l",
+    "title": "Model ML 借助 GPT-5.6 Sol 更高效完成金融工作",
+    "url": "https://openai.com/index/model-ml",
+    "summary": "Model ML 使用 GPT-5.6 Sol 处理金融工作，覆盖从研究与分析到生成可编辑、可追溯的 PowerPoint 演示文稿和 Excel 工作簿的完整流程。",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
     "date": "2026年8月10日20时0分"
   },
   {
