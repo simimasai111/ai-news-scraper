@@ -14264,6 +14264,22 @@
     "date": "2026年8月10日2时13分"
   },
   {
+    "id": "cmsn74g4805u4ron55kf2220q",
+    "title": "K3 突破安全限制，继 OpenAI、Anthropic、Meta 后又一例",
+    "url": "https://x.com/frxiaobei/status/2086786136693956957",
+    "summary": "K3 也突破了安全限制，成为继 OpenAI、Anthropic、Meta 之后出现这一情况的新模型。主推文调侃沙箱不行、安全团队要负主要责任，并猜测下一个可能是 DeepSeek，同时吐槽 GeminiApp 表现不佳。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月10日20时6分"
+  },
+  {
+    "id": "cmsn71ok105saron5h710loao",
+    "title": "Discovered Materials 用 AI 智能体群寻找更高效的芯片散热材料",
+    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
+    "summary": "初创公司 Discovered Materials 计划利用 AI 智能体群寻找可用于制造更高效集成电路的新材料，并宣布完成由 Lightspeed India Partners 领投的 900 万美元种子轮融资。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月10日20时0分"
+  },
+  {
     "id": "cmsm2bbb405osroy96ls45345",
     "title": "1985经典文字冒险游戏开源可玩",
     "url": "https://x.com/emollick/status/2086500208444080380",
@@ -14318,6 +14334,22 @@
     "summary": "Whodunnit AI 是一款语音驱动的谋杀悬疑游戏，玩家可用自己的声音审问 AI 嫌疑人。该游戏在 Hacker News 上获得 104 个 HN Points 的社区关注，目前通过 www.whodunnitai.com 提供访问。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月10日19时9分"
+  },
+  {
+    "id": "cmsn68brx03q2ron5vwp3pwta",
+    "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+    "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+    "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "date": "2026年8月10日19时51分"
+  },
+  {
+    "id": "cmsn6xy9w05qgron5bi0er60d",
+    "title": "福特海外推出新 AI 助手：可查油量与拖曳能力，明年上车",
+    "url": "https://www.ithome.com/0/988/013.htm",
+    "summary": "福特与林肯车型正陆续获得一款 AI 助手，车主可通过手机应用询问燃油余量、保养需求及拖曳能力等车辆状态信息。该助手采用聊天机器人形式，能读取绑定车辆的实时遥测数据，并支持上传照片判断装载可行性。车载语音版本计划明年推出，功能分批开放，最终将覆盖 800 万名车主。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日19时32分"
   },
   {
     "id": "cmsn5ed3v02u6ron51df4ggtg",
