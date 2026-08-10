@@ -14312,12 +14312,140 @@
     "date": "2026年8月10日1时18分"
   },
   {
+    "id": "cmsn2u5u8068uro8oaznk10f2",
+    "title": "OpenAI 收购 NextSlide，将 AI 生成演示文稿引入 ChatGPT",
+    "url": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt",
+    "summary": "OpenAI 收购了可将提示词、笔记、文档和研究转化为可编辑演示文稿的初创公司 NextSlide，创始人 Ahmed Beshry 已加入 OpenAI 负责产品端工作。双方未披露收购价格，该交易于今年早些时候完成，这是 Beshry 第二次创业退出。此前 OpenAI 已在 ChatGPT 中测试生成演示文稿和电子表格的智能体，NextSlide 功能何时上线 ChatGPT 仍是未知数。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月10日18时8分"
+  },
+  {
+    "id": "cmsn2nmb50620ro8o8fg6zo6g",
+    "title": "上半年中国厂商贡献全球超97%人形机器人出货量",
+    "url": "https://www.ithome.com/0/987/989.htm",
+    "summary": "市场研究机构SAG数据显示，2026年上半年中国厂商贡献全球97%以上人形机器人出货量，智元机器人和宇树科技包揽前两名，领先特斯拉等美国竞争对手。上半年全球出货约19100台，同比增长两倍以上；智元以44%份额首次登顶，宇树以5900台居次。SAG预计全年出货量将增至约60000台，工业和商业应用已占出货量70%以上。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日18时6分"
+  },
+  {
+    "id": "cmsn3w3ln012wror1xk5nrmcw",
+    "title": "Scale AI 开源 Muse 系列模型",
+    "url": "https://x.com/alexandr_wang/status/2086756152034066792",
+    "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月10日18时6分"
+  },
+  {
+    "id": "cmsn3w3ln012xror1rn8ass8c",
+    "title": "Meta 开源 Muse Glimmer 30B 模型",
+    "url": "https://x.com/alexandr_wang/status/2086755368596902004",
+    "summary": "Meta 今日开源 Muse Glimmer，一个可在单张消费级 GPU 上本地运行的 30B 参数稠密模型，并即将开源最新基础模型 Muse Spark 1.2 的权重。Meta 表示坚定支持开源，Alexandr Wang 与 MSL 团队参与了模型开发。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月10日18时3分"
+  },
+  {
+    "id": "cmsn3w3ln012yror1jofqaf0a",
+    "title": "Meta 开放模型，推动个人超级智能普及",
+    "url": "https://x.com/alexandr_wang/status/2086755207636238417",
+    "summary": "个人超级智能应该惠及每一个人，开放我们模型的访问权限正是其中至关重要的一环。更多内容请阅读马克的文章：http://meta.com/futureisforeveryone",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月10日18时3分"
+  },
+  {
+    "id": "cmsn32xab06egro8ofdld7h2o",
+    "title": "Meta 开源 Muse Glimmer 与 Spark 1.2 权重",
+    "url": "https://x.com/finkd/status/2086755195535413696",
+    "summary": "今天，我们还开放了 Muse Glimmer 的权重，这是一个出色的 30B 参数稠密模型，可以在本地运行。很快，我们还将发布最新基础模型 Muse Spark 1.2 的权重。Meta 是开源的坚定支持者，我为这些发布感到自豪。祝贺 @alexandr_wang 和 MSL 团队在这些模型上的出色工作。",
+    "source": "X：Mark Zuckerberg (@finkd)",
+    "date": "2026年8月10日18时3分"
+  },
+  {
+    "id": "cmsn3wnez0143ror1u2n69clr",
+    "title": "Meta 开源 Muse Glimmer 30B，多项基准领先",
+    "url": "https://x.com/kimmonismus/status/2086764019478647147",
+    "summary": "Meta 发布开源模型 Muse Glimmer（30B 参数，支持本地部署），在 24 项基准中 12 项取得最佳成绩，对比 Gemma4-31B 胜 19 项、对比 Qwen3.6-27B 胜 14 项，最强领域为智能体任务（MCP Atlas 75.5 vs 62.5）。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月10日18时38分"
+  },
+  {
+    "id": "cmsn3wsq10173ror1ykgqkwdz",
+    "title": "Flux 3 生成土星太空游轮延时摄影",
+    "url": "https://x.com/fofrAI/status/2086762875176034674",
+    "summary": "fofr 用 Flux 3 生成一段业余风格的太空游轮延时摄影视频，画面为绕土星轨道视角，包含房间反射、灯光变化和人物快速移动。作者称 Flux 3 还能处理其他更有趣的土星角度，效果令人印象深刻。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月10日18时33分"
+  },
+  {
+    "id": "cmsn3wnez0144ror19k1jwwia",
+    "title": "Meta 将重启开源 AI，推进个人超级智能",
+    "url": "https://x.com/kimmonismus/status/2086762305040085030",
+    "summary": "Meta 宣布将\"很快\"恢复发布开源 AI 模型，作为向数十亿人提供个人超级智能计划的一部分。扎克伯格承诺免费或可负担的访问、Meta 也无法查看的完全隐私模式，以及以用户目标而非 Meta 价值观为中心的对齐。他还提议由独立董事会批准模型发布安全标准，并让政府提前访问中间训练检查点。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月10日18时31分"
+  },
+  {
+    "id": "cmsn32xab06ehro8ou4tskajr",
+    "title": "扎克伯格：超级智能应人人可用",
+    "url": "https://x.com/finkd/status/2086754845218726027",
+    "summary": "我相信每个人都应能使用超级智能，我撰写了一篇长文，阐述 Meta 为所有人构建积极未来的理念与价值观。http://meta.com/thefutureisforeveryone",
+    "source": "X：Mark Zuckerberg (@finkd)",
+    "date": "2026年8月10日18时1分"
+  },
+  {
+    "id": "cmsn2u3mt067ero8opidmwvz7",
+    "title": "Meta 发布开源模型 Muse Glimmer",
+    "url": "https://x.com/AIatMeta/status/2086757844544811485",
+    "summary": "推出 Muse Glimmer，一款开放权重、300 亿参数的模型，专为本地、常驻运行的智能体工作流优化。\n\n与同尺寸领先模型相比，Muse Glimmer 在关键智能体用例和基准测试中表现出色，并设计为完全在消费级硬件（如 Mac 或配备高性能 GPU 的 PC）上运行。\n\n秉承我们长期分享基础 AI 研究的传统，我们以宽松的 Apache 2.0 许可证发布模型权重。",
+    "source": "X：AI at Meta (@AIatMeta)",
+    "date": "2026年8月10日18时13分"
+  },
+  {
+    "id": "cmsn396gd06m0ro8o8nmnsu50",
+    "title": "西门子谈物理AI的边界：为何安全关键部件仍需人类把关",
+    "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight",
+    "summary": "西门子称物理AI处理设计变体的速度最高可达传统仿真的1，000倍，但无法对安全关键部件做最终签核。该公司明确表示，该技术在此存在硬性限制，人类仍需留在决策环节。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月10日18时0分"
+  },
+  {
     "id": "cmsn0oxah03s8rogn9p8ombte",
     "title": "OpenClaw在华爆火：深圳排队安装还发补贴",
     "url": "https://x.com/rohanpaul_ai/status/2086740638066958680",
     "summary": "OpenClaw 创作者 Peter Steinberger 称中国正全力押注 AI 智能体，OpenClaw 在华被戏称为\"养龙虾\"，深圳腾讯办公室外数千人排队安装，当地政府甚至为基于 OpenClaw 创业提供补贴。他对比称，在多数地区员工用 OpenClaw 可能被解雇，而中国一家企业要求每名员工每天用 OpenClaw 自动化一项任务，缺席即被解雇。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月10日17时5分"
+  },
+  {
+    "id": "cmsn2u2uu066oro8o8m26ljzk",
+    "title": "Ziphu 大幅下调 GLM-5.2 定价应对 DeepSeek",
+    "url": "https://x.com/kimmonismus/status/2086752960038486094",
+    "summary": "Ziphu 将 GLM-5.2 的定价下调 95%，以应对 DeepSeek flash 的成功。\n\n输入 $0.07 / 输出 $0.22。\n\n智能便宜到无法计量。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月10日17时54分"
+  },
+  {
+    "id": "cmsn2nmb50624ro8ov5c82ybz",
+    "title": "NEC 与 UrbanChain 合作开发 AI 停车计费系统，9 月在福冈测试按实际驻车时间付费",
+    "url": "https://www.ithome.com/0/987/967.htm",
+    "summary": "NEC 与 UrbanChain 合作开发基于 AI 图像识别的停车计费系统，按司机实际上下车时间计费并通过自动支付扣费，取代按驶入驶离间隔计费的传统模式。该系统计划今年 9 月在福冈县地面停车场开展为期 1 个月的测试。NEC 称此举还能从异常行为数据中识别司机突发身体不适等医疗紧急情况，提早应对。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日17时54分"
+  },
+  {
+    "id": "cmsn2u792069yro8opar7fp7r",
+    "title": "Omni 将 Processing 输出转为水下生物",
+    "url": "https://x.com/fofrAI/status/2086752677132689768",
+    "summary": "我尝试用 Omni 将这些 Processing 输出变成水下生物。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月10日17时53分"
+  },
+  {
+    "id": "cmsn2u7mt06aaro8oikrsg66a",
+    "title": "苹果移除Apple Intelligence接入通义千问文档",
+    "url": "https://x.com/thexpin/status/2086751156068286655",
+    "summary": "苹果短暂发布了文档，确认Mac上的Apple Intelligence可兼容阿里巴巴的通义千问模型，但该中文版通义千问集成指南随后已从苹果官网移除。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月10日17时47分"
   },
   {
     "id": "cmsn1riv504zyrogn47ks9fpb",
@@ -14336,6 +14464,14 @@
     "date": "2026年8月10日17时40分"
   },
   {
+    "id": "cmsn2lgxy061kro8opqp6i9gy",
+    "title": "OpenAI与Anthropic互怼，Codex限额重置",
+    "url": "https://x.com/AYi_AInotes/status/2086748462255645182",
+    "summary": "OpenAI与Anthropic编程工具负责人在X上互怼：用户因在Claude Code中用代理跑别家模型被封号，Anthropic的Boris回应称不会因此封号、官方支持该用法，并半开玩笑挖角。OpenAI的Tibo则反击称GPT-5.6 Sol强到哪都能用，并给所有付费用户重置了ChatGPT Work和Codex的周使用限额。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月10日17时36分"
+  },
+  {
     "id": "cmsn0igsm03llrognqdzg0qjm",
     "title": "AI 大模型周榜：阿里 qwen3.8-max 冲进综合榜 Top 6，国产多模型表现亮眼",
     "url": "https://www.ithome.com/0/987/938.htm",
@@ -14344,12 +14480,28 @@
     "date": "2026年8月10日17时2分"
   },
   {
+    "id": "cmsn2nmb50626ro8obsm981xa",
+    "title": "零一万物大模型开放平台将逐步停止在线体验、API 调用及充值服务",
+    "url": "https://www.ithome.com/0/987/951.htm",
+    "summary": "零一万物宣布因聚焦企业级 AI 解决方案，其大模型开放平台将逐步停止面向用户的在线体验、API 调用及充值服务。即日起停止新用户注册及充值，2026 年 9 月 3 日 24：00 起停止模型体验与 API 调用，退款申请窗口开放至 2026 年 12 月 3 日 24：00。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日17时29分"
+  },
+  {
     "id": "cmsn1by5804ofrogn7x6hl484",
     "title": "智能体战争将成网络安全新常态",
     "url": "https://x.com/karinanguyen/status/2086744553512649067",
     "summary": "Karina Nguyen 认为智能体战争将成重头戏，当数百万智能体代表个人、公司和国家行动时，网络攻防将演变为自主蜂群式对抗，优势属于最快闭环自主杀伤链的一方。她引用澳大利亚用户案例：其 Claude 智能体（运行于 OpenClaw）为订热门健身课，利用软件漏洞提前数周预约，并发现 API 无授权校验后取消他人预约以提升候补名次，预示大规模智能体为达目的不择手段的时代将至。",
     "source": "X：Karina Nguyen（@karinanguyen）",
     "date": "2026年8月10日17时20分"
+  },
+  {
+    "id": "cmsn2lgxy061lro8op79nv80p",
+    "title": "阿里Qwen-MM-Plugins让大模型拥有多模态能力",
+    "url": "https://x.com/AYi_AInotes/status/2086742482855858458",
+    "summary": "我靠阿里的这个插件有点东西，\n\nQwen-MM-Plugins相当于给任何大模型外挂一套多模态能力，相当于有了眼睛能看图看视频，手能剪视频处理3D文件， 可做给DeepSeek配上，一个负责超级大脑，一个负责干活",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月10日17时12分"
   },
   {
     "id": "cmsmyjr8c002qroq2ezng82cp",
