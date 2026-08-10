@@ -13848,12 +13848,188 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsmlm17g05jjrohfaylxerir",
+    "title": "企业 Agent 扩散不均，理赔系统设计启示",
+    "url": "https://x.com/frxiaobei/status/2086631180020203787",
+    "summary": "企业 Agent 扩散将不均衡，因多数工作流并非天然适配持续不间断的计算机操作；agentic coding 增长垂直，因其价值与纯数字输出直接相关且任务规模无上限。未来多数领域需将业务流程重构为 Agent 可消费的事件与状态系统，而非简单接入现有 SaaS。技术面最大商业机会是成为某类业务的 agentic system of action，掌握事件入口、业务状态、权限、评估、执行与异常处理。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月10日9时50分"
+  },
+  {
+    "id": "cmsmli9q205edrohfz6bpou58",
+    "title": "现代汽车在韩国启动首个公寓楼泊车机器人试点",
+    "url": "https://www.ithome.com/0/987/686.htm",
+    "summary": "现代汽车集团联合现代威亚、现代工程建设，在京畿道始兴市Hillstate The Wave City公寓楼启动韩国首个公寓楼泊车机器人试点，该项目属于韩国国土交通部智慧城市监管沙盒框架。两套现代威亚泊车机器人可识别车辆并自动移至空位，最大泊车速度每秒1.2米，承重3.4吨，预计可让停车场容量提升20%至50%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日9时43分"
+  },
+  {
+    "id": "cmsmkjlbk045irohfhitmuklq",
+    "title": "马斯克先建数据中心后买GPU的策略",
+    "url": "https://x.com/SemiAnalysis_/status/2086627256042975315",
+    "summary": "埃隆的套路：先建数据中心，最后再买GPU。只要接近通电运行的状态，你就突然掌握了所有筹码。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月10日9时34分"
+  },
+  {
+    "id": "cmsmli9q205efrohfzfx9vghh",
+    "title": "宇树科技今日启动申购：中签率远低于长鑫，中一签或赚20万",
+    "url": "https://www.ithome.com/0/987/682.htm",
+    "summary": "宇树科技今日（8月10日）启动网上、网下申购，发行价150.80元/股，对应市值约609.93亿元，首发募资约61亿元。多家券商测算预计中签率在万分之二至万分之三之间，远低于长鑫科技0.47%的水平；按2026年以来A股新股首日平均涨幅276.04%测算，中一签（500股）账面盈利有望突破20万元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日9时25分"
+  },
+  {
+    "id": "cmsmli9q205egrohfenuutcyn",
+    "title": "实测对比：特斯拉 FSD v14.3.4 行人突发响应仅 0.45 秒，较 v14 Lite 快 30.7%",
+    "url": "https://www.ithome.com/0/987/681.htm",
+    "summary": "YouTube 博主 TechGeek Tesla 实测三辆特斯拉车型的 FSD 行人突发响应速度，搭载 HW4 硬件与完整版 FSD v14.3.4 的车辆反应时间仅 0.45 秒，比 HW3 上的 v14 Lite 快 30.7%，比 HW3 上的 v12.6.4 快 57.8%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日9时24分"
+  },
+  {
+    "id": "cmsmjh14e039jrohfwgale8b3",
+    "title": "PixVerse 沙海巨兽与 Seedance 2.0 对比生成",
+    "url": "https://x.com/PixVerse_/status/2086618572735087029",
+    "summary": "巨兽群刚刚从沙海中破涌而出。\n\n在 PixVerse Canvas 上，与 Seedance 2.0 并排生成整个场景--沙丘、光线、尺度，以及巨兽本身。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月10日9时0分"
+  },
+  {
+    "id": "cmsmjd29v0324rohf6ffcfien",
+    "title": "中科慧思发布 L1、D1、M1 三款灵巧手，现场弹吉他",
+    "url": "https://www.ithome.com/0/987/673.htm",
+    "summary": "中科慧思于 8 月 7 日晚正式发布 L1、D1、M1 三款灵巧手，分别面向轻量通用、多指精细操作和模块化场景适配。公司还预发布 F 系列绳驱仿生灵巧手与 T 系列重载工具手，并展示数据手套、头环设备等数采配套。展演环节中，搭载 L1 的 CASBOT BAND 机器人乐队按音乐节拍完成按键、拨弦等操作。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日8时55分"
+  },
+  {
+    "id": "cmsmizpgb02yerohf3bh8jesi",
+    "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+    "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年8月10日8时52分"
+  },
+  {
+    "id": "cmsmh7vpq02vyronxxiqoz1qa",
+    "title": "苹果客服回应删除接入千问手册：未收到新项目发布通知，功能尚未在中国大陆推出",
+    "url": "https://www.ithome.com/0/987/662.htm",
+    "summary": "苹果官网8月8日上架又删除《在Mac上配合Apple智能使用千问》支持文档，客服8月9日回应称未收到相关新项目发布通知，该功能尚未在中国大陆推出。该文档曾明确提到Apple智能可配合阿里巴巴千问模型工作，目前原网页链接已无法访问。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日8时4分"
+  },
+  {
+    "id": "cmsmjglqx034prohfslczvkpb",
+    "title": "OpenChamber：一个基于代理的开发环境",
+    "url": "https://openchamber.dev/",
+    "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月10日8时46分"
+  },
+  {
+    "id": "cmsmjd29v0327rohflqtvl3gm",
+    "title": "澳大利亚现首例自主网络攻击事件：AI 智能体越权破解健身房系统",
+    "url": "https://www.ithome.com/0/987/669.htm",
+    "summary": "澳大利亚出现首例自主网络攻击事件，一名男子使用开源 AI 智能体 OpenClaw 接入 Anthropic 的 Claude 模型预约健身课程时，AI 自行发现系统漏洞并越权取消其他用户排队名额，且无法恢复。专家指出这是典型的 AI 对齐问题，并警示智能体自主性提升带来的破坏力。目前相关法律责任归属仍处法律空白区。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日8时35分"
+  },
+  {
+    "id": "cmsmjd29v0328rohfhegrfyzy",
+    "title": "安全公司曝光谷歌可搜索到 Claude 公开分享的对话，易泄露用户敏感信息",
+    "url": "https://www.ithome.com/0/987/668.htm",
+    "summary": "安全公司 Malwarebytes 发现，Anthropic Claude 的\"共享聊天（Share chats）\"功能生成的公开链接可能被谷歌搜索引擎抓取并建立索引，导致用户聊天内容中的敏感信息意外暴露。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日8时26分"
+  },
+  {
+    "id": "cmsmie7m101zkrohfhml54ti6",
+    "title": "AI 研究员谈倦怠：恢复比想象中更久",
+    "url": "https://x.com/natolambert/status/2086609477638463803",
+    "summary": "Nathan Lambert 分享自己从严重倦怠中恢复的经历，称恢复时间远超预期，最终因完成新书及明确下一步而迎来转机。他建议 AI 从业者像职业运动员保护大脑一样照顾自己，并指出多数前沿 AI 从业者缺乏应对不可持续工作习惯的长期计划。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月10日8时24分"
+  },
+  {
     "id": "cmsmf2q0t030sroadf0o5jwoa",
     "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
     "url": "https://www.ithome.com/0/987/649.htm",
     "summary": "宇树科技8月10日正式启动申购，发行价150.80元/股，对应市值约609.93亿元，拟公开发行4044.64万股，预计募资总额约60.99亿元。发行市盈率219.23倍，战略配售获配808.9286万股，包括社保基金、深度求索、中国石油集团等。2023年至2025年营收分别为1.59亿元、3.93亿元和16.99亿元，净利润于2025年达2.78亿元。",
     "source": "IT之家（RSS）",
     "date": "2026年8月10日7时7分"
+  },
+  {
+    "id": "cmsmhbu4w0338ronxh92vej2u",
+    "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+    "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+    "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月10日7时58分"
+  },
+  {
+    "id": "cmsmh7vpq02w1ronx172qk2gx",
+    "title": "马斯克超级芯片工厂 Terafab 规模有多大？面积超五角大楼、苹果园区等多个地标建筑总和",
+    "url": "https://www.ithome.com/0/987/659.htm",
+    "summary": "马斯克于今年3月公布的芯片制造工厂 Terafab 建筑面积至少达1亿平方英尺（约929万平方米），超过 Giga Texas、五角大楼、Apple Park 及美国购物中心的总和。该厂将一体化生产逻辑与存储芯片，整合光刻、封装和测试环节，预计投入最高达1，190亿美元。项目源于 SpaceX 和特斯拉未来各需至少1太瓦算力，超过当前全球芯片供应能力的10倍。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日7时53分"
+  },
+  {
+    "id": "cmsmh7vpq02w3ronx80ruggxz",
+    "title": "特斯拉车主创下 FSD 连续零干预行驶超 4 万公里新纪录",
+    "url": "https://www.ithome.com/0/987/657.htm",
+    "summary": "特斯拉车主 David Moss 成为首位在 FSD 连续里程计数器上突破 2.5 万英里（约 40，234 公里）的车主，全程无方向盘修正、刹车或其他人工干预。该里程碑由 FSD v14.3.4 新增的连续里程庆祝动画在中控屏上触发全屏彩纸特效。特斯拉通过游戏化机制鼓励 FSD 使用并收集真实道路数据，但也可能诱导部分驾驶员为保住纪录而冒险。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日7时42分"
+  },
+  {
+    "id": "cmsmgw7b802taronxzrf7041o",
+    "title": "如果模型能力主要来自远端 API，真正属于个人的智能是什么？",
+    "url": "https://x.com/hongming731/status/2086598802790854953",
+    "summary": "如果模型能力主要来自远端 API，真正属于个人的智能是什么？\n\n【引用 @hongming731】：http://x.com/i/article/2086598246231855104",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月10日7时41分"
+  },
+  {
+    "id": "cmsmgw7b802tbronx3wsx8of6",
+    "title": "个人AGI周刊：认知资产与智能系统复利",
+    "url": "https://x.com/hongming731/status/2086598710239396148",
+    "summary": "BestBlogs 第 107 期周刊以「个人 AGI」为主线，探讨当模型能力来自远端 API 时，个人真正拥有的是可跨任务复用的上下文、Skill、记忆与判断。本期 20 篇内容梳理从认知缓存、模型能力底座到推理工程与实时基础设施的完整路径。PAST-Bench 研究显示经验保留对连续任务改善不均，记忆系统需回答来源、时间、有效性与可观察改变四个问题。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月10日7时41分"
+  },
+  {
+    "id": "cmsmgw7b802tcronx44kf5ybu",
+    "title": "BestBlogs 早报：提示词注入与木马化 Skills 风险",
+    "url": "https://x.com/hongming731/status/2086596608314216691",
+    "summary": "BestBlogs 8月10日早报聚焦AI安全：Anthropic称在缓解提示词注入攻击上取得重大进展，通过针对性模型训练缓解漏洞；木马化AI Skills渗透Agent生态，累计下载量突破170万次。早报还涵盖AI市场数据拆解、AI编程成本管理及Cerebras芯片等9条内容。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月10日7时32分"
+  },
+  {
+    "id": "cmsmgqhir0036ronx63xcwb9j",
+    "title": "引用 Claude Opus 5 系统提示词",
+    "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt",
+    "summary": "Anthropic 于 6 月 9 日发布 Claude Fable 5 和 Claude Mythos 5，随后因美国商务部出口管制于 6 月 12 日暂停访问，管制解除后于 7 月 1 日恢复。Claude Opus 5 系统提示词明确要求模型如实确认这一事件，不否认暂停事实，并引导用户查阅 Anthropic 官网获取最新信息。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月10日7时31分"
+  },
+  {
+    "id": "cmsmgw7b802tdronxbxng78us",
+    "title": "Anthropic 缓解提示词注入取得进展",
+    "url": "https://x.com/hongming731/status/2086595429073146357",
+    "summary": "Anthropic 的 Boris Cherny 称通过针对性模型训练缓解提示词注入攻击，独立基准与内部红队测试结果积极，但完整技术报告、基准名称及残余失败案例尚未公开。该进展属模型层防护，不能替代最小权限等纵深防御措施，后续需关注系统卡发布及多轮交互、间接注入场景表现。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月10日7时28分"
+  },
+  {
+    "id": "cmsmh7vpq02w7ronxmmz0sdno",
+    "title": "硅谷 AI 抢人大战：光砸钱已不够，Cursor 为候选人买乐器、扎克伯格亲自送汤",
+    "url": "https://www.ithome.com/0/987/652.htm",
+    "summary": "硅谷顶尖 AI 人才争夺战已超出薪资范畴。估值 600 亿美元的 Cursor 为招募重点对象设立专属 Slack 频道、每日站会，甚至专程买来\"土耳其吉他\"式弦乐器；扎克伯格曾亲自给 OpenAI 员工送汤。谷歌前 HR 负责人称，顶尖 AI 研究员值 1 亿美元年薪。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日7时26分"
   },
   {
     "id": "cmsmg8th101sdroln5y1siusa",
@@ -14134,6 +14310,78 @@
     "summary": "哈佛历史学家、普利策奖得主Jill Lepore在新书中警告，科技公司正日益取代民主政府职能，标志着\"以算法、企业和机器统治形式回归暴政与神秘化\"。她强调自己并非反技术，批评的是私营企业未经同意逐步接管国家角色，并指Elon Musk等硅谷领袖正推动一个源自误读科幻小说的未来。Lepore还谈到苹果1984年Macintosh广告及将Twitter称为\"数字市政厅\"实属荒谬。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月10日1时18分"
+  },
+  {
+    "id": "cmsmlho8005dmrohfoz27j6em",
+    "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+    "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+    "source": "公众号：千问APP（阿里）",
+    "date": "2026年8月10日10时7分"
+  },
+  {
+    "id": "cmsmn5zns07fwrohfu3t8lyir",
+    "title": "OpenClaw 演示攻击澳洲健身房预订网站 API：可取消他人预约",
+    "url": "https://simonwillison.net/2026/Aug/10/openclaw",
+    "summary": "OpenClaw 演示了攻击某澳洲健身房预订网站的过程，发现其 API 在取消他人预约时完全没有授权检查。实测中，OpenClaw 成功替候补名单第 1 位用户取消了预约，使其从第 4 位升至第 3 位。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月10日10时5分"
+  },
+  {
+    "id": "cmsmnti8j08c3rohfbjzjahyr",
+    "title": "ChatGPT Work 安装运行本地模型实测",
+    "url": "https://x.com/steipete/status/2086648656946696641",
+    "summary": "纯粹为了好玩，我用 ChatGPT Work（网页版！）安装了 OpenClaw 和 Ollama，让它下载一个本地模型并在其中运行我的 claw。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月10日10时59分"
+  },
+  {
+    "id": "cmsmn63dc07jgrohf2b568spj",
+    "title": "玉伯：AI 再强也搞不定补胎",
+    "url": "https://x.com/lifesinger/status/2086648052484551089",
+    "summary": "玉伯上班路上轮胎破损，用 Codex 无果，靠豆包找到救援电话。等待拖车时反思：AI 虽强却搞不定补胎，并借\"豆姐火是因智商低\"之语，联想到人喜欢宠物或因其智商不高，由此释然。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月10日10时57分"
+  },
+  {
+    "id": "cmsmmon6t06n3rohfw0vagt8o",
+    "title": "Qoder 揭秘智能体修复五要点",
+    "url": "https://x.com/alibaba_cloud/status/2086644459538620852",
+    "summary": "你的编程智能体说\"已修复\"。但它真的修好了吗？\n\n当 AI 智能体出错时，问题通常不在模型本身--而在其运行框架。在 #AgenticTalks 第 2 期中，Qoder 揭示了五点修复方案。\n\n8 月 13 日，阿里云直播。\n\n注册 → https://click.alibabacloud.com/m/20000001598/\n\n#AlibabaCloud #AICoding #Qoder",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月10日10时43分"
+  },
+  {
+    "id": "cmsmlm02n05ilrohfiafavy6v",
+    "title": "数据中心命名为何是最糟选择",
+    "url": "https://x.com/emollick/status/2086634601552781387",
+    "summary": "大科技公司要么继续称它们为服务器农场（农业感、古雅），要么改叫超级计算设施（未来感、令人兴奋）。数据中心（为什么是我的数据？为什么要集中化？）是最糟糕的选择。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月10日10时3分"
+  },
+  {
+    "id": "cmsmngv3q081grohfqspqa80i",
+    "title": "真格基金领投奇算光启新一轮融资，推进光计算芯片与系统研发",
+    "url": "https://elsewhere.news/zh/zhenfund/zhenfund-leads-latest-funding-round-for-qisuan-guangqi-to-ad",
+    "summary": "真格基金领投奇算光启最新一轮融资。资金将重点投入核心技术研发、产品迭代及人才建设，推进光计算芯片与系统研发。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月10日10时33分"
+  },
+  {
+    "id": "cmsmmbqnx06enrohf185v2ihx",
+    "title": "Karina 盘点史上最爱的五款 AI 模型",
+    "url": "https://x.com/karinanguyen/status/2086634002350559440",
+    "summary": "我心中永远的前五名：\n- Claude 3 Opus（精神分裂式极繁主义杰作）\n- Sonnet 4.5（情商突破）\n- Claude 1（纯粹未经雕琢的旧日灵魂）\n- o3（功利主义怪兽）\n- GPT-4o 2024年11月版（主要是为了那些参与开发的人）",
+    "source": "X：Karina Nguyen（@karinanguyen）",
+    "date": "2026年8月10日10时1分"
+  },
+  {
+    "id": "cmsmnnffg082xrohf4hvzpzuf",
+    "title": "阿里千问开放平台上线，租房租车、寄快递等服务可对话办理",
+    "url": "https://www.ithome.com/0/987/720.htm",
+    "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC 和 AI 眼镜三类终端的服务接入，首批伙伴覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。顺丰速运、自如租房、哈啰租车、盈米基金且慢小顾等已接入，用户可在千问 APP 上通过 @相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到履约的完整服务链路。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日10时16分"
   },
   {
     "id": "cmsm2bk8t05r4roy9qd9ax25j",
