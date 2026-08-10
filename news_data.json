@@ -14312,6 +14312,62 @@
     "date": "2026年8月10日1时18分"
   },
   {
+    "id": "cmsn4wg7k02bfron5sdy0t32l",
+    "title": "Show HN：语音驱动的谋杀悬疑游戏 Whodunnit AI，用你的声音审问 AI 嫌疑人",
+    "url": "https://www.whodunnitai.com/",
+    "summary": "Whodunnit AI 是一款语音驱动的谋杀悬疑游戏，玩家可用自己的声音审问 AI 嫌疑人。该游戏在 Hacker News 上获得 104 个 HN Points 的社区关注，目前通过 www.whodunnitai.com 提供访问。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月10日19时9分"
+  },
+  {
+    "id": "cmsn5ed3v02u6ron51df4ggtg",
+    "title": "Meta Muse Glimmer 将本地 AI 智能体带到消费级 GPU",
+    "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus",
+    "summary": "Meta 以 Apache 2.0 许可发布 Muse Glimmer，支持在消费级 GPU 上运行本地 AI 智能体。Superintelligence Labs 已在 Hugging Face 上放出该 300 亿参数模型的权重。开发者可将其用于本地编码、函数调用、本地智能体及 LLM-as-a-judge 评估。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月10日19时2分"
+  },
+  {
+    "id": "cmsn5z28a03imron5vbxrkdt7",
+    "title": "Meta Muse Glimmer：开放权重 30B 本地编码模型",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "summary": "Meta 发布 Muse Glimmer，一款开放权重的 30B 参数本地编码模型。该模型面向本地部署场景，相关研究细节已在 research.meta.ai 公布。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月10日19时25分"
+  },
+  {
+    "id": "cmsn61w0n03maron5qw27pw18",
+    "title": "扎克伯格发文：超级智能应惠及所有人",
+    "url": "https://x.com/rohanpaul_ai/status/2086775315888849096",
+    "summary": "扎克伯格发布长文阐述 Meta 的 AI 愿景，主张超级智能应惠及所有人。他警告任何延缓美国模型发布的政策（哪怕仅一个月）都可能危及美国领导地位，并提议前沿 AI 实验室向政府共享中间训练检查点以供审查。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月10日19时23分"
+  },
+  {
+    "id": "cmsn4zhca02i3ron526fo4r7w",
+    "title": "Meta 发布开源 30B 模型 Muse Glimmer",
+    "url": "https://x.com/testingcatalog/status/2086773492733685789",
+    "summary": "Meta 发布开源权重模型 Muse Glimmer，为 30B 参数规模，采用 Apache 2.0 许可证，可在 24GB 显存上运行且不损失智能体可靠性。该模型在多项基准测试中超越 Gemma 4 31B 和 Qwen 3.6 27B，量化后体积可压缩至 20GB 以下。Meta 同时宣布将很快开源 Muse Spark 1.2。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月10日19时15分"
+  },
+  {
+    "id": "cmsn4z8uq02d9ron5uavyoegh",
+    "title": "Meta 回归开源，Spark 1.2 权重将发布",
+    "url": "https://x.com/kimmonismus/status/2086772712421134415",
+    "summary": "Meta 回归开源，其 30B 参数模型 Muse Glimmer 在 24 项基准中 12 项取得最佳成绩，并在 19 项上超越 Gemma4-31B、14 项超越 Qwen3.6-27B。该模型主打智能体能力，4-bit 量化版仅约 17GB，性能损失约 1%。权重将以 Apache 2.0 协议完全开放，Spark 1.2 权重也将很快发布。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月10日19时12分"
+  },
+  {
+    "id": "cmsn4zb0i02enron5dosldyf2",
+    "title": "Meta 发布 Muse Glimmer：30B 本地智能体模型",
+    "url": "https://x.com/rohanpaul_ai/status/2086769766937837777",
+    "summary": "Meta Superintelligence Labs 发布 Muse Glimmer，一款 30B 参数、专为单消费级 GPU 上的常驻本地智能体设计的模型，权重以 Apache 2.0 协议开源。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月10日19时0分"
+  },
+  {
     "id": "cmsn2u5u8068uro8oaznk10f2",
     "title": "OpenAI 收购 NextSlide，将 AI 生成演示文稿引入 ChatGPT",
     "url": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt",
@@ -14334,6 +14390,38 @@
     "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
     "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
     "date": "2026年8月10日18时6分"
+  },
+  {
+    "id": "cmsn4c69701x9ron5wn1hfxxw",
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "summary": null,
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年8月10日18时5分"
+  },
+  {
+    "id": "cmsn4stfo0287ron58y0mneds",
+    "title": "Meta 开源 30B 模型 Muse Glimmer，4bit 量化可在 24GB 显存 GPU 本地运行",
+    "url": "https://www.ithome.com/0/988/007.htm",
+    "summary": "Meta 今日发布 300 亿参数模型 Muse Glimmer，并在 Apache 2.0 许可下开源权重。该模型专为全天候常驻的本地智能体工作流优化，应用 4bit 量化后可在 24GB/32GB 显存的 Mac 或 PC 上运行，实测性能几乎无衰减。在 MacBook M4 Max、M5 Max 及 RTX 5090 上，其速度可胜任流畅对话与实时智能体交互，所有计算均在本地完成。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日18时52分"
+  },
+  {
+    "id": "cmsn4zf8s02h1ron58cdq6k6a",
+    "title": "摩尔线程赴港上市，上半年营收增147%",
+    "url": "https://x.com/thexpin/status/2086767514038530139",
+    "summary": "国产AI芯片厂商摩尔线程计划赴港上市，其董事会已批准发行H股，以筹集资金支持全球扩张并满足国内算力需求。该公司上半年营收达17亿元人民币（约2.38亿美元），同比增长147%；净亏损从去年同期的2.71亿元大幅收窄至1160万元。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月10日18时52分"
+  },
+  {
+    "id": "cmsn4stfo0288ron5koaheadv",
+    "title": "微软 PowerToys 更新 0.101.2211 预览版，可运行 Phi Silica 端侧模型",
+    "url": "https://www.ithome.com/0/988/001.htm",
+    "summary": "微软 PowerToys 更新 0.101.2211.0 预览版，为高级粘贴加入端侧模型 Phi Silica，用户可本地免费运行，无需支付第三方 API 费用或配置 Ollama、Microsoft Foundry。本次更新还新增 AI 模型选择器与更多自定义设置，修复命令面板错误并提升性能，同时将无界鼠标从 WinForms 迁移至 WinUI。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日18时50分"
   },
   {
     "id": "cmsn3w3ln012xror1rn8ass8c",
@@ -14384,6 +14472,14 @@
     "date": "2026年8月10日18时31分"
   },
   {
+    "id": "cmsn46q0t012iron5acei7l1a",
+    "title": "Meta 携 Llama 强势回归，CEO 点赞",
+    "url": "https://x.com/ClementDelangue/status/2086760700014203090",
+    "summary": "Meta 回来了！干得漂亮 @finkd @alexandr_wang！",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月10日18时24分"
+  },
+  {
     "id": "cmsn32xab06ehro8ou4tskajr",
     "title": "扎克伯格：超级智能应人人可用",
     "url": "https://x.com/finkd/status/2086754845218726027",
@@ -14398,6 +14494,14 @@
     "summary": "推出 Muse Glimmer，一款开放权重、300 亿参数的模型，专为本地、常驻运行的智能体工作流优化。\n\n与同尺寸领先模型相比，Muse Glimmer 在关键智能体用例和基准测试中表现出色，并设计为完全在消费级硬件（如 Mac 或配备高性能 GPU 的 PC）上运行。\n\n秉承我们长期分享基础 AI 研究的传统，我们以宽松的 Apache 2.0 许可证发布模型权重。",
     "source": "X：AI at Meta (@AIatMeta)",
     "date": "2026年8月10日18时13分"
+  },
+  {
+    "id": "cmsn4stfo028bron5s55folrw",
+    "title": "理想汽车：第二代理想 AI 眼镜 Livis 预计明年下半年到来，正与蔡司评估镜片内显示方案",
+    "url": "https://www.ithome.com/0/987/994.htm",
+    "summary": "理想汽车今日发布理想 AI 眼镜 Livis 答网友问，透露第二代产品预计明年下半年到来，正与蔡司深度评估镜片内显示技术方案，以平衡重量与性能。鸿蒙原生适配版本开发中，HarmonyOS 5.0 及以上用户现可下载理想同学 Android 版 App 安装。全新理想 L9、L8、L6 已支持 AI 眼镜指挥泊车，8 月中下旬将开放给更多车型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月10日18时12分"
   },
   {
     "id": "cmsn396gd06m0ro8o8nmnsu50",
