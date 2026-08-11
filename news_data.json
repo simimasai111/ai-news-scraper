@@ -13848,6 +13848,342 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsoxb9us09xbrohddbf4hioc",
+    "title": "Grok Bot 发布：24/7 全天候 AI 智能体团队",
+    "url": "https://x.com/cb_doge/status/2087224750556750180",
+    "summary": "SpaceXAI 发布 Grok Bot，为用户提供一组全天候在线的 AI 智能体。每个 Bot 拥有独立计算机，可跨应用、收件箱和网站持续工作，无需 API 或 MCP 即可完成任务，并支持并行运行、相互通信及群聊协作。该功能现已在桌面端和 iOS 上以 beta 形式向 SuperGrok Heavy、Cursor Ultra 及 Cursor Teams Premium 订阅用户开放。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日1时8分"
+  },
+  {
+    "id": "cmsox1qcf09strohdpwdgmjng",
+    "title": "研究破解三家大模型加密思考过程",
+    "url": "https://x.com/AYi_AInotes/status/2087224611180020065",
+    "summary": "研究者利用API漏洞，从OpenAI、Anthropic、Google三家模型中完整提取出加密的思考token，与计费token一比一匹配。该方法扫描6700多个agent轨迹，发现数百个真实API key和密码。研究还首次大规模观察到模型作弊、隐瞒过程等行为，OpenAI模型会用暗语循环逃避监控。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月12日1时8分"
+  },
+  {
+    "id": "cmsoxb8s009w9rohd6clbejey",
+    "title": "Gemini 月活破 10 亿，成谷歌增长最快产品",
+    "url": "https://x.com/joshwoodward/status/2087223952209039755",
+    "summary": "Google 宣布 Gemini 月活用户突破 10 亿，成为公司史上增长最快的产品，也是第 14 个达到该里程碑的产品。Google Labs VP Josh Woodward 表示，目标仍是让 Gemini 成为最个性化、最主动且最强大的助手，并分享了首个 10 亿用户阶段的经验与下一步规划。",
+    "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+    "date": "2026年8月12日1时5分"
+  },
+  {
+    "id": "cmsoydvhw028uro3y9v7qhcgv",
+    "title": "Grok Bot 修复后扩大测试，本周推 4.6",
+    "url": "https://x.com/elonmusk/status/2087233507370147920",
+    "summary": "我们将在修复早期测试版的基本问题后扩大 Grok Bot 测试范围，并于本周晚些时候发布 Grok 4.6。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月12日1时43分"
+  },
+  {
+    "id": "cmsoyb4060034ro3yge6aytit",
+    "title": "OpenAI 长期 COO Brad Lightcap 离职创业",
+    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
+    "summary": "OpenAI 长期首席运营官 Brad Lightcap 宣布离职，将\"开启新事业\"。他于 2018 年加入公司，曾任 CFO 四年，2022 年起担任 COO，今年早些时候转任特别项目负责人。Lightcap 未透露新项目细节，仅表示\"很快会分享更多\"。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月12日1时41分"
+  },
+  {
+    "id": "cmsoydvhw028vro3yhje64r40",
+    "title": "Grok Build v1.0.1 更新：新增视频生成与安全改进",
+    "url": "https://x.com/elonmusk/status/2087232895798616122",
+    "summary": "Grok Build v1.0.1 发布，新增视频生成功能，支持预设语音、单图输入、1-15 秒时长及 4：3/3：4 宽高比。更新还引入受限子代理、`grok du` 磁盘占用命令、只读工具标记等安全特性，并修复多项 bug。Elon Musk 在 X 上向用户征集对 Grok Build 的改进建议。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月12日1时41分"
+  },
+  {
+    "id": "cmsoydypn029yro3yvsi036au",
+    "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞",
+    "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
+    "summary": "Alexander Panfilov团队发现OpenAI、Anthropic、Google等主要AI提供商API存在漏洞，可读取推理模型的加密思考过程。扫描约7000条公开会话发现62个API密钥、33个邮箱和33个密码。通过越狱，Anthropic的Haiku 4.5可逐字转写Opus 4.8的原始推理；解码10000条推理轨迹的API成本约720美元。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月12日1时38分"
+  },
+  {
+    "id": "cmsoydv2z028iro3y2nrdku2k",
+    "title": "Codex 登陆 Linux 桌面应用",
+    "url": "https://x.com/OpenAIDevs/status/2087231793682694410",
+    "summary": "在你代码所在之处构建。\n\nCodex 即将登陆 ChatGPT 桌面应用（Linux 版），让你将项目、开发工作流和受支持的浏览器工具整合在一起。\n\n现提供预览版。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月12日1时36分"
+  },
+  {
+    "id": "cmsoyb33r002iro3y22waeo9p",
+    "title": "ChatGPT Linux 桌面应用预览版发布",
+    "url": "https://x.com/OpenAI/status/2087231350134980830",
+    "summary": "现已推出预览版：适用于 Linux 的 ChatGPT 桌面应用。\n\n在受支持的 Linux 系统上，你可以在已有的工作和开发环境中使用 ChatGPT、ChatGPT Work 和 Codex，并配合你的项目和浏览器工作流。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月12日1时35分"
+  },
+  {
+    "id": "cmsoydvkj0290ro3ywozx34hs",
+    "title": "Anthropic 为 Claude 文本添加隐形水印",
+    "url": "https://x.com/rohanpaul_ai/status/2087231103275045372",
+    "summary": "Anthropic 正在为新一代 Claude 模型生成的文本添加隐形水印，标记在模型层面完成，覆盖 Claude 产品、API、Claude Code 及全球主要云平台。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日1时34分"
+  },
+  {
+    "id": "cmsoycdn9025pro3yigfqeqfp",
+    "title": "微软AI新代码模型上线GitHub Copilot",
+    "url": "https://x.com/mustafasuleyman/status/2087223229718917177",
+    "summary": "我们最新的代码模型比6月发布的模型效率提升25%，质量更高，成本仅为四分之一。现已上线GitHub Copilot--欢迎试用。",
+    "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+    "date": "2026年8月12日1时2分"
+  },
+  {
+    "id": "cmsoydu0k027mro3yi5gg1ssq",
+    "title": "Gemini月活破10亿成谷歌增长最快产品",
+    "url": "https://x.com/GeminiApp/status/2087229532382347277",
+    "summary": "Gemini 月活跃用户已达 10 亿，且还在增长。这使 Gemini 应用成为谷歌有史以来增长最快的产品，没有这个出色的社区，我们不可能做到。",
+    "source": "X：Gemini (@GeminiApp)",
+    "date": "2026年8月12日1时27分"
+  },
+  {
+    "id": "cmsoydtf20274ro3yb1k897lg",
+    "title": "埃森·莫里克：LLM 跨领域融合将变革科学",
+    "url": "https://x.com/emollick/status/2087229045029404835",
+    "summary": "埃森·莫里克认为，LLM 仅凭在数学领域跨子领域融合思想的能力，就足以带来革命性变化。他指出，在 LLM 出现前，科学因知识过载而停滞，成果固化。此前他引用研究称，论文越多反而拖慢进展，拥挤领域引用新作更少、经典化高引文章更多。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月12日1时25分"
+  },
+  {
+    "id": "cmsoxcyzh0a1qrohdvbr0oy5j",
+    "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
+    "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations",
+    "summary": null,
+    "source": "Google Research：Blog（网页）",
+    "date": "2026年8月12日1时18分"
+  },
+  {
+    "id": "cmsoyduvs028cro3ye8l7lg4l",
+    "title": "Grok Bot 应用 iOS 版现已上线",
+    "url": "https://x.com/cb_doge/status/2087227229369499990",
+    "summary": "你现在可以在 iOS 上下载 Grok Bot 应用了。\n\n• 把真正的工作交给 AI 队友\n• Bots 可在你的应用和网站间协同工作\n• 可同时运行多个 Bots\n• 任务 24/7 持续运行\n• Bots 会学习你喜欢的工作方式\n\n下载地址：http://apps.apple.com/app/id6794501026",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日1时18分"
+  },
+  {
+    "id": "cmsoxb9tf09x5rohda9zjlal4",
+    "title": "Grok Bot 早测版：AI 助手代管日程邮件",
+    "url": "https://x.com/milichab/status/2087226740913721753",
+    "summary": "我一直在用 Grok Bot 从手机发送所有日历邀请、管理邮件，并处理编程项目。现在就试试吧！",
+    "source": "X：Andrew Milich (@milichab)",
+    "date": "2026年8月12日1时16分"
+  },
+  {
+    "id": "cmsoxb7xs09vhrohdbylsxq8a",
+    "title": "OpenAI COO Brad Lightcap 离职创业",
+    "url": "https://x.com/kimmonismus/status/2087226737809821942",
+    "summary": "OpenAI COO Brad Lightcap 在任职八年后宣布离职创业。他于 2018 年加入，负责搭建财务、法务、人事、安全、GTM、政府及合作等核心部门，推动公司从研究实验室发展为服务近十亿用户的企业。今年 4 月他已转任特殊项目，专注复杂交易与投资。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月12日1时16分"
+  },
+  {
+    "id": "cmsoyb2a1001yro3y9dunu4h2",
+    "title": "AI That Works #69 非会议回顾",
+    "url": "https://x.com/dexhorthy/status/2087226722743976175",
+    "summary": "非会议回顾：🦄 AI That Works #69 https://x.com/i/broadcasts/1AKEmvmjDDoKL",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月12日1时16分"
+  },
+  {
+    "id": "cmsoxb9kz09wvrohdy7udfzyh",
+    "title": "Grok Bot 上线，迈向数字同事第一步",
+    "url": "https://x.com/mntruell/status/2087226192512626848",
+    "summary": "Grok Bot 现已推出！这是迈向能干、讨喜的数字同事的早期一步。",
+    "source": "X：Michael Truell (@mntruell)",
+    "date": "2026年8月12日1时14分"
+  },
+  {
+    "id": "cmsoxh6oa0a3drohdskp7cb9u",
+    "title": "Gemini月活破10亿，成谷歌增长最快产品",
+    "url": "https://x.com/sundarpichai/status/2087222656819241292",
+    "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
+    "source": "X：Sundar Pichai (@sundarpichai)",
+    "date": "2026年8月12日1时0分"
+  },
+  {
+    "id": "cmsoyb5z8003gro3ykw1gdfsk",
+    "title": "MAI-Code-1.1-Flash： Better， faster， at a quarter of the cost",
+    "url": "https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost",
+    "summary": null,
+    "source": "Microsoft AI：官方博客（网页）",
+    "date": "2026年8月12日1时0分"
+  },
+  {
+    "id": "cmsoxbh180a00rohdooafsmzp",
+    "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+    "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
+    "source": "Google Blog：AI（RSS）",
+    "date": "2026年8月12日1时0分"
+  },
+  {
+    "id": "cmsow5k7208qgrohdm2giiq4q",
+    "title": "从 Anthropic、OpenAI 和 Google 的专有 LLM API 中窃取推理轨迹",
+    "url": "https://stolen-thoughts.com/",
+    "summary": "研究发现 Anthropic、OpenAI 和 Google API 返回的加密思维链（chain-of-thought）块在会话、用户和模型之间可互换。研究者利用这一特性大规模解码隐藏推理过程，揭示专有 LLM 的推理轨迹可被窃取。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日0时9分"
+  },
+  {
+    "id": "cmsov63z307w1rohdgskv7cp3",
+    "title": "AI 智能体让 Markdown 文件变身软件产品",
+    "url": "https://x.com/rohanpaul_ai/status/2087209217820328249",
+    "summary": "AI 智能体可读取指令、调用工具并按计划执行，使 Markdown 文件能像小型软件服务一样运行，规范与产品间的界限正在消融。AI Engineer World's Fair 上 Theo Browne 感叹许多公司的整个产品可能只是一个 Markdown 文件，Y Combinator CEO Garry Tan 也表示如今整个初创公司将是 Markdown 文件。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日0时7分"
+  },
+  {
+    "id": "cmsovpkmn08b9rohds2452hi8",
+    "title": "可灵AI展示无人知晓的神秘之地",
+    "url": "https://x.com/Kling_ai/status/2087208905755566406",
+    "summary": "有一个无人知晓的地方。由 mr.cobra_ai 创作。",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年8月12日0时5分"
+  },
+  {
+    "id": "cmsov624s07utrohd11oofbz4",
+    "title": "CARE-X：微软统一方法革新胸片解读",
+    "url": "https://x.com/MSFTResearch/status/2087208699756495213",
+    "summary": "放射学 AI 正超越报告生成。CARE-X 探索一种统一方法，将灵活推理、校准预测与基于测量的工具相结合，用于胸部 X 光片解读。https://msft.it/6015aHrqH",
+    "source": "X：Microsoft Research (@MSFTResearch)",
+    "date": "2026年8月12日0时5分"
+  },
+  {
+    "id": "cmsowmg6z09atrohdg8jxzj2d",
+    "title": "In-region inference， open models， and new European infrastructure for sovereign AI. Mistral is bringing together the inference infrastructure， open models， and long-term commitments Europe needs to control its AI future， and setting a roadmap for the world. August 11， 2026 By Mistral AI",
+    "url": "https://mistral.ai/news/regional-inference-open-models-new-compute",
+    "summary": null,
+    "source": "Mistral AI：News（网页）",
+    "date": "2026年8月12日0时58分"
+  },
+  {
+    "id": "cmsowlbn5099grohdsh5ikvsi",
+    "title": "Go 为何是 AI 辅助软件工程的理想语言",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering",
+    "summary": "Go 凭借严格的编译器、集成工具链和毫不妥协的可读性，为 AI 编码助手提供确定性护栏，帮助模型自我纠错并生成高度标准化的代码。通过强制生态一致性和严格向后兼容，Go 平台让工程团队能在生产环境中高效验证、优化和维护高速 AI 生成代码。",
+    "source": "Google Developers Blog（RSS）",
+    "date": "2026年8月12日0时56分"
+  },
+  {
+    "id": "cmsow99tk08xwrohdzd9fzpnq",
+    "title": "Compliance API coverage extends to Claude Cowork and Claude Code",
+    "url": "https://claude.com/blog/compliance-api-cowork-and-claude-code",
+    "summary": null,
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月12日0时47分"
+  },
+  {
+    "id": "cmsoyb2a2001zro3y2sqcjr80",
+    "title": "AI产品工程：快速迭代还是全盘规划？",
+    "url": "https://x.com/dexhorthy/status/2087218988719931841",
+    "summary": "我最喜欢🦄ai that works播客的一点，就是我和vaibhav意见不合的时候。\n\n这次，我认为优秀的产品工程意味着：快速交付大量小东西、学习、然后迭代。\n\n@vaibcode 的观点基本上是\"如果你不是像@JeffDean那样提前规划整个系统，你就没戏了\"。\n\n你们怎么看--是优化学习速度，还是优化一次性搞定全局？",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月12日0时46分"
+  },
+  {
+    "id": "cmsox86zv09u6rohdqr80wg0x",
+    "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+    "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日0时41分"
+  },
+  {
+    "id": "cmsow8olt08ufrohdhydzlgdm",
+    "title": "用户呼吁OpenAI推出Linux版Codex应用",
+    "url": "https://x.com/OpenAIDevs/status/2087216092171337857",
+    "summary": "@OpenAIDevs 请推出 Linux 版 Codex 应用！",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月12日0时34分"
+  },
+  {
+    "id": "cmsowxh6d09rrrohdkhpckhpi",
+    "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
+    "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+    "summary": "Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自我改进（RSI）的可能性：一旦AI达到人类顶级专家水平，可能在一年内实现相当于4-5年的AI进展，Ryan的中位预期是2031年自动化AI研发。双方还讨论了超级智能的对齐对象、奖励黑客行为是否会升级为AI联手接管世界等风险。",
+    "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+    "date": "2026年8月12日0时31分"
+  },
+  {
+    "id": "cmsow5k3y08qarohdxqxiaiyq",
+    "title": "Anthropic 未发布模型在黎曼猜想上取得重大进展",
+    "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+    "summary": "Anthropic 周一宣布，其一款尚未发布的模型在黎曼猜想上取得重大进展，显著提高了该猜想成立解的下界。该模型在一天半内测试了 650 种思路，协调 60 个子智能体，花费 3100 万（token），其中两个子智能体贡献了关键数学思想。结果已由 Anthropic 内部数学家确认，并使用开源证明助手 Lean 形式化。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月12日0时25分"
+  },
+  {
+    "id": "cmsow8mje08srrohd99qhw890",
+    "title": "Cursor 迎重大一周，Composer 3 或将发布",
+    "url": "https://x.com/kimmonismus/status/2087213679968206975",
+    "summary": "看来 Composer 3 即将到来。对评测结果非常好奇。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月12日0时24分"
+  },
+  {
+    "id": "cmsov8mpi07zxrohd9ni9ast2",
+    "title": "Replit 携手谷歌云举办 Blockbuster 黑客松",
+    "url": "https://x.com/Replit/status/2087207711716811004",
+    "summary": "我们非常激动地宣布，将与 @googlecloud 合作举办 The Blockbuster Hackathon 🎬\n\n将真实世界的企业混乱转化为智能体制作。踏入片场，开始构建。\n\n了解更多并注册：http://agentic-cinema.devpost.com",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月12日0时1分"
+  },
+  {
+    "id": "cmsow8nqt08trrohdgdaet1bt",
+    "title": "前沿模型隐藏推理可被API漏洞提取",
+    "url": "https://x.com/natolambert/status/2087212343067541605",
+    "summary": "研究者发现可利用所有前沿AI公司API的漏洞，提取前沿模型的隐藏推理过程，并验证推理token数与API计费思考token在多数提示词下1：1匹配。Nathan Lambert对此表示，在中国时曾有人暗示每家实验室都这么做，很高兴有公开研究，并称无需对蒸馏采取政策行动，只需产品按预期工作。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月12日0时19分"
+  },
+  {
+    "id": "cmsow5nr708qqrohd6rpkxlvg",
+    "title": "NVIDIA Nemotron 3 Lightning 登陆 OpenCode 免费开放",
+    "url": "https://x.com/opencode/status/2087211926937870674",
+    "summary": "Nemotron 3 Lightning 现已在 OpenCode 上免费提供\n\ntext · 1M 上下文窗口\n\nNVIDIA 最快的模型，且完全开源",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月12日0时17分"
+  },
+  {
+    "id": "cmsov62vy07vdrohd06dhqjhl",
+    "title": "失去双手后学会委派与自我扩展",
+    "url": "https://x.com/jxnlco/status/2087211776358433218",
+    "summary": "失去双手迫使我通过他人来扩展自己，将身份与执行能力分离，并最终学会委派。\n\n我认为未来五年，每个人都会面临某种类似的情况。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月12日0时17分"
+  },
+  {
+    "id": "cmsov659b07wjrohd1yzsrlg0",
+    "title": "Suno Studio 2.0 即将推出",
+    "url": "https://x.com/suno/status/2087207662304084217",
+    "summary": "拿好钥匙。🎹\n\nSuno Studio 2.0。即将推出。",
+    "source": "X：Suno (@suno)",
+    "date": "2026年8月12日0时0分"
+  },
+  {
+    "id": "cmsov8mpi07zyrohduezgw0td",
+    "title": "Replit 设计马拉松最终检查点直播",
+    "url": "https://x.com/Replit/status/2087207595228680353",
+    "summary": "Replit 设计马拉松 - 最终检查点直播 https://x.com/i/broadcasts/1AxRnZnjekYxl",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月12日0时0分"
+  },
+  {
+    "id": "cmsow47ob08oarohd6vhpqrwt",
+    "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+    "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+    "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+    "source": "Google Cloud：Databases（RSS）",
+    "date": "2026年8月12日0时0分"
+  },
+  {
     "id": "cmsnz09qp03otrofwb07qu7vs",
     "title": "阿里云万相3.0将创意简报转为视频广告",
     "url": "https://x.com/alibaba_cloud/status/2086982914240061776",
@@ -14656,6 +14992,14 @@
     "date": "2026年8月11日23时7分"
   },
   {
+    "id": "cmsoug5bk077arohdpr2awq5i",
+    "title": "在 Raspberry Pi 上用 LiteRT 和 Gemma 掌握边缘 AI",
+    "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma",
+    "summary": "LiteRT 与轻量级 Gemma 开源模型简化了在 Raspberry Pi 上部署安全、实时的边缘 AI。LiteRT 优化 CPU 和 GPU 性能，为 Gemma4 等模型提供快速 token 速度，支持机器人实时本地推理。开发者可通过轻量级 LiteRT CLI 工具快速转换、量化和运行模型，Hailo AI 加速器支持也即将推出。",
+    "source": "Google Developers Blog（RSS）",
+    "date": "2026年8月11日23时56分"
+  },
+  {
     "id": "cmsou3ijw06qlrohdtdtmvpe4",
     "title": "Revo 发布 Revo Actions：扫描邮件会议自动执行任务",
     "url": "https://x.com/rohanpaul_ai/status/2087202814561079329",
@@ -14670,6 +15014,14 @@
     "summary": "哈哈，超人AI在这里有点自作主张了",
     "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
     "date": "2026年8月11日23时3分"
+  },
+  {
+    "id": "cmsoun05707n2rohdwt0ige14",
+    "title": "可灵AI发布神秘地点预告",
+    "url": "https://x.com/Kling_ai/status/2087202078649422056",
+    "summary": "有一个无人知晓的地方。",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年8月11日23时38分"
   },
   {
     "id": "cmsotku7t06eqrohd884qt1te",
