@@ -14640,12 +14640,148 @@
     "date": "2026年8月11日2时15分"
   },
   {
+    "id": "cmsoqvoum03fyrohd8llf8tij",
+    "title": "NVIDIA 发布 Nemotron 3.5 Lightning 与 NeMo Switchyard",
+    "url": "https://x.com/kimmonismus/status/2087179573477650881",
+    "summary": "NVIDIA 在 Meta 发布 Muse Glimmer 次日推出 Nemotron 3.5 Lightning 和 NeMo Switchyard，展示本地智能体 AI 的不同路径。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日22时9分"
+  },
+  {
+    "id": "cmsorfjjn043lrohdymexcen4",
+    "title": "NVIDIA NeMo Switchyard 评测：智能体调用中仅 7% 需要前沿模型",
+    "url": "https://www.langchain.com/blog/switchyard-agent-routing-benchmark",
+    "summary": "LangChain 在 145 个智能体任务上评测了 NVIDIA NeMo Switchyard，结果显示仅 7% 的交互轮次需要前沿模型。通过路由策略，成本降低 74%，同时准确率仅下降 6 个百分点。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月11日22时8分"
+  },
+  {
+    "id": "cmsorv7nj04durohdl56vs2eg",
+    "title": "蒸馏推理痕迹或早已可行",
+    "url": "https://x.com/omarsar0/status/2087187835530948776",
+    "summary": "推荐阅读。\n\n\"这表明，蒸馏推理痕迹可能早已可行，且从未破坏加密。\"",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月11日22时42分"
+  },
+  {
+    "id": "cmsoryck204hqrohdrzn3wp39",
+    "title": "FigureLabs 用 AI 生成可编辑科研图表",
+    "url": "https://x.com/rohanpaul_ai/status/2087186371048059258",
+    "summary": "Rohan Paul 测试了 FigureLabs 的 AI 科研图表工作流：从学术草稿生成科学图表，并支持局部修改、图内文字编辑、重新着色及导出为可编辑 PowerPoint。AI 负责初稿，研究者保留对最终呈现的完全控制，适用于论文与演示。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日22时36分"
+  },
+  {
+    "id": "cmsorfna7044nrohd1ll0g5cj",
+    "title": "开放与封闭AI的简单经济学",
+    "url": "https://www.a16z.news/p/some-simple-economics-of-open-versus",
+    "summary": "经济学家Petra Moser对1851年万国工业博览会及1876年美国续展近1.5万项发明的研究显示，专利制度不影响创新水平，只改变创新方向。这一证据同样适用于当前开放权重与封闭权重AI模型之争：开放权重不太可能改变AI投资总量，只会改变其方向--构建什么、由谁构建、谁获取回报。安全问题的关键也不在于开放性本身是否危险，而在于扩散何时能增强防御方、有害能力在何处能被真正约束。",
+    "source": "a16z：News（RSS）",
+    "date": "2026年8月11日22时2分"
+  },
+  {
+    "id": "cmsorv7nj04dvrohdznnalnaq",
+    "title": "Qodo 推出 AI 代码审查学院",
+    "url": "https://x.com/omarsar0/status/2087183764057460972",
+    "summary": "Qodo 推出免费的 AI Code Review Academy，无需注册即可学习 AI 生成代码时代的代码审查。作者推荐其基准测试与工具对比章节，该章节强调评估工具时需使用真实生产 PR、默认设置运行、方法论可复现，并同时报告精确率与召回率。章节引用的 2025 年研究显示，同一模型在孤立基准上得分 84-89%，在真实代码库中仅得 25-34%。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月11日22时26分"
+  },
+  {
+    "id": "cmsorfr55046vrohd86scl69i",
+    "title": "Sierra 教智能体应对难缠的 IVR 电话菜单系统",
+    "url": "https://sierra.ai/blog/navigating-ivr-systems",
+    "summary": "Sierra 的智能体现在开箱即可应对最具挑战性的 IVR 电话系统，它们能判断何时拨打电话、如何穿越多层菜单、何时保持沉默，以及如何识别已接通真人。",
+    "source": "Sierra：Blog（RSS）",
+    "date": "2026年8月11日22时0分"
+  },
+  {
     "id": "cmsooqj3x07norop2i3zltwjh",
     "title": "NVIDIA 发布首款 Nemotron 3.5 模型 Lightning，性能对标 gpt-oss-120b",
     "url": "https://x.com/ArtificialAnlys/status/2087163514037408085",
     "summary": "NVIDIA 发布首款 Nemotron 3.5 模型 Lightning，31.6B 总参数（3.6B 激活），性能对标 gpt-oss-120b，参数量仅为其约四分之一。该模型在 Artificial Analysis 智能指数得 24 分，较前代提升 9 分，输出速度近 670 tokens/秒，支持 1M token 上下文窗口，采用 OpenMDW-1.1 商用许可。",
     "source": "X：Artificial Analysis (@ArtificialAnlys)",
     "date": "2026年8月11日21时5分"
+  },
+  {
+    "id": "cmsoqvxu203kwrohdopfmndh1",
+    "title": "Cursor Origin 今日发布，新增 Codebase 与 Review 标签",
+    "url": "https://x.com/testingcatalog/status/2087177021105267167",
+    "summary": "Cursor Origin（Cursor Review）已结束内部测试，预计今日正式发布。用户将获得 Codebase 与 Review 两个新标签页，前者支持从 GitHub 同步代码仓库，后者用于\"智能体代码审查\"，在需要用户关注时发送通知。目前 Origin 页面已开放候补名单。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月11日21时59分"
+  },
+  {
+    "id": "cmsoq4td202ggrohd09ejy8vg",
+    "title": "美国公众罕见达成共识：反对数据中心建设",
+    "url": "https://garymarcus.substack.com/p/the-one-issue-unifying-the-american",
+    "summary": "安嫩伯格公共政策中心最新民调显示，美国公众对数据中心建设的反对声浪快速上升，且这一情绪跨越党派界限。民调数据与先前相关预测趋势高度吻合。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月11日21时52分"
+  },
+  {
+    "id": "cmsopyoum028vrohd4dgeksz9",
+    "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
+    "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
+    "summary": "LMSYS 团队提出 Unified Radix Cache，用单一 token 键控 radix 拓扑统一管理混合模型的 FULL、SWA 和 MAMBA 组件缓存，各组件独立执行路径、滑动窗口和检查点复用语义。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "date": "2026年8月11日21时51分"
+  },
+  {
+    "id": "cmsopyoum028urohdhqzve6ba",
+    "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
+    "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
+    "summary": "SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源模型为 30B 总参数、3B 激活参数的混合专家架构，支持最长 1M token 上下文，可从 Hugging Face 下载 BF16 和 NVFP4 权重。模型支持 MTP、DFlash、DSpark 三种投机解码技术，并可通过 OpenAI 兼容 API 接入智能体工作流。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "date": "2026年8月11日21时51分"
+  },
+  {
+    "id": "cmsoqogbi03b2rohdt9pgfftx",
+    "title": "Spotify 推出\"AI 人格\"标签，标记 AI 生成的真人歌手",
+    "url": "https://www.ithome.com/0/988/504.htm",
+    "summary": "Spotify 宣布从 9 月起陆续推出\"AI 人格\"标签，帮助用户识别看似真人、实为 AI 生成的歌手。即日起 AI 创作者可在 Spotify for Artists 主动标记身份，平台也会审核并标记疑似 AI 艺人；默认情况下被打标艺人不会被纳入算法推荐，误标记可申诉。Spotify 将优先展示真实艺人的音乐作品，避免推荐低质量 AI 内容。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日21时38分"
+  },
+  {
+    "id": "cmsoq7nz10326rohdbdmdl9xb",
+    "title": "Thinking of ACE？ We Can Do It with Fewer Tokens",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "summary": null,
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年8月11日21时37分"
+  },
+  {
+    "id": "cmsoq4td202ghrohdxxsbd756",
+    "title": "英伟达循环融资达到新高度，黄仁勋是否过度出牌？",
+    "url": "https://garymarcus.substack.com/p/breaking-circular-financing-reaches",
+    "summary": "英伟达股价在相关消息公布后小幅下滑，收盘报217.55美元，盘前略有回升。金融记者Holger Zschaepitz和曾预测安然倒闭的Jim Chanos均对英伟达的循环融资做法表示担忧。此外，英伟达将发布真正开源（非仅开放权重）的Nemotron模型新版本，这可能最终削弱其合作伙伴OpenAI和Anthropic的地位。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月11日21时29分"
+  },
+  {
+    "id": "cmsoqspmk03egrohd14uljavi",
+    "title": "亚马逊为何让订单确认邮件变得如此\"无用\"",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+    "summary": "亚马逊今夏起简化订单通知邮件，不再列出具体商品，仅显示\"Beauty item\"\"Hardware item\"等类别，顾客需登录应用或网站才能查看详情。公司发言人回应称此举是为引导用户使用\"Your Orders\"页面，并减少在亚马逊应用和网站之外共享的客户信息以提升隐私。分析认为，这也是一种防御AI购物代理（如Google的Gemini Spark）抓取数据、避免\"DoorDash问题\"的策略。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月11日21时27分"
+  },
+  {
+    "id": "cmsoqogbi03b4rohdfnxlfphs",
+    "title": "宇树科技公布科创板中签结果：网上中签率 0.018%，超 978 万户参与申购",
+    "url": "https://www.ithome.com/0/988/502.htm",
+    "summary": "宇树科技披露科创板上市网上摇号中签结果，中签号码共 19414 个，发行价 150.80 元/股，中一签需缴款 7.54 万元。回拨后网上最终中签率为 0.01809759%，约为长鑫科技 0.47141739% 的 3.8%。本次有效申购户数达 978.46 万户，按年内新股首日平均涨幅 276.04% 测算，中一签账面盈利有望突破 20 万元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日21时25分"
+  },
+  {
+    "id": "cmsoqogbi03b5rohdeq2bql74",
+    "title": "李飞飞：AI 进入校园的最大风险，是可能削弱孩子的学习能力",
+    "url": "https://www.ithome.com/0/988/501.htm",
+    "summary": "斯坦福大学教授、World Labs 联合创始人李飞飞认为，AI 进入校园最大的危险并非学生作弊，而是可能削弱学生的学习能力，最糟糕的结果是年轻一代的自主性和学习动力被工具夺走。她同时警告不应全面抵制 AI，并指出若学生已投入学习、仅在遇困时需帮助，AI 可成为强大的学习伙伴。牛津大学出版社报告及多项研究也显示，AI 虽加快学习速度，却伴随思考深度降低等隐忧。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日21时25分"
   },
   {
     "id": "cmsop3po0000erohdu8jeyfst",
