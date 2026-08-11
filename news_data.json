@@ -14808,6 +14808,22 @@
     "date": "2026年8月11日1时0分"
   },
   {
+    "id": "cmsojdl6x0u4wrofwxb12znon",
+    "title": "Meta 开源 Muse Glimmer 30B 成本仅为 Spark 1.2 五分之一",
+    "url": "https://x.com/rohanpaul_ai/status/2087122661155696886",
+    "summary": "Meta 开源 Muse Glimmer 30B，在 aimlapi 上以 $0.02 成本一次生成 5 个可运行游戏，约为 Muse Spark 1.2（$0.11）的五分之一。Glimmer 在 Flappy Bird 上表现更优，但赛车游戏仍有失误且画质较粗糙。该模型为 29.6B 稠密模型，由 Muse Spark 蒸馏而来，支持 131K+ 上下文，量化版小于 20GB。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日18时23分"
+  },
+  {
+    "id": "cmsoiphs10t9drofwnvtqwc37",
+    "title": "Novo Nordisk 与 AWS 将智能体 AI 引入药物发现",
+    "url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws",
+    "summary": "Novo Nordisk 正扩大 AWS AI 工具在药物发现中的应用，包括用于靶点识别、疗法设计和研究流程的 AI 智能体。根据近日宣布的协议，AWS 将成为 Novo Nordisk 的首选云服务商和战略 AI 合作伙伴。双方还在 Novo Nordisk 现有的伦敦设施设立了联合创新中心。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月11日18时0分"
+  },
+  {
     "id": "cmsog5r0u0q6trofwnlerjacm",
     "title": "Anthropic 将隐形水印直接嵌入 Claude 模型层",
     "url": "https://x.com/kimmonismus/status/2087102975106019579",
