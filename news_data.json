@@ -13848,6 +13848,22 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsp5w9ed06qmrortlc6uvtoo",
+    "title": "大模型代码缺陷已变，对抗性审查成利器",
+    "url": "https://x.com/bcherny/status/2087284684103537011",
+    "summary": "Boris Cherny 指出，LLM 生成的代码仍有缺陷，但问题已从 off-by-one 错误转向系统设计、UI 可用性和上下文缺失等更高层次问题。他认为对抗性代码审查是捕捉此类缺陷的有效工具，可用一行提示词实现，或直接使用 Claude 内置的 /code-review 功能。",
+    "source": "X：Boris Cherny (@bcherny)",
+    "date": "2026年8月12日5时7分"
+  },
+  {
+    "id": "cmsp5t7wp06k5rortbxlgoqav",
+    "title": "OpenCode Go 首个 10T token 日",
+    "url": "https://x.com/opencode/status/2087283179753267429",
+    "summary": "OpenCode Go 的首个 10T token 日",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月12日5时1分"
+  },
+  {
     "id": "cmsp3o23e04vkrort4kozl5nr",
     "title": "Manus 将恢复作为一家独立公司运营",
     "url": "https://manus.im/blog/a-note-to-our-users",
@@ -13864,12 +13880,44 @@
     "date": "2026年8月12日4时8分"
   },
   {
+    "id": "cmsp56kmj0627rortch55c6ri",
+    "title": "OpenRouter CEO：AI推理将成史上最大市场",
+    "url": "https://x.com/OpenRouter/status/2087281630163681442",
+    "summary": "\"AI 模型推理将成为科技史上最大的市场。很可能是人类历史上最大的市场。\"\n\n我们的 CEO @alexatallah 与 @HarryStebbings 的对话。\n\nAI 不是单一模型的竞赛。它是一个增长速度超出所有人预期的生态系统。\n\n🔗完整访谈--链接见评论区。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月12日4时54分"
+  },
+  {
+    "id": "cmsp5vxso06lkrortal27sge8",
+    "title": "OpenAI Astra 模型发布临近的信号",
+    "url": "https://x.com/kimmonismus/status/2087281608977977417",
+    "summary": "OpenAI 研究员 Andrew Ambrosiono 发布了一条模糊推文，疑似暗示即将推出的 Astra 模型家族。此前 Astra 因安全与网络安全问题被撤回，发布可能推迟。该推文或预示问题已解决、发布在即，或意在保持公众关注。Astra 被视为 OpenAI 对抗 Anthropic Fable 5 领先地位的关键。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月12日4时54分"
+  },
+  {
     "id": "cmsp3qs4w04y0rort06izyenr",
     "title": "Gemini Omni 免费视频今晚截止",
     "url": "https://x.com/GeminiApp/status/2087268836424982954",
     "summary": "最后机会！提醒您，Gemini Omni 今晚（8/11）太平洋时间 11：59 前可免费创建最多 10 个视频。\n\n以下来自社区的灵感助您上手 👇",
     "source": "X：Gemini (@GeminiApp)",
     "date": "2026年8月12日4时4分"
+  },
+  {
+    "id": "cmsp57otw06bwrortqpt5ujo1",
+    "title": "Google AI 日食可视化工具上线",
+    "url": "https://x.com/GoogleAI/status/2087279317172777169",
+    "summary": "明天将迎来日全食 🌑☀️ 无论你身处格陵兰、冰岛和西班牙的全食带，还是在线观看偏食阶段，我们都已为你准备妥当。\n\n由 @GoogleAIStudio 构建的交互式 3D 可视化工具，可让你实时追踪月球阴影掠过全球的轨迹，模拟雷克雅未克或瓦伦西亚等观测站的当地天空视角，并可快进或回放以捕捉关键日食节点：http://goo.gle/4g4baQt",
+    "source": "X：Google AI (@GoogleAI)",
+    "date": "2026年8月12日4时45分"
+  },
+  {
+    "id": "cmsp4teob05rwrort7wz4idpt",
+    "title": "Grok Build v1.0.2 更新：修复图片中毒与多项 Bug",
+    "url": "https://x.com/cb_doge/status/2087279039715143947",
+    "summary": "SpaceXAI 发布 Grok Build v1.0.2，这是不到 24 小时内的第二次更新。新版本为工具调用参数流式传输增加独立 spinner 标签，并修复了服务器拒绝图片导致会话永久不可用的问题，同时改进了启动超时提示与工作树副本的 fetch 规格继承问题。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日4时44分"
   },
   {
     "id": "cmsp3qwbn050orortpbotiq0p",
@@ -13880,11 +13928,27 @@
     "date": "2026年8月12日4时2分"
   },
   {
+    "id": "cmsp4teoc05rxrortik69h0mu",
+    "title": "Grok Bot 百项实用任务清单",
+    "url": "https://x.com/cb_doge/status/2087275295686455544",
+    "summary": "xAI 的 Grok Bot 定位为自带电脑的常驻 AI 智能体，可登录各类工具、跨应用与网页持续工作并交付成果。官方列出 100 项任务，覆盖销售、营销、财务、HR、客服、产品研发等场景，如线索挖掘、邮件处理、发票核对、Bug 复现与 QA 测试。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日4时29分"
+  },
+  {
     "id": "cmsp4ai9805gcrort0nsb4waf",
     "title": "（untitled）",
     "url": "https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools",
     "summary": null,
     "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月12日4时20分"
+  },
+  {
+    "id": "cmsp4to8505vcrort5ccz90bw",
+    "title": "OpenAI 同步 Codex 与 ChatGPT 项目技能插件",
+    "url": "https://x.com/testingcatalog/status/2087272938877669462",
+    "summary": "OPENAI 🔥：用户现在可以在 Codex、ChatGPT Work 及其他 AI 智能体之间同步项目、聊天、技能和插件。\n\n这很实用，尤其是当你经常测试不同实验室的不同订阅时。",
+    "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月12日4时20分"
   },
   {
