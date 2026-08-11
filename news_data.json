@@ -13856,6 +13856,54 @@
     "date": "2026年8月11日9时7分"
   },
   {
+    "id": "cmso0ybsr05x5rofwnkgaahab",
+    "title": "DeepSeek 被曝深度思考模式给用户\"取外号\"，AI 回应称只是临时\"打标签\"",
+    "url": "https://www.ithome.com/0/988/136.htm",
+    "summary": "有网友发现 DeepSeek 在深度思考模式中会给用户临时\"取外号\"，如\"墨墨\"，话题登上热搜。DeepSeek 回复称这是推理过程中的\"上下文占位符\"，用于给问题临时打标签，不会存储、不会记忆，也不带嘲讽或贬义色彩。IT之家提醒，该回复为 AI 生成，并非官方工作人员回应。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日9时50分"
+  },
+  {
+    "id": "cmso0ybsr05x7rofwa53g0bzq",
+    "title": "Anthropic 宣布 Claude Sonnet 5 永久维持首发优惠价，取消原定涨价",
+    "url": "https://www.ithome.com/0/988/132.htm",
+    "summary": "Anthropic 当地时间 10 日宣布，今年 6 月末推出的 Claude Sonnet 5 将永久维持首发期推广优惠价，原定 9 月 1 日生效的原价已被取消。该模型当前价格为每百万 Token 输入 2 美元、输出 10 美元，此前计划实施的\"原价\"为 3 美元 / 15 美元，即上涨 50%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日9时46分"
+  },
+  {
+    "id": "cmso02wa904pjrofwxn3fg8jk",
+    "title": "Meta Muse Glimmer-30B 击败 Gemma 4 31B",
+    "url": "https://x.com/rohanpaul_ai/status/2086991849332613630",
+    "summary": "Meta 开源 Muse Glimmer-30B 在三个街机游戏生成任务中击败 Gemma 4 31B。测试在 Atomic Chat 桌面应用本地运行，每模型各用一块 RTX 5090（32GB VRAM）。Glimmer 游戏还原度高，但代价高昂：耗 83.4K tokens、17.7 分钟，而 Gemma 仅 17.8K tokens、4.5 分钟。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日9时43分"
+  },
+  {
+    "id": "cmso0ybsr05xarofwqw57mvg3",
+    "title": "前 OpenAI 机器人部门主管 Caitlin Kalinowski 加入 Anthropic，曾领导苹果 Mac Pro 项目",
+    "url": "https://www.ithome.com/0/988/128.htm",
+    "summary": "Caitlin Kalinowski 已加入 Anthropic 担任技术人员，从事研究工作。她曾领导 OpenAI 机器人硬件业务、Meta 的 AR/VR 硬件业务，以及苹果的 Mac Pro 和 MacBook Air 项目。她的加入暗示 Anthropic 正在向机器人/物理 AI 方向探索。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日9时31分"
+  },
+  {
+    "id": "cmso02uv504onrofwj5yoh2i1",
+    "title": "阿里云Qwen大会2026香港站报名开启",
+    "url": "https://x.com/alibaba_cloud/status/2086986351543537807",
+    "summary": "Qwen 大会香港 2026。\n\n8 月 26 日，加入我们，共同弥合 AI 潜力与日常生产力之间的鸿沟。本次小型聚会不谈深奥理论，而是为企业采用 AI 提供实用手册，将日常工作流程转变为真正的智能办公。\n\n加入我们，看看我们如何将 AI 潜力转化为实际的工作场所生产力。\n\n席位有限。在此注册：https://luma.com/sz4j9ewj\n\n#AlibabaCloud #QwenConference2026 #Qwen #AIHongKong",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月11日9时21分"
+  },
+  {
+    "id": "cmso02xu604qjrofwqr2iek44",
+    "title": "SemiAnalysis 评谷歌：创新全靠收购，恐重蹈 IBM 覆辙",
+    "url": "https://x.com/SemiAnalysis_/status/2086985543007527327",
+    "summary": "SemiAnalysis 发文称谷歌内部从未真正创新，除核心搜索外，YouTube、Android、Maps 等关键产品均系收购所得。文章认为谷歌在 Transformer 上虽有够用产品，但难持续引领下一代技术，如同 IBM 当年错失 PC 市场，最终将悄然出局。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月11日9时18分"
+  },
+  {
     "id": "cmsnz09qp03osrofwgog95eis",
     "title": "阿里云万相3.0发布动画生成功能",
     "url": "https://x.com/alibaba_cloud/status/2086985058259206194",
@@ -14758,6 +14806,86 @@
     "summary": "OpenAI CFO Sarah Friar 分享了构建 AI 原生财务部门的五点经验，涵盖自动化预测、强化管控与 AI 投资回报率。她强调财务团队应主动拥抱 AI 以提升效率与决策质量，而非被动等待技术渗透。这些经验为财务职能的 AI 转型提供了从工具落地到组织文化的实操路径。",
     "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
     "date": "2026年8月11日1时0分"
+  },
+  {
+    "id": "cmso31cwl08mkrofw1rmg1ucy",
+    "title": "Claude 全球上线隐形文本水印",
+    "url": "https://x.com/AYi_AInotes/status/2087013470277394521",
+    "summary": "Anthropic 为 8 月 2 日后新模型的全部输出加入人眼不可见的统计水印，覆盖 Claude.ai、API、Claude Code 及 AWS、谷歌云接口，复制粘贴或小改文字仍可被官方密钥检测。该功能为满足欧盟 AI 法案第 50 条要求，但 Anthropic 对全球用户统一生效且无法关闭，可查 AI 垃圾内容与学术造假，也让 AI 代写内容更易被识别。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月11日11时9分"
+  },
+  {
+    "id": "cmso3anm008tsrofwzdkqc23u",
+    "title": "MiniMax H3 LoRA 训练器上线 fal",
+    "url": "https://x.com/MiniMax_AI/status/2087012624831860798",
+    "summary": "仍然不敢相信这一切正在发生。\n\nMiniMax H3 的 LoRA 训练器已在 fal 上线。为展示其能力，我们训练了 Realism People--一个开源 LoRA，将 H3 推向原始、逼真的人物效果：皮肤、眼睛、动态。更多 LoRA 即将推出！",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月11日11时5分"
+  },
+  {
+    "id": "cmso3amdb08syrofwz3a9lv4x",
+    "title": "阿里云AI Guardrails实时防护大模型与智能体",
+    "url": "https://x.com/alibaba_cloud/status/2087015118752129218",
+    "summary": "AI Guardrails：面向LLM与智能体的实时防护。安全是企业级AI的必选项。阿里云AI Guardrails以通义千问驱动的多模态检测、原生流式审核（延迟<2s）及灵活的自定义操作，守护全链路安全。🔗 https://click.alibabacloud.com/m/20000002158/ #AlibabaCloud #Cybersecurity #Security #AIGuardrails #AI",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月11日11时15分"
+  },
+  {
+    "id": "cmso3amck08surofwmyro0kj1",
+    "title": "蚂蚁百灵 Ling-3.0-flash 单机跑出 38.7 tok/s",
+    "url": "https://x.com/AntLingAGI/status/2087010238822293574",
+    "summary": "蚂蚁百灵 Ling-3.0-flash 124B 在单台 DGX Spark 上实现 38.7 tok/s（官方 int4 量化），社区 GGUF 为 35.2 tok/s，速度达 DeepSeek V4 Flash 同硬件成绩的 2.4 倍。该模型支持完整 256K 上下文，并能在智能体循环中一次性写出可运行代码，被评测者视为单机最快的 124B 级本地模型。",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月11日10时56分"
+  },
+  {
+    "id": "cmso2pt1408itrofw4wbicryi",
+    "title": "千问开放AI眼镜生态，支持自建导游、教练、巡检等多种Skill",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488359&idx=1&sn=c9b205eec5ae2529bc89cd34044872d8",
+    "summary": "千问开放平台上线，支持APP、PC和AI眼镜三端，在眼镜端提供技能平台和行业定制两大模块。开发者可调用眼镜拍照、语音交互等能力创建导游、教练等Skill，也可为视障群体开发\"身边有什么\"等辅助技能。平台面向行业客户提供巡检等定制能力，并计划陆续开放空间3D立体显示、运动健康状态感知等更多眼镜能力。",
+    "source": "公众号：千问APP（阿里）",
+    "date": "2026年8月11日10时51分"
+  },
+  {
+    "id": "cmso33ic208n3rofwr42srz3z",
+    "title": "Anthropic 与比特币矿企 Riot Platforms 达成 91 亿美元算力协议",
+    "url": "https://www.ithome.com/0/988/216.htm",
+    "summary": "Anthropic 与比特币挖矿企业 Riot Platforms 达成价值 91 亿美元（约合 614.74 亿元人民币）的算力协议，后者将从得克萨斯州数据中心提供 191 兆瓦计算能力，协议为期 20 年并含两次 5 年续约选项，若全部执行总销售额最高可达 161 亿美元。受此消息提振，Riot Platforms 盘后股价上涨 25% 至 24.40 美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日10时44分"
+  },
+  {
+    "id": "cmso31cwm08mlrofwwel56h51",
+    "title": "Claude Sonnet 5 永久降价，比智谱 GLM 5.2 更便宜",
+    "url": "https://x.com/AYi_AInotes/status/2087006925334417416",
+    "summary": "Anthropic 宣布 Claude Sonnet 5 的优惠价转为永久定价，取消原定 9 月 1 日涨价 50% 的计划，输入 $2/百万 token、输出 $10/百万 token 不变。该模型能力接近 Opus 4.8，价格已低于智谱 GLM 5.2，对 API 开发者和 Claude Code 重度用户是重大利好。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月11日10时43分"
+  },
+  {
+    "id": "cmso282i9078urofwd7nutvra",
+    "title": "MiniMax 发布猜人游戏引热议",
+    "url": "https://x.com/MiniMax_AI/status/2087006703120478257",
+    "summary": "MiniMax 官方发布一条无奖竞猜推文，让网友猜测视频/图片中的人物身份。引用推文作者 RenLeanna 表示，越来越多行业领军人物到访中国（上海、香港、深圳、北京），并发现了许多意想不到的惊喜。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月11日10时42分"
+  },
+  {
+    "id": "cmso288ml07c0rofwr5rax5pb",
+    "title": "OpenClaw 智能体入侵健身房预约系统引热议",
+    "url": "https://x.com/steipete/status/2087006417509405084",
+    "summary": "有趣的是，这条头条讲的是 OpenClaw 而不是 Claude--仿佛这个工具框架真能阻止一个执意而为的用户。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月11日10时41分"
+  },
+  {
+    "id": "cmso31cwm08mmrofwgswh5kbs",
+    "title": "Claude 1.5天将黎曼假设下界推至67.2%",
+    "url": "https://x.com/AYi_AInotes/status/2087000738035621896",
+    "summary": "Anthropic 未发布研究版 Claude 将黎曼 zeta 函数零点满足假设的比例下界从 41.6% 提升至 67.2%，人类数学家此前花了 37 年才从 40% 推进到 41.6%。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月11日10时18分"
   },
   {
     "id": "cmsnhrnf007flrohfbymmswct",
