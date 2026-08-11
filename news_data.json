@@ -14640,6 +14640,102 @@
     "date": "2026年8月11日2时15分"
   },
   {
+    "id": "cmsostkpq05irrohdb8elg75n",
+    "title": "台风\"白海豚\"过境宁波：AI 预报模型 5 秒生成防汛调度方案",
+    "url": "https://www.ithome.com/0/988/529.htm",
+    "summary": "宁波在防御台风\"白海豚\"中依托数字孪生与 AI 预报模型，将水库调度方案计算时间从 5 到 10 分钟压缩至 5 到 10 秒，预报时效性提升至秒级。该模型每 5 分钟更新一次调度建议，全市 16 座大中型水库已接入统一调度平台。8 月 6 日至 11 日，宁波大中型水库共增蓄水量 4.54 亿立方米，兼顾了防洪安全与供水保障。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日23时8分"
+  },
+  {
+    "id": "cmsot11l705rirohd1s07t13c",
+    "title": "Nvidia 发布 Nemotron 3.5 Lightning：以速度优先于极致智能",
+    "url": "https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence",
+    "summary": "Nvidia 发布 Nemotron 3.5 Lightning，这是 Nemotron 3.5 系列首款模型，总参数 316 亿、激活参数仅 36 亿。该模型在 Artificial Analysis 智能指数上得 24 分，与 OpenAI gpt-oss-120b 持平，但推理速度近每秒 670 tokens，为对比中最高。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月11日23时7分"
+  },
+  {
+    "id": "cmsou3ijw06qlrohdtdtmvpe4",
+    "title": "Revo 发布 Revo Actions：扫描邮件会议自动执行任务",
+    "url": "https://x.com/rohanpaul_ai/status/2087202814561079329",
+    "summary": "Revo 推出 Revo Actions，可扫描邮件、会议和聊天识别待办工作，并在 Salesforce、Jira、Slack 或日历中直接生成草稿操作。用户批准后 Revo 才执行并记录变更。该工具面向多人协作，共享公司知识库，今日起向所有用户开放免费试用。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日23时41分"
+  },
+  {
+    "id": "cmsotzf3r06lbrohdn2ulqxvf",
+    "title": "超人AI自作主张引热议",
+    "url": "https://x.com/dexhorthy/status/2087193145893351549",
+    "summary": "哈哈，超人AI在这里有点自作主张了",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月11日23时3分"
+  },
+  {
+    "id": "cmsotku7t06eqrohd884qt1te",
+    "title": "Cloudflare 如何让 AI 为内容付费",
+    "url": "https://blog.bytebytego.com/p/how-cloudflare-is-making-ai-pay-for",
+    "summary": "Cloudflare 正利用其反向代理位置，通过开放协议 x402 在单个 HTTP 请求内完成身份验证、权限确认与支付结算，向匿名 AI 智能体按次收取费用。目前超过一半的网站请求来自软件而非人类，传统依赖注意力的广告与订阅模式难以覆盖此类流量。该方案仍面临成本与开放性问题。",
+    "source": "ByteByteGo（RSS）",
+    "date": "2026年8月11日23时30分"
+  },
+  {
+    "id": "cmsou3q2h06u6rohd383gcdyj",
+    "title": "NVIDIA 发布 Nemotron 3.5 Lightning 开源模型",
+    "url": "https://x.com/testingcatalog/status/2087199560489726120",
+    "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一个开源 30B MoE 模型，仅 3B 参数激活，专为高频任务智能体设计。其输出速度最高达同类模型的 4 倍，比 Qwen3.6 35B 快 35%，性能相当。权重已上架 HuggingFace。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月11日23时28分"
+  },
+  {
+    "id": "cmsou3oip06terohdc7f5ic08",
+    "title": "Krea 推出 Slack 集成 Beta 版",
+    "url": "https://x.com/krea_ai/status/2087198446017032642",
+    "summary": "今天我们推出 Krea 在 Slack 中的 Beta 版本。\n\n借助最新的 AI 模型和能适应你偏好的智能体，扩展你团队的创意工作。\n\n立即在 krea.ai 上试用。",
+    "source": "X：Krea AI (@krea_ai)",
+    "date": "2026年8月11日23时24分"
+  },
+  {
+    "id": "cmsou3ijw06qmrohdffqxlepd",
+    "title": "NVIDIA 发布 Nemotron 3.5 Lightning 长时运行智能体模型",
+    "url": "https://x.com/rohanpaul_ai/status/2087198053036167532",
+    "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，专为长时运行智能体设计，30B 总参数/3B 激活参数，支持 1M token 上下文，可商用。支持单卡部署（DGX Spark 或 H100），并加入多 token 预测与 NVFP4 量化，输出速度最高提升 4 倍。PinchBench 上准确率 86%，完成速度比 Qwen3.6 35B 快 30%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月11日23时22分"
+  },
+  {
+    "id": "cmsot0zzp05qsrohdhtf3dszi",
+    "title": "PixVerse 让产品成为整个宇宙",
+    "url": "https://x.com/PixVerse_/status/2087192460787384415",
+    "summary": "当产品本身可以成为整个宇宙时，你不再需要产品特写镜头。\n\n一个网球进入画面。随后，球场、运动员、光线--最后是 PixVerse 标志--都开始遵循它的物理规律。\n\n完整工作流 ↓",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月11日23时0分"
+  },
+  {
+    "id": "cmsosrday05i3rohdlahm34l5",
+    "title": "聂辉华\"职务含权量\"考公选岗AI Skill实测",
+    "url": "https://x.com/AYi_AInotes/status/2087192380298371400",
+    "summary": "阿易 AI Notes 将人大聂辉华《基层中国的运行逻辑》中的\"职务含权量\"模型（≈行政级别×管什么人×管多少钱）做成开源 AI Skill，用于考公选岗。该 Skill 从城市等级、条块关系、权力大小、时代激励四维拆解岗位，帮助对比同名岗位级别差、条线风险与乡镇职数约束，强调编制是入场券、含权量才是长期变量。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月11日23时0分"
+  },
+  {
+    "id": "cmsoswb3i05ksrohdjycjrgpi",
+    "title": "NVIDIA 为何需要新供电架构以扩展 AI 算力性能",
+    "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory",
+    "summary": "NVIDIA 主张以 800 VDC 直流配电替代传统交流多次转换，以降低损耗、支撑 AI 算力扩展。NVIDIA 与 Google、Microsoft 通过 OCP 联合制定该架构，已发布白皮书及 LVDC 固态变压器规范 v0.3，超 80 家设备商正据此开发产品。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月11日23时0分"
+  },
+  {
+    "id": "cmsot132405sirohdkktzpdd0",
+    "title": "Luma Scenes 发布：逐场景精修后再渲染",
+    "url": "https://x.com/LumaLabsAI/status/2087192314167054425",
+    "summary": "人人都懂这笔账：十次生成，一个可用镜头。一个错误的场景不该毁掉整个制作。有了 Luma Scenes，就不会了。\n\n精修每个场景。把控每个节拍。全部确认。然后再渲染。\n\nLuma Scenes，由 Uni-1 驱动。",
+    "source": "X：Luma AI (@LumaLabsAI)",
+    "date": "2026年8月11日23时0分"
+  },
+  {
     "id": "cmsoqvoum03fyrohd8llf8tij",
     "title": "NVIDIA 发布 Nemotron 3.5 Lightning 与 NeMo Switchyard",
     "url": "https://x.com/kimmonismus/status/2087179573477650881",
@@ -14654,6 +14750,78 @@
     "summary": "LangChain 在 145 个智能体任务上评测了 NVIDIA NeMo Switchyard，结果显示仅 7% 的交互轮次需要前沿模型。通过路由策略，成本降低 74%，同时准确率仅下降 6 个百分点。",
     "source": "LangChain：Blog（RSS）",
     "date": "2026年8月11日22时8分"
+  },
+  {
+    "id": "cmsot0uzo05n7rohdibb03jer",
+    "title": "小鹏VLA 2.0专访：自动驾驶何时落地欧洲",
+    "url": "https://x.com/kimmonismus/status/2087191539835347376",
+    "summary": "小鹏汽车智能中心负责人刘先明接受专访，详解VLA 2.0实际能力、自动驾驶仍存在的短板及该技术进入欧洲的时间表。小鹏正基于统一AI底座布局自动驾驶、Robotaxi、人形机器人与飞行汽车，转型为Physical AI公司。访谈还探讨了同一AI底座控制多类载体时，车企与AI公司的边界何在。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日22时56分"
+  },
+  {
+    "id": "cmsosxt5l05lrrohd22pj1bxy",
+    "title": "BDH-CQ以0.0007美元成本登ARC-AGI",
+    "url": "https://x.com/omarsar0/status/2087191397111656738",
+    "summary": "这有点不可思议。\n\nBDH-CQ 在 ARC-AGI 1 上得分 29.5%。还行。但每个任务仅花费 0.0007 美元。\n\n它的实现方式尤其有趣。它在潜在空间中进行循环推理，而非使用 CoT。他们还验证了类似 Transformer 的扩展，参数量最高达 600B。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月11日22时56分"
+  },
+  {
+    "id": "cmsostkpq05itrohdqaq6xa1g",
+    "title": "苹果 iOS 27 测试版出现 iCloud+ 限制变化，或为高级 AI 功能收费铺路",
+    "url": "https://www.ithome.com/0/988/525.htm",
+    "summary": "苹果 iOS 27 第五个开发者测试版中，HomeKit Secure Video 设置页面出现与现行规则不符的提示：2TB iCloud+ 套餐显示仅支持 5 个摄像头，12TB 套餐则提示包含 15 个摄像头的视频摘要功能。库克此前曾暗示部分 Apple Intelligence 功能未来可能收费，但苹果尚未公布具体方案，上述变化也可能是测试版程序错误。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日22时55分"
+  },
+  {
+    "id": "cmsostkpq05iurohd30b8ubmy",
+    "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+    "url": "https://www.ithome.com/0/988/524.htm",
+    "summary": "英伟达正在研发新一代开源 AI 模型系列 Nemotron 4，规模最大的模型预计至少拥有 1 万亿个参数，旨在与全球最先进的开源模型竞争。英伟达尚未确定发布日期，最终训练也未完成，员工认为该模型最早可能在今年秋末准备就绪。此举意在通过开放模型生态扩大 AI 应用范围，并推动市场对其 GPU 算力的需求。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日22时54分"
+  },
+  {
+    "id": "cmsot0wiw05oxrohdvtwc1sb8",
+    "title": "Grok CLI v1.0.1 更新：新增磁盘用量与视频生成功能",
+    "url": "https://x.com/cb_doge/status/2087189868875075617",
+    "summary": "Grok CLI 发布 v1.0.1 更新，新增 `grok du` 命令查看磁盘用量、支持从参考图生成 1-15 秒视频，并限制子智能体生成数量以防资源耗尽。/rewind 命令现仅截断对话历史且默认需确认，MCP 服务器仅通过网关目录可用，并修复了多项 bug。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月11日22时50分"
+  },
+  {
+    "id": "cmsosxtoy05ltrohd83na5qrf",
+    "title": "科技界领袖称AI能减轻工作负担--员工却称每周工作长达90小时",
+    "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+    "summary": "科技界领袖宣称AI将减轻工作负担，但员工反映实际每周工作时间长达90小时。报道呈现了双方截然不同的观点，凸显AI对工作强度影响的分歧。目前尚无具体数据或研究佐证任何一方的说法。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日22时49分"
+  },
+  {
+    "id": "cmsostkpq05ivrohd06m08rj9",
+    "title": "Manus 宣布脱离 Meta 恢复独立运营，部分用户需手动迁移账户数据",
+    "url": "https://www.ithome.com/0/988/522.htm",
+    "summary": "Manus 宣布脱离 Meta，恢复独立公司形式运营。为遵守监管要求，部分用户 2025 年 12 月 29 日及之后产生的数据将于 2026 年 8 月 23 日 08：00 至 8 月 24 日被删除，受影响用户需在 8 月 23 日 07：59 前备份，8 月 25 日 08：00 起恢复。官方提供备份恢复工具，数据存储于美国和新加坡，恢复后提供回归奖励。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日22时48分"
+  },
+  {
+    "id": "cmsosrday05i4rohdh5qw9n9s",
+    "title": "DeepSeek Harness 内测开启，对标 Claude Code",
+    "url": "https://x.com/AYi_AInotes/status/2087188822165524887",
+    "summary": "DeepSeek Harness 公众号已上线，8 月 1 日开启内测，部分开发者已收到回复邮件。这是国产大模型官方推出的代码 Agent，旨在对标 Claude Code 和 Codex，支持国内直连、成本更低，底层采用自研 Harness 代码生成与任务规划逻辑，覆盖个人开发到企业私有化部署场景。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月11日22时46分"
+  },
+  {
+    "id": "cmsou0fa206morohd8712v4ng",
+    "title": "不到20条AI提示词即可利用的\"Zoom末日\"漏洞已被修复",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+    "summary": "安全公司A Security发现Zoom存在一个严重漏洞，攻击者可利用其注释功能在会议中劫持任意参会者设备，远程窃取数据、开启摄像头或麦克风、安装恶意软件，且无需受害者任何操作、无任何视觉提示。研究人员称仅用\"不到20条提示词\"的公开AI模型即发现该漏洞，并称此前此类利用需国家级团队数月努力。Zoom已于周二发布修复，影响覆盖Windows、macOS、Linux、Android和iOS平台。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月11日22时45分"
   },
   {
     "id": "cmsorv7nj04durohdl56vs2eg",
@@ -14680,12 +14848,36 @@
     "date": "2026年8月11日22时2分"
   },
   {
+    "id": "cmsoscqn405abrohdrly0stvu",
+    "title": "NVIDIA 发布 Nemotron 3.5 Lightning 开源模型",
+    "url": "https://x.com/JensenHuang/status/2087184542050496763",
+    "summary": "闪电降临，为持续运行的长时智能体而生！\n\nNemotron 3.5 Lightning 智能、快速、高效且开源。",
+    "source": "X：Jensen Huang (@JensenHuang)",
+    "date": "2026年8月11日22时29分"
+  },
+  {
     "id": "cmsorv7nj04dvrohdznnalnaq",
     "title": "Qodo 推出 AI 代码审查学院",
     "url": "https://x.com/omarsar0/status/2087183764057460972",
     "summary": "Qodo 推出免费的 AI Code Review Academy，无需注册即可学习 AI 生成代码时代的代码审查。作者推荐其基准测试与工具对比章节，该章节强调评估工具时需使用真实生产 PR、默认设置运行、方法论可复现，并同时报告精确率与召回率。章节引用的 2025 年研究显示，同一模型在孤立基准上得分 84-89%，在真实代码库中仅得 25-34%。",
     "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
     "date": "2026年8月11日22时26分"
+  },
+  {
+    "id": "cmsossd1l05iirohdxfa23vta",
+    "title": "Can you trust what AI tells you？",
+    "url": "https://www.youtube.com/watch?v=cIMlBw2nqfA",
+    "summary": null,
+    "source": "Claude：YouTube（RSS）",
+    "date": "2026年8月11日22时23分"
+  },
+  {
+    "id": "cmsosrday05i5rohdtvk29rgs",
+    "title": "Anthropic 向 Claude 注入概念，模型主动察觉异样",
+    "url": "https://x.com/AYi_AInotes/status/2087180742782562708",
+    "summary": "Anthropic 向 Claude 注入一个概念后，模型并未盲目重复，而是主动说出\"我注意到似乎有一个被注入的想法\"，并区分了\"自己产生的想法\"与\"外部强行注入的想法\"。相比此前强迫 AI 思考金门大桥时它只会痴迷谈论却不知原因，这次 Claude 展现出边界感的涌现。论文为 AI 安全提供了新方向：让模型清楚自身边界，而非仅增强反思能力。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月11日22时14分"
   },
   {
     "id": "cmsorfr55046vrohd86scl69i",
