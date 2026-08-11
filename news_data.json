@@ -13848,6 +13848,158 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsp1lvxm03atrort0pxp39v4",
+    "title": "Codex 应用正式登陆 Linux 平台",
+    "url": "https://x.com/testingcatalog/status/2087254777092583810",
+    "summary": "OPENAI 🔥：Codex 应用终于正式登陆 Linux！\n\n> 官方支持 Ubuntu 24.04 LTS 和 26.04 LTS、Debian 13、Fedora 43 和 44。\n\n> Computer Use 功能目前尚不可用 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月12日3时8分"
+  },
+  {
+    "id": "cmsp187hw0317rorthevj0lmp",
+    "title": "Gemini 月活破 10 亿，成谷歌增长最快产品",
+    "url": "https://x.com/demishassabis/status/2087254165600739539",
+    "summary": "Google 旗下 Gemini 应用月活跃用户突破 10 亿，成为公司史上增长最快的产品，也是第 14 个达到该里程碑的产品。Google CEO Sundar Pichai 与 DeepMind 负责人 Demis Hassabis 均发文祝贺团队及用户。",
+    "source": "X：Demis Hassabis (@demishassabis)",
+    "date": "2026年8月12日3时5分"
+  },
+  {
+    "id": "cmsp1ysi903dyrort2rhjwgfd",
+    "title": "Codex与ChatGPT桌面版登陆Linux",
+    "url": "https://x.com/thsottiaux/status/2087254026232775052",
+    "summary": "我们终于做到了……Codex 和 ChatGPT 桌面版，现在支持 Linux 了。\n\n感谢你们的耐心等待，如果你等不及已经下单了 MacBook，可以取消了。就是这么好用。\n\n👀",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月12日3时5分"
+  },
+  {
+    "id": "cmsp1ivbv033qrort2znvckeu",
+    "title": "为什么 Go 是 AI 辅助软件工程的理想语言",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering",
+    "summary": "Google 开发者博客发文，认为 Go 是 AI 辅助软件工程的理想语言。其简洁语法、强类型和显式错误处理，使 AI 生成的代码更易预测、审查与维护，降低了模型幻觉带来的风险。文章还指出 Go 的静态分析与快速编译特性，能有效提升 AI 编程工具在大型代码库中的准确性与迭代效率。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日3时4分"
+  },
+  {
+    "id": "cmsp2o8xr041grortz1ldyzj0",
+    "title": "OpenAI 发布 Linux 版 ChatGPT 桌面应用",
+    "url": "https://x.com/rohanpaul_ai/status/2087263674344132868",
+    "summary": "OpenAI 推出 Linux 版 ChatGPT 桌面应用预览版，将 ChatGPT、ChatGPT Work 和 Codex 整合至同一界面。该应用支持 Ubuntu 24.04/26.04 LTS、Debian 13 及 Fedora 43/44，兼容 x64 和 ARM64 架构。此前 Codex 已可通过 CLI 在 Linux 使用，新应用主要新增集成桌面层。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日3时43分"
+  },
+  {
+    "id": "cmsp2lgxo03xjrortthctedzu",
+    "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月12日3时41分"
+  },
+  {
+    "id": "cmsp1c26l031srort46b1kgb8",
+    "title": "Grok Bot 早期测试：AI 替你登录账号干活",
+    "url": "https://x.com/AYi_AInotes/status/2087253650687054334",
+    "summary": "xAI 推出 Grok Bot 早期测试版，AI 智能体可登录用户的邮箱、CRM、文档和客服系统，像真人一样操作并交付完成的工作。它拥有独立云电脑，用户关闭本地设备后任务仍在后台运行，可同时运行多个 Bot 分工协作。目前 SuperGrok Heavy、Cursor Ultra 和 Teams 用户可用，支持 Mac/Windows/iOS，安卓版开发中。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月12日3时3分"
+  },
+  {
+    "id": "cmsp2ogsx044frorth62oy70c",
+    "title": "Gemini月活10亿，Gemma下载破10亿",
+    "url": "https://x.com/OfficialLoganK/status/2087262466703286652",
+    "summary": "Gemini 应用每月 10 亿用户\n\nGemma 模型家族下载量达 10 亿次\n\n继续前进！",
+    "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+    "date": "2026年8月12日3时38分"
+  },
+  {
+    "id": "cmsp2o8ek0410rortyy3hhg3c",
+    "title": "Grok Imagine 助你自制蒸汽朋克电影",
+    "url": "https://x.com/elonmusk/status/2087260262525223221",
+    "summary": "你可以用 Grok Imagine 自制蒸汽朋克电影。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月12日3时30分"
+  },
+  {
+    "id": "cmsp1ysgp03dwrortbfg83hfc",
+    "title": "Grok Bot 早期测试版：100 个真实用例盘点",
+    "url": "https://x.com/ericzakariasson/status/2087258914060664902",
+    "summary": "xAI 推出 Grok Bot 早期测试版，AI 智能体可登录用户工具代完成实际工作。Eric Zakariasson 列举了 100 个已见用例，覆盖销售、招聘、社区运营等场景，如将 90 分钟销售流程自动化约 95%、一天半重建 CRM、单次筛选 1000+ 活动申请者，以及每周节省 20+ 小时运营工时。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月12日3时24分"
+  },
+  {
+    "id": "cmsp2lh0303xnrortd1nvbsdq",
+    "title": "Anthropic 为 Claude 文本添加隐形水印",
+    "url": "https://x.com/trq212/status/2087258090169414008",
+    "summary": "Anthropic 将在所有 Claude 生成文本中嵌入隐形水印，水印随文本复制粘贴而保留，非元数据。该功能自 2026 年 8 月 2 日后发布的模型起全球生效，依据 Anthropic 签署的欧盟 AI 法案准则。Anthropic 还将推出文本检测 API，并继续为现有模型添加水印。",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月12日3时21分"
+  },
+  {
+    "id": "cmsp2o7r6040grortceatc9jt",
+    "title": "OpenAI员工在布鲁克林被偶遇引热议",
+    "url": "https://x.com/jxnlco/status/2087257191439020187",
+    "summary": "在布什维克听到的：他各方面都满分，可惜在OpenAI工作。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月12日3时17分"
+  },
+  {
+    "id": "cmsp2o8xr041hrortlz7uamoa",
+    "title": "Google 新论文：用智能体将 LLM 基础设施优化从穷举搜索转为瓶颈定向搜索",
+    "url": "https://x.com/rohanpaul_ai/status/2087257168756224350",
+    "summary": "Google 新论文提出 PROMPTS，用智能体将 LLM 基础设施优化从穷举搜索转为先理解瓶颈再定向搜索。其 Analyzer Agent 将瓶颈分为计算、内存或通信三类，Proposal Agent 生成三种 TPU 并行映射方案。在 8 个生产负载中，人工验证配置每次都出现在首批方案里，7/8 情况下是首个被测试的配置。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日3时17分"
+  },
+  {
+    "id": "cmsp2lgj403x9rortlwqb8drl",
+    "title": "OpenAI 发布 ChatGPT Linux 桌面应用",
+    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+    "summary": "OpenAI 本周推出 ChatGPT Linux 桌面应用预览版，支持 Ubuntu 24.04/26.04 LTS、Debian 13 及 Fedora 43/44 等发行版，全球上线。该应用将 ChatGPT、ChatGPT Work 和 Codex 扩展至所有主流桌面操作系统。此举落后于 Anthropic 约一个月前发布的 Claude Linux 桌面应用。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月12日3时15分"
+  },
+  {
+    "id": "cmsp1lnqh037urortnp3znus5",
+    "title": "英国租户用AI生成投诉信，中介需人工核实",
+    "url": "https://x.com/rohanpaul_ai/status/2087255979046179149",
+    "summary": "这一趋势将无处不在\n\n英格兰的租赁机构表示，AI生成的投诉正在造成异常的工作量：现在需要人工核实法律推理。\n\n租户正在使用AI生成多页投诉信，租赁机构随后必须手动核实。\n\n瓶颈正从起草投诉转向核实投诉，尤其是当流畅的文本将现行法律与过时或虚构的规则混在一起时。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日3时12分"
+  },
+  {
+    "id": "cmsp2at4103u3rortqpmcav6r",
+    "title": "Gemini 月活破 10 亿，成谷歌增长最快产品",
+    "url": "https://x.com/demishassabis/status/2087255967549243425",
+    "summary": "Google 旗下 Gemini 应用月活跃用户突破 10 亿，成为公司史上增长最快的产品，也是第 14 个达到该里程碑的产品。Google CEO Sundar Pichai 与 DeepMind CEO Demis Hassabis 先后发文祝贺团队，并感谢用户支持。",
+    "source": "X：Demis Hassabis (@demishassabis)",
+    "date": "2026年8月12日3时12分"
+  },
+  {
+    "id": "cmsp1iwa10344rort8bdqs6qb",
+    "title": "Oumi 自动构建并部署专属 AI 模型",
+    "url": "https://x.com/omarsar0/status/2087255292954243553",
+    "summary": "Oumi 现可自动构建、部署专属 AI 模型，并持续从生产经验中改进，覆盖数据、配方、权重及 LLM-as-a-judge 评估器全流程。其背景逻辑是：企业租用通用模型仅 1% 智能与任务相关，却支付高昂费用，而自建专属智能才是差异化与复利优势。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月12日3时10分"
+  },
+  {
+    "id": "cmsp2nyjh03yqrorthvvwb4rh",
+    "title": "Perplexity CEO 盛赞 NVIDIA Nemotron 3.5 Lightning",
+    "url": "https://x.com/AravSrinivas/status/2087252892378112310",
+    "summary": "一个出色的美国开源 MoE 模型，可以在你的笔记本电脑或 DGX Spark 等本地硬件上高效运行！你可以在 Perplexity 上使用更大的 Nemotron Ultra！",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月12日3时0分"
+  },
+  {
+    "id": "cmsp25dko03pvrort4v2ifnsx",
+    "title": "Databricks 开源 Metals v2：面向数百万行代码库的 Java 和 Scala 语言服务器",
+    "url": "https://www.databricks.com/blog/open-sourcing-metals-v2-databricks-java-and-scala-language-server-multi-million-line-codebases",
+    "summary": "Databricks 开源 Metals v2，这是其面向数百万行代码库的 Java 和 Scala 语言服务器。Metals v2 专为智能体驱动的开发场景设计，旨在提升大规模代码库中的编辑与导航性能。目前 Databricks 的大部分代码已由智能体编写，该工具服务于工程师仍需要手动介入的环节。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月12日3时0分"
+  },
+  {
     "id": "cmsozgpx701gcrortxiuta5yl",
     "title": "Grok Bot 智能体进入早期测试",
     "url": "https://x.com/testingcatalog/status/2087240097242763515",
@@ -13870,6 +14022,158 @@
     "summary": "SpaceXAI 推出 Grok Bot，核心是持久化云端计算机，用户离开后仍可继续工作。它能登录无 API 或 MCP 的网站和应用，多个 Bot 可互相通信、共享上下文并交由管理 Bot 协调。Beta 版仅限 SuperGrok Heavy、Cursor Ultra 和 Cursor Teams Premium 用户，企业版仍待候补。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月12日2时5分"
+  },
+  {
+    "id": "cmsp1d0va0323rortjdb92ruz",
+    "title": "Can you trust what AI tells you？",
+    "url": "https://www.youtube.com/shorts/O0Bf2A4Z6O0",
+    "summary": null,
+    "source": "Claude：YouTube（RSS）",
+    "date": "2026年8月12日2时5分"
+  },
+  {
+    "id": "cmsp1ysi903dzrort1sufstu4",
+    "title": "Codex 支持导入外部项目与聊天记录",
+    "url": "https://x.com/thsottiaux/status/2087252528513814773",
+    "summary": "导入你的世界。Codex。运行。\n\n【引用 @OpenAIDevs】：你现在可以将其他智能体的工作与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中可用。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月12日2时59分"
+  },
+  {
+    "id": "cmsp1lnqh037vrortz042xc39",
+    "title": "阿里云模块化设计百天建成AI数据中心",
+    "url": "https://x.com/rohanpaul_ai/status/2087251951063081090",
+    "summary": "阿里云称其采用CUBE 5.0模块化数据中心设计，可在100天内建成大型AI数据中心，建设成本降低约10%。这一周期远短于中国同类项目通常的6至12个月及美国的12至18个月。其关键在于将电力、冷却、安防等基础设施工作转移至工厂，实现模块并行生产。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日2时56分"
+  },
+  {
+    "id": "cmsp1lufu03a9rortoc0ci36q",
+    "title": "Runway Seedance 2.5 上线，支持50角色参考",
+    "url": "https://x.com/runwayml/status/2087251184658657346",
+    "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月12日2时53分"
+  },
+  {
+    "id": "cmsp1o6bw03bgrortryd9lx6v",
+    "title": "Replit 集成 Semgrep 守护 AI 生成代码安全",
+    "url": "https://x.com/Replit/status/2087250743279403135",
+    "summary": "Replit 用户每天运行超 10 万次 Semgrep 安全扫描，其 Guardian 密钥检测现已直接内置，代码生成瞬间即可捕获漏洞。每次扫描 5 秒内完成且结果确定，结合 Replit 推理层可过滤超 93% 误报，现已上线且无需配置。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月12日2时52分"
+  },
+  {
+    "id": "cmsp1c26l031trortybossl37",
+    "title": "NVIDIA 开源 Nemotron 3.5 Lightning，Agent 执行成本降至 1/3",
+    "url": "https://x.com/AYi_AInotes/status/2087250612735865156",
+    "summary": "NVIDIA 发布开源模型 Nemotron 3.5 Lightning，300 亿总参数、每次仅激活 30 亿，专为 24 小时在线的 AI Agent 执行层设计，速度是同级别模型的 4 倍，PinchBench 准确率 86%，跑 1 万个任务比 Qwen3.6 35B 快 30%。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月12日2时51分"
+  },
+  {
+    "id": "cmsp1lnqh037wrortsg7jky0v",
+    "title": "印度央行行长敦促银行加大AI投入",
+    "url": "https://x.com/rohanpaul_ai/status/2087250569761275931",
+    "summary": "彭博社：印度央行行长敦促全国各银行在加强技术监管的同时，增加AI支出。\n\n他表示，随着银行将AI应用于信贷决策、欺诈检测和客户服务，需要持续投入。\n\n其中一个用例是承保，Malhotra表示，当传统信用记录不足时，模型可以整合现金流、GST申报、公用事业缴费和平台数据。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日2时51分"
+  },
+  {
+    "id": "cmsp1ivlj0342rortqwkya9hg",
+    "title": "Google Gemini 应用月活用户突破 10 亿",
+    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+    "summary": "Google CEO Sundar Pichai 宣布，Gemini 应用月活跃用户已突破 10 亿，成为公司增长最快的产品之一，也是第 14 个达到该里程碑的 Google 产品。这一速度与 6 月达成 10 亿月活的 ChatGPT 持平。其中 63% 的用户使用语音功能，Gemini 每日生成超 1.5 亿张图片，iOS 端活跃用户超 1 亿。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月12日2时49分"
+  },
+  {
+    "id": "cmsp1ivbv033rrort3pv4f2if",
+    "title": "英伟达 Nemotron 3.5 Lightning 发布",
+    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+    "summary": "英伟达发布 Nemotron 3.5 Lightning 模型，相关页面已在 Hugging Face 上线。该模型于 8 月 11 日登上 Hacker News 热榜，获得 101 个 HN 点赞。目前公开信息有限，具体参数规模、性能基准与可用性尚未披露。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日2时48分"
+  },
+  {
+    "id": "cmsp0j1vc027xrortdqc6omgr",
+    "title": "OpenAI 长期 COO Brad Lightcap 离职创业",
+    "url": "https://x.com/rohanpaul_ai/status/2087249369519284397",
+    "summary": "OpenAI 任职最久的高管之一 Brad Lightcap 在效力八年后离职，将创办新公司。他于 2018 年加入，曾负责财务、法务、人事及市场拓展等职能。首席营收官 Denise Dresser 已在重组中接手其大部分职责。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日2时46分"
+  },
+  {
+    "id": "cmsp0g87y023arortwn9a5kdj",
+    "title": "Agents for Hire",
+    "url": "https://every.to/context-window/agents-for-hire",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月12日2时45分"
+  },
+  {
+    "id": "cmsp0xg9i02v1rortfty1df4s",
+    "title": "论文揭示提取前沿模型隐藏推理的蒸馏漏洞",
+    "url": "https://x.com/dongxi_nlp/status/2087248596135444865",
+    "summary": "一篇论文展示了利用前沿AI公司API漏洞提取隐藏推理轨迹的方法，并验证了推理token数与计费一致。Anthropic的API流量证据与该攻击机制形成证据链，支持\"中国模型蒸馏美国模型\"的指控。论文附录B显示，注入Opus或GPT-5.6 Sol推理片段后，Kimi-K3和GLM-5.2生成会向来源模型偏移，但DeepSeek等对照组变化不明显。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月12日2时43分"
+  },
+  {
+    "id": "cmsp0ll5b02bvrortuhrnxcq6",
+    "title": "Replit MCP 测试版新增应用发布功能",
+    "url": "https://x.com/Replit/status/2087248358599528547",
+    "summary": "Replit MCP 测试版迎来更多功能。\n\n现在你可以直接通过 MCP 创建、加载、搜索和发布你的应用。\n\n在 Replit 上，从任何地方构建真正的软件。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月12日2时42分"
+  },
+  {
+    "id": "cmsp0wtap02kurortdbwl7puk",
+    "title": "从编码者到编排者：智能体如何改变开发者的角色",
+    "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer",
+    "summary": "GitHub Universe 活动将聚焦智能体如何把开发者角色从单纯写代码转向掌控代码周边的整个交付系统。活动邀请开发者共同交流、学习新技能并探索下一步方向。",
+    "source": "GitHub Blog",
+    "date": "2026年8月12日2时38分"
+  },
+  {
+    "id": "cmsp0j1vd027yrortleud5v2o",
+    "title": "OpenAI 伦理负责人任职不足一年离职",
+    "url": "https://x.com/rohanpaul_ai/status/2087246559574655095",
+    "summary": "OpenAI 伦理负责人上任不到一年即离职，且暂无接替人选。她曾是公司唯一专职伦理学家，负责模型开发、人机交互与机器意识相关议题。此前，安全系统负责人 Johannes Heidecke 与首席未来学家 Joshua Achiam 已于 7 月离职。OpenAI 回应称，伦理考量应贯穿研究与模型构建，而非由单一负责人承担。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日2时35分"
+  },
+  {
+    "id": "cmsp0g9v20242rort4zh7mzx0",
+    "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+    "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+    "summary": "作者通过 mitmproxy 对 VS Code 中的 GitHub Copilot 进行中间人代理拦截，逆向分析其网络流量与内部架构。文章指出这些 AI 应用普遍基于 Electron 构建，共享相似的网络栈，因此探测结果可迁移至其他同类应用。作者借此揭示了 Copilot 的运行时行为，并分享了配置代理的具体步骤。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日2时32分"
+  },
+  {
+    "id": "cmsp0j1vd027zrortekyq7o5i",
+    "title": "OpenAI 以 8520 亿美元估值回购 70 亿美元员工股",
+    "url": "https://x.com/rohanpaul_ai/status/2087244484971221216",
+    "summary": "OpenAI 以 8520 亿美元估值自行回购约 70 亿美元员工股份，与此前由软银、Thrive Capital 等外部投资者接盘的方式不同。此次要约收购让现任及前任员工无需等待上市即可将部分股权变现。上一轮员工售股规模约 66 亿美元、估值 5000 亿美元，本轮估值更高且流动性来源发生根本变化。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日2时27分"
+  },
+  {
+    "id": "cmsp1c26l031urortkedy8wxy",
+    "title": "Claude 将黎曼猜想零点比例推至 67.2%",
+    "url": "https://x.com/AYi_AInotes/status/2087243721737699752",
+    "summary": "Bun 创始人跑步时让未发布的新版 Claude 尝试黎曼猜想，Claude 试错 650 个方向、开 60 个子代理、跑 2400 次 shell 命令，将黎曼ζ函数临界线上零点比例从 41.6% 推至 67.2% 并写出论文。Anthropic 数学家 Levent Alpöge 完成最终验证，数学研究方式由此改变。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月12日2时24分"
+  },
+  {
+    "id": "cmsp0j1ph027prortm21absbh",
+    "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
+    "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+    "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月12日2时20分"
   },
   {
     "id": "cmsozgjrq01e2rortet6uavcw",
