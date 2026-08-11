@@ -13848,6 +13848,54 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsp3o23e04vkrort4kozl5nr",
+    "title": "Manus 将恢复作为一家独立公司运营",
+    "url": "https://manus.im/blog/a-note-to-our-users",
+    "summary": "Manus 宣布将恢复作为一家独立公司运营，并已在官方博客发布关于未来规划的更多思考。此次调整意味着其运营模式发生变更，但具体业务方向与产品细节尚未在公告中披露。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日4时8分"
+  },
+  {
+    "id": "cmsp3o23e04vlrortrc9jiwgw",
+    "title": "OpenAI伦理负责人入职不到一年便离职",
+    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+    "summary": "OpenAI伦理负责人入职不到一年便离职。该高管于去年加入公司，负责伦理相关工作，但具体离职原因未在原文中披露。此次人事变动发生在OpenAI持续面临AI伦理与安全治理外部审视的背景下。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日4时8分"
+  },
+  {
+    "id": "cmsp3qs4w04y0rort06izyenr",
+    "title": "Gemini Omni 免费视频今晚截止",
+    "url": "https://x.com/GeminiApp/status/2087268836424982954",
+    "summary": "最后机会！提醒您，Gemini Omni 今晚（8/11）太平洋时间 11：59 前可免费创建最多 10 个视频。\n\n以下来自社区的灵感助您上手 👇",
+    "source": "X：Gemini (@GeminiApp)",
+    "date": "2026年8月12日4时4分"
+  },
+  {
+    "id": "cmsp3qwbn050orortpbotiq0p",
+    "title": "LTX-2.5 发布：NVIDIA 加速的开源权重世界模型，将视频制作栈压缩到一张桌面",
+    "url": "https://www.marktechpost.com/2026/08/11/the-video-production-stack-now-fits-on-one-desk-ltx-2-5-launches-as-nvidia-accelerated-open-weights-world-model",
+    "summary": "LTX 发布 LTX-2.5，一个面向视频生成、实时应用和物理 AI 的开源权重世界模型，针对 NVIDIA RTX GPU 和 DGX Spark 本地推理优化，降低了 VRAM 需求。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月12日4时2分"
+  },
+  {
+    "id": "cmsp4ai9805gcrort0nsb4waf",
+    "title": "（untitled）",
+    "url": "https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools",
+    "summary": null,
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月12日4时20分"
+  },
+  {
+    "id": "cmsp3qu3i04zirort61c3jarb",
+    "title": "Soniox TTS v2 发布：低价高质语音合成",
+    "url": "https://x.com/rohanpaul_ai/status/2087270895169737012",
+    "summary": "Soniox 发布 TTS v2 文本转语音模型，以每小时 0.70 美元的价格提供高端音质，支持 60 多种语言、自然语言混合、低延迟流式传输和高保真语音克隆。该模型专为实时 AI 智能体设计，支持字符级时间戳和音频标签控制，便于打断与恢复。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日4时12分"
+  },
+  {
     "id": "cmsp1lvxm03atrort0pxp39v4",
     "title": "Codex 应用正式登陆 Linux 平台",
     "url": "https://x.com/testingcatalog/status/2087254777092583810",
@@ -13872,12 +13920,68 @@
     "date": "2026年8月12日3时5分"
   },
   {
+    "id": "cmsp3qthe04z4rort6o6n00dh",
+    "title": "SuperGrok Heavy 用户可在 Cursor 中接入 Grok Bot",
+    "url": "https://x.com/cb_doge/status/2087266326309974479",
+    "summary": "SuperGrok Heavy 订阅用户可通过将 Grok 账户与 Cursor 关联来使用 Grok Bot。\n\n以下是关联方法及开始使用 Grok Bot 的步骤：",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日3时54分"
+  },
+  {
+    "id": "cmsp3i6up04u6rort3937iqe9",
+    "title": "Claude FM 🎵 music for thinking and building",
+    "url": "https://www.youtube.com/watch?v=mYPF7KARk5Q",
+    "summary": null,
+    "source": "Claude：YouTube（RSS）",
+    "date": "2026年8月12日3时53分"
+  },
+  {
+    "id": "cmsp3o23e04vmrortsnb45nga",
+    "title": "leanscreen：面向 Lean 4 语句的保真度对齐评估工具",
+    "url": "https://www.millenniumresearch.ai/leanscreen.html",
+    "summary": "leanscreen 是一款面向 Lean 4 语句的校准保真度筛查工具，支持命令行和 MCP 使用。它能捕捉那些编译通过但未准确表达数学含义的形式化语句，仅作筛查，不提供认证。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日3时52分"
+  },
+  {
+    "id": "cmsp3o23e04vorortfr4pbxkz",
+    "title": "伦敦地铁开始对乘客进行人脸识别",
+    "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations",
+    "summary": "伦敦地铁已开始对乘客进行人脸识别扫描。该举措由英国交通警察（BTP）实施，旨在通过面部识别技术加强地铁安保。相关消息在 Hacker News 上引发关注，获得 106 个 HN 点赞。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日3时52分"
+  },
+  {
+    "id": "cmsp2zs7m0497rortks1fw7j7",
+    "title": "Claude Code v2.1.228 发布：修复交互会话重绘、Windows Git 检测及多项稳定性问题",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.228",
+    "summary": "Claude Code v2.1.228 发布，修复了交互会话在内部布局错误后停止重绘、Windows 下从 Git 安装父目录启动时无法找到 git/Git Bash、/tui 在 /model 更改后回退到旧模型等问题。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月12日3时50分"
+  },
+  {
+    "id": "cmsp3qri404xkrortg9croiss",
+    "title": "Oumi 发布\"复合式 AI 工厂\"闭环",
+    "url": "https://x.com/kimmonismus/status/2087265351054631322",
+    "summary": "Oumi 今日发布\"复合式 AI 工厂\"，将 AI 视为持续学习的系统而非一次性部署的软件：构建专用模型、部署、从失败中生成训练信号、改进再部署，形成循环而非单次发布。企业可保留过程中产生的模型、数据、评估与配方，编码智能体也能通过 Oumi CLI 操作该工作流。Oumi 认为，当强大模型成为商品，真正的优势在于围绕它们的\"学习循环\"，企业应积累而非租用智能。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月12日3时50分"
+  },
+  {
     "id": "cmsp1ivbv033qrort2znvckeu",
     "title": "为什么 Go 是 AI 辅助软件工程的理想语言",
     "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering",
     "summary": "Google 开发者博客发文，认为 Go 是 AI 辅助软件工程的理想语言。其简洁语法、强类型和显式错误处理，使 AI 生成的代码更易预测、审查与维护，降低了模型幻觉带来的风险。文章还指出 Go 的静态分析与快速编译特性，能有效提升 AI 编程工具在大型代码库中的准确性与迭代效率。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月12日3时4分"
+  },
+  {
+    "id": "cmsp3r00r0520rortxxrp3ve3",
+    "title": "Gemini 月活用户达 10 亿，成 Google 史上增长最快产品",
+    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product",
+    "summary": "Google CEO Sundar Pichai 今日宣布，Gemini 月活跃用户数已达 10 亿，成为 Google 历史上达到该里程碑最快的产品。尽管 Gemini 已深度整合进 Gmail、Drive 及搜索的 AI Mode 和 AI Overviews，但该数据仅统计主动打开 Gemini 应用或网页端输入提示词、使用 Gemini Live 的用户。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月12日3时48分"
   },
   {
     "id": "cmsp2o8xr041grortz1ldyzj0",
