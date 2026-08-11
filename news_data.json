@@ -14808,6 +14808,54 @@
     "date": "2026年8月11日1时0分"
   },
   {
+    "id": "cmso6id0c0cberofw2fodhfjj",
+    "title": "ChatGPT Work与Codex用量限额已重置",
+    "url": "https://x.com/kimmonismus/status/2087036965698916735",
+    "summary": "享受你的重置吧。Tibo 兑现了他的承诺 &lt；3",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日12时42分"
+  },
+  {
+    "id": "cmso5fvd50bfmrofw7cvjjaw3",
+    "title": "SWE-Bench ProMax：大规模多语言代码重构基准",
+    "url": "https://x.com/_akhaliq/status/2087026792972308750",
+    "summary": "SWE-Bench ProMax\n\n在大规模多语言代码重构上对智能体进行基准测试\n\n论文：https://huggingface.co/papers/2608.09802",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月11日12时2分"
+  },
+  {
+    "id": "cmso6ff9r0c9frofw8rj2sc3x",
+    "title": "OpenAI 致阿博特州长公开信：关于德克萨斯州负责任的人工智能基础设施",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "summary": "OpenAI 发布致德克萨斯州州长阿博特的公开信，呼吁在该州建设负责任的人工智能基础设施。信中强调 AI 发展需兼顾创新与安全，并可能涉及数据中心、能源等基础设施议题。OpenAI 此举旨在影响州级政策，为大规模 AI 部署争取支持。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日12时26分"
+  },
+  {
+    "id": "cmso6ejrx0c87rofwyj39wct4",
+    "title": "无人能阻止他推销LSP集成",
+    "url": "https://x.com/dexhorthy/status/2087030541631783029",
+    "summary": "这世上没有任何力量能阻止这个人推销 LSP 集成。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月11日12时17分"
+  },
+  {
+    "id": "cmso58oqr0b7rrofws1hiay22",
+    "title": "iOS 27 Beta 5 代码现国行 Apple Intelligence 踪迹：本地处理 iPhone 17 等用户请求",
+    "url": "https://www.ithome.com/0/988/254.htm",
+    "summary": "消息源 @aaronp613 通过挖掘 iOS 27 Beta 5 更新代码，发现苹果正为国行 Apple Intelligence 做准备。相关字符串显示，为遵守法律法规，该功能在中国使用当地公司提供的安全机制，用户请求将在设备上本地处理，不会发送给 Apple 或安全机制提供商；Apple 会以匿名化方式收集信息并以汇总形式共享，安全机制将自动下载和更新。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日12时10分"
+  },
+  {
+    "id": "cmso5fwh60bgcrofw24mn7g1k",
+    "title": "PixVerse Seedance 2.5 生成巨型真人短片",
+    "url": "https://x.com/PixVerse_/status/2087026289521856892",
+    "summary": "一个 30 秒的巨人在真实城市中行走--赤脚、粉色连衣裙、低角度 IMAX 压迫感。\n\n不是塑料玩偶。真人电影级尺度。英语对白，口型同步锁定。\n\n使用 PixVerse 上的 Seedance 2.5 生成\n\n完整工作流 ↓",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月11日12时0分"
+  },
+  {
     "id": "cmso31cwl08mkrofw1rmg1ucy",
     "title": "Claude 全球上线隐形文本水印",
     "url": "https://x.com/AYi_AInotes/status/2087013470277394521",
@@ -14822,6 +14870,38 @@
     "summary": "仍然不敢相信这一切正在发生。\n\nMiniMax H3 的 LoRA 训练器已在 fal 上线。为展示其能力，我们训练了 Realism People--一个开源 LoRA，将 H3 推向原始、逼真的人物效果：皮肤、眼睛、动态。更多 LoRA 即将推出！",
     "source": "X：MiniMax (@MiniMax_AI)",
     "date": "2026年8月11日11时5分"
+  },
+  {
+    "id": "cmso58oqr0b7trofwl3dcmz7y",
+    "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+    "url": "https://www.ithome.com/0/988/239.htm",
+    "summary": "Anthropic 正与潜在投资者接触，为可能成为史上规模最大的 IPO 做准备，计划今年 9 月或 10 月初正式上市。公司估值高达 9，650 亿美元，年化收入已超 470 亿美元，并淡化来自中国 AI 企业的竞争影响。Anthropic 还计划拓展 AI 在医疗和生物学领域的应用，但尚未公布具体 IPO 定价方案。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日11时57分"
+  },
+  {
+    "id": "cmso58oqr0b7urofw1crbke38",
+    "title": "消息称 Cursor 被 SpaceX 收购后将改名，原品牌逐步淘汰",
+    "url": "https://www.ithome.com/0/988/235.htm",
+    "summary": "SpaceX 今年 6 月同意以 600 亿美元估值收购 AI 编程初创公司 Cursor，交易预计最迟本月底完成。知情人士透露，Cursor 品牌名称可能在未来几个月内逐步淘汰，其即将推出的通用智能体（内部代号\"Sand\"）或更名为\"Grok Bot\"。现有 Cursor 编码助手等工具名称暂无立即更改计划，最终品牌决定仍可能改变。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日11时55分"
+  },
+  {
+    "id": "cmso58oqs0b7vrofwzzfd34jq",
+    "title": "消息称英伟达 Rubin Ultra 测试 192GB/256GB HBM4 版本，应对 HBM 短缺",
+    "url": "https://www.ithome.com/0/988/231.htm",
+    "summary": "英伟达为应对先进 HBM 芯片短缺，正为 Rubin Ultra 加速器规划更低配置版本，测试 192GB/256GB 显存版本，且显存堆栈少于此前公布的 16 组。同时计划将 HBM4E 下调至 HBM4，原因是 HBM4E 支持可定制基础逻辑裸片，生产难度大，内存制造商难以跟上 Rubin Ultra 推出节奏。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日11时45分"
+  },
+  {
+    "id": "cmso56iw20b7grofw3ous7ki7",
+    "title": "基层中国 Skill 求学场景：学校×城市等级三维决策",
+    "url": "https://x.com/AYi_AInotes/status/2087017825890185319",
+    "summary": "基于聂辉华《基层中国的运行逻辑》的 14 模块开源 Skill，主推文详解其在求学场景的用法：将\"只比学校\"升级为\"学校×城市等级×就业市场\"三维表，显化城市行政层级带来的隐性资源，解释\"同分不同命\"，并为中西部及普通地级市提供清醒坐标。该 Skill 支持 Cursor/Claude Code/Codex/Grok，MIT 完全开源。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月11日11时26分"
   },
   {
     "id": "cmso3amdb08syrofwz3a9lv4x",
