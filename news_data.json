@@ -14808,6 +14808,94 @@
     "date": "2026年8月11日1时0分"
   },
   {
+    "id": "cmso9j1yd0iknrofwfmvzcvuy",
+    "title": "全球亿万富翁身价报告：马斯克日增 8.75 亿美元居首，DeepSeek 梁文锋飙升 3850% 最快",
+    "url": "https://www.ithome.com/0/988/273.htm",
+    "summary": "金融研究公司 bestbrokers 报告显示，过去一年马斯克财富增加约 3，200 亿美元，平均每天新增 8.75 亿美元，净资产达 7，251 亿美元。DeepSeek 梁文锋净资产从 10 亿美元飙升至 395 亿美元，一年增长 3850%，跻身全球最富 50 人。全球共 3356 位亿万富翁，美国以 990 人领先，中国以 511 人居次。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日14时8分"
+  },
+  {
+    "id": "cmsoasx090jnrrofwelid3gei",
+    "title": "webAI 发布 TwIL-LM：1.7B 和 3B 形式逻辑模型家族，可在本地硬件上运行",
+    "url": "https://www.marktechpost.com/2026/08/10/webai-releases-twil-lm-a-1-7b-and-3b-formal-logic-model-family-for-autoformalization-on-local-hardware",
+    "summary": "webAI 发布 TwIL-LM 形式逻辑模型家族，含 1.7B 和 3B 两个版本，均可在本地硬件运行，仅限非商业使用。其中 TwIL-LM3 为 SmolLM3-3B 的合并微调版本，在六项平均得分上以 0.4488 落后于 gpt-oss-120b 的 0.5192，但生成效率更高，每秒可处理 32.9 个答案，而后者仅为 4.2。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月11日14时20分"
+  },
+  {
+    "id": "cmsoaprnd0jisrofwjxqn3trv",
+    "title": "Claude 如何标注 AI 生成内容",
+    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "summary": "Anthropic 在官方支持文档中说明 Claude 如何标注 AI 生成内容。该机制旨在提升内容透明度，帮助用户识别由 Claude 生成或修改的文本、图像等输出。具体标注方式与适用范围以官方文档为准。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日14时18分"
+  },
+  {
+    "id": "cmso95agg0ig3rofwaqvy9crw",
+    "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+    "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+    "source": "公众号：智谱（GLM）",
+    "date": "2026年8月11日13时52分"
+  },
+  {
+    "id": "cmso9n8ca0indrofwax1r4dcd",
+    "title": "GPT 5.6 网络安全",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "summary": "OpenAI 发布 GPT 5.6 网络安全版本，聚焦 AI 安全防护能力。该版本针对网络威胁检测与防御场景优化，旨在提升模型在安全领域的应用表现。相关讨论在 Hacker News 上获得 100 点热度。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日13时46分"
+  },
+  {
+    "id": "cmso8nqa70eq4rofw24w1wlwt",
+    "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+    "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+    "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月11日13时44分"
+  },
+  {
+    "id": "cmso9j1ye0ikrrofwcq2xoeek",
+    "title": "Gartner 预估 2026 年 AI 推理支出首次超越模型训练",
+    "url": "https://www.ithome.com/0/988/266.htm",
+    "summary": "Gartner 预估 2026 年全球 AI 推理支出（233 亿美元）将首次超过训练支出（190 亿美元），推理任务预计占 AI 优化型 IaaS 支出的 55%，2027 年升至 59%。该机构预测 2026 年全球 AI 优化 IaaS 支出将达 420 亿美元，同比增长 96%，标志着各组织正从实验阶段迈向生产应用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日13时43分"
+  },
+  {
+    "id": "cmso8nope0eparofwsalhg5o4",
+    "title": "智谱ZCode用户破百万，重置使用限制",
+    "url": "https://x.com/jietang/status/2087047752916386301",
+    "summary": "1M users already\n\n【引用 @Zai_org】：ZCode 现已拥有 100 万用户。为感谢社区支持，我们已重置所有 GLM Coding Plan 用户的使用限制。\n\n我们同时推出了一项更新，帮助将长程能力转化为实际完成的工作：\n\n- 在真实工程工作流中更强的智能--98% 缓存命中率，提供约 1.8 倍更多用量\n\n下载：https://zcode.z.ai/en 加入社区：https://discord.gg/EpH5XkTyhu",
+    "source": "X：唐杰（@jietang）",
+    "date": "2026年8月11日13时25分"
+  },
+  {
+    "id": "cmso9gukg0ik2rofw4s9cawe2",
+    "title": "DeepSeek 思考链自曝用户昵称，官方回应",
+    "url": "https://x.com/AYi_AInotes/status/2087047161934463052",
+    "summary": "DeepSeek 深度思考模式下，灰色思考链会临时给用户打\"墨墨\"\"人间加湿器\"等标签，官方解释称这只是推理时的上下文占位符，关闭对话框即删、不存储。引用推文指出，DeepSeek V4 完成同一 Agent 任务仅需 3 美分，比 Anthropic Fable 5 的 3.15 美元便宜 105 倍，称其为\"DeepSeek 2.0 时刻\"。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月11日13时23分"
+  },
+  {
+    "id": "cmso8nmhw0eoarofwxl1h8os3",
+    "title": "Grok Imagine 升级：Image 2.0 成创意工具",
+    "url": "https://x.com/elonmusk/status/2087046240353603854",
+    "summary": "Grok Imagine\n\n【引用 @minchoi】：Grok Imagine 不再只是图像生成器。\n\nImage 2.0 可以精准编辑照片、融合 5 张参考图、渲染清晰文字、调整任意尺寸并移除背景。\n\n这现在是一款真正的创意工具。\n\n100% AI\n\n10 个精彩示例（含提示词）：\n\n1. 宝丽来风格合影",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月11日13时19分"
+  },
+  {
+    "id": "cmso8nrh40eqmrofw7cxzqz3k",
+    "title": "GPT Luna Max 与 Claude Fable 克隆对决",
+    "url": "https://x.com/swyx/status/2087045848022843451",
+    "summary": "gpt luna max 对比 claude fable ultracode\n\n我发了条消息：\"请用 fal 上的开源模型，尽量忠实克隆一个 grok imagine。\"\n\n醒来看到这两个结果，我本以为 fable 是左边那个，luna 是右边那个。\n\n我错了……其实是反过来的！！\n\n客观来说，fable 在视觉克隆上做得更好。但 luna 不知怎的更懂我的意图，考虑到我偏向开源模型，它做出了更实用的克隆。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月11日13时18分"
+  },
+  {
     "id": "cmso7kyuc0dn2rofwpdlr5jjk",
     "title": "Grok 4.6 上线，1.5 万亿参数升级",
     "url": "https://x.com/kimmonismus/status/2087045590840476062",
@@ -15078,6 +15166,14 @@
     "summary": "Anthropic 未发布研究版 Claude 将黎曼 zeta 函数零点满足假设的比例下界从 41.6% 提升至 67.2%，人类数学家此前花了 37 年才从 40% 推进到 41.6%。",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年8月11日10时18分"
+  },
+  {
+    "id": "cmso9cgpp0ij3rofwxw4dhurg",
+    "title": "大模型能干，懂模帝会飞",
+    "url": "https://elsewhere.news/zh/funeralai/large-models-can-do-the-work-dong-modi-can-make-it-fly",
+    "summary": "AI圈最新趋势是唯模型论，具体表现有两个方面。这一现象反映出行业对模型能力的过度推崇，而忽视了对模型的理解与驾驭。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月11日10时0分"
   },
   {
     "id": "cmsnhrnf007flrohfbymmswct",
