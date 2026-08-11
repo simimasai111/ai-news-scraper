@@ -14808,12 +14808,92 @@
     "date": "2026年8月11日1时0分"
   },
   {
+    "id": "cmsokg9m40vndrofwrh88qh9a",
+    "title": "PixVerse 发布 Batu 提示词与 Seedance 2.5 控制",
+    "url": "https://x.com/PixVerse_/status/2087133274141507972",
+    "summary": "以下是 PixVerse 上完整的\"Batu\"提示词。史诗级广角镜头可即时生成。Seedance 2.5 让你精确控制具体镜头与运镜。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月11日19时5分"
+  },
+  {
+    "id": "cmsoliyb102zzrop20l748z9b",
+    "title": "Grok 新增 Voice Connector 生成语音备忘录",
+    "url": "https://x.com/testingcatalog/status/2087141790805631206",
+    "summary": "SpaceXAI 为 Grok 推出 Voice Connector，可生成语音备忘录，现已上线 Grok 网页端和移动端，部分区域仍在逐步推送。该功能支持将每日事件转为个性化播客或创建每日简报自动化，iOS、Android 和 Web 端用户无需设置即可使用。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月11日19时39分"
+  },
+  {
+    "id": "cmsoliv0t02y3rop219tieq99",
+    "title": "Anthropic 与比特币矿商 Riot Platforms 签署 91 亿美元数据中心协议",
+    "url": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms",
+    "summary": "Anthropic 与比特币矿商 Riot Platforms 签署 91 亿美元数据中心协议，租用其得州 Rockdale 站点 191 兆瓦电力，租期 20 年，含两次续约选项，总价值最高可达 161 亿美元。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月11日19时33分"
+  },
+  {
+    "id": "cmsolx7hm03rfrop2z5gm7ak8",
+    "title": "Seedance 2.5 与 MiniMax H3 对比",
+    "url": "https://x.com/foxshuo/status/2087138093455626363",
+    "summary": "左Seedance 2.5，右MiniMax H3，对比如何？",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月11日19时24分"
+  },
+  {
+    "id": "cmsok8wbs0vferofwc316g3bf",
+    "title": "李开复：中国开源大模型让美国人很担忧",
+    "url": "https://www.ithome.com/0/988/466.htm",
+    "summary": "李开复表示，越来越多美国公司开始使用中国开源产品，中国开源大模型正让美国人感到担忧。他指出，OpenAI 的 GPT-5.6 Sol 和 Anthropic 的 Fable 5 虽是最强 AI 模型，但仅比月之暗面的 Kimi K3 好一点，而 Kimi K3 价格可能便宜 60%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日19时11分"
+  },
+  {
+    "id": "cmsokd2b00viorofwaq9wrsv1",
+    "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+    "summary": "OpenAI 宣布其未发布的 Astra 模型解决了 10 道长期悬而未决的数学难题，涵盖球体堆积、纠错码、非 sofic 群存在性等领域，并发布超 250 页论文及 Lean 验证结果。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月11日19时0分"
+  },
+  {
+    "id": "cmsok8wbs0vfgrofw0w5ak273",
+    "title": "我国锂一次电池实现\"双高\"突破：25安时级软包金属锂一次电池研制成功",
+    "url": "https://www.ithome.com/0/988/459.htm",
+    "summary": "中国科学院大连化物所团队研制出25安时级软包金属锂一次电池，低倍率下能量密度超750Wh/kg，放电倍率可提高百倍，实现10C短时大电流放电。该电池常温比功率达4487W/kg，零下40摄氏度下1C能量密度保持447Wh/kg，年自放电低于1%，正加速验证于无人机、机器人等场景。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日18时53分"
+  },
+  {
+    "id": "cmsokgd8j0vpnrofw00p916xx",
+    "title": "Anthropic 将对欧盟新模型文本加水印",
+    "url": "https://x.com/testingcatalog/status/2087129071553511530",
+    "summary": "Anthropic 将自 2026 年 8 月 2 日起，对在欧盟发布的新 Claude 模型生成文本嵌入不可见水印，并计划推广至全球。水印内嵌于文本本身，复制粘贴后仍可保留，现有模型的水印功能仍在开发中。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月11日18时48分"
+  },
+  {
+    "id": "cmsok8wbt0vflrofwe09cqlil",
+    "title": "Anthropic 宣布研究版 Claude 攻克黎曼猜想取得重大突破",
+    "url": "https://www.ithome.com/0/988/453.htm",
+    "summary": "Anthropic 8 月 11 日宣布，未公开的研究版 Claude 在攻克黎曼猜想中取得重要进展，将黎曼 ζ 函数临界线上零点比例的长期下界从 41.6% 提高至 67.2%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日18时35分"
+  },
+  {
     "id": "cmsojdl6x0u4wrofwxb12znon",
     "title": "Meta 开源 Muse Glimmer 30B 成本仅为 Spark 1.2 五分之一",
     "url": "https://x.com/rohanpaul_ai/status/2087122661155696886",
     "summary": "Meta 开源 Muse Glimmer 30B，在 aimlapi 上以 $0.02 成本一次生成 5 个可运行游戏，约为 Muse Spark 1.2（$0.11）的五分之一。Glimmer 在 Flappy Bird 上表现更优，但赛车游戏仍有失误且画质较粗糙。该模型为 29.6B 稠密模型，由 Muse Spark 蒸馏而来，支持 131K+ 上下文，量化版小于 20GB。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月11日18时23分"
+  },
+  {
+    "id": "cmsok8wbt0vfmrofw5sfjmvvz",
+    "title": "英伟达 RTX 50 系显卡 7-8 月涨幅最高达 39%，官方建议零售价已成空谈",
+    "url": "https://www.ithome.com/0/988/449.htm",
+    "summary": "据新蛋数据，英伟达 RTX 50 系显卡 7-8 月价格大幅上涨，RTX 5060 Ti 16GB 版涨幅最高达 39%，从 570 美元涨至 805 美元；RTX 5070 涨 36% 至 900 美元。TechPower Up 认为主因是内存涨价潮推高显存成本，并传导至显卡制造商。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日18时22分"
   },
   {
     "id": "cmsoiphs10t9drofwnvtqwc37",
