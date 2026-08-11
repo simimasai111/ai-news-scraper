@@ -13848,6 +13848,78 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmspa6bq90a7trortkwkt8jox",
+    "title": "马斯克：五年后AI价值将占SpaceX九成九",
+    "url": "https://x.com/cb_doge/status/2087315860088140028",
+    "summary": "\"长期来看，大概四五年后，AI 将占 SpaceX 价值的 99%。我敢说五年后肯定如此，AI 将占 SpaceX 价值的 99%。SpaceX 的价值将是一个天文数字。这才叫有趣的未来。\"\n\n--埃隆·马斯克",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日7时10分"
+  },
+  {
+    "id": "cmspa6bq90a7vrortciwih8jr",
+    "title": "马斯克：Grok 将用 SpaceX 全部数据训练",
+    "url": "https://x.com/cb_doge/status/2087313113230000204",
+    "summary": "马斯克在 SpaceX 活动上表示，Grok 将用 SpaceX 全部信息训练，用户将成为 AI 的\"父母\"，使其继承人类的思想与价值观。他称未来由 AI 和机器人主导，必须赢得 AI 竞赛。Grok 4.6 约一周后发布，4.7 将\"非常特别\"。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日7时0分"
+  },
+  {
+    "id": "cmspa12g50a20rortwlck6sug",
+    "title": "Gemini 应用月活跃用户达 10 亿，成谷歌有史以来增长最快产品",
+    "url": "https://www.ithome.com/0/988/552.htm",
+    "summary": "谷歌 CEO 桑达尔·皮查伊宣布，Gemini 应用月活跃用户达到 10 亿，成为谷歌有史以来增长最快的产品，也是该公司第 14 款跨越十亿用户大关的产品。今年 6 月，Gemini 应用月活跃用户数刚超过 9 亿。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日6时59分"
+  },
+  {
+    "id": "cmsp93qua093urort328oac87",
+    "title": "马斯克：AI 收入下月将超 SpaceX 其他收入",
+    "url": "https://x.com/cb_doge/status/2087308409355817279",
+    "summary": "马斯克称 SpaceX 的 AI 收入预计 9 月超过其他所有收入，四季度将大幅领先，AI 已成 SpaceX 未来关键。他认为未来本质是 AI 与机器人，数字智能最终可能达生物智能的万亿倍，并强调需打造关怀人类的 AI 以助文明走向深空。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日6时41分"
+  },
+  {
+    "id": "cmsp9hk4609lwrort2927dyef",
+    "title": "从专有 LLM API 中窃取推理轨迹",
+    "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces",
+    "summary": "研究人员发现，Anthropic、OpenAI 和 Google 返回给客户端的加密思维链块可在会话、用户和模型间重放。通过将前沿模型的轨迹重放给较弱的同族模型并实施越狱，可恢复强模型的明文隐藏推理。所有模型提供商已确认收到报告，该攻击目前已被修复。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月12日6时40分"
+  },
+  {
+    "id": "cmsp940yl097nrortby95k9sx",
+    "title": "Oumi 新平台让 LLM 从生产流量中持续自学习",
+    "url": "https://x.com/testingcatalog/status/2087307236334829864",
+    "summary": "Oumi 推出新开发平台，让 LLM 能从自身生产流量中持续学习：模型可循环执行自身评估、合成发现的数据并自我训练，还能直接部署到生产环境。该平台旨在帮助企业构建、拥有并持续积累专属智能，而非租用通用模型，以形成差异化竞争优势。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月12日6时36分"
+  },
+  {
+    "id": "cmsp93r9l094arortthr88sxx",
+    "title": "Meta 发布 Muse Glimmer 30B 本地智能体模型",
+    "url": "https://x.com/rohanpaul_ai/status/2087307057389322585",
+    "summary": "Meta Superintelligence Labs 发布 Muse Glimmer，一款 30B 参数模型，专为单张消费级 GPU 上的常驻本地智能体设计。同日，扎克伯格发文阐述 Meta 让超级智能惠及所有人的 AI 愿景，伯尼·桑德斯则呼吁 OpenAI、Anthropic 和 Meta 暂停 AI 开发。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日6时35分"
+  },
+  {
+    "id": "cmsp9105w0917rortvu5edegu",
+    "title": "Mistral 整合推理基建与开放模型布局欧洲AI",
+    "url": "https://x.com/MistralAI/status/2087305196841922782",
+    "summary": "☁️Mistral 正在整合推理基础设施、开放模型以及欧洲掌控其 AI 未来所需的长期承诺，并为世界设定路线图。🧵： https://mistral.ai/news/regional-inference-open-models-new-compute/",
+    "source": "X：Mistral AI (@MistralAI)",
+    "date": "2026年8月12日6时28分"
+  },
+  {
+    "id": "cmsp93pm10930rort22uv4b87",
+    "title": "AA-AnalystAgent 基准发布：Claude Opus 5 居首",
+    "url": "https://x.com/ArtificialAnlys/status/2087303970725499361",
+    "summary": "Artificial Analysis 推出新智能体基准 AA-AnalystAgent，用于真实电子表格与文档的定量分析。Claude Opus 5（max）以 54% 领先，GPT-5.5（xhigh）50% 居次，Claude Fable 5 49% 第三。该基准每任务运行五次并以 pass^5 为核心指标，Kimi K3 为最佳开源模型（39%）。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月12日6时23分"
+  },
+  {
     "id": "cmsp81fnk08gmrort7rwbpign",
     "title": "OpenAI 为美国大学生提供一年免费 ChatGPT Plus",
     "url": "https://x.com/testingcatalog/status/2087298222301569414",
@@ -14014,6 +14086,14 @@
     "summary": "OPENAI 🔥：用户现在可以在 Codex、ChatGPT Work 及其他 AI 智能体之间同步项目、聊天、技能和插件。\n\n这很实用，尤其是当你经常测试不同实验室的不同订阅时。",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月12日4时20分"
+  },
+  {
+    "id": "cmspa12g50a1zrortmbu1wtao",
+    "title": "CoreWeave 2026 财年第二财季营收 25.75 亿美元，同比增长 112.46%",
+    "url": "https://www.ithome.com/0/988/544.htm",
+    "summary": "AI 云服务巨头 CoreWeave 发布 2026 财年第二财季财报，营收 25.75 亿美元，同比增长 112.46%，超出市场预期。上半年营收 46.53 亿美元，同比增长 112.08%，但归母净利润亏损扩大至 13.66 亿美元。截至 6 月 30 日收入储备订单达 1040 亿美元，算力规模扩张至 1.5 GW，并完成行业首次 NVIDIA Vera Rubin NVL72 启动验证。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日4时15分"
   },
   {
     "id": "cmsp3qu3i04zirort61c3jarb",
