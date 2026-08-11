@@ -14808,6 +14808,22 @@
     "date": "2026年8月11日1时0分"
   },
   {
+    "id": "cmsoc9zop0liurofw3qdcp4xn",
+    "title": "AI 如何改变漏洞响应时间线",
+    "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline",
+    "summary": "AI 正加速漏洞发现与修复，但响应瓶颈已从\"找到漏洞\"转向\"定位受影响系统\"。Google 威胁情报组 2026 年 5 月报告首例疑似 AI 辅助开发的零日漏洞利用，其 2025 年分析追踪到 90 个在野利用零日漏洞（2024 年为 78 个）。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月11日15时5分"
+  },
+  {
+    "id": "cmsocxxw60m4jrofwhudx0ybd",
+    "title": "Anthropic 拟九月上市，OpenAI 或明年跟进",
+    "url": "https://x.com/kimmonismus/status/2087082103674458242",
+    "summary": "Anthropic 正瞄准九月或十月初的公开上市。\n\nOpenAI 预计将紧随其后进行 IPO，时间可能晚至明年。\n\n因此，我预计在 IPO 前会有一个全新且重大的 Fable 版本发布，以进一步推高其估值。\n\n来源：WSJ",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日15时42分"
+  },
+  {
     "id": "cmso9j1yd0iknrofwfmvzcvuy",
     "title": "全球亿万富翁身价报告：马斯克日增 8.75 亿美元居首，DeepSeek 梁文锋飙升 3850% 最快",
     "url": "https://www.ithome.com/0/988/273.htm",
@@ -14816,12 +14832,92 @@
     "date": "2026年8月11日14时8分"
   },
   {
+    "id": "cmsobo81w0kwxrofwlf96zzdb",
+    "title": "谷歌在韩月活用户首超 Naver，AI 搜索与 Gemini 成关键推手",
+    "url": "https://www.ithome.com/0/988/287.htm",
+    "summary": "谷歌 App 上月韩国月活用户达 4702.2854 万，首次超越 Naver（4684.5017 万），为 IGAWorks 自 2021 年 3 月统计以来首次。业内认为，谷歌 AI 大模型 Gemini 推广和 AI 搜索功能强化带动用户增长。ChatGPT 上月韩国用户达 1645.6151 万，为 DAUM 的 2.6 倍，在生产力应用中位居第七。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日14时58分"
+  },
+  {
+    "id": "cmsobo81w0kwyrofw333n1qar",
+    "title": "微软 MAI-Image-2.6 发布，跃升 Arena 文生图模型榜第二位",
+    "url": "https://www.ithome.com/0/988/286.htm",
+    "summary": "微软发布新一代自研文生图模型 MAI-Image-2.6，在 Arena 排行榜位列第二，Elo 评分 1336 分，仅次于 OpenAI 的 GPT Image 2（Medium）。相比 2.5 版本，整体评分提升 79 分，文本渲染能力涨幅达 91 分，排名从第十位跃升至第二位。该模型已在 Arena 平台开放体验，计划本周部署至 MAI Playground。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日14时58分"
+  },
+  {
+    "id": "cmsobvchr0l23rofwtu91260g",
+    "title": "GLM ZCode 百万用户，重置用量再掀价格战",
+    "url": "https://x.com/kimmonismus/status/2087070098183819553",
+    "summary": "GLM 旗下 ZCode 用户破百万，官方重置所有 GLM Coding Plan 用户的用量限制，并推出更新以提升真实工程流程智能，实现 98% 缓存命中率，带来约 1.8 倍更多用量。此举标志着价格战进入新一轮，竞争持续加剧。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日14时54分"
+  },
+  {
+    "id": "cmsobo81w0kx1rofwapltdg0i",
+    "title": "马斯克赞同 Cloudflare 预测：未来 5 年内 AI 流量将超人类互联网用量 1000 倍",
+    "url": "https://www.ithome.com/0/988/284.htm",
+    "summary": "马斯克在 X 平台发文，赞同 Cloudflare 首席财务官观点，认为未来 5 年内智能体 AI 流量可能超过人类流量的 1000 倍。Cloudflare 预计机器生成流量将在 2026 年 5 月超过人类流量。HUMAN Security 报告显示，2025 年 AI 驱动月流量增长 187%，超 95% 集中于零售电商、流媒体及旅游酒店领域。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日14时52分"
+  },
+  {
+    "id": "cmsobsdw00l14rofwbm182edx",
+    "title": "\"认知公共领域\"的悲剧：AI 如何侵蚀职业专长的再生基础",
+    "url": "https://arxiv.org/abs/2607.29380",
+    "summary": "一篇概念性论文提出\"认知公共领域\"框架，指出理性的 AI 采用决策可能耗尽职业更新所需的共享专长池。该框架区分\"内化精通\"与\"分布式精通\"，并提出\"验证锚链\"：有效的 AI 监督依赖于 AI 采用本身可能削弱的人类专长。早期劳动力市场与临床证据显示，高 AI 暴露行业的专长再生路径或受干扰，但采用尚属近期，最强信号来自领先行业而非所有职业。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日14时50分"
+  },
+  {
+    "id": "cmsobvepa0l3drofw6ovm5rvc",
+    "title": "腾讯混元发布 Hy3D WorldClaw 智能体工作流",
+    "url": "https://x.com/TencentHunyuan/status/2087068591296536755",
+    "summary": "推出 Hy3D WorldClaw--一个从文本提示词生成大规模 3D 开放世界的智能体工作流。🚀🚀🚀 不是视频，不是高斯泼溅，WorldClaw 生成的每个场景都可自由探索，且完全由可编辑、可直接用于游戏的 3D 资产构建，具备高质量几何与纹理。项目页面：https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "date": "2026年8月11日14时48分"
+  },
+  {
+    "id": "cmsobo81w0kx3rofwqrbiivzh",
+    "title": "谷歌 Gemini 3.7 Flash 模型踪迹曝光，发布不到 1 个月",
+    "url": "https://www.ithome.com/0/988/280.htm",
+    "summary": "谷歌正酝酿推出 Gemini 3.7 Flash 模型，其踪迹已出现在谷歌 Python GenAI SDK 的 GitHub 页面。内部曾有人试图添加 gemini-3.7-flash 模型，但因命名错误被拒绝。目前官方目录仍以 7 月 21 日发布的 Gemini 3.6 Flash 为主，外界推测新模型或处于前期准备或内部测试阶段。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日14时36分"
+  },
+  {
+    "id": "cmsobo81w0kx4rofw0h14bfmf",
+    "title": "腾讯 WorkBuddy 上线多端同步功能，打通手机和电脑",
+    "url": "https://www.ithome.com/0/988/278.htm",
+    "summary": "腾讯 WorkBuddy 上线多端同步功能，实现 PC、App、小程序三端的任务、对话记录与产物实时同步，并支持手机远程对电脑端任务进行授权与停止，以及\"锁屏远程\"。App 需升级至 1.2.0 及以上版本、PC 端升级至 5.3.8 及以上版本。用户使用同一账号登录并打开连接开关即可连接设备，移动端可查看多台 PC 端设备的任务和工作空间记录。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日14时25分"
+  },
+  {
+    "id": "cmsobo81w0kx5rofw047oopn7",
+    "title": "消息称谷歌已搁置发布 Gemini 3.5 Pro AI 模型",
+    "url": "https://www.ithome.com/0/988/277.htm",
+    "summary": "行业分析机构 Semi Analysis 报告称，谷歌内部可能已搁置 Gemini 3.5 Pro 模型，为填补空档或提前宣传 Gemini 4 系列。该模型原定于 6 月推出，至今未上线。按 Artificial Analysis Intelligence Index，Gemini 当前位列实验室排名第 8，落后于 Muse Spark 1.2、Grok 4.5 及中国开源实验室头部模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日14时23分"
+  },
+  {
     "id": "cmsoasx090jnrrofwelid3gei",
     "title": "webAI 发布 TwIL-LM：1.7B 和 3B 形式逻辑模型家族，可在本地硬件上运行",
     "url": "https://www.marktechpost.com/2026/08/10/webai-releases-twil-lm-a-1-7b-and-3b-formal-logic-model-family-for-autoformalization-on-local-hardware",
     "summary": "webAI 发布 TwIL-LM 形式逻辑模型家族，含 1.7B 和 3B 两个版本，均可在本地硬件运行，仅限非商业使用。其中 TwIL-LM3 为 SmolLM3-3B 的合并微调版本，在六项平均得分上以 0.4488 落后于 gpt-oss-120b 的 0.5192，但生成效率更高，每秒可处理 32.9 个答案，而后者仅为 4.2。",
     "source": "MarkTechPost（RSS）",
     "date": "2026年8月11日14时20分"
+  },
+  {
+    "id": "cmsobo81w0kx6rofwgfqf0zx6",
+    "title": "智谱宣布 ZCode 全面升级，GLM Coding Plan 全员额度回满",
+    "url": "https://www.ithome.com/0/988/276.htm",
+    "summary": "智谱今日宣布 ZCode 重大升级，Goal、Subagents、Remote Control 与闲时任务四大功能正式上线，并作为百万用户里程碑回馈，GLM Coding Plan 全体用户额度已于今天 13：00 统一重置回满。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日14时19分"
   },
   {
     "id": "cmsoaprnd0jisrofwjxqn3trv",
