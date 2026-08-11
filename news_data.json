@@ -13848,6 +13848,38 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsozgpx701gcrortxiuta5yl",
+    "title": "Grok Bot 智能体进入早期测试",
+    "url": "https://x.com/testingcatalog/status/2087240097242763515",
+    "summary": "SPACEXAI 🔥：Grok Bot 智能体已以早期测试版形式向 Grok Heavy、Cursor Ultra 和 Cursor Team Premium 用户推出！\n\n用户现在可以创建并运行自己的机器人来执行真实任务。Grok Bots 拥有自己的计算机，并可访问多种工具。\n\n我们希望更多套餐也能用上 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月12日2时9分"
+  },
+  {
+    "id": "cmsozghqp01dgrortbg2407bz",
+    "title": "TileRT 提升解码交互性 1.9 倍，对 Groq 等影响几何",
+    "url": "https://x.com/SemiAnalysis_/status/2087239578541334922",
+    "summary": "警报🚨 来自 @TileRT_AI 的 TILERT，可在相同的 NVIDIA Blackwell GPU 上、以相同的每 token 成本，将解码交互性提升 1.9 倍。这对 Groq/Cerebras/SambaNova 意味着什么？👇️ 1/5🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月12日2时7分"
+  },
+  {
+    "id": "cmsozghlv01darortt9di58dd",
+    "title": "Grok Bot 发布：持久化云端智能体",
+    "url": "https://x.com/rohanpaul_ai/status/2087239029574222227",
+    "summary": "SpaceXAI 推出 Grok Bot，核心是持久化云端计算机，用户离开后仍可继续工作。它能登录无 API 或 MCP 的网站和应用，多个 Bot 可互相通信、共享上下文并交由管理 Bot 协调。Beta 版仅限 SuperGrok Heavy、Cursor Ultra 和 Cursor Teams Premium 用户，企业版仍待候补。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日2时5分"
+  },
+  {
+    "id": "cmsozgjrq01e2rortet6uavcw",
+    "title": "OpenAI 完成约 70 亿美元股票回购，员工可按 8520 亿美元估值套现",
+    "url": "https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock",
+    "summary": "OpenAI 完成一笔约 70 亿美元的股票回购，现任及前任员工可按公司当前 8520 亿美元估值出售股份。该要约收购自 3 月 1220 亿美元融资轮后启动，旨在缓解员工在潜在 IPO 延迟前的流动性压力。此前 2025 年 10 月，OpenAI 曾进行 66 亿美元类似股票出售，约 75 名员工每人套现最高 3000 万美元。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月12日2时1分"
+  },
+  {
     "id": "cmsoxb9us09xbrohddbf4hioc",
     "title": "Grok Bot 发布：24/7 全天候 AI 智能体团队",
     "url": "https://x.com/cb_doge/status/2087224750556750180",
@@ -13870,6 +13902,38 @@
     "summary": "Google 宣布 Gemini 月活用户突破 10 亿，成为公司史上增长最快的产品，也是第 14 个达到该里程碑的产品。Google Labs VP Josh Woodward 表示，目标仍是让 Gemini 成为最个性化、最主动且最强大的助手，并分享了首个 10 亿用户阶段的经验与下一步规划。",
     "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
     "date": "2026年8月12日1时5分"
+  },
+  {
+    "id": "cmsoyr0vt02ltro3ywhppdipy",
+    "title": "Introducing Grok Bot Aug 11， 2026 # Introducing Grok Bot Grok Bot is your team of always-on agents. They have their own computer， work inside tools and apps like you do， and keep working 24/7. Read More",
+    "url": "https://x.ai/news/introducing-grok-bot",
+    "summary": null,
+    "source": "xAI：News（网页）",
+    "date": "2026年8月12日1时57分"
+  },
+  {
+    "id": "cmsozghlv01dbrort83dkl2l6",
+    "title": "Garry Tan：未来整个创业公司就是 Markdown 文件",
+    "url": "https://x.com/rohanpaul_ai/status/2087235428449685992",
+    "summary": "YC 总裁 Garry Tan 在 Startup School 表示，未来整个创业公司就是 Markdown 文件，AI 智能体可读取指令、调用工具并按时执行，使规范与产品边界消融。他强调个人 AGI 时代到来，AI 能将员工积累的判断转化为无需本人即可持续运作的资产，不掌握技能，工作就会变成技能文件。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日1时51分"
+  },
+  {
+    "id": "cmsozdp75019irortkcq88e6y",
+    "title": "OpenAI 特别项目负责人、前 COO Brad Lightcap 离职",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+    "summary": "OpenAI 特别项目负责人、前 COO Brad Lightcap 在任职八年后宣布离职，称将开启新事业，未来几周仍留任交接。Lightcap 近一年半职务多次调整，今年 4 月正式卸任 COO 转任现职。这是 OpenAI 高管层近期第三位离职者，此前 AGI 负责人 Fidji Simo 与 CMO Kate Rouch 已相继离任。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月12日1时50分"
+  },
+  {
+    "id": "cmsozgemv01bgrortdmgoygnw",
+    "title": "Grok Bot 上线：AI 同事可并行协作",
+    "url": "https://x.com/kimmonismus/status/2087234458336604370",
+    "summary": "xAI 推出 Grok Bot（早期测试版），用户可创建拥有独立电脑的 AI 同事，能登录 Gmail、Salesforce 等网站，24/7 工作并主动汇报。该产品与 Cursor 深度集成，下载由 Cursor 托管，Ultra 套餐包含，SuperGrok Heavy 用户也可用。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月12日1时47分"
   },
   {
     "id": "cmsoydvhw028uro3y9v7qhcgv",
@@ -14141,6 +14205,14 @@
     "url": "https://x.com/natolambert/status/2087212343067541605",
     "summary": "研究者发现可利用所有前沿AI公司API的漏洞，提取前沿模型的隐藏推理过程，并验证推理token数与API计费思考token在多数提示词下1：1匹配。Nathan Lambert对此表示，在中国时曾有人暗示每家实验室都这么做，很高兴有公开研究，并称无需对蒸馏采取政策行动，只需产品按预期工作。",
     "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月12日0时19分"
+  },
+  {
+    "id": "cmsozdp75019krortcpvdtbkg",
+    "title": "Apple 或推\"Apple Reference Image\"功能，在拍摄时验证 iPhone 照片非 AI 伪造",
+    "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+    "summary": "苹果正在开发 iOS 功能\"Apple Reference Image\"，可在 iPhone 拍摄时嵌入来源元数据，帮助用户证明照片非 AI 伪造。",
+    "source": "The Verge：AI（RSS）",
     "date": "2026年8月12日0时19分"
   },
   {
