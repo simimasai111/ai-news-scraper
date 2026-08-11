@@ -14808,12 +14808,92 @@
     "date": "2026年8月11日1时0分"
   },
   {
+    "id": "cmso7kyuc0dn2rofwpdlr5jjk",
+    "title": "Grok 4.6 上线，1.5 万亿参数升级",
+    "url": "https://x.com/kimmonismus/status/2087045590840476062",
+    "summary": "Grok 4.6 已开始推送！发布日快乐。\n\n请记住：据 Elon 称，Grok 4.6 将是一个 1.5 万亿参数的模型，SFT 和 RL 均有重大升级。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日13时16分"
+  },
+  {
+    "id": "cmso7i0al0dlsrofwivmpsjh1",
+    "title": "编写智能体时，哪种编程语言最合适？",
+    "url": "http://danluu.com/pl-tokens",
+    "summary": "针对\"动态语言比静态语言更省 LLM token\"的流行说法，作者用 GPT-5.6 Sol 让智能体实现 zstd 解码器进行实测。结果显示，medium 努力度下动态语言表现更好，ultra 下静态语言反而更优，且此前评测存在测试路径错误等缺陷。作者认为，琐碎任务上的性能无法推广到更大问题。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日12时58分"
+  },
+  {
+    "id": "cmso7l8x00dssrofwesgi387i",
+    "title": "智谱ZCode用户破百万，GLM编程计划限额重置",
+    "url": "https://x.com/Zai_org/status/2087040814677725262",
+    "summary": "ZCode 现已拥有 100 万用户。为感谢社区支持，我们已重置所有 GLM 编程计划用户的使用限额。\n\n我们同时推出了一项更新，助力将长程能力转化为实际完成的工作：\n\n- 在真实工程工作流中展现更强智能 - 98% 缓存命中率，提供约 1.8 倍更多用量\n\n下载：https://zcode.z.ai/en 加入社区：https://discord.gg/EpH5XkTyhu",
+    "source": "X：智谱 Z.ai (@Zai_org)",
+    "date": "2026年8月11日12时58分"
+  },
+  {
+    "id": "cmso7du6n0djbrofwglwr51tq",
+    "title": "Anthropic 为 Claude 生成文本加入隐形水印，防范 AI 内容冒充原创",
+    "url": "https://www.ithome.com/0/988/260.htm",
+    "summary": "Anthropic 宣布，8 月 2 日或之后发布的新版 Claude 模型将在 AI 生成的文本中嵌入无法察觉的水印，不改变含义或可读性，复制粘贴及部分编辑后仍可保留。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日12时52分"
+  },
+  {
+    "id": "cmso7l80o0dsirofw09na4juk",
+    "title": "Jeff Dean分享KDD 2026幕后花絮",
+    "url": "https://x.com/JeffDean/status/2087038694054072637",
+    "summary": "确实，这是相当忙碌的一周，所以我想与KDD 2026的观众分享！对于周四下午我最后一次合上笔记本电脑后可能给我发内部聊天消息的Google同事们，我为没有回复表示歉意！\n\n（放大）",
+    "source": "X：Jeff Dean (@JeffDean)",
+    "date": "2026年8月11日12时49分"
+  },
+  {
+    "id": "cmso7kzg10dnirofwzynwxb3w",
+    "title": "AI 结论泛滥：知其然不知其所以然",
+    "url": "https://x.com/frxiaobei/status/2087038298166546622",
+    "summary": "技术评审中大量 AI 生成的架构图与结论，现场追问设计逻辑、数据流转和方案取舍时却答不上来，问题在于人只拿到最终答案、未经历推理过程。引用硅谷团队 Token 不限量实验显示，成员单日花费最高 $7，000、中位数 $2，000，会议数环比减少近 80%，但人更累且对项目理解不足。AI 结论未真正进入人脑与组织，任务可无限并行，人的注意力却不能。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月11日12时48分"
+  },
+  {
+    "id": "cmso6ihoi0ce4rofwscuqoe8q",
+    "title": "AI文本水印技术与欧盟AI法案合规现状",
+    "url": "https://x.com/deedydas/status/2087037735819460675",
+    "summary": "AI文本水印检测无法做到完美，约400 token时真阳性率约90%（假阳性率<1%）。欧盟AI法案第50（2）条要求所有模态AI生成内容可检测，第113条规定2026年8月2日起适用。Claude宣布合规，Gemini已用SynthID，OpenAI曾搁置水印方案但表示将扩展溯源信号至文本。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月11日12时45分"
+  },
+  {
+    "id": "cmso6ikyg0cgarofwfu8vkaie",
+    "title": "Jeff Dean 分享 KDD 2026 幕后一周",
+    "url": "https://x.com/JeffDean/status/2087037234113663397",
+    "summary": "确实，这是相当充实的一周，所以我想与 KDD 2026 的观众分享！对于周四下午我最后一次合上笔记本电脑后可能给我发过内部聊天消息的 Google 同事，我为没有回复表示歉意！",
+    "source": "X：Jeff Dean (@JeffDean)",
+    "date": "2026年8月11日12时43分"
+  },
+  {
     "id": "cmso6id0c0cberofw2fodhfjj",
     "title": "ChatGPT Work与Codex用量限额已重置",
     "url": "https://x.com/kimmonismus/status/2087036965698916735",
     "summary": "享受你的重置吧。Tibo 兑现了他的承诺 &lt；3",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月11日12时42分"
+  },
+  {
+    "id": "cmso7i0al0dltrofwtwzo6bpl",
+    "title": "H3-metal：面向 Apple Silicon 的原生 MiniMax-H3 推理",
+    "url": "https://github.com/antirez/h3.c",
+    "summary": "H3-metal 项目为 Apple Silicon 提供原生 MiniMax-H3 推理，已实现 prompt-to-video/audio、首尾帧条件控制及有序 Ref2VA 图像/视频/音频引用端到端工作流。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月11日12时42分"
+  },
+  {
+    "id": "cmso819jn0e39rofwa8b1isg3",
+    "title": "Charlie Holtz 分享当前 AI 元认知观察",
+    "url": "https://x.com/charlieholtz/status/2087034463549358138",
+    "summary": "当前元认知",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月11日12时32分"
   },
   {
     "id": "cmso5fvd50bfmrofw7cvjjaw3",
@@ -14824,12 +14904,44 @@
     "date": "2026年8月11日12时2分"
   },
   {
+    "id": "cmso6x2zq0d99rofwbm2h4841",
+    "title": "卖铲人赢麻：应用利润不及头部大铲",
+    "url": "https://x.com/chunxiangai/status/2087033684713161163",
+    "summary": "基于 TrustMRR 数据的产品市场分析显示，卖铲子（AI 基础设施）的公司持续领先，做应用的所有公司利润总和不及头部大铲一家。该报告由 Claude Fable5 爬取 TrustMRR 数据生成。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月11日12时29分"
+  },
+  {
     "id": "cmso6ff9r0c9frofw8rj2sc3x",
     "title": "OpenAI 致阿博特州长公开信：关于德克萨斯州负责任的人工智能基础设施",
     "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
     "summary": "OpenAI 发布致德克萨斯州州长阿博特的公开信，呼吁在该州建设负责任的人工智能基础设施。信中强调 AI 发展需兼顾创新与安全，并可能涉及数据中心、能源等基础设施议题。OpenAI 此举旨在影响州级政策，为大规模 AI 部署争取支持。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月11日12时26分"
+  },
+  {
+    "id": "cmso6x2zq0d9arofwwwxytcas",
+    "title": "赵纯想：AI 终局中人类是否还需坐在电脑前",
+    "url": "https://x.com/chunxiangai/status/2087032163988615369",
+    "summary": "赵纯想提出非共识分两种：一种刺穿并取代旧共识（如无键盘手机取代有键盘手机），一种膨大并扩展边界（如 Airbnb 扩展酒店业）。他认为 AI 行业当前从长程前台任务到云端沙箱、多 Agent 协作等探索均处于不稳定过渡期，界限模糊，尚非可固化的历史节点，终局问题在于人是否还需坐在电脑前。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月11日12时23分"
+  },
+  {
+    "id": "cmso7du6n0djfrofwozq2a5yb",
+    "title": "英伟达携手六大机构推5000亿美元融资计划，黄仁勋称AI芯片已成\"投资级资产\"",
+    "url": "https://www.ithome.com/0/988/255.htm",
+    "summary": "英伟达与阿波罗、黑石、贝莱德、博枫、高盛和KKR签署谅解备忘录，共同推动一项规模达5000亿美元（约合3.38万亿元人民币）的融资计划，为云服务商和AI实验室筹集第三方资本，用于建设数据中心和采购英伟达硬件。黄仁勋称这是\"科技芯片第一次成为一种可投资的资产类别\"，贝莱德CEO芬克认为该项目可能开启\"金融工程的下一个未来\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日12时20分"
+  },
+  {
+    "id": "cmso7bojy0disrofwg3kmadfp",
+    "title": "字节 Seedance 2.5 免费开源提示词文档",
+    "url": "https://x.com/AYi_AInotes/status/2087031387970736235",
+    "summary": "字节 Seedance 2.5 与 Seedream 5.0 Pro 的提示词文档免费开源，内含几十套完整案例，覆盖盛唐 30 秒长镜头、废土科幻一镜到底等场景。视频支持 30 秒生成、时间戳指定镜头动作，最多吃 30 图 + 10 视频 + 10 音频参考；生图支持高密度信息图与商用级人像。官方将专业分镜、运镜、负面词方法论拆成可直接复制的 Prompt，替代传统分镜师与后期团队一周的工作。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月11日12时20分"
   },
   {
     "id": "cmso6ejrx0c87rofwyj39wct4",
