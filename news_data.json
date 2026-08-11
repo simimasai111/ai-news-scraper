@@ -14808,6 +14808,94 @@
     "date": "2026年8月11日1时0分"
   },
   {
+    "id": "cmsog5r0u0q6trofwnlerjacm",
+    "title": "Anthropic 将隐形水印直接嵌入 Claude 模型层",
+    "url": "https://x.com/kimmonismus/status/2087102975106019579",
+    "summary": "Anthropic 将隐形水印直接嵌入 Claude 模型层，2026 年 8 月 2 日起在欧盟发布的模型将在生成文本中嵌入机器可读标记，并全球适用于 Claude、API、Claude Code 及云合作伙伴。生成的 PNG、JPG、SVG 文件也将附带 C2PA 来源元数据。水印随复制内容传播，但重度编辑、改写或翻译可能使其失效。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月11日17时5分"
+  },
+  {
+    "id": "cmsog5y5y0qb9rofwvr2hgk6p",
+    "title": "豆包App推酒店预订抽佣12%引热议",
+    "url": "https://x.com/thexpin/status/2087102664563994779",
+    "summary": "字节跳动豆包App引入新广告模式，用户通过其推荐链接预订酒店将收取12%佣金，高于抖音现有的8%推广费。调查显示66.2%中国用户仍会在传统OTA平台核验AI推荐，仅15.2%直接通过AI预订。豆包月活已达数亿，但据报道日收入不足14万美元，凸显其商业化难题。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月11日17时3分"
+  },
+  {
+    "id": "cmsogatbh0qdgrofwzm7gdk0a",
+    "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+    "summary": "蚂蚁百灵开源 Ling-3.0-tiny，一款总参数 7.9B、推理时仅激活 1.3B 参数的原生混合推理模型，同步提供 BF16、FP8 和 INT4 三个版本。",
+    "source": "公众号：蚂蚁百灵（Ling）",
+    "date": "2026年8月11日17时20分"
+  },
+  {
+    "id": "cmsog5zpn0qc7rofwcmfeqttv",
+    "title": "Cursor 预告今日发布 Composer 3 或 Grok 4.6",
+    "url": "https://x.com/testingcatalog/status/2087105588001906809",
+    "summary": "Cursor 团队正在预告今日可能发布的内容，可能是 Composer 3（Vega）或 Grok 4.6--后者昨日曾被意外短暂启用。\n\n很快见 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月11日17时15分"
+  },
+  {
+    "id": "cmsofyjf10q1zrofwcc3fpztm",
+    "title": "谷歌力推的 AI 招聘工具遭自家 DeepMind 团队\"打脸\"：或不小心误筛简历",
+    "url": "https://www.ithome.com/0/988/380.htm",
+    "summary": "谷歌向企业客户推销 AI 招聘工具，但自家 Google DeepMind AGI 安全与对齐团队却鼓励应聘者额外填写表格，以防申请被内部 AI 系统误筛或延迟处理。内部文件称系统\"有不小的概率会误筛掉你的简历\"，并注明\"请勿广泛分享\"。Google DeepMind 发言人回应称内部系统不会错误淘汰求职者，专门表格只是让申请绕过招聘人员审核直接送达团队成员。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日16时59分"
+  },
+  {
+    "id": "cmsof3bjw0oserofwjfob2yjy",
+    "title": "Anthropic 为所有 Claude 输出全球添加水印，称\"可能经部分编辑后仍留存\"",
+    "url": "https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing",
+    "summary": "Anthropic 已签署欧盟《人工智能法案》行为准则，自 2026 年 8 月起所有新 Claude 模型将在全球范围内为文本嵌入不可见水印，并为 .svg、.png、.jpg 等文件附加基于 C2PA 标准的签名来源元数据。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月11日16时45分"
+  },
+  {
+    "id": "cmsofwcjz0q1mrofwilp1st3q",
+    "title": "开源维护者如何免费申领6个月ChatGPT Pro",
+    "url": "https://x.com/AYi_AInotes/status/2087093357067526332",
+    "summary": "OpenAI 推出 Codex for Open Source 计划，为开源项目核心维护者提供 6 个月免费 ChatGPT Pro（含 Codex 编程能力），价值约 1200 美元。申请门槛不高：公开项目核心维护者或主要贡献者，项目有实际使用量即可，无硬性 Star 要求，但 100-200+ Star 成功率更高。提交后滚动审核，约一周出结果，已有订阅需等当前订阅过期后才能启用。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月11日16时26分"
+  },
+  {
+    "id": "cmsof3cnh0ot0rofw8i99wq3u",
+    "title": "Kimi K3 登陆 Databricks Unity AI Gateway",
+    "url": "https://x.com/Kimi_Moonshot/status/2087091895822631178",
+    "summary": "Moonshot AI 开源权重模型 Kimi K3 现已在 Databricks 的 Unity AI Gateway 上线。企业可通过该网关部署 Kimi K3，获得企业级访问控制、调用治理与性能监控，并可在不更改应用代码的情况下与其他前沿模型并行测试。",
+    "source": "X：Kimi.ai (@Kimi_Moonshot)",
+    "date": "2026年8月11日16时20分"
+  },
+  {
+    "id": "cmsodtdrb0ngarofwcg89zyfa",
+    "title": "顺丰198台L4无人车在深圳实现昼夜常态化规模化运营",
+    "url": "https://www.ithome.com/0/988/360.htm",
+    "summary": "顺丰198台L4级自动驾驶无人车已在深圳全面上线，形成307条常态化线路及25条专属夜间任务序列，日间常态化运营线路达180条，高峰期单日快件处理峰值可达9万件。无人车覆盖转运中心、末端网点及收派最后一公里三大场景，搭载多传感器融合系统与自研全时段安全冗余算法，并配备云端智能调度系统实现全域管控。这标志着城市末端物流自动驾驶正从试点测试迈入规模化商用新阶段。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日16时1分"
+  },
+  {
+    "id": "cmsodtdrb0ngbrofwpjgv3959",
+    "title": "英伟达 RTX 4080 魔改 32GB 显存涡轮显卡现身闲鱼",
+    "url": "https://www.ithome.com/0/988/359.htm",
+    "summary": "改装版英伟达 GeForce RTX 4080 涡轮显卡现身闲鱼，显存从 16GB 升级至 32GB GDDR6X，售价普遍超过 1 万元。显存翻倍不改变 256-bit 位宽，也不提升带宽，但大显存更适合模型训练。这类魔改显卡可能需修改驱动，且无原厂保修，质量无法保证。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日16时1分"
+  },
+  {
+    "id": "cmsofyjf10q28rofwoeo90t7m",
+    "title": "OpenAI 伦理主管 Chloé Bakalar 悄然离职，在岗不到一年",
+    "url": "https://www.ithome.com/0/988/365.htm",
+    "summary": "OpenAI 人工智能伦理主管 Chloé Bakalar 已于今年 7 月末离职，距她 2025 年 8 月加入公司不到一年。她此前在 Meta 工作六年，曾制定并领导 Meta 的 AI 智能伦理项目。OpenAI 发言人表示，人工智能伦理并非由某个所有者或团队负责，而是融入模型构建过程并由多个研究团队共同参与。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日16时12分"
+  },
+  {
     "id": "cmsoc9zop0liurofw3qdcp4xn",
     "title": "AI 如何改变漏洞响应时间线",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline",
@@ -14816,12 +14904,44 @@
     "date": "2026年8月11日15时5分"
   },
   {
+    "id": "cmsodtdrb0ngcrofwa2guxix9",
+    "title": "消息称三星集结全公司之力加快自研人形机器人，水平或超韩国同类产品",
+    "url": "https://www.ithome.com/0/988/358.htm",
+    "summary": "韩媒称三星电子正集结全公司力量加快人形机器人研发，除子公司Rainbow Robotics外，三星也在独立开发自有产品，业界人士称其水平或已超过韩国主要同类产品。三星将利用家电等制造基地的生产数据、自主AI模型Samsung Gauss及自研执行器推进研发，并已成立由卢泰文直接领导的RX事业推进室，计划在龟尾建设数据工厂用于机器人训练。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日15时59分"
+  },
+  {
+    "id": "cmsoe0m250nnarofw4ftz8iu8",
+    "title": "MiniMax H3 获 Sol Engine 首日加速",
+    "url": "https://x.com/MiniMax_AI/status/2087084610547319058",
+    "summary": "MiniMax H3 开源视频模型发布首日即获 Sol Engine 加速，4.5 小时内实现端到端推理速度较 Diffusers 提升 3.95 倍、较 SGLang 提升 2.80 倍。加速方案结合内核融合、跨步缓存与 Sol-Attn 免训练稀疏注意力，无需蒸馏或微调。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月11日15时52分"
+  },
+  {
     "id": "cmsocxxw60m4jrofwhudx0ybd",
     "title": "Anthropic 拟九月上市，OpenAI 或明年跟进",
     "url": "https://x.com/kimmonismus/status/2087082103674458242",
     "summary": "Anthropic 正瞄准九月或十月初的公开上市。\n\nOpenAI 预计将紧随其后进行 IPO，时间可能晚至明年。\n\n因此，我预计在 IPO 前会有一个全新且重大的 Fable 版本发布，以进一步推高其估值。\n\n来源：WSJ",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月11日15时42分"
+  },
+  {
+    "id": "cmsodtdrc0ngmrofwyqroozrl",
+    "title": "深度求索注册\"Deepseek Harness 团队\"公众号，主攻代码智能体产品",
+    "url": "https://www.ithome.com/0/988/327.htm",
+    "summary": "北京深度求索人工智能基础技术研究有限公司已注册微信公众号\"Deepseek Harness 团队\"，目前暂未发文。据IT之家今年5月援引甲子光年消息，DeepSeek已在内部组建全新Harness团队，主攻代码智能体产品，内部对标Anthropic的Claude Code。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日15时22分"
+  },
+  {
+    "id": "cmsodtdrc0ngnrofwolb0p4mz",
+    "title": "蔡磊谈攻克渐冻症：留下的是一个已跑通底层逻辑的试验田",
+    "url": "https://www.ithome.com/0/988/323.htm",
+    "summary": "蔡磊接受央视《面对面》专访时表示，攻克渐冻症不能只靠同情心、情怀和呼吁，热度终会消散。他称自己这几年一直在用做企业创业的逻辑，搭建可持续运转的底层基础设施体系，留下的是一个已跑通底层逻辑的试验田。此前他在2026中国AI盛典获\"2026年度AI特别贡献人物\"，其团队搭建的渐冻症\"AI科研大脑\"已在动物模型验证治愈的可能路径。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月11日15时18分"
   },
   {
     "id": "cmso9j1yd0iknrofwfmvzcvuy",
