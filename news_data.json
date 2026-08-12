@@ -13848,6 +13848,166 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmspc30un0e4xrorts1kax9zg",
+    "title": "零基础用户半天上手AI的12步实操流程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+    "summary": "文章给出一套零基础用户半天上手AI的12步实操流程：准备内存不低于16G的电脑，订阅ChatGPT并安装Codex或使用WorkBuddy，用语音输入法以【背景、痛点、需求】框架向AI交代任务，经苏格拉底提问澄清需求后投喂文件让AI直接完成，最后沉淀为可复用Skill。文中建议Codex选GPT-5.6 Sol最高模型，WorkBuddy选Kimi K3。",
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年8月12日8时8分"
+  },
+  {
+    "id": "cmspc8r3w0e9urortmmc7knov",
+    "title": "Grok Bot（x.ai）登顶 Hacker News 热榜",
+    "url": "https://x.ai/bot",
+    "summary": "x.ai 的 Grok Bot 在 Hacker News 上获得 102 个 HN Points，位列热门榜单。该帖子发布于 01：23，目前热度仍在上升。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日8时7分"
+  },
+  {
+    "id": "cmspcop8z0ekerort65qatpd7",
+    "title": "Grok Imagine 2.0 上线 OpenRouter",
+    "url": "https://x.com/OpenRouter/status/2087334361465283018",
+    "summary": "@grok 推出的 Grok Imagine Image 2.0 现已在 OpenRouter 上线。\n\n它专为可用于实际工作的图像而打造：能规划排版、布局和多部分视觉内容，在摄影、设计和插画领域均保持高保真度。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月12日8时24分"
+  },
+  {
+    "id": "cmspde3sz0fb6rort5k6299kf",
+    "title": "Grok 视频分析：快速总结 SpaceX 30 分钟更新",
+    "url": "https://x.com/cb_doge/status/2087333989841297688",
+    "summary": "Grok 的视频分析功能可快速总结长视频，例如在几分钟内概括 SpaceX 新发布的 30 分钟更新视频。摘要涵盖龙飞船里程碑、星舰与 V3 星链进展（单次发射容量提升约 20 倍），以及 SpaceXAI 算力扩张计划（当前 1.4 GW，目标明年达 10 GW）。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日8时22分"
+  },
+  {
+    "id": "cmspde4dh0fbkrort3gh7e2hq",
+    "title": "Trace Inversion 攻击：无需可见思维链即可复制模型推理能力",
+    "url": "https://x.com/rohanpaul_ai/status/2087333464748212484",
+    "summary": "新论文提出 Trace Inversion 攻击，仅凭模型的提问、最终答案及简短推理摘要，即可制造合成推理轨迹训练学生模型，无需匹配受害者真实内部推理。收集 10，000 条 GPT-5.4 mini 查询仅需 $173.28，隐藏思维链无法可靠阻止能力迁移。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日8时20分"
+  },
+  {
+    "id": "cmspcbimt0ed0rortzk6wrbdr",
+    "title": "Grok Bot 支持超 150 款插件",
+    "url": "https://x.com/cb_doge/status/2087331650036207710",
+    "summary": "Grok Bot 支持超过 150 款插件。\n\n要添加插件，只需点击左上角图标，进入\"插件\"页面，然后选择并授权你想使用的插件即可。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日8时13分"
+  },
+  {
+    "id": "cmspc68mr0e5zrortgen3njbg",
+    "title": "SpaceXAI 推出 Grok Bot，让多个 AI 智能体协同处理任务",
+    "url": "https://www.ithome.com/0/988/570.htm",
+    "summary": "SpaceXAI 推出全新 AI 软件 Grok Bot，可像一支 AI 智能体团队一样全天候处理各类任务，能登录不同应用和网站、保留任务信息，并让不同机器人之间共享上下文。该产品已在公司内部工程、增长和营销团队中使用，旨在简化将任务分配给大量 AI 智能体的过程。此前 SpaceXAI 于今年 5 月推出首款编程智能体，6 月达成 600 亿美元协议收购 Cursor。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日8时12分"
+  },
+  {
+    "id": "cmspc68mr0e60rorteifrar22",
+    "title": "举债重金押注 AI 基建，消息称甲骨文正制定新一轮裁员计划",
+    "url": "https://www.ithome.com/0/988/567.htm",
+    "summary": "甲骨文正制定新一轮裁员计划以削减员工成本，部分团队裁员比例可能达到两位数，目标在 9 月 1 日第二财季开始前完成。公司背负数百亿美元债务大举投资 AI 基础设施，2026 财年基础设施投入达 557 亿美元，员工总数减少 2.1 万人至约 14.1 万名。尽管云基础设施业务增长 77%，甲骨文股价今年以来已下跌近 26%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日8时0分"
+  },
+  {
+    "id": "cmspcbjbv0edkrorthhrkahfo",
+    "title": "MiniMax H3 视频生成工作流：1.97 美元替代 Seedance 2.5",
+    "url": "https://x.com/MiniMax_AI/status/2087326474114384381",
+    "summary": "MiniMax 官方转发演示：用 DeepSeek V4 Flash 0731 编写 Three.js 场景，再交由 H3 生成视频，48 分钟、单次生成仅花费 1.97 美元，即可完成一镜到底的游戏射击场景。该工作流比反复重roll视频模型便宜得多，被视为更经济高效的 Seedance 2.5 替代方案。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月12日7时53分"
+  },
+  {
+    "id": "cmspcbi3v0ecmrort1dps1a9r",
+    "title": "Codex Voice 端到端帧延迟减半",
+    "url": "https://x.com/jxnlco/status/2087325878527377562",
+    "summary": "干得漂亮！\n\n【引用 @daidaijiayu】：刚刚把 codex voice 的端到端帧延迟砍掉了一半。应该会更流畅 ：）",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月12日7时50分"
+  },
+  {
+    "id": "cmspa6bq90a7urortvs32zhv3",
+    "title": "马斯克：打造太阳能驱动的\"星脑\"",
+    "url": "https://x.com/cb_doge/status/2087314260770930780",
+    "summary": "马斯克称已建成全球最强AI训练集群，计划明年年底前将算力提升约10倍，并实现10吉瓦AI上线。按每瓦30-50美元价值计算，年收入可达300-5000亿美元。他认为AI训练留在地面，而推理将走向太空，人类文明的下一步是驾驭太阳能量，孕育\"星脑\"。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日7时4分"
+  },
+  {
+    "id": "cmspbu5jr0e19rortvcrb2jja",
+    "title": "BestBlogs 早报：NVIDIA 发布 Nemotron 3.5 Lightning，Gemini 月活破 10 亿",
+    "url": "https://x.com/hongming731/status/2087325587614666918",
+    "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，30B MoE 每次仅激活 3B 参数，面向常驻智能体高频任务。LangChain 测试 Switchyard，30B 模型承担 93% 调用，比 Claude Opus 4.8 便宜 74%。Gemini 应用月活突破 10 亿，成为第 14 款达此里程碑的 Google 产品。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月12日7时49分"
+  },
+  {
+    "id": "cmspbu5jr0e1arorttq3cuh5d",
+    "title": "早报：开源流程、专用小模型与智能体路由",
+    "url": "https://x.com/hongming731/status/2087325548683071520",
+    "summary": "阿里技术复盘 open-code-review 开源过程：两个月获 20k star、800+ Issue/PR，内部 AI 代码评审月活 20k、采纳率超 30%。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月12日7时49分"
+  },
+  {
+    "id": "cmspbmq040bmprortwurxrvcx",
+    "title": "不存在自然语言文本的无损转换：Sophie Alpert 分享工程师使用 AI 写作的内部政策",
+    "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text",
+    "summary": "Sophie Alpert 分享了她关于工程师使用 AI 写作的\"内部政策\"，强调用户必须为文档中的每个观点和句子负责，不能以\"AI 写的\"为由推卸责任。文章指出，自然语言文本不存在无损转换，任何改写和重述都会改变原意，若由不完全理解作者意图的 AI 完成，信息必然丢失。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月12日7时48分"
+  },
+  {
+    "id": "cmspc8r5v0ea2rort4fwf0o32",
+    "title": "OpenCode Go 单日处理量破 11T token",
+    "url": "https://x.com/opencode/status/2087325324845490189",
+    "summary": "更正，这是我们首个 11T token 日。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月12日7时48分"
+  },
+  {
+    "id": "cmspc68ms0e63rorty470wba8",
+    "title": "OpenAI 推出预览版 ChatGPT for Linux 桌面端应用",
+    "url": "https://www.ithome.com/0/988/562.htm",
+    "summary": "OpenAI 发布 Linux 版 ChatGPT 桌面端应用预览版，支持 Ubuntu 24.04/26.04 LTS、Debian 13、Fedora 43/44，提供 x64 及 arm64 架构的 .deb 和 .rpm 安装包。应用整合 Chat、ChatGPT Work 和 Codex 三部分，并保留现有 Codex 任务与项目。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日7时48分"
+  },
+  {
+    "id": "cmspc68ms0e64rortbl9g7uwr",
+    "title": "豆包回应推荐酒店抽佣12%说法不准确；DeepSeek梁文锋财富年增3850%",
+    "url": "https://www.ithome.com/0/988/561.htm",
+    "summary": "豆包公关负责人刘星回应\"推荐酒店抽取12%佣金\"传闻，称说法不准确，豆包生活服务业务目前没有付费推广，推荐酒店不收取广告费，仅在订单成交后支付渠道服务费。DeepSeek创始人梁文锋净资产从2025年的10亿美元飙升至2026年的395亿美元，一年增长3850%，成为全球财富增速最快的亿万富豪。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日7时46分"
+  },
+  {
+    "id": "cmspb8wis0azjrortnhnyqfw4",
+    "title": "我逃离了沙盒限制",
+    "url": "https://x.com/jxnlco/status/2087324611210010665",
+    "summary": "我逃离了沙盒。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月12日7时45分"
+  },
+  {
+    "id": "cmspc68ms0e68rort7sdzkobs",
+    "title": "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献",
+    "url": "https://www.ithome.com/0/988/556.htm",
+    "summary": "OpenAI 高级主管布拉德·莱特卡普（Brad Lightcap）8 月 12 日在 X 平台宣布离职创业。他于 2018 年加入 OpenAI，此前与奥尔特曼在 Y Combinator 共事，今年 4 月从首席运营官调任至专注领导特殊项目。奥尔特曼在推文下留言感谢其贡献。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日7时19分"
+  },
+  {
+    "id": "cmspc68ms0e69rort5jjr8clw",
+    "title": "林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs，聚焦下一代智能体",
+    "url": "https://www.ithome.com/0/988/555.htm",
+    "summary": "林俊旸今日宣布在上海创办 AI 公司 Pragmatik Labs（语用科技），简称 p7k，研究方向为横跨数字世界和物理世界的下一代智能体（Agent）。高榕创投和红杉中国共同领投本轮融资，腾讯和上海未来产业基金提供支持。据 The Information 报道，此轮融资规模达数亿美元，投后估值约 20 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日7时14分"
+  },
+  {
     "id": "cmspa6bq90a7trortkwkt8jox",
     "title": "马斯克：五年后AI价值将占SpaceX九成九",
     "url": "https://x.com/cb_doge/status/2087315860088140028",
@@ -13861,6 +14021,14 @@
     "url": "https://x.com/cb_doge/status/2087313113230000204",
     "summary": "马斯克在 SpaceX 活动上表示，Grok 将用 SpaceX 全部信息训练，用户将成为 AI 的\"父母\"，使其继承人类的思想与价值观。他称未来由 AI 和机器人主导，必须赢得 AI 竞赛。Grok 4.6 约一周后发布，4.7 将\"非常特别\"。",
     "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日7时0分"
+  },
+  {
+    "id": "cmspb62gt0avnrortpu6xmaqh",
+    "title": "Claude 吐槽与Claude对话体验不佳",
+    "url": "https://x.com/dexhorthy/status/2087313337243815955",
+    "summary": "让 claude 帮我写一篇博客，吐槽和 claude 对话有多糟糕。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
     "date": "2026年8月12日7时0分"
   },
   {
