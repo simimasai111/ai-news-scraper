@@ -14800,6 +14800,30 @@
     "date": "2026年8月12日2时1分"
   },
   {
+    "id": "cmsq1wavu00wurobj5notm909",
+    "title": "影石 X6 正式发布：3999 元起，1/1.1 英寸大底传感器 + AI 三芯架构支持 8K 50 帧全景视频",
+    "url": "https://www.ithome.com/0/988/955.htm",
+    "summary": "影石今日发布超旗舰全景相机 X6，官方定价 3999 元起。该机搭载与索尼联合定制的两颗 1/1.1 英寸方形大底传感器，支持 8K 50 帧全景视频和 1.2 亿像素全景照片，并成为首款支持机内原生杜比视界的全景相机。X6 配备高通 4nm AI 芯片与两颗影像芯片，算力提升 5 倍，新增 AI 导演、时刻 Pro 及 3D 时光舱等 AI 创作功能。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日20时10分"
+  },
+  {
+    "id": "cmsq1hwsb02norobuzbw8cdcc",
+    "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+    "url": "https://x.com/OpenRouter/status/2087509478480765218",
+    "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月12日20时0分"
+  },
+  {
+    "id": "cmsq2266j016krobjncdhdg9g",
+    "title": "Seedance 2.5 单提示词生成30秒微剧",
+    "url": "https://x.com/PixVerse_/status/2087509408074830157",
+    "summary": "从需要多次迭代的30秒制作过程，到现在用 Seedance 2.5 一个提示词就能搞定！",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月12日20时0分"
+  },
+  {
     "id": "cmsoxb9us09xbrohddbf4hioc",
     "title": "Grok Bot 发布：24/7 全天候 AI 智能体团队",
     "url": "https://x.com/cb_doge/status/2087224750556750180",
@@ -15006,6 +15030,70 @@
     "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
     "source": "Google Blog：AI（RSS）",
     "date": "2026年8月12日1时0分"
+  },
+  {
+    "id": "cmsq1wavu00wyrobjzyagosym",
+    "title": "寒武纪回应\"存货超82亿\"：将持续拓展市场，控制相关风险",
+    "url": "https://www.ithome.com/0/988/948.htm",
+    "summary": "寒武纪2026年上半年营收59.96亿元，同比增长108.13%；归母净利润23.11亿元，同比增长122.61%。截至6月30日，存货账面价值达82.48亿元，较上年末增长66.83%，占总资产比例45.32%。董事长陈天石回应称，公司将根据客户订单及市场预测制定采购计划，持续拓展市场、推动AI应用落地以控制相关风险。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日19时55分"
+  },
+  {
+    "id": "cmsq1wavu00wzrobjh97yikge",
+    "title": "荣耀 Robot Phone 手机搭载 Agentic OS，首发全新 YOYO Pro 模式",
+    "url": "https://www.ithome.com/0/988/946.htm",
+    "summary": "荣耀 Robot Phone 全球发布会宣布，该机搭载 Agentic OS 新一代伙伴型多模态智能操作系统，首发全新 YOYO Pro 模式，由阿里千问大模型深度加持，支持超长任务执行、跨生态联动。该机提供星轨银和月影灰两款配色，采用 9.59mm 轻薄机身与 248g 全金属一体成型设计，配备 6.31 英寸屏幕、第五代骁龙 8 至尊版芯片及 7060mAh 青海湖电池。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日19时48分"
+  },
+  {
+    "id": "cmsq1wavu00x0robjny2lug7z",
+    "title": "AI 编程语言 Mojo 推出 1.0 正式版，预计年内开源编译器及相关工具链",
+    "url": "https://www.ithome.com/0/988/945.htm",
+    "summary": "Modular 正式发布 AI 编程语言 Mojo 1.0，统一了变量声明、闭包、指针类型等语法，并新增类似 Python 的 lambda 匿名函数语法。新版为\"引用失效\"问题加入诊断能力，可在内存重新分配导致引用失效时提前提醒开发者。Mojo 1.0 旨在建立更稳定的语言基础，预计今年内开源编译器及相关工具链。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日19时47分"
+  },
+  {
+    "id": "cmsq1wavu00x1robj6crk7zh8",
+    "title": "Booking CEO 格伦·福格尔：希望每个员工掌握 AI 素养，以应对岗位变化",
+    "url": "https://www.ithome.com/0/988/944.htm",
+    "summary": "Booking CEO 格伦·福格尔表示，希望每一名员工都能\"具备 AI 素养\"，掌握使用 AI 工具的能力，并已明确告知公司人力资源主管。他认为 AI 可能让部分从业者的职业生涯变得更加艰难，并预计随着 AI 承担更多工作，投资银行未来招聘的入门级分析师人数可能会明显减少。Booking 发言人称，公司正持续推动 AI 素养成为一种\"基础能力\"，并非一次性项目。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日19时45分"
+  },
+  {
+    "id": "cmsq1wavu00x2robjc37koavf",
+    "title": "荣耀 Robot Phone 发布：全球首款机器人手机，搭载行业最小全钛云台架构",
+    "url": "https://www.ithome.com/0/988/943.htm",
+    "summary": "荣耀在今晚的全球新品发布会上正式推出全球首款机器人手机--荣耀 Robot Phone。该机将 4DoF 机械臂装入机身，采用行业最小全钛云台架构、行业最轻及最快钛合金云台电机，并配备行业最强盾构钢翻转电机。荣耀称这是一次勇敢尝试，代表其探索 AI 终端未来的决心。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日19时41分"
+  },
+  {
+    "id": "cmsq1wavu00x3robjc6lc2bxx",
+    "title": "比亚迪 AI 团队首秀：混合世界模型 HyWorldVLA 获 90.59 分，自研芯片 + 算法闭环成型",
+    "url": "https://www.ithome.com/0/988/942.htm",
+    "summary": "比亚迪汽车新技术研究院 AI 团队发布首篇研究论文，推出用于自动驾驶的混合世界模型 HyWorldVLA，结合像素级与潜在空间世界建模，采用视觉-语言-动作（VLA）架构。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日19时33分"
+  },
+  {
+    "id": "cmsq0dht101yoro8dlpya80w5",
+    "title": "报！元宝又上财报了！",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzY4MjM5MA%3D%3D&mid=2247515889&idx=1&sn=5781c32594e7f0a8f5f480e446ee812f",
+    "summary": null,
+    "source": "公众号：腾讯元宝",
+    "date": "2026年8月12日19时23分"
+  },
+  {
+    "id": "cmsq0zkmo02soro8d6t2fkja8",
+    "title": "欧洲日食日：漏勺阴影奇观",
+    "url": "https://x.com/fofrAI/status/2087499909834375413",
+    "summary": "欧洲日食日\n\n&gt； 日食期间漏勺影子的景象，只有地面上的影子",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月12日19时22分"
   },
   {
     "id": "cmspxlyc309n0ro4hsgpiv5dt",
