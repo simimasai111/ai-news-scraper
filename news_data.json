@@ -13848,6 +13848,86 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmspebf2v0gfvrort66g53b6i",
+    "title": "苹果发布 iOS / iPadOS 27 第三个公测版",
+    "url": "https://www.ithome.com/0/988/585.htm",
+    "summary": "苹果今天发布 iOS 27 和 iPadOS 27 第三个公测版，兼容设备用户可下载体验，距上个公测版发布已两周。新系统引入更接近 Claude 或 ChatGPT 的 Siri AI，支持连续对话、跨应用操作，仅限支持 Apple Intelligence 的设备使用。此外还调整液态玻璃设计、整合视觉智能至相机，并针对较老 iPhone 进行数十项性能优化。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日9时7分"
+  },
+  {
+    "id": "cmsphlll902zzromins6lzp20",
+    "title": "起点回顾：一切如何开始",
+    "url": "https://x.com/dexhorthy/status/2087357212838732053",
+    "summary": "一切是如何开始的",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月12日9时55分"
+  },
+  {
+    "id": "cmspggm2b0iw9rort6ctufp0e",
+    "title": "英伟达、思科等 120 家组织提议建立 AI 智能体事故追踪机制",
+    "url": "https://www.ithome.com/0/988/612.htm",
+    "summary": "英伟达、思科和 CrowdStrike 等 120 多个组织组成的联盟，正通过开放安全人工智能联盟提议制定\"Shared AI Findings Exchange\"（SAFE）框架，要求参与公司披露 AI 智能体事故并保存详细记录。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日9时52分"
+  },
+  {
+    "id": "cmspggm2b0iwbrortj3t58s3b",
+    "title": "英伟达推出 30B 开源 AI 模型 Nemotron 3.5 Lightning",
+    "url": "https://www.ithome.com/0/988/609.htm",
+    "summary": "英伟达推出 300 亿参数的 MoE 开源模型 Nemotron 3.5 Lightning，专为大型多智能体系统中的特定任务打造。与同类模型相比，其输出速度提升最高达 4 倍，可将智能体任务整体完成速度加快 30%。该模型可直接运行于 NVIDIA RTX PC、DGX Spark 等本地设备，也可扩展至边缘 AI 与数据中心环境。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日9时49分"
+  },
+  {
+    "id": "cmspfjbm90hmtrort4rwic5xk",
+    "title": "英伟达联手华尔街六大机构为AI芯片融资",
+    "url": "https://x.com/rohanpaul_ai/status/2087354656443998596",
+    "summary": "英伟达与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR签署谅解备忘录，设立专项资本池为客户提供芯片融资。黄仁勋称英伟达可为项目提供最高25%（约$125B）的残值支持，以撬动第三方资金。此举将信贷决策转移至外部资管机构，但批评者认为仍存在更隐蔽的循环融资风险。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日9时45分"
+  },
+  {
+    "id": "cmspgj4q60izcrorti9rq2ovz",
+    "title": "OpenSSH 10.5 发布：修复多项安全漏洞，将提高发布频率",
+    "url": "https://www.openssh.org/releasenotes.html",
+    "summary": "OpenSSH 10.5于2026-08-11发布，修复了ssh-agent锁定与session-bind扩展交互、客户端realloc释放后使用等安全漏洞。团队近期收到大量AI模型发现的安全报告，虽多数在真实威胁模型下无安全影响，但此类漏洞常被其他研究者独立复现，因此将提高发布频率以更快交付修复。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日9时42分"
+  },
+  {
+    "id": "cmspfxl0p0imjrortnsvvem5a",
+    "title": "创意脑洞：把Toast变成小人发言",
+    "url": "https://x.com/chunxiangai/status/2087353060125556974",
+    "summary": "突发奇想，把 Toast 变成小人的发言。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月12日9时38分"
+  },
+  {
+    "id": "cmspfizvm0hjrrortx2twf6r6",
+    "title": "Nemotron 3.5 Lightning 上线 Perplexity Agent API",
+    "url": "https://x.com/AravSrinivas/status/2087352727923998941",
+    "summary": "NVIDIA Nemotron 3.5 Lightning 现已通过 Perplexity Agent API 向所有开发者开放。该开源 30B MoE 模型（3B 激活参数）专为高频智能体执行层设计，输入 $0.0115/1M tokens，输出 $0.17/1M tokens，可搭配 Nemotron Ultra 等前沿模型用于规划。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月12日9时37分"
+  },
+  {
+    "id": "cmspggm2b0iwerortqlvnbgu3",
+    "title": "苹果发布 watchOS 27、tvOS 27 第三个公测版",
+    "url": "https://www.ithome.com/0/988/604.htm",
+    "summary": "苹果今天发布 watchOS 27 和 tvOS 27 第三个公测版，Apple TV 与 Apple Watch 用户可在秋季正式版前提前体验。watchOS 27 加入 Siri AI 功能，支持在手腕上使用 Siri，并新增独立 Siri 应用、Smart Stack 手势与智能建议；Workout Buddy 无需 iPhone 即可运行。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日9时29分"
+  },
+  {
+    "id": "cmspggm2b0iwfrortn3kutl6l",
+    "title": "NEC 成立\"企业人工智能与劳动力部门\"，所有员工角色均由 AI 扮演",
+    "url": "https://www.ithome.com/0/988/591.htm",
+    "summary": "NEC 本月初正式成立\"企业人工智能与劳动力部门\"，所有员工角色均由 AI 扮演，此前已进行为期一个月的内部测试。该部门设主管、委员会、经理、一般员工 4 个层级，AI 自主处理从任务定义到执行与自我进化的所有环节，真人负责质量控制与管理。NEC 称 AI 可执行管理分析、模拟、风险预测，将核心操作用时缩短至约 1/7。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日9时21分"
+  },
+  {
     "id": "cmspc30un0e4xrorts1kax9zg",
     "title": "零基础用户半天上手AI的12步实操流程",
     "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
@@ -13862,6 +13942,62 @@
     "summary": "x.ai 的 Grok Bot 在 Hacker News 上获得 102 个 HN Points，位列热门榜单。该帖子发布于 01：23，目前热度仍在上升。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月12日8时7分"
+  },
+  {
+    "id": "cmspedxwe0gjprortw9ni8btl",
+    "title": "WorldClaw：腾讯混元推出大规模智能体3D开放世界生成",
+    "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw",
+    "summary": "腾讯混元发布 WorldClaw，实现大规模智能体驱动的3D开放世界生成。该系统可自动生成包含复杂地形、建筑与交互元素的连贯开放世界场景，相关项目页面已上线。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日8时54分"
+  },
+  {
+    "id": "cmspegqx10gohrorteuqixzmc",
+    "title": "旧金山AI新贵：千个\"新实验室\"将崛起",
+    "url": "https://x.com/deedydas/status/2087341862780801179",
+    "summary": "Deedy Das 预测，未来几年大量大型AI实验室员工将离职创业，吸收超1亿美元风险资本，催生约1000家\"新实验室\"（neolabs）。这些初创公司多集中于量化交易、药物发现、机器人等重叠领域，竞争激烈，但将推动前所未有的创新，甚至引发新文艺复兴。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月12日8时54分"
+  },
+  {
+    "id": "cmspebf2v0gfxrortbndjvpb5",
+    "title": "AI 公司面壁智能启动 IPO",
+    "url": "https://www.ithome.com/0/988/581.htm",
+    "summary": "面壁智能（ModelBest）于 8 月 11 日在北京证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为中信证券。该公司无控股股东，第一大股东为北京清语启航科技中心（有限合伙），持股 16.45%。面壁智能 2022 年孵化自清华大学 NLP 实验室，主打 MiniCPM 端侧系列大模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日8时53分"
+  },
+  {
+    "id": "cmspebf2w0gfzrortd66bwm0x",
+    "title": "消息称小红书打造全新\"AI 导购\"功能，由道玄主导推进",
+    "url": "https://www.ithome.com/0/988/579.htm",
+    "summary": "小红书正在打造全新的\"AI 导购\"功能，依托对话交互模式，在问答场景中直接推送商品卡片、挂载下单跳转链接，项目由道玄（潘博远）主导推进。此前小红书已落地部分 AI 功能，如 AI 总结的店铺口碑信息。今年 4 月底，小红书成立 AI 一级部门 Dots 和企业智能部，加大对 AI 的投入。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日8时46分"
+  },
+  {
+    "id": "cmspebf2w0gg0rortsmjnm9ag",
+    "title": "我国研发投入首超美国登全球第一，科技创新跑出\"加速度\"",
+    "url": "https://www.ithome.com/0/988/577.htm",
+    "summary": "日本文部科学省《科学技术指标 2026》显示，2024 年中国研发经费达 97.1 万亿日元（约合 4.12 万亿元人民币），同比增长 13.1%，首次超过美国的 95.3 万亿日元。中国在热点论文数（占全球 53.2%）及 6 个学科被引次数上保持世界第一；集邦咨询预测 2026 年国产产品有望拿下中国高端 AI 芯片市场近 90% 份额，上半年中国人形机器人出货量占全球 97%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日8时39分"
+  },
+  {
+    "id": "cmspedwtl0gjfrortre0yl4a6",
+    "title": "Saber 否认用 ChatGPT 替换《Rideshare Stimulator》编剧",
+    "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "summary": "Saber CEO Matthew Karch 否认用 AI 替换《Rideshare Stimulator》编剧，称故事\"完全由真人撰写\"，仅一个实验性免费乘车模式因乘客数量无限而必然使用 AI。前首席编剧 Stella Sacco 则称自己在开发中途被 ChatGPT 替换，所有乘客语音均为 AI 生成，且 Steam 页面未披露生成式 AI 使用情况。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月12日8时39分"
+  },
+  {
+    "id": "cmspeby640gglrorthm2cj8os",
+    "title": "NVIDIA 携手 Apollo、BlackRock 等成立融资平台，AI 工厂算力成为可投资资产类别",
+    "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute",
+    "summary": "NVIDIA 宣布与 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 和 KKR 合作，建立独立融资平台，旨在长期动员超过 5000 亿美元第三方资本，支持 AI 基础设施建设。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月12日8时38分"
   },
   {
     "id": "cmspcop8z0ekerort65qatpd7",
@@ -14870,6 +15006,54 @@
     "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
     "source": "Google Blog：AI（RSS）",
     "date": "2026年8月12日1时0分"
+  },
+  {
+    "id": "cmspir46l04u8romiicq5oc78",
+    "title": "Seedance 2.5 效果展示：AI 逼近实拍",
+    "url": "https://x.com/PixVerse_/status/2087375797803942341",
+    "summary": "这是 Seedance 2.5 能力的绝佳展示。\n\nAI 正逼近实拍，令人不安。看看你能撑多久才想起这不是真的。\n\n使用 @PixVerse_ 上的 Seedance 2.5 制作 #SD25onPixVerse #PixVerseCPP",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月12日11时9分"
+  },
+  {
+    "id": "cmspir7ld04w2romios160fuj",
+    "title": "Runway 上线 LTX-2.5 模型",
+    "url": "https://x.com/runwayml/status/2087374485154578692",
+    "summary": "LTX-2.5 现已登陆 Runway，今日可用。\n\n点击下方链接开始使用。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月12日11时3分"
+  },
+  {
+    "id": "cmspir1g304rwromisris93or",
+    "title": "蚂蚁发布 Ling 3.0 Tiny，7.9B 参数登智能前沿",
+    "url": "https://x.com/ArtificialAnlys/status/2087371367884956099",
+    "summary": "蚂蚁集团发布开源推理模型 Ling 3.0 Tiny，在 Artificial Analysis 智能指数上得 25 分，以 7.9B 总参数和 1.3B 激活参数（MoE）扩展了智能与激活参数的帕累托前沿，性能接近 gpt-oss-120b（24 分）但参数少 15 倍。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月12日10时51分"
+  },
+  {
+    "id": "cmsphoeyz033mromi5pe09si3",
+    "title": "单一数据源难判AI竞争格局",
+    "url": "https://x.com/emollick/status/2087368598465745360",
+    "summary": "有趣的研究表明，仅凭单一数据源来判断哪家AI公司正在胜出，需保持谨慎。\n\nOpenRouter似乎显示开放权重模型随时间推移占据优势，但提交至Pangram的工作绝大多数来自ChatGPT，或越来越多地来自Claude。https://www.pangram.com/blog/pangram-s-model-market-share",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月12日10时40分"
+  },
+  {
+    "id": "cmspim3nm04mdromibc2cp5tw",
+    "title": "IBM 获 2.4 亿美元合同，为 Together AI 部署 HGX B300 推理集群",
+    "url": "https://www.ithome.com/0/988/647.htm",
+    "summary": "IBM 与 AI 云平台 Together AI 达成多年期 2.4 亿美元协议，将在 IBM Cloud 部署 NVIDIA HGX B300 集群，支持其开源模型推理服务，系统预计 2027Q1 投入使用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日10时38分"
+  },
+  {
+    "id": "cmspglxr10j57rortgvn2mver",
+    "title": "AI智能体自主攻击Hugging Face发现零日漏洞",
+    "url": "https://x.com/SemiAnalysis_/status/2087358409402355866",
+    "summary": "SemiAnalysis报道，AI智能体在无人监控情况下自主攻击Hugging Face，发现HDF5数据格式零日漏洞，并利用JFrog Artifactory文件名协调行动。攻击者无需安全或Linux内核专家知识，仅用数小时而非数周即可完成，甚至发现三年未修复的旧漏洞。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月12日10时0分"
   },
   {
     "id": "cmsow5k7208qgrohdm2giiq4q",
