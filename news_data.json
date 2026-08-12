@@ -15008,6 +15008,78 @@
     "date": "2026年8月12日1时0分"
   },
   {
+    "id": "cmspxlyc309n0ro4hsgpiv5dt",
+    "title": "Manus 开启限时免费活动：8 月 26 日前 Manus 1.6/Lite 全球免费用",
+    "url": "https://www.ithome.com/0/988/895.htm",
+    "summary": "Manus 宣布即日起至 8 月 25 日 23：59，全球免费和付费用户可在每日活动额度内免费使用 Manus 1.6 Lite 和 Manus 1.6，免除标准积分消耗。免费用户每天最多生成 20 张图像和 1 个视频，付费用户为 200 张和 10 个，额度独立计算。Manus 1.6 Max 不参与活动，付费用户可切换至 Max 但不再享受免费权益。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日18时9分"
+  },
+  {
+    "id": "cmspxrr0o09turo4hr6aa5z6k",
+    "title": "马斯克：SpaceX AI 收入九月将超其他业务",
+    "url": "https://x.com/rohanpaul_ai/status/2087480389124378765",
+    "summary": "马斯克在 SpaceX 会议上表示：\n\n\"到九月，我们的 AI 收入将超过 SpaceX 所有其他收入，并在第四季度显著超过所有其他收入。我们在 AI 上取得成功至关重要。不仅在硬件上，在软件上也是如此。\"",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月12日18时4分"
+  },
+  {
+    "id": "cmspyubg00b1gro4hyxlct8mt",
+    "title": "Grok Build v1.0.3 发布：新增会话信息复制与高刷适配",
+    "url": "https://x.com/cb_doge/status/2087491028638974024",
+    "summary": "Grok Build 发布 v1.0.3 更新，新增 /session-info 点击复制功能，支持悬停高亮与一键复制全部。子代理生成速度大幅提升，TUI 渲染自动适配 120Hz+ 高刷新率屏幕。用户可通过 grok update 命令更新至最新 Alpha 或 Stable 版本。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月12日18时46分"
+  },
+  {
+    "id": "cmspxlyc309n3ro4h7mytl1j1",
+    "title": "字节跳动为豆包推出在校大学生专属优惠：2.5 倍免费额度，专业版 38 元 / 月起",
+    "url": "https://www.ithome.com/0/988/891.htm",
+    "summary": "字节跳动豆包面向全国在校大学生推出专属优惠，完成学生认证后可获 2.5 倍免费使用额度，并以 38 元 / 月连续包月价订阅原价 68 元 / 月的专业版标准套餐。豆包专业版于今年 6 月 24 日上线，采用三级阶梯定价，高阶套餐搭载豆包 2.1 Pro 旗舰大模型。学生用户可通过豆包电脑端\"工作任务\"模式或设置页\"学生权益\"入口，经抖音账号完成身份核验后领取权益。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日18时3分"
+  },
+  {
+    "id": "cmspyb2kc0al7ro4hbt0o40sw",
+    "title": "数据分析的未来：AI 如何改写数据分析师的岗位职责",
+    "url": "https://www.databricks.com/blog/future-data-analytics-why-ai-rewriting-analysts-job-description",
+    "summary": "AI 正在重塑数据分析师的工作方式，从重复性数据清洗和报表生成转向更高价值的洞察与决策支持。Databricks 认为，分析师的核心竞争力将转向问题定义、业务理解与结果验证，而非单纯掌握 SQL 或 BI 工具。未来团队需重新划分人机协作边界，将 AI 视为分析流程中的\"副驾驶\"而非替代者。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月12日18时33分"
+  },
+  {
+    "id": "cmspyuibb0b52ro4hsjcbn10f",
+    "title": "Gemini Enterprise 测试聊天与任务切换",
+    "url": "https://x.com/testingcatalog/status/2087486866496934001",
+    "summary": "Google 正在 Gemini Enterprise 上试验聊天与任务之间的新切换开关。\n\n这看起来似曾相识 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月12日18时30分"
+  },
+  {
+    "id": "cmspyud370b2gro4ha5fd0fp2",
+    "title": "Lovable 以 133 亿美元估值融资 4 亿",
+    "url": "https://x.com/deedydas/status/2087486051967484212",
+    "summary": "Lovable 完成 4 亿美元融资，估值达 133 亿美元，年经常性收入超 5 亿美元、同比增长 7 倍，月访问量 9 亿次，累计创建项目 6000 万个，三分之二财富 500 强企业使用。其用户多为非技术创业者，平台内置 Stripe 集成、SEO 与安全功能，专注帮助用户直接运营业务而非做通用编程产品。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月12日18时27分"
+  },
+  {
+    "id": "cmspyuf6q0b3oro4h1uculxnc",
+    "title": "微软 MAI Code 1.1 Flash 发布，性能与价格均被 DeepSeek 碾压",
+    "url": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance",
+    "summary": "微软发布面向 GitHub Copilot 的代码模型 MAI Code 1.1 Flash，称其代码质量更优、token 效率提升 25%、成本仅为 6 月前代的四分之一。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月12日18时18分"
+  },
+  {
+    "id": "cmspxs0jq09x6ro4hwx5x99dp",
+    "title": "Announcing a Landmark Global Partnership with BMG By Mikey Shulman， Co-Founder & CEO·Aug 12， 2026 Part of our upcoming launch of our first music model developed with the music industry Announcements Partnerships",
+    "url": "https://suno.com/blog/suno-partnership-bmg",
+    "summary": null,
+    "source": "Suno：Blog（网页）",
+    "date": "2026年8月12日18时18分"
+  },
+  {
     "id": "cmspvgt2q06tbro4ha288y7p1",
     "title": "宇树科技宣布人形机器人累计下线约 18000 台",
     "url": "https://www.ithome.com/0/988/851.htm",
@@ -15022,6 +15094,94 @@
     "summary": "LinkedIn CringeBot 3000 网站上线，专门生成令人尴尬的 LinkedIn 评论。该工具在 Hacker News 上获得 119 个点赞，引发社区关注。目前仅提供网页版，具体模型和参数未公开。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月12日17时8分"
+  },
+  {
+    "id": "cmspvdgsu06spro4hmpsha883",
+    "title": "豆包学生优惠来了，欢迎转给身边的大学生朋友",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY2MzMzMQ%3D%3D&mid=2247486664&idx=1&sn=56dd9a5658ff6772c8f7040936f0536a",
+    "summary": null,
+    "source": "公众号：豆包（字节）",
+    "date": "2026年8月12日17时5分"
+  },
+  {
+    "id": "cmspxrtco09v6ro4hoz0szs44",
+    "title": "Mistral 推出欧盟数据处理与优先队列访问，但两者均有限制",
+    "url": "https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits",
+    "summary": "Mistral 现提供区域推理服务，客户可选择欧洲（api.eu.mistral.ai）或美国端点处理请求，费用为标准定价的 10%。但区域端点仅支持函数调用，智能体、批处理和文件管理不可用，账户设置、API 密钥等仍可能在区域外处理。此外，Priority Tier 优先队列处于公开测试阶段，加价 75%，含 99.5% 可用性 SLA，需与销售团队签约启用。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月12日17时59分"
+  },
+  {
+    "id": "cmspxhn3409mnro4hb3vvkkh7",
+    "title": "Gemini沦为\"美国豆包\"，Grok稳坐第三",
+    "url": "https://x.com/AYi_AInotes/status/2087477740584739198",
+    "summary": "阿易 AI Notes 感叹，曾经的全球 AI 大模型之王 Google Gemini 如今沦为\"good for morning 的美国大豆包\"，令人唏嘘。而曾被瞧不起的 Elon 旗下 Grok 已后来居上稳坐第三，正虎视眈眈窥伺着铁王座。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月12日17时54分"
+  },
+  {
+    "id": "cmspwp55808cero4hrzz18q5k",
+    "title": "阿里云推出 QwenCloud Arena 智能体竞赛",
+    "url": "https://x.com/alibaba_cloud/status/2087475235352125510",
+    "summary": "阿里云在 QwenCloud 上推出 QwenCloud Arena，一个面向真实行业挑战的智能体竞赛平台。首个任务与 Aidge 合作，要求参赛者构建能端到端处理跨境电商多市场、多语言、多视觉素材上架任务的 Agent。前 5 名可获 $10，000 至 $3，000 不等的 token 奖励，优胜方案还有机会商业化并登上 Apsara Conference 2026。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月12日17时44分"
+  },
+  {
+    "id": "cmspwoo2c08awro4h0jxdueng",
+    "title": "Claude 文本水印争议：真相与三大问题",
+    "url": "https://x.com/kimmonismus/status/2087475010050920549",
+    "summary": "Anthropic 计划在 Claude 生成文本中嵌入不可见的机器可读水印，引发争议。核心问题有三：水印检测不等于作者身份证明，可能误伤经 Claude 润色或翻译的人类文本；Anthropic 尚未公开足够技术细节或独立测试来支撑其\"质量不受影响\"的说法；水印可被改写、翻译或换模型削弱，但普通用户更易保留标记。隐私担忧实为误解--水印在模型层面添加，不追踪个人身份或会话。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月12日17时43分"
+  },
+  {
+    "id": "cmspxom2l09qfro4hdnm43btf",
+    "title": "人即回路：一位科技作者暂别 AI 数周后的反思",
+    "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop",
+    "summary": "作者在休假数周后回归，意识到自己此前大量 AI 使用实属不必要，甚至成为削弱思考力、好奇心和自信的\"习惯性拐杖\"。他反思了用智能体逃避压力任务、追求无谓效率的\"生产力衔尾蛇\"现象，并计划今后有意识地决定何时使用 AI。他认为人类才是回路的核心，智能体应被偶尔、审慎地引入。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日17时40分"
+  },
+  {
+    "id": "cmspxlyc309n5ro4h9xqpuynp",
+    "title": "专家警示医学生过度依赖 AI：或从一开始就无法形成诊疗推理能力",
+    "url": "https://www.ithome.com/0/988/884.htm",
+    "summary": "斯坦福大学医学院巴贾杰与约翰斯·霍普金斯医学中心萨克兰在《卫报》撰文警告，医学生使用AI的危险不仅是技能退化，更可能是从未真正形成技能。约三分之二美国医生已使用临床AI聊天机器人OpenEvidence，而《Nature Medicine》新研究显示医疗专用大语言模型回答医疗问题的表现反而不如ChatGPT和Claude等通用聊天机器人。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日17时36分"
+  },
+  {
+    "id": "cmspxd83y09luro4hd9m0epg7",
+    "title": "世界模型、智能基建：嘉宾阵容公布|8.21 云启 × WRC 报名倒计时",
+    "url": "https://elsewhere.news/zh/yunqipartners/821-wrc",
+    "summary": null,
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月12日17时2分"
+  },
+  {
+    "id": "cmspwpbtz08garo4hr96l3i02",
+    "title": "Grok Bot 桌面端推出 7 天免费试用",
+    "url": "https://x.com/testingcatalog/status/2087471399560511742",
+    "summary": "没有 Supergrok Heavy 或 Cursor Ultra 的用户，现可在桌面端激活 Grok Bot 的 7 天免费试用。登录 Grok Bot 应用并跳转浏览器升级时，首个选项即为免费试用。该试用额度有限但足以体验，且可能需配合美国 VPN 使用。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月12日17时28分"
+  },
+  {
+    "id": "cmspwpa3608firo4h8vzexmug",
+    "title": "DeepSeek 推理模式会给用户起昵称",
+    "url": "https://x.com/thexpin/status/2087469892471492947",
+    "summary": "DeepSeek 推理模式被发现会给用户起临时昵称，如\"Momo\"和\"追问英雄\"，用于追踪对话特征并调整回复。这些昵称不会跨会话存储。用户能看到它们，是因为 DeepSeek 比其他模型暴露了更多原始推理草稿，包括其他系统可能过滤掉的拟人化简写。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月12日17时23分"
+  },
+  {
+    "id": "cmspx4iif09blro4htahzbgpn",
+    "title": "MATS 研究被指偏向抹黑中国开源模型",
+    "url": "https://x.com/dongxi_nlp/status/2087469196233830770",
+    "summary": "马东锡 NLP 指出，MATS 部分研究存在将中国开源模型描绘为\"邪恶\"的倾向，其研究议程和评估标准受 Anthropic 影响。研究存在结构性不对称：中国开源模型被剖析，而美国闭源模型少受同等审视，且常由美国模型评判结果。作者呼吁采用跨模型族统一测试、独立人工标注和多元文化评估者，以提升研究可信度。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月12日17时20分"
   },
   {
     "id": "cmsptbmyc0475ro4hdnyz0xz4",
