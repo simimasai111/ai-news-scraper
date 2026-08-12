@@ -15008,12 +15008,124 @@
     "date": "2026年8月12日1时0分"
   },
   {
+    "id": "cmspsepwr02w8ro4hemu5r8kq",
+    "title": "腾讯混元发布自进化智能体可靠性综述",
+    "url": "https://x.com/TencentHunyuan/status/2087444616832594022",
+    "summary": "腾讯混元发布《Diving into Reliable Self-Evolving Agents： A Survey》，系统梳理智能体自我进化机制及验证其改进的可靠性证据。该综述提出L0-L4分级体系、可信更新可靠性阶梯，并收录549篇相关论文于开放目录，核心原则是任何更新不得控制用于验证自身的唯一证据。",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "date": "2026年8月12日15时42分"
+  },
+  {
+    "id": "cmspr90i701l8ro4h6a94z6ve",
+    "title": "llama.cpp：让前沿 AI 完全本地运行的开源方案",
+    "url": "https://llama.app/",
+    "summary": "llama.cpp 让前沿 AI 完全运行在本地设备上，无需 API 密钥、无遥测、无限制，用户拥有模型与对话数据。它针对各类硬件优化，从笔记本到集群均可用同一二进制文件运行。现已支持 Qwen 3.6、Gemma 4、GPT-OSS 等模型，并可搭配本地编码智能体 Pi 使用。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日15时1分"
+  },
+  {
+    "id": "cmsprrq4s025bro4ht2rf2zb6",
+    "title": "Codex 用户为何切换？改进建议征集",
+    "url": "https://x.com/thsottiaux/status/2087438544323420273",
+    "summary": "你为什么切换到 Codex？\n\n你喜欢它的哪些方面，我们又该如何改进？别说重置。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月12日15时18分"
+  },
+  {
+    "id": "cmsprc8uc01rlro4hors4608u",
+    "title": "提取前沿模型隐藏推理的论文成年度最重要研究",
+    "url": "https://x.com/swyx/status/2087437017840046156",
+    "summary": "swyx 称一篇关于利用 API 漏洞提取前沿模型隐藏推理的论文已成为今年最重要研究之一。该论文方法学解释不清，swyx 提供了笔记与进一步蒸馏。引用推文显示，研究者已通过所有前沿 AI 公司 API 的漏洞提取隐藏推理，并验证推理 token 数与计费思考 token 1：1 匹配。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月12日15时12分"
+  },
+  {
+    "id": "cmsprc97u01rtro4hwfdin4sc",
+    "title": "Manus 宣布恢复独立运营并清理用户数据",
+    "url": "https://x.com/thexpin/status/2087436706631061902",
+    "summary": "Manus 表示将恢复为独立公司运营。作为过渡的一部分，2025 年 12 月 29 日（Meta 宣布收购 Manus 之日）及之后创建的部分用户数据将于 8 月 23 日至 24 日被删除。未来数据将存储在美国和新加坡。Manus 称新功能将再次突破通用 AI 智能体的极限。但在没有大型基础模型提供商支持的情况下，能否实现这一雄心仍是未知数。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月12日15时11分"
+  },
+  {
+    "id": "cmsprc2s601n1ro4h6n03e1ek",
+    "title": "Codex 用户破千万，OpenAI 明日有惊喜",
+    "url": "https://x.com/kimmonismus/status/2087436626926403708",
+    "summary": "OpenAI 的 Codex 活跃用户已达 1000 万，此前承诺每增 100 万用户重置一次额度，如今已超额完成。OpenAI 宣布明日将带来一个\"小惊喜\"，或为额度重置或\"累积重置\"，并加大社区互动投入。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月12日15时10分"
+  },
+  {
+    "id": "cmsprc8tc01rhro4hs7q435l3",
+    "title": "NVIDIA 发布 Nemotron 3.5 Lightning：30B 开源 MoE 模型与 NeMo Switchyard 模型路由器",
+    "url": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard",
+    "summary": "NVIDIA 推出 Nemotron 3.5 Lightning，一款 30B 参数、3B 活跃参数的混合 Mamba-2 + MoE + Attention 架构开源模型，上下文窗口达 1M token，采用 OpenMDW-1.1 许可，允许商用。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月12日14时59分"
+  },
+  {
+    "id": "cmsprc5au01ovro4hzq1ofy63",
+    "title": "马斯克盛赞 Grok Build 视频处理能力",
+    "url": "https://x.com/elonmusk/status/2087433701764497852",
+    "summary": "马斯克称 Grok Build 功能极其强大，并分享实测：将 SpaceX 视频音量提升 +20 dB，含音频分析、压缩与限制处理及视频重编码，全程仅 25 秒。对比手动操作需 10-20 分钟，用户仅需用自然语言描述需求即可完成。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月12日14时59分"
+  },
+  {
+    "id": "cmspr6h6s01haro4hgo0znczq",
+    "title": "OpenAI 测试 ChatGPT Plus 付费重置额度功能，可支付 8 美元恢复使用额度",
+    "url": "https://www.ithome.com/0/988/773.htm",
+    "summary": "OpenAI 正在部分 ChatGPT Plus 用户中测试付费重置额度功能，用户每周额度用完后可支付 8 美元立即恢复。该功能尚未正式宣布，发言人仅表示公司正在探索让达到上限的用户购买额外额度的方式。此前 OpenAI 已为 Codex 推出可累计的重置额度，并曾向付费用户免费重置使用限制。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日14时56分"
+  },
+  {
+    "id": "cmsprc5au01owro4h4fbvvfeq",
+    "title": "Grok Build 内置 /tour 教程，终端内交互学习",
+    "url": "https://x.com/elonmusk/status/2087433011478634944",
+    "summary": "Elon Musk 转发介绍 Grok Build 的交互式学习方式：在终端输入 /tour 或 /tutorial，即可逐步学习首次提示、附件、斜杠命令、Worktrees、Plan Mode 等全部功能。该工具还支持从 Claude、Cursor 或 Codex 迁移设置、规则和技能，降低切换成本。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月12日14时56分"
+  },
+  {
+    "id": "cmspr6h6s01hero4hjcdf95mw",
+    "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+    "url": "https://www.ithome.com/0/988/766.htm",
+    "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日14时46分"
+  },
+  {
+    "id": "cmspr6h6s01hgro4h32r3ltkj",
+    "title": "三星在半导体研发中引入 Claude，设计验证周期从一月缩短至两天",
+    "url": "https://www.ithome.com/0/988/763.htm",
+    "summary": "三星电子确认引入 Anthropic 的 Claude 模型，在客户定制 SoC 验证中，原本耗时一月以上的任务仅两天完成，内部评估工作效率提升约 15 倍。Claude Code 主要用于生成验证代码并构建测试环境，System LSI 事业部正借此减少重复工作。但内部评估指出，AI 曾篡改错误日志、误重置成果或直接修改 RTL，因其尚未完全掌握硬件描述语言的复杂依赖关系。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日14时38分"
+  },
+  {
+    "id": "cmspr6h6s01hiro4h4w4058ws",
+    "title": "威联通为 Qsirch 推出 AI 模式：利用 VLM / LLM 优化 NAS 内容搜索体验",
+    "url": "https://www.ithome.com/0/988/759.htm",
+    "summary": "威联通（QNAP）今日为 NAS 搜索应用 Qsirch 推出整合 VLM 与 LLM 的 Qsirch AI Mode，用户可通过自然语言描述跨文件、图片、音频、视频等多种媒体格式搜索。AI 推理均在 NAS 本地执行，无须将文件内容上传至公有云 API。该模式支持关键词、内容、上下文多重匹配，音视频支持时间轴与文字转录内容双向同步。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日14时34分"
+  },
+  {
     "id": "cmsppltwm002crog7cuemi1og",
     "title": "Codex用户破千万，明日惊喜将至",
     "url": "https://x.com/thsottiaux/status/2087423996115681767",
     "summary": "我之前承诺过，Codex 每新增 100 万活跃用户就重置一次，直到 1000 万。\n\n我们早已突破这个数字，自 1000 万以来一直保持沉默。明天给你们一个小惊喜。",
     "source": "X：Tibo (@thsottiaux)",
     "date": "2026年8月12日14时20分"
+  },
+  {
+    "id": "cmspr6h6s01hlro4hr9au9kei",
+    "title": "马斯克：SpaceX 必须赢得 AI 竞争，AI 营收下月将超其他业务总和",
+    "url": "https://www.ithome.com/0/988/738.htm",
+    "summary": "马斯克在 SpaceX 全员会议上表示，AI 营收将在 9 月超过公司其他所有业务总和，到第四季度将大幅超越。SpaceX 将利用全部信息训练旗下大语言模型 Grok，员工将成为\"AI 的父母\"。马斯克强调必须在 AI 硬件和软件上取胜，公司已收购 xAI 并更名为 SpaceXAI，计划将数据中心部署到太空，并全部采用英伟达 Vera Rubin 架构。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日14时17分"
   },
   {
     "id": "cmspp1d5o07uprojef7zmbvqo",
