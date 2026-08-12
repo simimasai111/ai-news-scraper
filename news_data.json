@@ -13848,6 +13848,70 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsqloqbq06doroxvydl723x8",
+    "title": "Cohere 携手伙伴推动模型微调与边缘部署",
+    "url": "https://x.com/cohere/status/2087646202405716199",
+    "summary": "我们希望模型能被开发者社区广泛使用和定制，因此我们引入了一些合作伙伴来协助。\n\n针对在多种边缘设备上运行的先进文档理解用例，可对 North Micro Vision 进行微调。",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年8月13日5时3分"
+  },
+  {
+    "id": "cmsqloqaz06dmroxv4xnqywsp",
+    "title": "Shoggoth 隐喻：后训练圈的历史梗",
+    "url": "https://x.com/natolambert/status/2087648081575837771",
+    "summary": "我做了一个短视频，讲述 Shoggoth 的历史--它既被用作后训练圈的一个梗，也是一个更深刻的隐喻。想想新一代做后训练的人可能根本不知道它，真是疯狂😱。在我看来，这仍然是一个非常贴切的隐喻。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月13日5时11分"
+  },
+  {
+    "id": "cmsqlg26706ceroxvso9bb511",
+    "title": "Twitch 用户现可选择退出亚马逊利用其内容训练生成式 AI 模型",
+    "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now",
+    "summary": "Twitch 今日宣布，用户现可选择退出亚马逊利用其频道内容训练\"生成式 AI 内容模型\"。该变更距公司高管确认亚马逊使用 Twitch 内容进行 AI 训练已逾两年。用户需前往 www.twitch.tv/settings/security 手动关闭，默认仍为自动同意参与训练。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月13日5时0分"
+  },
+  {
+    "id": "cmsqlba6y066droxv8gv47dyc",
+    "title": "Claude Cowork is now your Chrome side panel",
+    "url": "https://www.youtube.com/watch?v=C-5wF6tkQ2Q",
+    "summary": null,
+    "source": "Claude：YouTube（RSS）",
+    "date": "2026年8月13日4时8分"
+  },
+  {
+    "id": "cmsqklahe05ifroxvk12gixbx",
+    "title": "Claude Code v2.1.229 发布：新增远程会话恢复、插件市场命令源及多项修复",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.229",
+    "summary": "Claude Code v2.1.229 发布，新增远程控制会话恢复、自托管 runner 的服务器端 hook 支持，以及插件市场命令源。修复了长响应流式输出丢失、窄终端渲染崩溃、Windows 扩展路径崩溃等问题。改进工作流扇出以复用缓存提示前缀，并调整 /commit-push-pr 对危险 git/gh 命令不再自动批准。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月13日4时56分"
+  },
+  {
+    "id": "cmsqlg2hw06cgroxvlcyvtvle",
+    "title": "Claude Chrome 侧栏接入 Cowork 会话并同步",
+    "url": "https://x.com/testingcatalog/status/2087643784691540304",
+    "summary": "Claude 在 Chrome 浏览器中的会话现已由与 Claude Cowork 相同的解决方案驱动，并支持跨客户端同步，同时支持 Skills 和 Connectors。该功能今天面向 Max 和 Team 用户开放，Pro 用户将在未来几周内获得。会话与账户绑定而非设备，用户可在标签页中开始，稍后在别处继续。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月13日4时53分"
+  },
+  {
+    "id": "cmsqkde5105ekroxv1bhdqcyd",
+    "title": "Grok 4.6 模型卡发布详解能力与安全测试",
+    "url": "https://x.com/leerob/status/2087640149442404584",
+    "summary": "我们发布了 Grok 4.6 的模型卡！\n\n其中深入介绍了该模型在编码、工程、知识工作等多个不同评测中的能力。我们还讨论了部署前的安全测试及我们的防护栈。\n\nhttps://media.x.ai/v1/website/card-4p6-4cd2dc57.pdf",
+    "source": "X：Lee Robinson (@leerob)",
+    "date": "2026年8月13日4时39分"
+  },
+  {
+    "id": "cmsqkddmj05e9roxvz18s7xfl",
+    "title": "fofr 想试乘伊比利亚日食航班",
+    "url": "https://x.com/fofrAI/status/2087636769130836120",
+    "summary": "我得试试提示这个。\n\n（引用 @sandro_pozzi：观赏日全食最壮观的方式是在飞机上。伊比利亚航空有一趟特别航班，将在 A321 上直播这一天文盛事。）",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月13日4时26分"
+  },
+  {
     "id": "cmsqjarib04mcroxv2w9s7i0a",
     "title": "Claude Chrome会话跨端同步，Max与Team先行",
     "url": "https://x.com/claudeai/status/2087635262390026525",
@@ -13862,6 +13926,14 @@
     "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
     "source": "Claude：Blog（网页）",
     "date": "2026年8月13日4时15分"
+  },
+  {
+    "id": "cmsql9m6h065kroxvyx7jzfaj",
+    "title": "Amazon 将默认用 Twitch 主播内容训练生成式 AI，除非用户主动退出",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out",
+    "summary": "Twitch 将默认把创作者内容用于训练母公司 Amazon 的生成式 AI 模型，主播需手动在频道设置的\"生成式 AI 训练\"选项中退出。此举引发社区强烈反弹，Twitch 高管坦言若改为主动加入则无人会选择。Twitch 承认其做法并非个例，Meta 同样使用平台公开内容训练 AI。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月13日4时10分"
   },
   {
     "id": "cmsqjqumo051broxvydif1lgh",
@@ -13893,6 +13965,14 @@
     "url": "https://every.to/context-window/openai-hugging-face-hack",
     "summary": null,
     "source": "Every：最新文章（网页）",
+    "date": "2026年8月13日3时45分"
+  },
+  {
+    "id": "cmsqjqumo051croxvey8biccj",
+    "title": "Amtrak 如何为 50 多年来最大规模转型构建数据骨干",
+    "url": "https://www.databricks.com/blog/how-amtrak-building-data-backbone-its-largest-transformation-over-50-years",
+    "summary": "Amtrak 正为 50 多年来最大规模转型构建数据骨干，将每列新列车组视为数据生成资产。该智能平台连接列车运营与维护数据，支撑其现代化改造。具体技术架构与部署细节未在原文中展开。",
+    "source": "Databricks：Blog（RSS）",
     "date": "2026年8月13日3时45分"
   },
   {
