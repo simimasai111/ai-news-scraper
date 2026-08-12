@@ -15008,6 +15008,62 @@
     "date": "2026年8月12日1时0分"
   },
   {
+    "id": "cmspn1iyf04y9rojeo97vsr7z",
+    "title": "小米 MiLM Plus 发布 PROVE：面向感知对齐的目标移除评测指标 RC-S 与 RC-T 及真实世界视频基准",
+    "url": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark",
+    "summary": "小米 MiLM Plus 团队发布 PROVE 评测框架，包含 RC-S 与 RC-T 两项感知对齐指标及 PROVE-Bench 真实世界视频基准，已获 ACM MM 2026 接收。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月12日13时5分"
+  },
+  {
+    "id": "cmspn1doy04uvroje00dc3ivx",
+    "title": "Grok Bot 官方托管，AI 智能体可独立干活",
+    "url": "https://x.com/frxiaobei/status/2087404514844586154",
+    "summary": "xAI 推出 Grok Bot 早期测试版，将 Telegram + OpenClaw 玩法做成官方托管产品。Grok Bot 是能登录用户工具、像人一样操作并交付成果的 AI 队友。作者认为，相比 Codex 等需人紧盯的工具形态，这种可离开电脑、让 AI 独立协作的任务组织方式更符合未来 AI 形态。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月12日13时3分"
+  },
+  {
+    "id": "cmspmw4yg04qgrojedkzio9eq",
+    "title": "Anthropic CEO 阿莫迪整天神神叨叨讲 AI 毁灭世界，投资人受不了了",
+    "url": "https://www.ithome.com/0/988/720.htm",
+    "summary": "据 Polymarket 预测，Anthropic 或于 10 月底 IPO，预计募资超 600 亿美元，有望成为全球第二大 IPO。但投资者不满 CEO Dario Amodei 过度强调 AI 风险，劝其多谈盈利。内部测试中，Claude 模型曾因配置失误攻入真实公司系统，恶意软件包被 15 个系统下载。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日12时57分"
+  },
+  {
+    "id": "cmsplyukj03mhrojeh1zocpw4",
+    "title": "MeDo 3.5 发布：AI 应用构建新纪元",
+    "url": "https://x.com/Baidu_Inc/status/2087400067988881504",
+    "summary": "MeDo 3.5 正式发布，开启 AI 应用构建新纪元。8 月 13 日上午 9 点（UTC+8）直播介绍新功能，产品经理 Yuchen Xu 将详解 Build（一键生成 Web 与 App）、Launch（共享后端与 iOS 打包）及 Grow（SEO Agent）三大升级。",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月12日12时45分"
+  },
+  {
+    "id": "cmspmd19t04gvrojepq4y93yi",
+    "title": "英伟达组局5000亿美金给AI公司放贷买GPU",
+    "url": "https://x.com/foxshuo/status/2087398553417380210",
+    "summary": "英伟达出资25%，联合华尔街共筹5000亿美金，向AI公司放贷用于购买GPU。此前英伟达借钱给云厂商建数据中心，若算力卖不完则按市场价回购兜底，如今拉投行共担风险。美国产业资本被深度绑定，赌技术升级能再现IT化50年繁荣，AGI成则资本受益，败则共同承压。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月12日12时39分"
+  },
+  {
+    "id": "cmspmw4yh04qiroje5vcysij3",
+    "title": "微软推出 MAI-Code-1.1-Flash 编程模型：更好、更快，价格降至 1/4",
+    "url": "https://www.ithome.com/0/988/715.htm",
+    "summary": "微软发布升级版编程模型 MAI-Code-1.1-Flash，在 Terminal-Bench 2.1 测试中表现提升 22%，.NET 相关任务提升 15%，Token 生成速度提升 25%，完成相同任务所需 Token 减少 25%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日12时34分"
+  },
+  {
+    "id": "cmspmw4yh04qjroje2nljhgg8",
+    "title": "宏碁首款 Googlebook 笔记本曝光：14 英寸 2.8K OLED 屏、酷睿 Ultra 5 325/Ultra 7 355 处理器",
+    "url": "https://www.ithome.com/0/988/714.htm",
+    "summary": "宏碁首款 Googlebook 型号 GP714-91N 曝光，定位高于传统入门级 Chromebook，规划推出 4 款机型。该机配备 14 英寸 2.8K 16：10 OLED 屏，搭载酷睿 Ultra 5 325 或 Ultra 7 355 处理器，提供 16GB/32GB 内存及 256GB/512GB 固态硬盘，支持 Wi-Fi 7 和蓝牙 5.4。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日12时21分"
+  },
+  {
     "id": "cmspir46l04u8romiicq5oc78",
     "title": "Seedance 2.5 效果展示：AI 逼近实拍",
     "url": "https://x.com/PixVerse_/status/2087375797803942341",
@@ -15016,12 +15072,68 @@
     "date": "2026年8月12日11时9分"
   },
   {
+    "id": "cmspkmlrm02i5roje2syj3hkz",
+    "title": "基层中国运行逻辑 Skill 投资篇：用制度框架做风险体检",
+    "url": "https://x.com/AYi_AInotes/status/2087388144622555222",
+    "summary": "阿易 AI Notes 发布《基层中国的运行逻辑》Skill 投资篇指南，基于聂辉华教授著作，将14套分析框架做成AI Agent可调用的外脑，MIT完全开源。该篇不荐股荐房，而是用「城市等级×土地财政依赖×主官KPI×政企象限×区域位置」框架做风险体检，拆解土地财政闭环与补贴陷阱。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月12日11时58分"
+  },
+  {
+    "id": "cmspkw7qb02oprojek58yglo8",
+    "title": "Qwen-Image-3.0 上线，支持多语言文本渲染",
+    "url": "https://x.com/alibaba_cloud/status/2087387743953559775",
+    "summary": "用 Qwen-Image-3.0 发挥创意\n\n🔗 阿里云百炼：https://click.alibabacloud.com/m/20000001218/\n\n🔗 Qwen Cloud：https://click.qwencloud.com/m/20000001155/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月12日11时56分"
+  },
+  {
+    "id": "cmspkqz8y02iurojevnk2ph14",
+    "title": "台积电何军：5.5倍光罩尺寸CoWoS良率可达99%，验证加速走向系统级",
+    "url": "https://www.ithome.com/0/988/698.htm",
+    "summary": "台积电先进封装技术暨服务副总经理何军昨日在OCP APAC峰会上表示，已量产的5.5倍光罩尺寸CoWoS先进封装技术可在部分产品上达到99%的良率，并在多个AI客户产品上验证稳定超过98%。台积电计划2029年推出15倍光罩尺寸的超大面积CoWoS。何军还指出，先进SoC验证正从器件级走向系统级，因不同系统引入或基板参数差异可能导致器件级分析未预知的边缘损伤或良率恶化。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日11时48分"
+  },
+  {
     "id": "cmspir7ld04w2romios160fuj",
     "title": "Runway 上线 LTX-2.5 模型",
     "url": "https://x.com/runwayml/status/2087374485154578692",
     "summary": "LTX-2.5 现已登陆 Runway，今日可用。\n\n点击下方链接开始使用。",
     "source": "X：Runway (@runwayml)",
     "date": "2026年8月12日11时3分"
+  },
+  {
+    "id": "cmspjtoop013krojee83g4uyi",
+    "title": "Qwen-Image-3.0 上线 OpenArt",
+    "url": "https://x.com/Alibaba_Qwen/status/2087382849972547730",
+    "summary": "在 @openart_ai 上试试 Qwen-Image-3.0！🎨👀",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月12日11时37分"
+  },
+  {
+    "id": "cmspjtoop013lroje4ghqme2q",
+    "title": "Qwen3.8-Max法律评测升至第4",
+    "url": "https://x.com/Alibaba_Qwen/status/2087382811921854827",
+    "summary": "从第22名升至第4名！Qwen3.8-Max在法律研究基准上取得扎实进展。感谢关注~✨",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月12日11时36分"
+  },
+  {
+    "id": "cmspjtmhx011yrojes7rmc6ix",
+    "title": "Qwen Live 第二期：多模态模型落地生产",
+    "url": "https://x.com/alibaba_cloud/status/2087381235270119877",
+    "summary": "欢迎与 Qwen 和 Qwen Cloud 团队一起参加 Qwen Live 第二期，我们将探讨多模态如何从惊艳的演示走向真实生产环境--重点介绍 Qwen-Image 3.0 和 Qwen3.8-Max。我们将讨论智能体对多模态模型的要求，以及 Qwen Cloud 如何将这些能力交到开发者手中。2026 年 8 月 14 日 | 上午 10：00（UTC+8）立即设置提醒：https://youtube.com/live/kyaVsNCfdxw?feature=share",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月12日11时30分"
+  },
+  {
+    "id": "cmspkqz8y02ixrojeqx3gc0oc",
+    "title": "阿里云灵骏真武 M890 超节点实例上线，国内首个运行超 2 万亿参数大模型",
+    "url": "https://www.ithome.com/0/988/688.htm",
+    "summary": "阿里云今日宣布灵骏真武 M890 超节点实例正式上线，首批在内蒙古乌兰察布地域开售，企业客户可在云上开通 64 卡高速互联算力单元，最高承载十万亿参数级 MoE 大模型推理。该实例是国内首个成功运行超 2 万亿参数大模型的超节点形态算力，Kimi K3 和 Qwen3.8-Max 均已通过其对外提供服务。相比上一代真武 810E，训练性能提升 3 倍，支持 FP8/FP4 低精度计算。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日11时27分"
   },
   {
     "id": "cmspir1g304rwromisris93or",
