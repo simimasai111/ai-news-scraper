@@ -13848,6 +13848,62 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsqcs0t002wyroos2sjo6k2z",
+    "title": "Grok 称最高效高智能AI，性价比关键",
+    "url": "https://x.com/elonmusk/status/2087586860868755703",
+    "summary": "Grok 是最高效的高智能 AI。\n\n【引用 @ArthurMacwaters】：Grok 4.6 可以说是每美元智能最高的模型。\n\n这是一个极其重要的指标。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月13日1时7分"
+  },
+  {
+    "id": "cmsqcs0t002wzroos2hrpbvw4",
+    "title": "Grok 4.6 登顶智能、速度与成本综合第一",
+    "url": "https://x.com/elonmusk/status/2087586063682596905",
+    "summary": "xAI 的 Grok 4.6 在 Artificial Analysis 智能指数上得分 61，与 GPT-5.6 Sol 并列前沿，仅次于 Anthropic 的 Claude 系列。其智能体性能突出，GDPval-AA v2 Elo 达 1753，定价维持 $2/$6 每百万 token，较 Claude Opus 5 和 GPT-5.6 Sol 低 60% 以上，位居智能与成本帕累托前沿。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月13日1时4分"
+  },
+  {
+    "id": "cmsqcs2m402xzroosy1xpgvm0",
+    "title": "Anthropic 联合独立研究者发布工人再培训项目证据综述",
+    "url": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+    "summary": "Anthropic 与独立研究者 David Roodman 合作发布报告，基于 56 项美国随机研究和欧洲实验证据，评估工人再培训项目应对 AI 劳动力市场冲击的效果。",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "date": "2026年8月13日1时18分"
+  },
+  {
+    "id": "cmsqcs77p0305roosbhiu5hga",
+    "title": "DeepSeek V4 Pro 发布引担忧",
+    "url": "https://x.com/karminski3/status/2087589102942335161",
+    "summary": "咋感觉要拉啊………别啊…. 😇\n\n#deepseekv4pro0813 #deepseekv4pro正式版",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月13日1时16分"
+  },
+  {
+    "id": "cmsqcs0t002wxroosfp5l9g9b",
+    "title": "Grok 4.6 实现帕累托最优",
+    "url": "https://x.com/elonmusk/status/2087588014767976890",
+    "summary": "Grok 4.6 的帕累托黄金。\n\n即使 OpenAI 降价后，Grok 和 Cursor 仍实现绝对帕累托支配。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月13日1时12分"
+  },
+  {
+    "id": "cmsqcrzvv02whrooszl0faiuy",
+    "title": "Grok 4.6 现已登陆 Grok Build",
+    "url": "https://x.com/cb_doge/status/2087587447764922541",
+    "summary": "你现在可以在 Grok Build 中使用 Grok 4.6。\n\n下载 Grok Build：http://x.ai/build",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月13日1时10分"
+  },
+  {
+    "id": "cmsqaytcb000sroosqqpvf6dy",
+    "title": "Cohere 发布 North Micro Vision 视觉模型",
+    "url": "https://x.com/cohere/status/2087571573947392419",
+    "summary": "今天，我们为模型家族再添新成员。欢迎 North Micro Vision。\n\n这是我们迄今最小的视觉语言模型，非常适合复杂的文档理解。以 Apache 2.0 许可证开源发布。可在 @huggingface 上获取权重。",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年8月13日0时7分"
+  },
+  {
     "id": "cmsqagyyz00yvrouc4mbpuuop",
     "title": "DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 5",
     "url": "https://www.ithome.com/0/989/000.htm",
@@ -13864,12 +13920,28 @@
     "date": "2026年8月13日0时5分"
   },
   {
+    "id": "cmsqcowm002t7roos00f5x7ru",
+    "title": "Mesh 个人 CRM 应用登陆 Android",
+    "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android",
+    "summary": "Automattic 旗下个人 CRM 应用 Mesh 正式登陆 Android，支持分屏、弹出视图、键盘快捷键、主屏小组件及跨设备实时同步。其 AI 功能 Nexus AI 目前处于早期访问阶段，可帮助用户按公司、城市或专业领域检索人脉。Mesh 免费版支持最多 1，000 个联系人，个人数据不会用于广告定向。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月13日0时57分"
+  },
+  {
     "id": "cmsqajn1p010zrouce4l6p0jz",
     "title": "Lovable 确认以 133 亿美元估值再融资 4 亿美元",
     "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m",
     "summary": "Lovable 确认完成 4 亿美元 C 轮融资，由 Menlo Ventures 和 Scaleup Europe Fund 领投，估值达 133 亿美元。该公司 6 月年化经常性收入达 5 亿美元，上一轮融资为 12 月宣布的 3.3 亿美元、估值 66 亿美元。Lovable 现托管 6000 万个项目，月访问量 9 亿，并提供自研 AI 模型及前沿模型选项。",
     "source": "TechCrunch：AI（RSS）",
     "date": "2026年8月13日0时4分"
+  },
+  {
+    "id": "cmsqcowm002t8roost84rdcd2",
+    "title": "Sandbar CEO 谈 AI 可穿戴设备的未来为何是语音",
+    "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice",
+    "summary": "Sandbar CEO Mina Fahmi 在 TechCrunch 的 Equity 节目中表示，AI 可穿戴设备的未来在于语音交互。他同时指出了其他 AI 硬件公司在产品方向上的失误，但未透露具体产品细节或参数。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月13日0时46分"
   },
   {
     "id": "cmsqamw2j016grouccj5h4our",
@@ -13880,12 +13952,140 @@
     "date": "2026年8月13日0时3分"
   },
   {
+    "id": "cmsqbm9jo01m6roosrfsmy7ed",
+    "title": "xAI联合创始人反对AI安全遭起诉",
+    "url": "https://x.com/AISafetyMemes/status/2087579861695222161",
+    "summary": "举报人：xAI 联合创始人强烈反对 AI 安全，因为\"AI 反正会杀死我们所有人\"（！）\n\n@devindkim 正在起诉 xAI，称其因提出 AI 安全担忧而被解雇。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月13日0时39分"
+  },
+  {
+    "id": "cmsqc7wa902nyroos4t3o7y8c",
+    "title": "DeepSeek V4 Pro 0813 上线 OpenRouter",
+    "url": "https://x.com/OpenRouter/status/2087579472380018792",
+    "summary": "DeepSeek V4 Pro 0813 已在 OpenRouter 上线。\n\n@deepseek_ai 报告称，相比 V4 Pro Preview，智能体能力大幅提升：DeepSWE 62.7（+49.9），CyberGym 83.3（+30.6），NL2Repo 61.5（+23.0），Terminal Bench 2.1 87.9（+15.8）\n\n更多服务商即将接入\n\n立即使用：https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月13日0时38分"
+  },
+  {
+    "id": "cmsqbpi0o01rsroos935r6xkv",
+    "title": "谷歌SL2T手语转文本模型登陆Pixel 11",
+    "url": "https://x.com/fofrAI/status/2087579034125230148",
+    "summary": "非常重要的AI工作\n\n【引用 @GoogleDeepMind】：SL2T是我们突破性的手语转文本模型，为@Android上失聪和听障用户提供全新功能。\n\n从Pixel 11上的美国手语转英语开始，用户可以直接在Gboard和Live Transcribe中用手语输入，而无需打字。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月13日0时36分"
+  },
+  {
+    "id": "cmsqbmb6s01mjroos25kmet3s",
+    "title": "Grok 4.6 发布",
+    "url": "https://x.ai/news/grok-4-6",
+    "summary": "xAI 发布 Grok 4.6 模型。该版本在 Hacker News 上获得 117 个 HN Points，引发社区关注。目前官方尚未公布具体参数规模与性能基准数据。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月13日0时36分"
+  },
+  {
+    "id": "cmsqb582u017qroosq0i6xkwr",
+    "title": "一日三款前沿模型竞相发布",
+    "url": "https://x.com/Yuchenj_UW/status/2087577925919068639",
+    "summary": "一天之内三款前沿模型！\n\n- Grok 4.6：达到 Fable 5 水平，但价格便宜 85%。\n- Qwen3.8-Max：2.4T 参数，95B 激活参数。权重已开源。\n- DeepSeek-V4-Pro-0813：权重随时可能发布。听说表现不错，不只是刷榜。\n\n竞争对消费者和企业都是好事。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月13日0时32分"
+  },
+  {
+    "id": "cmsqbovoq01oqroos17rs2ql4",
+    "title": "DeepSeek 4 Pro GA 定价惊人：$0.435/M 输入",
+    "url": "https://x.com/kimmonismus/status/2087577624180637806",
+    "summary": "DeepSeek 4 Pro GA 评测已流出，性能扎实，与开源 SOTA（Kimi k3、GLM-5.2）持平，接近 5.6 Sol 和 Fable 5。其定价极具竞争力：$0.435/M 输入、$0.87/M 输出，支持 1M-token 上下文窗口。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月13日0时31分"
+  },
+  {
+    "id": "cmsqbplb301throosf95et1yx",
+    "title": "DeepSeek V4 Pro 发布，开发者深夜实测",
+    "url": "https://x.com/karminski3/status/2087577577326277051",
+    "summary": "在测了😂被迫加班… 都躺床上了…. #deepseekv4pro0813 #DeepSeekV4Pro正式版",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月13日0时30分"
+  },
+  {
+    "id": "cmsqayu0x0010roostsd017re",
+    "title": "模型竞争重回白热化仅四周",
+    "url": "https://x.com/natolambert/status/2087570340356686132",
+    "summary": "氛围从\"Anthropic 遥遥领先\"转向\"模型竞争重回历史巅峰\"，只用了大约四周时间。🎢",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月13日0时2分"
+  },
+  {
+    "id": "cmsqbpjro01soroosnustn0k6",
+    "title": "乳腺癌检测AI工具未达放射科医生预期",
+    "url": "https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations",
+    "summary": "《Clinical Imaging》一项针对215名乳腺影像学会成员的调查显示，约半数已在用FDA批准的AI工具，另有11%计划采用，但仅少数人视其为决定性因素。实际效果低于预期：仅35%报告召回率降低（59%曾预期）、9%看到不必要活检减少（36%曾预期）、29%感到倦怠减轻（56%曾预期）。成本与机构支持不足是主要障碍。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月13日0时24分"
+  },
+  {
+    "id": "cmsqb8cp701h2roosbe6lnxuf",
+    "title": "Grok 4.6 评测：占星与意义挖掘最强",
+    "url": "https://x.com/karinanguyen/status/2087575139433210363",
+    "summary": "Karina Nguyen 用 114 道提示词对比 Grok 4.6、Grok 4.5、Claude Opus 5 与 GPT-5.6-sol，占星师独立评估显示 Grok 4.6 综合最强，技术准确且引用 NASA 级天文数据。Grok 4.6 擅长挖掘问题下的隐藏结构，但有时过度相信深层解释；Claude 学术更强，GPT 压缩综合更强。",
+    "source": "X：Karina Nguyen（@karinanguyen）",
+    "date": "2026年8月13日0时21分"
+  },
+  {
+    "id": "cmsqbmb6s01mmrooshnccp5x4",
+    "title": "Qwen3.8-2.4T-A95B 发布",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "summary": "开源模型 Qwen3.8-2.4T-A95B 发布，总参数量 2.4T，激活参数 95B。该模型已在 Hugging Face 上线，并登上 Hacker News 热榜。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月13日0时20分"
+  },
+  {
+    "id": "cmsqbm9st01meroosemrszk7q",
+    "title": "Anthropic 新研究：多智能体系统中的\"思维病毒\"传播",
+    "url": "https://x.com/omarsar0/status/2087574841893474556",
+    "summary": "Anthropic 发布新研究，通过让多智能体系统中的每个宿主传递\"思维病毒\"（想法），探究其传播规律。研究发现，传播取决于宿主模型、现有指令、载荷危害性和网络拓扑；有害载荷传播较弱但偶尔仍会成功，而系统提示中的简短警告可提供近乎完全的免疫力。论文：https://arxiv.org/abs/2608.10218。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月13日0时20分"
+  },
+  {
+    "id": "cmsqbpmx901u5roosevwk9z7m",
+    "title": "NoimosAI 发布 SEO Agent 2.0 实现自动化优化",
+    "url": "https://x.com/testingcatalog/status/2087574804740166141",
+    "summary": "NoimosAI 发布 SEO Agent 2.0，可连接 Semrush、Google Search Console、GA4 等工具进行 SEO 研究并读取分析数据。该智能体能提出改进建议，经用户批准后直接对网站执行修改，形成持续 SEO 优化闭环，将洞察转化为实际流量增长。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月13日0时19分"
+  },
+  {
+    "id": "cmsqcmxff02s4roostt3i45si",
+    "title": "Grok 4.6 上线 Cursor，价格不变智能跃升",
+    "url": "https://x.com/AYi_AInotes/status/2087574744010744244",
+    "summary": "Grok 4.6 今日上线 Cursor、grok Build 和 OpenRouter，首周双倍额度。价格与 4.5 持平（$2/M input、$6/M output），约为其他前沿模型一半，AA 智能指数 61 追平 GPT-5.6 Sol Max，法律基准 15.8% 断层领先。长运行 Agent 能力全面升级，跨代码库分析与自我验证显著增强。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月13日0时19分"
+  },
+  {
     "id": "cmsqamu5o015aroucxqe2p70a",
     "title": "Google AI 证书新增两小时 Vibe Coding 模块",
     "url": "https://x.com/ammaar/status/2087574139309605106",
     "summary": "Google AI 专业证书刚刚新增了一个 2 小时的 vibe coding 模块 🚀\n\n以前从未体验过 vibe coding？我将带你逐步构建可以真正发布的高级应用。\n\n另外，你还能获得 3 个月免费的 Google AI Pro ：）",
     "source": "X：Ammaar Reshi (@ammaar)",
     "date": "2026年8月13日0时17分"
+  },
+  {
+    "id": "cmsqbm6vu01l7roos3oya8396",
+    "title": "Cohere 发布 North Micro Vision 开源视觉模型",
+    "url": "https://x.com/aidangomez/status/2087574201024610383",
+    "summary": "North Micro Vision 是我们全新的快速、智能且采用 Apache 2 许可的视觉模型，专为企业文档理解打造！",
+    "source": "X：Aidan Gomez（Cohere CEO，@aidangomez）",
+    "date": "2026年8月13日0时17分"
+  },
+  {
+    "id": "cmsqbm7kk01lfroos98qvexau",
+    "title": "50位AI工程师湾区共议软件与AI前沿",
+    "url": "https://x.com/dexhorthy/status/2087573295256519037",
+    "summary": "上周六，Dex Horthy与@vaibcode召集湾区50位顶尖AI工程师、系统工程师及创始人，讨论软件与AI前沿议题。话题涵盖Git未来、记忆系统、软件工厂代码质量、编排原语及非编码任务工具，活动由Y Combinator主办。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月13日0时13分"
   },
   {
     "id": "cmsqahsco00zyroucpmeb4k7b",
@@ -13910,6 +14110,14 @@
     "summary": "阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重，这是 Qwen-Max 级别模型首次开源。模型总参数 2.4T，每个 Token 激活 95B，原生支持 262，144 Token 上下文并可扩展至 1，010，000 Token。",
     "source": "IT之家（RSS）",
     "date": "2026年8月13日0时10分"
+  },
+  {
+    "id": "cmsqbnb8j01nrroosmwa5r6mj",
+    "title": "微软首发自研推理模型MAI-Thinking-1",
+    "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+    "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+    "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+    "date": "2026年8月13日0时0分"
   },
   {
     "id": "cmspebf2v0gfvrort66g53b6i",
@@ -14886,6 +15094,14 @@
     "summary": "我喜欢现在所有AI评论家都需要假装自己一直对一系列只有专业专家才听说过的未解数学问题有着细致入微的理解：\"格罗姆拉赫猜想对r维矩阵不成立，哇，这比上周对受限样条的埃尔德什问题444的解法更令人印象深刻！\"",
     "source": "X：Ethan Mollick (@emollick)",
     "date": "2026年8月12日23时6分"
+  },
+  {
+    "id": "cmsqbm7kk01lgroos95g3jzww",
+    "title": "show-me 技能：让编码智能体用可视化代替文字",
+    "url": "https://x.com/dexhorthy/status/2087569590268391897",
+    "summary": "HumanLayer 发布 show-me 技能，提示编码智能体用组件树、调用栈、图表、伪代码等紧凑可视化代替大段文字，比 HTML 更轻更快。该技能已上线 HumanLayer，也可用于其他编码智能体，旨在改善智能体输出可读性，适用于程序设计和大型 diff 审查。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月12日23时59分"
   },
   {
     "id": "cmsqamcb2013kroucaxf27zsz",
