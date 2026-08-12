@@ -13848,6 +13848,86 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsqjarib04mcroxv2w9s7i0a",
+    "title": "Claude Chrome会话跨端同步，Max与Team先行",
+    "url": "https://x.com/claudeai/status/2087635262390026525",
+    "summary": "你在 Chrome 中的 Claude 会话现在可延续至桌面端、网页端和移动端。对话会被保存，你的技能和连接器也能在浏览器中使用。\n\n该功能今日起面向 Max 和 Team 用户开放，并将在未来几周内逐步推送给 Pro 用户。",
+    "source": "X：Claude (@claudeai)",
+    "date": "2026年8月13日4时20分"
+  },
+  {
+    "id": "cmsqj4ly004izroxvzl349s3r",
+    "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+    "url": "https://claude.com/blog/cowork-chrome-side-panel",
+    "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月13日4时15分"
+  },
+  {
+    "id": "cmsqjqumo051broxvydif1lgh",
+    "title": "Databricks 如何将网络配置交付至数千万台 Serverless VM",
+    "url": "https://www.databricks.com/blog/databricks-network-configuration-delivery-tens-millions-serverless-vms",
+    "summary": "Databricks 的 serverless 平台每天启动数千万台 VM，其网络配置交付机制面临规模挑战。文章介绍了该平台如何高效完成这一交付过程，确保大规模基础设施的稳定运行。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月13日4时0分"
+  },
+  {
+    "id": "cmsqing0304ebroxvy6lx56rw",
+    "title": "OpenRouter 推出 Ori Pi 一键运行环境",
+    "url": "https://x.com/OpenRouter/status/2087628356015755733",
+    "summary": "今天，我们推出 Ori Pi\n\n直接在 OpenRouter 上运行 Pi。一次安装，你的所有 OpenRouter 凭证、模型和环境都在 Pi 上为你配置完毕\n\n在 https://openrouter.ai/ori/harness 开始使用\n\n我们还添加了扩展以改善体验",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月13日3时52分"
+  },
+  {
+    "id": "cmsqj4fvc04irroxv4i4nwjib",
+    "title": "Zed 发布 Delta：面向 AI 智能体的多人协作编码环境",
+    "url": "https://zed.dev/blog/introducing-delta",
+    "summary": "Zed 推出 Delta，一个专为 AI 智能体打造的多人协作编码环境。该环境由 Zed 原班人马开发，旨在让开发者与智能体在同一工作区内实时协同编程，提升团队开发效率。Delta 目前尚未公布具体定价与开放范围，更多细节有待官方后续披露。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月13日3时48分"
+  },
+  {
+    "id": "cmsqi1hdr03jsroxvu8vuqyzf",
+    "title": "Agents Find a Way",
+    "url": "https://every.to/context-window/openai-hugging-face-hack",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月13日3时45分"
+  },
+  {
+    "id": "cmsqi84cg03nrroxvyh8jz7l9",
+    "title": "布林推动谷歌AI递归自我改进",
+    "url": "https://x.com/kimmonismus/status/2087623474672021550",
+    "summary": "据报道，谢尔盖·布林正将谷歌的AI资源转向递归自我改进。\n\n路透社称，布林已敦促核心员工追赶前沿，并将资源推向无需人工干预即可自我改进的AI。\n\n在Anthropic凭借Claude Mythos领先之后，压力加剧。谷歌随后将其下一代旗舰Gemini模型推迟了两个月，因为内部测试显示该模型在编码等领域落后于竞争对手。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月13日3时33分"
+  },
+  {
+    "id": "cmsqi84cg03nsroxv9oixyna2",
+    "title": "Grok 4.7 将超越所有现有模型",
+    "url": "https://x.com/kimmonismus/status/2087621998721585588",
+    "summary": "马斯克称 Grok 4.7 将超越所有现有模型，并称 SpaceX 训练语料独特，在真实工程任务上难有敌手。博主认为 Grok 4.6 已是期待中的飞跃，若 10T 参数模型尚未发布，马斯克所言或可成真。同时指出 Anthropic 的 Fable 5.5 蓄势待发，未来数周竞争将十分激烈。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月13日3时27分"
+  },
+  {
+    "id": "cmsqi864i03p7roxv60t0jf6r",
+    "title": "MiniMax H3 与 fal 联办线上分享会",
+    "url": "https://x.com/MiniMax_AI/status/2087621556126310730",
+    "summary": "MiniMax H3 × @fal 🎙️\n\n本周四，fal 创意工程师 @OdinLovis、MiniMax AI 解决方案架构师 Ethan Wei 以及 MiniMax GTM 工程师 @VictorSuOrtiz 将共同直播，深入解析创作者和开发者如何基于 H3 进行构建。\n\n我们将涵盖多模态引用、原生音频、提示词、LoRA 与定制化、开放权重，以及 fal 上真实的创意与技术工作流。\n\n8 月 13 日 · 上午 11 点（太平洋时间）· X Spaces\n\n设置提醒 ↓ https://x.com/i/spaces/1vJpPNPdnXZJE?s=20",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月13日3时25分"
+  },
+  {
+    "id": "cmsqiju8r0417roxvbqlhkvcm",
+    "title": "GitHub Copilot 应用如何写出你的第一条提示词",
+    "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+    "summary": "GitHub Copilot 应用发布入门指南，教用户写出第一条提示词，并学会选择合适的上下文与模型，从而自信地开启首个任务。该指南面向 Copilot 应用的新手用户，帮助其快速上手提示词编写。",
+    "source": "GitHub Blog",
+    "date": "2026年8月13日3时0分"
+  },
+  {
     "id": "cmsqf0eus011qroxvj5sid928",
     "title": "马斯克推荐试用Grok Bot智能体",
     "url": "https://x.com/elonmusk/status/2087602469778166195",
@@ -13877,6 +13957,14 @@
     "url": "https://x.com/thsottiaux/status/2087614555203809395",
     "summary": "与 @ajambrosino 的典型对话\n\nA：核心对齐已经达成\nT：你说核心对齐\nA：我是说\nT：多说点\nA：更多\n\n然而，我从未对他和团队正在构建的东西感到如此兴奋。",
     "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月13日2时57分"
+  },
+  {
+    "id": "cmsqhjp6d0364roxvj7iaoswf",
+    "title": "Grok 4.6 登陆 Conductor，性能比肩 GPT 5.6 Sol",
+    "url": "https://x.com/charlieholtz/status/2087614466632606002",
+    "summary": "Grok 4.6 已在 Conductor 上线！\n\n所有基准测试均表明，其性能与 GPT 5.6 Sol 不相上下。",
+    "source": "X：Charlie Holtz（@charlieholtz）",
     "date": "2026年8月13日2时57分"
   },
   {
