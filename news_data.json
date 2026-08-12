@@ -13856,12 +13856,148 @@
     "date": "2026年8月13日1时7分"
   },
   {
+    "id": "cmsqe6mat01bsroli3hw71nz7",
+    "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
+    "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
+    "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
+    "source": "Google Research：Blog（网页）",
+    "date": "2026年8月13日1时57分"
+  },
+  {
     "id": "cmsqcs0t002wzroos2hrpbvw4",
     "title": "Grok 4.6 登顶智能、速度与成本综合第一",
     "url": "https://x.com/elonmusk/status/2087586063682596905",
     "summary": "xAI 的 Grok 4.6 在 Artificial Analysis 智能指数上得分 61，与 GPT-5.6 Sol 并列前沿，仅次于 Anthropic 的 Claude 系列。其智能体性能突出，GDPval-AA v2 Elo 达 1753，定价维持 $2/$6 每百万 token，较 Claude Opus 5 和 GPT-5.6 Sol 低 60% 以上，位居智能与成本帕累托前沿。",
     "source": "X：Elon Musk (@elonmusk, xAI)",
     "date": "2026年8月13日1时4分"
+  },
+  {
+    "id": "cmsqdxxj1006arolii7eb7357",
+    "title": "我看有说max有问题high没问题的，我再把high也跑一下一起对比",
+    "url": "https://x.com/karminski3/status/2087596586973163884",
+    "summary": "我看有说max有问题high没问题的，我再把high也跑一下一起对比\n\n【引用 @MistymoonR】：@karminski3 这模型最大特点是不思考就直接干活🧐 就像是已经知道标准答案呢",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月13日1时46分"
+  },
+  {
+    "id": "cmsqdxt06002krolifay8izxv",
+    "title": "Grok 4.6登顶ARI Bench超越Claude与GPT",
+    "url": "https://x.com/cb_doge/status/2087595510081184142",
+    "summary": "Grok 4.6 在 ARI Bench 上夺得第一--该基准用于评测 AI 的递归式自我改进能力。🥇\n\n它显著超越 Grok 4.5，同时排名也领先于 Claude Opus 5 和 GPT-5.6。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月13日1时42分"
+  },
+  {
+    "id": "cmsqdrhrx01lnroc5r0ktcrs2",
+    "title": "OpenAI 参股的 Thrive Holdings 融资 20 亿美元，将 AI 引入企业",
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise",
+    "summary": "Thrive Holdings 以 120 亿美元估值完成 20 亿美元融资，投资方包括 SoftBank、D1 Capital Partners 和 Altimeter Capital。该公司类似 AI 私募股权公司，收购会计等传统企业并部署 AI，其 TaxAI 代理已处理超 7，000 份纳税申报表，准确率 98%，并将报税时间缩短逾 30%。本轮资金将用于拓展实物资产监管服务等新垂直领域。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月13日1时41分"
+  },
+  {
+    "id": "cmsqdxt06002lroli69xrgosk",
+    "title": "Grok 4.6 基准测试大幅超越 4.5",
+    "url": "https://x.com/cb_doge/status/2087595012213133588",
+    "summary": "Grok 4.6 相比 Grok 4.5 是巨大提升 🚀\n\nMercor 的 APEX 基准测试显示，在每个专业领域都有显著进步：\n\n🏛️ 公司法：49.6% → 62.5% 💰 投行：39.2% → 50.2% 📊 管理咨询：51.0% → 59.8% 🧮 会计：40.8% → 50.9%\n\n试试 @Grok 4.6",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月13日1时40分"
+  },
+  {
+    "id": "cmsqdxtrn003arolisg48jvat",
+    "title": "Grok 4.6 发布：智能体任务领先 GPT-5.6 Sol Max",
+    "url": "https://x.com/rohanpaul_ai/status/2087594773389701616",
+    "summary": "Grok 4.6 发布，主打专业智能体任务，在 GDPVal-AA v2 和 AA-Briefcase 上分别取得 1753 和 1577 分，均领先 GPT-5.6 Sol Max 与 Fable 5 Max。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日1时39分"
+  },
+  {
+    "id": "cmsqdxt7f002urolixrawza88",
+    "title": "Grok 4.6 实测登顶 GDPVal 基准",
+    "url": "https://x.com/elonmusk/status/2087594669459001801",
+    "summary": "试试用 Grok 4.6 应对棘手的现实世界任务吧！\n\n【引用 @EMostaque】：在我看来，GDPVal 可能是最重要的基准测试，它衡量模型在现实世界任务上的表现。\n\n性能大幅跃升，以极佳的价格登顶该基准，祝贺 @SpaceXAI 团队，期待接下来更重磅的发布！",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月13日1时38分"
+  },
+  {
+    "id": "cmsqe6kwd01biroli7v76f657",
+    "title": "Gboard 与 Live Transcribe 新增手语转文字功能",
+    "url": "https://x.com/sundarpichai/status/2087594472008003850",
+    "summary": "今天 Made by Google 发布的最重要更新之一，是我们在 Gboard 和 Live Transcribe 中新增的手语转文字功能。\n\n该功能与聋人社区合作开发，可帮助使用 ASL 手语的人更顺畅地通过手机或与不懂手语的人交流，如这段 Live Transcribe 演示所示：",
+    "source": "X：Sundar Pichai (@sundarpichai)",
+    "date": "2026年8月13日1时38分"
+  },
+  {
+    "id": "cmsqdxwk9005groligf8e4fzs",
+    "title": "AllenAI 教程：用 SFT、DPO、RLVR、GRPO 与验证器评估构建 Tulu 3 后训练流程",
+    "url": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation",
+    "summary": "本教程基于 AllenAI 的 Open Instruct 框架，构建了一个端到端的后训练流程，涵盖监督微调、直接偏好优化和基于 GRPO 的可验证奖励强化学习三个阶段。该流程将原多 GPU 的 Tulu 3 栈适配至 16 GB 运行时，用轻量级 Hugging Face 和 PyTorch 实现替换 vLLM、Ray、DeepSpeed 等分布式组件，并利用确定性验证器评估数学答案。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月13日1时37分"
+  },
+  {
+    "id": "cmsqdxvr5004wroliuib28uyi",
+    "title": "Odyssey 新推文暗示模型进展",
+    "url": "https://x.com/odysseyml/status/2087593539198648754",
+    "summary": "开始变得眼熟了。",
+    "source": "X：Odyssey (@odysseyml)",
+    "date": "2026年8月13日1时34分"
+  },
+  {
+    "id": "cmsqdxw310054rolif6l8rfo1",
+    "title": "研究人员实现从输出文本近乎完美逆向还原 LLM 提示词",
+    "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy",
+    "summary": "印度理工学院孟买分校与 Adobe Research 提出\"Previous-Token Prediction\"（PTP）方法，仅凭模型输出文本即可近乎完美地重建原始提示词，无需访问模型权重，且适用于第三方模型。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月13日1时32分"
+  },
+  {
+    "id": "cmsqdrczo01kxroc5d0qefvoq",
+    "title": "模型不可用即无用，能力回归引争议",
+    "url": "https://x.com/dexhorthy/status/2087592490249683103",
+    "summary": "Dex Horthy 反驳\"模型只是比你聪明\"的说法，认为前沿模型没有\"智能\"只有\"能力\"，且其服务能力已出现回退。他批评 Altimor 将模型晦涩表达视为更高智能的观点，强调人类不可用的模型没有价值。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月13日1时30分"
+  },
+  {
+    "id": "cmsqdriub01m7roc5boqsar0q",
+    "title": "Twitch 主播现可选择退出，不让内容用于训练亚马逊生成式 AI",
+    "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "summary": "Twitch 用户现可关闭\"生成式 AI 训练\"开关，选择退出后其直播、VOD、剪辑、聊天及频道图文将不再用于亚马逊生成式 AI 模型的\"未来训练\"。关闭该开关不影响字幕、安全工具等\"AI 辅助\"功能，但若在他人直播间参与聊天，是否可用于训练由该主播的选择决定。该开关位于设置的安全与隐私选项卡下，被发现时默认为开启状态。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月13日1时29分"
+  },
+  {
+    "id": "cmsqdxtvs003krolishsii61g",
+    "title": "BDH-CQ 循环潜在推理实现上下文学习",
+    "url": "https://x.com/_akhaliq/status/2087591432697651424",
+    "summary": "BDH-CQ\n\n基于循环潜在推理的上下文学习\n\n论文：https://huggingface.co/papers/2608.09888",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月13日1时25分"
+  },
+  {
+    "id": "cmsqdrhvh01lqroc5rt0jvc4b",
+    "title": "大规模漏洞扫描冒充ClaudeBot等AI机器人，5，000+网站流量分析揭示异常",
+    "url": "https://knownagents.com/insights",
+    "summary": "一项覆盖5，000多个网站的持续更新分析发现，有人正冒充ClaudeBot等AI机器人进行大规模漏洞扫描。该分析追踪了机器人流量、AI抓取、搜索索引、robots.txt合规性及AI聊天推荐等行为，揭示出伪装成合法AI爬虫的恶意扫描活动。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月13日1时24分"
+  },
+  {
+    "id": "cmsqdbbjg01dbroc5jhxkonbt",
+    "title": "LangSmith BYOC 在 AWS 上正式全面可用",
+    "url": "https://www.langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws",
+    "summary": "LangSmith Bring Your Own Cloud 现已在 AWS 上正式全面可用，让企业团队能在自己的 VPC 内获得托管的可观测性、评估和部署能力。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月13日1时20分"
+  },
+  {
+    "id": "cmsqdxs6r001uroliepj1zk50",
+    "title": "韩国Upstage发布Solar Pro 4，智能指数42分",
+    "url": "https://x.com/ArtificialAnlys/status/2087590023742775472",
+    "summary": "韩国AI实验室Upstage发布旗舰推理模型Solar Pro 4，Artificial Analysis智能指数达42分，较Solar Pro 3的14分大幅提升27分，与Inkling（xhigh，42分）持平。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月13日1时20分"
   },
   {
     "id": "cmsqcs2m402xzroosy1xpgvm0",
@@ -14078,6 +14214,14 @@
     "summary": "North Micro Vision 是我们全新的快速、智能且采用 Apache 2 许可的视觉模型，专为企业文档理解打造！",
     "source": "X：Aidan Gomez（Cohere CEO，@aidangomez）",
     "date": "2026年8月13日0时17分"
+  },
+  {
+    "id": "cmsqc7q9c02ltroosmb8dluai",
+    "title": "Introducing OlmoEarth embeddings： Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "summary": null,
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年8月13日0时14分"
   },
   {
     "id": "cmsqbm7kk01lfroos98qvexau",
