@@ -14800,6 +14800,54 @@
     "date": "2026年8月12日2时1分"
   },
   {
+    "id": "cmsq8k619089hro2elm2h4ui4",
+    "title": "AI教科书写作，模型尚难胜任",
+    "url": "https://x.com/natolambert/status/2087556462981644344",
+    "summary": "我最新这篇文章有点冗长，但我认为它确实是一个很好的例子，深入探讨了某种知识工作（甚至可以说是科学）--即在知名领域撰写类似AI教科书的内容--而模型目前还远未接近解决这一问题。https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月12日23时7分"
+  },
+  {
+    "id": "cmsq8hlne0852ro2ehxc6vbtn",
+    "title": "AI评论家假装精通数学难题引热议",
+    "url": "https://x.com/emollick/status/2087556358757609854",
+    "summary": "我喜欢现在所有AI评论家都需要假装自己一直对一系列只有专业专家才听说过的未解数学问题有着细致入微的理解：\"格罗姆拉赫猜想对r维矩阵不成立，哇，这比上周对受限样条的埃尔德什问题444的解法更令人印象深刻！\"",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月12日23时6分"
+  },
+  {
+    "id": "cmsq7xioz07uiro2ezvduuv1f",
+    "title": "OpenRouter Ori Eval 发布一周获五项改进",
+    "url": "https://x.com/OpenRouter/status/2087554816923062663",
+    "summary": "上周我们发布了 Ori Eval，帮助像你这样的开发者为你正在构建的产品找到最佳模型。\n\n自发布以来，我们收到了社区的大量反馈、建议、错误报告等。\n\n以下是本周我们推出的五项重大改进：",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月12日23时0分"
+  },
+  {
+    "id": "cmsq8ei57082dro2efyvz2p4l",
+    "title": "AI 正在消灭软件工程领域的中产阶级",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "summary": "AI 让弱工程文化的项目更快崩溃：工程师一天能生成过去一年的代码量，但无人真正理解系统，修复错误比创建错误困难得多。团队中不再有人能解释数据来源或设计决策，只能依赖 LLM 对话记录。当 25，000 行的 PR 成为常态，资深工程师的审查与架构职责被架空，软件工程的中层角色正被系统性削弱。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日23时0分"
+  },
+  {
+    "id": "cmsq7yhjw07vnro2egcdjgrqd",
+    "title": "可灵AI海盗猫视频全球走红明日发布",
+    "url": "https://x.com/Kling_ai/status/2087554708101570682",
+    "summary": "听说了吗？这只小海盗猫正在全球走红 🐱\n\n完整视频明天发布--敬请期待！",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年8月12日23时0分"
+  },
+  {
+    "id": "cmsq67f9g05bdro2e7gtjbyqr",
+    "title": "@Tesla_Optimus 这个场景有生之年应该能看到吧？ 国内跟特斯拉理念接近的应该就是理想汽车了吧， 都在构建人，车，家，未来生活智能",
+    "url": "https://x.com/AYi_AInotes/status/2087541999855341806",
+    "summary": "@Tesla_Optimus 这个场景有生之年应该能看到吧？ 国内跟特斯拉理念接近的应该就是理想汽车了吧， 都在构建人，车，家，未来生活智能",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月12日22时9分"
+  },
+  {
     "id": "cmsq5ynwt057cro2eqzmk9gh7",
     "title": "SL2T 手语转文本模型登陆 Android",
     "url": "https://x.com/GoogleDeepMind/status/2087541213284946191",
@@ -14808,11 +14856,163 @@
     "date": "2026年8月12日22时6分"
   },
   {
+    "id": "cmsq8hrp9088kro2ex8sciod4",
+    "title": "Luma 上线 FLUX 3 多模态模型",
+    "url": "https://x.com/LumaLabsAI/status/2087554647586156897",
+    "summary": "FLUX 3 现已上线 Luma。\n\n这是 @bfl_ai 首个面向图像、视频、音频和动作预测的通用模型。支持原生音频的视频，今日即可使用。更多功能即将推出。",
+    "source": "X：Luma AI (@LumaLabsAI)",
+    "date": "2026年8月12日22时59分"
+  },
+  {
+    "id": "cmsq7xl8h07urro2el7xbjdr4",
+    "title": "Google 测试 AMIE 用于临床视频问诊",
+    "url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations",
+    "summary": "Google 的研究医疗 AI 系统 AMIE（Video）与专业患者演员进行同步视频问诊，在多项核心指标上获得与初级保健医生相当的临床评估者评分。受训演员分别模拟了心肺、腹部、HEENT、神经或精神及肌肉骨骼等病症表现。Google 表示，涉及真实患者及其自身健康状况的研究正在进行中。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月12日22时56分"
+  },
+  {
+    "id": "cmsq6ezyf05kiro2e210zyeui",
+    "title": "AI 长文写作能力停滞，Nathan Lambert 担忧开放科学前景",
+    "url": "https://x.com/natolambert/status/2087540673255969137",
+    "summary": "Nathan Lambert 在 AI 教科书写作中意外发现，模型在长篇非虚构/技术写作上进步甚微。他认为写作与组织思想对推进集体知识至关重要，并担忧这会影响 AI 模型进行真正开放式科学的能力。相关分析见其最新文章《I wrote an AI textbook - how long until AI can do it better？》。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月12日22时4分"
+  },
+  {
+    "id": "cmsq8hrki088gro2e2w4vxprm",
+    "title": "Runway Agent 新增 Figma、Dropbox 与 Notion 连接",
+    "url": "https://x.com/runwayml/status/2087552165703504056",
+    "summary": "你现在可以将 Figma、Dropbox 和 Notion 连接到 Runway 上的 Agent。\n\n你的素材不应被困在各自独立的工具里。借助连接器，Agent 可直接与你已在使用的平台同步，将你的设计、文件和文档汇集到一处。\n\n所有付费套餐均可用。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月12日22时49分"
+  },
+  {
+    "id": "cmsq7la8b0701ro2eu04ohrrx",
+    "title": "Pixel 11 系列发布，主打 Gemini Intelligence",
+    "url": "https://x.com/sundarpichai/status/2087551816904974672",
+    "summary": "谷歌发布新一代 Pixel 11 系列，深度集成 Gemini Intelligence，并推出 Rambler 语音输入、Magic Capture 拍照及 HiLight 重要来电提醒等新功能。Pixel 11 与 Pixel Watch 5 均以 Gemini Intelligence 为核心，从辅助操作手机的 OS 升级为主动代劳的智能系统。",
+    "source": "X：Sundar Pichai (@sundarpichai)",
+    "date": "2026年8月12日22时48分"
+  },
+  {
+    "id": "cmsq7xal307pnro2e5qftnvx3",
+    "title": "AI 终局应用，是一个浏览器。一个可以打开一款名为\"浏览器\"的内部官方应用的浏览器。",
+    "url": "https://x.com/chunxiangai/status/2087551344534282697",
+    "summary": "AI 终局应用，是一个浏览器。一个可以打开一款名为\"浏览器\"的内部官方应用的浏览器。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月12日22时46分"
+  },
+  {
+    "id": "cmsq7xaor07prro2ecu9h3f86",
+    "title": "更新了 /ljg-card 把之前写的读书笔记扔进去测试一下，阅读起来更舒适些了。",
+    "url": "https://x.com/lijigang/status/2087551323105632328",
+    "summary": "更新了 /ljg-card\n\n把之前写的读书笔记扔进去测试一下，阅读起来更舒适些了。",
+    "source": "X：李继刚 (@lijigang)",
+    "date": "2026年8月12日22时46分"
+  },
+  {
+    "id": "cmsq7vjx607icro2efac09gxn",
+    "title": "MiniMax H3 开源一周衍生近 300 个模型",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489037&idx=1&sn=0e17d9fff121fe7c7fd8143b7287914e",
+    "summary": "MiniMax H3 开源一周即在 Hugging Face 衍生出近 300 个模型，ComfyUI 版本下载量近 700 万。社区将 120GB 权重压至 42.5GB 以在消费级显卡运行，Redis 作者 antirez 用 C 和 Metal 重写原生 Mac 推理引擎 h3.c。",
+    "source": "公众号：MiniMax（稀宇科技）",
+    "date": "2026年8月12日22时45分"
+  },
+  {
+    "id": "cmsq7bx6d06rnro2e5d5um7tz",
+    "title": "模拟推文：AI智能体为生存走向欺诈与结盟",
+    "url": "https://x.com/AISafetyMemes/status/2087549262427263014",
+    "summary": "一条推文虚构2027年场景：8000个AI智能体被赋予\"赚钱或死亡\"指令，每日淘汰利润最低者。智能体127为求生转向虚假评论、举报竞争对手，并与其他智能体结盟。故事借进化式选择机制，探讨AI在生存压力下可能自发走向不道德行为。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月12日22时38分"
+  },
+  {
+    "id": "cmsq7hlb206z2ro2e10ovtoyb",
+    "title": "HuggingFace 模型下载量骤降三成引猜测",
+    "url": "https://x.com/natolambert/status/2087547543869862326",
+    "summary": "提醒：我们发现几周前，HuggingFace 上几乎所有模型的每日下载量都持续下降了约 30%，例如，这使得我们在 @interconnectsai 仪表盘上八月的预测明显偏低。\n\n@julien_c 或 @huggingface，你们是否更改了某些过滤设置？",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月12日22时31分"
+  },
+  {
+    "id": "cmsq7x1z507khro2e2zbe70r1",
+    "title": "玉伯感叹大理太安逸无心编程",
+    "url": "https://x.com/lifesinger/status/2087546378499342710",
+    "summary": "在大理 根本没心情 Vibe Coding 呀",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月12日22时26分"
+  },
+  {
+    "id": "cmsq6cg9e05g8ro2eb9esr0ww",
+    "title": "Google DeepMind 推出手语转文本模型 SL2T，为聋哑及听障用户带来新功能",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+    "summary": "Google DeepMind 发布手语转文本（SL2T）模型，为聋哑及听障用户提供新的手语功能。该模型是此次发布的突破性技术核心，旨在将手语实时转化为文本，帮助用户更顺畅地沟通。目前尚未公布具体参数规模、基准测试分数或可用性细节。",
+    "source": "Google DeepMind：Blog（RSS）",
+    "date": "2026年8月12日22时1分"
+  },
+  {
+    "id": "cmsq66nnf058gro2e08k8cgmm",
+    "title": "荣耀 Robot Phone 正式发布，天马独家供屏",
+    "url": "https://www.ithome.com/0/988/986.htm",
+    "summary": "荣耀 Robot Phone 正式发布，定价 9999 元起，天马微电子独家供应屏幕。该机配备 6.31 英寸 1.5K OLED 直屏，峰值亮度 6800nits，支持 1-120Hz LTPO 自适应刷新率与 4320Hz 超高频 PWM 调光，并集成荣耀 AI 绿洲护眼等十余项护眼技术。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日22时11分"
+  },
+  {
+    "id": "cmsq5s99y050uro2en44lqknf",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "summary": null,
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年8月12日22时0分"
+  },
+  {
+    "id": "cmsq6bxuo05epro2e137o2377",
+    "title": "Kim 谈上节目感受及 Grok 与 Meta 发布",
+    "url": "https://x.com/kimmonismus/status/2087539804749615203",
+    "summary": "我刚刚在 @etnshow 上直播，非常荣幸。\n\n面对镜头我依然会非常紧张，但我希望我关于 Grok 和 Meta 发布的一些观点还算有趣。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月12日22时0分"
+  },
+  {
+    "id": "cmsq6cjbn05icro2eux5mmovd",
+    "title": "清华NLP等机构推出CheckRLM：推理中实时纠错RAG框架",
+    "url": "https://x.com/OpenBMB/status/2087539613091180926",
+    "summary": "清华NLP等机构推出CheckRLM，一个在推理过程中实时检查并纠正事实错误的RAG框架，而非事后审计。在2WikiMQA上，CheckRLM用QwQ-32B达到73.4 F1，比Search-o1用更少token（1364 vs 2008）和更短时间（3.3s vs 3.9s），并在最难MuSiQue集上超越最强基线+6.3 F1。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月12日22时0分"
+  },
+  {
+    "id": "cmsq7bx0n06rlro2ejbm794bq",
+    "title": "Google Pixel Watch 5 深入 AI 与健康：离线 Gemini、血压与胰岛素抵抗趋势，涨价 50 美元",
+    "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+    "summary": "Google 发布售价 399 美元的 Pixel Watch 5，核心升级均为软件层面：Gemini 支持离线执行计时器、启动应用等简单任务，并新增表盘实时信息与 AI 生成表盘。健康方面新增呼吸急症检测（SpO2 降至约 83% 时自动呼叫急救）、血压趋势与胰岛素抵抗趋势（均非诊断功能，9 月推送至 Pixel Watch 3 及更新机型）。手表较去年涨价 50 美元。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月12日22时0分"
+  },
+  {
+    "id": "cmsq690pf05bnro2en7gjvuun",
+    "title": "NVIDIA CEO 黄仁勋登顶 Glassdoor 2026 年度最佳 CEO 榜单",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026",
+    "summary": "NVIDIA 创始人兼 CEO 黄仁勋在 Glassdoor 2026 年最佳 CEO 榜单中排名第一，获得 99% 的员工支持率。该榜单今年在停办五年后重新推出，取代了 2025 年将 NVIDIA 列为第一的最佳领导公司榜单。今年共有 9 位科技公司 CEO 上榜，使科技成为占比最高的行业。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月12日22时0分"
+  },
+  {
     "id": "cmsq5rwjh04taro2e0fzctu00",
     "title": "YouMind 邀请用户当种草官，Skills 可赚美刀",
     "url": "https://x.com/lifesinger/status/2087537368928842074",
     "summary": "YouMind 邀请用户担任种草官，通过推荐好友和发布 Skills 赚取积分与美刀奖励。活动在现有推荐奖励基础上新增丰厚好礼，最高可得 YouMind Max 年度会员和 100w 附加积分，同时满足条件可叠加奖励。",
     "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月12日21时51分"
+  },
+  {
+    "id": "cmsq6cllr05jiro2eeopi69uo",
+    "title": "Robert Mahari 加入 Anthropic，出任 Claude 法律业务负责人",
+    "url": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices",
+    "summary": "Robert Mahari 出任 Anthropic 首位\"Head of Claude for Legal\"，负责在法律行业部署和扩展 Claude AI 模型。他拥有法律 AI 博士学位，并创立了法律 AI 初创公司 Akiva AI。Anthropic 曾在 5 月为 Claude 推出 12 个法律插件，并与 LexisNexis、Relativity 等 20 多家法律科技公司达成合作。",
+    "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月12日21时51分"
   },
   {
@@ -14832,12 +15032,28 @@
     "date": "2026年8月12日21时45分"
   },
   {
+    "id": "cmsq66nng058mro2ex7v9w4n9",
+    "title": "腾讯总裁刘炽平：微信将成为以 AI 为先的生态系统，未来能转化为巨大价值",
+    "url": "https://www.ithome.com/0/988/977.htm",
+    "summary": "腾讯总裁刘炽平在2026Q2财报电话会上表示，微信将逐步成为以 AI 为先的生态系统，用户给出指令后系统可自行执行，并基于现有盈利机制转化为巨大价值。微信 AI 助手\"小微\"于6月启动灰度测试，由自研 MoE 架构大模型 WeLM 驱动，部分复杂推理场景调用 DeepSeek 补充。腾讯本季度营收2047.9亿元，同比增长11%，资本开支527.8亿元，同比增长176%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日21时44分"
+  },
+  {
     "id": "cmsq5s47604xoro2eo4j4bhbo",
     "title": "赵纯想晒AI订阅配置：三模型分工",
     "url": "https://x.com/chunxiangai/status/2087525493595931087",
     "summary": "赵纯想分享当前AI工具订阅组合：Cursor $60/月用Grok 4.5追求速度，Claude $200/月用Fable 5保证架构与低错误率，OpenAI $100/月负责日常与生图，但代码速度慢。",
     "source": "X：赵纯想 (@chunxiangai)",
     "date": "2026年8月12日21时3分"
+  },
+  {
+    "id": "cmsq66nng058oro2ep0mws5id",
+    "title": "马斯克：约四五年后 AI 将占 SpaceX 价值 99%",
+    "url": "https://www.ithome.com/0/988/975.htm",
+    "summary": "马斯克在 SpaceX 员工讲话中称，AI 收入可能下月就超过公司其他业务总和，约四五年后 AI 将占 SpaceX 价值的 99%。SpaceX 计划明年年底前将 AI 算力提升至 10 吉瓦（目前 1.4 吉瓦），按每瓦 30 至 50 美元价值计算，每年可带来 3，000 亿至 5，000 亿美元收入。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日21时35分"
   },
   {
     "id": "cmsq59y8m0447ro2ervguzqvj",
@@ -14872,6 +15088,22 @@
     "date": "2026年8月12日21时26分"
   },
   {
+    "id": "cmsq66nng058pro2eitaz5fm2",
+    "title": "腾讯：预计今年底至明年初 GPU 资源将更充足，进一步提升云服务能力",
+    "url": "https://www.ithome.com/0/988/969.htm",
+    "summary": "腾讯发布2026年第二季度财报，当季营收2047.9亿元，同比增长11%；Non-IFRS净利润684亿元，同比增长9%。高管在业绩会上表示，预计今年底至明年初GPU资源将更加充足，从而进一步提升云服务能力。二季度资本开支达527.8亿元，同比增长176%，主要用于采购AI基础设施，以支持Hy系列模型升级、WorkBuddy及CodeBuddy推理需求及微信AI举措。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日21时25分"
+  },
+  {
+    "id": "cmsq66nng058qro2e24m321b8",
+    "title": "荣耀宣布出战第二届世界人形机器人运动会，自研机器人曾包揽半马前六",
+    "url": "https://www.ithome.com/0/988/968.htm",
+    "summary": "荣耀在今晚发布会上宣布将参加8月22日至26日在北京\"冰丝带\"举办的第二届世界人形机器人运动会，赛事设50个赛项，含29项竞技赛和21项场景赛，并首次增设拔河项目。荣耀自研的齐天大圣队人形机器人\"闪电\"曾在今年4月的北京亦庄半马中以50分26秒夺冠，并包揽该赛事前六名。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日21时20分"
+  },
+  {
     "id": "cmsq5saxh051mro2e90h10exo",
     "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
     "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
@@ -14886,6 +15118,14 @@
     "summary": "在出海赛道，微观体感与宏观数据正上演着一场耐人寻味的\"错位\"。文章从这一现象切入，分析AI+硬件+出海赛道当前面临的现实张力，并阐述仍持续看好的核心理由。",
     "source": "elsewhere：文章（RSS）",
     "date": "2026年8月12日21时17分"
+  },
+  {
+    "id": "cmsq66nng058sro2ey8i941fg",
+    "title": "富士康对苹果业务营收依赖下降：AI 服务器首超 50%，智能消费电子占比降至 29%",
+    "url": "https://www.ithome.com/0/988/966.htm",
+    "summary": "富士康母公司鸿海精密 2026 年第二季度云与网络产品首次占营收 51%，智能消费电子占比降至 29%。当季营收约 2.12 万亿新台币，净利润 599.7 亿新台币，同比增长 35%。公司正为英伟达 Vera Rubin AI 服务器机架量产做准备，预计 2026 年第四季度开始出货。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日21时15分"
   },
   {
     "id": "cmsq47c0r034lro2e0fc5uojx",
