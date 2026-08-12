@@ -13848,6 +13848,142 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsqf0eus011qroxvj5sid928",
+    "title": "马斯克推荐试用Grok Bot智能体",
+    "url": "https://x.com/elonmusk/status/2087602469778166195",
+    "summary": "试试 Grok @Bot\n\n【引用 @yunta_tsai】：Grok Bot 能够 a） 浏览日历，找出我尚未完成但需要提前预订的事项，b） 确定最佳预订时间，c） 在网站上完成预订操作。\n\n在我走到车前穿过停车场时，我正用中英混合的语言与它对话。\n\n印象深刻。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月13日2时9分"
+  },
+  {
+    "id": "cmsqf0j5l014wroxvfzy8pmiw",
+    "title": "DeepSeek-V4-Pro-0813 长程任务早停引质疑",
+    "url": "https://x.com/karminski3/status/2087602210649895354",
+    "summary": "DeepSeek-V4-Pro-0813 在 reasoning_effort=max 时，长程 AgenticCoding 任务（50 轮代码优化）中 3 次测试有 2 次在 42-43 轮提前停止，未用完全部机会，且成绩未超过 GLM-5.1。作者推测可能与强化学习奖励机制或上下文窗口注意力衰减有关，将发布详细评测视频。",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月13日2时8分"
+  },
+  {
+    "id": "cmsqf0eus011rroxvys05b4jq",
+    "title": "Grok 4.6 上线，7 天双倍 token",
+    "url": "https://x.com/elonmusk/status/2087601785833951705",
+    "summary": "试试 Grok 4.6！\n\n接下来 7 天 token 翻倍。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月13日2时7分"
+  },
+  {
+    "id": "cmsqgi90j02q5roxvfhmvqxg5",
+    "title": "与Ajambrosino的典型对话与期待",
+    "url": "https://x.com/thsottiaux/status/2087614555203809395",
+    "summary": "与 @ajambrosino 的典型对话\n\nA：核心对齐已经达成\nT：你说核心对齐\nA：我是说\nT：多说点\nA：更多\n\n然而，我从未对他和团队正在构建的东西感到如此兴奋。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月13日2时57分"
+  },
+  {
+    "id": "cmsqh5kz902x9roxvjxjjp7az",
+    "title": "马斯克称Grok 4.7将超越所有现有模型",
+    "url": "https://x.com/rohanpaul_ai/status/2087613345767841869",
+    "summary": "👀 看起来很有可能。\n\n【引用 @elonmusk】：@cognition Grok 4.7 将超越所有现有模型。\n\n话虽如此，Anthropic 是一家伟大的公司，可能很快就会发布改进后的模型。\n\n然而，SpaceX 训练语料库如此出色且独特，如果有任何模型在真实工程领域比 4.7 更强，我会感到震惊。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日2时53分"
+  },
+  {
+    "id": "cmsqh5kz902xaroxvao0wl3zc",
+    "title": "Cognition洽谈400亿美元估值，年化收入近10亿",
+    "url": "https://x.com/rohanpaul_ai/status/2087612993211453796",
+    "summary": "彭博社：Cognition 正在洽谈超过 400 亿美元的估值，而就在 3 个月前其估值刚以 260 亿美元收官。\n\n新一轮融资可能超过 10 亿美元，而 Cognition 的年化收入运行率目前已接近 10 亿美元，因此估值是其年化收入的 40 倍。\n\nCognition 在 5 月份报告的年化运行率为 4.92 亿美元，同时 Devin 的企业使用量在 6 个月内实现了 50% 的月环比增长。\n\n达到 10 亿美元意味着收入运行率自 5 月以来增长了约 103%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日2时51分"
+  },
+  {
+    "id": "cmsqg307y01ybroxvlpnjaps2",
+    "title": "26款商用LLM混合成本对比：Grok 4.6性价比最强",
+    "url": "https://x.com/rohanpaul_ai/status/2087611155418411417",
+    "summary": "26款商用大模型每百万token混合成本对比显示，Grok 4.6在Fable 5智能指数得分61分，仅比Claude Fable 5 Max的62分低1.6%，但输入token成本低80%（$2 vs $10/M），输出token成本低88%（$6 vs $50/M），成为智能-价格比最优选择。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日2时44分"
+  },
+  {
+    "id": "cmsqg31ja01z1roxvsa8gxifl",
+    "title": "DeepSeek v4 Pro 1.5T 发布，大幅超越 Nemotron3 Ultra",
+    "url": "https://x.com/SemiAnalysis_/status/2087608173729370162",
+    "summary": "祝贺 @deepseek_ai 发布 DeepSeekv4 Pro 0813 1.5T🔥 它在智能体任务上大幅超越 Nemotron3 Ultra。\n\n此外，DeepSeekv4 Flash 0731 同样大幅超越 Nemotron3 Ultra，而活跃参数少 4.2 倍，总参数也少近 2 倍！\n\nNemotron 团队有很多优秀的人才，但根本上，委员会式的模型前沿开发是行不通的。👇️ 1/3🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月13日2时32分"
+  },
+  {
+    "id": "cmsqg306l01y5roxvv25f8msh",
+    "title": "MiniMax H3 与 fal 联办 X Spaces 直播",
+    "url": "https://x.com/MiniMax_AI/status/2087607572711010709",
+    "summary": "MiniMax H3 × @fal 🎙️\n\n明天，加入 fal 创意工程师 @OdinLovis、MiniMax AI 解决方案架构师 Ethan Wei 和 MiniMax GTM 工程师 @VictorSuOrtiz，一起直播拆解创作者和开发者如何在 fal 上用 H3 进行构建。\n\n我们将涵盖多模态参考、原生音频、提示词、LoRA + 定制化、开放权重，以及 fal 上真实的创意和技术工作流。\n\n8 月 13 日 · 上午 11 点（太平洋时间）· X Spaces\n\n设置提醒 ↓ https://x.com/i/spaces/1vJpPNPdnXZJE?s=20",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月13日2时30分"
+  },
+  {
+    "id": "cmsqg352c0217roxvin69a78q",
+    "title": "Peter Steinberger 今日做客 ClawCast",
+    "url": "https://x.com/steipete/status/2087607369908023354",
+    "summary": "即将上线！\n\n【引用 @openclaw】：@steipete 将于今天（周三）上午 11：30（太平洋时间）加入 ClawCast\n\n欢迎来 Discord 加入我们的直播问答播客录制 https://openclaw.ai/podcast",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月13日2时29分"
+  },
+  {
+    "id": "cmsqfwonu01u4roxvpmg989yu",
+    "title": "CLAUDE.md 为何不断膨胀？研究揭示修复方案",
+    "url": "https://x.com/omarsar0/status/2087605040240582991",
+    "summary": "一项针对 1，867 个仓库中 247，694 条指令生命周期的研究发现，CLAUDE.md 等文件会无限膨胀：提示词在其生命周期内增长超三倍，每次提交净增 4.9 条指令，且指令越旧越难被删除。研究提出的修复方案是为指令添加注释说明理由，在可验证环境中可消除 99.3% 的多余指令，并将真实智能体指令遵循率提升最高 23.1%。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月13日2时20分"
+  },
+  {
+    "id": "cmsqf0csx010iroxvvnpbobd9",
+    "title": "Grok 4.6与DeepSeek 4 Pro GA价格战白热化",
+    "url": "https://x.com/kimmonismus/status/2087604153795109025",
+    "summary": "性能与价格正成为AI模型竞争核心。Grok 4.6已跻身顶级行列，但价格显著优于对手；DeepSeek 4 Pro GA定价更低，$0.435/M输入、$0.87/M输出，支持1M-token上下文，性价比优势愈发关键。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月13日2时16分"
+  },
+  {
+    "id": "cmsqf0f2s011yroxvqcrpd34o",
+    "title": "MiniMax H3 与 fal 联办 X Spaces 直播",
+    "url": "https://x.com/MiniMax_AI/status/2087603802635677700",
+    "summary": "MiniMax H3 × @fal 🎙️\n\n明天，fal 创意工程师 Lovis Odin、MiniMax AI 解决方案架构师 Ethan Wei 和 MiniMax GTM 工程师 @VictorSuOrtiz 将一起直播，深入解析创作者和开发者如何在 Fal 上使用 H3 进行构建。\n\n我们将涵盖多模态引用、原生音频、提示词、LoRA + 定制化、开放权重，以及 fal 上真实的创意和技术工作流。\n\n8 月 13 日 · 上午 11 点（太平洋时间）· X Spaces\n\n设置提醒 ↓ https://x.com/i/spaces/1vJpPNPdnXZJE?s=20",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月13日2时15分"
+  },
+  {
+    "id": "cmsqfwo5t01u0roxvqwtztzq7",
+    "title": "SpaceXAI的Grok 4.6在\"人工智能分析指数\"中获得61分",
+    "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+    "summary": "SpaceXAI的Grok 4.6在人工智能分析指数中得分61，与GPT-5.6 Sol持平，仅次于Claude Opus 5和Claude Fable 5。其智能体性能突出，GDPval-AA v2 Elo达1753，定价维持$2/$6每百万token，较Claude Opus 5和GPT-5.6 Sol低60%以上。上下文窗口为500k tokens，每任务成本$0.84。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月13日2时12分"
+  },
+  {
+    "id": "cmsqf0f730126roxvi9fdg6hr",
+    "title": "Soniox TTS v2 发布：60+ 语言与超低价",
+    "url": "https://x.com/rohanpaul_ai/status/2087603008469389610",
+    "summary": "Soniox 发布 TTS v2，单一模型支持 60+ 种语言，生成音频每小时仅 $0.70，并内置情感标签、克隆与毫秒级时间戳。该模型专为实时语音智能体设计，支持打断恢复与跨语言身份保持，已在美欧日上线，兼容 v1。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日2时11分"
+  },
+  {
+    "id": "cmsqgeo2e02cvroxvpnycl2zi",
+    "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+    "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+    "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
+    "source": "GitHub Blog",
+    "date": "2026年8月13日2时0分"
+  },
+  {
+    "id": "cmsqf96b2016lroxvy4gju01z",
+    "title": "Replit 新增工作区托管区域选择",
+    "url": "https://x.com/Replit/status/2087600007171957131",
+    "summary": "想要降低 Replit 中的延迟，并控制项目预览的托管位置？\n\nPro 和企业版客户现在可以选择新 Replit 工作区的托管位置。\n\n可在北美、欧洲或亚洲之间选择。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月13日2时0分"
+  },
+  {
     "id": "cmsqcs0t002wyroos2sjo6k2z",
     "title": "Grok 称最高效高智能AI，性价比关键",
     "url": "https://x.com/elonmusk/status/2087586860868755703",
@@ -13862,6 +13998,46 @@
     "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
     "source": "Google Research：Blog（网页）",
     "date": "2026年8月13日1时57分"
+  },
+  {
+    "id": "cmsqf0f730127roxvfu5wtcec",
+    "title": "Grok 4.6 以更低价格逼近 Fable 5 智能指数",
+    "url": "https://x.com/rohanpaul_ai/status/2087599380518097232",
+    "summary": "Grok 4.6 在 Fable 5 的 Intelligence Index 上取得 98.4% 的分数，输入 token 价格便宜 5 倍、输出 token 便宜 8 倍。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日1时57分"
+  },
+  {
+    "id": "cmsqf0dfy010uroxvqjydlfg8",
+    "title": "Grok 4.6 登顶 AA-Briefcase，成本远低于竞品",
+    "url": "https://x.com/ArtificialAnlys/status/2087598780086632522",
+    "summary": "Grok 4.6 在 Artificial Analysis 的 AA-Briefcase 智能体知识工作基准上取得大幅提升，与 Claude Fable 5 并列领先（置信区间重叠）。其单任务成本仅 $4.42，远低于 Claude Fable 5 的 $22.30、Claude Opus 5 的 $17.79 和 Kimi K3 的 $6.73。该测试集为私有，可防止数据污染。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月13日1时55分"
+  },
+  {
+    "id": "cmsqeu1js000mroxvwm5uu66p",
+    "title": "Grok 4.6 发布：价格不变、智能跃升第一梯队",
+    "url": "https://x.com/AYi_AInotes/status/2087598520446472543",
+    "summary": "Grok 4.6 今日上线，价格与 4.5 完全一致（$2/M input、$6/M output），约为其他前沿模型一半，但智能大幅跃升。AA智能指数达61，与GPT-5.6 Sol Max持平，仅比Fable 5低1分；GDPVal、AA-Briefcase均拿第一，法律基准15.8%断层领先。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月13日1时54分"
+  },
+  {
+    "id": "cmsqeu3h7001oroxvupy2ooyy",
+    "title": "Higgsfield 插件上线 ChatGPT 应用",
+    "url": "https://x.com/omarsar0/status/2087598187951317316",
+    "summary": "Higgsfield 插件正式上线 ChatGPT 应用，用户可直接在聊天中生成与编辑图像，无需 API key，使用现有 Higgsfield 积分即可。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月13日1时52分"
+  },
+  {
+    "id": "cmsqeu2lr0014roxv5rt2k9i5",
+    "title": "AI安全担忧升温，三位先驱为何主张保持开放",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open",
+    "summary": "在拉斯维加斯Ai4大会上，Geoffrey Hinton、李飞飞和吴恩达一致主张AI应保持开放，反对少数大公司垄断技术进程。吴恩达强调\"不希望有守门人\"，并担忧美国开源AI难以与中国开源权重模型竞争；Hinton虽曾反对开放权重，但承认\"这场战斗已经输了\"；李飞飞则主张分层开放。三人均认同需要一定程度的监管。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月13日1时51分"
   },
   {
     "id": "cmsqcs0t002wzroos2hrpbvw4",
