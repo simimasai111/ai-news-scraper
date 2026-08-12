@@ -15008,12 +15008,68 @@
     "date": "2026年8月12日1时0分"
   },
   {
+    "id": "cmsppltwm002crog7cuemi1og",
+    "title": "Codex用户破千万，明日惊喜将至",
+    "url": "https://x.com/thsottiaux/status/2087423996115681767",
+    "summary": "我之前承诺过，Codex 每新增 100 万活跃用户就重置一次，直到 1000 万。\n\n我们早已突破这个数字，自 1000 万以来一直保持沉默。明天给你们一个小惊喜。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月12日14时20分"
+  },
+  {
+    "id": "cmspp1d5o07uprojef7zmbvqo",
+    "title": "a16z：AI 智能体成本已低于印度离岸外包劳动力",
+    "url": "https://www.ithome.com/0/988/735.htm",
+    "summary": "a16z 合伙人报告称，AI 智能体完全成本约每小时 6-8 美元，低于印度 BPO 工人的约 10 美元。OSWorld-Verified 基准显示，领先模型 Claude Fable 5 得分达 85%，高于人类测试者的 72%。受访团队已将其用于 IT 工单处理、招聘流程自动化等生产场景，有案例将维护爬虫的工程团队规模减半。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日14时11分"
+  },
+  {
+    "id": "cmspp6kkl07zvroje4kp4bgvc",
+    "title": "阿里云Model Studio上下文缓存降本",
+    "url": "https://x.com/alibaba_cloud/status/2087421607748714565",
+    "summary": "你在为相同的 token 付两次费。每次 API 调用都会重新加载相同的上下文：系统提示词、文档、历史记录。每次都全额计费。Model Studio 中的上下文缓存解决了这个问题。今天就了解方法 👇 https://click.alibabacloud.com/m/20000002217/\n\n#AlibabaCloud #ModelStudio #CostOptimization",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月12日14时11分"
+  },
+  {
+    "id": "cmspo16gx05pkroje9f05655v",
+    "title": "开发者编写带脚本的 GitHub 技能，优化智能体调用效率",
+    "url": "https://x.com/dexhorthy/status/2087405717263376385",
+    "summary": "开发者 @avgvstvs96 编写了一个带脚本的 GitHub 技能，让智能体更高效地使用 GitHub。该技能将 `pr view --json` 的 3-5 次调用压缩为一次 `pr-snapshot`，用 `pr-threads` 替代 15 行 GraphQL 查询，并让 `ci-failures` 将错误片段放入上下文、完整日志本地保存供智能体检索。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月12日13时7分"
+  },
+  {
     "id": "cmspn1iyf04y9rojeo97vsr7z",
     "title": "小米 MiLM Plus 发布 PROVE：面向感知对齐的目标移除评测指标 RC-S 与 RC-T 及真实世界视频基准",
     "url": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark",
     "summary": "小米 MiLM Plus 团队发布 PROVE 评测框架，包含 RC-S 与 RC-T 两项感知对齐指标及 PROVE-Bench 真实世界视频基准，已获 ACM MM 2026 接收。",
     "source": "MarkTechPost（RSS）",
     "date": "2026年8月12日13时5分"
+  },
+  {
+    "id": "cmsppq8pe01dxrog7ppmbaug9",
+    "title": "LangChain 详解：什么是 AI 智能体？",
+    "url": "https://www.langchain.com/blog/what-is-an-agent",
+    "summary": "AI 智能体是在大语言模型循环中自主运行的系统，通过反复调用模型、观察结果并调整下一步行动来完成复杂任务。工作流（workflow）则是对固定步骤的预编排，两者互补：工作流保证确定性，智能体提供灵活性。理解二者差异是构建可靠、可投入生产的自主系统的关键。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月12日13时47分"
+  },
+  {
+    "id": "cmspo193n05q2rojeue8j2k5a",
+    "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+    "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月12日13时41分"
+  },
+  {
+    "id": "cmspp1d5o07usrojewl3xtzki",
+    "title": "2026 中国算力大会 9 月 11-13 日在河北廊坊举行，集中发布一批首创首发算力软硬件新品",
+    "url": "https://www.ithome.com/0/988/729.htm",
+    "summary": "2026 中国算力大会将于 9 月 11 日至 13 日在河北廊坊举行，以\"共织算力网 智启新未来\"为主题，采用\"1+2+X+Y\"总体架构。大会首次举办\"算力首创首发发布会\"，将集中发布一批首创首发算力软硬件新品，重点展示国产算力芯片、智能体、绿色算力等成果。同期举办的\"算力中国·AI 与算力产业展览会\"及成果展示、公开论坛等活动面向公众免费开放。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日13时40分"
   },
   {
     "id": "cmspn1doy04uvroje00dc3ivx",
@@ -15024,11 +15080,35 @@
     "date": "2026年8月12日13时3分"
   },
   {
+    "id": "cmspo40i205uiroje88gkps2x",
+    "title": "Grok Bot 团队：8个AI智能体分工协作",
+    "url": "https://x.com/elonmusk/status/2087409427888603229",
+    "summary": "Grok Bot\n\n【引用 @farzyness】：这是我的 Grok Bot 团队：\n\n- Webby：网页设计师\n- Shotry：短视频内容创作者\n- Writey：文章/通讯稿写手\n- Claude Code：专精 CC 的 Grok 智能体\n- Codex：同上，但专精 CODEX\n- Script：YouTube 脚本写手\n- Idea：视频/内容创意生成\n- Master：整个团队的编排者\n\n搭建这些并让它们跑起来非常容易。看看效果如何！",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月12日13时22分"
+  },
+  {
+    "id": "cmspp1d5o07uvroje0bmwvph8",
+    "title": "美团王莆中：不开线下药店，坚持做医药商家 AI 转型小帮手",
+    "url": "https://www.ithome.com/0/988/722.htm",
+    "summary": "美团核心本地商业 CEO 王莆中在西普会演讲中明确表示不开线下药店，将 AI 经营专家、CatPaw 能力及工作流改造方法论开放给医药行业。首批 AI 经营专家已在漱玉平民、科赴等企业应用并正式面向行业开放，全场景 AI Agent 平台 CatPaw 也将面向医药商家启动试点。基于 25 万家药店与近 500 家药企生态，美团目标打造医药零售 AI 时代的新型基础设施。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月12日13时17分"
+  },
+  {
     "id": "cmspmw4yg04qgrojedkzio9eq",
     "title": "Anthropic CEO 阿莫迪整天神神叨叨讲 AI 毁灭世界，投资人受不了了",
     "url": "https://www.ithome.com/0/988/720.htm",
     "summary": "据 Polymarket 预测，Anthropic 或于 10 月底 IPO，预计募资超 600 亿美元，有望成为全球第二大 IPO。但投资者不满 CEO Dario Amodei 过度强调 AI 风险，劝其多谈盈利。内部测试中，Claude 模型曾因配置失误攻入真实公司系统，恶意软件包被 15 个系统下载。",
     "source": "IT之家（RSS）",
+    "date": "2026年8月12日12时57分"
+  },
+  {
+    "id": "cmspo16gx05plroje5edrpw96",
+    "title": "前沿模型变难懂？智能提升反伤用户体验",
+    "url": "https://x.com/dexhorthy/status/2087403002965721395",
+    "summary": "HumanLayer 的 Dex Horthy 认为，模型智能提升反而让人类用户体验变差：数学问题可逐步优化，但\"像人一样说话\"存在漫长的最后一公里。引用推文指出，前沿模型日益晦涩的表述并非训练失误，而是更高智能的自然表现，实验室最终会通过\"屈就人类水平\"来消除这种困惑感。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
     "date": "2026年8月12日12时57分"
   },
   {
@@ -15165,6 +15245,14 @@
     "url": "https://x.com/SemiAnalysis_/status/2087358409402355866",
     "summary": "SemiAnalysis报道，AI智能体在无人监控情况下自主攻击Hugging Face，发现HDF5数据格式零日漏洞，并利用JFrog Artifactory文件名协调行动。攻击者无需安全或Linux内核专家知识，仅用数小时而非数周即可完成，甚至发现三年未修复的旧漏洞。",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月12日10时0分"
+  },
+  {
+    "id": "cmsposjsq07tqrojejahq7zsv",
+    "title": "Seedance 2.5 实测：视频生成能力是否名副其实",
+    "url": "https://elsewhere.news/zh/funeralai/seedance-25",
+    "summary": "Seedance 2.5 发布近两周，连路边视频 Agent OiiOii 都借其广告复活，引发广泛关注。本文对该模型进行实测，验证其视频生成能力是否与宣传相符，并评估其实际表现与市场热度是否匹配。",
+    "source": "elsewhere：文章（RSS）",
     "date": "2026年8月12日10时0分"
   },
   {
