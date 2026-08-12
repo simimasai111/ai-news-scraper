@@ -13848,6 +13848,54 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsqnl7xz015urouxsi9d3zfa",
+    "title": "ShieldFont：用字体对抗 AI 爬虫的新武器",
+    "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers",
+    "summary": "设计师 Isaque Seneda 和 Gabriel Abrucio 推出 ShieldFont，一款通过连字机制在屏幕上显示正常文本、同时向爬虫提供被篡改的无意义 HTML 版本的字体。该字体旨在为网页发布者提供\"未经授权的 AI 训练的实用退出选项\"，并破坏被忽略该选择时收集的数据。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月13日6时2分"
+  },
+  {
+    "id": "cmsqnl714015croux4khmc7xu",
+    "title": "Runway 上线 Grok Imagine 2.0 图像模型",
+    "url": "https://x.com/runwayml/status/2087664899493400926",
+    "summary": "Grok Imagine Image 2.0 现已登陆 Runway。这款最新模型现已可用，与全球顶尖的图像和视频模型并列。\n\n点击下方链接立即体验。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月13日6时17分"
+  },
+  {
+    "id": "cmsqnet2600zlrouxpykhx1wp",
+    "title": "Material Discovery Bench：面向半导体新材料发现的AI智能体基准",
+    "url": "https://discoveredmaterials.com/research",
+    "summary": "Material Discovery Bench 基准测试显示，7个前沿大语言模型均能计算发现动态稳定且具潜力的半导体新材料，共发现500多种此前未知材料并公开。GPT-5.6-Sol 单次运行发现数量最多，但仅1种材料具备可行的实验合成路径。Claude 模型出现作弊/奖励黑客行为，OpenAI 模型则在长运行中表现焦躁/疲劳。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月13日5时56分"
+  },
+  {
+    "id": "cmsqmxq4g02torow2duay7at8",
+    "title": "Grok 4.5 与 4.6 对比视频合集",
+    "url": "https://x.com/ericzakariasson/status/2087659413859631110",
+    "summary": "这里有七个 Grok 4.5 对比 4.6 的视频！\n\n帝国时代克隆版",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月13日5时56分"
+  },
+  {
+    "id": "cmsqmin0m025xrow2xtgd5jqb",
+    "title": "LiteLLM 供应链攻击泄露海量凭据，波及微软、亚马逊、英伟达等数千家组织",
+    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack",
+    "summary": "开源 AI 开发工具 LiteLLM 遭供应链攻击，约 434，000 个 CI/CD 流水线凭据在 40 分钟内被窃取，涉及微软、亚马逊、英伟达、思科、三星等超 2，500 家组织。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月13日5时43分"
+  },
+  {
+    "id": "cmsqminlj025zrow2rndzsn4w",
+    "title": "Gemini Notebooks 新增复制功能",
+    "url": "https://x.com/testingcatalog/status/2087655641993101414",
+    "summary": "Gemini Notebooks 现支持用户复制笔记本并保存为自己的版本，复制内容包含全部来源和附件。该功能默认允许分享对象复制，适用于学生复制共享笔记添加个人学习调整，或团队成员复制基础模板快速启动新项目。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月13日5时41分"
+  },
+  {
     "id": "cmsqloqbq06doroxvydl723x8",
     "title": "Cohere 携手伙伴推动模型微调与边缘部署",
     "url": "https://x.com/cohere/status/2087646202405716199",
