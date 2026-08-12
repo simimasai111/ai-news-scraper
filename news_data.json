@@ -13848,6 +13848,86 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsqpjwip01frro7v1df0wx84",
+    "title": "腾讯微信公布 WeLM 大语言模型：80B 版已用于 AI 助手小微，617B 版开发中",
+    "url": "https://www.ithome.com/0/989/007.htm",
+    "summary": "腾讯微信团队公布自研大语言模型 WeLM，主打资源利用效率。其中 WeLM-80B 拥有 800 亿总参数、30 亿激活参数，已部署于微信原生 AI 助手\"小微\"，支持聊天搜索、调用微信原生功能及小程序服务。WeLM-617B 为混合专家模型（MoE），总参数 6170 亿、激活参数 230 亿，正在开发中，面向智能小程序开发等复杂任务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日7时3分"
+  },
+  {
+    "id": "cmsqpjwiq01fsro7v36uvdk01",
+    "title": "Claude 打破平台壁垒：Chrome 侧边栏 AI 对话互通全平台历史记录",
+    "url": "https://www.ithome.com/0/989/006.htm",
+    "summary": "Anthropic 升级 Chrome 版 Claude 扩展，在侧边栏带来完整 Claude Cowork 会话体验，浏览器内任务和对话可跨桌面端、网页端及移动端无缝同步。用户可直接使用账户已配置的 Agent Skills 和 Connectors，Claude 还能利用浏览器登录状态执行点击链接、填写表单等操作。该功能今日面向 Max 和 Team 客户开放，未来几周内向 Pro 用户推出。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日7时3分"
+  },
+  {
+    "id": "cmsqpqbyt01nero7vqo5in93d",
+    "title": "PixVerse 素面场景趣味十足",
+    "url": "https://x.com/PixVerse_/status/2087675501917729108",
+    "summary": "素面场景真是有趣的点缀！",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月13日7时0分"
+  },
+  {
+    "id": "cmsqpjwiq01ftro7v9f6dvr71",
+    "title": "苹果新专利：iPhone 将能判断何时该\"打扰\"用户",
+    "url": "https://www.ithome.com/0/989/005.htm",
+    "summary": "苹果一项新公布的专利申请描述了一套系统，可实时判断是否应打断用户当前操作，并可将近期设备活动整理成简短摘要。该系统能结合用户通话时长、应用打开次数等上下文，决定是否介入，或暂缓生成不准确的摘要。该专利于2026年2月5日提交、8月6日公开，目前仍处于未审查状态，或用于完善iOS 18.1的AI通知摘要和\"减少打扰\"专注模式。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日6时55分"
+  },
+  {
+    "id": "cmsqonnlq01wcrouxwv50w73a",
+    "title": "Grok 4.6 登顶两项新基准测试",
+    "url": "https://x.com/cb_doge/status/2087671334541369475",
+    "summary": "Grok 4.6 在另外两项基准测试中夺得第一！🔥\n\n• 3DCodeBench：54.0%，通过代码创建引擎就绪的 3D 资产。\n\n• CadGenBench：40.9%，根据设计提示词生成 CAD 模型。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月13日6时43分"
+  },
+  {
+    "id": "cmsqonnlq01wdrouxz8u7ninj",
+    "title": "Grok 4.6 登顶 OfficeQA Pro 评测",
+    "url": "https://x.com/cb_doge/status/2087670508620009623",
+    "summary": "Grok 4.6 在 OfficeQA Pro 上以 63.2% 的准确率排名第一，超越 Opus 5、Fable 5 和 GPT-5.6 Sol。\n\n该基准测试考察 AI 模型使用真实职场文档和工作流程回答专业办公问题的能力。\n\nGrok 4.6 又一次重大胜利！🔥",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月13日6时40分"
+  },
+  {
+    "id": "cmsqonnlr01werouxzbp0634w",
+    "title": "Grok 4.6 登顶 Harvey 法律智能体基准",
+    "url": "https://x.com/cb_doge/status/2087669805004496959",
+    "summary": "Grok 4.6 在 Harvey 法律智能体基准中正式排名第一 🥇\n\n它在真实多步骤法律工作中得分 22.0%，远超 Fable 5 的 14.2% 和 Grok 4.5 的 12.9%。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月13日6时37分"
+  },
+  {
+    "id": "cmsqonnlr01wfrouxejkoh5o6",
+    "title": "Grok 4.6 登顶推理评测榜",
+    "url": "https://x.com/cb_doge/status/2087669332189012385",
+    "summary": "Grok 4.6 在 InferenceEval 上拿下第一名 🔥\n\n🥇 Grok 4.6 - 46.9% 🥈 GPT-5.6 Sol - 44.1% 🥉 Opus 5 - 43.0%\n\n相比 Grok 4.5 还提升了 5.6 个百分点，在解决真实世界 AI 推理编码任务方面进步显著。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月13日6时35分"
+  },
+  {
+    "id": "cmsqono8y01wwrouxp6lsoam3",
+    "title": "Grok 4.6 登顶 Databricks 评测",
+    "url": "https://x.com/elonmusk/status/2087668743929487420",
+    "summary": "Grok 4.6 在 @databricks 上排名第一。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月13日6时33分"
+  },
+  {
+    "id": "cmsqonqek01ymrouxbnzzzwc1",
+    "title": "SpaceX 首场财报会：2027 年新增 6-8GW 数据中心",
+    "url": "https://x.com/SemiAnalysis_/status/2087667981031506158",
+    "summary": "埃隆在 SpaceX 首次财报电话会议上再次震惊世界：仅 2027 年就将新增 6-8GW 数据中心，可能远超 10GW。听起来不可能，但我们相信。我们预计 SpaceX 到 2027 年底有望达到约 10GW，并有望实现 3000 亿美元年收入。（1/5）🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月13日6时30分"
+  },
+  {
     "id": "cmsqnl7xz015urouxsi9d3zfa",
     "title": "ShieldFont：用字体对抗 AI 爬虫的新武器",
     "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers",
@@ -13856,12 +13936,44 @@
     "date": "2026年8月13日6时2分"
   },
   {
+    "id": "cmsqonmic01v8roux4fepv905",
+    "title": "白宫拟将开源AI模型纳入安全测试框架",
+    "url": "https://x.com/kimmonismus/status/2087667694619484401",
+    "summary": "白宫据报准备将开源AI模型纳入其秘密的发布前安全测试框架。该框架目前仅覆盖OpenAI、Anthropic等实验室的闭源前沿模型，开源模型达到同等能力后预计需接受最长30天的发布前测试。官员正权衡两难：排除开源模型或为闭源实验室创造政府背书优势，纳入则可能拖慢美国开源模型发展。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月13日6时29分"
+  },
+  {
+    "id": "cmsqohege01scrouxlazi1dwi",
+    "title": "部分 Claude 用户不满 Anthropic 新水印功能，担心在工作和学业中被识破",
+    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+    "summary": "Anthropic 为满足欧盟《AI 法案》透明度规范，开始在 Claude 输出中嵌入不可见水印，标记 AI 生成内容。部分 Reddit 用户抱怨该系统是\"阴谋\"，称学生、记者等普通用户会被\"抓包\"，但也有用户反驳称水印仅用于检测 AI 输出风险，并非\"认领功劳\"。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月13日6时26分"
+  },
+  {
     "id": "cmsqnl714015croux4khmc7xu",
     "title": "Runway 上线 Grok Imagine 2.0 图像模型",
     "url": "https://x.com/runwayml/status/2087664899493400926",
     "summary": "Grok Imagine Image 2.0 现已登陆 Runway。这款最新模型现已可用，与全球顶尖的图像和视频模型并列。\n\n点击下方链接立即体验。",
     "source": "X：Runway (@runwayml)",
     "date": "2026年8月13日6时17分"
+  },
+  {
+    "id": "cmsqo2rpb01mrrouxrwhbk812",
+    "title": "专家与公众最支持AI再培训政策",
+    "url": "https://x.com/PeterMcCrory/status/2087664869004984382",
+    "summary": "在@Research_FRI对专家和公众的调查中，再培训支持是应对AI经济影响最受青睐的政策选项。\n\n这些项目有效吗？",
+    "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+    "date": "2026年8月13日6时17分"
+  },
+  {
+    "id": "cmsqoheql01skrouxz7ww0zc0",
+    "title": "德国倡导组织就 Meta AI 眼镜提起刑事控告",
+    "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12",
+    "summary": "德国一家倡导组织对 Meta 的 AI 眼镜提起刑事控告。该组织认为该产品存在隐私侵犯等问题，此举可能对 Meta 在欧洲市场的设备合规性构成挑战。目前 Meta 尚未就此控告作出公开回应。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月13日6时12分"
   },
   {
     "id": "cmsqnet2600zlrouxpykhx1wp",
