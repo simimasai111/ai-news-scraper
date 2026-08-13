@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsrysjwl05nyroze1u3gadhm",
+    "title": "Gemini 3.7 一句话生成 3D 手表，成本仅 $0.038",
+    "url": "https://x.com/rohanpaul_ai/status/2087995034755019080",
+    "summary": "Gemini 3.7 仅凭一句自然语言描述，就一次性生成了完整的程序化 three.js 场景--一只金色豪华手表，含滚花表圈、旭日纹表盘、日期窗口和扫秒指针，全程无外部素材或纹理。该测试由 AI/ML API 完成，总成本仅 $0.038。Rohan Paul 指出，three.js 是检验模型能力的有效方式，因为代码必须描述一个经得起旋转的真实场景。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日4时9分"
+  },
+  {
+    "id": "cmsrysk9l05o4roze1bpokkvh",
+    "title": "中国\"中转站\"灰色经济：走私前沿模型token",
+    "url": "https://x.com/deedydas/status/2087993122399613018",
+    "summary": "Deedy Das 称一篇关于中国\"中转站\"灰色经济的文章是其在 AI 领域读过最疯狂的内容。该模式以极低价格走私非法前沿模型 token，用更便宜模型欺骗用户，并出售痕迹用于知识蒸馏，甚至涉及在非洲冒埃博拉风险进行人脸验证等\"KYC 制造商\"业务。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月14日4时2分"
+  },
+  {
+    "id": "cmsrynt8v05khrozeydshn92g",
+    "title": "ChatGPT 桌面应用新增电脑活动记忆功能",
+    "url": "https://x.com/OpenAI/status/2087996496088297746",
+    "summary": "ChatGPT 现在可以记住你在电脑上跨应用和网站的活动。\n\n借助桌面应用中的\"电脑历史记录\"功能，未来的互动将更加个性化，也无需过多解释。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月14日4时15分"
+  },
+  {
+    "id": "cmsrynslg05jxrozehd2sjs1o",
+    "title": "Databricks wanted to raise $1B， investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation",
+    "summary": null,
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月14日4时14分"
+  },
+  {
+    "id": "cmsrysgia05mfrozead6ygzp6",
+    "title": "数日间AI价格战剧变：DeepSeek涨价、Grok崛起",
+    "url": "https://x.com/kimmonismus/status/2087992677874671946",
+    "summary": "DeepSeek V4 Pro高峰时段缓存命中输入价格从$0.003625涨至$0.044/百万token，涨幅1，114%。Gemini 3.7 Flash定价较3.6 Flash低50%，折扣延续至2026年底。xAI Grok 4.6以$2/$6每百万token输入/输出价格提供近前沿智能，GPT-5.6 Luna仍为性价比之王，Anthropic掉队。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日4时0分"
+  },
+  {
     "id": "cmsrwn9pq03y0roze5wzhh8f3",
     "title": "Grok",
     "url": "https://x.com/elonmusk/status/2087979619618082898",
@@ -13856,12 +13896,108 @@
     "date": "2026年8月14日3时8分"
   },
   {
+    "id": "cmsrysjwl05nzrozep3zsppwj",
+    "title": "DeepSeek 涨价后 Reddit 用户热议",
+    "url": "https://x.com/rohanpaul_ai/status/2087991663771988221",
+    "summary": "来自 DeepSeek Reddit 频道，在他们大幅涨价之后",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日3时56分"
+  },
+  {
+    "id": "cmsrxpyat04p0roze63xikvvs",
+    "title": "OpenAI 用\"friction@\"收件箱保持初创速度",
+    "url": "https://x.com/rohanpaul_ai/status/2087990560363806782",
+    "summary": "财富杂志报道，OpenAI 建立了一套非常规管理机制以保持初创公司般的速度，核心是名为\"friction@\"的内部升级收件箱，可覆盖既定工作计划。员工在此标记技术、流程和办公瓶颈，Sam Altman 或 Greg Brockman 有时会介入处理特定案例。Fidji Simo 加入 OpenAI 后将该流程正式化，并配合每月 Slack 更新，让员工追踪所报问题是否解决。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日3时51分"
+  },
+  {
     "id": "cmsrwy13e046qrozeqoxthybm",
     "title": "OpenClaw 智能体助用户应对停电",
     "url": "https://x.com/openclaw/status/2087978729754825193",
     "summary": "未来已来。\n\nhttps://www.reddit.com/r/openclaw/comments/1vn2kj0/my_openclaw_saved_us_from_a_power_outage",
     "source": "X：OpenClaw (@openclaw)",
     "date": "2026年8月14日3时4分"
+  },
+  {
+    "id": "cmsrxpyat04p1rozeoyj7vi7q",
+    "title": "Zero-Mem：零 token 的 LLM 智能体记忆方案",
+    "url": "https://x.com/rohanpaul_ai/status/2087987856195367098",
+    "summary": "Zero-Mem 提出一种无需 LLM 参与的记忆管理方法，其记忆操作使用零 LLM token，相比最快基线延迟降低 57.6%。该方法保留原始交互历史，构建实体上下文图和时间层级两种非生成视图，查询时通过确定性路由检索证据并校准结果，使最终问答外的所有记忆操作均不消耗 LLM 调用或 token。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日3时41分"
+  },
+  {
+    "id": "cmsrxq2je04quroze78cwq6d8",
+    "title": "Suno Studio 2.0 新增聊天功能，可用自然语言像与乐手对话一样操作 DAW",
+    "url": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate",
+    "summary": "Suno 面向 Premier 订阅用户推出 Studio 2.0，将 AI 音乐平台变为聊天驱动的 DAW。新测试版聊天功能支持通过纯文本创建乐器、人声或自定义插件，并新增 MIDI 导入、录音、编辑、分轨分离、自动化曲线及 32-bit/48 kHz 无限制多轨导出。插件创建暂不消耗积分，但 Suno 表示未来可能引入积分系统。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月14日3时39分"
+  },
+  {
+    "id": "cmsrxpvq904o5rozef1a5tyw7",
+    "title": "Grok 4.6 登顶 Realm Tax 基准测试",
+    "url": "https://x.com/cb_doge/status/2087987292325773398",
+    "summary": "Grok 4.6 再次获胜。🏆\n\nGrok 4.6 在 micro1 的 Realm Tax 基准测试中排名第一，Best@3 得分 57.9%，击败了 Claude、GPT、Gemini 以及所有其他参与测试的模型。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月14日3时38分"
+  },
+  {
+    "id": "cmsrxpyau04p2rozed29r67ee",
+    "title": "Gemini 3.7 Flash 发布，API 价格减半",
+    "url": "https://x.com/rohanpaul_ai/status/2087986154260037817",
+    "summary": "Google 在 3.6 Flash 发布仅 3 周后推出 Gemini 3.7 Flash，入门 API 价格减半至 $0.75/$3.75（每百万输入/输出 token），2027 年 1 月 1 日起恢复为 $1.50/$7.50。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日3时34分"
+  },
+  {
+    "id": "cmsrxq5du04rwrozegl05bnu5",
+    "title": "Claude Tag 主动消息减少45%且监控免费",
+    "url": "https://x.com/noahzweben/status/2087985717817274698",
+    "summary": "让 Claude 具备主动性背后投入了大量研究。我们的数据显示，未经提示的消息减少了约 45%--Claude Tag 既对您的工作上下文感知更强，也更懂得何时保持安静。\n\n最棒的是--您也无需为监控付费！https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
+    "source": "X：Noah Zweben（@noahzweben）",
+    "date": "2026年8月14日3时32分"
+  },
+  {
+    "id": "cmsrxpvyb04obroze3ofd9inq",
+    "title": "Gemini 3.7 Flash 发布，降价五成",
+    "url": "https://x.com/ammaar/status/2087985302597926979",
+    "summary": "Gemini 3.7 Flash 来了 🔥\n\n全年价格比 3.6 Flash 便宜 50%，在设计遵循、Web 开发和游戏制作方面都有显著改进！\n\n现已登陆 AI Studio、Antigravity 和 Gemini API。\n\n下面是一些一次性演示！",
+    "source": "X：Ammaar Reshi (@ammaar)",
+    "date": "2026年8月14日3时31分"
+  },
+  {
+    "id": "cmsrxl8d204l6roze6skgvfa1",
+    "title": "OpenAI 本周第二位高管离职，首席营收官 Denise Dresser 将离任",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "summary": "OpenAI 首席营收官 Denise Dresser 宣布将在\"未来几周\"离职，去\"寻求其他机会\"，她于去年 12 月从 Slack CEO 任上加入 OpenAI。Wiz 总裁兼 COO Dali Rajic 将接任 CRO 一职。这是本周 OpenAI 第二位高管离职，此前特别项目负责人、前 COO Brad Lightcap 已宣布离开。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月14日3时28分"
+  },
+  {
+    "id": "cmsrxpvez04ntrozep315c4vd",
+    "title": "Grok 4.6 登顶 RareBench，成本仅为 Opus 5 三分之一",
+    "url": "https://x.com/elonmusk/status/2087984574768816159",
+    "summary": "xAI 的 Grok 4.6 在 RareBench 上超越 Claude Opus 5 登顶，成本约为其三分之一。同时，DeepSeek v4-pro-0813 和智谱 GLM5.2 在评测中均未达预期，前者表现甚至不如 v4-flash，作者将重新测试。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月14日3时28分"
+  },
+  {
+    "id": "cmsrxl7o504ksroze3cq7xaen",
+    "title": "OpenAI 推出 Ultrafast 模式，让 GPT 5.6 Sol 以 14 倍速度运行",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
+    "summary": "OpenAI 推出名为 Ultrafast 的新模式，可让 GPT 5.6 Sol 以标准处理 14 倍的速度工作，每秒输出高达 750 个 token。该模式由 OpenAI 与芯片厂商 Cerebras 合作驱动，目前以预览形式向小部分客户开放，OpenAI 表示将随\"容量增长\"扩大访问范围。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月14日3时22分"
+  },
+  {
+    "id": "cmsrxl7o504ktrozephnmflj4",
+    "title": "IBM 与 OpenAI 达成合作，拓展企业 AI 业务",
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push",
+    "summary": "IBM 宣布与 OpenAI 合作，将后者的模型与工具带给更多企业客户，并共同营销 AI 产品及开发金融、政府、电信、零售等行业解决方案。IBM 将在咨询部门设立专门的 OpenAI 业务，未来数月培训数万名顾问，并将 GPT-5.6、Codex、ChatGPT Work 等模型集成至 IBM Consulting Advantage 平台。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月14日3时19分"
   },
   {
     "id": "cmsrwin0d03vzrozepqwoonoh",
@@ -14149,6 +14285,14 @@
     "url": "https://x.com/kimmonismus/status/2087960533064405444",
     "summary": null,
     "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日1时52分"
+  },
+  {
+    "id": "cmsrx3epv04dvroze1nrkhbi6",
+    "title": "Unity AI Gateway 智能路由：以 30%+ 更低单任务成本匹配前沿模型质量",
+    "url": "https://www.databricks.com/blog/smart-routing-unity-ai-gateway-match-frontier-quality-30-lower-cost-task",
+    "summary": "Databricks 在 Unity AI Gateway 中推出智能路由功能，可在编码任务中自动匹配模型与执行框架，以 30% 以上的单任务成本降幅实现前沿模型质量。该功能面向 2026 年日益多样化的模型与工具生态，帮助用户在不牺牲性能的前提下优化推理开支。",
+    "source": "Databricks：Blog（RSS）",
     "date": "2026年8月14日1时52分"
   },
   {
