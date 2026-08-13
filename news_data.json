@@ -13848,6 +13848,118 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsqtdbnf04a0roz22bht3yzq",
+    "title": "Codex 活跃用户破 1500 万，重置即将到来",
+    "url": "https://x.com/thsottiaux/status/2087706104814023111",
+    "summary": "其实是几天前的旧闻了，但已经突破 1500 万。祝大家重置愉快。大约一小时后落地，直接 /fast。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月13日9时1分"
+  },
+  {
+    "id": "cmsqtffa804c9roz29v2ktu30",
+    "title": "BestBlogs 早报：Grok 4.6 发布、英伟达开源 Nemotron 3.5、DeepMind 推手语转文本模型",
+    "url": "https://x.com/hongming731/status/2087692976529306110",
+    "summary": "Cursor 与 SpaceXAI 发布 Grok 4.6，面向长时任务维持多步工作，已接入 Cursor、Grok Build 与 API。英伟达开源 300 亿参数模型 Nemotron 3.5 Lightning 及路由库 NeMo Switchyard。Google DeepMind 推出手语转文本模型 SL2T，首批支持美国手语转英语。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月13日8时9分"
+  },
+  {
+    "id": "cmsqtffa804caroz27p2zp2m1",
+    "title": "Grok 4.6 进 Cursor 主打长时任务",
+    "url": "https://x.com/hongming731/status/2087692902487232915",
+    "summary": "Cursor 与 SpaceXAI 发布 Grok 4.6，定位为可在多步骤中持续工作的模型，覆盖研究、跨代码库工作与逐轮构建应用等长时任务。它在 Grok 4.5 基础上经补充训练，并在较长轨迹上观察到更多自测与验证行为。Grok 4.6 已在 Cursor 和 Grok Build 提供，API 价格为每百万输入 token 2 美元、输出 token 6 美元。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月13日8时9分"
+  },
+  {
+    "id": "cmsqrp2qb026aroz2qfl4zwjl",
+    "title": "维基百科遭恶意篡改，谷歌搜索误显示 OpenAI CEO 奥尔特曼死讯",
+    "url": "https://www.ithome.com/0/989/024.htm",
+    "summary": "当地时间周三凌晨，部分用户在谷歌搜索 OpenAI CEO 萨姆·奥尔特曼时，结果误显示其当天去世。谷歌回应称该信息已不再显示，并非人为修改，可能是维基百科遭恶意篡改所致。奥尔特曼维基百科页面当天被修改 22 次，曾短暂加入\"遭刺杀死亡\"等虚假内容，目前最新更新已纠正错误。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日8时6分"
+  },
+  {
+    "id": "cmsqrp2qb026broz2op7gz74y",
+    "title": "DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 5",
+    "url": "https://www.ithome.com/0/989/023.htm",
+    "summary": "DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）API 更新上线，相比预览版能力大幅提升，在多项测试中接近 Fable 5 水平。新版本增强 Agent 能力，支持 Responses API 和 Codex 接入。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日8时4分"
+  },
+  {
+    "id": "cmsqrp2qb026croz2vzbrv436",
+    "title": "Raycast 0.71 发布：让 AI 直接\"看懂\"你的屏幕",
+    "url": "https://www.ithome.com/0/989/022.htm",
+    "summary": "Raycast 0.71 新增\"屏幕感知\"功能，可将当前应用或窗口的上下文信息直接导入 AI 聊天，解决需反复复制文本、上传截图的痛点。用户可通过三种方式触发，发送的上下文包含应用与窗口详情、选中文本、焦点控件及当前窗口截图。该版本还包含 8 项核心更新，如新增 Ask Screen Awareness AI Extension、压缩与上下文管理支持等。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日8时3分"
+  },
+  {
+    "id": "cmsqt8p5103tbroz2wrspjc28",
+    "title": "Replit 首登 Inc. 5000 榜单位列第 24",
+    "url": "https://x.com/Replit/status/2087699687025615038",
+    "summary": "Replit 入选 Inc. 5000 强榜单，位列第 24 名，这是我们首次上榜。\n\n阅读我们的故事 👇",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月13日8时36分"
+  },
+  {
+    "id": "cmsqsy2ra03asroz2kup25xag",
+    "title": "SemiAnalysis：NVIDIA 或收购 Groq，其转向出租 Blackwell",
+    "url": "https://x.com/SemiAnalysis_/status/2087698883593834946",
+    "summary": "SemiAnalysis 推测 NVIDIA 可能收购 Groq，而 Groq 剩余业务正购入 NVIDIA B300/GB300/Rubin GPU 及 LPU 并向企业出租。其出租的集群多为纯 Blackwell 集群，并非都含 LPU。此前 Groq 已宣布成为 NVIDIA 云合作伙伴，CEO Adam Winter 称将把推理基础设施做到最好。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月13日8时32分"
+  },
+  {
+    "id": "cmsqrvjgh02edroz26demfk0v",
+    "title": "Perplexity 一年前曾提议收购谷歌浏览器",
+    "url": "https://x.com/swyx/status/2087691099691475285",
+    "summary": "Perplexity 一年前的今天提出收购 @googlechrome\n\n（这是一条定时推文）",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月13日8时2分"
+  },
+  {
+    "id": "cmsqsd1q602wzroz2lminrsw3",
+    "title": "LangChain 为何认为托管智能体是智能体构建的下一个大趋势",
+    "url": "https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building",
+    "summary": "LangChain 推出 Managed Deep Agents，为开发者提供构建、运行和部署 Deep Agents 的托管方式，内置运行时、流式传输、沙箱、评测、记忆和认证功能。该服务旨在降低智能体开发与运维的复杂度，让开发者无需自建基础设施即可投入生产环境。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月13日8时0分"
+  },
+  {
+    "id": "cmsqt9rwj03woroz2qj989a2h",
+    "title": "DeepSeek V4 Pro 0813 上线 OpenRouter，仅限 API 调用",
+    "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813",
+    "summary": "DeepSeek 最新 Pro 模型 V4 Pro 0813 已上线，仅通过 API 提供，目前可在 OpenRouter 上访问。该模型在低、中、高三种推理强度下生成了差异明显的鹈鹕图像，作者称在其他模型中未见此类现象。官方尚未确认是否开源权重，但鉴于 4 月和 7 月版本均已发布权重，开源可能性较大。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月13日7时59分"
+  },
+  {
+    "id": "cmsqr3iar01ncroz2wuuv4oat",
+    "title": "OpenClaw 创始人问答：智能体如何改变软件开发",
+    "url": "https://x.com/openclaw/status/2087689758759899173",
+    "summary": "与 OpenClaw 创始人 @steipete 的无过滤问答\n\n@hrudolph 和 @Pat_Erichsen 向 Peter 提出了社区问题，涉及 OpenClaw 的未来方向、即将发布的版本，以及智能体如何改变软件开发。\n\nThe ClawCast 第 7 集：https://openclaw.ai/podcast/episode-7",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年8月13日7时56分"
+  },
+  {
+    "id": "cmsqrvhyz02d9roz2mmdtzv3m",
+    "title": "电脑工作两大核心技能：向AI表达意图",
+    "url": "https://x.com/gabriel1/status/2087689330446004344",
+    "summary": "电脑工作中最有价值的两大技能：\n- 重复性工作流：善于向AI助手完整阐述决策树\n- 横向不可预测工作：善于在任务前预先说明AI无法知晓的每个复杂因素",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月13日7时54分"
+  },
+  {
+    "id": "cmsqsrjge034qroz21dfnpdvl",
+    "title": "HumanLayer 新增 cmd+K 查看近期会话",
+    "url": "https://x.com/dexhorthy/status/2087687144089489637",
+    "summary": "HumanLayer 新功能 - 通过 cmd+K 在命令面板中显示近期会话",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月13日7时46分"
+  },
+  {
     "id": "cmsqpjwip01frro7v1df0wx84",
     "title": "腾讯微信公布 WeLM 大语言模型：80B 版已用于 AI 助手小微，617B 版开发中",
     "url": "https://www.ithome.com/0/989/007.htm",
@@ -13862,6 +13974,14 @@
     "summary": "Anthropic 升级 Chrome 版 Claude 扩展，在侧边栏带来完整 Claude Cowork 会话体验，浏览器内任务和对话可跨桌面端、网页端及移动端无缝同步。用户可直接使用账户已配置的 Agent Skills 和 Connectors，Claude 还能利用浏览器登录状态执行点击链接、填写表单等操作。该功能今日面向 Max 和 Team 客户开放，未来几周内向 Pro 用户推出。",
     "source": "IT之家（RSS）",
     "date": "2026年8月13日7时3分"
+  },
+  {
+    "id": "cmsqrp2qb026froz2vk8wv88p",
+    "title": "苹果拟向出版商支付最高数亿美元获取新闻内容，改进 AI 版 Siri",
+    "url": "https://www.ithome.com/0/989/014.htm",
+    "summary": "苹果正与多家出版商洽谈多年期合作协议，获取新闻内容以支持 AI 驱动的 Siri 功能，该功能预计今年晚些时候推出。苹果提出按内容实际使用量付费的灵活方案，并讨论过一笔规模可能达数亿美元的预算。此前苹果曾试验 AI 生成新闻摘要，因生成错误标题引发担忧后已关闭该功能。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日7时33分"
   },
   {
     "id": "cmsqpqbyt01nero7vqo5in93d",
@@ -13950,6 +14070,14 @@
     "summary": "Anthropic 为满足欧盟《AI 法案》透明度规范，开始在 Claude 输出中嵌入不可见水印，标记 AI 生成内容。部分 Reddit 用户抱怨该系统是\"阴谋\"，称学生、记者等普通用户会被\"抓包\"，但也有用户反驳称水印仅用于检测 AI 输出风险，并非\"认领功劳\"。",
     "source": "TechCrunch：AI（RSS）",
     "date": "2026年8月13日6时26分"
+  },
+  {
+    "id": "cmsqq3bc001snro7vo8picfbp",
+    "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
+    "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年8月13日6时22分"
   },
   {
     "id": "cmsqnl714015croux4khmc7xu",
