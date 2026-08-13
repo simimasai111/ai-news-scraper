@@ -13848,6 +13848,62 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsrui3ye0296rozet2ak3r03",
+    "title": "Matic 扫地机器人弃用 LiDAR 改用视觉方案",
+    "url": "https://x.com/kimmonismus/status/2087964467326034201",
+    "summary": "Matic 将特斯拉的视觉优先路线用于家用扫地机器人：配备五颗 RGB-IR 摄像头、无 LiDAR，由 NVIDIA Jetson Orin 板载推理，实时更新 3D 地图以区分充电线、袜子和宠物。团队耗时 7 年、不足 100 人打造，获 1.15 亿美元融资，支持 75 种语言，WIRED 给出 10/10 评分。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日2时8分"
+  },
+  {
+    "id": "cmsrtyhz006hiro0nmdtb3g2t",
+    "title": "Grok 4.6 上线 Pi，强化智能体任务",
+    "url": "https://x.com/SpaceXAI/status/2087963618637971495",
+    "summary": "Grok 4.6 现已在 Pi 中可用。\n\n【引用 @pidotdev】：别忘了刷新你的模型目录。Grok 4.6 已发布 🛸\n\n专为长时间运行的智能体任务打造，在编程、知识工作和视觉任务方面能力更强。输入 $2/M，输出 $6/M。\n\n欢迎 Grok 4.6 加入 Pi。",
+    "source": "X：SpaceXAI (@SpaceXAI)",
+    "date": "2026年8月14日2时4分"
+  },
+  {
+    "id": "cmsrui4jj029eroze7fdq8tll",
+    "title": "Grok 4.6 发布，使用限额已重置",
+    "url": "https://x.com/cb_doge/status/2087967629650866667",
+    "summary": "Grok 已重置使用限额，帮助大家在 Grok 4.6 发布期间继续构建。\n\n以下是重置限额的方法 👇",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月14日2时20分"
+  },
+  {
+    "id": "cmsruics902d6roze86o4vh9o",
+    "title": "Matic 扫地机器人新增语音与手势控制",
+    "url": "https://x.com/testingcatalog/status/2087967486939644110",
+    "summary": "Matic 为其家用清洁机器人推出 Cues 更新，支持语音配合指向手势控制，如指着污渍说\"Hey Matic， clean this\"即可定点清洁。命令支持 75 种语言，且全部在设备本地处理。该机器人获 WIRED 10/10 评分，已有 13，000 个家庭使用。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月14日2时20分"
+  },
+  {
+    "id": "cmsrudflh026croze89fmiue2",
+    "title": "DeepSeek Harness v0.1 开源生产级 Agent 框架",
+    "url": "https://x.com/AYi_AInotes/status/2087962866355995054",
+    "summary": "DeepSeek 开源 DeepSeek Harness v0.1，一个带完整 Web UI、可直接通过 SDK 启动 Claude Code 和 Codex 代理的生产级 Agent 框架。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月14日2时1分"
+  },
+  {
+    "id": "cmsrudglz026yrozeoikc3xib",
+    "title": "Harness-IF：量化编码智能体规则真实影响",
+    "url": "https://x.com/omarsar0/status/2087962456572498142",
+    "summary": "Harness-IF 通过逐条评分 256 条规则并从执行证据中剔除巧合，量化编码智能体对 AGENTS.md 规则的遵循度。在 12 个前沿模型上，原始准确率 72.1-85.9%，剔除先验后的准确率降至 66.1-78.6%，每模型下降 3.6-7.4 点。研究发现规则优先级不随提示深度变化，系统提示、项目文件和用户指令均高于工具与技能描述。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月14日2时0分"
+  },
+  {
+    "id": "cmsrttixa06fjro0nu1cmw0ac",
+    "title": "OpenRouter 上线 Voyage Code 4 代码检索模型",
+    "url": "https://x.com/OpenRouter/status/2087962437760999719",
+    "summary": "OpenRouter 上，编码智能体的代码检索有了新选择。\n\nMongoDB 旗下 Voyage AI 推出的 Voyage Code 4 支持 256、512、1024 和 2048 维度的 Matryoshka 嵌入向量，并提供多种量化选项。\n\n试用：https://openrouter.ai/voyageai/voyage-code-4",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月14日2时0分"
+  },
+  {
     "id": "cmsrs8and03dsro0nkod01l18",
     "title": "Gemini 3.7 Flash 发布，强化长程编程与PDF理解",
     "url": "https://x.com/omarsar0/status/2087949444272558282",
@@ -13880,12 +13936,52 @@
     "date": "2026年8月14日1时6分"
   },
   {
+    "id": "cmsrsqxny03txro0nwc9s72ss",
+    "title": "Gemini 3.7 Flash 发布：编码智能体主力模型",
+    "url": "https://x.com/GoogleAI/status/2087949042961514983",
+    "summary": "Google AI 推出 Gemini 3.7 Flash，定位编码与智能体场景的主力模型。该模型已集成至 Gemini App 的 Spark 功能，可跨 Gmail、Google 日历和 Google 文档处理多步骤复杂任务。3.7 Flash 年底前提供半价优惠，输入 $0.75/1M tokens，输出 $3.75/1M tokens。",
+    "source": "X：Google AI (@GoogleAI)",
+    "date": "2026年8月14日1时6分"
+  },
+  {
     "id": "cmsrscw7n03etro0n19zwjph5",
     "title": "Gemini Spark 现已运行于 Gemini 3.7 Flash",
     "url": "https://x.com/GeminiApp/status/2087948790296973683",
     "summary": "Gemini Spark 现已运行于 Gemini 3.7 Flash。⚡️\n\n无论你是用 Spark 将供应商信息整理到 Sheets 中，还是起草谈判邮件，3.7 Flash 都能通过改进对 @GoogleWorkspace 应用的工具调用，让你的个人 AI 智能体更加精准可靠，助力将想法转化为行动。",
     "source": "X：Gemini (@GeminiApp)",
     "date": "2026年8月14日1时5分"
+  },
+  {
+    "id": "cmsrsnnj903o7ro0n5xs0gycu",
+    "title": "Gemini 3.7 Flash 发布，性能大增价格减半",
+    "url": "https://x.com/sundarpichai/status/2087948583890985263",
+    "summary": "Google 在 3.6 Flash 发布仅 3 周后推出 Gemini 3.7 Flash，在软件工程、知识工作和网页开发方面显著提升，尤其擅长编码和智能体任务。其入门价格仅为 3.6 Flash 原价的一半，已上线 Antigravity、Gemini API、Gemini Enterprise 等平台。",
+    "source": "X：Sundar Pichai (@sundarpichai)",
+    "date": "2026年8月14日1时5分"
+  },
+  {
+    "id": "cmsrui63w029yrozevapzvaea",
+    "title": "MiniMax H3 与 fal 联合直播详解构建实践",
+    "url": "https://x.com/MiniMax_AI/status/2087961825874972680",
+    "summary": "现在开始直播 🎙️\n\n加入 @MiniMax_AI × @fal，深入了解如何使用 MiniMax H3 进行构建--从多模态参考、原生音频和编辑，到 LoRA、模型串联以及生产工作流。\n\n加入 ↓ https://x.com/i/broadcasts/1OxwbnnmqnPJB",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月14日1时57分"
+  },
+  {
+    "id": "cmsrudfww026iroze79xeibs7",
+    "title": "Gemini 3.7 Flash 发布",
+    "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash",
+    "summary": "Google 发布 Gemini 3.7 Flash，相关页面已在 ai.google.dev 上线。该消息在 Hacker News 引发关注，短时间内获得 120 个 HN 点赞。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日1时56分"
+  },
+  {
+    "id": "cmsrui3ye0297rozepqd5d66x",
+    "title": "We got Gemini 3.5，3.6 and now 3.7 At this point it's pretty clear that we won't see any 3.5 pro rel…",
+    "url": "https://x.com/kimmonismus/status/2087960533064405444",
+    "summary": null,
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日1时52分"
   },
   {
     "id": "cmsrsd5dz03k6ro0nc76y15wj",
@@ -13902,6 +13998,110 @@
     "summary": "Gemini 3.7 Flash 来了。\n\n它在编程、知识工作和网页开发方面更加强大。🧵",
     "source": "X：Google DeepMind (@GoogleDeepMind)",
     "date": "2026年8月14日1时4分"
+  },
+  {
+    "id": "cmsrscwfn03f7ro0n7qijclds",
+    "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+    "summary": "Google DeepMind 发布 Gemini 3.7 Flash，距 3.6 Flash 仅三周，主打编程与智能体任务，输入/输出价格分别为每百万 token $0.75 和 $3.75，为原 3.6 Flash 的一半。",
+    "source": "Google DeepMind：Blog（RSS）",
+    "date": "2026年8月14日1时4分"
+  },
+  {
+    "id": "cmsrtflzo0497ro0niedsxhfx",
+    "title": "Gemini 3.7 Flash 智能体协作自主训练机器人模型",
+    "url": "https://x.com/fofrAI/status/2087959863624114683",
+    "summary": "一个由 3 个 Gemini 3.7 Flash 智能体组成的团队协作，从零开始自主训练了一个机器人模型。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月14日1时49分"
+  },
+  {
+    "id": "cmsrtfopg04anro0n5b67zaf2",
+    "title": "Google 发布 Gemini 3.7 Flash：主打编程与智能体，输入 token 定价 $0.75/1M",
+    "url": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash",
+    "summary": "Google 推出 Gemini 3.7 Flash，这是对 3.6 Flash 的算法改进而非新预训练模型，支持 1M-token 上下文窗口和最高 64K 输出 token。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月14日1时47分"
+  },
+  {
+    "id": "cmsrtfncx049zro0nucejkubs",
+    "title": "Gemini 3.7 Flash 登陆 Cursor",
+    "url": "https://x.com/leerob/status/2087959106200236094",
+    "summary": "Gemini 3.7 Flash 现已在 Cursor 中可用！\n\n以下是我们评估中的部分结果 ↓",
+    "source": "X：Lee Robinson (@leerob)",
+    "date": "2026年8月14日1时46分"
+  },
+  {
+    "id": "cmsrtfj6q047rro0ni98bf4v6",
+    "title": "X 开源 For You 时间线推荐算法",
+    "url": "https://x.com/cb_doge/status/2087957702421213216",
+    "summary": "X 宣布开源 For You 时间线推荐算法，公开帖子排名与过滤机制，涵盖核心排序系统、模型配置、时间线过滤器及影响可见性的内容标签。同时推出\"Under the Hood\"页面，符合条件的用户可查看账号或帖子是否被施加可见性限制标签并下载数据。试点面向随机选取的、注册满一年且上月发帖超 10 次的账号，并邀请独立推荐系统专家审查。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月14日1时41分"
+  },
+  {
+    "id": "cmsrtfj33047oro0nsw5m43np",
+    "title": "ChatGPT 或 Codex 帮你省过钱吗？",
+    "url": "https://x.com/jxnlco/status/2087956442175418736",
+    "summary": "ChatGPT 或 Codex 有没有真的帮你省过钱？\n\n抓到过错误发票、发现账单差错、取消订阅、协商账单等等。\n\n发生了什么，省了多少，工作流程是怎样的？\n\n回复或私信我。想听真实案例！",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月14日1时36分"
+  },
+  {
+    "id": "cmsrtfo9c04afro0nua5lfr0o",
+    "title": "GPT-5.6 Sol Ultrafast 发布，速度达 750 tokens/秒",
+    "url": "https://x.com/sherwinwu/status/2087956232783134770",
+    "summary": "Cerebras 预览 GPT-5.6 Sol Ultrafast 模式，生成速度最高 750 tokens/秒，比标准处理快 14 倍。该模式跑完 Humanity's Last Exam 仅用 11 小时 11 分，比 Claude Fable 5 快近 7 倍且准确率相当。用户称瓶颈已从模型转向工具本身。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年8月14日1时35分"
+  },
+  {
+    "id": "cmsrtfrxm04c5ro0ns5p5w955",
+    "title": "Gemini 3.7 Flash 上线 Spark，强化 Workspace 工具调用",
+    "url": "https://x.com/testingcatalog/status/2087954584249463061",
+    "summary": "Google 将 Gemini 3.7 Flash 部署至 Gemini Spark，并改进其操作 Google Workspace 应用的工具使用能力。该模型被官方称为面向编程与智能体的最强\"工作马\"模型。Spark 现已向 160 多个国家的 Pro 和 Ultra 订阅用户开放。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月14日1时28分"
+  },
+  {
+    "id": "cmsrtfj6q047sro0nm3okt4aq",
+    "title": "Grok 4.6 登顶 GPQA Diamond 评测",
+    "url": "https://x.com/cb_doge/status/2087953922229170682",
+    "summary": "Grok 4.6 再次获胜。👑\n\nGrok 4.6 以 94.9% 的分数在 GPQA Diamond 上夺得第一名，击败了 GPT-5.6、Gemini 3.1 Pro、Claude Opus 5 以及 Artificial Analysis 测试的所有其他模型。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月14日1时26分"
+  },
+  {
+    "id": "cmsrtfinq047gro0nvlxl8q1f",
+    "title": "Gemini 3.7 Flash official released. Surprisingly solid jump over 3.6！ FrontierCode： 43.6% vs. 34.4%…",
+    "url": "https://x.com/kimmonismus/status/2087953482493923477",
+    "summary": null,
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日1时24分"
+  },
+  {
+    "id": "cmsrsqxre03tzro0nq9ve4h1j",
+    "title": "Gemini 3.7 Flash 在 OpenRouter 限时五折",
+    "url": "https://x.com/OpenRouter/status/2087952866409656733",
+    "summary": "Gemini 3.7 Flash 在 OpenRouter 上独家额外五折，优惠持续至 8 月 27 日。\n\n根据我们的测试，我们认为 @GoogleDeepMind 的新模型在 OpenRouter 的价格下，将在多模态和智能体工作负载方面尤其具有竞争力。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月14日1时22分"
+  },
+  {
+    "id": "cmsrstsgl03zpro0nil7c0pmu",
+    "title": "Aidan McLaughlin 将做客直播谈研究见闻",
+    "url": "https://x.com/aidan_mclau/status/2087952472627372082",
+    "summary": "Aidan McLaughlin 宣布稍后将加入直播，分享其研究工作与最新研究见闻。直播还将讨论 Databricks 50 亿美元融资、Anthropic 智能体集群研究、DeepSeek V4 定价及 AI 政策等话题，并有多场嘉宾访谈。",
+    "source": "X：Aidan McLaughlin（@aidan_mclau）",
+    "date": "2026年8月14日1时20分"
+  },
+  {
+    "id": "cmsrsnnv403o9ro0n8wah1n4i",
+    "title": "Gemini 3.7 Flash 发布：主打编码与智能体任务",
+    "url": "https://x.com/googleaidevs/status/2087952344738648246",
+    "summary": "Google 发布 Gemini 3.7 Flash，定位为面向编码和智能体任务的高性能模型，具备更强的指令遵循、首遍代码准确率与智能体任务执行能力。官方演示其构建复杂 3D 网页游戏，涵盖 Three.js 引擎逻辑、Nano Banana 素材生成与程序化音频集成。",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "date": "2026年8月14日1时20分"
   },
   {
     "id": "cmsrs89n603d3ro0n1vvp5p40",
@@ -13928,6 +14128,14 @@
     "date": "2026年8月14日1时17分"
   },
   {
+    "id": "cmsrtt85106dlro0nwil0xkkb",
+    "title": "Strands Robots 如何用 Hugging Face Storage Buckets 实现记录、训练与部署一体化",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "summary": "AWS 开源的 Strands Robots（Apache 2.0）通过单一智能体循环，将机器人演示记录、基于 Hub 数据流的策略训练及硬件部署整合在一起，全程保持 LeRobot 磁盘格式不变。",
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年8月14日1时16分"
+  },
+  {
     "id": "cmsrsd11c03hsro0ndclugu8u",
     "title": "Gemini 3.7 Flash 发布，fofr 力荐日常使用",
     "url": "https://x.com/fofrAI/status/2087950512964452550",
@@ -13950,6 +14158,14 @@
     "summary": "我们于六月发布了 Search as Code（SaC），在广度和深度研究上均实现了最先进的性能。\n\n本周，我们正在推出对 SaC 的优化，进一步提升性能，同时将每项任务的成本降低近 10%。",
     "source": "X：Perplexity (@perplexity_ai)",
     "date": "2026年8月14日1时12分"
+  },
+  {
+    "id": "cmsrszpmv041dro0nlmse7kyq",
+    "title": "Gemini 3.7 Flash 发布，性能升级价格减半",
+    "url": "https://x.com/demishassabis/status/2087950102455271765",
+    "summary": "Gemini 3.7 Flash 为软件工程、Web 开发和知识工作带来重大升级。且 introductory 价格仅为原 3.6 Flash 的一半。祝构建愉快！",
+    "source": "X：Demis Hassabis (@demishassabis)",
+    "date": "2026年8月14日1时11分"
   },
   {
     "id": "cmsrsd6zo03klro0noent1t3j",
@@ -14022,6 +14238,14 @@
     "summary": "Studio 2.0 已上线。\n\n在我们强大的浏览器版 DAW 中，掌控每一个音符、旋钮和细节。🎛️",
     "source": "X：Suno (@suno)",
     "date": "2026年8月14日0时4分"
+  },
+  {
+    "id": "cmsrtfqyv04btro0nle3m5b20",
+    "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+    "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
+    "source": "Google Blog：AI（RSS）",
+    "date": "2026年8月14日0时45分"
   },
   {
     "id": "cmsrracuc02f0ro0npfkwk7sr",
