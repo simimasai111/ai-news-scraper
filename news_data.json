@@ -13848,12 +13848,84 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsqtu8pj04gnroz2o7dd6fem",
+    "title": "小米卢伟冰宣布不开澎湃 OS 4 发布会，首批 Beta 版机型今日 11 点开启招募",
+    "url": "https://www.ithome.com/0/989/039.htm",
+    "summary": "小米澎湃 OS 4 Beta 版今日开启首批机型招募，卢伟冰宣布不开发布会，改为通过用户反馈持续优化体验。新版核心目标为打磨基础体验与探索全生态 AI，为 Xiaomi HyperCore 引入负载精算、内存预载两项技术，并推出接入 Xiaomi MiMo 大模型的\"超级小爱 2.0\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日9时7分"
+  },
+  {
+    "id": "cmsqvzfay0702roz2v47o68ho",
+    "title": "小米澎湃 OS 4 Beta 版明日起陆续推送，柔光玻璃、超级小爱 2.0 等升级亮点公布",
+    "url": "https://www.ithome.com/0/989/078.htm",
+    "summary": "小米澎湃 OS 4 Beta 版将于 8 月 14 日下午起分批推送，首批覆盖 Xiaomi 17 系列、REDMI K90 系列及 Xiaomi Pad 8 系列等机型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日9时54分"
+  },
+  {
+    "id": "cmsqvzf0m06zuroz2osrse057",
+    "title": "央视年度AGI人物引热议：梁文峰杨植麟落选？",
+    "url": "https://x.com/AYi_AInotes/status/2087711983323803888",
+    "summary": "央视评选2026中国年度AGI人物，名单未见DeepSeek创始人梁文峰与Kimi创始人杨植麟，引发讨论。两人均出身广东，与何凯明并称当地AI人才代表，分别以湛江高考状元和广东省信息学竞赛一等奖、自主招生清华的背景进入AI领域。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月13日9时24分"
+  },
+  {
+    "id": "cmsquxavb05lfroz202021c7h",
+    "title": "Pixel Watch 5 发布：搭载骁龙 W5 Gen 2 处理器，新增呼吸紧急检测功能",
+    "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5",
+    "summary": "Pixel Watch 5 搭载高通骁龙 W5 Gen 2 加速处理器，配备双芯片架构，RAM 提升 50%、CPU 性能提升 12%，整体速度提升 20%。手表引入行业首创的呼吸紧急检测功能，可自动呼叫紧急服务并发送精确位置（首发欧洲），GPS 路线追踪精度较前代提升 2 倍，超越 Apple Watch Ultra 3 和 Garmin Fenix 8 Pro。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月13日9时24分"
+  },
+  {
+    "id": "cmsqvzfay0709roz2n1i8g80y",
+    "title": "德国人权组织 HateAid 对 Meta 提起刑事诉讼，指控其智能眼镜违反隐私法规",
+    "url": "https://www.ithome.com/0/989/044.htm",
+    "summary": "德国人权组织 HateAid 对 Meta 提起刑事投诉，指控其智能眼镜因具备隐蔽录制能力而违反德国《电信、数字服务和数据保护法》，销售此类产品本身或构成刑事犯罪。HateAid 还希望对可录制场所加以限制，投诉对象包括 Meta、Ray-Ban、Oakley 及多家零售商。Meta 回应称眼镜\"从设计之初就融入了隐私保护措施\"，但已有第三方配件可在不触发安全机制的情况下遮挡录制指示灯。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日9时23分"
+  },
+  {
+    "id": "cmsqu0nr604oeroz2rh6b6mqt",
+    "title": "新兴多智能体系统的模式与问题",
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "date": "2026年8月13日9时20分"
+  },
+  {
     "id": "cmsqtdbnf04a0roz22bht3yzq",
     "title": "Codex 活跃用户破 1500 万，重置即将到来",
     "url": "https://x.com/thsottiaux/status/2087706104814023111",
     "summary": "其实是几天前的旧闻了，但已经突破 1500 万。祝大家重置愉快。大约一小时后落地，直接 /fast。",
     "source": "X：Tibo (@thsottiaux)",
     "date": "2026年8月13日9时1分"
+  },
+  {
+    "id": "cmsqvzf0m06zvroz2l3ocjl22",
+    "title": "广东AI三杰：杨植麟、何凯明、梁文峰",
+    "url": "https://x.com/AYi_AInotes/status/2087709804189946233",
+    "summary": "广东籍AI人才辈出：潮汕杨植麟、广州何凯明、湛江梁文峰，三人分别为广东省信息学竞赛一等奖、广东省高考状元、湛江市高考状元。梁文峰26岁独自驾车深入西藏阿里无人区400公里，被困一周后走出，车留在原地。其敢赌敢输、极致利用资源的性格，与DeepSeek不融资、不社交、以十分之一成本做出匹敌成果的打法一脉相承。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月13日9时16分"
+  },
+  {
+    "id": "cmsqvzfay070broz2txzw4kr0",
+    "title": "调查显示超 80% 的日本公司尚未全面拥抱 AI",
+    "url": "https://www.ithome.com/0/989/042.htm",
+    "summary": "路透社调查显示，超80%的日本公司仅有限使用AI或完全不用，仅16%将其作为不可或缺工具。政府报告指出，86.4%的日本企业至少一项任务使用生成式AI，低于中国的98.1%、德国的91.6%和美国的90.9%。未来一到两年，仅4%的公司预计AI预算年增长50%或更多，所有受访者均表示不会削减AI支出。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日9时16分"
+  },
+  {
+    "id": "cmsqu0nja04o8roz2wsr710yt",
+    "title": "百度发布 MeDo 3.5 直播进行中",
+    "url": "https://x.com/Baidu_Inc/status/2087705699057107070",
+    "summary": "MeDo 3.5 现已上线！立即观看 🚀 https://x.com/i/broadcasts/1NxaroaborEKj",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月13日9时0分"
   },
   {
     "id": "cmsqtffa804c9roz29v2ktu30",
@@ -13880,12 +13952,60 @@
     "date": "2026年8月13日8时6分"
   },
   {
+    "id": "cmsqu0ml604neroz2p1002v0b",
+    "title": "MiniMax H3 携手 Magnific 展示 AI 视频新方向",
+    "url": "https://x.com/MiniMax_AI/status/2087705681097109703",
+    "summary": "明天太平洋时间下午 5：30：MiniMax H3 × @magnific 将在 Magnific 旧金山办公室举办活动。\n\n我们将展示人们已用 H3 制作的作品，探讨 AI 视频的发展方向，并在 Magnific 中亲手体验 H3。\n\n现场将有涵盖电影级生成、原生音频、对话、剪辑等内容的实时工作流演示。\n\n随后我们将开放交流环节，并带来更多社区作品展示。\n\n名额仅剩几个。链接见下方。\n\n#MiniMaxH3 #AIVideo",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月13日8时59分"
+  },
+  {
+    "id": "cmsqtu8pj04gproz2nwx71oy5",
+    "title": "谷歌 AI 重组内幕曝光：布林不满落后 Anthropic，要求全力投入 Gemini 模型",
+    "url": "https://www.ithome.com/0/989/035.htm",
+    "summary": "知情人士称，谷歌联合创始人布林近几个月敦促 DeepMind 员工全力投入 Gemini 模型，以缩小与 Anthropic 的差距。因内部测试显示新旗舰版本在编程等领域仍落后，谷歌将发布时间推迟两个月。8 月 5 日 DeepMind 换帅，哈萨比斯转任董事长，卡武克丘奥鲁接任 CEO，部分团队将并入谷歌公司。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日8时59分"
+  },
+  {
+    "id": "cmsqu0mvd04noroz2miocedut",
+    "title": "Suno成苹果商店最火音乐应用",
+    "url": "https://x.com/suno/status/2087704805498359995",
+    "summary": "从\"波多黎各之歌\"到病毒式传播的文本转歌曲时刻，Suno 一直是今夏最大音乐热点背后的推手。正如彭博社所写，\"这一切都带来了下载量的大幅增长\"，使 Suno 成为\"苹果商店里连续几周最受欢迎的音乐应用，超越了 Spotify。\"\n\n查看完整报道：https://www.bloomberg.com/news/features/2026-08-11/suno-stares-down-universal-and-sony-to-reshape-the-future-of-music",
+    "source": "X：Suno (@suno)",
+    "date": "2026年8月13日8时56分"
+  },
+  {
     "id": "cmsqrp2qb026broz2op7gz74y",
     "title": "DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 5",
     "url": "https://www.ithome.com/0/989/023.htm",
     "summary": "DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）API 更新上线，相比预览版能力大幅提升，在多项测试中接近 Fable 5 水平。新版本增强 Agent 能力，支持 Responses API 和 Codex 接入。",
     "source": "IT之家（RSS）",
     "date": "2026年8月13日8时4分"
+  },
+  {
+    "id": "cmsqtu8pj04gsroz21hff9gnx",
+    "title": "Twitch 证实亚马逊正用其直播内容训练 AI 模型，用户强烈不满",
+    "url": "https://www.ithome.com/0/989/032.htm",
+    "summary": "亚马逊旗下 Twitch 周三宣布，用户可选择退出以阻止其内容被用于训练 AI 模型，正式确认亚马逊一直在用 Twitch 直播内容进行模型训练。该退出功能默认处于\"同意\"状态，引发主播和用户强烈反弹，直播聊天区被数百条反对留言刷屏。Twitch 首席产品官 Mike Minton 表示，他并不清楚亚马逊此前是否已使用相关内容训练模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日8时49分"
+  },
+  {
+    "id": "cmsqtu8pj04gtroz29zidggv6",
+    "title": "Mistral AI 自家平台开放第三方模型接入：首个为智谱 GLM-5.2",
+    "url": "https://www.ithome.com/0/989/031.htm",
+    "summary": "Mistral AI 宣布其平台将支持第三方开放模型，首款为智谱 GLM-5.2，与第一方模型共享相同基础设施、区域控制和服务承诺。用户现可选择在美国或欧洲区域执行 AI 推理负载，以方便满足数据跨境合规要求。该公司还启动了 Mistral 优先层级公开预览及\"欧洲计算单元\"联盟计划。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日8时45分"
+  },
+  {
+    "id": "cmsqtu8pk04guroz2xscfucgw",
+    "title": "Anthropic 为 Claude 生成内容添加水印引发用户争议",
+    "url": "https://www.ithome.com/0/989/030.htm",
+    "summary": "Anthropic 为满足欧盟《人工智能法案》透明度要求，开始在 Claude 生成的编辑文本中植入不可见水印，以标记 AI 生成内容。该政策在 Reddit 上引发争议，部分用户批评其\"不道德\"或存在双重标准，但多数用户支持此举，认为这是追踪算法生成内容的合理方式。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日8时40分"
   },
   {
     "id": "cmsqrp2qb026croz2vzbrv436",
@@ -14662,6 +14782,78 @@
     "summary": "你现在可以在 Grok Build 中使用 Grok 4.6。\n\n下载 Grok Build：http://x.ai/build",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月13日1时10分"
+  },
+  {
+    "id": "cmsqy4lc009pmroz2iezvlwz0",
+    "title": "矽品精密云林斗六厂动工，预计导入 CoWoS 先进封装",
+    "url": "https://www.ithome.com/0/989/132.htm",
+    "summary": "日月光投控旗下矽品精密（SPIL）本月 11 日举行云林斗六厂动土典礼，这座投资近千亿新台币的 AI 半导体先进封测设施预计将导入 CoWoS 2.5D 异构集成产能。斗六厂开发面积达 6 公顷，满载可创造超 2200 个岗位，首期启用时间预计在 2028 年。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日11时2分"
+  },
+  {
+    "id": "cmsqyb3ri0a02roz2jnyrefgz",
+    "title": "Grok-4.6实测：后端基准提升不足5%",
+    "url": "https://x.com/karminski3/status/2087740723034735031",
+    "summary": "grok-4.6没毛病，实测比4.5强了一些，我的后端AgenticCoding基准分数提升了不到5%。前端还在看。",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月13日11时19分"
+  },
+  {
+    "id": "cmsqy4lc009poroz243lhebxi",
+    "title": "阿里千问开放平台上线菜鸟智能体，可协助用户规划寄件方案",
+    "url": "https://www.ithome.com/0/989/126.htm",
+    "summary": "千问开放平台近日上线菜鸟智能体，用户提出寄件需求后，可依据物品类型、价格要求、上门时间等匹配寄件方案和快递公司。该智能体支持寄件避坑答疑、智能识别特惠寄与大件寄件（如推荐德邦），并在授权后结合通讯录与历史寄件记录自动补全收寄件信息。用户可在千问对话框@菜鸟或点击圆点图标唤起。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日10时54分"
+  },
+  {
+    "id": "cmsqx8d7q088troz2qoha7pk4",
+    "title": "阿里云亮相文莱AITI大会展示AI创新",
+    "url": "https://x.com/alibaba_cloud/status/2087733526703509704",
+    "summary": "阿里云携合作伙伴Progresif亮相文莱AITI数字大会，展示最新云与AI创新。交通与信息通信部长到访展台，探讨文莱数字未来。阿里云解决方案架构师现场分享企业如何利用Wonderclip和MuleRun等Agentic AI工具扩展AI并推动自下而上的创新。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月13日10时50分"
+  },
+  {
+    "id": "cmsqy4lc109prroz21no2qid9",
+    "title": "消息称美国 AI 网络安全审查机制未来数月或扩展至前沿开源模型",
+    "url": "https://www.ithome.com/0/989/111.htm",
+    "summary": "外媒《连线》援引消息人士称，美国前沿人工智能模型网络安全审查机制\"几乎肯定\"会在未来数月从闭源模型扩展至开源（开放权重）模型，其中\"前沿\"指与 Anthropic Claude Mythos 或 OpenAI GPT-5.6 能力相当。该审查框架目前仍为自愿性质，部分官员担心强制审查可能抑制 AI 发展。白宫也在考虑过审闭源模型可能降低美国企业对未过审开源模型的兴趣，从而抑制开源模型推出意愿。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日10时43分"
+  },
+  {
+    "id": "cmsqx8igm08cnroz2d7dmqiat",
+    "title": "千问开放平台上线菜鸟智能体，对话即可完成寄快递",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488368&idx=1&sn=4a4dfc3fd611baebea2ed90cf64a480b",
+    "summary": "千问开放平台近日上线菜鸟智能体，用户可在对话框@菜鸟或点击右上角\"圆点图标\"唤起。该智能体可根据物品类型、价格要求、上门时间等推荐寄件方案和快递公司，支持大件寄件识别、特惠寄匹配，并能结合通讯录及历史寄件记录自动补全收寄件信息。",
+    "source": "公众号：千问APP（阿里）",
+    "date": "2026年8月13日10时42分"
+  },
+  {
+    "id": "cmsqvzfax06zzroz29sajce32",
+    "title": "微软发布 VS Code 1.133：调整 Agent 窗口，会话支持切换模型提供商",
+    "url": "https://www.ithome.com/0/989/082.htm",
+    "summary": "微软发布 Visual Studio Code 1.133 更新，调整 Agent 窗口访问方式，并支持会话期间切换模型提供商。新增实验性设置 chat.agentHost.allowSignedOutWhenUsable，免登录使用 Agent 窗口目前仅支持 Claude，Copilot 和 Codex 支持将在后续版本加入。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日10时2分"
+  },
+  {
+    "id": "cmsqy4lc109pvroz2xt8p06x8",
+    "title": "谷歌 DeepMind 推出手语转文本模型，手语 AI 首次进入消费级",
+    "url": "https://www.ithome.com/0/989/105.htm",
+    "summary": "谷歌 DeepMind 推出一款大规模多语言手语转文本（SL2T）翻译模型，使手语 AI 首次进入消费级产品。该模型已在谷歌 Pixel 11 系列手机的 Gboard 和 Live Transcribe 中支持手语转文本输入，初期仅限美国手语。模型在超过 50 种手语的 10 万小时数据上训练，通过将手语转化为姿势特征点保护隐私，无需发送原始视频流。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日10时22分"
+  },
+  {
+    "id": "cmsqvzfax06zyroz2dirpw6th",
+    "title": "消息称 Anthropic 正洽谈以 60 亿美元收购 AI 初创公司 Decart AI",
+    "url": "https://www.ithome.com/0/989/094.htm",
+    "summary": "据彭博社报道，知情人士透露，Anthropic PBC 正洽谈收购 AI 初创公司 Decart AI，交易金额约 60 亿美元（现汇率约合 405.41 亿元人民币）。目前双方尚未最终敲定交易，谈判仍有破裂可能。Decart 致力于帮助 AI 开发者充分发挥不同芯片性能，并专注生成式视频领域，使用\"世界模型\"对实时视频画面进行即时修改。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日10时12分"
   },
   {
     "id": "cmsqaytcb000sroosqqpvf6dy",
