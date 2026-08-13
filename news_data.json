@@ -13848,12 +13848,132 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmss331ud01fnrohvqv3bzid5",
+    "title": "DeepSeek Harness 并行任务卡顿待优化",
+    "url": "https://x.com/karminski3/status/2088023611072471356",
+    "summary": "DeepSeek Harness（DSH）并行处理复杂任务时页面易卡死，前端需优化。用户反馈其启动门槛高、Thinking 文字闪烁过快，建议借鉴 Codex 多 Tab 面板、开箱即用插件及直接预览产出物，并尽早支持多模态。",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月14日6时3分"
+  },
+  {
+    "id": "cmss2nt0d04uaroh6kium3gk6",
+    "title": "Epoch AI：Anthropic 近 500 亿美元算力建设融资或非瓶颈",
+    "url": "https://x.com/EpochAIResearch/status/2088023246889517296",
+    "summary": "Epoch AI 新分析指出，Anthropic 以不足 90 亿美元年化收入宣布 500 亿美元美国算力投资，融资或非瓶颈。其 345 亿美元算力部分中 300 亿获 Broadcom 支持，另有 45 亿美元无支持部分利率 8.5%，高于受支持部分的 5.75%。该模式被视为支撑 2028 年前超 20GW 部署的首笔交易。",
+    "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年8月14日6时1分"
+  },
+  {
+    "id": "cmss331ue01forohvuhk5qeun",
+    "title": "DeepSeek-V4-Pro 烧1亿token验证问题",
+    "url": "https://x.com/karminski3/status/2088023193382785215",
+    "summary": "烧了1亿token了，正在验证deepseek-v4-pro-0813问题出在哪里，一会给大家带来评测+硬核解析视频。",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月14日6时1分"
+  },
+  {
+    "id": "cmss2ecst04qtroh6pgx400zz",
+    "title": "OpenAI 预览 GPT-5.6 Sol 超快模式",
+    "url": "https://x.com/thsottiaux/status/2088019704803897705",
+    "summary": "有时你必须开启 /ultrafast。\n\n【引用 @OpenAI】：预览超快模式：GPT-5.6 Sol 速度最高提升 14 倍。\n\n将首先在 OpenAI API 中向一组精选客户推出，并随着算力增长逐步向更多企业开放。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月14日5时47分"
+  },
+  {
+    "id": "cmss20b4q02smroh6q9i3hxa7",
+    "title": "X 开源\"为你推荐\"排名算法源码",
+    "url": "https://x.com/rohanpaul_ai/status/2088019225520775647",
+    "summary": "X 以 Apache v2 许可证开源其\"为你推荐\"时间线排名算法源码。该算法基于点赞、回复、点击、停留时长等行为的加权概率预测，而非单纯奖励点赞；已关注用户帖子有优势，新账号可获助推，重复内容会被降权。安全与垃圾规则独立运作，且非完整技术栈，部分执行规则与 Grok 提示词未公开。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日5时45分"
+  },
+  {
+    "id": "cmss1vl0v02omroh6dvpd0hyk",
+    "title": "微软将 Copilot 语音助手 Mico 迁至 Learn Live，不再作为 Copilot 形象",
+    "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "summary": "微软不再在 Copilot 语音模式中显示表情丰富的黄色小圆球 Mico，将其移至 Learn Live 平台，称该形象在那里将有\"更多可回应的内容\"。Mico 于去年 10 月随 Copilot 语音模式上线，被微软 AI CEO Mustafa Suleyman 视为赋予聊天机器人\"身份\"的方式，能实时对用户话语做出面部表情和动画反应。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月14日5时42分"
+  },
+  {
+    "id": "cmss209ek02rsroh6qz0wozz2",
+    "title": "MiniMax H3 与 Magnific 展示会开放候补",
+    "url": "https://x.com/MiniMax_AI/status/2088017546981396990",
+    "summary": "MiniMax 宣布其 H3 与 Magnific 联合展示会今晚举行，已开放候补名单，未注册者仍可报名争取入场机会。活动于太平洋时间下午 5：30 在 Magnific 旧金山办公室进行，包含 H3 现场演示、社区作品展示与交流环节。已用 H3 和 Magnific 构建作品的用户可提交作品，有机会在今晚展示。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月14日5时39分"
+  },
+  {
+    "id": "cmss2ecst04quroh6jsfj2okw",
+    "title": "ChatGPT 桌面端新增计算机历史记忆功能",
+    "url": "https://x.com/thsottiaux/status/2088017529587573025",
+    "summary": "计算机历史就在这里。\n\nChatGPT 现在可以记住你在电脑上跨应用和网站的活动。\n\n借助桌面应用中的\"计算机历史\"功能，未来的交互将更加个性化，也无需过多解释。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月14日5时39分"
+  },
+  {
+    "id": "cmss206lw02q0roh6wfzxpdnk",
+    "title": "Gemini 3.7 Flash 发布：快 50% 降价",
+    "url": "https://x.com/joshwoodward/status/2088016871710957587",
+    "summary": "3.7 Flash：速度快，价格低 50%，约 3 周内完成\n\n【引用 @OfficialLoganK】：推出 Gemini 3.7 Flash ： ）\n\n- 速度快！\n- 价格比 3.6 Flash 低 50%（持续至年底）\n- 仅约 3 周内智能水平大幅提升（得益于出色的算法改进）\n- 已上线 API、AI Studio、Antigravity 等平台！",
+    "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+    "date": "2026年8月14日5时36分"
+  },
+  {
+    "id": "cmss1gm8u02laroh670ch02q1",
+    "title": "SpaceXAI Grokathon 2026 获奖项目公布",
+    "url": "https://x.com/SpaceXAI/status/2088015995810238827",
+    "summary": "祝贺 SpaceXAI Grokathon 2026 的获奖者们。以下是 12 小时内构建的前 3 个项目！",
+    "source": "X：SpaceXAI (@SpaceXAI)",
+    "date": "2026年8月14日5时33分"
+  },
+  {
+    "id": "cmss207co02qqroh6eb28le89",
+    "title": "Hitem3D 浏览器内 2D 转 3D 模型实测",
+    "url": "https://x.com/kimmonismus/status/2088015317624844355",
+    "summary": "1/ 我想测试一下，能否从一张平面 2D 图像直接生成可用的 3D 资产，而无需花费数小时修复网格。\n\n一张平面 2D 图像在大约 5 分钟内就变成了一个清晰、高细节的 3D 模型。整个过程完全在浏览器内通过 @Hitem3D 完成，零配置。以下是最终资产和具体工作流的快速展示：",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日5时30分"
+  },
+  {
+    "id": "cmss20f7102ufroh6dx0rqndr",
+    "title": "Claude Code 桌面版新增自动续跑选项",
+    "url": "https://x.com/ClaudeDevs/status/2088014831605702937",
+    "summary": "Claude Code 桌面版达到使用限制？现在有一个自动继续复选框。\n\n开启后，当限制重置时，它会自动从你上次中断的地方继续。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月14日5时28分"
+  },
+  {
+    "id": "cmss20h5g02uxroh6q6r1nqu9",
+    "title": "Claude 接管应用日常维护：388 个 PR 的实践",
+    "url": "https://x.com/bcherny/status/2088014489438621990",
+    "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
+    "source": "X：Boris Cherny (@bcherny)",
+    "date": "2026年8月14日5时27分"
+  },
+  {
+    "id": "cmss20bub02szroh6gtku4qb8",
+    "title": "你是否拥有常驻个人AI智能体？",
+    "url": "https://x.com/fofrAI/status/2088013681258877393",
+    "summary": "你是否拥有一个始终在线的个人AI智能体？",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月14日5时23分"
+  },
+  {
     "id": "cmss0xrwn003rroh6512ikp95",
     "title": "数据标注公司为何仍有巨大护城河",
     "url": "https://x.com/gabriel1/status/2088012650181689644",
     "summary": "数据标注公司的护城河被低估：所需数据高度不确定、技术性强且依赖研究，无法靠堆人力完成。规模最大的劳动力、顶尖研究人才以及与少数实验室的深度合作关系都难以复制。实验室也难以全盘内部化这一复杂流程，需要创始人的持续专注。",
     "source": "X：Gabriel (@gabriel1)",
     "date": "2026年8月14日5时19分"
+  },
+  {
+    "id": "cmss2dsoz04ncroh6xqnnqqi5",
+    "title": "马东锡 NLP：SSI 或正构建可反复改进\"工作区\"的模型",
+    "url": "https://x.com/dongxi_nlp/status/2088012274602557685",
+    "summary": "马东锡 NLP 认为\"工作区\"是模型作答前内部持有、评估和修正想法的区域，SSI 或正构建能反复改进该工作区、判断思考方向并保留有用发现的模型。其推荐 BIGAI 研究团队的博客《Reasoning as Value-Guided Latent-Space Optimization》，阐释模型如何利用额外测试时计算改进隐藏状态。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月14日5时18分"
   },
   {
     "id": "cmss0xogh0026roh6k4ueio0y",
@@ -13893,6 +14013,14 @@
     "url": "https://x.com/EpochAIResearch/status/2088007790296256589",
     "summary": "每过一年，一美元能买到的AI算力增加多少？\n\n约49%，即每21个月翻一番--这是基于2023年至2025年间每季度实际采购的芯片得出的数据。",
     "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年8月14日5时0分"
+  },
+  {
+    "id": "cmss1dqko02i6roh6ahobrk2m",
+    "title": "Scottish Water 如何用 Databricks Genie 让资本投资数据实现对话式查询",
+    "url": "https://www.databricks.com/blog/how-scottish-water-made-its-capital-investment-data-conversational-databricks-genie",
+    "summary": "Scottish Water 在其资本投资（CI）项目中部署 Databricks Genie，让团队通过自然语言对话直接查询投资数据，替代传统报表流程。该系统将数据查询时间从数天缩短至分钟级，使非技术员工无需编写 SQL 即可自助获取答案，并支持后续追问与数据钻取，提升了跨团队的数据可及性与决策效率。",
+    "source": "Databricks：Blog（RSS）",
     "date": "2026年8月14日5时0分"
   },
   {
