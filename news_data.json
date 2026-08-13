@@ -13848,6 +13848,54 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmss0xrwn003rroh6512ikp95",
+    "title": "数据标注公司为何仍有巨大护城河",
+    "url": "https://x.com/gabriel1/status/2088012650181689644",
+    "summary": "数据标注公司的护城河被低估：所需数据高度不确定、技术性强且依赖研究，无法靠堆人力完成。规模最大的劳动力、顶尖研究人才以及与少数实验室的深度合作关系都难以复制。实验室也难以全盘内部化这一复杂流程，需要创始人的持续专注。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月14日5时19分"
+  },
+  {
+    "id": "cmss0xogh0026roh6k4ueio0y",
+    "title": "MiniMax H3 登陆 Magnific 限时五折",
+    "url": "https://x.com/MiniMax_AI/status/2088011156845961447",
+    "summary": "不是自夸，但……把你的产品镜头丢进 @magnific 上的 H3，看它们变成可直接投放的广告大片。🪄🧙\n\n仅限 9 月 1 日前……请合理安排时间。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月14日5时13分"
+  },
+  {
+    "id": "cmss0xpun002rroh6uutlgpxy",
+    "title": "ChatGPT 电脑历史记忆功能上线，记录 Mac 操作",
+    "url": "https://x.com/rohanpaul_ai/status/2088011057134813476",
+    "summary": "OpenAI 为 ChatGPT 桌面应用推出 Computer History 功能，可记录 Mac 上跨应用与网站的操作（点击、输入、快捷键等）并生成记忆，替代 Chronicle 的截图方案。临时事件文件在 Mac 本地保留 48 小时，生成的记忆以明文 Markdown 存储且不加密，OpenAI 警告存在提示注入风险。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日5时13分"
+  },
+  {
+    "id": "cmss0szcy035srodzb8trbn1q",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs",
+    "summary": null,
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月14日5时13分"
+  },
+  {
+    "id": "cmss0xn7x001sroh6jyo31sir",
+    "title": "Grok 1.0.4 发布：新增停止钩子与循环任务过期提醒",
+    "url": "https://x.com/cb_doge/status/2088010999052091584",
+    "summary": "Grok 1.0.4 发布，新增 StopCancelled 钩子事件，可在对话中断时报告原因；循环任务 7 天自动过期并显示提醒。新版本支持按域名限制网络搜索、禁用会话搜索索引，并允许 PreToolUse 钩子改写工具输入。此外修复了队列消息自动提交、被拒图片导致会话卡死等问题，并优化了内存占用。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月14日5时13分"
+  },
+  {
+    "id": "cmss0ilym034arodzjou2gsmb",
+    "title": "每美元AI算力年增49%，21个月翻倍",
+    "url": "https://x.com/EpochAIResearch/status/2088007790296256589",
+    "summary": "每过一年，一美元能买到的AI算力增加多少？\n\n约49%，即每21个月翻一番--这是基于2023年至2025年间每季度实际采购的芯片得出的数据。",
+    "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年8月14日5时0分"
+  },
+  {
     "id": "cmsrysjwl05nyroze1u3gadhm",
     "title": "Gemini 3.7 一句话生成 3D 手表，成本仅 $0.038",
     "url": "https://x.com/rohanpaul_ai/status/2087995034755019080",
@@ -13856,12 +13904,68 @@
     "date": "2026年8月14日4时9分"
   },
   {
+    "id": "cmss0xogi0027roh660eab1of",
+    "title": "MiniMax Music 3 开源并上线 ComfyUI",
+    "url": "https://x.com/MiniMax_AI/status/2088007050609741856",
+    "summary": "Music 3 也开源了！！🙌 已在 @ComfyUI 本地可用\n\n\"在 AGI 到来之前，我们将一直保持开源。\"💙\n\n云端版本即将推出。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月14日4时57分"
+  },
+  {
+    "id": "cmss0xufe004vroh6l1khol8v",
+    "title": "马斯克关注Cognition，编程竞赛野心尽显",
+    "url": "https://x.com/swyx/status/2088006388429828415",
+    "summary": "你们根本不知道埃隆对赢得编程竞赛有多认真。\n\n【引用 @BigTechAlert】：🆕 @elonmusk 已开始关注 @cognition",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月14日4时54分"
+  },
+  {
+    "id": "cmsrzvcn702efrodzciwslmog",
+    "title": "ChatGPT 新增 Computer History 跨应用记忆功能",
+    "url": "https://x.com/testingcatalog/status/2088003527402766645",
+    "summary": "OpenAI 为 ChatGPT 的 Chronicle 功能推出 Computer History 更新，可跨应用和网站记住用户活动以理解上下文。该功能已向 Pro、Business 和 Enterprise 用户全球推出，EEA、英国和瑞士将在未来数周内开放。相比 Chronicle 预览版，新功能降低了 token 用量并新增时间线视图，支持清除历史、排除应用和暂停恢复。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月14日4时43分"
+  },
+  {
+    "id": "cmsrzv31f02awrodzp3sfixj2",
+    "title": "Codex与ChatGPT新增近期工作上下文理解",
+    "url": "https://x.com/OpenAIDevs/status/2088000960891408677",
+    "summary": "Codex 和 ChatGPT 现在能够理解你近期工作的上下文。\n\n选择加入\"计算机历史记录\"（Computer History），即可为 ChatGPT 提供更丰富的上下文，使其能够接续你之前的工作、理解你的工作模式，并针对你重复的工作推荐技能或定时任务。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月14日4时33分"
+  },
+  {
     "id": "cmsrysk9l05o4roze1bpokkvh",
     "title": "中国\"中转站\"灰色经济：走私前沿模型token",
     "url": "https://x.com/deedydas/status/2087993122399613018",
     "summary": "Deedy Das 称一篇关于中国\"中转站\"灰色经济的文章是其在 AI 领域读过最疯狂的内容。该模式以极低价格走私非法前沿模型 token，用更便宜模型欺骗用户，并出售痕迹用于知识蒸馏，甚至涉及在非洲冒埃博拉风险进行人脸验证等\"KYC 制造商\"业务。",
     "source": "X：Deedy Das (@deedydas)",
     "date": "2026年8月14日4时2分"
+  },
+  {
+    "id": "cmsrzuzoj028urodzfamqq5t6",
+    "title": "Mistral CEO 分享欧洲算力战略布局",
+    "url": "https://x.com/arthurmensch/status/2088000058910199921",
+    "summary": "我的联合创始人 Tim（你在 X 上找不到他）分享了我们对最新更新背后的一些战略思考 https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
+    "source": "X：Arthur Mensch（Mistral CEO） (@arthurmensch)",
+    "date": "2026年8月14日4时29分"
+  },
+  {
+    "id": "cmsrzvcn702egrodzxqccc34j",
+    "title": "OpenAI 推出 ChatGPT Business 高级席位",
+    "url": "https://x.com/testingcatalog/status/2087999037870109046",
+    "summary": "OpenAI 已开始向 ChatGPT Business 用户发送 Premium 高级席位（每月 100 美元）的候补邀请。\n\n> 使用额度为标准版的 5 倍。\n> 无五小时使用限制，每周重置时间可预测。\n> 工作区内可混合使用标准席位和高级席位。\n\n早期加入者还有机会获得最高 500 美元的额外积分（每增加一个高级席位可得 100 美元）。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月14日4时25分"
+  },
+  {
+    "id": "cmsrzv1tp02a8rodzgchf7c9h",
+    "title": "ChatGPT 桌面应用新增计算机历史记录功能",
+    "url": "https://x.com/kimmonismus/status/2087998744977461619",
+    "summary": "\"新的时间线视图让你能够回顾自己的工作，并从频繁执行的任务中构建技能。\"\n\n太棒了！听起来是个很酷的功能\n\n【引用 @OpenAI】：ChatGPT 现在可以记住你在电脑上各应用和网站中的活动。\n\n借助桌面应用中的计算机历史记录，未来的交互将更加个性化，也无需过多解释。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日4时24分"
   },
   {
     "id": "cmsrynt8v05khrozeydshn92g",
@@ -13878,6 +13982,14 @@
     "summary": null,
     "source": "TechCrunch：AI（RSS）",
     "date": "2026年8月14日4时14分"
+  },
+  {
+    "id": "cmsrzf9ts0636roze9k3ikxuv",
+    "title": "Demis Hassabis 赞 Flash 3.7 速度飞快",
+    "url": "https://x.com/demishassabis/status/2087995995694960670",
+    "summary": "哦对，Flash 3.7 也是闪电般的速度！⚡️",
+    "source": "X：Demis Hassabis (@demishassabis)",
+    "date": "2026年8月14日4时13分"
   },
   {
     "id": "cmsrysgia05mfrozead6ygzp6",
@@ -13942,6 +14054,14 @@
     "summary": "Grok 4.6 再次获胜。🏆\n\nGrok 4.6 在 micro1 的 Realm Tax 基准测试中排名第一，Best@3 得分 57.9%，击败了 Claude、GPT、Gemini 以及所有其他参与测试的模型。",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月14日3时38分"
+  },
+  {
+    "id": "cmsrz8kjf05zjrozes4bnx7s8",
+    "title": "什么是 AI 幻觉？Databricks 详解其成因与应对",
+    "url": "https://www.databricks.com/blog/ai-hallucinations",
+    "summary": "AI 幻觉指模型生成听上去连贯自信、但事实错误或凭空捏造的输出。Databricks 从技术角度剖析了幻觉产生的根源，并介绍了降低幻觉风险的常见方法，包括检索增强生成（RAG）、微调与提示词约束等，帮助开发者在实际应用中识别与规避这一现象。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月14日3时35分"
   },
   {
     "id": "cmsrxpyau04p2rozed29r67ee",
@@ -14013,6 +14133,14 @@
     "url": "https://docs.mistral.ai/models/ocr-4-1",
     "summary": "Mistral 发布 OCR 4.1 版本，文档已更新至 docs.mistral.ai。该版本在 Hacker News 上获得 104 点热度，引发社区关注。目前官方尚未公布具体改进细节。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日3时0分"
+  },
+  {
+    "id": "cmss0yonm0291roh6owa0rylg",
+    "title": "Firetiger 团队加入 Cursor",
+    "url": "https://cursor.com/blog/firetiger",
+    "summary": "Firetiger 团队正式加入 Cursor。该公司构建面向生产环境的智能体，可监控发布、捕获回归、调查事件并将发现反馈给编码智能体。Firetiger 由 Rustam Lalkaka 和 Achille Roussel 于 2024 年创立，此前曾在 Cloudflare、Twitch、Segment 和 Twilio 构建大型生产系统。",
+    "source": "Cursor Blog",
     "date": "2026年8月14日3时0分"
   },
   {
