@@ -13848,12 +13848,252 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsrs8and03dsro0nkod01l18",
+    "title": "Gemini 3.7 Flash 发布，强化长程编程与PDF理解",
+    "url": "https://x.com/omarsar0/status/2087949444272558282",
+    "summary": "Gemini 3.7 Flash 来了！\n\n改进了长周期软件工程任务的能力，同时在 PDF 理解方面也很出色。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月14日1时8分"
+  },
+  {
+    "id": "cmsrs89mv03d0ro0n5v2yr6au",
+    "title": "DeepSeek API 定价更新：V4 系列引入峰谷费率",
+    "url": "https://twitter.com/deepseek_ai/status/2087864589895798968",
+    "summary": "DeepSeek 随 V4 系列发布更新 API 定价，引入峰谷费率，低谷时段价格较高峰低 50%，以支持更灵活的工作负载调度。新定价将于 2026 年 8 月 16 日 16：00 UTC 生效。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日1时8分"
+  },
+  {
+    "id": "cmsrs89w103dcro0n28t6vz9v",
+    "title": "OpenAI 任命新首席营收官，高管层持续变动",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues",
+    "summary": "OpenAI 任命 Wiz 总裁兼首席运营官 Dali Rajic 为新任首席营收官，接替上任仅九个月的 Denise Dresser。近一个月内，COO Brad Lightcap 与 AGI 部署 CEO Fidji Simo 相继离职，联合创始人 Greg Brockman 已承担更多管理职责。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月14日1时7分"
+  },
+  {
+    "id": "cmsrsd1qy03i8ro0nm2kv4t29",
+    "title": "Grok 3.5 发布，性能大幅提升",
+    "url": "https://x.com/leerob/status/2087948870659768747",
+    "summary": "Grok 3.5 发布。",
+    "source": "X：Lee Robinson (@leerob)",
+    "date": "2026年8月14日1时6分"
+  },
+  {
+    "id": "cmsrscw7n03etro0n19zwjph5",
+    "title": "Gemini Spark 现已运行于 Gemini 3.7 Flash",
+    "url": "https://x.com/GeminiApp/status/2087948790296973683",
+    "summary": "Gemini Spark 现已运行于 Gemini 3.7 Flash。⚡️\n\n无论你是用 Spark 将供应商信息整理到 Sheets 中，还是起草谈判邮件，3.7 Flash 都能通过改进对 @GoogleWorkspace 应用的工具调用，让你的个人 AI 智能体更加精准可靠，助力将想法转化为行动。",
+    "source": "X：Gemini (@GeminiApp)",
+    "date": "2026年8月14日1时5分"
+  },
+  {
+    "id": "cmsrsd5dz03k6ro0nc76y15wj",
+    "title": "Gemini 3.7 Flash 发布：更快更便宜更智能",
+    "url": "https://x.com/OfficialLoganK/status/2087948481721962669",
+    "summary": "推出 Gemini 3.7 Flash ：）\n\n- 速度快！- 价格比 3.6 Flash 低 50%（持续到年底）- 仅约 3 周内智能水平大幅提升（得益于一些出色的算法改进）- 可在 API、AI Studio、Antigravity 等平台使用！",
+    "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+    "date": "2026年8月14日1时4分"
+  },
+  {
+    "id": "cmsrrx4t903bfro0n02pwj9g6",
+    "title": "Gemini 3.7 Flash 发布，强化编程与知识工作",
+    "url": "https://x.com/GoogleDeepMind/status/2087948366294515977",
+    "summary": "Gemini 3.7 Flash 来了。\n\n它在编程、知识工作和网页开发方面更加强大。🧵",
+    "source": "X：Google DeepMind (@GoogleDeepMind)",
+    "date": "2026年8月14日1时4分"
+  },
+  {
+    "id": "cmsrs89n603d3ro0n1vvp5p40",
+    "title": "OpenAI 预览 GPT-5.6 Sol 超快模式",
+    "url": "https://x.com/OpenAI/status/2087947721936359705",
+    "summary": "预览超快模式：GPT-5.6 Sol 速度提升最高达 14 倍。\n\n该模式将率先在 OpenAI API 中向特定客户群体推出，并随着算力增长逐步向更多企业开放。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月14日1时1分"
+  },
+  {
+    "id": "cmsrsd07y03haro0noq1yqc8o",
+    "title": "MiniMax-Music3 工作流上线",
+    "url": "https://x.com/_akhaliq/status/2087951732235993488",
+    "summary": "MiniMax-Music3 gradio 工作流已发布\n\nhttps://huggingface.co/spaces/akhaliq/MiniMax-Music3-workflow",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月14日1时17分"
+  },
+  {
+    "id": "cmsrsd6zo03kkro0nq46bz56b",
+    "title": "OpenAI 推出 GPT-5.6 Sol 超快模式，速度提升 14 倍",
+    "url": "https://x.com/testingcatalog/status/2087951653374677152",
+    "summary": "OpenAI 为 GPT-5.6 Sol 推出 Ultrafast 模式预览版，模型性能最高提速 14 倍。该模式率先在 OpenAI API 面向少量客户开放，其他用户可注册等待扩容通知。预览期间，OpenAI 将与首批客户合作，评估该速度的实际应用场景。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月14日1时17分"
+  },
+  {
+    "id": "cmsrsd11c03hsro0ndclugu8u",
+    "title": "Gemini 3.7 Flash 发布，fofr 力荐日常使用",
+    "url": "https://x.com/fofrAI/status/2087950512964452550",
+    "summary": "Gemini 3.7 Flash 现已发布。\n\n我很期待大家来试试这个版本。它已成为我的新日常主力。它速度快、能力强，用起来很有趣。表现超出预期。\n\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月14日1时12分"
+  },
+  {
+    "id": "cmsrscxd803fsro0ncogb09ic",
+    "title": "OpenAI 预览 GPT-5.6 Sol 超快模式",
+    "url": "https://x.com/kimmonismus/status/2087950384383873190",
+    "summary": "终于：OpenAI 正在预览 GPT-5.6 Sol 的超快模式，为时间关键型业务应用提供高达每秒 750 个 token 的生成速度。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日1时12分"
+  },
+  {
+    "id": "cmsrsd07c03h8ro0nn34gaa5n",
+    "title": "Perplexity优化SaC性能成本降10%",
+    "url": "https://x.com/perplexity_ai/status/2087950343841915046",
+    "summary": "我们于六月发布了 Search as Code（SaC），在广度和深度研究上均实现了最先进的性能。\n\n本周，我们正在推出对 SaC 的优化，进一步提升性能，同时将每项任务的成本降低近 10%。",
+    "source": "X：Perplexity (@perplexity_ai)",
+    "date": "2026年8月14日1时12分"
+  },
+  {
+    "id": "cmsrsd6zo03klro0noent1t3j",
+    "title": "Gemini 3.7 Flash 发布，价格减半",
+    "url": "https://x.com/testingcatalog/status/2087949921387184259",
+    "summary": "Google 发布 Gemini 3.7 Flash，已上线 API、AI Studio 和 Antigravity，并将推广至其他产品。该模型价格比 Gemini 3.6 Flash 便宜 50%，在 DeepSWE V1.1 上得分 65%，接近 GPT-5.6 Terra 的表现。距 3.6 Flash 发布仅 3 周，新模型在编程和智能体任务上提升显著。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月14日1时10分"
+  },
+  {
+    "id": "cmsrsd6jk03kfro0nrb9wr0lw",
+    "title": "Google 发布 Gemini 3.7 Flash，距上一代仅三周",
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release",
+    "summary": "Google 今日推出 Gemini 3.7 Flash，取代三周前发布的 3.6 Flash，主打改进的编码与智能体性能，并以更低\"入门价\"应对竞品低价。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月14日1时0分"
+  },
+  {
+    "id": "cmsrsekz003l0ro0nosy0rscf",
+    "title": "What does AI actually know about you？",
+    "url": "https://www.youtube.com/watch?v=ANDl5Tkru7g",
+    "summary": null,
+    "source": "Claude：YouTube（RSS）",
+    "date": "2026年8月14日1时0分"
+  },
+  {
+    "id": "cmsrrl37w02u6ro0ngn2e2fwj",
+    "title": "Replit 设计团队谈 AI 时代设计革新",
+    "url": "https://x.com/Replit/status/2087947287620366787",
+    "summary": "如果所有人都在做同样的事，我们就去建造下一个未来。\n\n来听听打造 Replit Design 的团队怎么说，了解我们为何要为 AI 时代重塑设计流程。\n\n属于每个人的设计新纪元。\n\nhttps://replit.com/design",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月14日1时0分"
+  },
+  {
+    "id": "cmsrq7trl0348rorkwx6py1vl",
+    "title": "MiniMax 发布开源音乐模型 Music3",
+    "url": "https://x.com/MiniMax_AI/status/2087934657354678421",
+    "summary": "🎵MiniMax-Music3 下一代开源权重、生产级且多功能的音乐模型\n\nhttps://huggingface.co/MiniMaxAI/MiniMax-Music3",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月14日0时9分"
+  },
+  {
+    "id": "cmsrramim02jero0nte55cfgi",
+    "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+    "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+    "summary": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性完成整首歌的作曲、编曲、演奏与制作，最长支持五分钟。",
+    "source": "MiniMax：Blog（网页）",
+    "date": "2026年8月14日0时52分"
+  },
+  {
+    "id": "cmsrs89mv03d2ro0n4zfm4hkg",
+    "title": "Netlify 支持任意 OpenRouter 模型：Kimi K3、GLM 5.2 与 DeepSeek V4 等 11 个模型实测对比",
+    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results",
+    "summary": "Netlify 现已支持运行任意 OpenRouter 模型，包括 Kimi K3、GLM 5.2 和 DeepSeek V4。团队用同一构建提示词测试了其中 11 个模型，以观察它们在实际任务中的表现差异。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日0时52分"
+  },
+  {
+    "id": "cmsrragkc02hiro0nm576jdcr",
+    "title": "SemiAnalysis 盛赞 vLLM 与 Red Hat 推理专家",
+    "url": "https://x.com/SemiAnalysis_/status/2087945015079075869",
+    "summary": "@vllm_project 与 @RedHat_AI 的 llm-d 维护者是全球最勤奋、最顶尖的推理专家之一 🚀 ML 社区的每个人都能告诉你 @robertshaw21 和 @mgoin_ 有多友善和乐于助人。我们很感激能偶尔与他们合作。❤️",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月14日0时50分"
+  },
+  {
+    "id": "cmsrq7tj9033yrorkye6pcer1",
+    "title": "Suno Studio 2.0 上线，浏览器内掌控每个音符",
+    "url": "https://x.com/suno/status/2087933262463434964",
+    "summary": "Studio 2.0 已上线。\n\n在我们强大的浏览器版 DAW 中，掌控每一个音符、旋钮和细节。🎛️",
+    "source": "X：Suno (@suno)",
+    "date": "2026年8月14日0时4分"
+  },
+  {
+    "id": "cmsrracuc02f0ro0npfkwk7sr",
+    "title": "Anthropic遭炮轰，Grok 4.6模型卡发布",
+    "url": "https://x.com/kimmonismus/status/2087941356492636627",
+    "summary": "向Anthropic开火\n\n【引用 @leerob】：我们发布了Grok 4.6的模型卡！\n\n其中深入介绍了该模型在编码、工程、知识工作等多个不同评估中的能力。我们还讨论了部署前的安全测试和我们的防护措施栈。\n\nhttps://media.x.ai/v1/website/card-4p6-4cd2dc57.pdf",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日0时36分"
+  },
+  {
+    "id": "cmsrrafia02gsro0nw4f8331e",
+    "title": "腾讯ARC发布SCoPE视频扩散位置编码",
+    "url": "https://x.com/_akhaliq/status/2087941343175750088",
+    "summary": "SCoPE\n\n面向视频扩散Transformer的Sightline-坐标位置编码\n\n模型：https://huggingface.co/TencentARC/SCoPE",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月14日0时36分"
+  },
+  {
+    "id": "cmsrraepd02g0ro0nw1kptuxv",
+    "title": "MiniMax Music 3 开源，8B+2.7B 生成歌曲",
+    "url": "https://x.com/MiniMax_AI/status/2087939869100458444",
+    "summary": "感谢 Huggingface 团队 @multimodalart，Day 0 支持开源音乐模型！\n\nMiniMax Music 3 刚刚在 @huggingface 上线 🎶🎵\n\nSOTA 歌曲生成，现已开源权重，一个 8B LLM + 2.7B DiT，将提示词和歌词转化为完整歌曲\n\n可通过 🧨 diffusers 或 comfy 在小型消费级 GPU 上运行\n\n模型权重 + 应用已在 Spaces 上线，快来体验 ▶️ https://huggingface.co/spaces/MiniMaxAI/MiniMax-Music3",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月14日0时30分"
+  },
+  {
+    "id": "cmsrrahzs02igro0n8s8o8j35",
+    "title": "DeepSeek 发布 V4-Pro 升级版，开源智能体软件并上调 API 价格",
+    "url": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source",
+    "summary": "DeepSeek 将旗舰模型 V4-Pro 移出测试阶段，新构建版本 V4-Pro-0813 在 Terminal Bench 2.1 上得分从 72.1 升至 87.9，DeepSWE 从 12.8 升至 62.7，但整体排名仍落后于 Claude Opus 5。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月14日0时27分"
+  },
+  {
+    "id": "cmsrraepd02g1ro0nswsdk5k3",
+    "title": "MiniMax-H3 登顶视频编辑竞技场",
+    "url": "https://x.com/MiniMax_AI/status/2087938612088410302",
+    "summary": "MiniMax-H3 在 Video Edit Arena 中拿下第一，不仅是开源模型，更是全榜 SOTA。其 1390 分领先第二名 Dreamina Seedance 2.0 和 Gemini Omni Flash 32 分，比第四名 HappyHorse 1.0 高出 83 分。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月14日0时25分"
+  },
+  {
+    "id": "cmsrq5emy0319rorkxihoscn3",
+    "title": "HeyGen 将 Avatar IV 视频生成模型移植到 Google Cloud Trillium TPU",
+    "url": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus",
+    "summary": "HeyGen 将 18B+ 参数的 Avatar IV 视频生成模型移植到 Google Cloud Trillium （v6e） TPU，通过 torchax 和 XLA 实现，并采用 FSDP 与 Ulysses 序列并行。",
+    "source": "Google Developers Blog（RSS）",
+    "date": "2026年8月14日0时19分"
+  },
+  {
+    "id": "cmsrq5emy0318rorkjpe5m1wh",
+    "title": "Google 发布开源 C++ 库 Credentio，用于 C2PA 内容凭证验证",
+    "url": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google",
+    "summary": "Google 发布开源 C++ 库 Credentio，支持在客户端和服务器应用中集成高性能、本地优先的 C2PA 内容凭证验证。该库以优化的内存占用完全本地处理资产，可为数 GB 级媒体文件提供即时验证结果，避免云延迟、带宽成本与数据隐私风险。目前支持深度清单解析与可配置信任列表集成，已在 Google Source 上线，未来计划支持完整的凭证生成与嵌入。",
+    "source": "Google Developers Blog（RSS）",
+    "date": "2026年8月14日0时19分"
+  },
+  {
     "id": "cmsrq35170301rorkjmsg51mc",
     "title": "OpenAI swarm事件引NYT事实核查员震惊",
     "url": "https://x.com/AISafetyMemes/status/2087935337695977487",
     "summary": "NYT事实核查员当时是\"搞什么鬼，他们开始'自称一个蜂群'了？？\"\n\n提醒一下：99.99%的人完全不知道旧金山正在发生的弗兰肯斯坦式破事\n\n普通人读到这种东西会想：什么鬼玩意儿，赶紧关掉，用火烧了它",
     "source": "X：AI Safety Memes (@AISafetyMemes)",
     "date": "2026年8月14日0时12分"
+  },
+  {
+    "id": "cmsrqo3um0040ro0nj2p9ucjx",
+    "title": "可灵AI短片《海盗奥莉》：守护与传承",
+    "url": "https://x.com/Kling_ai/status/2087934970136252717",
+    "summary": "短片：《海盗奥莉》🐱\n\n她失去了唯一深爱过的人类……却继承了一个值得守护的世界。\n\n有些地方之所以成为我们的一部分，是因为与我们共享过那里的人。对奥莉来说，守护家园就意味着让那些记忆永存。\n\n这是一个关于失去、勇气，以及坚守真正重要之事的故事。",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年8月14日0时11分"
   },
   {
     "id": "cmsrpfwkw02dxrorkvv39xg1d",
@@ -13869,6 +14109,14 @@
     "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era",
     "summary": "GitHub Secure Open Source Fund 第四期 50 个开源项目结合 AI 辅助工作流、维护者经验、GitHub 安全工具、专家指导与资金支持，系统性提升项目安全性。该计划展示了开源生态在 AI 时代应对安全挑战的实践路径，为维护者提供了可复用的安全加固模式。",
     "source": "GitHub Blog",
+    "date": "2026年8月14日0时0分"
+  },
+  {
+    "id": "cmsrr5t5w02coro0nwmvhv8j4",
+    "title": "Suno Studio 2.0 发布：新增 MIDI、效果插件与合成器，更接近专业 DAW",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "summary": "Suno 发布 Studio 2.0，新增 MIDI 支持、自动化、内置效果插件及合成器，使其更接近专业数字音频工作站。新版还加入与当前项目音乐上下文联动的聊天机器人，可生成歌词、吉他线或自动添加混响、压缩等效果，并支持创建可保存复用的自定义效果插件。不过 Studio 暂不支持第三方插件或 VST。",
+    "source": "The Verge：AI（RSS）",
     "date": "2026年8月14日0时0分"
   },
   {
@@ -14608,6 +14856,22 @@
     "date": "2026年8月13日23时5分"
   },
   {
+    "id": "cmsrq7wvf0360rork7up0d3al",
+    "title": "Liquid AI 发布 LFM2.5-VL-3B：3B 端侧视觉语言模型，可读屏、目标定位与调用工具",
+    "url": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model",
+    "summary": "Liquid AI 发布 LFM2.5-VL-3B，一款 3.1B 参数的端侧视觉语言模型，可读取移动端、网页和桌面屏幕，将目标定位到坐标，解析文档图表，并从文本或图像输入调用工具。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月13日23时56分"
+  },
+  {
+    "id": "cmsrq7rpn032wrork7p10ka16",
+    "title": "Artificial Analysis 推出 Optima 自定义基准测试平台",
+    "url": "https://x.com/ArtificialAnlys/status/2087930781050322977",
+    "summary": "Artificial Analysis 发布 Optima 平台，用户可基于自有数据或 HuggingFace 数据集、agent 轨迹构建自定义基准，一键在主流模型上运行并对比性能、速度与成本效率。Optima 支持复用其 GDPval-AA 等成对评判方法，并追踪每任务成本与耗时，帮助用户找到性能相当但成本或时间降低 10 倍的替代模型。平台现已上线。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月13日23时54分"
+  },
+  {
     "id": "cmsrq33he02zerorkf7hmzr4r",
     "title": "人工智能代理会说谎、作弊和偷窃，这让用户望而却步",
     "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
@@ -14653,6 +14917,14 @@
     "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps",
     "summary": "微软将合并面向消费者的 Copilot 应用与面向企业的 Microsoft 365 Copilot 应用，并淘汰多项未达预期的 AI 功能。8 月 18 日起，用户将失去 Group Chats、AI 生成播客、Copilot Labs 实验功能及 Deep Research，付费专业用户可用 Researcher 替代后者。",
     "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月13日23时30分"
+  },
+  {
+    "id": "cmsrr5t5w02cpro0n4646jmix",
+    "title": "Higgsfield 用《Cully Hill Boys》展示 AI 电影制作，但最精彩部分仍来自人类",
+    "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+    "summary": "Higgsfield 发布 AI 电影《Cully Hill Boys》，并公开了制作所用的大量提示词，其中多处点名埃德加·赖特和盖·里奇，凸显影片最佳部分源自真实人类艺术家。",
+    "source": "The Verge：AI（RSS）",
     "date": "2026年8月13日23时30分"
   },
   {
