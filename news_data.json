@@ -14792,12 +14792,100 @@
     "date": "2026年8月13日1时10分"
   },
   {
+    "id": "cmsr6vx190n2oroz2lvimkjcg",
+    "title": "OpenAI Codex 用户破 1500 万并重置用量",
+    "url": "https://x.com/testingcatalog/status/2087797847550734827",
+    "summary": "OPENAI 🔥：Codex 达成 1500 万用户里程碑，并重置了用量限制。\n\nCodex Realtime 是一大解锁 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月13日15时6分"
+  },
+  {
+    "id": "cmsr7yfct0o8uroz2vmbndani",
+    "title": "Dyna Robotics 发布 Dyna-2：基于100万小时人类视频预训练的世界-动作模型",
+    "url": "https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video",
+    "summary": "Dyna Robotics 发布 Dyna-2，一个在超100万小时第一人称人类视频上预训练的世界-动作模型（WAM），用于机器人操作。研究团队验证了从1，000到1，000，000小时数据的缩放定律，并首次将该定律零样本迁移至未见过的机器人数据；视频联合去噪在39/39任务上优于仅动作训练，将零样本机器人MSE从0.340降至0.120。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月13日15时42分"
+  },
+  {
+    "id": "cmsr7yg2l0o9broz26lw2t1bx",
+    "title": "swyx 将在 MongoDB .local 谈 AI 智能体与嵌入",
+    "url": "https://x.com/swyx/status/2087805426750632290",
+    "summary": "swyx 与 Latent Space 团队今日出席 MongoDB .local buildfest，将讨论 AI 智能体基础设施、嵌入/重排序技术现状、可穿戴 AI 及托管 MCP 等话题。演讲嘉宾包括 Voyage AI 应用 ML 负责人 Frank Liu、Mentra CTO 及 MongoDB CTO Jim Scharf。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月13日15时36分"
+  },
+  {
+    "id": "cmsr8dc1f0p7xroz2t05j3bjd",
+    "title": "DeepSeek撤回V4 Pro 0813发布公告",
+    "url": "https://x.com/foxshuo/status/2087802387646079328",
+    "summary": "DeepSeek官网撤下V4 Pro 0813发布公告，疑似回滚，但API文档未变。该模型上线后测试表现平平，Artificial Analysis评分全球第9，与GLM-5.2相当，不及Kimi K3。官方未回应，外界猜测部署问题或推错模型。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月13日15时24分"
+  },
+  {
+    "id": "cmsr7y9n00o5yroz2idnvf5sh",
+    "title": "阿里云AgentLoop：游戏智能体生产环境优化法",
+    "url": "https://x.com/alibaba_cloud/status/2087802373607391388",
+    "summary": "🎮 游戏智能体在演示中表现良好，但在生产环境中会失败。🔍 一套为期 3 天、共 7 个步骤的 AgentLoop 方法：• 追踪证据，而非声明 • 评估工具与 API 事实 • 用技能护栏修复根本原因 • 用数据集与告警进行回归测试 https://click.alibabacloud.com/m/20000002266/ #AIAgent #GameDev #AgentLoop #LLMOps #CodingAgent",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月13日15时24分"
+  },
+  {
+    "id": "cmsr6pa9p0mtaroz26bc79efi",
+    "title": "马斯克确认 SpaceX 将用员工数据训练 Grok AI：\"你们将成为 AI 的父母\"",
+    "url": "https://www.ithome.com/0/989/237.htm",
+    "summary": "马斯克在 SpaceX 全员会议上确认，公司将使用包括员工贡献数据在内的内部信息训练 Grok AI，并称员工将成为\"AI 的父母\"，让模型继承其思想与价值观。SpaceX 以 600 亿美元收购 AI 编程初创公司 Cursor 的交易预计数月内完成，公司还于周二推出可自主执行任务的 AI 智能体 Grok Bot。具体使用哪些员工数据及方式尚未明确。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日14时58分"
+  },
+  {
+    "id": "cmsr6pa9p0mtcroz2po1m6od1",
+    "title": "OpenAI 奥尔特曼：6 个月内 AI 将实现\"完美理解用户使用情境\"",
+    "url": "https://www.ithome.com/0/989/234.htm",
+    "summary": "OpenAI CEO 奥尔特曼在 2026 年 Internapalooza 活动上表示，未来 6 个月内 OpenAI 后续 AI 模型将具备\"完美理解用户使用情境\"功能，可\"读懂\"用户屏幕、录制会议和通话，并全面了解用户生活。用户可划定 AI 访问范围，AI 不会替用户直接决策，而是充当助手角色，协助处理信息量庞大的日常工作。奥尔特曼称，距离这种能力真正变得\"极其有用\"可能只差 1 代模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日14时49分"
+  },
+  {
+    "id": "cmsr6pa9p0mtfroz2a06f6rlk",
+    "title": "英特尔CEO陈立武自掏1200万美元参与200亿美元股票增发",
+    "url": "https://www.ithome.com/0/989/228.htm",
+    "summary": "英特尔将公开发行约2.105亿股普通股，融资规模扩大至200亿美元，发行价每股95美元，预计净筹资约197亿美元。CEO陈立武及一名家庭成员同意以发行价认购总计1200万美元公司股票，为其第二次以个人资金购入。此次为英特尔自1971年上市以来最大规模单次股权融资，资金将用于AI芯片迭代量产及晶圆代工业务扩张。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日14时43分"
+  },
+  {
     "id": "cmsr5szmr0lftroz2ecchyxhu",
     "title": "Codex 用户突破 1500 万，新版本即将上线",
     "url": "https://x.com/kimmonismus/status/2087790320519950378",
     "summary": "又一次重置来了；Codex 已突破 1500 万用户大关。祝贺 OpenAI，也祝贺我们。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月13日14时36分"
+  },
+  {
+    "id": "cmsr6p91l0mt7roz2mihu8vpd",
+    "title": "豆包现身美国毕业帽与樟宜机场",
+    "url": "https://x.com/AYi_AInotes/status/2087789607588892848",
+    "summary": "美国毕业帽上出现豆包等 AI 应用创意设计，且使用者并非华人面孔。同时，豆包已在新加坡樟宜机场替吉祥航空播报登机，字节跳动或正进军新加坡市场，其播报体验被认为优于航司人工播报。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月13日14时33分"
+  },
+  {
+    "id": "cmsr6pa9p0mtgroz2zopiwb7o",
+    "title": "映泰推出 EdgeComp MT-N150 工业电脑，支持独立 NPU",
+    "url": "https://www.ithome.com/0/989/209.htm",
+    "summary": "映泰发布基于英特尔 N150 处理器的工业电脑 EdgeComp MT-N150，支持来自 DEEPX 和 MemryX 的独立 NPU，面向智能安防、智慧城市场景。设备尺寸 196.5×193×45mm，支持 9~24V 宽幅 DC 供电，工作温度 0~+50°C，内置 DDR5-4800 内存插槽及多个 M.2 扩展槽位，提供三路视频输出和 2 个 1GbE 网口。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日14时31分"
+  },
+  {
+    "id": "cmsr6pa9p0mthroz2i9cu4nb4",
+    "title": "7月美国企业AI消费观察：OpenAI GPT-5.6 Sol收入超Anthropic Fable 5",
+    "url": "https://www.ithome.com/0/989/208.htm",
+    "summary": "Ramp最新AI Index数据显示，7月美国企业在Anthropic Fable 5上的支出约为OpenAI GPT-5.6 Sol的75%，顶级模型受欢迎程度不及后者。同期Anthropic企业采用率达43.5%，仍领先OpenAI的39.7%，xAI升至4%，Google降至6.2%。AI支出最高的前1%企业人均AI工具支出中位数达7，400美元，高于6月的不足5，000美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日14时31分"
   },
   {
     "id": "cmsr4qkcq0kkiroz2c8vqmyph",
@@ -14808,12 +14896,28 @@
     "date": "2026年8月13日14时2分"
   },
   {
+    "id": "cmsr67ydk0mbzroz2nkq820n6",
+    "title": "玉伯团队三个月从烧百万积分到赚百万",
+    "url": "https://x.com/lifesinger/status/2087787322171384146",
+    "summary": "玉伯（Frank Wang）称其团队不到三个月，从烧掉 100 万积分转变为赚到 100 万积分，并祝贺\"波特队长\"。他提出疑问：Skill 是否会成为比 FDE 更可行的赚钱路径。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月13日14时24分"
+  },
+  {
     "id": "cmsr4qnai0km3roz2vb3s1z0v",
     "title": "SpaceXAI 发布 Grok 4.6：面向长时运行智能体、编程与知识工作的 50 万上下文模型",
     "url": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6",
     "summary": "SpaceXAI 发布 Grok 4.6，这是基于 Grok 4.5 的后训练升级而非更大规模的基础模型，支持 500K 上下文 token、文本与图像输入，并新增 xhigh 推理强度档位。",
     "source": "MarkTechPost（RSS）",
     "date": "2026年8月13日14时18分"
+  },
+  {
+    "id": "cmsr685ph0mhnroz2el84gfuz",
+    "title": "5 年纯酿，酱香科技。自带高浓度 skill。 那还说啥了，你直接起飞不就行了？ https://github.com/liseami/ChunUI",
+    "url": "https://x.com/chunxiangai/status/2087785587772412257",
+    "summary": "5 年纯酿，酱香科技。自带高浓度 skill。 那还说啥了，你直接起飞不就行了？ https://github.com/liseami/ChunUI",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月13日14时17分"
   },
   {
     "id": "cmsr4k37a0kcmroz20n7j63b5",
