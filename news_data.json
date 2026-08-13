@@ -14792,6 +14792,78 @@
     "date": "2026年8月13日1时10分"
   },
   {
+    "id": "cmsr5szmr0lftroz2ecchyxhu",
+    "title": "Codex 用户突破 1500 万，新版本即将上线",
+    "url": "https://x.com/kimmonismus/status/2087790320519950378",
+    "summary": "又一次重置来了；Codex 已突破 1500 万用户大关。祝贺 OpenAI，也祝贺我们。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月13日14时36分"
+  },
+  {
+    "id": "cmsr4qkcq0kkiroz2c8vqmyph",
+    "title": "Qwen3.8-2.4T-A95B 开源 MoE 模型上线 HuggingFace",
+    "url": "https://x.com/rohanpaul_ai/status/2087781790400545261",
+    "summary": "Qwen3.8-2.4T-A95B，这款 2.4T 参数的开源权重混合专家模型，已上线 HuggingFace。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日14时2分"
+  },
+  {
+    "id": "cmsr4qnai0km3roz2vb3s1z0v",
+    "title": "SpaceXAI 发布 Grok 4.6：面向长时运行智能体、编程与知识工作的 50 万上下文模型",
+    "url": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6",
+    "summary": "SpaceXAI 发布 Grok 4.6，这是基于 Grok 4.5 的后训练升级而非更大规模的基础模型，支持 500K 上下文 token、文本与图像输入，并新增 xhigh 推理强度档位。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月13日14时18分"
+  },
+  {
+    "id": "cmsr4k37a0kcmroz20n7j63b5",
+    "title": "机器人 AI 模型 DYNA-2 登场：超 100 万小时人类视频训练，任务成功率可达 90%",
+    "url": "https://www.ithome.com/0/989/200.htm",
+    "summary": "具身智能公司 Dyna Robotics 发布机器人基础模型 DYNA-2，基于超 100 万小时第一人称人类视频预训练，任务成功率最高达 90%。该模型通过预测下一帧画面及应采取动作，补足传统视觉语言模型缺失的空间推理与接触物理能力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日14时15分"
+  },
+  {
+    "id": "cmsr4qkcq0kkhroz2tozzhw76",
+    "title": "Seedance 2.5 免费生成与低价策略解析",
+    "url": "https://x.com/rohanpaul_ai/status/2087784883103957007",
+    "summary": "对于视频或图像生成，迭代循环才是真正的工作流程，这使得队列延迟和生成成本对实际效果至关重要。\n\n第一次渲染测试提示词。\n\n第二次修正构图。\n\n第三次加强运动一致性。\n\n第四次通常更接近目标。\n\n🇺🇸 在 Dreamina 上可免费进行 4 次 Seedance 2.5 生成，无需排队，全速运行，持续 3 天。\n\n其全球最低定价为 $0.097/秒。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日14时14分"
+  },
+  {
+    "id": "cmsr4k37a0kcsroz2u9ogox5s",
+    "title": "支付宝 AI 版\"阿宝\"向华为鸿蒙用户开放测试",
+    "url": "https://www.ithome.com/0/989/189.htm",
+    "summary": "支付宝今日宣布，AI 版\"阿宝\"正式向华为鸿蒙用户开放测试，用户升级至最新 12.12.16 版本即可使用。首次开启需在搜索栏搜\"阿宝\"或\"蚂蚁阿宝\"，之后可通过右滑或点击左下角 AI 按钮进入。以查询公积金为例，用户只需说一句话，阿宝即可自动匹配对应小程序和服务入口，将多步跳转流程折叠成一句话。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日13时51分"
+  },
+  {
+    "id": "cmsr4k37b0kcwroz2bq4qdghb",
+    "title": "中国美协首届儿童图画书大展作品被指 AI 生成，山东美术馆回应\"已经撤下\"",
+    "url": "https://www.ithome.com/0/989/183.htm",
+    "summary": "山东美术馆\"童心绘梦--中国美术家协会首届儿童图画书大展\"中，一幅名为《把夏天装进书包》的作品被指高度疑似 AI 生成，画作多次出现儿童手指扭曲、疑似六根手指、同一画面三只手等异常。山东美术馆办公室回应称涉事作品\"已经撤下来了\"。中国美术家协会行风建设与维权处经认定该作品确系 AI 生成，已取消其入展资格。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日13时36分"
+  },
+  {
+    "id": "cmsr3i88n0fw8roz2xgaa35pm",
+    "title": "我的代理设置：用六个 AI 智能体运营多个产品与非营利组织",
+    "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+    "summary": "作者用六个 Hermes 代理（ea-agent、ops-agent、dev-agent、gtm-agent、research-agent、vps-agent）组成\"员工团队\"，以更少人力扩展多个产品和非营利组织。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月13日13时24分"
+  },
+  {
+    "id": "cmsr4k37b0kcyroz2yqb17v8n",
+    "title": "报告称 90% 高管认为 AI 未提升公司生产力，部分企业开始召回被裁员工",
+    "url": "https://www.ithome.com/0/989/181.htm",
+    "summary": "亚特兰大联邦储备银行调查显示，约 90% 企业高管认为 AI 尚未提高公司生产力，且自 2021 年以来推动生产力提升的因素更多是疫情期间的远程办公。研究交叉分析美国上市公司 5 年数据发现，AI 投资公告与 AI 裁员公告同步增加，但裁员公告后股票市场平均回报接近 0，超半数相关事件市场反应偏负面。部分企业因现实需要开始重新聘用被裁员工，但员工对 AI 的情绪明显下滑，双方信任已经破裂。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日13时22分"
+  },
+  {
     "id": "cmsr2ewlh0eumroz2x28glbey",
     "title": "阿易分享：用四类付费痛点挖掘AI产品需求",
     "url": "https://x.com/AYi_AInotes/status/2087768881020444712",
