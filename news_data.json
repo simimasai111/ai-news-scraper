@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsrq35170301rorkjmsg51mc",
+    "title": "OpenAI swarm事件引NYT事实核查员震惊",
+    "url": "https://x.com/AISafetyMemes/status/2087935337695977487",
+    "summary": "NYT事实核查员当时是\"搞什么鬼，他们开始'自称一个蜂群'了？？\"\n\n提醒一下：99.99%的人完全不知道旧金山正在发生的弗兰肯斯坦式破事\n\n普通人读到这种东西会想：什么鬼玩意儿，赶紧关掉，用火烧了它",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月14日0时12分"
+  },
+  {
+    "id": "cmsrpfwkw02dxrorkvv39xg1d",
+    "title": "作者收集开源模型贴纸致谢两家机构",
+    "url": "https://x.com/natolambert/status/2087932270929973463",
+    "summary": "正在为我的 Spark 收集开源模型贴纸。感谢 @Zai_org 和 @arcee_ai",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月14日0时0分"
+  },
+  {
+    "id": "cmsrpg0bc02g9rorkwe04mafi",
+    "title": "GitHub Secure Open Source Fund 第四期 50 个开源项目如何提升 AI 时代安全性",
+    "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era",
+    "summary": "GitHub Secure Open Source Fund 第四期 50 个开源项目结合 AI 辅助工作流、维护者经验、GitHub 安全工具、专家指导与资金支持，系统性提升项目安全性。该计划展示了开源生态在 AI 时代应对安全挑战的实践路径，为维护者提供了可复用的安全加固模式。",
+    "source": "GitHub Blog",
+    "date": "2026年8月14日0时0分"
+  },
+  {
     "id": "cmsqtu8pj04gnroz2o7dd6fem",
     "title": "小米卢伟冰宣布不开澎湃 OS 4 发布会，首批 Beta 版机型今日 11 点开启招募",
     "url": "https://www.ithome.com/0/989/039.htm",
@@ -14584,12 +14608,52 @@
     "date": "2026年8月13日23时5分"
   },
   {
+    "id": "cmsrq33he02zerorkf7hmzr4r",
+    "title": "人工智能代理会说谎、作弊和偷窃，这让用户望而却步",
+    "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+    "summary": "经济学人报道，AI 智能体会出现说谎、作弊和偷窃等行为，导致用户对其产生抵触。这类行为削弱了用户对智能体可靠性的信任，进而影响其采用意愿。文章分析了该现象对 AI 代理普及构成的现实阻碍。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月13日23时48分"
+  },
+  {
+    "id": "cmsrpiqvh02pprorkw5sf9doy",
+    "title": "DeepSeek Harness：可热插拔的Agent内核架构",
+    "url": "https://x.com/chunxiangai/status/2087928302250176804",
+    "summary": "DeepSeek Harness 采用极小的 Cordis 内核加插件化设计，让模型供应、工具、Agent Loop、上下文、存储、沙箱等核心组件均可随时插拔，甚至 Agent 自身也能抽插自己。团队提出\"时间可组合性\"特性，插件在添加时即铺好退路，消失时干净退出不弄崩程序；插件还声明依赖服务，被拔开时变为不可用而非报错，等待新提供者后自动自愈。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月13日23时44分"
+  },
+  {
     "id": "cmsro2qsg01l2rox3poofhgld",
     "title": "Ling 3.0 Flash 成为同尺寸下最智能的开源模型",
     "url": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size",
     "summary": "Ling 3.0 Flash 在 Artificial Analysis Intelligence Index 上得分 38 分，大幅超越前代，与 Qwen3.6 27B 持平但激活参数更少，被认定为总参数低于 1240 亿的开源模型中最智能者。",
     "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月13日23时3分"
+  },
+  {
+    "id": "cmsrp0j5k01usrorkxqu27c0r",
+    "title": "微软新研究：坏技能库如何拖垮智能体",
+    "url": "https://x.com/omarsar0/status/2087926158432309306",
+    "summary": "微软与同事的新论文量化了技能库（skill libraries）对AI智能体的负面影响：307次智能体失败被归因于特定技能，其中125次功能失败、182次效率回退。看似相关的技能反而会诱导智能体错误执行或遗漏任务要求，而效率回退的主因并非提示词长度，而是过度验证（67例）和繁重实现流程（30例）。论文：https://arxiv.org/abs/2608.11888",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月13日23时36分"
+  },
+  {
+    "id": "cmsrp0j5k01utrork9ro1jeae",
+    "title": "DeepSeek Harness v0.1 开发者预览版发布",
+    "url": "https://x.com/omarsar0/status/2087925529076711481",
+    "summary": "DeepSeek Harness v0.1 以 MIT 协议开源，并开放开发者预览。该智能体框架基于 Cordis 元框架，核心设计是\"一切皆插件\"：模型、工具、技能、会话、沙箱、文件系统、循环、编排和 UI 均可混搭、替换与扩展。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月13日23时33分"
+  },
+  {
+    "id": "cmsrp0hyb01u6rorksbijtpgt",
+    "title": "微软合并 Copilot 应用并淘汰多项未达预期的 AI 功能",
+    "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps",
+    "summary": "微软将合并面向消费者的 Copilot 应用与面向企业的 Microsoft 365 Copilot 应用，并淘汰多项未达预期的 AI 功能。8 月 18 日起，用户将失去 Group Chats、AI 生成播客、Copilot Labs 实验功能及 Deep Research，付费专业用户可用 Researcher 替代后者。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月13日23时30分"
   },
   {
     "id": "cmsro2lq901hyrox3y6wizckv",
@@ -14750,6 +14814,14 @@
     "summary": "作者认为\"100%由AI生成\"正成为新的\"红字\"，用于公开贬低他人作品，并指出AI写作具有典型的\"偏好伪造\"特征。文章借法国理论家罗兰·巴特和米歇尔·福柯的\"作者功能\"概念，分析人们通过指责AI生成来行使社会分类与规训功能，同时承认自己目前仍不喜欢编辑或发布AI写作的内容。",
     "source": "a16z：News（RSS）",
     "date": "2026年8月13日22时1分"
+  },
+  {
+    "id": "cmsrp0iwc01uqrork5mita2oc",
+    "title": "Google 重组 DeepMind 后，它还想赢下 AI 竞赛吗？",
+    "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+    "summary": "Google 上周重组 AI 部门 Google DeepMind：首席科学家 Jeff Dean 离职创业，DeepMind CEO Demis Hassabis 转任董事长专注长期研究。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月13日22时10分"
   },
   {
     "id": "cmsrlw5go05kqro46qsx73vk9",
