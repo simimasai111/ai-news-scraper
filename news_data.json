@@ -14792,6 +14792,54 @@
     "date": "2026年8月13日1时10分"
   },
   {
+    "id": "cmsrfgfgt0xroroz2bzjqn71n",
+    "title": "DeepMind 论文：AGI 通往 ASI 的四条路径",
+    "url": "https://x.com/rohanpaul_ai/status/2087857950035476570",
+    "summary": "Google DeepMind 新论文提出 AGI 迈向 ASI 的四条技术路径：持续扩展算力与数据、超越 Transformer 的算法范式转变、递归自我改进，以及多智能体集体智能。论文指出 ASI 可能并非突然降临，而是 AI 加速 AI 研发、科学工具增强所引发的一系列加速变化。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日19时5分"
+  },
+  {
+    "id": "cmsrfgdsf0xqcroz2g0ihrtoz",
+    "title": "DeepSeek-V4-Pro 正式版上线",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485770&idx=1&sn=dab0be341cb46a410ec40a062a5cb895",
+    "summary": "DeepSeek 发布 V4 Pro 正式版，已同步在 APP、网页端和 API 更新上线，用户可在 APP 或网页端选择\"专家模式\"使用。正式版增强 Agent 能力，API 原生支持 OpenAI Responses API 格式并适配 Codex。",
+    "source": "公众号：DeepSeek（深度求索）",
+    "date": "2026年8月13日19时19分"
+  },
+  {
+    "id": "cmsrfaw5c0xo2roz2s8b4p2sv",
+    "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+    "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-13",
+    "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+    "source": "DeepSeek：API 更新日志",
+    "date": "2026年8月13日19时16分"
+  },
+  {
+    "id": "cmsrf9ym60xkgroz2876sxesy",
+    "title": "DeepSeek API 调价方案公布，8 月 17 日生效",
+    "url": "https://www.ithome.com/0/989/418.htm",
+    "summary": "深度求索宣布对 DeepSeek API 采用峰谷定价，空闲时段价格为高峰时段一半，新价格于 8 月 17 日 00：00 生效。高峰时段为北京时间 9：00-12：00、14：00-18：00。deepseek-v4-flash 空闲时段输入（缓存未命中）1.5 元/百万 tokens、输出 4.5 元/百万 tokens，deepseek-v4-pro 对应为 4.5 元和 13.5 元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日19时14分"
+  },
+  {
+    "id": "cmsrfgefo0xquroz2yv62k7d7",
+    "title": "亚信×火山引擎：6000+席位用TRAE跑通企业级AI研发",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543468&idx=1&sn=0d36858dbbe5fe60c82f092fd66487cd",
+    "summary": "亚信与火山引擎合作，通过TRAE IDE将AI Coding融入研发交付全链路，已实现6000+研发席位规模化部署，研发团队AI编码贡献率达32%，SDLC整体提效15%，核心团队代码缺陷逃逸率下降69%~71%。双方还基于TRAE打造\"天枢·元衡\"Token ERP，构建精准计量、分级计费、智能核算的三层度量体系，实现Token成本可算、可控、可审计。",
+    "source": "公众号：火山引擎",
+    "date": "2026年8月13日19时12分"
+  },
+  {
+    "id": "cmsrfgmex0xuoroz26kn6jqe5",
+    "title": "Claude 的\"红字\"水印：目前不可见，但即将覆盖所有处理内容",
+    "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now",
+    "summary": "Anthropic 宣布将为其所有模型处理的内容（不仅是生成内容）添加机器可读水印，以符合欧盟《人工智能法案》要求。所有新模型在全球范围内将从发布首日起嵌入不可见水印，生成文件还将附带数字签名来源元数据。Anthropic 采用\"从轨道上核平\"策略，即使欧盟对标准编辑等辅助功能不作要求，也会对处理内容打标，实际效果需待检测工具发布后才能验证。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月13日19时10分"
+  },
+  {
     "id": "cmsredyaf0w5yroz2yqfemcgo",
     "title": "顶级AI实验室研究员曾就自动化AI研究发出警告，其预测的多个里程碑已实现",
     "url": "https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen",
@@ -14806,6 +14854,14 @@
     "summary": "Anthropic 在 Ramp 7 月数据中企业采用率达 43.5%，领先 OpenAI 的 39.7%，月度增幅 1.1 个百分点约为后者 0.23 点的近五倍。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月13日18时2分"
+  },
+  {
+    "id": "cmsrf9ym70xkoroz2193g7o3o",
+    "title": "谷歌 DeepMind 换帅内情：Gemini 延期两月后编程能力仍落后友商，布林亲自督战并要求\"全力投入\"",
+    "url": "https://www.ithome.com/0/989/384.htm",
+    "summary": "路透社援引知情人士称，谷歌下一代旗舰 Gemini 模型发布时间已推迟约两个月，内部测试显示其在编程等关键能力上仍落后于竞争对手。开发团队存在多名项目负责人、内讧不断，算力紧张与协调问题叠加，使编程方向一度资源不足。8 月 5 日 DeepMind 大规模调整，哈萨比斯转任董事长，卡武库奥卢接任主要管理并拥有最终决定权，布林则敦促加快开发并推动\"递归自我改进\"研究。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日18时27分"
   },
   {
     "id": "cmsrdbdwd0v32roz23sibeboc",
