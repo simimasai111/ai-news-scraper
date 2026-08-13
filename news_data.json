@@ -14792,12 +14792,156 @@
     "date": "2026年8月13日1时10分"
   },
   {
+    "id": "cmsrbiy0s0smmroz27vrvhydq",
+    "title": "95后厂二代用千问搭客户管理工作台，开发信效率翻倍",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488382&idx=1&sn=8a107d536f91de80fce86855a6de1c09",
+    "summary": "95后厂二代全子安接班家中经营23年的注塑配件厂后，用千问搭建客户管理工作台，并创建客户管理Skill，将300多个老客户资料自动整理、归类、联网查询并打分排序。开发信发送量从每天最多十封提升到三五十封，回复率从一季度一两个提升到一个月两三个。",
+    "source": "公众号：千问APP（阿里）",
+    "date": "2026年8月13日17时25分"
+  },
+  {
+    "id": "cmsrb5wkc0s9iroz2nwwd7fze",
+    "title": "哈萨比斯卸任前提议设立AI安全标准机构",
+    "url": "https://x.com/kimmonismus/status/2087831715645366741",
+    "summary": "据WSJ报道，Demis Hassabis在卸任DeepMind CEO前，曾向其他AI实验室负责人及特朗普政府官员（包括财长Scott Bessent和科技顾问Michael Kratsios）提议成立一个行业资助的标准制定机构。该机构将与联邦机构和美国国家实验室合作，测试模型的国家安全风险，并界定哪些系统属于\"前沿级\"。这表明各方都在推动AI监管。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月13日17时20分"
+  },
+  {
+    "id": "cmsrb67pp0sdvroz2w1uzjjvr",
+    "title": "腾讯CSO：WorkBuddy月访问超2100万，毛利逼近云业务",
+    "url": "https://x.com/thexpin/status/2087831524934877416",
+    "summary": "腾讯CSO James Mitchell称中国token价格虽低但生产成本更低，推动WorkBuddy付费用户毛利率接近腾讯云水平。WorkBuddy月访问量超2100万，具备构建类Codex生态的规模（Codex用户超1500万）。腾讯AI投入优先级为：更大混元模型、WorkBuddy算力、云容量；管理层称当前多数AI支出为一次性投入。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月13日17时20分"
+  },
+  {
+    "id": "cmsrb64zn0scoroz2z8p6mfij",
+    "title": "PixVerse 作品获赞：温柔而精美",
+    "url": "https://x.com/PixVerse_/status/2087830073374019892",
+    "summary": "这个太温柔了，制作精美。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月13日17时14分"
+  },
+  {
+    "id": "cmsrb64zn0scproz2q94dzua0",
+    "title": "PixVerse 猫骑士能量不可抗拒",
+    "url": "https://x.com/PixVerse_/status/2087829857602355621",
+    "summary": "猫骑士的能量令人无法抗拒\n\n「ねこねこ☆らいだぁ♪」\n\n#pixverse #pixversecpp @Pixverse_",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月13日17时13分"
+  },
+  {
+    "id": "cmsr8ugqu0pliroz2tuunotj4",
+    "title": "英国研究多种防范措施，避免恐怖分子利用 AI 制造生物武器",
+    "url": "https://www.ithome.com/0/989/261.htm",
+    "summary": "英国政府准备监管人工智能在基因合成领域的应用，正研究多种防范措施，避免恐怖分子或恶意行为者利用基因合成制造合成 DNA。待定措施包括修改现行法律建立基因合成筛查制度，要求实验室确认客户身份并上报异常订购。英国还考虑是否介入 AI 企业与学术机构的合作，并强调需与全球其他主要基因合成中心协调实施。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日16时8分"
+  },
+  {
+    "id": "cmsr90wgl0ps0roz2m49tmhah",
+    "title": "DeepSeek-V4-Pro 以低价逼近 GPT-5.6",
+    "url": "https://x.com/rohanpaul_ai/status/2087813049537401235",
+    "summary": "DeepSeek-V4-Pro （Max） 在 Code Arena WebDev AutoEval 获 1607 分，仅落后 GPT-5.6 Sol xHigh 15 分，但混合 token 价格约为其 1/31。该开源权重模型定价 $0.435/$0.87 每百万 token，超越 Opus-4.8 与 GLM-5.2 等高价竞品，位列总榜约第 8。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日16时6分"
+  },
+  {
+    "id": "cmsrazls50s4hroz25c5fh8o5",
+    "title": "寒武纪已完成五大国产大模型适配，第六代芯片架构正在研发中",
+    "url": "https://www.ithome.com/0/989/284.htm",
+    "summary": "寒武纪在2026年半年度业绩说明会上透露，已完成GLM、DeepSeek、Qwen、Kimi、MiniMax五款国产主流大模型的推理适配。上半年营收59.96亿元，同比增长108.13%；归母净利润23.11亿元，同比增长122.61%。董事长陈天石确认第六代智能处理器微架构和指令集仍在研发中，将重点优化大模型训练推理场景。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日16时57分"
+  },
+  {
+    "id": "cmsra3mff0qvoroz2ekcqkp5h",
+    "title": "ARC Prize 2024：测试时训练潜力巨大",
+    "url": "https://x.com/fchollet/status/2087821894581973426",
+    "summary": "François Chollet 认为测试时训练（TTT）潜力巨大，并希望其走向主流。ARC Prize 2024 将 SOTA 从 33% 提升至 55.5%，创 2020 年以来最大年度增幅，TTT 是自 2019-2020 年上下文学习以来 LLM 泛化能力的最大跃升。冠军为 the ARChitects 团队。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月13日16时41分"
+  },
+  {
+    "id": "cmsrabdyh0r8lroz2kbisx9y5",
+    "title": "Claude Code v2.1.231 发布",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.231",
+    "summary": "Anthropic 发布 Claude Code v2.1.231。该版本为终端内的智能体编码工具，可通过自然语言指令执行日常任务、解释复杂代码并处理 git 工作流，帮助开发者提升编码速度。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月13日16时38分"
+  },
+  {
+    "id": "cmsr9xuu30qpdroz25bw1r7vf",
+    "title": "突破WAL：用Antithesis在15分钟内复现并验证SQLite的WAL-Reset bug",
+    "url": "https://antithesis.com/blog/2026/wal-reset-bug",
+    "summary": "作者用Claude结合Antithesis，在15分钟内复现了SQLite 3.51.3修复的WAL-Reset bug，该bug自2010年存在，此前SQLite团队从未有机复现过。同样的工作负载和断言在3.51.3上运行通过。相比之下，Tailscale因该bug经历了6个月的宕机，团队花费数周才定位并验证修复。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月13日16时36分"
+  },
+  {
+    "id": "cmsra3hxr0qtnroz2p9uvtc31",
+    "title": "谷歌7年TPU利用率仍100%，杰文斯悖论生效",
+    "url": "https://x.com/rohanpaul_ai/status/2087820225156956565",
+    "summary": "谷歌云AI与基础设施副总裁Amin Vahdat称，谷歌7至8年前的TPU利用率仍达100%，杰文斯悖论正全面显现--效率提升反而引爆使用量。与此同时，CoreWeave刚签下NVIDIA A100多年期合同，合同延续至2029年，即该芯片发布约9年后仍有客户承诺长期容量，且旧GPU世代已基本售罄。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日16时35分"
+  },
+  {
+    "id": "cmsrazls50s4oroz2jpx8zpje",
+    "title": "第二届世界人形机器人运动会本月开赛，\"机器人之家\"运动员村启用",
+    "url": "https://www.ithome.com/0/989/270.htm",
+    "summary": "第二届世界人形机器人运动会将于8月22日在国家速滑馆\"冰丝带\"开赛，共吸引六大洲16个国家的666支队伍、2056台机器人参赛，队伍总量同比增长138%。赛事打造\"机器人之家\"运动员村，配备\"一机一码\"数字化管理，30秒完成存取登记，并已接入全部666支赛队、2056台机器人的运行数据。充电区设200个充电柜，可同时满足不少于1200块电池的充电需求。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日16时34分"
+  },
+  {
+    "id": "cmsr90xam0psjroz205gcoflq",
+    "title": "fofr 新作：结尾女子惊恐成点睛之笔",
+    "url": "https://x.com/fofrAI/status/2087811935139958788",
+    "summary": "最后那个吓坏了的女人是我最喜欢的细节",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月13日16时2分"
+  },
+  {
+    "id": "cmsra3nkd0qw4roz2qqdeipjx",
+    "title": "腾讯上半年营收561亿美元，AI基建致FCF转负",
+    "url": "https://x.com/thexpin/status/2087817276863226159",
+    "summary": "腾讯2026年上半年营收561亿美元（同比+10%），毛利321亿美元（+12%），但因Hunyuan、WorkBuddy及云客户的AI基础设施投入，自由现金流转负至-19亿美元；剔除算力预付款后FCF为53亿美元。总裁刘炽平称，腾讯正构建盈利的AI原生业务，先自用算力再通过腾讯云出租冗余，最坏情况下也能靠云租赁收回基建成本。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月13日16时23分"
+  },
+  {
+    "id": "cmsr90wgk0przroz2h7nt3fio",
+    "title": "GPU折旧周期中的有趣数据：CoreWeave签下A100多年期合同",
+    "url": "https://x.com/rohanpaul_ai/status/2087815879652483122",
+    "summary": "CoreWeave与客户签下多年期NVIDIA A100合同，延续至2029年，即该2020年发布的GPU在推出约9年后仍有客户承诺长期容量。CoreWeave在10-K中将技术设备使用寿命从5年上调至6年，并称旧GPU集群可在合同到期后转向托管推理。黄仁勋指出，CUDA让Ampere、Hopper和Blackwell架构在其生命周期内持续升级，提升利用率与耐用性。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日16时17分"
+  },
+  {
+    "id": "cmsraiagk0rnfroz2ncyc6ubf",
+    "title": "玉伯期待Grok 4.7超越Fable 5",
+    "url": "https://x.com/lifesinger/status/2087814935317520746",
+    "summary": "有点期待 Grok 4.7 干掉 Fable 5",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月13日16时14分"
+  },
+  {
     "id": "cmsr6vx190n2oroz2lvimkjcg",
     "title": "OpenAI Codex 用户破 1500 万并重置用量",
     "url": "https://x.com/testingcatalog/status/2087797847550734827",
     "summary": "OPENAI 🔥：Codex 达成 1500 万用户里程碑，并重置了用量限制。\n\nCodex Realtime 是一大解锁 👀",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月13日15时6分"
+  },
+  {
+    "id": "cmsr9113i0pu7roz2dlx86ti1",
+    "title": "荣耀Robot Phone上手：云台相机成最大亮点",
+    "url": "https://x.com/thexpin/status/2087809630789673031",
+    "summary": "我们刚刚拿到了荣耀的 Robot Phone。它与普通智能手机最大的不同在于搭载了一个更像大疆 Osmo Pocket 的云台相机。\n\n云台带来了令人印象深刻的防抖效果，不过手机重量接近 250g。配置包括骁龙 8 Elite Gen 5 和 7，060mAh 电池。起售价 9，999 元（约 1，400 美元）。\n\n它并不完美，但确实很有趣。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月13日15时53分"
   },
   {
     "id": "cmsr7yfct0o8uroz2vmbndani",
@@ -14830,6 +14974,14 @@
     "summary": "🎮 游戏智能体在演示中表现良好，但在生产环境中会失败。🔍 一套为期 3 天、共 7 个步骤的 AgentLoop 方法：• 追踪证据，而非声明 • 评估工具与 API 事实 • 用技能护栏修复根本原因 • 用数据集与告警进行回归测试 https://click.alibabacloud.com/m/20000002266/ #AIAgent #GameDev #AgentLoop #LLMOps #CodingAgent",
     "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "date": "2026年8月13日15时24分"
+  },
+  {
+    "id": "cmsr8ugqv0plproz2ixupioj1",
+    "title": "辛顿、李飞飞、吴恩达齐发声：呼吁保持 AI 一定程度的开放",
+    "url": "https://www.ithome.com/0/989/245.htm",
+    "summary": "诺贝尔奖得主辛顿、World Labs CEO 李飞飞及 Coursera 联合创始人吴恩达在 Ai4 大会上分别阐述 AI 开放立场，均认为 AI 需保持一定程度的开放，担忧技术发展速度最终由少数大型公司掌控。辛顿反对开放权重模型，认为其可被低成本再训练用于网络攻击，但承认相关争论\"已经输了\"；吴恩达主张推动开放以提升美国竞争力；李飞飞则反对将问题简化为开放与封闭的二元对立。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日15时21分"
   },
   {
     "id": "cmsr6pa9p0mtaroz26bc79efi",
