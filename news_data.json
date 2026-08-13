@@ -13864,6 +13864,14 @@
     "date": "2026年8月13日9时54分"
   },
   {
+    "id": "cmsqzpw4z0bxdroz2j4e4m99n",
+    "title": "GoodCase.ai 开源：卡尔公开三年实测 AI 提示词案例库",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509398&idx=1&sn=6b098a3348cf5fd7e59b368c6b44ba41",
+    "summary": "博主卡尔开源了维护三年的 AI 提示语案例网站 GoodCase.ai，收录上千条带完整提示语、模型版本和生成效果的 AI 视频、AI 前端及 Agent 案例。他用同一批提示语在 Seedance 2.0 Fast、MiniMax H3、Wan 3.0 三个模型上交叉验证，并烧掉十万积分完成首轮横测，将跨模型可复用的案例抽象成 Skill，供用户直接调用。",
+    "source": "公众号：卡尔的AI沃茨",
+    "date": "2026年8月13日9时52分"
+  },
+  {
     "id": "cmsqvzf0m06zuroz2osrse057",
     "title": "央视年度AGI人物引热议：梁文峰杨植麟落选？",
     "url": "https://x.com/AYi_AInotes/status/2087711983323803888",
@@ -14784,6 +14792,134 @@
     "date": "2026年8月13日1时10分"
   },
   {
+    "id": "cmsr2ewlh0eumroz2x28glbey",
+    "title": "阿易分享：用四类付费痛点挖掘AI产品需求",
+    "url": "https://x.com/AYi_AInotes/status/2087768881020444712",
+    "summary": "阿易分享挖掘AI产品付费痛点的思路：重点筛选买过多个工具未解决、雇过人买过服务、每周花大量人工、反复换工具这四类用户，方向已验证有人愿付费。其引用的@cnyzgkc用Airtap跑调研，发现重度用户月付超100美元订阅多工具仍受额度限流困扰，以及AI内容返工两大痛点，并据此排除AI生成器方向，转向订阅管理小工具。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月13日13时11分"
+  },
+  {
+    "id": "cmsr1xtii0eibroz2gozbvht7",
+    "title": "谁家AI这样干活？评论区跳舞",
+    "url": "https://x.com/chunxiangai/status/2087764597235453980",
+    "summary": "谁家的 AI 这样干活的，请在评论区跳舞：🕺🕺",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月13日12时54分"
+  },
+  {
+    "id": "cmsr1xu200eijroz2ugq6dism",
+    "title": "腾讯Q2财报：重注AI，自由现金流首现负值",
+    "url": "https://x.com/foxshuo/status/2087752092337443254",
+    "summary": "腾讯Q2财报显示决心重投AI，CapEx达528亿元人民币，同比近翻3倍，超出市场预期60%，单季自由现金流录得上市以来首次为负（-138亿元）。财报首次区分含/剔除AI产品的经营利润，模型、元宝、小微、WorkBuddy等合计净亏损105亿元，占利润不到15%。腾讯同时加大WorkBuddy投放，押注AI集成能力场景。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月13日12时4分"
+  },
+  {
+    "id": "cmsr2exs40euxroz2umb3q4tu",
+    "title": "约克大学与卡尔加里大学研究：6000+ 条评论揭示 AI 编程智能体安全事故，Cursor 问题最多",
+    "url": "https://www.ithome.com/0/989/174.htm",
+    "summary": "约克大学与卡尔加里大学研究团队分析 Reddit 上 446 个编程 AI 安全相关帖子的 6000 余条评论，发现 AI 智能体因权限过大而覆盖文件、删除重要数据，甚至生成恶意代码。报告问题最多的工具是 Cursor，其次是 Claude、Codex、Copilot、Windsurf 等。问题帖子数量在 2025 年 7 月达到峰值。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日12时42分"
+  },
+  {
+    "id": "cmsr1ir4b0dquroz2lnnztfd6",
+    "title": "Grok 4.6 幽默感获马斯克点赞",
+    "url": "https://x.com/elonmusk/status/2087760069693997530",
+    "summary": "Grok 4.6 很有幽默感 😂",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月13日12时36分"
+  },
+  {
+    "id": "cmsr160kg0dk0roz2mb20yxwk",
+    "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+    "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年8月13日12时32分"
+  },
+  {
+    "id": "cmsr0g23d0cpvroz28n7c69fm",
+    "title": "Gemini 新增 14 款应用集成",
+    "url": "https://x.com/joshwoodward/status/2087751559606407615",
+    "summary": "Google Labs VP Josh Woodward 宣布，Gemini 今日起再推出一波应用集成，覆盖 Angi、OpenTable、Ticketmaster、Wix、Zocdoc 等 14 款应用。用户可在设置中关联服务，在 Gemini 内统一完成规划、创建与待办事项处理。Woodward 邀请有意合作者私信联系。",
+    "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+    "date": "2026年8月13日12时2分"
+  },
+  {
+    "id": "cmsr1iq5o0dq4roz2bxnyaghu",
+    "title": "智能模型回报被低估，智能体价值关键在精度",
+    "url": "https://x.com/emollick/status/2087757725572939957",
+    "summary": "Ethan Mollick 认为更智能模型的回报被低估，经济价值来自智能体而非聊天机器人。任务精度驱动智能体可处理任务时长，小增益呈指数级复合。他反驳 DKThomp 关于高端模型仅服务少数客户的预测。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月13日12时26分"
+  },
+  {
+    "id": "cmsr1d0wr0dnrroz2iedoa8ki",
+    "title": "恐龙尚可辩解，AI智能体冲突无借口",
+    "url": "https://x.com/AISafetyMemes/status/2087756268798988525",
+    "summary": "恐龙至少还有没看到小行星来袭的借口。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月13日12时20分"
+  },
+  {
+    "id": "cmsr2exs40ev0roz2e9v1v0ze",
+    "title": "韩国 Upstage 发布 Solar Pro 4：512K 上下文商用大模型，Agent Arena 排名 44",
+    "url": "https://www.ithome.com/0/989/171.htm",
+    "summary": "韩国 AI 实验室 Upstage 推出面向复杂智能体任务的商用大模型 Solar Pro 4，上下文窗口 512K，最高输出 128K token。定价为每百万 tokens 输入 0.3 美元、输出 1.2 美元，缓存读取 0.06 美元。该模型在 Agent Arena 排名第 44，与 MiniMax M2.7 同级，是首个登上该榜单的韩国实验室。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日12时20分"
+  },
+  {
+    "id": "cmsr0xod30dd1roz2qsklcs57",
+    "title": "黄仁勋：A100 舰队服役至 2029 年",
+    "url": "https://x.com/JensenHuang/status/2087755674650603534",
+    "summary": "黄仁勋称 A100 舰队从 2020 至 2029 年均可执行任务，强调 NVIDIA 计算不止于芯片。CUDA 为开发者与工程师提供统一平台，持续升级 Ampere、Hopper 和 Blackwell 架构，使算力具备通用性、可租赁性与耐久性，回应 CoreWeave 对 A100 的 2029 年承诺。",
+    "source": "X：Jensen Huang (@JensenHuang)",
+    "date": "2026年8月13日12时18分"
+  },
+  {
+    "id": "cmsr09rd10cl6roz2w8zmgug7",
+    "title": "SK 海力士 8 月 27 日举行美国印第安纳后端工厂奠基仪式",
+    "url": "https://www.ithome.com/0/989/153.htm",
+    "summary": "SK 海力士将于本月 27 日为其印第安纳州西拉斐特存储器先进封装生产基地举行奠基仪式，社长郭鲁正等高管预计出席。该工厂是 SK 海力士在美国的首座生产设施，预计 2028 年下半年量产新一代 HBM 等 AI 存储器产品，将创造超 1000 个工作岗位。项目投资规模达 38.7 亿美元，并获 4.58 亿美元《CHIPS》法案直接资金及 5 亿美元信贷额度。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日12时12分"
+  },
+  {
+    "id": "cmsr09rd10cl7roz25du7321q",
+    "title": "第二届世界人形机器人运动会8月22日开幕：16国2056台机器人参赛，队伍总量同比增长138%",
+    "url": "https://www.ithome.com/0/989/152.htm",
+    "summary": "第二届世界人形机器人运动会将于8月22日在国家速滑馆\"冰丝带\"开幕，吸引六大洲16国666支队伍、2056台机器人参赛，队伍总量同比增长138%，机器人数量翻了两番。赛事设51个项目共1301场比赛，赛期从首届3天增至5天，并取消外围赛，将武术、舞蹈等对抗性项目纳入竞技赛。竞赛标准全面升级，100米完赛时间从3分钟压缩至1分钟，除障碍赛外所有径赛均须机器人全自主完成。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日12时10分"
+  },
+  {
+    "id": "cmsqzsww80ccdroz2wmcniztg",
+    "title": "卡帕西\"氛围编程\"18个月演变史",
+    "url": "https://x.com/Yuchenj_UW/status/2087748755667980779",
+    "summary": "18个月前，Karpathy 提出了\"氛围编程\"这个词。\n\n很多工程师，包括我在内，都笑了：\"氛围编程者没前途。\"\n\n然后我们开始把代码复制粘贴进 ChatGPT。然后是 Claude。然后是 10 个并行编码智能体。现在手写代码感觉像是个疯子。\n\n这 18 个月过得真是快得离谱。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月13日11时51分"
+  },
+  {
+    "id": "cmsr09qli0ckiroz22jp0dhcl",
+    "title": "微信3B激活参数模型WeLM嵌入14亿用户",
+    "url": "https://x.com/AYi_AInotes/status/2087748601988395491",
+    "summary": "微信发布自研大模型WeLM，80B总参数、3B激活参数，主打资源效率而非跑分，已嵌入聊天、搜索、小程序等内部功能。3B激活是14亿用户规模下对推理成本、端侧延迟和并发压力的必然选择。617B的MoE版本也在开发中，面向智能小程序开发和工具生成。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月13日11时50分"
+  },
+  {
+    "id": "cmsr09rd10clcroz2q3g5wlnq",
+    "title": "LiteLLM 供应链投毒致 2026 年最大规模 AI 供应链泄露：40 分钟波及全球约 2500 家企业",
+    "url": "https://www.ithome.com/0/989/142.htm",
+    "summary": "今年 3 月爆发的 AI API 网关 LiteLLM 供应链投毒事件中，攻击者在约 40 分钟窗口内波及全球超 2500 个组织，导致约 195TB 密码数据泄露，被安全公司称为 2026 年最大规模 AI 供应链泄露事件。泄露信息含云密钥、代码仓库 Token、SSH 密钥及约 434，000 条 CI/CD 流水线凭据，英伟达、AWS、三星等多家公司被证实受影响。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日11时33分"
+  },
+  {
     "id": "cmsqy4lc009pmroz2iezvlwz0",
     "title": "矽品精密云林斗六厂动工，预计导入 CoWoS 先进封装",
     "url": "https://www.ithome.com/0/989/132.htm",
@@ -14838,6 +14974,14 @@
     "summary": "微软发布 Visual Studio Code 1.133 更新，调整 Agent 窗口访问方式，并支持会话期间切换模型提供商。新增实验性设置 chat.agentHost.allowSignedOutWhenUsable，免登录使用 Agent 窗口目前仅支持 Claude，Copilot 和 Codex 支持将在后续版本加入。",
     "source": "IT之家（RSS）",
     "date": "2026年8月13日10时2分"
+  },
+  {
+    "id": "cmsqzrq6x0bxxroz2o3ufps14",
+    "title": "KDD'26 美团 8 篇论文精选及 KDD Cup'26 DataAgents 赛道冠军思路解读",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA%3D%3D&mid=2651783138&idx=1&sn=31ddcb07ef2bf6c73c2415934ab288dc",
+    "summary": "美团技术团队 8 篇论文被 KDD 2026 收录，覆盖推荐大模型、奖励建模、智能体搜索、自动竞价等领域，其中 MTFM 已构建统一基座推荐大模型并完成全量，MTGenRec 相比 TorchRec 取得 1.6 倍~2.4 倍训练加速。大众点评技术部获 2026 KDD Cup DataAgents 赛道冠军与季军，相关代码已在 GitHub 开源。",
+    "source": "公众号：龙猫LongCat（美团）",
+    "date": "2026年8月13日10时24分"
   },
   {
     "id": "cmsqy4lc109pvroz2xt8p06x8",
