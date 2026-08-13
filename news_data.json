@@ -13848,12 +13848,100 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmss54ydp01caro1j3lr339v7",
+    "title": "OpenAI 推 GPT-5.6 Sol Ultrafast 模式，每秒生成 750 个词元、提速 14 倍",
+    "url": "https://www.ithome.com/0/989/492.htm",
+    "summary": "OpenAI 以预览形式为最强模型 GPT-5.6 Sol 推出 Ultrafast（超高速）模式，输出速度为标准处理的 14 倍，最高每秒生成 750 个词元。该模式由 Cerebras 提供，面向事故响应、金融研究、客服语音交互等实时性要求高的场景，目前仅向一小批客户开放有限预览。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日7时2分"
+  },
+  {
+    "id": "cmss58iwp01ilro1jiw8ocxab",
+    "title": "Claude iOS 版将支持自定义 MCP 配置",
+    "url": "https://x.com/testingcatalog/status/2088038397466042621",
+    "summary": "用户将能够在 Claude iOS 版上配置和使用自定义 MCP。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月14日7时2分"
+  },
+  {
+    "id": "cmss5804m01f1ro1jmmvkqkbz",
+    "title": "早期采用AI的优质企业或加速领先",
+    "url": "https://x.com/emollick/status/2088042334902755683",
+    "summary": "就AI使用提升企业绩效的程度而言，已有初步迹象表明，早期采用AI且原本表现良好的企业可能开始超越其他企业。\n\nOpenAI的数据显示，一些企业使用AI的频率远高于其他企业，而这些企业往往拥有最高效的员工。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月14日7时17分"
+  },
+  {
+    "id": "cmss584ll01gsro1jpyeduodz",
+    "title": "Krea AI 分享 Seedance 2.5 逼真效果提示词",
+    "url": "https://x.com/krea_ai/status/2088042108921810979",
+    "summary": "seedance 2.5 在真实感方面表现惊人。\n\n在此分享我们获得的一些最佳结果的全部提示词 👇\n\ndownhill skate",
+    "source": "X：Krea AI (@krea_ai)",
+    "date": "2026年8月14日7时16分"
+  },
+  {
+    "id": "cmss58iwp01imro1jhdqxu0ot",
+    "title": "Anthropic 为 iOS 版 Claude 新增用量额度与头像功能",
+    "url": "https://x.com/testingcatalog/status/2088037814130610546",
+    "summary": "Anthropic 已在 iOS 版 Claude 中新增\"用量额度\"（Usage Credits）板块，并正在开发添加个人资料图片的功能。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月14日6时59分"
+  },
+  {
+    "id": "cmss58iwp01inro1jx4sj2g1i",
+    "title": "Claude Cowork 移动端更新后开始可用",
+    "url": "https://x.com/testingcatalog/status/2088037046044479586",
+    "summary": "最新 iOS 更新后，Claude Cowork 终于在我的移动端上开始工作了。\n\n> \"让你在旅途中也能继续 Cowork\"\n\n你们也有了吗？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月14日6时56分"
+  },
+  {
+    "id": "cmss54ydp01ccro1jpxr6fgg4",
+    "title": "备战 IPO：彭博社称 2026 年 OpenAI 年化营收有望翻番达 400 亿美元",
+    "url": "https://www.ithome.com/0/989/490.htm",
+    "summary": "彭博社报道，OpenAI 在筹备 IPO 前发展势头良好，2026 年有望实现年化收入超过 400 亿美元，较 2025 年的约 200 亿美元翻一番。联合创始人兼总裁格雷格·布罗克曼在内部公告中称，仅 7 月份月度营收增长率就增长 20% 以上。为抵御竞争，OpenAI 正通过降低部分 AI 模型价格并聘请网络安全高管来提振企业销售。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日6时49分"
+  },
+  {
+    "id": "cmss42e6501urrohvq8s239f0",
+    "title": "OpenCode Zen 上线 Gemini 3.7 Flash",
+    "url": "https://x.com/opencode/status/2088035146012270665",
+    "summary": "Gemini 3.7 Flash 现已在 OpenCode Zen 中可用。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月14日6时49分"
+  },
+  {
+    "id": "cmss45ecn0024ro27iqepko9v",
+    "title": "Grok 4.6 获赞媲美 Kimi K3",
+    "url": "https://x.com/elonmusk/status/2088033597999473050",
+    "summary": "Grok 4.6\n\n【引用 @MiaAI_lab】：我很高兴地报告，Grok 4.6 在与内核和 modding 相关的所有方面都跟 Kimi K3 一样出色。\n\n我几乎连续测试了 8 个小时，它在\"低\"努力模式下完成了所有任务。而且速度更快，消耗的 token 也明显更少。\n\n我现在将继续在其他领域进行测试。\n\n干得漂亮 @SpaceXAI 👏",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月14日6时42分"
+  },
+  {
     "id": "cmss331ud01fnrohvqv3bzid5",
     "title": "DeepSeek Harness 并行任务卡顿待优化",
     "url": "https://x.com/karminski3/status/2088023611072471356",
     "summary": "DeepSeek Harness（DSH）并行处理复杂任务时页面易卡死，前端需优化。用户反馈其启动门槛高、Thinking 文字闪烁过快，建议借鉴 Codex 多 Tab 面板、开箱即用插件及直接预览产出物，并尽早支持多模态。",
     "source": "X：karminski (@karminski3)",
     "date": "2026年8月14日6时3分"
+  },
+  {
+    "id": "cmss45he7003bro27x9umrmni",
+    "title": "CLAUDE.md 为何不断膨胀？智能体编码中的\"灾难性记忆\"",
+    "url": "https://x.com/rohanpaul_ai/status/2088030083726336287",
+    "summary": "新研究提出\"灾难性记忆\"概念：智能体指令文件（如 CLAUDE.md）中的规则易增难删，导致提示词持续膨胀。对 1，867 个 GitHub 仓库的分析显示，指令数量平均增长 226%，且删除概率随时间递减。论文建议为每条指令附加记录其缘由的注释，在 51 步 IFEval 测试中可将多余提示词从 +211.3% 降至 +1.4%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日6时29分"
+  },
+  {
+    "id": "cmss45i6j003zro278dir2ugw",
+    "title": "Gemini 3.7 Flash 发布，价格降五成",
+    "url": "https://x.com/fofrAI/status/2088028862462538218",
+    "summary": "这是个好模型。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月14日6时24分"
   },
   {
     "id": "cmss2nt0d04uaroh6kium3gk6",
@@ -13870,6 +13958,30 @@
     "summary": "烧了1亿token了，正在验证deepseek-v4-pro-0813问题出在哪里，一会给大家带来评测+硬核解析视频。",
     "source": "X：karminski (@karminski3)",
     "date": "2026年8月14日6时1分"
+  },
+  {
+    "id": "cmss4inwf01u5ro27j5wwtjzp",
+    "title": "Emad 发问：蠢人该有超级智能吗",
+    "url": "https://x.com/EMostaque/status/2088026815197552949",
+    "summary": "在此我问：\n\n蠢人应该拥有超级智能吗？🤔",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月14日6时16分"
+  },
+  {
+    "id": "cmss3gxnn01mlrohv62x3khmf",
+    "title": "OpenRouter 上线 Voyage Code 4 代码检索模型",
+    "url": "https://x.com/OpenRouter/status/2088026702501048467",
+    "summary": "编码智能体的代码检索在 OpenRouter 上有了新选择。\n\n来自 MongoDB 旗下 @VoyageAI 的 Voyage Code 4 支持 256、512、1024 和 2048 维度的 Matryoshka 嵌入向量，并提供多种量化选项。\n\n试用：https://openrouter.ai/voyageai/voyage-code-4",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月14日6时15分"
+  },
+  {
+    "id": "cmss3gxgv01mjrohv3pnxtsr3",
+    "title": "Grok Bot 发现排名代码中的有趣细节",
+    "url": "https://x.com/ericzakariasson/status/2088025448945275007",
+    "summary": "这是 grok bot 为我找到的排名代码中一些有趣的东西（权重表除外）",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月14日6时10分"
   },
   {
     "id": "cmss2ecst04qtroh6pgx400zz",
