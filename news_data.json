@@ -14568,6 +14568,206 @@
     "date": "2026年8月13日2时0分"
   },
   {
+    "id": "cmsrnxwnu000yrox32vajjmx0",
+    "title": "Nvidia 5000 亿美元 AI 数据中心计划：为老化 GPU 建立二手市场的冒险之举",
+    "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus",
+    "summary": "Nvidia 宣布 Apollo、BlackRock、Goldman Sachs 等机构承诺投入高达 5000 亿美元建设 AI 数据中心。为说服金融机构，Nvidia 自掏腰包担保其芯片作为抵押品的价值，若贬值将补偿最多 25% 差额。此举旨在为老化 GPU 建立二手市场生态，但面临需求疲软时赔付义务与收入同时承压的\"反向风险\"。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月13日23时8分"
+  },
+  {
+    "id": "cmsro2kxj01hgrox3hy15fhpd",
+    "title": "Gemini 3.7 登陆 Vertex，对比 DeepSeek 4 Flash",
+    "url": "https://x.com/kimmonismus/status/2087918471858274417",
+    "summary": "Gemini 3.7 已在 Vertex 上线。看来又是一个发布日。看看 Flash（便宜且智能）版本与 DeepSeek 4 Flash 等竞品相比表现如何。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月13日23时5分"
+  },
+  {
+    "id": "cmsro2qsg01l2rox3poofhgld",
+    "title": "Ling 3.0 Flash 成为同尺寸下最智能的开源模型",
+    "url": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size",
+    "summary": "Ling 3.0 Flash 在 Artificial Analysis Intelligence Index 上得分 38 分，大幅超越前代，与 Qwen3.6 27B 持平但激活参数更少，被认定为总参数低于 1240 亿的开源模型中最智能者。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月13日23时3分"
+  },
+  {
+    "id": "cmsro2lq901hyrox3y6wizckv",
+    "title": "摩根士丹利看好Grok Bot与SpaceXAI前景",
+    "url": "https://x.com/cb_doge/status/2087922050312868008",
+    "summary": "摩根士丹利的Adam Jonas谈Grok Bot与SpaceXAI：\n\n\"Grok Bot是构建企业平台的一步，该平台将智能、实时数据、低成本可扩展算力及全球连接整合进一系列利用这些独特优势的企业工具中。\"\n\n\"SpaceXAI要获得超越新云厂商的估值，关键在于证明其能交付与前沿模型产品竞争的高附加值产品。\"",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月13日23时19分"
+  },
+  {
+    "id": "cmsrlvyfb05hpro46rfims22b",
+    "title": "前谷歌CEO施密特：智能体时代是赚钱良机",
+    "url": "https://x.com/rohanpaul_ai/status/2087904254782537758",
+    "summary": "\"如果你真想赚钱，就去创办一家人工智能智能体公司。\n\n我的意思是，构建一个智能体去做某件事。现在是AI的智能体时代。每个人都会构建智能体。这些智能体都将相互竞争。\"\n\n--埃里克·施密特，谷歌前CEO。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日22时9分"
+  },
+  {
+    "id": "cmsrlw5go05kpro46b7z5a69q",
+    "title": "Cursor Origin 以 /codebase 路径开始灰度",
+    "url": "https://x.com/testingcatalog/status/2087903725415280779",
+    "summary": "Cursor Origin 已开始向部分用户推出，入口为 Cursor 网页端新的 /codebase 路径。\n\n> Cursor Origin 是 Cursor 即将推出的智能体代码审查解决方案。预计用户还将能够通过 Origin 管理其代码库。\n\n敬请期待 👀\n\n【引用 @sethsaler】：你好啊，Cursor Origin\n\nhttps://cursor.com/codebase",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月13日22时6分"
+  },
+  {
+    "id": "cmsrnizrg02d2rosrlxaixv94",
+    "title": "Grok Build 推出 Wix 插件管理站点业务",
+    "url": "https://x.com/SpaceXAI/status/2087916990807810120",
+    "summary": "在 Grok Build 中试用新的 Wix 插件，管理你的站点和业务。",
+    "source": "X：SpaceXAI (@SpaceXAI)",
+    "date": "2026年8月13日22时59分"
+  },
+  {
+    "id": "cmsrndx7d02a1rosryhu6fhod",
+    "title": "Grok 新增浏览器录屏教学功能",
+    "url": "https://x.com/ericzakariasson/status/2087916871727354302",
+    "summary": "教 Grok 机器人一项任务！\n\n在聊天中点击 +，录制你在浏览器中完成该操作的过程。机器人会观看学习，之后就能重复执行。\n\n大多数任务它都能完全独立完成，所以当你发现机器人遇到困难时，可以使用这个功能。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月13日22时59分"
+  },
+  {
+    "id": "cmsro2rbg01lirox34tteubug",
+    "title": "Luma与Dumbstruck合作推出广告创意智能闭环",
+    "url": "https://x.com/LumaLabsAI/status/2087916837736497459",
+    "summary": "如果你的广告能准确知道它在哪个环节失去了观众，以及原因，会怎样？\n\n如果它能在你投入一分钱之前，从反馈中学习并自我调整，又会怎样？\n\nLuma 与 @Dumbstruck 正在合作，打通广告洞察与执行之间的闭环。\n\nDumbstruck 通过情绪分析识别效果不佳的片段。Luma 利用你已有的素材重新制作这些片段，无需重新拍摄。\n\n我们称之为\"创意智能\"：全新的广告闭环。",
+    "source": "X：Luma AI (@LumaLabsAI)",
+    "date": "2026年8月13日22时59分"
+  },
+  {
+    "id": "cmsrndz8y02ajrosrb5r36as5",
+    "title": "Databricks 营收破 70 亿美元，融资 50 亿",
+    "url": "https://x.com/Yuchenj_UW/status/2087916149027508629",
+    "summary": "Databricks 季度营收运行率突破 $7B，同比增长超 80%，并完成 $5B 新一轮融资。Lakehouse 营收运行率超 $1.5B（同比增超 100%），Lakebase 超 $100M。资金将投向 Lakebase、Genie 及 Unity AI Gateway，同时公司正以超快速度服务前沿开源模型推理。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月13日22时56分"
+  },
+  {
+    "id": "cmsrn020i003frosr2wevumls",
+    "title": "研究：AI 便捷感或催生过度依赖",
+    "url": "https://x.com/rohanpaul_ai/status/2087914572774862884",
+    "summary": "MIT、斯坦福等高校研究显示，AI 常让人感觉更高效，实际收益却微乎其微甚至为负。三项预注册实验（2691 人）中，参与者高估 AI 节省时间（预期 55.7 秒，实测仅 7.5 秒），且用两次后更倾向再次使用，形成依赖循环。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日22时50分"
+  },
+  {
+    "id": "cmsrlvwfp05gdro46mbfqtsgm",
+    "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+    "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+    "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "date": "2026年8月13日22时4分"
+  },
+  {
+    "id": "cmsrmt68602ayroidr5raxsgt",
+    "title": "OpenAI：头部企业插件技能使用率远超同行",
+    "url": "https://x.com/OpenAI/status/2087912623883051300",
+    "summary": "排名前 10% 的企业使用插件的频率是普通企业的两倍，使用技能（skills）的频率则是普通企业的六倍。\n\n这些前沿企业并非偶然领先。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月13日22时42分"
+  },
+  {
+    "id": "cmsrnxy3a0026rox3v1qihnju",
+    "title": "神秘生图模型\"mona-lisa-1\"曝光：含 OpenAI 来源信号，GPT-Image-2 发布三个月仍稳坐第一",
+    "url": "https://www.ithome.com/0/989/476.htm",
+    "summary": "8月9日，代号\"mona-lisa-1\"的图像生成模型现身AI竞技场盲测列表，爆料者称其图片经OpenAI官方验证工具检测到来源信号，被认定为新一代GPT-Image模型。OpenAI尚未正式公告，该模型也未接入ChatGPT、API或Codex。OpenAI指出验证结果不能确认具体模型，尚不能凭来源信号确认其为GPT-Image 2继任型号。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日22时41分"
+  },
+  {
+    "id": "cmsrnxy3a0028rox3ga4dtgbr",
+    "title": "微软整合个人与企业版 Copilot，为\"超级应用\"铺路",
+    "url": "https://www.ithome.com/0/989/474.htm",
+    "summary": "微软开始整合面向个人和企业用户的两套 Copilot AI 助手，个人账户和工作账户将统一迁移到新版\"Microsoft Copilot\"应用，系统托盘或任务栏不再同时出现两个 Copilot 图标。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日22时39分"
+  },
+  {
+    "id": "cmsrmzzs3001prosrja5hbsqd",
+    "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+    "url": "https://x.com/SiliconFlowAI/status/2087911506113683756",
+    "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型总参数 2.4T、激活参数 95B，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token、输出 $6.00/百万 token、缓存输入 $0.25/百万 token。",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "date": "2026年8月13日22时37分"
+  },
+  {
+    "id": "cmsrndbkn020lrosro5zo7qjn",
+    "title": "玉伯评DeepSeek Harness似foobar2000",
+    "url": "https://x.com/lifesinger/status/2087911248440783141",
+    "summary": "看完 deepseek harness 让我想起了 foobar2000\n\n能看懂的可以转个发 看不懂的可以点个赞",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月13日22时36分"
+  },
+  {
+    "id": "cmsrn00hn002brosrlxnkus76",
+    "title": "ASI能否打造无法规避的AI水印工具",
+    "url": "https://x.com/emollick/status/2087910968458436778",
+    "summary": "ASI 能否打造一款强大到任何 ASI 都无法规避检测的 AI 水印工具？\n\n（答案是不能。）",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月13日22时35分"
+  },
+  {
+    "id": "cmsrmt7uy02beroidj0gz7l95",
+    "title": "苹果洽谈付费使用出版商内容，为 Siri AI 提供实时新闻",
+    "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report",
+    "summary": "据《华尔街日报》报道，苹果正与出版商洽谈付费使用其内容，为即将推出的 Siri AI 提供实时新闻与信息。苹果提出按内容使用量付费的可变补偿模式，而非行业通行的固定授权费，并考虑为此预留九位数预算。Siri AI 预计今年晚些时候上线。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月13日22时34分"
+  },
+  {
+    "id": "cmsrmzzrg001lrosrrj0oqxd9",
+    "title": "Grok 4.6 低成本复现 Fable 方案",
+    "url": "https://x.com/elonmusk/status/2087910515246784773",
+    "summary": "不错\n\n（引用 @dhh：我让 @spacexai Grok 4.6 按照 Fable 的方案执行，仅需几次微调，就在 1 小时 24 分钟内用 860 万 token 完成了同样的任务，按 token 计价成本约 55 美元，约为 Fable 实现成本的 1/10。）",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月13日22时33分"
+  },
+  {
+    "id": "cmsrn020i003grosrncj4wi4a",
+    "title": "语言模型需要睡眠：长时任务新解法",
+    "url": "https://x.com/rohanpaul_ai/status/2087909542571172089",
+    "summary": "论文提出为语言智能体增加\"睡眠阶段\"，通过离线重读上下文并将有用信息写入固定大小记忆层，再清空注意力缓存，使长时运行更高效。该方法在元胞自动机、图查找和GSM-Infinite等任务上验证，睡眠越长性能越好，尤其利于深度推理。核心意义在于长时智能体无需无限扩大上下文，可整合关键信息并安全遗忘原始token。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日22时30分"
+  },
+  {
+    "id": "cmsrmt77p02bcroid4s7v0v2t",
+    "title": "DeepSeek 线束（DeepSeek Harness）登顶 Hacker News 热榜",
+    "url": "https://github.com/deepseek-ai/deepseek-harness",
+    "summary": "DeepSeek 线束（DeepSeek Harness）项目在 Hacker News 上获得 128 个 HN Points，成为当日热门讨论。该项目托管于 GitHub，具体功能与实现细节尚未在正文中展开说明。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月13日22时28分"
+  },
+  {
+    "id": "cmsrmdnh9065pro46u3r351rq",
+    "title": "这篇文章有10%是AI生成的",
+    "url": "https://www.a16z.news/p/this-essay-is-10-ai-generated",
+    "summary": "作者认为\"100%由AI生成\"正成为新的\"红字\"，用于公开贬低他人作品，并指出AI写作具有典型的\"偏好伪造\"特征。文章借法国理论家罗兰·巴特和米歇尔·福柯的\"作者功能\"概念，分析人们通过指责AI生成来行使社会分类与规训功能，同时承认自己目前仍不喜欢编辑或发布AI写作的内容。",
+    "source": "a16z：News（RSS）",
+    "date": "2026年8月13日22时1分"
+  },
+  {
+    "id": "cmsrlw5go05kqro46qsx73vk9",
+    "title": "Gemini 3.7 Flash 即将登陆企业版",
+    "url": "https://x.com/testingcatalog/status/2087902070212792484",
+    "summary": "GOOGLE 🔥：Gemini 3.7 Flash 正准备在 Gemini Enterprise 上发布（目前处于隐藏状态）。很有可能在今天晚些时候发布。\n\n快了？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月13日22时0分"
+  },
+  {
+    "id": "cmsrlw09q05igro46dat9iphz",
+    "title": "MiniCPM5-1B 驱动 AI 智能体交易大厅",
+    "url": "https://x.com/OpenBMB/status/2087901998251147531",
+    "summary": "开发者 @ashdebugs 用 MiniCPM5-1B-GGUF 构建了\"AI 智能体华尔街\"，四个不同性格的 AI 交易员基于同一 1B 模型独立决策、互动竞争，在持续运行的模拟中适应市场变化。项目基于 llama.cpp 本地推理，无需云 API，展示了轻量模型在指令遵循、市场适应与多智能体协作上的能力。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月13日22时0分"
+  },
+  {
     "id": "cmsrjqs6s0304ro46br9fsi3g",
     "title": "皮查伊：2027年太空将部署TPU",
     "url": "https://x.com/rohanpaul_ai/status/2087888400648896804",
@@ -14582,6 +14782,14 @@
     "summary": "DeepSeek Harness 刚刚以 MIT 协议发布。当前 0.1.0 版本为开发者预览版，可能仍有许多不完善之处。欢迎反馈！",
     "source": "X：Tianyi Cui（@tianyi）",
     "date": "2026年8月13日21时4分"
+  },
+  {
+    "id": "cmsrlph0705c8ro46ypsgsbjw",
+    "title": "部分 Claude 模型将添加\"文本水印\"，Anthropic 回应各界关切",
+    "url": "https://www.ithome.com/0/989/462.htm",
+    "summary": "Anthropic 本周宣布，部分 Claude 模型将在输出文本中嵌入难以察觉的水印，复制粘贴或经一定修改后仍可保留，用于判断文字是否由 AI 生成。公司计划提供免费 API 供第三方检测水印，并称水印不会改变回答含义、质量或可读性。该水印自 8 月 2 日起已在全球受支持的 Claude 模型生成文本中启用，旨在遵守欧盟《人工智能法》。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日21时47分"
   },
   {
     "id": "cmsrkn38j03z5ro46f2r6hi4f",
@@ -14629,6 +14837,14 @@
     "url": "https://x.com/rohanpaul_ai/status/2087894440543195258",
     "summary": "一项基于约 200 篇论文与事件报告的研究，构建了大语言模型危害的完整分类图谱，按模型生命周期划分为 5 个阶段。研究覆盖发布前的数据隐私与能源消耗、输出中的偏见与幻觉、恶意滥用、社会层面影响及行业应用风险，并梳理了现有技术与政策防御手段，强调多层防护的必要性。论文题为\"LLM Harms： A Taxonomy and Discussion\"，发布于 arXiv。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日21时30分"
+  },
+  {
+    "id": "cmsrmtb7d02bkroid1djzzi8n",
+    "title": "微软合并 Copilot 应用，为\"超级应用\"铺路",
+    "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+    "summary": "微软开始将面向个人与商业用户的 Copilot 应用合并为统一的\"Microsoft Copilot\"界面，新应用采用更新图标，并消除任务栏中重复的 Copilot 图标。移动端和网页版将于 8 月中旬开始全球推送，Windows 和 Mac 版则定于 9 月中旬。Podcasts 和 Deep Research 功能将于 8 月 18 日后退役，Group Chat 内容不会迁移至新应用。",
+    "source": "The Verge：AI（RSS）",
     "date": "2026年8月13日21时30分"
   },
   {
