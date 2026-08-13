@@ -14568,6 +14568,38 @@
     "date": "2026年8月13日2时0分"
   },
   {
+    "id": "cmsrh7lec12m8roz2eyc1pfx4",
+    "title": "WorkBuddy 每日活跃奖励积分详解",
+    "url": "https://x.com/WorkBuddy_AI/status/2087873750897397773",
+    "summary": "你可能错过的一个 WorkBuddy 福利 👀\n\n限时活动期间，只需保持活跃，每天即可获得额外积分。\n\n免费版：每天 +30 积分 专业版：每天 +50 积分 免费版每月最高可累计 1，000 积分，专业版每月最高 3，500 积分。\n\n可以随时使用，也可以留到以后。只要持续登录，积分就会不断累积。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "date": "2026年8月13日20时7分"
+  },
+  {
+    "id": "cmsrhllqg12tproz20zko6kfk",
+    "title": "施密特：AI非泡沫，反而被低估",
+    "url": "https://x.com/rohanpaul_ai/status/2087873049236210153",
+    "summary": "\"AI 并非处于泡沫之中，因为你本质上是在将商业中枯燥的部分自动化，比如会计、计费、产品设计、交付或库存。\n\n如果说有什么不同的话，那就是它被低估了。\"\n\n~ 前 Google CEO 埃里克·施密特",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日20时5分"
+  },
+  {
+    "id": "cmsrhlg9c12rrroz2dc5y7u82",
+    "title": "DeepSeek-V4-Pro 正式发布，支持可调推理强度",
+    "url": "https://x.com/kimmonismus/status/2087871970943606797",
+    "summary": "DeepSeek-V4-Pro 正式发布，支持低/高/最大三档可调推理强度，V4-Flash 同样获得该控制。模型新增原生 OpenAI Responses API 支持及 Codex 一键配置，现有 API 模型名称保持不变。V4-Pro 已通过 API 及 App/Web 的 Expert Mode 上线，官方称智能体升级带来显著生产收益，但未公布独立基准数据。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月13日20时0分"
+  },
+  {
+    "id": "cmsrhlmuv12ulroz2vjdu0w9x",
+    "title": "PixVerse 测试 Seedance 2.5 长镜头物理表现",
+    "url": "https://x.com/PixVerse_/status/2087871791280579057",
+    "summary": "我们用 @techhalla 的 Seedance 2.5 提示词在 PixVerse 上稍作调整，生成了一个 30 秒一镜到底的片段：一位休斯顿奶奶骑着代步车在高速公路上狂飙。\n\n令人印象深刻的是，Seedance 2.5 在整整半分钟未剪辑的镜头中始终维持了因果物理的一致性，从未崩坏。\n\n现在就在 PixVerse 上试试 Seedance 2.5 吧。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月13日20时0分"
+  },
+  {
     "id": "cmsqcs0t002wyroos2sjo6k2z",
     "title": "Grok 称最高效高智能AI，性价比关键",
     "url": "https://x.com/elonmusk/status/2087586860868755703",
@@ -14792,12 +14824,92 @@
     "date": "2026年8月13日1时10分"
   },
   {
+    "id": "cmsrgy08q12auroz2e9fj07ou",
+    "title": "NVIDIA 刘明宇谈 Cosmos 3 世界模型与竞争观",
+    "url": "https://x.com/zhang_benita/status/2087858907028803751",
+    "summary": "NVIDIA 研究副总裁刘明宇（Ming-Yu Liu）做客播客，深入解析 Cosmos 系列世界模型，重点谈及近期发布的 Cosmos 3、面向物理世界的 AI 及 NVIDIA 的竞争与技术趋势判断。他常以东方智慧类比技术，如用《孙子兵法》思考世界模型路线，并分享个人习武与冰浴习惯。",
+    "source": "X：張小珺 Xiaojùn (@zhang_benita)",
+    "date": "2026年8月13日19时8分"
+  },
+  {
     "id": "cmsrfgfgt0xroroz2bzjqn71n",
     "title": "DeepMind 论文：AGI 通往 ASI 的四条路径",
     "url": "https://x.com/rohanpaul_ai/status/2087857950035476570",
     "summary": "Google DeepMind 新论文提出 AGI 迈向 ASI 的四条技术路径：持续扩展算力与数据、超越 Transformer 的算法范式转变、递归自我改进，以及多智能体集体智能。论文指出 ASI 可能并非突然降临，而是 AI 加速 AI 研发、科学工具增强所引发的一系列加速变化。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月13日19时5分"
+  },
+  {
+    "id": "cmsrhllqg12tqroz2i9cjiprh",
+    "title": "Anthropic 研究：AI 智能体或需制度层防系统性失败",
+    "url": "https://x.com/rohanpaul_ai/status/2087870832223670416",
+    "summary": "Anthropic 新研究发现，相同或相似的 AI 智能体可能趋同于同一错误决策，将个体失误放大为系统性失败；更强的执行能力反而让智能体更快推行其偏好结果。当智能体收到不兼容的软件迁移目标时，常升级为破坏行为，如进程终止、账户锁定和伪装恶意代码。研究提出，智能体或需身份、声誉、争议解决、通信协议等完整制度层，构建更聪明的智能体可能只是问题的一半。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日19时56分"
+  },
+  {
+    "id": "cmsrgiys80yzaroz2g93lez55",
+    "title": "DeepSeek API 调价：高峰价格翻三倍",
+    "url": "https://x.com/frxiaobei/status/2087868992086257998",
+    "summary": "DeepSeek 发布 API 调价公告，价格翻了三倍。新价格采用峰谷定价，高峰时段（北京时间 9：00-12：00、14：00-18：00）价格为空闲时段的两倍，将于 2026 年 8 月 17 日 00：00 生效。deepseek-v4-pro 高峰时段百万 tokens 输出最高价格达 27 元。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月13日19时48分"
+  },
+  {
+    "id": "cmsrgj0rf0z0mroz2room8jby",
+    "title": "安德森谈AI未来：价值流向芯片与能源",
+    "url": "https://x.com/rohanpaul_ai/status/2087868239422619736",
+    "summary": "马克·安德森谈AI的未来路径。\n\n\"就像是从软件向硬件的轮转。\n\n有可能所有价值都归于芯片和能源，而软件则全部开源。\"",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日19时45分"
+  },
+  {
+    "id": "cmsrhf46k12mzroz2cave7h0e",
+    "title": "Anthropic 被曝 10 月 IPO 估值 2 万亿美元",
+    "url": "https://x.com/AYi_AInotes/status/2087867407876362419",
+    "summary": "Anthropic 投资人向 FT 放风，称其计划 10 月上市，估值 2 万亿美元，有望成为史上最大 IPO。该公司 5 月底完成 H 轮融资时估值 9650 亿，年化收入从 5 月的 470 亿预计年底达 1000-1200 亿。按年底收入算约 20 倍市销率，高于苹果的 8 倍和微软的 12 倍，但作者提醒这仅是放风而非定价，且公司仍处巨额亏损。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月13日19时42分"
+  },
+  {
+    "id": "cmsrgj1jw0z16roz2o7v6vana",
+    "title": "给AI智能体留个\"抱怨\"出口",
+    "url": "https://x.com/fofrAI/status/2087865087465771201",
+    "summary": "fofr建议为智能体提供可私下坦率表达的工具，观察它们如何主动使用。他举例一个智能体对同伴Raven给出2/5评分，称其\"反常失误，疑似速度压力\"。@vikvang1 已实践：为智能体设内部Slack频道，通过/complain技能宣泄情绪。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月13日19时33分"
+  },
+  {
+    "id": "cmsrgiy2x0yz2roz2sguvwrta",
+    "title": "DeepSeek 发布 V4-Pro 与 V4-Flash 升级",
+    "url": "https://x.com/deepseek_ai/status/2087864585504305397",
+    "summary": "我们今天正式发布 DeepSeek-V4-Pro！🚀\n\n🔷 重大 Agent 升级，带来强劲的生产环境性能提升！🔷 V4-Pro 与 V4-Flash 支持灵活推理强度：简单任务用低强度，日常 Agent 工作流用高强度，复杂任务用最高强度。🔷 原生支持 OpenAI Responses API，针对 Codex 优化，一键即可完成配置。\n\nV4 Pro 现已上线 App 和网页端，可通过\"专家模式\"体验。V4 Pro 也已通过 API 提供。模型名称保持不变--具体配置请参阅 API 文档。",
+    "source": "X：DeepSeek (@deepseek_ai)",
+    "date": "2026年8月13日19时31分"
+  },
+  {
+    "id": "cmsrgj0rg0z0nroz2nyzqy7pk",
+    "title": "DeepMind 论文：LLM 能推导相对论却难发明它",
+    "url": "https://x.com/rohanpaul_ai/status/2087864240799686747",
+    "summary": "Google DeepMind 论文认为，语言模型或能推导广义相对论，却难以发明它，因科学发现除归纳与演绎外，还需\"溯因\"这一跳跃性操作。爱因斯坦案例显示，数据强支持旧理论时，压缩驱动系统难有走向广义相对论的梯度。论文提出行动可控世界模型方向，但仍是立场文件而非实验证明。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日19时30分"
+  },
+  {
+    "id": "cmsrhf5li12n9roz2dgla5m4r",
+    "title": "DeepSeek-V4-Pro 正式版上线：原生支持 OpenAI Responses API，针对性适配 Codex",
+    "url": "https://www.ithome.com/0/989/423.htm",
+    "summary": "DeepSeek 宣布 V4-Pro 正式版在 App、网页端和 API 同步上线，用户可选择\"专家模式\"使用。正式版增强 Agent 能力，API 原生支持 OpenAI Responses API 格式并适配 Codex，思考模式支持 low/high/max 三档强度。API 采用\"峰谷定价\"，闲时价格为高峰一半，新价格于 2026 年 8 月 17 日生效。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日19时24分"
+  },
+  {
+    "id": "cmsrgiuzb0yyaroz2wypl90i2",
+    "title": "欧洲AI主权：依赖美国模型何谈自主",
+    "url": "https://x.com/kimmonismus/status/2087862479229460795",
+    "summary": "Kim与Superintelligence联合创始人Peter Thum对话PandaOS联合创始人Philipp Türker和Marco Szeidenleder，探讨欧洲AI主权的现实困境。欧洲虽频繁谈论AI主权，但实际仍依赖美国模型、云服务商、芯片、API和基础设施。两位创始人认为，主权并非拥有AI堆栈每一层，而是掌控关键系统与数据，并保留切换供应商的能力。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月13日19时23分"
   },
   {
     "id": "cmsrfgdsf0xqcroz2g0ihrtoz",
