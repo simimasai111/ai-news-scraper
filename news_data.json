@@ -14568,6 +14568,102 @@
     "date": "2026年8月13日2时0分"
   },
   {
+    "id": "cmsrjqs6s0304ro46br9fsi3g",
+    "title": "皮查伊：2027年太空将部署TPU",
+    "url": "https://x.com/rohanpaul_ai/status/2087888400648896804",
+    "summary": "到2027年，太空中将会有一些TPU。\n\n--桑达尔·皮查伊\n\n\"太阳释放的功率是人类全部发电量的100万亿倍，而轨道上的太阳能电池板发电量可达地球上的8倍。\"",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日21时6分"
+  },
+  {
+    "id": "cmsrjlb1i02wlro46ndglr18h",
+    "title": "DeepSeek Harness 开源发布预览版",
+    "url": "https://x.com/tianyi/status/2087888089759015218",
+    "summary": "DeepSeek Harness 刚刚以 MIT 协议发布。当前 0.1.0 版本为开发者预览版，可能仍有许多不完善之处。欢迎反馈！",
+    "source": "X：Tianyi Cui（@tianyi）",
+    "date": "2026年8月13日21时4分"
+  },
+  {
+    "id": "cmsrkn38j03z5ro46f2r6hi4f",
+    "title": "Claude Tag now reads even more of the room",
+    "url": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
+    "summary": null,
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月13日21时46分"
+  },
+  {
+    "id": "cmsrl8f51050qro46qcp6wp2y",
+    "title": "DeepSeek Harness：技术人员主导的产品灾难",
+    "url": "https://x.com/chunxiangai/status/2087895907660644765",
+    "summary": "DeepSeek Harness 被指为技术人员主导下的产品层面灾难，团队沉迷开发而忽视用户体验。妄图靠插件生态形成差异化优势，与 Obsidian 同类，只能吸引小众极客用户，与 AGI 目标相去甚远。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月13日21时35分"
+  },
+  {
+    "id": "cmsrkthsx045sro468sedgtar",
+    "title": "Runway API黑客松获奖作品揭晓",
+    "url": "https://x.com/runwayml/status/2087895092220833853",
+    "summary": "我们 API 黑客松的获奖者，全部在一个周末内使用 Runway Dev 构建完成--这是我们面向开发者、可调用 Runway 及其他前沿实验室最佳模型的 API 平台。\n\n第一名 Quigo：无需代码，将被动视频转化为互动故事\n第二名 ClinicalSim：与虚拟患者演练高难度对话\n第三名 Scene Fixer：修复 AI 素材不匹配的连续性错误\n\n看看他们构建的作品 🧵",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月13日21时32分"
+  },
+  {
+    "id": "cmsrlpg5l05c5ro46l6izcvj6",
+    "title": "DeepSeek Harness v0.1 发布，直指 Claude Code",
+    "url": "https://x.com/AYi_AInotes/status/2087894599440183457",
+    "summary": "DeepSeek 发布主攻代码的 Agent 框架 Harness v0.1，开发者预览版已上线，代码库以 MIT 协议开源。该框架基于 Cordis 元框架，核心设计是\"一切皆插件\"，模型、工具、技能、会话、沙箱等均可混搭替换，直接对标 Claude Code 和 Codex。团队负责人为崔添翼。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月13日21时30分"
+  },
+  {
+    "id": "cmsrk8hk003rero462116sr2u",
+    "title": "a16z 投资 Vals：为 AI 构建独立评测的信任层",
+    "url": "https://www.a16z.news/p/investing-in-vals",
+    "summary": "a16z 宣布投资 AI 评测公司 Vals，后者通过将真实工作流转化为严格基准并构建自动化评分系统，测试模型在实际任务中的表现，而非依赖已趋饱和的学术基准。Vals 的私有测试集限制运行次数以防污染，并能在数小时内产出评测结果；其已退役饱和基准并持续引入新任务，例如以 Excel 建模基准替代 CorpFin。",
+    "source": "a16z：News（RSS）",
+    "date": "2026年8月13日21时30分"
+  },
+  {
+    "id": "cmsrkte00043qro46cwhm2ei6",
+    "title": "LLM 危害分类研究：五阶段风险全景图",
+    "url": "https://x.com/rohanpaul_ai/status/2087894440543195258",
+    "summary": "一项基于约 200 篇论文与事件报告的研究，构建了大语言模型危害的完整分类图谱，按模型生命周期划分为 5 个阶段。研究覆盖发布前的数据隐私与能源消耗、输出中的偏见与幻觉、恶意滥用、社会层面影响及行业应用风险，并梳理了现有技术与政策防御手段，强调多层防护的必要性。论文题为\"LLM Harms： A Taxonomy and Discussion\"，发布于 arXiv。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日21时30分"
+  },
+  {
+    "id": "cmsrjqqfg02z0ro469zple5jl",
+    "title": "DeepSeek Harness v0.1 开发者预览版发布",
+    "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+    "summary": "DeepSeek Harness v0.1 现已推出开发者预览版，并以 MIT 许可证开源。该智能体框架基于 Cordis 元框架构建，核心设计为\"一切皆插件\"，模型、工具、技能、会话、沙箱、文件系统、循环、编排及 UI 均可自由组合、替换和扩展。",
+    "source": "X：DeepSeek (@deepseek_ai)",
+    "date": "2026年8月13日21时2分"
+  },
+  {
+    "id": "cmsrkms5b03yxro46luqp5ort",
+    "title": "HumanLayer 重构 UI 提升对比度",
+    "url": "https://x.com/dexhorthy/status/2087891735636811981",
+    "summary": "我们重做了 HumanLayer 的界面，减少了线条，增强了对比度。真不敢相信这花了这么长时间。虽然还有很多要做的，但我对目前的进展非常满意。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月13日21时19分"
+  },
+  {
+    "id": "cmsrjqnpm02y2ro46hhpfbpm4",
+    "title": "DeepSeek 开源智能体框架 Harness v0.1",
+    "url": "https://x.com/kimmonismus/status/2087889503520251964",
+    "summary": "DeepSeek 开源 DeepSeek Harness v0.1（开发者预览版），一个基于 Cordis 元框架构建的 AI 智能体框架，核心设计为\"一切皆插件\"。模型、工具、技能、会话、沙箱、文件系统、循环、编排和 UI 均以插件形式实现，可自由混搭、替换和扩展，代码库采用 MIT 许可证。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月13日21时10分"
+  },
+  {
+    "id": "cmsrjqu8o031gro46f9wmei6h",
+    "title": "千 token 记忆限制下的 1B 模型即兴剧场",
+    "url": "https://x.com/OpenBMB/status/2087886895393202485",
+    "summary": "开发者 @jhahimanshu653 用 MiniCPM5-1B 与 VoxCPM2 构建了 Thousand-Token Theater，让 AI 演员在仅 1，000 token 记忆限制下实时即兴表演。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月13日21时0分"
+  },
+  {
     "id": "cmsrh7lec12m8roz2eyc1pfx4",
     "title": "WorkBuddy 每日活跃奖励积分详解",
     "url": "https://x.com/WorkBuddy_AI/status/2087873750897397773",
@@ -14582,6 +14678,70 @@
     "summary": "\"AI 并非处于泡沫之中，因为你本质上是在将商业中枯燥的部分自动化，比如会计、计费、产品设计、交付或库存。\n\n如果说有什么不同的话，那就是它被低估了。\"\n\n~ 前 Google CEO 埃里克·施密特",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月13日20时5分"
+  },
+  {
+    "id": "cmsrj38dm02i1ro46ked9d5iv",
+    "title": "左Seedance右MiniMax H3对比评价",
+    "url": "https://x.com/foxshuo/status/2087886850937827652",
+    "summary": "还是左Seedance 2.5，右MiniMax H3，如何评价？",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月13日20时59分"
+  },
+  {
+    "id": "cmsrj385302hxro46awnxgfpq",
+    "title": "DeepSeek 发布 dsh 工具下载地址",
+    "url": "https://x.com/chunxiangai/status/2087886067987030151",
+    "summary": "deepseek harness 下载地址： https://www.npmjs.com/package/@deepseek-ai/dsh",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月13日20时56分"
+  },
+  {
+    "id": "cmsrjqzhb0330ro462vmdp6cd",
+    "title": "Google AI Studio 将新增 Agents 管理标签页",
+    "url": "https://x.com/testingcatalog/status/2087885508898705482",
+    "summary": "GOOGLE 🔥：AI Studio 即将推出专门的 Agents 标签页，用于管理 Cloud Agents！\n\n用户将能够浏览、创建和配置不同 GCP 项目的托管智能体。该页面还将提供工件管理功能以及一个编辑器。\n\n敬请期待 👀 感谢 @thomas_gmry",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月13日20时54分"
+  },
+  {
+    "id": "cmsrjcena02rcro469b2fny0s",
+    "title": "Google DeepMind 发布手语转文本模型 SL2T",
+    "url": "https://x.com/demishassabis/status/2087885303855944001",
+    "summary": "Google DeepMind 发布手语转文本模型 SL2T，让用户首次可直接对着手机比划手语完成输入。该模型与聋人社区合作开发，率先在 Pixel 11 上支持美国手语转英语，用户可在 Gboard 和 Live Transcribe 中直接手语输入，无需打字。",
+    "source": "X：Demis Hassabis (@demishassabis)",
+    "date": "2026年8月13日20时53分"
+  },
+  {
+    "id": "cmsrjkbcd02tiro46cfjwidak",
+    "title": "DeepSeek Harness 公测，对标 Claude Cowork 并开放插件生态",
+    "url": "https://www.ithome.com/0/989/446.htm",
+    "summary": "DeepSeek 开源 MIT 协议的代码智能体框架 Harness v0.1 开发者预览版，采用\"一切皆插件\"架构，对标 OpenAI Codex 与 Anthropic Claude Cowork。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月13日20时52分"
+  },
+  {
+    "id": "cmsrio7vz13v8roz24ph8bbki",
+    "title": "安德森谈AI：沙砾变思想",
+    "url": "https://x.com/rohanpaul_ai/status/2087883371015754194",
+    "summary": "马克·安德森这样描述AI：\"我们把沙子变成了思想。这可能是人类历史上最具革命性的技术。\"沙子 → 硅 → 芯片 → 数据中心 → 电力 → AI → 思想",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月13日20时46分"
+  },
+  {
+    "id": "cmsrjk9ru02skro46k7gb996g",
+    "title": "DeepSeek-V4-Pro 发布，Agent 成本打穿地板",
+    "url": "https://x.com/AYi_AInotes/status/2087882208044253406",
+    "summary": "DeepSeek 正式发布 V4-Pro 0813，Agent 基准全面追平第一梯队：Terminal Bench 87.9、Cybergym 83.3，DeepSWE 从 12.8 跃升至 62.7。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月13日20时41分"
+  },
+  {
+    "id": "cmsrioemj13xiroz2vxf31jz8",
+    "title": "DeepSeek-V4-Pro 发布，主打 Agent 升级",
+    "url": "https://x.com/testingcatalog/status/2087880384381952150",
+    "summary": "DeepSeek 发布 DeepSeek-V4-Pro，已在 DeepSeek Chat\"Expert Mode\"及 API 上线。该模型带来重大 Agent 升级，支持灵活推理强度（低/高/最大），并原生支持 OpenAI Responses API，针对 Codex 优化且可一键配置。模型名称保持不变。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月13日20时34分"
   },
   {
     "id": "cmsrhlg9c12rrroz2dc5y7u82",
