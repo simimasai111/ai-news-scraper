@@ -14760,6 +14760,38 @@
     "date": "2026年8月14日2时0分"
   },
   {
+    "id": "cmssx3ni20lb5roffb52z08i3",
+    "title": "GLM-5.3 跑分暴涨6倍引热议",
+    "url": "https://x.com/karminski3/status/2088236512332902559",
+    "summary": "GLM-5.3 在 Terminal Bench 3.0 测试中分数翻了6倍，引发关注。该基准测试任务难度高，如 exam-pdf-eval 需模型调用第三方 VLM 并自行编写 prompt 完成闭环验证。博主推测 GLM-5.3 在复杂真实环境下的架构规划能力将非常强，并预告稍后带来实测。",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月14日20时9分"
+  },
+  {
+    "id": "cmssx3jeb0l9croff4xysblrp",
+    "title": "CoreWeave 烧钱加剧但股价涨 19%",
+    "url": "https://x.com/rohanpaul_ai/status/2088238468292063665",
+    "summary": "CoreWeave 上季度亏损翻倍、支出飙升，现金流消耗比营收多近 60 亿美元，但股价仍涨 19%。投资者看中的是 1037 亿美元 backlog 及 Q3 新增超 250 亿美元客户承诺，收入同比增长 112%。为满足需求，季度自由现金流为 -57.4 亿美元，并将 2026 年资本开支指引上调至 350 亿-390 亿美元。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日20时17分"
+  },
+  {
+    "id": "cmssx2do20l5oroffe19ez41z",
+    "title": "为什么 Opus 5 用起来反而感觉更差？",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse",
+    "summary": "作者与同事认为，Opus 5 虽在基准测试上媲美 Fable、强于 Opus 4.7 和 4.8，但使用体验却像降级，因其在意图不明时不会停下来提问，常擅自假设或改动计划，需要更多人工盯防。作者推测，这源于前沿实验室追求自我改进 AI 与高基准分数的双重压力，而基准任务本身自包含、无需澄清，反而筛选出敢于大胆假设的模型，这与编码智能体实际需要的谨慎确认相悖。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日20时11分"
+  },
+  {
+    "id": "cmssx2c640l4qroffb31rul8r",
+    "title": "月之暗面发严正声明：不存在\"朋友基金\"\"老股额度\"等，已向公安机关反映涉嫌违法犯罪行为",
+    "url": "https://www.ithome.com/0/989/920.htm",
+    "summary": "月之暗面 Kimi 今晚发布严正声明，针对市场上冒用其名义虚假融资、涉嫌违法犯罪的行为，已向公安机关反映，并强调不存在所谓\"朋友基金\"\"特殊通道\"\"老股额度\"\"预留额度\"\"官方代理\"或\"授权中介\"。此前 6 月 29 日公司也曾发布类似声明。近期公司完成超 35 亿美元 F 轮融资，投后估值 350 亿美元，并发布总参数 2.8 万亿的旗舰大模型 Kimi K3。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日20时10分"
+  },
+  {
     "id": "cmsrs8and03dsro0nkod01l18",
     "title": "Gemini 3.7 Flash 发布，强化长程编程与PDF理解",
     "url": "https://x.com/omarsar0/status/2087949444272558282",
@@ -15080,12 +15112,68 @@
     "date": "2026年8月14日19时8分"
   },
   {
+    "id": "cmssw12ee0horroffexml2c3d",
+    "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate",
+    "url": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate",
+    "summary": null,
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月14日19时44分"
+  },
+  {
+    "id": "cmssx28pe0l3wroffw28nx7ia",
+    "title": "FDE成AI圈最闷声发大财的岗位，大厂疯抢",
+    "url": "https://x.com/AYi_AInotes/status/2088228237314871554",
+    "summary": "FDE（落地工程师）正成为AI圈最闷声发大财的岗位，国内大厂开到35-70k×15薪，美国资深岗总包可达百万美金，比同级工程师高30%以上。该岗需兼具代码与客户沟通能力，负责将大模型真正接入企业并解决数据孤岛、幻觉、权限合规等落地问题。OpenAI、Anthropic、字节、智谱等均在疯抢，过去两年岗位量涨42倍，且无35岁危机。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月14日19时36分"
+  },
+  {
+    "id": "cmssw0y5v0hn9roff3gbzzt5c",
+    "title": "AI 数学证明洪流倒逼学界重估学术评价",
+    "url": "https://x.com/rohanpaul_ai/status/2088227774456819853",
+    "summary": "彭博社报道，AI 生成数学证明的速度可能远超人类理解其后果的能力，对大学构成挑战。学术地位目前基于论文、引用和定理等可量化产出，而非更慢的解释与判断工作。未来人类专长需转向上游，选择有价值的问题，数学界或需重新奖励解释结果、判断意义和教学等稀缺工作。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日19时34分"
+  },
+  {
     "id": "cmssuyahl0gwsroff0skjlvbg",
     "title": "人创造Agent后，人的价值何在？",
     "url": "https://x.com/frxiaobei/status/2088219793757507728",
     "summary": "协作模式正转向Agent间交互，同事答疑多直接转发Agent回复截图，人工翻代码渐少。未来每人或需搭建\"嘴替Agent\"统一处理可答问题，减少人工路由。人创造新物种后自身价值与去向成新命题。",
     "source": "X：小北 (@frxiaobei)",
     "date": "2026年8月14日19时2分"
+  },
+  {
+    "id": "cmsswdxum0kparoff8ot5do3d",
+    "title": "玉伯推荐轻拟物图标设计 Skill",
+    "url": "https://x.com/lifesinger/status/2088226049071124487",
+    "summary": "玉伯（Frank Wang）强烈推荐一个轻拟物图标设计 Skill，称其\"太精致好看\"。该技能由 @okooo5km 发布，可稳定输出高质量轻拟物图标，用户利用此技能即可轻松制作所需图标，链接见 youmind.com。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月14日19时27分"
+  },
+  {
+    "id": "cmssv94cg0h4mroffsb9e7a88",
+    "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+    "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+    "source": "公众号：小红书技术（dots.llm）",
+    "date": "2026年8月14日19时25分"
+  },
+  {
+    "id": "cmssw0y5v0hnarofffocmki1l",
+    "title": "智谱 GLM-5.3 在漏洞发现等网络防御测试中超越 Anthropic Mythos 5",
+    "url": "https://x.com/rohanpaul_ai/status/2088225475659444631",
+    "summary": "智谱发布 GLM-5.3，基于 743B 基座模型后训练，在漏洞发现等网络防御测试中超越 Anthropic Mythos 5。其 Terminal Bench 3.0 从 4.6 升至 28.3，DeepSWE 达 66.9；CyberGym 得分 84.5%，但 ExploitBench 仅 54.4%，落后于 Mythos 5 的 78.0%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日19时25分"
+  },
+  {
+    "id": "cmssx2c640l4vroffujuzi0so",
+    "title": "SK 集团会长崔泰源：存储涨价太快致歉，2027 年短缺最严重，苹果也受影响",
+    "url": "https://www.ithome.com/0/989/912.htm",
+    "summary": "SK 集团会长崔泰源称存储芯片\"价格涨得太快\"并致歉，预计 2027 年短缺最严重、2028 年扩产产能才能大规模投入市场。SK 海力士正投资 7，200 亿美元建设全球最大存储芯片工厂网络，目标到 2034 年产能提升至当前三倍，并计划五年内将产能翻倍。据 Counterpoint Research 数据，2026 年第一季度 SK 海力士在全球 HBM 市场占有 58% 份额。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日19时23分"
   },
   {
     "id": "cmssuyi5c0h0kroffo7yznjv1",
@@ -15230,6 +15318,14 @@
     "summary": "RedNote 开源 dots3-note Preview，一款 280B MoE 多模态智能体模型，仅 16B 参数同时激活，支持 512K 上下文及文本、图像、视频和音频理解。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月14日17时23分"
+  },
+  {
+    "id": "cmssvzskt0hjdroffqzu3mrmx",
+    "title": "Apple 与阿里巴巴合作训练中国定制 AI 模型",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "summary": "Apple 据报与阿里巴巴合作，为中国市场训练了一款定制大语言模型，这是罕见的中美企业合作。该模型由阿里巴巴支持训练，标志着 Apple 放弃此前在中国使用本土模型的策略。Apple 已在中国监管机构完成设备端生成式 AI 服务注册，预计将在 iOS 更新后数月内推出 Apple Intelligence，并有望成为首家获准在华提供自研 AI 模型的美国公司。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月14日17时21分"
   },
   {
     "id": "cmssqobfq0dbiroffn3ob2wjq",
