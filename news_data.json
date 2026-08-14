@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmstii6ix099qro0xq2uny6g9",
+    "title": "如何最大化 Claude Code 会话价值：高效利用每个 token 的实用技巧",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "summary": "Anthropic 官方发布 Claude Code 高效使用指南，帮助开发者降低 token 成本。核心建议包括：任务间运行 /clear 清除无关上下文、在会话开始前设置模型和 effort 级别以避免破坏提示缓存、用 @-mention 直接附加文件以节省 Read 调用。提示缓存读取成本仅为正常输入的 0.1 倍，输出 token 价格约为输入的 5 倍，缓存过期时间为 1 小时。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月15日6时16分"
+  },
+  {
     "id": "cmsthrkg908r7ro0xe7ucig0c",
     "title": "Replit Designathon 获奖名单揭晓",
     "url": "https://x.com/Replit/status/2088385172836331881",
