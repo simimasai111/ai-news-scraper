@@ -13848,6 +13848,302 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmst7tjt5032erodztd509mcm",
+    "title": "Qwen 领跑本地推理，小模型主导实际应用",
+    "url": "https://x.com/Alibaba_Qwen/status/2088311161955754356",
+    "summary": "通义千问（Qwen）在 HuggingFace《State of Open Models》夏季报告中领跑本地推理，Gemma 紧随其后。报告指出前沿模型虽不断变大，但小模型仍主导实际应用，AI 智能体正成为 Hub 上的重要力量。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月15日1时5分"
+  },
+  {
+    "id": "cmst7thky031grodzfq9w9d0d",
+    "title": "OpenAI 营收主管离职，内部文化遭前员工批评",
+    "url": "https://x.com/rohanpaul_ai/status/2088310491307471198",
+    "summary": "CNBC 报道，OpenAI 首席营收官 Denise Dresser 将在数周内离职，她负责企业业务，该业务占公司营收 40%，预计 2026 年底追上消费者业务。前员工形容 OpenAI 存在\"快招快裁\"文化，有人称其为\"高压锅\"环境。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日1时3分"
+  },
+  {
+    "id": "cmst7tndk033irodz4u6cwuzs",
+    "title": "阿里 Qwen 团队发布 Apache 2.0 开源权重模型 Qwen3.8",
+    "url": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license",
+    "summary": "阿里 Qwen 团队发布 Qwen3.8 系列开源权重模型。核心模型 Qwen3.8-27B 为 270 亿参数多模态稠密模型，在编程和办公任务上超越更大的 Qwen3.7-Plus，原生支持 262，000 token 上下文，可用 YaRN 扩展至一百万。权重以 Apache 2.0 协议发布，两款模型均已在 Hugging Face 和 ModelScope 上线。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月15日1时1分"
+  },
+  {
+    "id": "cmst74t9p02skrodzpzj45yde",
+    "title": "开源小模型加速逼近，AI重心或正快速转移",
+    "url": "https://x.com/Yuchenj_UW/status/2088309946249318654",
+    "summary": "两件事正在同时发生：\n\n- AI 编程模型正在趋同。对于 95% 的任务，大多数人分辨不出 GPT-5.6 Sol、Fable 5、Kimi K3、GLM-5.2 或 Qwen 3.8 Max 哪个更聪明。\n\n- GLM-5.3 今天发布，仅 743B 参数。更小、更便宜、开源的模型正在快速到来。\n\n重心转移的速度可能比人们想象的更快。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月15日1时1分"
+  },
+  {
+    "id": "cmst7s3xg02x3rodz3uvww36c",
+    "title": "印尼首个大学AI中心落成：UGM、Indosat与NVIDIA合作培养本地AI人才",
+    "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center",
+    "summary": "印尼通信与数字事务部、Indosat、NVIDIA与加查马达大学（UGM）在日惹共同启动UGM Indosat NVIDIA AI技术中心（NVAITC），这是该国首个大学AI技术中心。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月15日1时13分"
+  },
+  {
+    "id": "cmst7sajh02xzrodzfmayel4n",
+    "title": "Faraday 27B 智能体超越 Claude Opus 4.8 与 GPT-5.5",
+    "url": "https://x.com/omarsar0/status/2088309745740591429",
+    "summary": "DAIR.AI 推出的 27B 参数智能体 Faraday 在论文复现任务中击败 Claude Opus 4.8 和 GPT-5.5。其方法 Replica 将论文复现转化为可扩展的 RL 任务空间，通过自动生成的评分器提供低噪声奖励信号。Faraday 将编码智能体作为工具调用，展现出更科学的推理路径，指向无需复杂框架即可将长周期科研能力训练进模型权重。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月15日1时0分"
+  },
+  {
+    "id": "cmst5oc2m05q6ro06gsmtyllw",
+    "title": "Qwen3.8-27B 可在 17GB 内存本地运行",
+    "url": "https://x.com/Alibaba_Qwen/status/2088296583368781939",
+    "summary": "27B 模型仅需 17GB 内存。准备好创造不可思议的东西了吗？😎 感谢 @UnslothAI 的推荐！\n\n【引用 @UnslothAI】：Qwen3.8-27B 现已支持本地运行！✨\n\n通过 Unsloth Dynamic GGUFs 在 17GB 内存上运行。\n\nQwen3.8-27B 是目前同尺寸下最强的模型。我们还上传了 NVFP4 量化版本。\n\nGGUF：https://huggingface.co/unsloth/Qwen3.8-27B-GGUF\n指南：https://unsloth.ai/docs/models/qwen3.8",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月15日0时7分"
+  },
+  {
+    "id": "cmst5oi7o05s4ro062mqr1vkd",
+    "title": "普林斯顿与英国AI安全研究所新研究：自主AI研究能力被高估",
+    "url": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach",
+    "summary": "普林斯顿大学与英国AI安全研究所通过\"影子评估\"方法，用两篇未发表的NeurIPS 2026论文测试Claude Opus 4.8的自主研究能力。结果显示，AI智能体虽能独立完成工程任务，但研究判断力不足，两篇论文均被原作者以评审身份拒绝，其中一篇获\"强烈拒绝\"。智能体在创造性问题解决、资源利用和指令遵循等方面存在系统性缺陷。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月15日0时6分"
+  },
+  {
+    "id": "cmst7tjt6032frodzhv7p9hp6",
+    "title": "Qwen3.8 借助 TokenSpeed 实现大规模部署",
+    "url": "https://x.com/Alibaba_Qwen/status/2088309262451904671",
+    "summary": "通义千问 Qwen3.8 已通过 TokenSpeed 推理引擎实现大规模运行，延迟低、速度快。LightSeek 作为 Day-0 开源推理引擎合作伙伴，针对该 2.4T 参数模型优化了跨节点 DP/EP 扩展，性能比 TP16 快 30% 以上，并采用 DSpark 投机解码与单 CUDA graph 优化。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月15日0时58分"
+  },
+  {
+    "id": "cmst7sbed02y7rodzx5v79gma",
+    "title": "Qwen 3.8 27B 发布",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "summary": "阿里通义千问团队发布 Qwen 3.8 27B 模型，已在 Hugging Face 上线。该模型在 Hacker News 引发关注，获得 121 个 HN Points。目前模型权重已开放下载，具体参数规模与性能基准尚未在原文中披露。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月15日0时57分"
+  },
+  {
+    "id": "cmst6qy5t06fsro06pg92k47p",
+    "title": "Qwen3.8-2.4T-A95B 上线 SiliconFlow",
+    "url": "https://x.com/Alibaba_Qwen/status/2088307374767693844",
+    "summary": "通义千问开源 Qwen3.8-2.4T-A95B，并已在 SiliconFlow 上线，支持 Day-0 使用。该模型拥有 2.4T 参数、95B 激活参数，主打自主编程、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token、输出 $6.00/百万 token、缓存输入 $0.25/百万 token。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月15日0时50分"
+  },
+  {
+    "id": "cmst5o7bj05nzro066hk8pjkl",
+    "title": "Qwen3.8-27B 本地运行 Opus 4.6 Max 级能力",
+    "url": "https://x.com/kimmonismus/status/2088295804108783728",
+    "summary": "Qwen 发布 Qwen3.8-27B 紧凑开源多模态模型，仅 27B 参数即在智能体编码、计算机使用等基准上超越 Claude Opus 4.6 Max。支持图像、视频、可配置推理，原生 262K 上下文窗口可扩展至 1M，Apache 2.0 许可可自托管。基准结果为 Qwen 自测，尚待独立验证。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月15日0时4分"
+  },
+  {
+    "id": "cmst6r2pq06hgro06wcthv38b",
+    "title": "中国为何赢下AI视频竞赛：生态而非模型",
+    "url": "https://x.com/thexpin/status/2088307079853621342",
+    "summary": "字节跳动Seedance 2.5与MiniMax H3同日发布，中国厂商占据Artificial Analysis文生视频榜单前十中的九席。OpenAI退出Sora独立视频业务，因缺乏内容平台生态和付费循环，而Sora推理成本曾被估约每日1500万美元。中国创作者通过短视频平台付费生成内容，形成支撑模型迭代的商业闭环。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月15日0时49分"
+  },
+  {
+    "id": "cmst6qsjb06dlro06uudry90w",
+    "title": "马斯克：轨道算力或成AI扩展唯一路径",
+    "url": "https://x.com/elonmusk/status/2088306926442430578",
+    "summary": "轨道计算可能将成为扩展AI的唯一方式，大概在2029年，因为陆地上的电力供应和许可问题。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月15日0时49分"
+  },
+  {
+    "id": "cmst6pn4b06aqro06xbl1wusy",
+    "title": "DeepSeek Harness 获开源社区好评",
+    "url": "https://x.com/tianyi/status/2088306143772946499",
+    "summary": "DeepSeek 研究员称 Pi 是团队日常首选驱动，DSH 复用 Pi 的 LLM 适配器包连接非 DeepSeek 模型，体验流畅。mitsuhiko 评价 DSH 虽不完美，但首次让他想重新审视自身方案，并赞赏其开源精神。",
+    "source": "X：Tianyi Cui（@tianyi）",
+    "date": "2026年8月15日0时45分"
+  },
+  {
+    "id": "cmst6qwdu06ezro06waj359bc",
+    "title": "Gemini 与 Flow 可选关闭可见 AI 水印",
+    "url": "https://x.com/rohanpaul_ai/status/2088306032934322456",
+    "summary": "Google 在 Gemini 和 Flow 中让可见 AI 水印变为可选关闭，同时保留不可见的来源信号。Nano Banana 图片、Omni 视频和 Lyria 音乐可关闭可见水印，但 SynthID 隐形水印与 C2PA 溯源数据仍会保留，以便识别 AI 生成内容。该功能适用于所有媒体，法律要求保留水印的国家除外。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日0时45分"
+  },
+  {
+    "id": "cmst6qs3206ddro06l8sia584",
+    "title": "DeepSeek V4 Flash 0731 用0.1美元完成8项开发任务",
+    "url": "https://x.com/SiliconFlowAI/status/2088305807893115213",
+    "summary": "硅基流动实测，DeepSeek V4 Flash 0731 在4小时内以0.1美元成本完成8项真实开发任务，包括修复3个bug、从零构建含6个KPI卡片和7张图表的成本分析仪表盘，并编写运行18个单元测试和28个E2E测试。该模型还生成了API文档、变更日志、PR描述及8页报告。",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "date": "2026年8月15日0时44分"
+  },
+  {
+    "id": "cmst6r2wi06hkro06oj3qvfyb",
+    "title": "OpenAI 的 Computer History 将点击和按键转化为可搜索的 ChatGPT 记忆时间线",
+    "url": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline",
+    "summary": "OpenAI 的 Computer History 功能可跨应用和网站追踪用户活动，将其转化为可搜索的时间线记忆，供 ChatGPT 和 Codex 作为上下文使用。该功能通过 macOS 辅助功能记录点击、按键等交互事件，不捕获屏幕截图或音频，记忆文件以明文 Markdown 本地存储且未加密。管理员和用户需双重选择启用，OpenAI 同时警告了提示注入风险。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月15日0时43分"
+  },
+  {
+    "id": "cmst6pn4b06arro06l6bmnri4",
+    "title": "DeepSeek Harness 组杭州热招多岗位",
+    "url": "https://x.com/tianyi/status/2088304053193421218",
+    "summary": "DeepSeek Harness 组在杭州招聘深度学习研究员、研发工程师、产品经理、设计师、开发者关系、社区运营及项目经理，全职和实习岗位均开放。有意者可联系 Tianyi Cui（@tianyi）投递简历。",
+    "source": "X：Tianyi Cui（@tianyi）",
+    "date": "2026年8月15日0时37分"
+  },
+  {
+    "id": "cmst6qwdu06f0ro06a9vlocvs",
+    "title": "阿里开源Qwen3.8-27B多模态模型",
+    "url": "https://x.com/rohanpaul_ai/status/2088303843876704508",
+    "summary": "阿里巴巴发布Qwen3.8-27B，一款27B参数的开源多模态稠密模型，采用Apache 2.0许可，支持Transformers、vLLM、SGLang及本地量化部署。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日0时36分"
+  },
+  {
+    "id": "cmst6qrtj06d7ro06lkp3avph",
+    "title": "Qwen3.8-27B 可在 17GB 内存本地运行",
+    "url": "https://x.com/frxiaobei/status/2088302915266236743",
+    "summary": "Qwen3.8-27B 现可在 17GB 内存上本地部署，模型部署硬件门槛持续降低。这为受数据安全、隐私和内网隔离限制的 AI 应用场景提供了低成本本地部署可能，大模型应用有望加速普及。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月15日0时33分"
+  },
+  {
+    "id": "cmst6qxto06flro06p179xopz",
+    "title": "用户吐槽AI滥用\"triage\"一词",
+    "url": "https://x.com/gabriel1/status/2088302353804066909",
+    "summary": "我还是不知道\"triage\"是什么意思，直到每个低品味的AI开始在每项建议任务里吐出这个词，我才第一次听到它。\n\n也许是时候查一下了。我觉得它的意思是浏览各项内容，并根据使用情况指出哪些重要、哪些不重要。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月15日0时30分"
+  },
+  {
+    "id": "cmst6qykv06g6ro0610klcbm3",
+    "title": "SemiAnalysis：速度即护城河，稳定开发集群是关键",
+    "url": "https://x.com/SemiAnalysis_/status/2088302203740045749",
+    "summary": "速度即护城河 🚨🚨🚨 &amp； @AnushElangovan &amp； 他的团队跑得越来越快 🚀 &amp； 更快！他的团队想跑得更快，但他反复从团队那里听到的最大阻碍之一，是缺乏稳定的内部开发集群。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月15日0时30分"
+  },
+  {
+    "id": "cmst6r0ta06h0ro06irpszjqh",
+    "title": "DeepSeek 回应迅速引热议",
+    "url": "https://x.com/swyx/status/2088302169166622739",
+    "summary": "天哪，DeepSeek 对 Roon 推文的回应真快。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月15日0时30分"
+  },
+  {
+    "id": "cmst6wk6m000orodzasehlarn",
+    "title": "AI 工程核心技能图谱发布",
+    "url": "https://x.com/AndrewYNg/status/2088302050706686198",
+    "summary": "新：一张 AI 工程领域最重要技能的地图。https://x.com/i/article/2088296780983107584",
+    "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+    "date": "2026年8月15日0时29分"
+  },
+  {
+    "id": "cmst6qy5t06ftro0617e35pvu",
+    "title": "Qwen3.8-2.4T-A95B上线DeepInfra",
+    "url": "https://x.com/Alibaba_Qwen/status/2088301611731009582",
+    "summary": "顶级智能，一次 API 调用即可获得。Qwen3.8-2.4T-A95B 现已上线 DeepInfra，随时支持你的创意构建。🥳 快来 DeepInfra 深入了解吧！@DeepInfra",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月15日0时27分"
+  },
+  {
+    "id": "cmst5qsxn05t1ro06ww6moie8",
+    "title": "Qwen3.8-Max 上线 Fireworks 获 Day 0 支持",
+    "url": "https://x.com/alibaba_cloud/status/2088300330660540619",
+    "summary": "阿里云宣布 Qwen3.8-Max 在 Fireworks 平台上线，Fireworks 作为 Day 0 首发合作伙伴同步支持。该模型为 2.4T 参数 MoE 架构（Qwen3.8-2.4T-A95B），专为自主智能体、重度编码和长上下文场景设计，即日起可开始构建。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月15日0时22分"
+  },
+  {
+    "id": "cmst6iem006a7ro0601nnh9df",
+    "title": "AI Unconference 回顾：SF 前沿用例与工作流分歧",
+    "url": "https://x.com/dexhorthy/status/2088299906565918829",
+    "summary": "Dex Horthy 与 Vaib 在 YC 主持\"AI that works\"Unconference，汇聚 50 位旧金山湾区顶尖 AI 工程师。最大共识是各团队工作流差异巨大、信任标准不一，难以判断谁领先。讨论覆盖记忆、软件工厂、硬件、harness 工程等前沿用例，并涉及 Claude 文本水印、AI 制品及 git 与 GitHub 的未来。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月15日0时21分"
+  },
+  {
+    "id": "cmst5o69b05niro068zopln28",
+    "title": "AI Coding 越快，工程反馈越模糊",
+    "url": "https://x.com/frxiaobei/status/2088299848722424197",
+    "summary": "AI Coding 让代码生成大幅提速，却打乱了软件工程原有的反馈机制：需求不拆解、阶段结果不定义、变更不可追溯，省下的开发时间会以 Bug、返工和沟通成本的形式补回来。AI 越快，人越需要主动制造检查点，让每一步结果可理解、可验证、可追溯。AI Coding 下半场的竞争将从生成速度转向工程过程清晰度与质量可控性。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月15日0时20分"
+  },
+  {
+    "id": "cmst5z0in05vhro06dwkbuo1e",
+    "title": "Gemini黑客松营销与部署指南",
+    "url": "https://x.com/googleaidevs/status/2088299287566602242",
+    "summary": "你已经规划好创意并构建了应用。现在是时候增长用户了！📈\n\n了解如何利用 @FlowbyGoogle 和 @PomelliByGoogle 等工具，为 Build with Gemini @XPrize 黑客松（活动持续至 8 月 17 日）营销你的产品并部署创意推广活动。",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "date": "2026年8月15日0时18分"
+  },
+  {
+    "id": "cmst5yyyc05vdro06aqi61b2d",
+    "title": "OpenClaw 呼吁投票支持 SXSW 演讲",
+    "url": "https://x.com/openclaw/status/2088299228833657144",
+    "summary": "集结爪牙们！🦞\n\n我们需要你支持我们今年在 SXSW 的演讲提案！点击链接并投票，确保 @steipete 能把 Molty 之光带给大众！\n\nhttps://participate.sxsw.com/flow/sxsw/sxsw27/community-voting-sxsw/page/community-voting/session/1785536969104001m5k4",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年8月15日0时18分"
+  },
+  {
+    "id": "cmst5oc2m05q5ro06h48kz3zx",
+    "title": "通义千问 Qwen3.8-27B 首发支持 AMD 本地运行",
+    "url": "https://x.com/Alibaba_Qwen/status/2088299158465819110",
+    "summary": "通义千问发布 Qwen3.8-27B 稠密模型，从发布首日起即支持 AMD 本地运行。该模型可在 AMD Ryzen AI Max+ 处理器或单张 Radeon AI PRO R9700 显卡上运行，并已适配 LM Studio 与 lemonade_server，便于开发者本地开发与构建应用。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月15日0时18分"
+  },
+  {
+    "id": "cmst5n15605l4ro06hio80u82",
+    "title": "Google 允许用户移除 AI 生成内容的可见水印",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+    "summary": "Google 于本周五宣布，将允许用户移除其 AI 生成内容（包括图片、视频和歌曲）上的可见水印，该功能不影响不可见的 SynthID 水印和 C2PA 元数据。此开关将适用于 Nano Banana、Omni 和 Lyria 模型，可在 Gemini 和视频编辑器 Flow 中使用，搜索支持即将推出。Google 同时开源了新库 Credentio，帮助开发者在应用中嵌入本地验证机制。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月15日0时13分"
+  },
+  {
+    "id": "cmst6qewn06c6ro06nbkb191n",
+    "title": "Perplexity 点赞 OpenRouter 搜索基准发布",
+    "url": "https://x.com/AravSrinivas/status/2088297387072909345",
+    "summary": "Perplexity 👑\n\n【引用 @OpenRouter】：推出 Web 搜索基准 🌐\n\n不同模型和配置下搜索工具的排名，帮助你决定如何为智能体提供依据：https://openrouter.ai/benchmarks",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月15日0时11分"
+  },
+  {
+    "id": "cmst5n5d205mdro06vcmv7tli",
+    "title": "当天才失灵：人工智能实验室的智力傲慢",
+    "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+    "summary": "文章剖析AI实验室因智力傲慢而陷入困境的现象，指出顶尖人才过度自信导致技术路线失误与产品失败。作者认为，实验室过度依赖天才直觉而忽视工程严谨性与用户反馈，最终在现实应用中暴露短板。这种傲慢不仅损害创新，也削弱了公众对AI的信任。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月15日0时10分"
+  },
+  {
+    "id": "cmst5z2a305vjro06i4t4firl",
+    "title": "Replit 设计马拉松获奖者揭晓，奖金超 5 万美元",
+    "url": "https://x.com/Replit/status/2088294817596100769",
+    "summary": "设计马拉松获奖者：5 万美元以上奖金，现场揭晓 https://x.com/i/broadcasts/1jGXgBBnlYEKZ",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月15日0时0分"
+  },
+  {
+    "id": "cmst4w3zy04zqro0659c6tvct",
+    "title": "GitHub 如何用 Agent Apps 将软件交付工作流引入平台",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+    "summary": "GitHub 介绍四款 Agent Apps，帮助用户在 SDLC 全流程中完成功能的范围界定、安全加固、逐步推出与发布，全程无需离开 GitHub。文章展示了这些智能体应用如何将软件交付工作流直接嵌入平台。",
+    "source": "GitHub Blog",
+    "date": "2026年8月15日0时0分"
+  },
+  {
     "id": "cmssbmj9g02hurod0afyu2dt6",
     "title": "杨元庆：联想曾凭 PC 普及成为\"PC 之王\"，相信 AI 时代历史将重演",
     "url": "https://www.ithome.com/0/989/532.htm",
@@ -14790,6 +15086,22 @@
     "summary": null,
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年8月14日23时6分"
+  },
+  {
+    "id": "cmst5oc0c05pzro06xehigps4",
+    "title": "我的AI智能体如何代回所有聊天消息",
+    "url": "https://x.com/gabriel1/status/2088293987467788762",
+    "summary": "我的智能体会在所有聊天应用（WhatsApp、Gmail、LinkedIn）中找到每一条消息，并为每条消息起草回复。然后由我决定哪些发送，哪些需要修改。\n\n而且我首先让它在我所有应用里找到100条我过去的回复，这样它就有了我说话风格的参考。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月14日23时57分"
+  },
+  {
+    "id": "cmst5oc2m05q7ro06ak4k81uv",
+    "title": "通义千问 Qwen3.8-27B 开源，RTX 5090 跑出 206 tok/s",
+    "url": "https://x.com/Alibaba_Qwen/status/2088293486995087461",
+    "summary": "通义千问开源 Qwen3.8-27B 小模型，SGLang 首日支持即上线。在单张 RTX 5090 上配合 NVFP4 与 DSpark 实现 206.1 tok/s 解码速度，DGX Spark 上为 38.28 tok/s。该模型在智能体规划与长程任务上树立小模型新标杆。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月14日23时55分"
   },
   {
     "id": "cmst4lq8504kwro0608rly7ss",
