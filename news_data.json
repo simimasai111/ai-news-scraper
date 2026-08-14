@@ -13848,12 +13848,60 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmstgucbq067zro0xkuon9ioi",
+    "title": "Databricks 如何在数据仓库中使用 AI_Functions：主要用例解析",
+    "url": "https://www.databricks.com/blog/using-aifunctions-your-data-warehouse-top-use-cases",
+    "summary": "Databricks 探讨在数据仓库中应用 AI_Functions 的主要场景，帮助组织在结构化数据之外处理非结构化数据。文章聚焦于如何通过该功能将 AI 能力直接集成到 SQL 工作流中，以扩展数据仓库的分析边界。具体用例与实现细节以原文为准。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月15日5时30分"
+  },
+  {
+    "id": "cmstgoy69061oro0x9ov7i67a",
+    "title": "GLM 5.3 解读：为何不再惊讶中国模型",
+    "url": "https://x.com/natolambert/status/2088377248156205084",
+    "summary": "GLM 5.3 要点，以及我们为何不应再对这些非常强大的中国模型感到惊讶（这大部分是我在梳理自己的一些否认情绪--是的，这些模型是货真价实的）。https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月15日5时28分"
+  },
+  {
+    "id": "cmstge4lj05umro0xshnegv93",
+    "title": "X 开源 For You 算法，公开推荐权重与训练代码",
+    "url": "https://x.com/cb_doge/status/2088375275138732229",
+    "summary": "X 发布其 For You 推荐算法的大型开源更新，公开了用于帖子排名的实际权重，以及点赞、回复、转发、点击、观看时长、关注、屏蔽和举报对排名的影响。更新还包含 Phoenix 推荐模型的训练代码、SimClusters 发现机制、巴西 2026 选举所需的新过滤器，以及展示可能限制账号可见性标签的\"Under the Hood\"工具。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月15日5时20分"
+  },
+  {
+    "id": "cmstgczz905suro0xf9paw7hz",
+    "title": "我把RSS订阅内容做成了电子墨水报，这样就不用再用手机看新闻了",
+    "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper",
+    "summary": "一位开发者用 RSS 阅读器 Feedbin 的 API 将未读订阅文章生成 e-pub 电子书，并加载到 4.3 英寸的 Xteink X4 电子墨水阅读器上，打造出专属的\"电子墨水报\"。该项目名为 feedpaper，已开源并可通过 Homebrew 安装，仅支持 macOS。作者表示借助 AI 的帮助，几分钟内就完成了构建。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月15日5时11分"
+  },
+  {
+    "id": "cmstgs4ns065uro0x54wzzx6d",
+    "title": "OpenRouter 送 10 美元券促 Ori Harness 开发",
+    "url": "https://x.com/OpenRouter/status/2088372690180882564",
+    "summary": "我们送你一张 10 美元优惠券，本周末在 Ori Harness 上构建应用。\n\n你会构建什么？\n\n在 OpenRouter 上，用一个账户即可运行你最喜欢的智能体--Claude Code、Codex、DeepSeek 等--支持 500+ 模型、70+ 服务商。\n\n兑换很简单：",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月15日5时10分"
+  },
+  {
     "id": "cmste92t204fwro0xpohczri8",
     "title": "Odyssey 发布新型浪潮 AI 技术",
     "url": "https://x.com/odysseyml/status/2088356591061946455",
     "summary": "另一种浪潮。",
     "source": "X：Odyssey (@odysseyml)",
     "date": "2026年8月15日4时6分"
+  },
+  {
+    "id": "cmstgczz905svro0xi6mbpm32",
+    "title": "Prof. Tom Yeh 的\"亲手打造的AI\"专栏：用手写方式拆解数学、算法与架构",
+    "url": "https://www.byhand.ai/",
+    "summary": "Prof. Tom Yeh 在 Substack 开设\"AI by Hand ✍️\"专栏，用手写方式拆解 AI 背后的数学、算法与架构，已吸引数万订阅者。专栏以直观的纸笔推导替代黑箱式讲解，帮助读者从底层理解大语言模型等 AI 系统的运作原理。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月15日4时56分"
   },
   {
     "id": "cmstfbhbj04ztro0x0630i40g",
