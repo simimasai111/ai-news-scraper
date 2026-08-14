@@ -15064,12 +15064,76 @@
     "date": "2026年8月14日1时0分"
   },
   {
+    "id": "cmsss6ljf0eusroffzs8n9cc3",
+    "title": "Google AI 健康教练将接入雅培血糖数据",
+    "url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data",
+    "summary": "雅培与 Google 达成多年期合作，将 Lingo 连续血糖监测仪的数据接入 Google Health 应用，使 Gemini 驱动的健康教练服务获得新的个人健康数据源。用户可在应用中查看血糖趋势。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月14日18时0分"
+  },
+  {
     "id": "cmssqms4f0d3oroffnsq3cxhn",
     "title": "70 天超 10 款模型：CNBC 称美国限制反而催化中国 AI 创新，加速进入全球企业业务体系",
     "url": "https://www.ithome.com/0/989/804.htm",
     "summary": "自今年 6 月以来，9 家中国 AI 公司已推出 10 款模型，在推理、编程和智能体等关键领域正逐步逼近美国顶尖闭源模型。CNBC 报道称，美国持续收紧限制，但中国技术正加速进入全球大型企业业务体系，IDC 调查显示安全合规与性能优势是企业采用中国 AI 模型的最主要原因。",
     "source": "IT之家（RSS）",
     "date": "2026年8月14日17时6分"
+  },
+  {
+    "id": "cmsssrxyg0eygrofflrqf9s94",
+    "title": "荣耀方飞：Robot Phone 只是第一代探索，未来手机将从\"应用的容器\"走向\"智能体的舞台\"",
+    "url": "https://www.ithome.com/0/989/866.htm",
+    "summary": "荣耀终端产品线总裁方飞称，Robot Phone 不是简单\"给手机加云台\"，而是对 AI 时代手机新物种的探索，团队用大半年将想法做成可交付产品。该机于 8 月 12 日发布，定价 9，999 元起，搭载第五代骁龙 8 至尊版与端侧大模型 YOYO，并与 ARRI 合作影像技术。方飞认为，未来手机将从\"应用的容器\"走向\"智能体的舞台\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日17时59分"
+  },
+  {
+    "id": "cmsss0amr0eadroffbtm0yqtf",
+    "title": "四位博主给千问发来Offer，把重复琐事交给它处理",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488410&idx=1&sn=a0b2e03fe8aeac44ff2b61d519cf9c53",
+    "summary": "四位博主本周给千问发来\"Offer\"，把重复琐事交给它处理。@无情狗明让千问当摄影助理，负责素材分类、备份、生成Excel清单和在线案例库；@Hello我是路人用「办公助理」打通Todo List、苹果日历和提醒事项，每半小时检查日程并自动顺延任务。",
+    "source": "公众号：千问APP（阿里）",
+    "date": "2026年8月14日17时52分"
+  },
+  {
+    "id": "cmssss1et0f05roffnb9q3frv",
+    "title": "写写那些你目前还不理解的事情",
+    "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet",
+    "summary": "作者主张博客应围绕自己尚未完全理解但想弄清的议题展开，并坚持每篇都提出至少略有争议的观点，以此倒逼研究和思考。写作过程常会改变作者原有看法，如发现新版 OpenAI 模型已失去 o3 的地理定位能力。作者认为新手解释陌生领域反而有优势，且公开个人履历可避免误导读者。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日17时50分"
+  },
+  {
+    "id": "cmsss3koi0eguroffvwu8nd3l",
+    "title": "Grok 超级算力可编辑时间线代码",
+    "url": "https://x.com/EMostaque/status/2088200799809610192",
+    "summary": "给 @X 团队的建议\n\n如果我有 @grok Super Heavy，让我用它直接编辑我时间线的代码，在一定参数范围内\n\n我应该能和 @grok 对话，让它以我想要的方式呈现任何内容、看起来符合我的要求，仅凭那段对话即可",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月14日17时47分"
+  },
+  {
+    "id": "cmsssrxyg0eyjroffa73571pc",
+    "title": "微软 Mico 聊天机器人疑似被\"降职\"，从 Copilot 语音功能移至学习中心",
+    "url": "https://www.ithome.com/0/989/810.htm",
+    "summary": "微软将拟人化聊天机器人 Mico 从 Copilot 语音功能中撤下，转移至 Learn Live 学习中心充当\"导师\"。支持页面称，Mico 积累的交互经验正塑造 Copilot 未来方向，且 Copilot 语音交互功能依然保留。Mico 于 2025 年 10 月推出，默认在语音模式启用，曾内置点击变 Clippy 的彩蛋。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日17时35分"
+  },
+  {
+    "id": "cmssrqpj50dxvroff6myga19e",
+    "title": "苹果自研中国专属大模型，获阿里支持",
+    "url": "https://x.com/thexpin/status/2088195171125256342",
+    "summary": "苹果并非简单地将现有中国模型接入 Apple Intelligence。据路透社报道，苹果在阿里巴巴集团的支持下训练了一个中国专属大语言模型，这标志着其早前依赖通义千问等第三方模型的计划发生重大转变。该专属模型让苹果在中国对其 AI 体验拥有更多掌控力，同时有助于满足当地监管要求。Apple Intelligence 预计将在未来几个月内于中国上线。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月14日17时25分"
+  },
+  {
+    "id": "cmssrqigs0dunrofft7lsp2ew",
+    "title": "RedNote 开源 dots3-note 预览版，280B MoE 智能体模型",
+    "url": "https://x.com/kimmonismus/status/2088194805654323617",
+    "summary": "RedNote 开源 dots3-note Preview，一款 280B MoE 多模态智能体模型，仅 16B 参数同时激活，支持 512K 上下文及文本、图像、视频和音频理解。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日17时23分"
   },
   {
     "id": "cmssqobfq0dbiroffn3ob2wjq",
