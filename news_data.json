@@ -13848,6 +13848,70 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmssbmj9g02hurod0afyu2dt6",
+    "title": "杨元庆：联想曾凭 PC 普及成为\"PC 之王\"，相信 AI 时代历史将重演",
+    "url": "https://www.ithome.com/0/989/532.htm",
+    "summary": "联想集团发布 2026 财年第一财季报告，营收 269.43 亿美元，同比增长 43%，归母净亏损 6.09 亿美元；AI 相关收入同比增长 60% 至 85 亿美元，占总收入 35%。杨元庆称算力分配正从 80% 训练转向更合理的 80% 推理、20% 训练，并强调混合式 AI 与私域 AI 的增长空间，相信联想在 AI 时代将重演 PC 普及阶段的成功。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日9时41分"
+  },
+  {
+    "id": "cmssbmj9g02hvrod0nob2ni4i",
+    "title": "消息称腾讯将从 Meta 手中接下股份，成为 Manus 最大股东",
+    "url": "https://www.ithome.com/0/989/529.htm",
+    "summary": "据《日经新闻》报道，腾讯控股将从 Meta 手中收购 AI 开发商 Manus 的股份，成为其最大股东。此前 Manus 因外资收购被国家发改委禁止投资，并于 8 月 11 日宣布脱离 Meta 恢复独立运营。今年 7 月已有消息称腾讯正考虑入股 Manus，预计变更后腾讯仍只是持有少数股份的外部股东。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日9时36分"
+  },
+  {
+    "id": "cmssal6ps01k3rod0dakw17yr",
+    "title": "人类I/O成本高，批量提问加速对齐",
+    "url": "https://x.com/swyx/status/2088073777779515615",
+    "summary": "人类输入/输出成本高昂，因此在听了 @mattpocockuk 和 @trq212 的建议后，我做了一个 /align-me 修改，支持批量提问而非逐轮问答。这与推测解码的思路一致--通过提前预判 2-10 步来加速。\n\n对设计探索类工作效果极佳。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月14日9时22分"
+  },
+  {
+    "id": "cmssajyiu01ckrod05vjundba",
+    "title": "理解才是新的瓶颈：AI 工程师大会上关于如何跟上智能体代码的演讲",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "summary": "AI 智能体正编写越来越多代码，理解这些代码成为新的瓶颈。作者提出三种高效理解技术：生成结构化代码解释文档、通过交互式测验检验理解、以及构建可操作的微世界。他强调理解不仅为了验证，更为了参与创造过程，并借鉴教育领域方法，如使用 /explain-diff 技能生成 HTML 或 Notion 文档，以及嵌入间隔重复测验来确保真正掌握。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日9时16分"
+  },
+  {
+    "id": "cmssajyiu01cmrod0oj9uuxb4",
+    "title": "Cerebras 与 OpenAI 推出 GPT-5.6 Sol Ultrafast 超快模式",
+    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "summary": "Cerebras 与 OpenAI 在 OpenAI API 中推出 Ultrafast Mode 服务层级，由 Cerebras 驱动 GPT-5.6 Sol，输出速度最高达每秒 750 token，且不牺牲质量。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日9时16分"
+  },
+  {
+    "id": "cmssajyiu01cnrod0vqqxsmpi",
+    "title": "Pi 中压缩机制的工作原理",
+    "url": "https://earendil.com/posts/compaction-in-pi",
+    "summary": "Pi 在对话接近上下文窗口上限时自动触发压缩，也可通过 /compact 命令手动执行。压缩会保留最近若干条消息，将更早内容提取并交由独立 LLM 请求生成结构化摘要，默认保留 2 万 token（约 5 至 20 轮对话）。压缩后的摘要以纯文本存储，便于切换模型继续使用，但会破坏提示词缓存，首次请求需重新计算。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日9时16分"
+  },
+  {
+    "id": "cmss9helt0024rodscxdty9ig",
+    "title": "小马智行与优步扩大合作，计划在欧洲 5 城部署超 2000 辆 Robotaxi",
+    "url": "https://www.ithome.com/0/989/525.htm",
+    "summary": "小马智行与优步 Uber 扩大战略合作，将在欧洲 5 个城市部署超过 2000 辆小马智行 Robotaxi，并在克罗地亚萨格勒布现有商业化运营基础上扩展。萨格勒布服务即将接入 Uber 平台，用户可通过 Uber App 呼叫车辆。小马智行提供 L4 级自动驾驶技术，Uber 提供出行平台支持，双方还将深化中东合作。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日9时10分"
+  },
+  {
+    "id": "cmss9helt0027rodsbtzmot1h",
+    "title": "Mac 版 ChatGPT 新增 Computer History 功能，不再依赖截图记录活动",
+    "url": "https://www.ithome.com/0/989/518.htm",
+    "summary": "OpenAI 以可选方式推出 Computer History 功能，取代 Chronicle 研究预览，为 Mac 版 ChatGPT 提供活动记忆与时间线。该功能改用 macOS 辅助功能记录点击、输入等互动事件，供 ChatGPT 与 Codex 使用。隐私方面，互动事件本地暂存最多 48 小时，纯文字记忆保留至用户手动清除。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日9时0分"
+  },
+  {
     "id": "cmss8fux101gcrowo25swi3ep",
     "title": "唐杰\"soon\"暗示GLM 5.3将至",
     "url": "https://x.com/jietang/status/2088062961965560245",
@@ -13862,6 +13926,14 @@
     "summary": "在智能体内部，低延迟更为重要，因为一个任务可能堆叠多次顺序模型调用。Gemini 3.7\n\nGemini 3.7 Flash 在 FrontierCode 1.1 上达到 Sonnet 5 级性能，成本不到一半。\n\nDevin 在 8 月 27 日前提供五折优惠。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月14日8时32分"
+  },
+  {
+    "id": "cmss9helt0029rodsy7mvb585",
+    "title": "苹果 Apple Glasses 专利获批：音频提示规避智能眼镜被劫持风险",
+    "url": "https://www.ithome.com/0/989/511.htm",
+    "summary": "苹果公司获批一项名为《电子设备安全音频指示器》的专利（公开号 US-20260236218-A1），用于未来 Apple Glasses 智能眼镜。该方案在麦克风或摄像头采集信息时，通过声音或触觉反馈提醒佩戴者，并验证提示音确由设备扬声器输出，防止恶意软件伪造音频或篡改录制状态，确保机主掌控设备。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日8时30分"
   },
   {
     "id": "cmss7te0h02wnroibqhbklbxq",
@@ -14990,6 +15062,118 @@
     "summary": "如果所有人都在做同样的事，我们就去建造下一个未来。\n\n来听听打造 Replit Design 的团队怎么说，了解我们为何要为 AI 时代重塑设计流程。\n\n属于每个人的设计新纪元。\n\nhttps://replit.com/design",
     "source": "X：Replit (@Replit)",
     "date": "2026年8月14日1时0分"
+  },
+  {
+    "id": "cmssdt0sd04m6rod0si1fju7z",
+    "title": "构建推理型 LLM：SupraLabs 推理语料库的流式处理、筛选与微调实用指南",
+    "url": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus",
+    "summary": "本教程构建了处理 SupraLabs 推理语料库的端到端工作流：从 Hugging Face Hub 流式采样 8，000 条数据，分析来源分布、token 长度与推理占比，并应用质量过滤器剔除不合格样本。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月14日11时9分"
+  },
+  {
+    "id": "cmssdstu704iorod0r5bycfgr",
+    "title": "Grok 4.6 需配合 Build 工具使用",
+    "url": "https://x.com/elonmusk/status/2088100521261359218",
+    "summary": "Grok 4.6 与 Grok Build 工具配合使用效果最佳。没有它，体验会明显变差，因此最好使用 Build 进行评估。\n\nhttps://Grok.com/build",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月14日11时8分"
+  },
+  {
+    "id": "cmssdcj7f04atrod0bt79a6es",
+    "title": "AI 开始做科学之后，接下来会发生什么？|先导Link x 彤学会 AI4S 活动报名开启",
+    "url": "https://elsewhere.news/zh/daltonventure/ailink-x-ai4s",
+    "summary": "活动以\"AI 开始做科学之后，接下来会发生什么\"为主题，回顾人类从仰望星空到建立现代科学体系的探索历程，聚焦 AI for Science（AI4S）带来的工具与方法变革。报名通道现已开启，面向关注科学智能融合的从业者与爱好者。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月14日11时2分"
+  },
+  {
+    "id": "cmssdsxrc04ksrod05kfkw5xr",
+    "title": "Meta/Oxford 研究：多模态预训练仅需 5% 图像生成数据",
+    "url": "https://x.com/rohanpaul_ai/status/2088103654519968190",
+    "summary": "Meta 与牛津大学研究发现，若语言与视觉理解同步训练，多模态模型仅需极少量图像生成数据。1T token 实验中最佳配比为 70% 语言、25% 图像理解、5% 图像生成；13.5B 规模 2T token 测试中，图像生成 token 减少 5 倍，GenEval 仍从 0.467 提升至 0.482。研究还指出过晚引入视觉会导致\"视觉惰性\"，模型倾向依赖语言捷径。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日11时21分"
+  },
+  {
+    "id": "cmssdrqmp04fbrod0l956m2gy",
+    "title": "消息称谷歌 DeepMind 不再追逐前沿模型研发，或迎大规模裁员",
+    "url": "https://www.ithome.com/0/989/614.htm",
+    "summary": "谷歌 DeepMind 团队将不再追逐前沿模型研发，转而聚焦性价比更高的 Flash 级别模型。随着重组推进，团队可能迎来最高 1/3 或更高比例的大规模裁员，主要精简按算法岗位招入却未从事算法工作的冗余人员。此前 Alphabet 已于 8 月 5 日宣布重组 DeepMind，哈萨比斯卸任 CEO 转任董事长。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日11时17分"
+  },
+  {
+    "id": "cmssdrqmd04f6rod0rh05f1ly",
+    "title": "文本AI水印总是很容易去除的",
+    "url": "https://www.seangoedecke.com/text-ai-watermarks",
+    "summary": null,
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日11时16分"
+  },
+  {
+    "id": "cmsse3m2q04qbrod0dvh7tcfr",
+    "title": "OpenAI 预览 GPT-5.6 Sol 超快模式",
+    "url": "https://x.com/sama/status/2088101491802243121",
+    "summary": "/ultrafast\n\n【引用 @OpenAI】：预览超快模式：GPT-5.6 Sol 速度提升最高达 14 倍。\n\n将首先在 OpenAI API 中向特定客户群体推出，随着算力增长将逐步向更多企业开放。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年8月14日11时12分"
+  },
+  {
+    "id": "cmssbmj9g02horod0x3d017kw",
+    "title": "谷歌硬件副总裁彭昱钧：Tensor G6 芯片采用台积电最新改良 3nm 制程",
+    "url": "https://www.ithome.com/0/989/551.htm",
+    "summary": "谷歌硬件副总裁彭昱钧确认，Pixel 11 系列搭载的 Tensor G6 芯片采用台积电最新改良 3nm 制程，此前\"首发台积电 2nm\"的传闻不实。Tensor G6 是谷歌迄今最快最强的自研芯片：CPU 带来 15% 应用启动速率和 25% 网页载入速率改进，TPU 计算能力提升 50%，端侧 AI 任务处理速度与能效均提升最高 3.5 倍。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日10时9分"
+  },
+  {
+    "id": "cmssdrp6p04ekrod02gpzl764",
+    "title": "xAI 开源 X 排序算法 Phoenix 权重",
+    "url": "https://x.com/AYi_AInotes/status/2088093117840794029",
+    "summary": "xAI 在 xai-org/x-algorithm 中开源了 X 平台核心排序模型 Phoenix（Grok-based transformer）的合成分数权重。该算法极度偏好传播意图与真实对话，点赞被视为最廉价的信号。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月14日10时39分"
+  },
+  {
+    "id": "cmssbnoz502n2rod0kiksog30",
+    "title": "美团LongCat-2.0上线Nous Portal免费体验",
+    "url": "https://x.com/Meituan_LongCat/status/2088083928871735692",
+    "summary": "LongCat-2.0 现已上线 @NousResearch 门户，可免费搭配 Hermes Agent 试用一周！🐱\n\n这是一款 1.6T 参数的 MoE 模型，拥有 1M 上下文窗口，专为智能体编码打造，在 Terminal-Bench 2.1 上得分 70.8，可一次性处理整个代码库。\n\n立即体验：https://portal.nousresearch.com",
+    "source": "X：美团 LongCat (@Meituan_LongCat)",
+    "date": "2026年8月14日10时2分"
+  },
+  {
+    "id": "cmssdrqmq04fmrod05u2tsl9c",
+    "title": "谷歌 Gboard 输入法 Rambler 功能将支持学习用户口语词汇",
+    "url": "https://www.ithome.com/0/989/586.htm",
+    "summary": "谷歌计划扩展 Gboard 输入法语音转文字工具 Rambler，使其能学习用户现有词典中的词语，无需重新学习常用词。该功能属于 Gemini Intelligence 套件，可整理语音输入内容，删除填充词和停顿。Rambler 使用云端模型，也提供离线模式，但离线时无法使用高级风格改写和复杂对话式语音编辑。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日10时24分"
+  },
+  {
+    "id": "cmsscq1850370rod0s5te6dsb",
+    "title": "Perplexity Agent API 搜索浏览性能翻倍",
+    "url": "https://x.com/AravSrinivas/status/2088087990048600107",
+    "summary": "Perplexity Agent API 最适合用于网页搜索和浏览型智能体。\n\n【引用 @perplexitydevs】：Sonar 正在迁移至 Agent API。\n\nPerplexity Agent API 保留了基于事实的网页搜索，并新增了多步研究、代码执行、内置工具，以及通过单一 API 访问多个模型的能力。\n\n在 BrowseComp 和 WideSearch 基准上，Agent API 的得分是 Sonar 最佳成绩的两倍以上。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月14日10时19分"
+  },
+  {
+    "id": "cmssbnqhf02o6rod0ilctcfzy",
+    "title": "Qwen Live 上线，EP2 直播预告",
+    "url": "https://x.com/Alibaba_Qwen/status/2088087673307361291",
+    "summary": "Qwen Live 现已上线，先来道开胃菜 👀\n\n【引用 @qwen_cloud】：准备好迎接 Qwen Live EP2 了吗？我们将在北京时间上午 10：00 开始！\n\nQwen Cloud：https://www.qwencloud.com/?utm_content=g_20000002312\n\n#QwenCloud",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月14日10时17分"
+  },
+  {
+    "id": "cmssbmj9g02hqrod0v1nlc28z",
+    "title": "SpaceXAI 已建成\"全球最强 AI 训练集群\"，马斯克称明年规模再扩大约 10 倍",
+    "url": "https://www.ithome.com/0/989/537.htm",
+    "summary": "马斯克在 SpaceX 员工会议上称，SpaceXAI（原名 xAI）已建成\"全球最强 AI 训练集群\"，并计划明年年底前将集群规模扩大到当前约 10 倍。该公司位于孟菲斯和南海文的数据中心额定功耗合计 1.4GW，计划到 2027 年底提升至 10GW，增长约 7 倍。马斯克预估，若每瓦价值 30-50 美元且 10GW 算力明年上线，xAI 每年可获 3，000 亿-5，000 亿美元收入。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日10时0分"
   },
   {
     "id": "cmsrq7trl0348rorkwx6py1vl",
