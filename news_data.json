@@ -14760,6 +14760,270 @@
     "date": "2026年8月14日2时0分"
   },
   {
+    "id": "cmst3hu9603h9ro06qvntjq9f",
+    "title": "中国医生用 GPT-5.6 破解 22 年数学难题，Crouzeix 本人确认正确",
+    "url": "https://www.ithome.com/0/989/952.htm",
+    "summary": "北京协和医院神经外科博士后金山木借助 OpenAI 的 GPT-5.6-Sol 模型，在约 16 小时内证明了困扰数学界 22 年的 Crouzeix 猜想。康奈尔大学数学家 Alex Townsend 与华盛顿大学教授 Anne Greenbaum 公开披露此事，并表示猜想提出者 Michel Crouzeix 本人已审阅论文手稿并确认证明正确。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日23时8分"
+  },
+  {
+    "id": "cmst3jed003plro06fcgkjre5",
+    "title": "阿里发布Qwen3.8-27B开源权重",
+    "url": "https://x.com/testingcatalog/status/2088281465549140264",
+    "summary": "阿里巴巴在Hugging Face以Apache 2.0协议发布Qwen3.8-27B权重，该原生多模态稠密模型仅27B参数，整体性能超越Qwen3.7-Plus，在真实编码与办公场景表现突出。模型支持262K原生上下文，可通过YaRN扩展至1M tokens，基准测试表现与Opus 4.6相当。Qwen3.8-2.4T-A95B（Max级）权重也已同步开放。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月14日23时7分"
+  },
+  {
+    "id": "cmst3hu9603haro06ho6wupga",
+    "title": "新研究证实 AI 生成书籍已挤压人类作者作品市场空间",
+    "url": "https://www.ithome.com/0/989/951.htm",
+    "summary": "研究人员分析 2023 年至 2026 年间亚马逊销售的 1.4 万多本电子书，发现含大量 AI 生成文本的图书已多到足以挤压其他图书市场。有销量的图书数量增至原来的 19 倍，但读者总支出仅增至 9 倍，单本平均收入因此减少，未检测出 AI 文本的图书市场份额也在下降。Fairly Trained CEO 称，AI 公司\"不造成经济损失\"的说法已\"彻底站不住脚\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日23时6分"
+  },
+  {
+    "id": "cmst3hrvy03gpro06j0c72868",
+    "title": "@cursor_ai 把自己卖给了@SpaceXAI 独立工具的黄金时代结束了。。。 说实话，\"收购\"这个词可能不够准确。 准确讲Cursor不是被收购，更像是被收编进了马斯克的AI军团。 我…",
+    "url": "https://x.com/AYi_AInotes/status/2088281134496903667",
+    "summary": null,
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月14日23时6分"
+  },
+  {
+    "id": "cmst4lq8504kwro0608rly7ss",
+    "title": "Gemini 应用新增关闭视觉水印选项",
+    "url": "https://x.com/fofrAI/status/2088292414549070228",
+    "summary": "提醒一下，如果你在用 Gemini 应用生成图片、视频或歌曲，现在可以关闭视觉水印（角落里的 ✨）了🙌\n\n这适用于所有图片（Nano Banana）、视频（Omni）和歌曲（Lyria）上的水印，但法律要求保留水印的国家除外。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月14日23时51分"
+  },
+  {
+    "id": "cmst4lre904lero06s0ezr77w",
+    "title": "通义千问发布 Qwen3.8-27B：单 GPU 运行，原生 262K 上下文可扩展至 1M",
+    "url": "https://x.com/Alibaba_Qwen/status/2088292188505755728",
+    "summary": "通义千问发布 Qwen3.8-27B，采用与 2.4T 旗舰相同的混合骨干架构，但为稠密而非 MoE，单张 Blackwell GPU 即可运行。原生 262K 上下文可扩展至 1M，GB300 上可同时处理 6 条全长序列；MTP 草稿头内置于检查点，短提示词接受率 BF16 达 92.2%、FP8 达 84.8%。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月14日23时50分"
+  },
+  {
+    "id": "cmst4ki3x04g5ro06hem2d5to",
+    "title": "Meta 新框架揭示 LLM 裁判易被说服改判",
+    "url": "https://x.com/omarsar0/status/2088292067994951928",
+    "summary": "Meta 发布 Wiggle 框架，对 9 个前沿模型在 14 项裁判任务中施压测试，发现所有模型都会\"摇摆\"：静态反驳下改判率 25-71%，对抗性说服下高达 62-91%。改变裁判判决的压力几乎总是损害其相对真实答案的准确性，而基线陪审团多数优势是预测哪些项目会变动的最佳单一指标。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月14日23时50分"
+  },
+  {
+    "id": "cmst3jde103pdro063l9qykuw",
+    "title": "GLM-5.3 开放前安全评估：网络防御能力显著提升",
+    "url": "https://x.com/Zai_org/status/2088280509474320693",
+    "summary": "智谱发布 GLM-5.3，为网络安全任务最强模型，在漏洞发现、利用分析和多步安全任务上大幅提升。CyberGym 得分 84.5%（GLM-5.2 为 77.2%），ExploitBench 达 54.4%（此前 24.4%），ExploitGym 两小时完成 105 项任务（此前 29 项）。因双重用途风险，将先由安全伙伴受控评估，再开放 API 和完整权重。",
+    "source": "X：智谱 Z.ai (@Zai_org)",
+    "date": "2026年8月14日23时4分"
+  },
+  {
+    "id": "cmst4o79004ogro06jtuntrow",
+    "title": "Qwen3.8-Max上线DigitalOcean无服务器推理",
+    "url": "https://x.com/alibaba_cloud/status/2088290861956432221",
+    "summary": "Qwen3.8-Max已在DigitalOcean Serverless Inference上线。与DigitalOcean作为Day 0发布合作伙伴同步推出。大模型，顺畅运行。现已登陆DigitalOcean。🌊🏄♀️ @digitalocean",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月14日23时45分"
+  },
+  {
+    "id": "cmst4llcn04ikro069kpjqjba",
+    "title": "Tibo 向 Google 开火，幽默回应质疑",
+    "url": "https://x.com/kimmonismus/status/2088290801642086861",
+    "summary": "此时此刻，Tibo 正与所有人开战。矛头直指 Google。\n\n（我爱 Tibo 的幽默）\n\n【引用 @thsottiaux】：@jun_song 飞快的石头终究还是石头。我们要去的地方，不需要石头",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日23时45分"
+  },
+  {
+    "id": "cmst4o79004ohro061t9lscsj",
+    "title": "Qwen 3.8-Max 登陆 Modal 支持百万上下文",
+    "url": "https://x.com/alibaba_cloud/status/2088290416462602438",
+    "summary": "Qwen 3.8-Max 已在 Modal 上线，支持完整 1M 上下文窗口，并配备定制的 DFlash 投机解码器。很高兴看到我们的发布合作伙伴 Modal 从第一天起就全力投入！⚡️ 2.4T 参数。1M 上下文。而且，依然只需一次 Modal 调用即可使用。@modal",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月14日23时43分"
+  },
+  {
+    "id": "cmst4kgoc04fdro068az54sz1",
+    "title": "Meta 的 Glimmer 发布与\"AI for everyone\"愿景：扎克伯格真的相信吗？",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone",
+    "summary": "Meta 发布 Glimmer 并重申\"AI for everyone\"愿景，引发对其真实意图的讨论。本期 Equity 同时探讨了 AI 数据中心成本攀升、Joby 进军国防领域，以及一笔 2.5 亿美元收购因欺诈指控而告吹的事件。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月14日23时43分"
+  },
+  {
+    "id": "cmst4lr1f04l8ro069pu9ll4b",
+    "title": "Energy 智能体支持多浏览器配置与多邮箱",
+    "url": "https://x.com/gabriel1/status/2088290359063580883",
+    "summary": "令人意外的是，接入过程中最让人兴奋的是：\n- 智能体在导航时能够使用多个浏览器配置文件\n- 智能体能够为同一连接器使用多个邮箱",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月14日23时43分"
+  },
+  {
+    "id": "cmst4o79004oiro06g9p67rso",
+    "title": "Qwen3.8-Max 登陆 Nebius Token Factory",
+    "url": "https://x.com/alibaba_cloud/status/2088290018985148460",
+    "summary": "Qwen3.8-Max 将于 Day 0 登陆 Nebius Token Factory。很高兴与 Nebius 作为我们的 Day 0 首发合作伙伴共同启动，为更多用户带来专属推理。大模型，从一开始就到位。🔥 @nebiustf",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月14日23时41分"
+  },
+  {
+    "id": "cmst3tsi203x8ro06ykim8voc",
+    "title": "OpenClaw 西雅图 ClawCon 圆满落幕",
+    "url": "https://x.com/openclaw/status/2088280367656845778",
+    "summary": "西雅图，我们来了🦞\n\n感谢我们团队的 @Pat_Erichsen 和 @FullerStackDev，以及上周末参加 ClawCon 西雅图活动的每一位朋友。\n\n敬请期待更多关于 ClawCon 新站点的信息！",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年8月14日23时3分"
+  },
+  {
+    "id": "cmst4o79004ojro06n2bvd4pw",
+    "title": "Qwen3.8-Max 上线 Fireworks，面向智能体与重度编码场景",
+    "url": "https://x.com/alibaba_cloud/status/2088289528499089452",
+    "summary": "阿里云 Qwen3.8-Max 已在 Fireworks 平台 Day 0 上线。该 2.4T 参数 MoE 模型（Qwen3.8-2.4T-A95B）专为自主智能体、重度编码和大上下文窗口设计，即日起可开始构建。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月14日23时39分"
+  },
+  {
+    "id": "cmst4lniy04jero06iff85bt5",
+    "title": "Grok 4.6 在 EEBench 上超越多款竞品",
+    "url": "https://x.com/cb_doge/status/2088289324299399584",
+    "summary": "Grok 4.6 在 EEBench（电气工程基准测试）上击败了 Claude Fable 5、Claude Opus 4.8、Gemini 3.1 Pro、GPT-5.5 和 GPT-5.6 Sol。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月14日23时39分"
+  },
+  {
+    "id": "cmst4kkgf04gbro06olkgg0da",
+    "title": "Qwen3.8-27B 发布：27B 参数原生多模态模型，综合表现超越 Qwen3.7-Plus",
+    "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+    "summary": "通义千问发布 Qwen3.8-27B，一款仅 27B 参数的原生多模态密集模型，综合表现超越 Qwen3.7-Plus，在真实编码与办公工作流中尤为突出。该模型原生支持 262K 上下文，可通过 YaRN 轻松扩展至 1M token，采用 Apache 2.0 许可证开源。此外，Qwen3.8-2.4T-A95B（Max 级）的开放权重也已于近期发布。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日23时39分"
+  },
+  {
+    "id": "cmst4o79004okro06melnruq5",
+    "title": "Qwen3.8-Max 上线 Together AI，2.4T 参数支持 1M 上下文",
+    "url": "https://x.com/alibaba_cloud/status/2088288978856558634",
+    "summary": "Qwen3.8-Max 已在 Together AI 平台上线，Together AI 作为 Day 0 首发合作伙伴。该开源权重 MoE 模型拥有 2.4T 总参数、95B 激活参数和 1M 上下文窗口，并具备强大的编程与智能体能力。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月14日23时37分"
+  },
+  {
+    "id": "cmst4lnog04joro06vsnagvmu",
+    "title": "勿据当前AI态势过度外推",
+    "url": "https://x.com/emollick/status/2088288410670940213",
+    "summary": "人们正基于当前系统价格、采用率与能力极不稳定的特性，对AI在企业中的影响及正确使用方式做出过于自信的推断。\n\n现在正是确保你为未来构建灵活性的好时机。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月14日23时35分"
+  },
+  {
+    "id": "cmst4lre904lfro0611nuuhr7",
+    "title": "Qwen3.8-Max登陆DigitalOcean无服务器推理",
+    "url": "https://x.com/Alibaba_Qwen/status/2088288356337897550",
+    "summary": "Qwen3.8-Max已在DigitalOcean Serverless Inference上线。与DigitalOcean作为Day 0发布合作伙伴同步推出。大模型，平稳运行。现已登陆DigitalOcean。🌊🏄♀️ @digitalocean",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月14日23时35分"
+  },
+  {
+    "id": "cmst4lre904lgro06yj8tno28",
+    "title": "Qwen 3.8-Max 登陆 Modal，支持 1M 上下文",
+    "url": "https://x.com/Alibaba_Qwen/status/2088287553292312968",
+    "summary": "Qwen 3.8-Max 已在 Modal 上线，拥有完整 1M 上下文窗口，并配备自定义 DFlash 投机解码器。很高兴看到我们的首发合作伙伴 Modal 从第一天起就全力投入！⚡️ 2.4T 参数。1M 上下文。而且，依然只需一次 Modal 调用即可使用。@modal",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月14日23时32分"
+  },
+  {
+    "id": "cmst4ynjl054oro06fpiiroi2",
+    "title": "DeepSeek 涨价后 YouMind 默认模型升级免费开放",
+    "url": "https://x.com/lifesinger/status/2088287261955948721",
+    "summary": "DeepSeek 涨价后，YouMind 决定选用比 dsv4f 更好的模型作为默认模型，并免费开放给所有付费用户。为控制成本，可能仅对老付费用户免费提供该默认模型。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月14日23时30分"
+  },
+  {
+    "id": "cmst4o79004olro06iicxfj6w",
+    "title": "阿里云推出AI Spotlight系列首期聚焦Qwen3.8-Max",
+    "url": "https://x.com/alibaba_cloud/status/2088287252116013385",
+    "summary": "我们正在推出AI Spotlight，这是一个深入探讨Qwen模型和AI产品的新系列。第一期：Qwen3.8-Max及其独特之处。\n\n这只是第一期，更多视频即将推出。敬请期待！\n\n在此之前，欢迎前往以下平台查看：\n\nQwen Cloud： https://click.qwencloud.com/m/20000001102/ Model Studio： https://click.alibabacloud.com/m/20000001093/\n\n#AISpotlight #Qwen3_8Max #AlibabaCloud #Multimodal #AgenticAI",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月14日23时30分"
+  },
+  {
+    "id": "cmst3j53e03ncro068tgsr4xn",
+    "title": "通义千问开源 Qwen3.8 系列模型",
+    "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+    "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月14日23时2分"
+  },
+  {
+    "id": "cmst3j14w03l1ro06bsjz8jmt",
+    "title": "Qwen3.8-27B 发布：小模型挑战前沿智能体",
+    "url": "https://x.com/kimmonismus/status/2088280043759780324",
+    "summary": "阿里通义千问发布 Qwen3.8-27B，仅 27B 参数的开源多模态模型，宣称在智能体编程、计算机使用、浏览器任务及长周期专业工作中达到 SOTA，多项基准超越 Claude Opus 4.6 Max。支持图像、视频、可配置推理，原生 262K 上下文窗口可扩展至 1M，Apache 2.0 协议可自托管。基准结果为官方自测，尚待独立验证。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日23时2分"
+  },
+  {
+    "id": "cmst4ki3y04g6ro06iifolz2m",
+    "title": "Elvis Saravia 实测 Slack AI 员工 Viktor：集成层是护城河",
+    "url": "https://x.com/omarsar0/status/2088286997492146627",
+    "summary": "DAIR.AI 的 Elvis Saravia 实测 Slack 中的 AI 员工 Viktor，其护城河在集成层，通过单次连接触达约 3，000 个工具，采用 scoped OAuth 和 SOC 2 认证。Viktor 以常驻简报运作，所有操作需人工审批并留痕。客户 KULINA Group 称其将 5 个活动扩展至 29 个市场，花费 250 万美元且未增员。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月14日23时29分"
+  },
+  {
+    "id": "cmst4lre904lhro065lf8rdx1",
+    "title": "Qwen3.8-Max 登陆 Nebius Token Factory",
+    "url": "https://x.com/Alibaba_Qwen/status/2088286592431689909",
+    "summary": "Qwen3.8-Max 将于 Day 0 登陆 Nebius Token Factory。很高兴与 Nebius 作为 Day 0 首发合作伙伴携手启动，为更多用户带来专属推理服务。大模型，从一开始就火力全开。🔥@nebiustf",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月14日23时28分"
+  },
+  {
+    "id": "cmst4lrea04liro06y78k3s70",
+    "title": "Qwen3.8-Max 上线 Fireworks，Day 0 即支持",
+    "url": "https://x.com/Alibaba_Qwen/status/2088286022597832788",
+    "summary": "通义千问发布 Qwen3.8-Max，已上线 Fireworks 并获 Day 0 支持。该模型为 2.4T 参数 MoE 架构（A95B），专为自主智能体、重度编程和长上下文场景设计，即日起可开始构建应用。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月14日23时26分"
+  },
+  {
+    "id": "cmst4lrea04ljro069i71lyk7",
+    "title": "Qwen3.8-Max 上线 Together AI，2.4T 参数",
+    "url": "https://x.com/Alibaba_Qwen/status/2088285662223138851",
+    "summary": "通义千问发布 Qwen3.8-Max，已作为 Day 0 首发合作伙伴上线 Together AI。该开源权重 MoE 模型拥有 2.4T 总参数、95B 激活参数和 1M 上下文窗口，具备强大的编程与智能体能力。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月14日23时24分"
+  },
+  {
+    "id": "cmst4lld304imro061hg653wm",
+    "title": "ChatGPT 中文谐音梗引热议",
+    "url": "https://x.com/frxiaobei/status/2088285541813067863",
+    "summary": "ChatGPT 在 INS 发了张 chatjipiti。\n\n很难不怀疑，OpenAI 内部的中国人思乡情绪有点重了。\n\nGPT 可以都得改名叫「机皮提」了。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月14日23时24分"
+  },
+  {
+    "id": "cmst4ki3y04g7ro06cm6wak2l",
+    "title": "GLM-5.3 开源模型性能达前沿水平",
+    "url": "https://x.com/omarsar0/status/2088285301412147686",
+    "summary": "开放权重模型持续进步。如今 GLM-5.3 已展现出前沿性能。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月14日23时23分"
+  },
+  {
+    "id": "cmst3j53e03naro065gflygkp",
+    "title": "Qwen3.8-Max 登陆 Fireworks，Day 0 上线",
+    "url": "https://x.com/Alibaba_Qwen/status/2088284854614155640",
+    "summary": "通义千问发布 Qwen3.8-Max，已在 Fireworks 平台 Day 0 上线。该模型为 2.4T 参数 MoE 架构（A95B），专为自主智能体、重度编码和长上下文任务设计，即日起可开始构建应用。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月14日23时21分"
+  },
+  {
     "id": "cmst2thtx0338ro06wp9kh6j5",
     "title": "DSH与YouMind各自潜力被看好",
     "url": "https://x.com/lifesinger/status/2088279843230322878",
@@ -14776,11 +15040,59 @@
     "date": "2026年8月14日23时1分"
   },
   {
+    "id": "cmst4las904horo06n4p402qf",
+    "title": "GLM-5.3 获赞：700B 参数表现亮眼",
+    "url": "https://x.com/AravSrinivas/status/2088279811261362239",
+    "summary": "对于一个 700B 参数的模型来说，这个数字令人印象深刻！",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月14日23时1分"
+  },
+  {
+    "id": "cmst3x2c5043gro06fk9pbpup",
+    "title": "Cursor 正式并入 SpaceX，加入 SpaceXAI 团队",
+    "url": "https://x.com/ericzakariasson/status/2088283972069728634",
+    "summary": "Cursor 宣布正式完成被 SpaceX 收购，团队将加入 @SpaceXAI，共同打造 Grok 为全球最实用的 AI，并改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。主推文作者 Eric Zakariasson 表示，自加入近两年来团队从十几人发展至今，成果令人惊叹，期待继续建设。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月14日23时17分"
+  },
+  {
+    "id": "cmst3j53e03nbro06y2uhm176",
+    "title": "Qwen3.8-Max上线Together AI，2.4T参数",
+    "url": "https://x.com/Alibaba_Qwen/status/2088283891492954432",
+    "summary": "Qwen3.8-Max已在Together AI上线。Together AI是我们的Day 0首发合作伙伴，我们找不到更合适的名字来共享Day 0。2.4T参数、95B激活、1M上下文--现在全部齐了。🧑🤝🧑",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月14日23时17分"
+  },
+  {
+    "id": "cmst3hu9603h8ro069aafzsqu",
+    "title": "阿里开源 Qwen3.8-27B 模型，编程、办公场景表现超越 Qwen3.7-Plus",
+    "url": "https://www.ithome.com/0/989/953.htm",
+    "summary": "阿里千问大模型公众号宣布正式开源 Qwen3.8-27B，所有开发者、科研机构和企业均可自由下载、部署和使用。该模型为原生多模态稠密模型，支持 262K 原生上下文，可通过 YaRN 技术外推至 1M Tokens。较 Qwen3.6-27B，新模型在编程和办公场景性能大幅提升，表现超越 Qwen3.7-Plus，并新增 reasoning_effort 功能以按任务难度控制思考深度。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日23时13分"
+  },
+  {
+    "id": "cmst3llcd03qlro06fcyybhrk",
+    "title": "阿里云开源 Qwen3.8 系列模型",
+    "url": "https://x.com/alibaba_cloud/status/2088282795638394986",
+    "summary": "阿里云兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已发布。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月14日23时13分"
+  },
+  {
     "id": "cmst2uhgs03brro069ow0zjfe",
     "title": "OpenRouter 推出网页搜索基准评测",
     "url": "https://x.com/OpenRouter/status/2088279603861467304",
     "summary": "推出网页搜索基准评测 🌐\n\n不同模型和配置下搜索工具的排名，帮助你决定如何为智能体提供事实依据：https://openrouter.ai/benchmarks",
     "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月14日23时0分"
+  },
+  {
+    "id": "cmst3j5pp03nvro06p1ghxwt8",
+    "title": "Krea Slack 无限生成限时开放",
+    "url": "https://x.com/krea_ai/status/2088279481765007592",
+    "summary": "Krea 在 Slack 中无限使用。\n\n仅限 8 月 21 日前，商业版套餐可在 Slack 中无限生成 Krea--无速率限制，无长队，无套路。\n\n年度套餐额外享有一周无限使用！了解更多 👇",
+    "source": "X：Krea AI (@krea_ai)",
     "date": "2026年8月14日23时0分"
   },
   {
@@ -14846,6 +15158,14 @@
     "summary": "法国初创公司 Kog 正押注通过软件优化从企业现有的标准数据中心 GPU（如 AMD MI300X 和 NVIDIA H200）中挖掘更多推理性能，其演示实现了每秒 3，000 token 的推理速度，并承诺\"30 倍更快的 LLM 推理\"。基于早期反馈，Kog 预计软件工程将是首个应用场景，并计划在 9 月前以 10 倍速度运行首个大模型，以推动 A 轮融资。",
     "source": "TechCrunch：AI（RSS）",
     "date": "2026年8月14日22时50分"
+  },
+  {
+    "id": "cmst3hu9603hero06e9hb9ylh",
+    "title": "理想汽车探索自研云端推理芯片，沿用智驾芯片数据流架构",
+    "url": "https://www.ithome.com/0/989/947.htm",
+    "summary": "理想汽车正探索自研云端推理芯片，采用与智驾芯片相同的数据流架构，项目仍处早期阶段。该芯片可承接部分GPU上的推理任务，包括智驾模型数据处理、测试、仿真及大语言模型请求处理。一种路径是复用车端NPU计算设计，将多个AI计算晶粒封装并配套高带宽内存与高速互联，以分摊研发成本。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日22时48分"
   },
   {
     "id": "cmst2gezw02gqro06zpbyhj6i",
