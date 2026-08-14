@@ -13848,12 +13848,60 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmstkomj60atrro0xkht1pl4b",
+    "title": "传Anthropic拟60亿美元收购Decart",
+    "url": "https://x.com/rohanpaul_ai/status/2088402176821665842",
+    "summary": "彭博社报道，Anthropic 正洽谈以约 60 亿美元收购 Decart AI，这将是其已知最大的一笔收购。\n\nDecart 的软件能让芯片更高效地运行训练和推理工作，旨在帮助 Anthropic 现有的计算基础设施承接更多需求。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日7时7分"
+  },
+  {
+    "id": "cmstkomj60atqro0x38d3qies",
+    "title": "Faraday 27B 智能体以论文复现超越 Opus 4.8 与 GPT-5.5",
+    "url": "https://x.com/rohanpaul_ai/status/2088405028784779504",
+    "summary": "Faraday 是一个 27B 参数的研究智能体，通过学会\"指导研究、外包编码\"，在 68 个未见 AI-for-science 任务上得分 0.791，超越 Claude Opus 4.8（0.748）和 GPT-5.5（0.729），并在 60% 任务上胜出。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日7时18分"
+  },
+  {
+    "id": "cmstkzc050az0ro0xvzlxtb7s",
+    "title": "OpenClaw 致歉：发布值得等待",
+    "url": "https://x.com/openclaw/status/2088404283243024588",
+    "summary": "感谢你们的耐心等待，我们正在妥善完成这项工作，并确保这次发布值得等待。",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年8月15日7时15分"
+  },
+  {
+    "id": "cmstkzb6m0ayyro0x37mavop5",
+    "title": "NVIDIA 发布 MOPD 专家模型",
+    "url": "https://x.com/natolambert/status/2088404157627879559",
+    "summary": "很高兴看到 @NVIDIAAI 发布了他们的 MOPD 专家模型。这让该领域的研究变得更加可及（尽管对大多数研究者来说这些模型仍然很大）。https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Teacher-Competition-Coding",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月15日7时15分"
+  },
+  {
     "id": "cmstjwqco0aarro0x0p4apr95",
     "title": "Replit 本周更新：入选 Inc. 5000 并发布多项新功能",
     "url": "https://x.com/Replit/status/2088400279070744794",
     "summary": "Replit 本周动态\n\n我们入选了 Inc. 5000 榜单，并发布了一系列更新：\n\n1） 可选择工作区区域 2） Replit MCP 升级 3） 将现有应用迁移至 Clerk Auth 4） 新增 MCP 服务器、管理 API 及内联图表\n\nThread 🧵",
     "source": "X：Replit (@Replit)",
     "date": "2026年8月15日7时0分"
+  },
+  {
+    "id": "cmstkonm60aucro0xv4o8b1lt",
+    "title": "Gemini 3.7 Flash 搭配 Nano Banana 2 Lite 快速探索创意",
+    "url": "https://x.com/fofrAI/status/2088399159426420985",
+    "summary": "我喜欢\"创意 > 3.7 flash > nano banana 2 lite\"这种速度组合。我可以如此快速地探索各种想法。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月15日6时55分"
+  },
+  {
+    "id": "cmstkn5hp0apdro0xudhl7k6o",
+    "title": "英伟达全面投产 Spectrum-X，全球首款量产 200G/lane CPO 交换机",
+    "url": "https://www.ithome.com/0/989/970.htm",
+    "summary": "英伟达官宣全面投产 Spectrum-X 以太网光子交换机，成为全球首款量产的 200G/lane 共封装光器件（CPO）交换机系统。相比传统可插拔光模块，该架构功耗降至 1/5，激光器数量减至 1/4，AI 应用无中断运行时间延长 5 倍。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日6时53分"
   },
   {
     "id": "cmstjkrym09tkro0xyi14z5io",
