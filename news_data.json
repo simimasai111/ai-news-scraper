@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsthrkg908r7ro0xe7ucig0c",
+    "title": "Replit Designathon 获奖名单揭晓",
+    "url": "https://x.com/Replit/status/2088385172836331881",
+    "summary": "Designathon 获奖者揭晓！🏆\n\n超过 5 万美元现金和积分奖励，3 个大奖 + 7 个类别奖项，以及社区用 Replit Design 构建的精彩作品。\n\n以下是每位获奖者及其获奖理由 🧵",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月15日6时0分"
+  },
+  {
+    "id": "cmsthr6m608phro0xbtj77pjq",
+    "title": "不要分类，去幻觉：用向量嵌入为博客打标签",
+    "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate",
+    "summary": "Simon Willison 分享了一个为旧博客内容打标签的新思路：让模型先自由想象可能适合的标签，再用向量嵌入在现有 1，856 个标签中寻找最接近的具体标签。Doug Turnbull 提出了这一方案，其示例提示词会引导模型生成从未见过的新分类，再通过语义匹配映射到已有标签体系。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月15日5时54分"
+  },
+  {
+    "id": "cmsthhcjt06kkro0x9ghtxch7",
+    "title": "Qwen 3.8 27B 免费击败 Claude Opus 4.6",
+    "url": "https://x.com/testingcatalog/status/2088383187936494002",
+    "summary": "AI/ML API 用同一任务对比测试，自托管 Qwen 3.8 27B 免费生成 three.js 沉没亚特兰蒂斯场景及 20 秒镜头漫游，Claude Opus 4.6 花费 $0.21。Qwen 构建了完整神庙与发光传送门，画面元素更丰富；Opus 则呈现柱列渐隐、布局稀疏。Qwen 权重已开源至 Hugging Face，可自行运行。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月15日5时52分"
+  },
+  {
+    "id": "cmsthh2fk06jaro0xichvs9eg",
+    "title": "Databricks 188B 美元融资：AI 智能体驱动增长",
+    "url": "https://x.com/swyx/status/2088381680478540096",
+    "summary": "Databricks 完成 188B 美元融资，CEO Ali Ghodsi 称其 80% 增速源于企业 AI 智能体突破。Genie Ontology 自动化了企业上下文构建，使 Genie 智能体可回答高管问题，目前平台超 70% 查询由其生成，推动消费与收入增长。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月15日5时46分"
+  },
+  {
+    "id": "cmsthrjn508qxro0xa8j5cgh0",
+    "title": "中国数据产业加速，GLM 5.3 实力获认可",
+    "url": "https://x.com/natolambert/status/2088380061053603976",
+    "summary": "Nathan Lambert 称中国数据产业正高速发展，与四月访华时相比变化巨大。其引用文章指出，GLM 5.3 等中国模型实力强劲，业界应停止对此感到意外，并承认这些模型是货真价实的。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月15日5时39分"
+  },
+  {
     "id": "cmstgucbq067zro0xkuon9ioi",
     "title": "Databricks 如何在数据仓库中使用 AI_Functions：主要用例解析",
     "url": "https://www.databricks.com/blog/using-aifunctions-your-data-warehouse-top-use-cases",
@@ -13856,12 +13896,28 @@
     "date": "2026年8月15日5时30分"
   },
   {
+    "id": "cmsthh42n06jqro0x75yd4739",
+    "title": "Anthropic 推出水印检测 API，第三方可识别 Claude 生成的文本",
+    "url": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts",
+    "summary": "Anthropic 将推出水印检测 API，让第三方开发者能将 AI 文本检测集成到自有应用中。该水印基于 Google DeepMind 2024 年发表于 Nature 的 SynthID Text 方法变体，通过调整选词时的随机源留下可追踪模式，且不影响文本内容、创意性或可读性。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月15日5时29分"
+  },
+  {
     "id": "cmstgoy69061oro0x9ov7i67a",
     "title": "GLM 5.3 解读：为何不再惊讶中国模型",
     "url": "https://x.com/natolambert/status/2088377248156205084",
     "summary": "GLM 5.3 要点，以及我们为何不应再对这些非常强大的中国模型感到惊讶（这大部分是我在梳理自己的一些否认情绪--是的，这些模型是货真价实的）。https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
     "source": "X：Nathan Lambert (@natolambert)",
     "date": "2026年8月15日5时28分"
+  },
+  {
+    "id": "cmsthuh2y0911ro0xh9cn86ep",
+    "title": "GLM-5.3：中国实验室如何跟上前沿步伐",
+    "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+    "summary": "Z.ai 今日发布 GLM-5.3，目前仅限编程套餐使用，API 即将上线，两周后开源权重至 Hugging Face。该模型在多项基准上超越 Moonshot AI 的 Kimi K3，部分指标超过 Claude Fable 5 或 GPT-5.6-Sol，仅约 750B 参数，为 Kimi K3 的三分之一。",
+    "source": "Nathan Lambert：Interconnects（RSS）",
+    "date": "2026年8月15日5时23分"
   },
   {
     "id": "cmstge4lj05umro0xshnegv93",
