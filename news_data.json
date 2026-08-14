@@ -13848,11 +13848,43 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmstd58na03g0ro0xo7socqy3",
+    "title": "软件、数字商品及服务的\"TEMU化\"",
+    "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services",
+    "summary": "大语言模型正以近零边际成本生产\"勉强够用\"的软件与数字内容，形成大量低质低价与少量高价人工作品的双层市场。Veracode 报告显示约 45% 的 AI 生成代码样本未通过安全测试，IEEE-ISTAS 论文记录五次迭代提示后关键漏洞增加 37.6%。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月15日3时38分"
+  },
+  {
+    "id": "cmstd6e9103jrro0xw5hgp948",
+    "title": "Genspark AI Workspace 6.0 迈向AI操作系统",
+    "url": "https://x.com/rohanpaul_ai/status/2088346832523157812",
+    "summary": "AI真正的升级不只是智能，而是拥有一个能记住一切并跨场景工作的系统。\n\n@genspark_ai 的 AI Workspace 6.0，看起来是朝这个方向非常雄心勃勃的一次发布。感觉更像一个 AI 操作系统，而非又一个 AI 工具。\n\nAI 智能体 + 个人邮件大脑 + 设计与商业工具，并在它们之间保持上下文连贯。\n\n以下是 6 个工作流：",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日3时27分"
+  },
+  {
+    "id": "cmstcekv10336ro0xwbr47kk2",
+    "title": "Cohere 与多伦多大学合作圆满闭环",
+    "url": "https://x.com/cohere/status/2088346004407939188",
+    "summary": "与多伦多大学（@UofT）的缘分圆满闭环\n\n2017年：2026年：",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年8月15日3时24分"
+  },
+  {
     "id": "cmstc3u8j02xhro0xf5o1ouas",
     "title": "Claude 文本水印机制如何运作",
     "url": "https://www.anthropic.com/news/claude-text-watermark",
     "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
     "source": "Anthropic：Newsroom（网页）",
+    "date": "2026年8月15日3时22分"
+  },
+  {
+    "id": "cmstd58nb03g1ro0xvgc38fqr",
+    "title": "谷歌用同态加密让私有化 AI 推理走向实用：开源编译器 HEIR 发布",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+    "summary": "谷歌发布开源编译器 HEIR，可将预训练 AI 模型转换为直接处理加密输入，实现密码学级别的私有推理。该工具已支持深度推荐、信用卡欺诈检测、网络异常检测和热词识别四个应用，单线程 CPU 延迟数据已公开。谷歌正与 Belfort、Niobium 等硬件加速器厂商合作，以降低同态加密的成本开销。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月15日3时22分"
   },
   {
