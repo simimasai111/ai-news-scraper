@@ -15064,6 +15064,102 @@
     "date": "2026年8月14日1时0分"
   },
   {
+    "id": "cmssuyawu0gx8rofflo2tuj7c",
+    "title": "Anthropic 为 Claude Code 新增自动继续功能",
+    "url": "https://x.com/kimmonismus/status/2088221343703613576",
+    "summary": "Anthropic 为 Claude Code 桌面版新增\"自动继续\"复选框：任务未完成但资源用尽时，开启后会在额度重置后自动从断点继续。评论者认为这回避了资源不足的根源问题，但功能本身实用。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日19时9分"
+  },
+  {
+    "id": "cmssux7v40gv3roffgo5tg2g6",
+    "title": "Bullet（YC S26）发布：一款更快的编码代理",
+    "url": "https://www.codewithbullet.com/",
+    "summary": "Bullet（YC S26）正式发布，定位为更快的编码代理，其核心优势在于更精简的编排层。该产品主打速度提升，面向需要高效编码辅助的开发者，具体性能参数与可用性细节暂未披露。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日19时8分"
+  },
+  {
+    "id": "cmssuyahl0gwsroff0skjlvbg",
+    "title": "人创造Agent后，人的价值何在？",
+    "url": "https://x.com/frxiaobei/status/2088219793757507728",
+    "summary": "协作模式正转向Agent间交互，同事答疑多直接转发Agent回复截图，人工翻代码渐少。未来每人或需搭建\"嘴替Agent\"统一处理可答问题，减少人工路由。人创造新物种后自身价值与去向成新命题。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月14日19时2分"
+  },
+  {
+    "id": "cmssuyi5c0h0kroffo7yznjv1",
+    "title": "Qwen3.8-27B 即将发布，作者称肝不动",
+    "url": "https://x.com/karminski3/status/2088222784212337004",
+    "summary": "Qwen3.8-27B 也要发… 肝不动了.. 🙂",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月14日19时14分"
+  },
+  {
+    "id": "cmssuyahl0gwtroff87j4y0v7",
+    "title": "DeepSeek API 调价：价格翻三倍，峰谷定价",
+    "url": "https://x.com/frxiaobei/status/2088218166132371499",
+    "summary": "DeepSeek 发布 API 调价公告，价格翻了三倍，并引入峰谷定价机制。空闲时段价格为高峰时段的一半，高峰时段为北京时间 9：00-12：00、14：00-18：00。新价格将于 2026 年 8 月 17 日生效，其中 deepseek-v4-pro 高峰时段百万 tokens 输出最高达 27 元。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月14日18时56分"
+  },
+  {
+    "id": "cmssuyd2t0gyyroffd300qw7p",
+    "title": "百度Kuku AI更名升级，月活超2500万",
+    "url": "https://x.com/Baidu_Inc/status/2088217299954368731",
+    "summary": "更名升级，为职场带来更强大的AI：认识一下 Kuku AI 👋\n\n此前名为 GenFlow，4月月活跃用户突破1亿。如今，Kuku AI 的职场AI工具月活跃用户已超过2500万。\n\n为满足快速增长的职场AI需求，Kuku AI 正推出桌面版和网页版，以及企业版，将通用AI带入专业工作流程。",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月14日18时52分"
+  },
+  {
+    "id": "cmssu8rif0getroffktizwnng",
+    "title": "玉伯推荐 Anthropic 风格插画 Skill",
+    "url": "https://x.com/lifesinger/status/2088216125549240578",
+    "summary": "玉伯推荐一款 YouMind 新发布的「Anthropic 风格插画」Skill。输入主题即可生成简单、克制、带手绘感的概念插画，适合做文章配图、封面或抽象概念的视觉隐喻。链接：https://youmind.com/skills/anthropic-paper-cut-illustrations-KRTYyHOBadqVOr",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月14日18时48分"
+  },
+  {
+    "id": "cmssu8qz40gdrroff2m7jfaa9",
+    "title": "GLM-5.3 后训练跃升，登顶网络防御基准",
+    "url": "https://x.com/EMostaque/status/2088216001158537352",
+    "summary": "智谱发布 GLM-5.3，基于 743B 基座模型后训练，编码与智能体能力达顶级。Emad Mostaque 指出，该模型与 DeepSeek flash 的更新显示，仅靠后训练即可将性能提升至前沿水平，无法用 logit 蒸馏等解释。GLM-5.3 现已在 cyberdefense 与 GDPval 等硬基准上登顶。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月14日18时47分"
+  },
+  {
+    "id": "cmsstvrun0ft0roffbryi52m8",
+    "title": "Antigravity CLI 默认升级 Flash 3.7",
+    "url": "https://x.com/fofrAI/status/2088215801962672437",
+    "summary": "如果你还没试过，去试试吧：https://antigravity.google/docs/cli/install\n\nFlash 3.7 现在是默认版本。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月14日18时46分"
+  },
+  {
+    "id": "cmssux45v0gtcroffu3urpeou",
+    "title": "消息称英伟达下一代 GPU\"Feynman\"将采用台积电 A16 制程",
+    "url": "https://www.ithome.com/0/989/902.htm",
+    "summary": "据《电子时报》报道，英伟达正将研发与供应链资源转向下一代 GPU 产品\"Feynman\"。该平台预计采用台积电 2nm 制程升级版 A16，并提高 SoIC 3D 堆叠技术导入，搭配定制 HBM 和共封装光学（CPO）。相比 Rubin 的多颗小芯片与 HBM 整合，Feynman 将朝向 3D 小芯片与 SoIC 方向发展。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日18时46分"
+  },
+  {
+    "id": "cmssux45v0gteroffz3ohzdzs",
+    "title": "腾讯混元资深研究员徐灿转岗微信 WeLM，微信 AI 或进入加速阶段",
+    "url": "https://www.ithome.com/0/989/893.htm",
+    "summary": "腾讯混元资深研究员徐灿近期加入微信 WeLM 团队，从事大模型研发相关工作。此前他在混元 LLM 体系中担任后训练方向负责人，此次转岗正值微信强化自研大模型和 Agent 能力阶段，微信原生 AI 助手\"小微\"已于 6 月灰度上线。微信近期还在招聘 WeLM 推理优化及 Agent 方向研究人员，徐灿的加入或补充团队在训练、推理及复杂任务执行方面的研发力量。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日18时29分"
+  },
+  {
+    "id": "cmsstvw0k0fusroffif78d8mc",
+    "title": "智谱发布 GLM-5.3，称其为最强开源权重编程模型",
+    "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model",
+    "summary": "智谱发布 GLM-5.3，与上一代 GLM-5.2 共享相同基座，全部提升来自扩展的后训练，并称其为最强开源权重编程模型，智能体任务进步最大。该模型经安全数据训练，在 269 个项目中找到 2，436 个漏洞，部分漏洞存在长达 40 年。GLM-5.3 现可通过 GLM Coding Plan 使用，权重将在安全审查完成后于两周内开源。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月14日18时21分"
+  },
+  {
     "id": "cmsss6ljf0eusroffzs8n9cc3",
     "title": "Google AI 健康教练将接入雅培血糖数据",
     "url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data",
