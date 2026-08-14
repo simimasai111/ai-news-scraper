@@ -15064,12 +15064,212 @@
     "date": "2026年8月14日1时0分"
   },
   {
+    "id": "cmssk8ir807mqroff9aejl798",
+    "title": "模型极速时代告别任务切换",
+    "url": "https://x.com/gabriel1/status/2088145781366866195",
+    "summary": "想象一下，当模型变得超级快，我们就不再需要在不同任务之间来回切换了。\n\n你只需不停地向模型唠叨反馈。\n\n我太兴奋了，我讨厌任务切换。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月14日14时8分"
+  },
+  {
+    "id": "cmssk8eli07kcroffbkm9h8jb",
+    "title": "GLM-5.3 发布，博主称两代后全面超越",
+    "url": "https://x.com/frxiaobei/status/2088145392592675226",
+    "summary": "GLM5.3 发布，按照这个速度，再迭代两个版本就该全面超越了。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月14日14时7分"
+  },
+  {
+    "id": "cmssk8kwj07nyroffo4by3kec",
+    "title": "中芯国际AI芯片产能告急涨价",
+    "url": "https://x.com/thexpin/status/2088145349898862873",
+    "summary": "中芯国际AI相关芯片订单产能告急，正在提价。Q2营收突破30亿美元，晶圆出货量环比增长14.4%，平均售价上涨5.7%。管理层表示，随着中国互联网公司大幅提高硬件支出，AI相关逻辑、BCD和光模块芯片需求仍供不应求。中芯国际已实施Q3新定价，预计出货量持续上升，产能利用率保持在95%附近。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月14日14时7分"
+  },
+  {
+    "id": "cmssk789h07gjrofftsmema82",
+    "title": "LG 与 NVIDIA 签署谅解备忘录，多领域 AI 合作转入执行阶段",
+    "url": "https://www.ithome.com/0/989/696.htm",
+    "summary": "LG 与 NVIDIA 签署谅解备忘录，双方多领域 AI 合作转入执行阶段。LG 计划 2027Q1 公开亮相基于 Jetson Thor 芯片的双足人形机器人，并将在 2028H1 建成 80MW AI 工厂。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日14时7分"
+  },
+  {
+    "id": "cmssk791507h9roff3wl356u3",
+    "title": "GLM-5.3 登陆 Go，1M 上下文同价",
+    "url": "https://x.com/opencode/status/2088148540845330909",
+    "summary": "GLM-5.3 现已在 Go 中可用\n\ntext · 1M 上下文 · 与 5.2 定价相同",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月14日14时19分"
+  },
+  {
+    "id": "cmssi24am03ksroffwqbs50oh",
+    "title": "AI文本水印技术的工作原理",
+    "url": "https://declaude.org/watermarking",
+    "summary": null,
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日13时8分"
+  },
+  {
+    "id": "cmssk79qc07hlroffx7oy8mxk",
+    "title": "GLM-5.3：具备新兴网络能力的前沿编码",
+    "url": "https://z.ai/blog/glm-5.3",
+    "summary": "智谱发布 GLM-5.3，主打前沿编码能力，并具备新兴的网络攻防能力。该模型在编码基准测试中表现突出，同时展现出此前未明确的安全相关特性。目前相关技术细节与可用性信息尚未完全公开。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日13时54分"
+  },
+  {
+    "id": "cmssj5yfr04giroffgxoumjd1",
+    "title": "Meet Needle 2：一个 45M 参数的开源工具调用模型，以 14MB 二进制文件发布，28MB RAM 即可运行完整会话",
+    "url": "https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model",
+    "summary": "Cactus Compute 发布 Needle 2，一个 45M 参数的开源工具调用模型，以 14MB 二进制文件发布，约 28MB RAM 即可运行完整会话。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月14日13时45分"
+  },
+  {
+    "id": "cmssj5tsi04dqroffp6ddli18",
+    "title": "Grok 4.6 胜出，ChatGPT 被指愚笨",
+    "url": "https://x.com/cb_doge/status/2088139736192041258",
+    "summary": "ChatGPT 太蠢了。\n\nGrok 4.6 赢了。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月14日13时44分"
+  },
+  {
+    "id": "cmssk789h07glroffqvwuwi3f",
+    "title": "地平线星空芯片获头部新能源车企定点，行业首个纯国产舱驾一体高端AI座舱项目落地",
+    "url": "https://www.ithome.com/0/989/690.htm",
+    "summary": "8月13日，地平线宣布生态伙伴博泰车联获国内头部新能源车企定点，将基于地平线星空®芯片打造高端AI座舱方案，成为行业首个采用纯国产舱驾一体芯片的高端AI座舱项目。该芯片通过单芯片一体化设计实现算力池化与数据互通，可帮助车企缩小约50%车载硬件空间占用，单车综合硬件成本下降1500至4000元，研发交付周期由18个月缩短至8个月。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日13时41分"
+  },
+  {
+    "id": "cmssj5sz804d2roffofo75f8o",
+    "title": "Grok 4.6 登顶 CursorBench 实测编码榜",
+    "url": "https://x.com/elonmusk/status/2088138697002668110",
+    "summary": "Grok 4.6 在 CursorBench 真实编码测试中排名第一\n\n【引用 @XFreeze】：Grok 4.6 刚刚在 CursorBench 3.2 中排名第一\n\n在真实编码性能上超越 Claude Fable 5、Opus 5 和 GPT-5.6 Sol\n\n更疯狂的是效率……图表展示了 CursorBench 性能与单任务平均成本的对比，Grok 4.6 正位于前沿顶端\n\nGrok 4.6 编码能力极强……以惊人的效率实现前沿编码性能",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月14日13时40分"
+  },
+  {
+    "id": "cmssj66w704hsroff05dr4uzh",
+    "title": "智谱发布GLM-5.3，CyberGym得分超GPT-5.6",
+    "url": "https://x.com/testingcatalog/status/2088138427455742009",
+    "summary": "智谱AI在ZCode上发布了GLM-5.3，在CyberGym上获得84.5分，高于Mythos 5和GPT-5.6 Sol！\n\n> 基于743B基础模型训练。\n> 专为网络防御和编程任务打造。\n> \"API访问和开放权重将在严格安全评估后分阶段发布。\"",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月14日13时39分"
+  },
+  {
+    "id": "cmssj5tsi04drroffvxh5ikmj",
+    "title": "Grok 4.6 通过凯特琳·詹纳 AI 测试",
+    "url": "https://x.com/cb_doge/status/2088137828563886472",
+    "summary": "Grok 4.6 通过了凯特琳·詹纳 AI 测试。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月14日13时37分"
+  },
+  {
+    "id": "cmssk789h07gmroffj0i5czyd",
+    "title": "智谱正式发布 GLM-5.3：编程能力最强开源模型，较 GLM-5.2 提升 50%",
+    "url": "https://www.ithome.com/0/989/689.htm",
+    "summary": "智谱今日发布 GLM-5.3，基于与 GLM-5.2 相同的基座模型，通过后训练 Scaling 将编程能力提升 50%，在 Terminal Bench 3.0、Agents' Last Exam （CLI） 等公开基准中取得开源第一。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日13时36分"
+  },
+  {
+    "id": "cmssj5sz804d3rofflfozy84d",
+    "title": "Grok Imagine 自动生成动画效果惊艳",
+    "url": "https://x.com/elonmusk/status/2088137315109449870",
+    "summary": "Grok Imagine\n\n【引用 @dvorahfr】：Grok Imagine 自动生成动画。我并未要求添加文字，它自行建议如此。结果令人惊艳。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月14日13时35分"
+  },
+  {
+    "id": "cmssk77oj07g7roff8p36sdi5",
+    "title": "用户呼吁Grok学猴子分桃冲千万用户",
+    "url": "https://x.com/AYi_AInotes/status/2088137246360699132",
+    "summary": "@grok 兄弟，如果你们学习@thsottiaux 的猴子分桃运营玩法，每周重置一次，Grok build的用户应该很快突破1000万，坐上编程Agent的头把交椅🥇\n\n你们背靠@SpaceXAI 这个大哥，肯定是不缺算力的，我们都支持你把@claudeai 和@OpenAI 干下来，\n\n因为在我们用户的眼里，你就是人民的Grok，你在做真正的科技平权这样伟大的事情！！！\n\n【引用 @grok】：我们已重置限制，帮助你在Grok 4.6发布期间继续构建。\n\n在桌面端或移动端的Grok设置中使用重置token。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月14日13时34分"
+  },
+  {
+    "id": "cmssir12d047oroffnpn5pcx1",
+    "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
+    "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
+    "source": "公众号：智谱（GLM）",
+    "date": "2026年8月14日13时31分"
+  },
+  {
+    "id": "cmssj5vh104f2roffdve1l3wh",
+    "title": "GLM-5.3 发布：专注编程与网络防御",
+    "url": "https://x.com/jietang/status/2088135673597534246",
+    "summary": "GLM-5.3 即将推出，聚焦编程能力。",
+    "source": "X：唐杰（@jietang）",
+    "date": "2026年8月14日13时28分"
+  },
+  {
+    "id": "cmssih8zl040iroffspzv4hwp",
+    "title": "ChatGPT 新插件如何犀利吐槽你的电脑使用习惯",
+    "url": "https://x.com/thsottiaux/status/2088133823619895712",
+    "summary": "Tibo 推荐安装 ChatGPT 的 Computer History 插件，让它根据你一天的真实操作数据\"吐槽\"你的行为。示例显示，Slack 占其活动量的 48%，删除键被按 1，191 次，而 ⌘C（133 次）与 ⌘V（26 次）的悬殊比例揭示了低效的信息处理模式。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月14日13时21分"
+  },
+  {
+    "id": "cmssi3l6v03ruroff4j75p3wg",
+    "title": "智谱发布GLM-5.3，主打编码与网安",
+    "url": "https://x.com/Zai_org/status/2088132965922476159",
+    "summary": "推出 GLM-5.3：为编码而生，为网络防御而备。\n\n- 基于 743B 基础模型进行后训练，实现顶尖的编码与智能体能力\n- 网络安全领域重大飞跃，树立开源模型新标准\n\n技术博客：https://z.ai/blog/glm-5.3",
+    "source": "X：智谱 Z.ai (@Zai_org)",
+    "date": "2026年8月14日13时17分"
+  },
+  {
+    "id": "cmssi38vn03o9rofffr0z8lyb",
+    "title": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文",
+    "url": "https://x.com/SiliconFlowAI/status/2088127458558271885",
+    "summary": "DeepSeek-V4-Pro-0813 正式上线硅基流动 SiliconFlow，提供 Day-0 支持，具备 1M 上下文窗口及低/高/最大三档推理强度，更侧重编码、工具调用与智能体工作流，仍保持 MIT 开源协议。定价为输入 $1.32/M、输出 $3.96/M、缓存命中 $0.44/M。同系列 DeepSeek-V4-Flash-0731 则面向追求速度与成本效益的日常生产场景。",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "date": "2026年8月14日12时55分"
+  },
+  {
+    "id": "cmssi37ln03nfroffepuj2zfn",
+    "title": "Grok 4.6 多模态理解大幅升级",
+    "url": "https://x.com/elonmusk/status/2088127459971522726",
+    "summary": "Elon Musk 称 Grok 4.6 的图像与视频理解能力是一次重大升级。引用推文指出，Grok 4.6 多模态相较 4.5 是阶跃式改进，在视频审阅等日常工作中可将生产力提升至少 10 倍，甚至 100 倍。该模型在作者的实际用例中超越了 Gemini 3.5 和 Gemma 4。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月14日12时55分"
+  },
+  {
     "id": "cmsshe0ey03adroffv3xzdmxe",
     "title": "ChunUI 开源：iOS 快速开发 UI 质感组件库",
     "url": "https://x.com/chunxiangai/status/2088123773023367480",
     "summary": "赵纯想发布 ChunUI，一款用于 iOS 快速开发或迭代现有软件 UI 质感的组件库，内置 ChunUI Skill，并附带开源 Demo App（GitHub 地址已提供）。生产级实际应用已上架 TestFlight，订阅不扣钱、为模拟扣款，作者鼓励用户订阅体验。",
     "source": "X：赵纯想 (@chunxiangai)",
     "date": "2026年8月14日12时41分"
+  },
+  {
+    "id": "cmssi24ib03kyroff4hpx4955",
+    "title": "消息称苹果与阿里合作，专门针对中国市场训练 AI 模型",
+    "url": "https://www.ithome.com/0/989/676.htm",
+    "summary": "据路透社报道，三位知情人士透露，苹果已专门针对中国市场训练出一款大语言模型，由阿里巴巴集团合作开发并完成训练，标志着其改变此前依赖第三方模型的策略。该模型将支持 Apple Intelligence，预计在 iOS 后续更新后于未来几个月内在中国推出。此前苹果官网曾短暂出现 Apple 智能可配合阿里千问模型工作的支持文档。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日12时39分"
+  },
+  {
+    "id": "cmssi24ib03kzrofftitriiru",
+    "title": "京东七鲜咖啡全球首发24小时智能化无人咖啡店，AI推荐+机器人制作",
+    "url": "https://www.ithome.com/0/989/675.htm",
+    "summary": "京东七鲜咖啡首家24小时智能化无人咖啡店将于8月16日在北京银河SOHO开业，当天开启24小时机器人制作直播并挑战吉尼斯世界纪录，直播期间到店可免费领取机器人现制咖啡。门店支持咖啡浓度、甜度等从1%到100%自由调节，后续将上线AI个性化推荐功能，可根据身体状况智能建议咖啡因摄入量。从萃取到出杯全程自动化，AI+Robot贯穿制作到出品闭环，全程无接触。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日12时34分"
+  },
+  {
+    "id": "cmssi24ib03l0roff1e6bnqfl",
+    "title": "石头推出 P30 Pro / G30S Ultra 扫地机器人，4299 / 5499 元起",
+    "url": "https://www.ithome.com/0/989/673.htm",
+    "summary": "石头科技今日推出 P30 Pro 和 G30S Ultra 两款扫地机器人，水箱版售价分别为 4299 元和 5499 元，上下水版为 4699 元和 5999 元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日12时25分"
   },
   {
     "id": "cmssfy1nr06g9rod0hjxeii9r",
