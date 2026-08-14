@@ -13856,12 +13856,76 @@
     "date": "2026年8月15日1时5分"
   },
   {
+    "id": "cmst8vlhz03mdrodz1h6es0ex",
+    "title": "Perplexity 搜索 SDK 发布，支持智能体集成",
+    "url": "https://x.com/AravSrinivas/status/2088311070368870873",
+    "summary": "Perplexity 的 Search SDK 现已可在任何智能体框架中使用，该 SDK 使 Perplexity Computer 成为广度和深度研究领域的最佳产品。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月15日1时5分"
+  },
+  {
+    "id": "cmst9a05k05nirodz0i4jpcav",
+    "title": "OpenRouter 推出 Ori Prime Agent 智能体",
+    "url": "https://x.com/OpenRouter/status/2088323945237971005",
+    "summary": "今天，我们推出 Ori Prime Agent\n\n直接在 OpenRouter 上运行 @PrimeIntellect Agent。在 Prime Agent 上，可访问 500+ 模型、你的凭证，以及为你配置好的环境\n\n$ curl -fsSL https://openrouter.ai/labs/ori/install.sh | bash $ ori prime",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月15日1时56分"
+  },
+  {
+    "id": "cmst8w7fn03qxrodz41wty11n",
+    "title": "AIE NYC CFP wave 1 acceptances are being finalized today. last day to get in for wave 1！ http://ai....",
+    "url": "https://x.com/swyx/status/2088322211241447801",
+    "summary": null,
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月15日1时49分"
+  },
+  {
+    "id": "cmst8w3z803prrodzhtv767iy",
+    "title": "Qwen3.8-27B 上线 Ollama，支持多工具调用",
+    "url": "https://x.com/Alibaba_Qwen/status/2088320747639071143",
+    "summary": "通义千问 Qwen3.8-27B 现已上线 Ollama，是该尺寸下最佳开源模型之一，专为智能体任务与专业工作设计。用户可直接通过 Claude Code、OpenCode、Hermes Agent、Pi 等工具调用，并已针对 Apple Silicon 优化，模型名为 qwen3.8：27b-mlx。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月15日1时44分"
+  },
+  {
     "id": "cmst7thky031grodzfq9w9d0d",
     "title": "OpenAI 营收主管离职，内部文化遭前员工批评",
     "url": "https://x.com/rohanpaul_ai/status/2088310491307471198",
     "summary": "CNBC 报道，OpenAI 首席营收官 Denise Dresser 将在数周内离职，她负责企业业务，该业务占公司营收 40%，预计 2026 年底追上消费者业务。前员工形容 OpenAI 存在\"快招快裁\"文化，有人称其为\"高压锅\"环境。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月15日1时3分"
+  },
+  {
+    "id": "cmst8w2ft03p1rodztq5gtpht",
+    "title": "苹果据报与阿里合作训练中国版大模型",
+    "url": "https://x.com/rohanpaul_ai/status/2088318679733895209",
+    "summary": "苹果据报在阿里巴巴的协助下训练了一款面向中国的大语言模型。\n\n该模型预计将与阿里巴巴的通义千问及百度技术一同共存于 Apple Intelligence 之中。\n\n中国监管机构已于 7 月为 Apple Intelligence 完成备案，扫清了其预期上线前的一项重大公共监管障碍。\n\n若按报道所述部署，苹果将成为首家获北京批准在中国提供自研 AI 模型的外国公司。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日1时35分"
+  },
+  {
+    "id": "cmst8w2ft03p2rodzhdwu54jw",
+    "title": "得州收紧AI数据中心并网审查",
+    "url": "https://x.com/rohanpaul_ai/status/2088316926078718347",
+    "summary": "得州原本被认为是建设AI数据中心的容易之地。\n\n如今连得州也在给它们设障。\n\n州长格雷格·阿博特下令监管机构在新数据中心接入电网前对其进行审计。\n\n他希望了解这些数据中心将对电力供应、水资源、电费账单及周边社区产生何种影响。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日1时28分"
+  },
+  {
+    "id": "cmst8wbuz03rtrodzq59if5ow",
+    "title": "美国首例：男子在法庭文件中注入AI隐藏指令试图影响判决",
+    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+    "summary": "美国康涅狄格州法官Walter Spader Jr.确认，一名男子在法庭文件中嵌入仅AI可读的隐藏文本，试图影响AI系统对案件的解读，这可能是美国首例此类案件。法官称该行为未影响判决，但树立了\"危险\"先例，随着AI在法院系统普及，此类恶意手段或将再现。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月15日1时26分"
+  },
+  {
+    "id": "cmst8gv4e03imrodzvhxgdju5",
+    "title": "Epoch 首席谈 AI 能力关键问题与评测方向",
+    "url": "https://x.com/EpochAIResearch/status/2088315292141441396",
+    "summary": "关于 AI 能力，有哪些重大问题决定着 AI 将对世界产生何种影响？在本期 Gradient Update 中，@GregHBurnham 阐述了他最关心的问题，以及他认为 Epoch 在基准测试方面的工作如何帮助回答这些问题。",
+    "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年8月15日1时22分"
   },
   {
     "id": "cmst7tndk033irodz4u6cwuzs",
