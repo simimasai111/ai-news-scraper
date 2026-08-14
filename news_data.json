@@ -14760,12 +14760,172 @@
     "date": "2026年8月14日2时0分"
   },
   {
+    "id": "cmssz8r3w0n15roffdkpxu5mu",
+    "title": "Qwen3.8-27B 即将发布，敬请期待",
+    "url": "https://x.com/Alibaba_Qwen/status/2088251315256520943",
+    "summary": "不到 2 小时就要见面了👋。时间快到了！很快见：👀 https://huggingface.co/Qwen/Qwen3.8-27B",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月14日21时8分"
+  },
+  {
+    "id": "cmst0b9vk01v4rocfany84yh3",
+    "title": "Pomelli 更新：照片一键转动态视频",
+    "url": "https://x.com/joshwoodward/status/2088261701028503965",
+    "summary": "Google Labs 的 Pomelli 推出模板升级，用户可上传图片或使用预设模板生成社媒与广告视觉素材，并通过 Animate 功能将照片转为短视频或 GIF。该实验项目正吸引越来越多小企业用户，主打简单易用，现可免费试用。",
+    "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+    "date": "2026年8月14日21时49分"
+  },
+  {
+    "id": "cmst0bcjd01x0rocfs95jwi9i",
+    "title": "MemoraX 登顶首个 Agent 记忆排行榜",
+    "url": "https://x.com/rohanpaul_ai/status/2088260995533963461",
+    "summary": "MemoraX 在首个 Agent Memory Leaderboard（AML）评测的 Commercial Products-Text Memory 赛道中排名第一，得分 58.02。该评测汇集 136 支注册团队和 69 个记忆框架，并追踪记忆写入、组织、检索、重排序、融合及使用中的失败，使记忆系统可被观察、修改和重测。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日21时46分"
+  },
+  {
+    "id": "cmssyoxc90mssroff4k237ysa",
+    "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
+    "url": "https://x.com/SpaceXAI/status/2088250109188608289",
+    "summary": "Cursor 正式完成被 SpaceX 收购，团队加入 SpaceXAI，共同打造 Grok 为全球最实用的 AI。合作将聚焦软件工程，并扩展至知识工作领域，同时改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。",
+    "source": "X：SpaceXAI (@SpaceXAI)",
+    "date": "2026年8月14日21时3分"
+  },
+  {
+    "id": "cmst0b9vl01v5rocfbdf9br54",
+    "title": "Gemini 与 Flow 新增可见水印开关",
+    "url": "https://x.com/joshwoodward/status/2088259242423968162",
+    "summary": "✅ 小问题已修复：现在你可以在 Gemini 和 Flow 中开启或关闭可见水印，Search 即将跟进。\n\n这适用于所有图片（Nano Banana）、视频（Omni）和歌曲（Lyria）上的水印，但法律规定必须保留水印的国家除外。",
+    "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+    "date": "2026年8月14日21时39分"
+  },
+  {
+    "id": "cmst0a79n01surocf3u7ce386",
+    "title": "DeepSeek 峰谷电价更新：V4-Pro 正式发布，API 引入峰谷定价",
+    "url": "https://api-docs.deepseek.com/news/news260813",
+    "summary": "DeepSeek 今日发布 V4-Pro，主打 Agent 能力升级，支持灵活推理强度（低/高/最大三档），并原生支持 OpenAI Responses API，可一键适配 Codex。V4-Pro 已上线应用/网页端（Expert Mode）及 API，模型名称不变。API 同步引入峰谷定价，谷时价格较峰时低 50%，新价格于 2026 年 8 月 16 日 16：00 UTC 生效。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月14日21时32分"
+  },
+  {
+    "id": "cmsszoocd01mdrocfhghzzzp1",
+    "title": "三星健康 AI 模型分析可穿戴生物信号数据",
+    "url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data",
+    "summary": "三星美国研究院数字健康团队推出两款 AI 基础模型，用于学习智能手表采集的生物信号数据，涵盖心脏活动、睡眠和身体活动。该公司在 7 月 Galaxy Unpacked 期间的 Health Forum 上阐述了其 Connected Care 愿景，描绘了相关未来应用场景。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月14日21时30分"
+  },
+  {
+    "id": "cmst0ol4z02mirocfnsv2pm4q",
+    "title": "关于AI短剧的一些数据： - 中国有8.5亿短剧观众，其中7成以上，也就是6亿人开始看AI短剧了，转化率极高； - 今年预计上架的AI短剧总量可能突破50万部，是去年整个短剧上架量的15倍； -…",
+    "url": "https://x.com/foxshuo/status/2088255093879742559",
+    "summary": null,
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月14日21时23分"
+  },
+  {
+    "id": "cmssz8sz90n23roffgnqldefh",
+    "title": "ARC 3 公开演示集非评测集，榜首仅 2.70%",
+    "url": "https://x.com/fchollet/status/2088254592182305165",
+    "summary": "François Chollet 提醒，ARC 3 公开游戏集仅用于演示格式与提升参与度，不应作为训练数据或评测集，其分数不代表真实基准表现。私有评测集难度与新颖性显著更高。当前 Kaggle 榜首分数为 2.70%，基于半私有集，最终将以完全私有集评分。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月14日21时21分"
+  },
+  {
+    "id": "cmssz92cg0n3eroffjss3nzqd",
+    "title": "Cursor 正式加入 SpaceXAI 团队",
+    "url": "https://x.com/testingcatalog/status/2088253792294699352",
+    "summary": "Cursor ❤️ SpaceXAI\n\nCursor 现已正式成为 SpaceXAI 的一部分！团队将致力于 Grok Build、Grok Bot、Grok API 和 Cursor 的开发。\n\n下一个是谁？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月14日21时17分"
+  },
+  {
+    "id": "cmssz7g9n0mvtrofflkvtjx41",
+    "title": "谷歌 Chrome 浏览器新功能曝光：Gemini 帮你修改弱密码和重复密码",
+    "url": "https://www.ithome.com/0/989/933.htm",
+    "summary": "谷歌 Chrome Canary 正在测试 AI 修改密码功能，由 Gemini 代替用户完成修改弱密码或重复密码的流程。该功能需通过 Chrome：//flag 启用，启用后原\"修改密码\"按钮将替换为带 Gemini 标识的\"帮我修改\"按钮。目前该功能仍在测试中，正式版 Chrome 有望在几个月后实装。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日21时15分"
+  },
+  {
+    "id": "cmssz8rj70n1froff31c0wy74",
+    "title": "Cursor 正式加入 SpaceX，助力 Grok 发展",
+    "url": "https://x.com/leerob/status/2088252015193509987",
+    "summary": "Cursor 正式完成被 SpaceX 收购，将加入 SpaceXAI 团队，共同打造 Grok 为全球最实用的 AI，并改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。Lee Robinson 表示团队势头正盛，Grok 4.6 与 Grok Bot 进展加速，他将继续致力于让 Grok 更有用、更优雅、更安全。",
+    "source": "X：Lee Robinson (@leerob)",
+    "date": "2026年8月14日21时10分"
+  },
+  {
+    "id": "cmssz8r3i0n13roffhbof77wa",
+    "title": "SpaceX 600 亿美元收购 Cursor，并入 xAI 团队",
+    "url": "https://x.com/kimmonismus/status/2088251938924028379",
+    "summary": "SpaceX 以 600 亿美元正式完成对 Cursor 的收购，Cursor 团队将加入 SpaceXAI，助力 Grok 成为全球最实用的 AI，并改进 Grok Build、Grok Bot、Grok API 及 Cursor 本身。Cursor 官方确认交易已交割，称 SpaceX 打造了全球最鼓舞人心的技术。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日21时10分"
+  },
+  {
+    "id": "cmssz8s3e0n1xroff0pv0f1l4",
+    "title": "面壁智能 VoxCPM-0.5B 驱动 3D 空手道热狗角色",
+    "url": "https://x.com/OpenBMB/status/2088249288757539092",
+    "summary": "面壁智能 OpenBMB 发布 Karate Wiener 交互式 3D 角色体验，由 VoxCPM-0.5B 模型驱动，支持语音对话、动作生成与个性化道场。该项目为 #BuildSmall 黑客松作品，展示轻量级开源模型在创意角色应用中的协作能力，演示与模型均已上线 HuggingFace。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月14日21时0分"
+  },
+  {
     "id": "cmssx3ni20lb5roffb52z08i3",
     "title": "GLM-5.3 跑分暴涨6倍引热议",
     "url": "https://x.com/karminski3/status/2088236512332902559",
     "summary": "GLM-5.3 在 Terminal Bench 3.0 测试中分数翻了6倍，引发关注。该基准测试任务难度高，如 exam-pdf-eval 需模型调用第三方 VLM 并自行编写 prompt 完成闭环验证。博主推测 GLM-5.3 在复杂真实环境下的架构规划能力将非常强，并预告稍后带来实测。",
     "source": "X：karminski (@karminski3)",
     "date": "2026年8月14日20时9分"
+  },
+  {
+    "id": "cmssz8qkf0n0nroffdxu936d5",
+    "title": "X Square WALL-B 分拣效率超 Figure 45%",
+    "url": "https://x.com/rohanpaul_ai/status/2088248739916099791",
+    "summary": "X Square 的 WALL-B 机器人直播分拣 1，816 件/小时，准确率超 98%，比 Figure 机器人 5 月耐力测试的 1，248 件/小时高出约 45%。其采用双臂与专用夹爪而非人形本体，连续重规划应对包裹遮挡、变形等变化。该模型正拓展至家庭场景，但泛化能力仍需验证。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日20时57分"
+  },
+  {
+    "id": "cmssy68420m0eroffag6yn1f0",
+    "title": "ARC-AGI-3 顶尖方案：LLM 引导符号世界模型合成",
+    "url": "https://x.com/fchollet/status/2088243704603824311",
+    "summary": "François Chollet 指出，ARC-AGI-3 上所有顶尖方案均采用 LLM 引导的符号世界模型合成法，即通过编写可执行代码来编码对世界因果机制的理解。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月14日20时37分"
+  },
+  {
+    "id": "cmssy63bz0lxkroff620621pt",
+    "title": "SpaceX 完成 600 亿美元收购 Cursor",
+    "url": "https://x.com/cb_doge/status/2088243652124639443",
+    "summary": "SpaceX 正式完成对 Cursor 母公司 Anysphere 的 600 亿美元收购，交易于 2026 年 8 月 14 日生效，Cursor 成为 SpaceX 全资子公司。Cursor 股东获 389，289，254 股 SpaceX A 类股，未归属 RSU 与期权分别转换为约 29，128，326 份 SpaceX RSU 和 44，365，047 份期权。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月14日20时37分"
+  },
+  {
+    "id": "cmssy656p0lz8roffp11vl11k",
+    "title": "Arcads Actor+ 让 AI 视频逼近真实",
+    "url": "https://x.com/rohanpaul_ai/status/2088242638256214176",
+    "summary": "Arcads 推出 Actor+，号称最逼真的 AI 演员库，由 Seedance 2.5 驱动，现已上线。Rohan Paul 认为，AI 视频质量正成为感知问题--分辨率提升有限，UGC 内容在人物显得\"合成\"时即告失败；一旦演员在手机镜头下像正常人，剩余差距将更难察觉，这些片段已\"令人不安地接近\"真实。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日20时33分"
+  },
+  {
+    "id": "cmssy63bz0lxlroffbzhhmvwv",
+    "title": "SpaceX 完成 600 亿美元收购 Cursor",
+    "url": "https://x.com/cb_doge/status/2088242381586039109",
+    "summary": "突发：SpaceX 已完成对 Cursor 的 600 亿美元收购。\n\n根据一份新提交的文件，合并于 8 月 14 日生效，Cursor 成为 SpaceX 的全资子公司。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月14日20时32分"
+  },
+  {
+    "id": "cmssz7epn0mvrroffjepu885m",
+    "title": "Anthropic CEO妻子曾向Epstein寻求色情公司投资",
+    "url": "https://x.com/AYi_AInotes/status/2088242086109762004",
+    "summary": "《华尔街日报》曝光的司法部文件显示，Anthropic CEO Dario Amodei 的妻子 Cami Clark 于 2012 年向已定罪的性罪犯 Jeffrey Epstein 寻求投资，标的为其创办的\"革命性色情公司\"Eddice，遭 Epstein 以\"Can't do sex TV\"拒绝。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月14日20时31分"
   },
   {
     "id": "cmssx3jeb0l9croff4xysblrp",
