@@ -13848,6 +13848,70 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmstjwqco0aarro0x0p4apr95",
+    "title": "Replit 本周更新：入选 Inc. 5000 并发布多项新功能",
+    "url": "https://x.com/Replit/status/2088400279070744794",
+    "summary": "Replit 本周动态\n\n我们入选了 Inc. 5000 榜单，并发布了一系列更新：\n\n1） 可选择工作区区域 2） Replit MCP 升级 3） 将现有应用迁移至 Clerk Auth 4） 新增 MCP 服务器、管理 API 及内联图表\n\nThread 🧵",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月15日7时0分"
+  },
+  {
+    "id": "cmstjkrym09tkro0xyi14z5io",
+    "title": "软件即将\"隐身\"：AI 漏洞挖掘时代与执法部门黑客攻击的终结",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
+    "summary": "作者担忧 AI 将使软件过于安全，导致美国情报与执法机构在未来两年内面临\"隐身\"困境--主要软件将耗尽可远程利用的漏洞。Anthropic 的 Mythos 模型已优化漏洞发现，OpenAI 及 Z.ai、Moonshot 等也展示了类似能力。这或将加剧对构建后门等\"特殊访问\"机制的需求。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月15日6时47分"
+  },
+  {
+    "id": "cmstjm1yo09x4ro0xc21wfr74",
+    "title": "Gemini 3.7 Flash 配 Nano Banana 2 Lite 生成艺术图",
+    "url": "https://x.com/fofrAI/status/2088396528469545337",
+    "summary": "fofr 展示了一组由 Gemini 3.7 Flash 配合 Nano Banana 2 Lite 生成的精选艺术作品。示例提示词描绘黄昏时分巨型飞机低空掠过跑道的极简画面，体现该组合在图像生成上的表现力。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月15日6时45分"
+  },
+  {
+    "id": "cmstjmj6i09zyro0x2d7av6xx",
+    "title": "Atomic 发布 Qwen3.8 27B 动态 GGUF 量化版",
+    "url": "https://x.com/testingcatalog/status/2088395135323455964",
+    "summary": "Atomic 发布 Qwen3.8-27B-GGUF 动态量化版，从 8-bit（28.9GB）压缩至 1-bit（8.5GB）。其中 AD-IQ3_S 版本可在 16GB MacBook Air 上运行，且 92.4% 情况下与 BF16 原版选出相同下一个 token。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月15日6时39分"
+  },
+  {
+    "id": "cmstjludp09vero0x3k3q7k1x",
+    "title": "2026开源本地AI三大里程碑",
+    "url": "https://x.com/kimmonismus/status/2088392717097398432",
+    "summary": "2026年将成为开源与本地AI的里程碑之年。智谱GLM-5.3仅通过后训练提升，在CyberGym得分84.5%，超越Mythos 5的83.8%；Qwen3.8-27B可本地运行，多项关键基准超越Opus 4.6 Max；DeepSeek V4 Flash API价格低至每百万未缓存输入token $0.14、输出$0.28，接近\"便宜到无法计量\"。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月15日6时29分"
+  },
+  {
+    "id": "cmstjm1yo09x5ro0xnldxv7gu",
+    "title": "Gemini 3.7 Flash 搭配 Nano Banana 2 Lite 作品选",
+    "url": "https://x.com/fofrAI/status/2088392497634431180",
+    "summary": "一组由 Gemini 3.7 Flash 配合 Nano Banana 2 Lite 根据提示词生成的艺术作品精选。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月15日6时29分"
+  },
+  {
+    "id": "cmstjm3cv09xsro0xmllh78ob",
+    "title": "Cursor NYC 咖啡馆今日开业",
+    "url": "https://x.com/SemiAnalysis_/status/2088392307691360398",
+    "summary": "柯基咖啡馆女儿，还是 Cursor 咖啡馆儿子",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月15日6时28分"
+  },
+  {
+    "id": "cmstjrtxi0a28ro0xbdowgrvf",
+    "title": "Claude Code v2.1.233 发布：新增 GitLab MR 支持与内存 cgroup 限制",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.233",
+    "summary": "Claude Code v2.1.233 发布，为 --worktree 标志和 agents 视图新增 GitLab 合并请求 URL 支持，并添加可选的 forward_user_identity 网关设置以按用户归因支出。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月15日6时20分"
+  },
+  {
     "id": "cmstii6ix099qro0xq2uny6g9",
     "title": "如何最大化 Claude Code 会话价值：高效利用每个 token 的实用技巧",
     "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
