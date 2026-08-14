@@ -13848,6 +13848,110 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmss8fux101gcrowo25swi3ep",
+    "title": "唐杰\"soon\"暗示GLM 5.3将至",
+    "url": "https://x.com/jietang/status/2088062961965560245",
+    "summary": "sooooooon\n\n（引用推文：@jietang 的\"soon\"相当于马斯克的\"下周\"😂 GLM 5.3什么时候出？）",
+    "source": "X：唐杰（@jietang）",
+    "date": "2026年8月14日8时39分"
+  },
+  {
+    "id": "cmss8fv7u01girowolawm980r",
+    "title": "Gemini 3.7 Flash 上线 Devin，性能超半价",
+    "url": "https://x.com/rohanpaul_ai/status/2088061270675337674",
+    "summary": "在智能体内部，低延迟更为重要，因为一个任务可能堆叠多次顺序模型调用。Gemini 3.7\n\nGemini 3.7 Flash 在 FrontierCode 1.1 上达到 Sonnet 5 级性能，成本不到一半。\n\nDevin 在 8 月 27 日前提供五折优惠。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日8时32分"
+  },
+  {
+    "id": "cmss7te0h02wnroibqhbklbxq",
+    "title": "Sierra 在慕尼黑开设办公室，服务德国、奥地利和瑞士市场",
+    "url": "https://sierra.ai/blog/building-in-dach",
+    "summary": "Sierra 宣布在慕尼黑开设办公室，以服务德国、奥地利和瑞士（DACH 地区）的企业客户。此举标志着该公司在欧洲市场的进一步拓展。",
+    "source": "Sierra：Blog（RSS）",
+    "date": "2026年8月14日8时21分"
+  },
+  {
+    "id": "cmss6qe7k027nroibwjzg9knu",
+    "title": "DeepSeek Harness 开源，GPT-5.6 超速版发布",
+    "url": "https://x.com/hongming731/status/2088053046651900037",
+    "summary": "DeepSeek Harness v0.1 以 MIT 协议开源，模型、工具、技能等能力均由 Cordis 插件组合，轨迹写入仅追加日志。Cerebras 与 OpenAI 向有限客户开放 GPT-5.6 Sol Ultrafast，宣称每秒输出 750 个 token 且不牺牲质量。Google 发布 Gemini 3.7 Flash，每 token 价格仅为 3.6 Flash 的一半。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月14日8时0分"
+  },
+  {
+    "id": "cmss6qe7k027oroibwlblw6mk",
+    "title": "DeepSeek Harness 智能体，GPT-5.6 Sol 压缩推理等待，多智能体实验暴露协作失灵",
+    "url": "https://x.com/hongming731/status/2088052976082698709",
+    "summary": "DeepSeek Harness v0.1 以 MIT 协议开源，将模型、工具、沙箱等能力拆为可替换插件，并支持仅追加会话日志回放。Cerebras 与 OpenAI 推出 GPT-5.6 Sol Ultrafast 限量预览，输出速度最高 750 token/秒，HLE 测试较 Claude Fable 5 快近 7 倍。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月14日7时59分"
+  },
+  {
+    "id": "cmss7a4if02bhroibl2rgit88",
+    "title": "Anthropic 计划 10 月以 2 万亿美元估值 IPO，有望超 SpaceX 成史上最大",
+    "url": "https://www.ithome.com/0/989/505.htm",
+    "summary": "Anthropic 计划 2026 年 10 月以 2 万亿美元估值 IPO，规模有望超过 SpaceX 成为史上最大 IPO。SpaceX 于 6 月 12 日上市，市值约 1.77 万亿美元。Anthropic 已于 6 月秘密提交 IPO 文件，5 月公布年化营收突破 470 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日7时58分"
+  },
+  {
+    "id": "cmss6lsb701tsroib0kxz9q8q",
+    "title": "从0到1带你速通DeepSeek Harness。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2",
+    "summary": null,
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年8月14日7时58分"
+  },
+  {
+    "id": "cmss7a4if02biroibm87g2ktr",
+    "title": "文远知行 2026 上半年营收 3.5 亿同比增长 73%，Robotaxi 超 1800 辆",
+    "url": "https://www.ithome.com/0/989/504.htm",
+    "summary": "文远知行发布 2026 年第二季度及上半年财报，上半年总营收 3.5 亿元，同比增长 73%；第二季度营收 2.3 亿元，同比增长 82%、环比增长 103%，毛利率升至 37.5%。上半年海外收入同比增长 154%，业务已覆盖 13 国 60 余城。截至 7 月 31 日，全球 L4 车队约 3，400 辆，其中 Robotaxi 超 1，800 辆。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日7时53分"
+  },
+  {
+    "id": "cmss68orc0017roibx95grmsm",
+    "title": "JetBrains CTO 谈如何评估并部署 Claude Fable 5：私有仓库评测、效率提升与安全策略",
+    "url": "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
+    "summary": "JetBrains CTO Vladislav Tankov 详解其团队如何用私有仓库评测前沿模型，并决定何时采用 Claude Fable 5。该模型在其评测中 Python 通过率达 44.3%，较 Opus 4.8 的 28.2% 提升 16 个百分点，且解题步骤减少约 22%。JetBrains 将安全与数据保留视为部署核心，偏好零数据保留，但接受为调查最严重问题而进行的有限审查。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月14日7时50分"
+  },
+  {
+    "id": "cmss6arlm01fvroibs1r9sqo9",
+    "title": "Arize AI 被 Dynatrace 收购，成 $14B 可观测性巨头",
+    "url": "https://x.com/swyx/status/2088049159509344265",
+    "summary": "Arize AI 宣布已与 Dynatrace 达成最终收购协议，以加速其\"让世界 AI 正常运行\"的愿景。Arize 联合创始人称，AI 与软件可观测性正深度融合，智能体系统与代码紧密相连，未来可观测性将统一两者。Dynarize 现已成为全球信赖的 $14B 可观测性巨头，并成为 AI Engineer NYC 首位非大型云厂商的 presenting sponsor。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月14日7时44分"
+  },
+  {
+    "id": "cmss7a4if02bkroibanmv8zey",
+    "title": "洛图科技：2026 年上半年中国智能眼镜市场销量同比增长 85.5%，销售额接近翻倍",
+    "url": "https://www.ithome.com/0/989/502.htm",
+    "summary": "洛图科技报告显示，2026 年上半年中国智能眼镜全渠道销量达 90.9 万台，同比增长 85.5%；销售额 18.8 亿元，同比增长 98.7%。AR 眼镜与拍摄眼镜销量占比分别增至 44.9% 和 34.4%，音频眼镜份额降至 20.7%。线上市场销量前四品牌为雷鸟、Rokid、千问、华为，其中雷鸟创新与 Rokid 合计出货占比超三成。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日7时42分"
+  },
+  {
+    "id": "cmss7a4if02bmroib4c8fyykn",
+    "title": "DeepSeek-V4-Pro 正式版上线：原生支持 OpenAI Responses API，针对性适配 Codex",
+    "url": "https://www.ithome.com/0/989/500.htm",
+    "summary": "DeepSeek V4 Pro 正式版已在 App、网页端和 API 同步更新上线，用户可通过\"专家模式\"使用全新模型。该模型参数量达 1.6 万亿，权重已采用 MIT 许可证开放，可适配国产 GPU 降低私有化部署门槛。同时，DeepSeek Harness 开启公测并开放插件生态，API 将于 8 月 17 日起实行峰谷定价，空闲时段价格仅为高峰时段的一半。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日7时39分"
+  },
+  {
+    "id": "cmss7a4if02bnroibyuf4jl92",
+    "title": "谷歌推出 Gemini 3.7 Flash 模型，首发优惠价为原 3.6 Flash 的一半",
+    "url": "https://www.ithome.com/0/989/497.htm",
+    "summary": "谷歌推出专为编程与 Agents 场景打造的 Gemini 3.7 Flash 模型，距 3.6 Flash 发布仅约三周，在软件工程、知识工作及网页开发工作流方面大幅提升。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月14日7时30分"
+  },
+  {
     "id": "cmss54ydp01caro1j3lr339v7",
     "title": "OpenAI 推 GPT-5.6 Sol Ultrafast 模式，每秒生成 750 个词元、提速 14 倍",
     "url": "https://www.ithome.com/0/989/492.htm",
@@ -13862,6 +13966,14 @@
     "summary": "用户将能够在 Claude iOS 版上配置和使用自定义 MCP。",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月14日7时2分"
+  },
+  {
+    "id": "cmss6guev01lkroibtxzl4pin",
+    "title": "Claude Code v2.1.232 发布：默认启用 Subagent forking，新增 GitLab 支持与多项安全修复",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.232",
+    "summary": "Claude Code v2.1.232 默认启用 subagent forking，子代理可继承完整对话与提示缓存，交互会话中的非队友代理默认后台运行。新增 GitLab token 密钥脱敏、插件市场 GitLab 仓库克隆支持，并修复 PowerShell 与 Windows 权限绕过、嵌套 git 仓库信任继承等多项安全漏洞。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月14日7时29分"
   },
   {
     "id": "cmss5804m01f1ro1jmmvkqkbz",
