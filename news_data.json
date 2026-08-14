@@ -14760,6 +14760,190 @@
     "date": "2026年8月14日2时0分"
   },
   {
+    "id": "cmst2thtx0338ro06wp9kh6j5",
+    "title": "DSH与YouMind各自潜力被看好",
+    "url": "https://x.com/lifesinger/status/2088279843230322878",
+    "summary": "DSH 非常有潜力成为世界上最灵活的 Harness 产品\n\nYouMind 则在努力成为世界上最美的 Harness 产品\n\n我相信：两者都有美好的未来",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月14日23时1分"
+  },
+  {
+    "id": "cmst2ugo303bpro064jdfzwcp",
+    "title": "Grok 4.6 体验如何？4.7 改进建议征集",
+    "url": "https://x.com/ericzakariasson/status/2088279730747560409",
+    "summary": "你们觉得 Grok 4.6 目前表现如何？Grok 4.7 我们可以在哪些方面改进？",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月14日23时1分"
+  },
+  {
+    "id": "cmst2uhgs03brro069ow0zjfe",
+    "title": "OpenRouter 推出网页搜索基准评测",
+    "url": "https://x.com/OpenRouter/status/2088279603861467304",
+    "summary": "推出网页搜索基准评测 🌐\n\n不同模型和配置下搜索工具的排名，帮助你决定如何为智能体提供事实依据：https://openrouter.ai/benchmarks",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月14日23时0分"
+  },
+  {
+    "id": "cmst283iu02dsro06a77wojhq",
+    "title": "软件工厂高管晚宴邀约旧金山",
+    "url": "https://x.com/dexhorthy/status/2088266547403919382",
+    "summary": "我正在为旧金山的企业软件工厂负责人组织一场晚宴。\n\n我们认识谁符合以下条件：\n\n- 在旧金山或愿意前往\n- 内部 AI 软件工厂的技术负责人\n- 公司至少 100 名工程师",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月14日22时8分"
+  },
+  {
+    "id": "cmst1u88i004pro06ybaom9ac",
+    "title": "Cursor 被 SpaceX 收购：最快迭代的团队才能胜出",
+    "url": "https://www.a16z.news/p/cursor-spacexai-fastest-iterating-team",
+    "summary": "SpaceX 正式收购 AI 编程工具 Cursor。Anysphere（即 Cursor）成为史上最快达到 1 亿美元年度经常性收入（ARR）的软件公司，其创始人 Michael Truell 与 MIT 联创最初尝试 AI 邮件客户端和 CAD 工具，后转向构建\"为 AI 编程而生的代码编辑器\"。Cursor 凭借可自由切换模型的架构和优质体验，成为开发者首选。",
+    "source": "a16z：News（RSS）",
+    "date": "2026年8月14日22时7分"
+  },
+  {
+    "id": "cmst1cqa902vtrocf5vqval90",
+    "title": "新预测若成真，超大规模云厂商拥抱天然气或成憾事",
+    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct",
+    "summary": "能源研究机构Noreva警告，随着超大规模云厂商需求激增、供应增长放缓及液化天然气出口上升，美国部分地区天然气价格未来数年可能上涨两倍，突破每百万英热单位10美元。Meta、微软、谷歌和亚马逊已分别宣布在路易斯安那州或得克萨斯州建设吉瓦级天然气电厂。燃料约占大型电厂发电成本一半，气价翻倍或三倍将推高\"自带电力\"AI数据中心的运营成本，进而可能抬高token成本。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月14日22时5分"
+  },
+  {
+    "id": "cmst2thtx0339ro066f0eef9f",
+    "title": "YouMind 将免费开放 DeepSeek V4 Flash 替代默认模型",
+    "url": "https://x.com/lifesinger/status/2088278748747440582",
+    "summary": "YouMind 创始人玉伯宣布，下周 DeepSeek 正式涨价后，将选用比 DeepSeek V4 Flash 更好的模型作为 YouMind Agent 默认基础模型，并免费开放给付费用户。为控制成本，可能仅限老付费用户。此前 YouMind 已接入 DeepSeek V4 Flash 最新版供尝鲜，并称 Fable 5、K3 等定价过高。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月14日22时57分"
+  },
+  {
+    "id": "cmst2gh5p02i4ro06iecukonj",
+    "title": "Cursor 正式加入 SpaceX，助力 Grok 生态",
+    "url": "https://x.com/mntruell/status/2088277505933488137",
+    "summary": "Cursor 官方宣布正式加入 SpaceX，收购已正式完成。Cursor 团队将加入 SpaceXAI 团队，共同致力于让 Grok 成为全球最实用的 AI，并改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。",
+    "source": "X：Michael Truell (@mntruell)",
+    "date": "2026年8月14日22时52分"
+  },
+  {
+    "id": "cmst2gfin02h0ro061lx0pmwe",
+    "title": "Gemini 新增可见水印开关，可随时关闭",
+    "url": "https://x.com/GeminiApp/status/2088277477672255830",
+    "summary": "Gemini 将在未来几天内推出可见水印开关，用户可在设置中自行决定 AI 生成的图片、视频和音乐是否显示可见水印。不可见的 SynthID 水印和 C2PA 元数据将始终保留在后台。该功能适用于所有图片（Nano Banana）、视频（Omni）和歌曲（Lyria），但法律要求保留水印的国家除外。",
+    "source": "X：Gemini (@GeminiApp)",
+    "date": "2026年8月14日22时52分"
+  },
+  {
+    "id": "cmst2fc5802f1ro062rp0wdez",
+    "title": "Claude Code 会话如何最大化 token 价值",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "summary": "Claude Code 的 token 成本由模型、输入/输出 token 和提示缓存三因素决定，输出 token 价格约为输入的 5 倍。任务间运行 /clear 可减少无关上下文回传，降低 token 用量；会话中途切换模型或 effort 级别会破坏提示缓存，增加成本。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月14日22时51分"
+  },
+  {
+    "id": "cmst2fbbz02exro06fkm042yp",
+    "title": "Kog 如何从传统 GPU 中榨取更多推理性能",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus",
+    "summary": "法国初创公司 Kog 正押注通过软件优化从企业现有的标准数据中心 GPU（如 AMD MI300X 和 NVIDIA H200）中挖掘更多推理性能，其演示实现了每秒 3，000 token 的推理速度，并承诺\"30 倍更快的 LLM 推理\"。基于早期反馈，Kog 预计软件工程将是首个应用场景，并计划在 9 月前以 10 倍速度运行首个大模型，以推动 A 轮融资。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月14日22时50分"
+  },
+  {
+    "id": "cmst2gezw02gqro06zpbyhj6i",
+    "title": "OpenAI年化收入将达400亿美元",
+    "url": "https://x.com/kimmonismus/status/2088275953701294506",
+    "summary": "据彭博社援引知情人士消息，OpenAI 年化收入有望突破 400 亿美元，约为 2025 年底运行率的近两倍。\n\n然而，Claude Code 的年化收入运行率正大幅增长，预计将达到 1000 亿美元。\n\n不过，OpenAI 正日益逼近并稳步接近 Anthropic 的收入。Codex 目前是最大的增长驱动力，从积极意义上讲。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月14日22时46分"
+  },
+  {
+    "id": "cmst2gghd02hgro06hmhy21vn",
+    "title": "黄仁勋称Cursor为最爱企业AI服务",
+    "url": "https://x.com/cb_doge/status/2088274185135251554",
+    "summary": "\"我最喜欢的企业AI服务是Cursor。它是一个AI编程助手，我们每一位工程师，100%现在都由AI编程助手辅助，我们的生产力提升得令人难以置信。这些公司是全世界增长最快的公司之一，而且它们面向企业市场。\"\n\n- 黄仁勋",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月14日22时38分"
+  },
+  {
+    "id": "cmst2r7pz030jro06paaqm7pv",
+    "title": "GLM-5.3 发布，Nathan Lambert 评 Z.ai 策略",
+    "url": "https://x.com/natolambert/status/2088272938361606397",
+    "summary": "Z.ai 发布 GLM-5.3，基于 743B 基座模型后训练，主打顶尖编程与智能体能力，并称在网络安全领域树立开源模型新标准。Nathan Lambert 认为 Z.ai 并非\"刷分\"，其任务分布更窄、发布周期以天计，且计算效率优于 OpenAI/Anthropic，整体是合理策略。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月14日22时34分"
+  },
+  {
+    "id": "cmst2gj8u02jaro06elzvgmeh",
+    "title": "Gemini 3.7 Flash 获赞：低延迟即能力",
+    "url": "https://x.com/fofrAI/status/2088272829582082093",
+    "summary": "fofr 认同 @bengoodger 观点，称 Gemini 3.7 Flash 用起来\"非常顺手\"。后者指出，该模型是首个能真正跟上快节奏迭代开发的模型，并强调\"低延迟即能力\"。fofr 对 Google DeepMind 此次发布表示祝贺。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月14日22时33分"
+  },
+  {
+    "id": "cmst2gixz02j2ro062zo1cgyr",
+    "title": "SpaceX 完成 600 亿美元收购 Cursor",
+    "url": "https://x.com/rohanpaul_ai/status/2088272150864224367",
+    "summary": "SpaceX 以 600 亿美元完成对 Cursor 的收购，Cursor 将加入 SpaceXAI 团队，助力 Grok 成为最实用的 AI，并改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日22时30分"
+  },
+  {
+    "id": "cmst2gs6d02lmro06sb7as7av",
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+    "summary": null,
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月14日22时27分"
+  },
+  {
+    "id": "cmst2gklg02k6ro06qd138umw",
+    "title": "商汤 SenseNova U1 开源模型获 YouTuber 展示",
+    "url": "https://x.com/SenseTime_AI/status/2088270617422500214",
+    "summary": "商汤 SenseTime 展示开源 SenseNova U1 模型，由 YouTuber NFT TIGERS SPOTON 演示其漫画分镜与涂鸦横幅生成能力。该模型支持精准文字渲染、复杂稳定布局生成及原生交错推理，用户可通过 SenseNova Studio 或 HuggingFace 体验。",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "date": "2026年8月14日22时24分"
+  },
+  {
+    "id": "cmst1e18x031trocfrnibf6tw",
+    "title": "GPT-5.6 Sol 推出 Ultrafast 模式，推理速度提升 14 倍，由 Cerebras 提供支持",
+    "url": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras",
+    "summary": "OpenAI 预览 GPT-5.6 Sol 的 Ultrafast 模式，输出速度最高达每秒 750 token，较此前提升 14 倍，加速由 Cerebras 提供支持，双方今年早些时候签署了百亿美元合作协议。该服务初期仅通过 OpenAI API 向特定客户开放，OpenAI 计划随算力增长逐步扩大访问。OpenAI 已在内部将该模式用于事件响应，并计划将速度作为新的定价杠杆。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月14日22时21分"
+  },
+  {
+    "id": "cmst1olks0350rocfa45mvcgt",
+    "title": "Cohere North Mini Code下载量破15万",
+    "url": "https://x.com/cohere/status/2088269861113795070",
+    "summary": "North Mini Code 的开发者社区持续壮大，下载量已超 15 万次且仍在攀升 🚀\n\n随着 OpenCode 免费套餐的取消，开发者可以在 Model Vault 或 OpenRouter 上找到我们的开源模型，并且（一如既往地）你也可以在本地运行它。\n\n继续向我们展示你的作品吧！",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年8月14日22时21分"
+  },
+  {
+    "id": "cmst1dx5202zlrocf5xr8c267",
+    "title": "MIT 新框架统一描述深度学习架构",
+    "url": "https://x.com/rohanpaul_ai/status/2088268968742285378",
+    "summary": "MIT 新论文提出一种数学框架，用于表示、操作和编译深度学习架构，为模型提供统一的描述语言，精确涵盖张量操作的连接与行为。该表示可一键转换为图表、机器可读图或可运行的 PyTorch 代码，旨在最终让软件自动分析和优化模型架构，减少人工操作。论文见 arxiv.org/abs/2604.07242。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月14日22时18分"
+  },
+  {
+    "id": "cmst1u88h004oro06ro9i5u8a",
+    "title": "a16z 图表：Neocloud 增长远超早期云巨头，但成本高企",
+    "url": "https://www.a16z.news/p/charts-of-the-week-head-in-the-neoclouds",
+    "summary": "a16z 图表显示，由加密矿场转型的 neocloud 公司增速远超早期云巨头，CoreWeave 约 25 个季度即达 AWS 第 40 个季度时的 26 亿美元季度营收。但巨额 Capex 及超营收半数的芯片折旧与利息支出下，其股价一年跌约 16%。另 Atlassian 云业务同比增长 31%，AI 助手 Rovo 用户支出增速接近非用户两倍。",
+    "source": "a16z：News（RSS）",
+    "date": "2026年8月14日22时11分"
+  },
+  {
+    "id": "cmst1dyu9030krocfi9n0fp4v",
+    "title": "面壁智能等发布 SciDC：规则约束减少模型幻觉",
+    "url": "https://x.com/OpenBMB/status/2088264377573257223",
+    "summary": "面壁智能（OpenBMB）联合清华NLP、南京大学等发布 SciDC，将科学知识转化为解码约束，使本地部署的领域模型只能在专家规则定义的可行域内生成。该方法无需微调，在工业配方设计、临床诊断等任务上平均准确率提升 +11.6（Qwen3-4B 42.5→54.1，Qwen3-14B 51.4→63.0），真实医疗记录上 Qwen3-14B 精确匹配从 33.5% 提升至 45.1%。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月14日22时0分"
+  },
+  {
     "id": "cmssz8r3w0n15roffdkpxu5mu",
     "title": "Qwen3.8-27B 即将发布，敬请期待",
     "url": "https://x.com/Alibaba_Qwen/status/2088251315256520943",
