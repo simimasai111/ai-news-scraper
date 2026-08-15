@@ -13848,12 +13848,36 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmstr2ojn0fe3ro0xu7u88sig",
+    "title": "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 Skill",
+    "url": "https://www.ithome.com/0/990/003.htm",
+    "summary": "阿里千问开放平台于 8 月 10 日上线，支持 App、PC 和 AI 眼镜三端，在眼镜端提供技能平台和行业定制两大模块。开发者可调用\"眼镜拍照\"等能力创建 Skill，如为视障群体开发\"身边有什么\"、景点导览、菜谱专家等，也可用自然语言打造导游、教练等随身 AI 助手。平台正陆续开放空间 3D 立体显示、运动健康状态感知等更多眼镜能力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日9时59分"
+  },
+  {
+    "id": "cmstr2ojn0fe4ro0xbkvzkbf7",
+    "title": "DeepSeek V4 Pro 正式版与 Harness 智能体框架上线国家超算互联网",
+    "url": "https://www.ithome.com/0/990/002.htm",
+    "summary": "国家超算互联网于 8 月 14 日上线 DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）及智能体框架 DeepSeek Harness。该模型增强了 Agent 能力，生产环境性能提升显著，整体性能可与 Claude Fable 5、Opus-4.8 相媲美。DeepSeek Harness 开发者预览版（v0.1）已面向全球开放测试，并以 MIT 协议开源。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日9时53分"
+  },
+  {
     "id": "cmstq1e1m0eh1ro0x5l8s68fo",
     "title": "Grok 4.6 上线 GitHub Copilot",
     "url": "https://x.com/elonmusk/status/2088443051890917436",
     "summary": "Grok 4.6 现已登陆 Copilot。",
     "source": "X：Elon Musk (@elonmusk, xAI)",
     "date": "2026年8月15日9时49分"
+  },
+  {
+    "id": "cmstr2ojn0fe6ro0x4zozt0sq",
+    "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
+    "url": "https://www.ithome.com/0/989/999.htm",
+    "summary": "微软承认在 Windows 10、Windows 11 平台上，用户升级经典版 Outlook 至 20026.20182 及更高版本后，Copilot 图标会被隐藏，且无法访问 Copilot Chat 开启 AI 聊天。即使用户在\"添加应用\"区域看到 Copilot 图标，点击\"打开\"也可能没有反应。部分反感 AI 集成的用户视本次 Bug 为\"重大升级\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日9时43分"
   },
   {
     "id": "cmstq1e3t0eh7ro0x1ni7ocrv",
@@ -13878,6 +13902,14 @@
     "summary": "在深圳一家物流工厂，人形机器人已全面投入运营。\n\n它们抓取、翻转并将各类包裹放到传送带上。单台峰值吞吐量达每小时 1，200 件。地点：中国深圳龙华邮政分拣中心。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月15日9时33分"
+  },
+  {
+    "id": "cmstr2ojn0fe8ro0xwyf2oiv9",
+    "title": "谷歌 Gemini 将推 Media Watermark 设置：可关闭 AI 生成图片/视频/音乐的可见水印",
+    "url": "https://www.ithome.com/0/989/997.htm",
+    "summary": "谷歌预告未来几天为 Gemini 新增 Media Watermark 设置，用户可关闭图像、视频和音乐作品的可见水印。该选项位于左侧栏\"设置\"菜单倒数第 3 项，提供\"On\"和\"Off\"两个选项。关闭可见水印后，AI 生成内容仍保留 SynthID 隐形水印与 C2PA 元数据。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日9时29分"
   },
   {
     "id": "cmstoz0zi0dypro0xhyclvdwt",
@@ -14598,6 +14630,14 @@
     "summary": "DAIR.AI 推出的 27B 参数智能体 Faraday 在论文复现任务中击败 Claude Opus 4.8 和 GPT-5.5。其方法 Replica 将论文复现转化为可扩展的 RL 任务空间，通过自动生成的评分器提供低噪声奖励信号。Faraday 将编码智能体作为工具调用，展现出更科学的推理路径，指向无需复杂框架即可将长周期科研能力训练进模型权重。",
     "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
     "date": "2026年8月15日1时0分"
+  },
+  {
+    "id": "cmstr2njf0fdyro0xf6rp0w0r",
+    "title": "OpenAI 9 位核心高管数月内相继离职",
+    "url": "https://x.com/AYi_AInotes/status/2088447219854668203",
+    "summary": "OpenAI 自 4 月以来已有 9 位核心人物离职，覆盖产品、安全、伦理与商业侧，包括 Sora 负责人 Bill Peebles、安全系统负责人 Johannes Heidecke、唯一专职伦理学家 Chloe Bakalar、前 CFO/COO Brad Lightcap 及上任仅 8 个月的 CRO Denise Dresser。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月15日10时6分"
   },
   {
     "id": "cmst5oc2m05q6ro06gsmtyllw",
