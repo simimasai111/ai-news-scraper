@@ -13848,6 +13848,38 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsurj18907merouhh61eamjm",
+    "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "summary": "AI 解决数学难题的关键可能不是更强的推理能力，而是远超人类的工作记忆容量。人类工作记忆极其有限，而模型可将整个问题、中间方程和先前结论全部放入上下文窗口。多项儿童研究表明，工作记忆对数学表现的预测力独立于 IQ，这为理解 AI 的数学能力提供了线索。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月16日3时18分"
+  },
+  {
+    "id": "cmsurkcku07qrrouhtbw3yhu4",
+    "title": "Grok 4.6 编码成本效率超 GPT-5.6 Sol",
+    "url": "https://x.com/rohanpaul_ai/status/2088706577205432740",
+    "summary": "Grok 4.6 在三个编码任务中以 $13.11 总成本击败 GPT-5.6 Sol 的 $20.18，模型调用次数 201 次对 338 次，总耗时 129 分 41 秒对 149 分 33 秒。两次运行分别消耗约 20M 和 26M tokens，其中 93-98% 的输入 token 为缓存读取，若无提示缓存成本将增加约 4 倍。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月16日3时17分"
+  },
+  {
+    "id": "cmsurk5zc07p5rouhgktafw7k",
+    "title": "城市建造游戏AI九个月演进对比",
+    "url": "https://x.com/milichab/status/2088704783750398121",
+    "summary": "九个月来，AI 在城市建造游戏领域的前沿进展：\n\n2025 年 11 月 - https://iso-city.com(左）- Composer 1 + 云端智能体\n2026 年 8 月 - https://metropolis-ten-gamma.vercel.app(右）- Grok 4.6 + /loop\n\n完整 3D 和 AAA 级画面已触手可及。",
+    "source": "X：Andrew Milich (@milichab)",
+    "date": "2026年8月16日3时10分"
+  },
+  {
+    "id": "cmsurizvc07lorouhq8xmsvd2",
+    "title": "Anthropic 详解 Claude 新水印机制：如何运作、能否被编辑隐藏及对代码的影响",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+    "summary": "Anthropic 发布博客文章，详解其聊天机器人 Claude 文本水印的运作方式。该水印采用 Google DeepMind 2024 年提出的 SynthID-Text 方法，并计划推出水印检测 API。Anthropic 称水印不影响输出质量，轻度编辑可能无法完全去除水印，而代码因需保证可运行，水印影响甚微。此举是为遵守欧盟 AI 法案透明度规范。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月16日2时58分"
+  },
+  {
     "id": "cmsuqulw707dbrouhqjb6blkn",
     "title": "DeepSeek Harness：让智能体状态有明确归属",
     "url": "https://x.com/dongxi_nlp/status/2088696132964941988",
