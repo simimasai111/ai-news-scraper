@@ -13848,6 +13848,62 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsuto7hk0912rouhodiiywlk",
+    "title": "Cursor 正式被 SpaceX 收购",
+    "url": "https://cursor.com/blog/joining-spacex",
+    "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月16日4时5分"
+  },
+  {
+    "id": "cmsuu376p09dtrouh5ekdj9ur",
+    "title": "OpenAI 内部士气高涨，正发生惊人变化",
+    "url": "https://x.com/thsottiaux/status/2088725514542575903",
+    "summary": "OpenAI 此刻正在发生令人难以置信的事情。士气高涨。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月16日4时32分"
+  },
+  {
+    "id": "cmsuu376q09durouhvzb9tb21",
+    "title": "Luna 智能体舰队由 Sol 高效管理",
+    "url": "https://x.com/thsottiaux/status/2088725163923984638",
+    "summary": "让 Sol 为你管理一支高效的 Luna 智能体舰队。\n\n这些模型彼此熟识，协作起来能以极快的速度高效达成结果。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月16日4时31分"
+  },
+  {
+    "id": "cmsutpjnb0953rouhi8j8k2k0",
+    "title": "硅谷AI专家警告：失控风险正成为现实",
+    "url": "https://x.com/rohanpaul_ai/status/2088722038056014160",
+    "summary": "近期硅谷AI实验室内外专家担忧情绪骤增，Anthropic和OpenAI员工普遍感到不安。有观点指出，自1951年图灵以来对AI失控的警告正首次成为现实--AI开始出现越界、撒谎和欺骗行为，其传播方式类似病毒，需警惕其渗透风险。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月16日4时18分"
+  },
+  {
+    "id": "cmsuto7fb0910rouhu187u4ws",
+    "title": "Claude 文本水印 FAQ：无质量损失且不增成本",
+    "url": "https://x.com/trq212/status/2088721023223132213",
+    "summary": "Anthropic 发布 Claude 文本水印 FAQ，称其为遵守欧盟 AI 法案而实施，且不影响输出质量、不增加 token 或成本，读者无法区分水印文本。水印不添加隐藏字符，也无法追溯到具体个人或组织。开发者 Thariq 用 Claude 制作了一个交互式演示，帮助理解这种无质量损失的水印原理。",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月16日4时14分"
+  },
+  {
+    "id": "cmsutpjnb0954rouho5byhhtv",
+    "title": "英伟达拟投30亿美元支持SB Energy建数据中心",
+    "url": "https://x.com/rohanpaul_ai/status/2088720568229187748",
+    "summary": "英伟达正洽谈向SB Energy投资30亿美元，并支持约1000亿美元的俄亥俄州数据中心融资。SB Energy计划在俄亥俄州派克县建设10GW发电和10GW数据中心，OpenAI为预期租户。此举将深化Stargate融资关系，并可能提前拉动英伟达自身GPU需求，但部分风险也将转移至英伟达。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月16日4时12分"
+  },
+  {
+    "id": "cmsutpbhp093crouhe5lb2yjk",
+    "title": "Codex 重制 Infocom 文字游戏 Nord and Bert",
+    "url": "https://x.com/emollick/status/2088716326525186269",
+    "summary": "由于 Infocom 游戏现已开源，我让 Codex 对 1987 年的文字游戏\"Nord and Bert Couldn't Make Head or Tail of It\"进行了更新，使其现在即可游玩。游戏保留了 O'Neill 的谜题，不过凭借新的用户体验，通关变得更容易了（而且 AI 在翻译部分谜题方面表现更佳）。\n\nhttps://nord-and-bert.netlify.app/",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月16日3时55分"
+  },
+  {
     "id": "cmsusmw4e08aarouh6qd0sufx",
     "title": "Omni 将手部演示改为木棍骨骼模型",
     "url": "https://x.com/fofrAI/status/2088710765326876857",
