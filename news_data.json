@@ -14632,6 +14632,46 @@
     "date": "2026年8月15日1时0分"
   },
   {
+    "id": "cmstye7kg0kp8ro0xapfjq5em",
+    "title": "腾讯云黑客松Demo Day明日直播",
+    "url": "https://x.com/WorkBuddy_AI/status/2088497807925907731",
+    "summary": "我们明天上线！\n\n敬请收看腾讯云黑客松\"乐龄\"社会公益挑战赛Demo Day，新加坡现场直播。\n\n8月16日 | 下午1：30（新加坡时间）就在X平台观看直播。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "date": "2026年8月15日13时27分"
+  },
+  {
+    "id": "cmstxxjej0ki5ro0xwu3ws1bg",
+    "title": "ChatGPT 本周更新：餐厅预订搜索上线",
+    "url": "https://x.com/thsottiaux/status/2088493756391768252",
+    "summary": "ChatGPT 本周（8 月 14 日）推出多项新功能，包括自动生成测验、餐厅预订搜索，以及面向付费用户的 Google Drive 文件接入和首页建议。用户可直接用自然语言描述需求（如\"找一家有户外露台的餐厅\"），系统即可返回预订结果。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月15日13时11分"
+  },
+  {
+    "id": "cmstxjl8e0k84ro0xkd3vsn76",
+    "title": "Grok 应用更新新增 Projects 与 Build 入口",
+    "url": "https://x.com/cb_doge/status/2088493525461836169",
+    "summary": "立即从 App Store 将你的 Grok 应用更新至 v1.4.24 🚀\n\n新更新新增了 Projects 板块，帮助你整理工作内容。\n\nBuild 现在也出现在主屏幕上，只需在 Ask、Imagine 和 Build 之间滑动切换即可。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月15日13时10分"
+  },
+  {
+    "id": "cmstxii3z0k6gro0x0nke5vuf",
+    "title": "别再发上千行的巨型 PR 了：AI 时代代码评审者的牢骚",
+    "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+    "summary": "一位开发者抱怨 AI 智能体动辄生成上千行的大 PR，让评审者不堪重负。他认为小 PR 的价值在于可消化、可评审、可理解，而非独立成品的完整性，并推测理解代码的时间随行数呈指数增长。他还反对过度注释和\"用 AI 读 AI 代码\"的建议，呼吁 AI 生成代码应拆分为小份供人评审。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月15日13时10分"
+  },
+  {
+    "id": "cmstxjvez0kaero0xmx8ofg8a",
+    "title": "ChatGPT 新增餐厅订位搜索功能",
+    "url": "https://x.com/gdb/status/2088489438297133066",
+    "summary": "ChatGPT 推出订位搜索功能，用户可直接用自然语言描述需求（如\"下周六两人、带户外露台的餐厅\"）来查找订位。该功能是 8 月 14 日 ChatGPT 功能更新的一部分，同批还包括 Quiz 测验、Google Drive 文件接入（付费用户）及首页建议（付费用户）。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月15日12时54分"
+  },
+  {
     "id": "cmstwhe750je4ro0xkdjr3htq",
     "title": "OpenClaw 要求 UI 变更 PR 附视频",
     "url": "https://x.com/steipete/status/2088486859244741020",
