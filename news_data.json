@@ -14632,12 +14632,76 @@
     "date": "2026年8月15日1时0分"
   },
   {
+    "id": "cmsu0rjsm0oevro0xwku4tnci",
+    "title": "六个月内半数电脑工作可语音完成",
+    "url": "https://x.com/gabriel1/status/2088518675880186082",
+    "summary": "大约6个月内，50%的电脑工作可以通过直接告诉电脑来完成，到那时这只是一个文化问题。\n\n上下文、人类直觉和边缘情况无法被解决，因此人们将只专注于任务中非点击的部分以及审查工作。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月15日14时50分"
+  },
+  {
+    "id": "cmsu0rbnd0ocvro0xyn4t4zu6",
+    "title": "OpenAI 企业营收首超消费者业务",
+    "url": "https://x.com/kimmonismus/status/2088518264770982106",
+    "summary": "OpenAI 不再主要是一家消费者业务公司。\n\nOpenAI 年初时消费者与企业收入比例为 60/40。仅仅几个月后，这两条线已经交叉。\n\n该公司现在大部分收入来自企业业务。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月15日14时48分"
+  },
+  {
+    "id": "cmsu0rjsm0oewro0xwwjs1h4w",
+    "title": "4倍杠杆诱人，GDP将飙升",
+    "url": "https://x.com/gabriel1/status/2088516314428272918",
+    "summary": "GDP将飙升，我能理解为什么4倍杠杆如此诱人",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月15日14时41分"
+  },
+  {
+    "id": "cmsu0rjsm0oexro0xysctnvbv",
+    "title": "AI热潮下普通人的困惑：这算桌面应用吗",
+    "url": "https://x.com/gabriel1/status/2088515487236055191",
+    "summary": "我：*在关于AI未来工作的抽象概念和兴奋感中越来越迷失*\n\n对方：\"所以……它就像是我安装的桌面应用程序吗？\"\n\n【引用 @gabriel1】：天哪，我从来没在旧金山以外的地方跟人解释过AI\n\n我们不是太早了，这根本还没开始",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月15日14时37分"
+  },
+  {
+    "id": "cmsu0rjsm0oeyro0xf8omyjv1",
+    "title": "AI浪潮尚未真正开始",
+    "url": "https://x.com/gabriel1/status/2088514738993176941",
+    "summary": "天哪，我从未尝试向旧金山以外的人解释过AI。\n\n我们并不算早，这甚至还没真正开始。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月15日14时34分"
+  },
+  {
+    "id": "cmstzp5iy0nv6ro0xgpfqfg3t",
+    "title": "Runway 上线 Seedance 2.5 1080p 高清版",
+    "url": "https://x.com/runwayml/status/2088510581120647272",
+    "summary": "Seedance 2.5 1080p 现已上线 Runway。今日起开放抢先体验，以更高分辨率呈现更锐利的细节。\n\n点击下方链接即可开始使用。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月15日14时18分"
+  },
+  {
+    "id": "cmstzp5qw0nv8ro0xg5qr57nw",
+    "title": "论文：AI理性采用或摧毁整个职业领域的集体专业能力",
+    "url": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise",
+    "summary": "一篇发表于《Human Resource Development Review》的论文提出，企业理性采用AI可能侵蚀整个职业领域的集体专业能力。AI取代入门级岗位并让初级员工借助AI达到以往需多年经验的生产力水平，削弱了深度领域知识的积累，进而影响人类审查AI输出的能力。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月15日14时0分"
+  },
+  {
     "id": "cmstyzcrp0nfvro0x34pst40v",
     "title": "图1融1200万美元图2融资艰难",
     "url": "https://x.com/chunxiangai/status/2088503642773135483",
     "summary": "图 1 融了 1200 万美元。 图 2 融 1 美元都费劲。",
     "source": "X：赵纯想 (@chunxiangai)",
     "date": "2026年8月15日13时50分"
+  },
+  {
+    "id": "cmstznfh60nnrro0xweuo1mr8",
+    "title": "腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步",
+    "url": "https://www.ithome.com/0/990/041.htm",
+    "summary": "腾讯 QQ 宣布 QQ Bot 机器人接入 DeepSeek Harness（DSH）官方插件，接入后机器人获得 AI 智能体能力，支持单聊和群聊，每个会话拥有独立对话记忆，并可在聊天中随时切换模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日13时44分"
   },
   {
     "id": "cmstz04990nisro0xl3wj83lm",
@@ -14654,6 +14718,14 @@
     "summary": null,
     "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月15日13时30分"
+  },
+  {
+    "id": "cmstznbw50nnhro0xdiucnd47",
+    "title": "Travis Kalanick 八年隐身建 Atoms，a16z 领投 17 亿美元",
+    "url": "https://x.com/AYi_AInotes/status/2088497937634513028",
+    "summary": "Uber 联合创始人 Travis Kalanick 沉寂八年后携工业 AI 公司 Atoms 回归，a16z 领投 17 亿美元，Ben Horowitz 称这是其最大一笔支票并加入董事会。Atoms 聚焦食品、采矿、物流等重资产行业，不做通用人形机器人。Kalanick 称隐身是差异化策略，并感谢 Elon Musk 收购 X 让建设者能直接发声。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月15日13时28分"
   },
   {
     "id": "cmstye7kg0kp8ro0xapfjq5em",
