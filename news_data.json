@@ -14632,12 +14632,60 @@
     "date": "2026年8月15日1时0分"
   },
   {
+    "id": "cmstuc7ja0hsfro0xip2wb8q0",
+    "title": "OpenClaw 团队用自家产品开发并分享会话链接",
+    "url": "https://x.com/steipete/status/2088473882357530979",
+    "summary": "我们把团队迁移到了用 OpenClaw 来构建 OpenClaw。能够把智能体会话作为 URL 分享，是一种超能力。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月15日11时52分"
+  },
+  {
+    "id": "cmstubzok0hqhro0x2az1pwx8",
+    "title": "Qwen3.8-27B 登陆 LM Studio，笔记本级模型新飞跃",
+    "url": "https://x.com/Alibaba_Qwen/status/2088471287203246227",
+    "summary": "笔记本级模型，前沿级飞跃。🏃♀️Qwen3.8-27B 已在 LM Studio 上线。试试吧！@lmstudio",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月15日11时42分"
+  },
+  {
+    "id": "cmstubzok0hqiro0x9tmh4p22",
+    "title": "Qwen3.8-27B 获联发科 Day-0 支持",
+    "url": "https://x.com/Alibaba_Qwen/status/2088467890467168751",
+    "summary": "通义千问 Qwen3.8-27B 正式落地日常终端，联发科宣布为其提供 Day-0 支持。该支持覆盖 Dimensity Auto Cockpit C-X1 及最新旗舰移动 SoC，将端侧 AI 体验从智能手机扩展至车载场景，推动智能体 AI 无缝融入日常生活。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月15日11时28分"
+  },
+  {
+    "id": "cmstt9ecu0h62ro0x3yeu3db1",
+    "title": "Qwen3.8-27B 登陆 RTX Spark 即刻可用",
+    "url": "https://x.com/Alibaba_Qwen/status/2088466210895823024",
+    "summary": "即刻可用！😎 见证 Qwen3.8-27B 在 RTX Spark 上飞速运行，令人惊叹。下载、部署并创造新事物。@NVIDIARTXSpark",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月15日11时22分"
+  },
+  {
     "id": "cmstr2njf0fdyro0xf6rp0w0r",
     "title": "OpenAI 9 位核心高管数月内相继离职",
     "url": "https://x.com/AYi_AInotes/status/2088447219854668203",
     "summary": "OpenAI 自 4 月以来已有 9 位核心人物离职，覆盖产品、安全、伦理与商业侧，包括 Sora 负责人 Bill Peebles、安全系统负责人 Johannes Heidecke、唯一专职伦理学家 Chloe Bakalar、前 CFO/COO Brad Lightcap 及上任仅 8 个月的 CRO Denise Dresser。",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年8月15日10时6分"
+  },
+  {
+    "id": "cmstt7tul0h04ro0xgav9ypkv",
+    "title": "Qwen3.8-27B 开源，单卡跑赢 Opus 4.6",
+    "url": "https://x.com/AYi_AInotes/status/2088458347339026591",
+    "summary": "Qwen3.8-27B 开源模型发布，27B 参数即可在单张 24GB 消费级显卡本地运行，编码与 Agent 能力超越 Claude Opus 4.6（SWE-bench Pro 61.7 vs 53.4，OSWorld 84.3 vs 72.7）。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月15日10时50分"
+  },
+  {
+    "id": "cmstt7unx0h0aro0x2dy8lr19",
+    "title": "微软 Copilot Notebooks 扩展支持 Markdown，强化 AI 资料分析",
+    "url": "https://www.ithome.com/0/990/013.htm",
+    "summary": "微软更新 Copilot Notebooks 应用，新增支持 Markdown、纯文本和富文本 3 种文本格式，用户可直接导入 README、技术说明、系统日志、会议转录稿等文本密集型文件。其中 Markdown 支持最受关注，因 .md 文件已广泛承载 AI 智能体的上下文和操作指令。微软举例了导入会议转录稿梳理决议、分析支持工单、比对系统日志等 4 个使用场景。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日10时48分"
   },
   {
     "id": "cmst5oc2m05q6ro06gsmtyllw",
