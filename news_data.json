@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsuoce9804fjrouh47l9pt2c",
+    "title": "埃森·莫里克呼吁专家用AI视频还原历史",
+    "url": "https://x.com/emollick/status/2088685078519959776",
+    "summary": "埃森·莫里克呼吁历史学家、生物学家、物理学家等专家使用AI视频，直接向公众展示恐龙时代、木卫一表面、古罗马等缺乏准确影像的场景。他以自己用Google Deep Research生成提示词、让Veo 3描述罗德岛巨像的实验为例，说明AI视频能让专家直接呈现历史。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月16日1时51分"
+  },
+  {
+    "id": "cmsuorh9q0627rouhb2kj330l",
+    "title": "Qwen下载量登顶全球开源模型",
+    "url": "https://x.com/natolambert/status/2088683919730430335",
+    "summary": "这件事发生在12个月前……",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月16日1时47分"
+  },
+  {
+    "id": "cmsuoce9n04flrouh2pov65nf",
+    "title": "Grok Build 模式几分钟生成小游戏",
+    "url": "https://x.com/cb_doge/status/2088678349359263929",
+    "summary": "Grok Build 模式太好玩了！\n\n我用简单的单行提示词，仅花了几分钟就给侄子做了几个小游戏，全部是在 iPhone 上的 Grok iOS 应用里完成的。\n\n这真的是有史以来最酷的功能之一！",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月16日1时24分"
+  },
+  {
     "id": "cmsun8n3403sprouh9gka3uvq",
     "title": "IBM 新研究：基准分数部分源于措辞而非模型",
     "url": "https://x.com/omarsar0/status/2088675092238889461",
@@ -13910,6 +13934,14 @@
     "summary": "一位工程师认为，与 AI 协作更像领导团队而非编程：AI 对同一请求可能给出不同答案，需像对待同事一样分享上下文、解释目标并设定边界。通过示例、纠正和可复用指令，AI 能更好地对齐个人思维方式。AI 虽非人类，但提升表达意图的能力正成为软件工作的关键转变。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月16日0时38分"
+  },
+  {
+    "id": "cmsuob7ni04c6rouhg1gq9djq",
+    "title": "SpaceX 正式完成对 Cursor 的收购",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+    "summary": "SpaceX 正式完成对 AI 编程初创公司 Cursor 的收购，后者将获得\"全球最大规模的 GPU 集群\"访问权限。该交易源于今年 4 月双方达成的合作协议，SpaceX 当时拥有以 600 亿美元收购 Cursor 的选择权，并在两个月后推进了收购。Cursor 表示，SpaceX 正建设远超当前水平的智能扩展计算能力，而 Cursor 将成为这一能力落地应用的重要载体。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月16日0时30分"
   },
   {
     "id": "cmstr2ojn0fe3ro0xu7u88sig",
