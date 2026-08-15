@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsuz2i9w04fsrosa2m9c36du",
+    "title": "格雷格·布罗克曼回应AI支出差距",
+    "url": "https://x.com/gdb/status/2088755962131747085",
+    "summary": "听起来准确。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月16日6时33分"
+  },
+  {
+    "id": "cmsuz2li104gkrosa40hbkqut",
+    "title": "顶级AI从业者其实很少互相认识",
+    "url": "https://x.com/swyx/status/2088755688361378082",
+    "summary": "swyx 观察到，AI 圈顶级从业者之间实际碰面或相识的频率远低于外界想象，所谓\"秘密群聊\"只是短暂例外。他认为多数人的精力仍花在做事而非经营叙事或八卦上，这让他感到安心。引用邮件显示 Anthropic 联合创始人曾致信 Noam Shazeer。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月16日6时32分"
+  },
+  {
+    "id": "cmsuytkv704a8rosa3fsfjxs0",
+    "title": "Opus 5 新输出风格：代码任务通过率97%",
+    "url": "https://x.com/dexhorthy/status/2088753878485373102",
+    "summary": "有用户发现 Claude Opus 5 采用\"Attention-kind\"输出风格后，代码任务通过率达97%，输出缩短43%，75%的回答首行即出（默认仅3%），88%为纯交付内容。主推文借此提出应建立\"AI-人类交互\"（AHI）研究领域，反向设计AI如何更好与人类互动。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月16日6时25分"
+  },
+  {
     "id": "cmsuxzp2703usrosa4ixhfpg3",
     "title": "辛格 singularity 定义之争：技术界误读",
     "url": "https://x.com/emollick/status/2088750423825924222",
