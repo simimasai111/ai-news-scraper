@@ -14528,12 +14528,44 @@
     "date": "2026年8月15日23时8分"
   },
   {
+    "id": "cmsukfxk1025brouh4cyn80wa",
+    "title": "feedback-agent：云智能体自动修 Bug 并开 PR",
+    "url": "https://x.com/ericzakariasson/status/2088656734873321805",
+    "summary": "Eric Zakariasson 将用户反馈自动修复流程打包成 npm 包 feedback-agent，应用内嵌入组件后，用户提交反馈即触发云智能体处理。该流程基于 PostHog 收集的文本、会话回放、事件和错误数据，由 Cursor 云智能体结合只读 PostHog MCP 上下文循环验证修复，最终自动创建带测试的 GitHub PR 供手机端审核。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月15日23时59分"
+  },
+  {
+    "id": "cmsukh550025hrouhgro0lm12",
+    "title": "HuggingFace 下载量骤降30%引质疑",
+    "url": "https://x.com/natolambert/status/2088655453077254234",
+    "summary": "已修复。感谢 @huggingface 团队！\n\n【引用 @natolambert】：提醒一下：我们发现几周前，HuggingFace 上几乎所有模型的每日下载量持续下降了约 30%，例如导致我们在 @interconnectsai 仪表盘上的八月预测明显偏低。\n\n@julien_c 或 @huggingface，你们是否更改了某些过滤设置？",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月15日23时54分"
+  },
+  {
+    "id": "cmsuk2hmn01j9rouhvpi8b4mv",
+    "title": "投资者施压，Nvidia 将 OpenAI 数据中心担保额削减近半；Anthropic 营收数据却反驳泡沫论",
+    "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings",
+    "summary": "Nvidia 与 OpenAI 的数据中心交易中，担保额从原计划的 2500 亿美元降至不足 1200 亿美元，覆盖约 5 吉瓦的第一阶段建设，投资者对其风险敞口表示担忧。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月15日23时41分"
+  },
+  {
     "id": "cmsuizn3j0214ro1fe2b07rr9",
     "title": "效率与富足创造就业，未来角色难预测",
     "url": "https://x.com/gabriel1/status/2088642682642104377",
     "summary": "没有什么比富足和效率创造更多就业机会了\n\n只是未来真的很难预测，会出现什么新角色，所以会让人感到不确定\n\n上一次效率提升10倍时，我们增加了监管与合规，现在10%的计算机工作都是这方面的。很难预测",
     "source": "X：Gabriel (@gabriel1)",
     "date": "2026年8月15日23时3分"
+  },
+  {
+    "id": "cmsukfy19025drouhmhugzw0l",
+    "title": "Scott Gray 离开 OpenAI，GPU 内核之王出走",
+    "url": "https://x.com/Yuchenj_UW/status/2088651588491784626",
+    "summary": "Bob，GPU 内核之王，离开 OpenAI 了？\n\nGPT-6.7 运行速度将慢 2 倍……",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月15日23时38分"
   },
   {
     "id": "cmsujfk960196rouhl53o37ts",
