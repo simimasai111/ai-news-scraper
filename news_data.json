@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsuvtdx201xsrovmdzb96uq5",
+    "title": "ThoughtDAG：用可编辑上下文图管理 LLM 对话的开源画布",
+    "url": "https://chenxiachan.github.io/thoughtdag",
+    "summary": "ThoughtDAG 是一款开源、本地优先的画布工具，通过图结构中的边来定义发送给大语言模型的上下文。用户可对对话进行分支、剪枝、合并，并检查模型实际看到的内容。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月16日5时9分"
+  },
+  {
+    "id": "cmsuvuoyq021frovmdtj3hltx",
+    "title": "网友惊讶Sora未关停，称抗议儿戏",
+    "url": "https://x.com/gabriel1/status/2088738293756334270",
+    "summary": "我以为我们已经关停了 Sora。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月16日5时23分"
+  },
+  {
+    "id": "cmsuvug3c01yvrovmq9o7plwc",
+    "title": "Grok 6 个月从 3 到 4.6 进步巨大",
+    "url": "https://x.com/elonmusk/status/2088736114739917130",
+    "summary": "Elon Musk 称 Grok 进步巨大。开发者 @KettlebellDan 展示 Grok Build 仅用 6 个月从 Grok 3 升级至 Grok 4.6，能观看视频并逆向工程重制游戏，且 token 成本极低（仅几美元）。他强调 Grok 擅长与人类协作，无需代码知识即可构建应用。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月16日5时14分"
+  },
+  {
     "id": "cmsuuj81z011wrovm8f5gz9iz",
     "title": "GPT-5.6 技能组合生成大规模代码审查",
     "url": "https://x.com/dexhorthy/status/2088719534555303956",
