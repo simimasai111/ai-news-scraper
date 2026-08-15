@@ -14520,6 +14520,22 @@
     "date": "2026年8月15日2时0分"
   },
   {
+    "id": "cmsuckhid09c5roe0ug17qlx2",
+    "title": "Anthropic 为 Claude 桌面端内置浏览器",
+    "url": "https://x.com/testingcatalog/status/2088598175074377849",
+    "summary": "ANTHROPIC 🔥：Claude 桌面端将内置一个专用浏览器，在 Cowork 会话中随时可用！一个超级应用正在崛起。\n\n这看起来似曾相识 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月15日20时6分"
+  },
+  {
+    "id": "cmsuck2i609afroe0ago6wav3",
+    "title": "工具调用转向代码优先，14 模型中 11 个更优",
+    "url": "https://x.com/rohanpaul_ai/status/2088600341440794829",
+    "summary": "新研究对比 JSON 与代码优先的工具调用方式，在 14 个模型、309 项 BFCL v4 任务中，程序化调用在 11 个模型上持平或胜出，GPT-5.6-Sol 和 Terra 各提升 10.6 个百分点。Claude Sonnet 5 在 100 次调用时 JSON 枚举准确率降至 0%，Python 保持 100%；13 个模型的顺序链执行更快。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日20时15分"
+  },
+  {
     "id": "cmst7tjt5032erodztd509mcm",
     "title": "Qwen 领跑本地推理，小模型主导实际应用",
     "url": "https://x.com/Alibaba_Qwen/status/2088311161955754356",
