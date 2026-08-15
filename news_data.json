@@ -14632,6 +14632,22 @@
     "date": "2026年8月15日1时0分"
   },
   {
+    "id": "cmsubh9r906gvroe0k8ta7web",
+    "title": "Qwen 3.8 27b 成功，阿里模型下载量全球第一",
+    "url": "https://x.com/kimmonismus/status/2088593968233615608",
+    "summary": "Qwen 3.8 27b 是一次期待已久的重大飞跃，取得完全成功。过去六个月，阿里巴巴开源模型全球下载量超 30 亿次，超越 Meta、Alphabet 及国内同行，成为全球第一的 AI 模型。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月15日19时49分"
+  },
+  {
+    "id": "cmsubhjvs06jtroe0d8iyia6b",
+    "title": "微调工具调用大语言模型：基于 XYZ-Aquila-SFT 与 Qwen3 的完整指南",
+    "url": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3",
+    "summary": "本教程实现了一个端到端的监督微调流水线，使用 XYZ-Aquila-SFT 数据集、Hugging Face Transformers、PyTorch 和 PEFT，对 Qwen3-0.6B 模型进行 LoRA 微调。流程涵盖数据流式解析、工具调用提取、ChatML 格式转换及助手专用损失掩码，并在训练前后评估工具调用预测性能。最终导出转换后的数据集和语料统计，供进一步实验使用。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月15日19时28分"
+  },
+  {
     "id": "cmsuaevuc05xvroe0came8ifx",
     "title": "农业机器人车队：新疆棉田厘米级定位",
     "url": "https://x.com/rohanpaul_ai/status/2088587149218365849",
@@ -14662,6 +14678,14 @@
     "summary": "阿易 AI Notes 分享用 Agent 接管 iPhone 整理备忘录的真实用法：Agent 数出 iCloud 共 878 条备忘录，先建议从置顶条目动手，而非直接大改，省下约两周手动整理时间。",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年8月15日19时17分"
+  },
+  {
+    "id": "cmsubufzn08xqroe0umbggs5s",
+    "title": "智能体时代AI如何转化为持续生产力增长",
+    "url": "https://x.com/dongxi_nlp/status/2088584649438019659",
+    "summary": "报告《AI for Productivity in the Age of Agentic AI》发布，共68页，由AI4X项目团队联合全球12所学术机构（含复旦、浙大、斯坦福、伯克利、牛津、普林斯顿）共同完成。报告核心探讨智能体时代AI能力如何转化为持续生产力增长，认为Agentic AI正重新组织工作的执行、协调与委派方式，重塑人、组织与智能系统的关系。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月15日19时12分"
   },
   {
     "id": "cmsuaf2hr05zgroe0y1e7275v",
