@@ -14520,6 +14520,78 @@
     "date": "2026年8月15日2时0分"
   },
   {
+    "id": "cmsuizn3j0213ro1fb9fgspa0",
+    "title": "Gabriel 出任 Target 高级上下文经理",
+    "url": "https://x.com/gabriel1/status/2088644040250348016",
+    "summary": "很高兴宣布我在 Target 的新职位：高级上下文经理（Senior Context Manager）。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月15日23时8分"
+  },
+  {
+    "id": "cmsuizn3j0214ro1fe2b07rr9",
+    "title": "效率与富足创造就业，未来角色难预测",
+    "url": "https://x.com/gabriel1/status/2088642682642104377",
+    "summary": "没有什么比富足和效率创造更多就业机会了\n\n只是未来真的很难预测，会出现什么新角色，所以会让人感到不确定\n\n上一次效率提升10倍时，我们增加了监管与合规，现在10%的计算机工作都是这方面的。很难预测",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月15日23时3分"
+  },
+  {
+    "id": "cmsujfk960196rouhl53o37ts",
+    "title": "什么是 Google 的 TPU？第八代芯片首次分训练与推理两个版本",
+    "url": "https://blog.bytebytego.com/p/ep222-what-is-googles-tpu",
+    "summary": "Google 在 Cloud Next '26 发布第八代 TPU，首次分为两个版本：TPU 8t 面向训练、追求原始吞吐量，TPU 8i 面向推理、侧重延迟与芯片间速度。两者共享 Axion CPU、液冷和软件栈，为其中一个版本编写的代码可直接在另一个版本上运行。",
+    "source": "ByteByteGo（RSS）",
+    "date": "2026年8月15日23时30分"
+  },
+  {
+    "id": "cmsuizf8p01ylro1fvrkdedd8",
+    "title": "OpenAI 2026 年已流失 12 位高管，Scott Gray 离职",
+    "url": "https://x.com/kimmonismus/status/2088647536684712289",
+    "summary": "OpenAI 资深 GPU 系统工程师 Scott Gray 离职，他曾参与构建稀疏 Transformer、扩展定律及 GPT-3 的 GPU 基础设施。2026 年至今，OpenAI 已有至少 12 位高管离开，包括前 COO Brad Lightcap、Sora 负责人 Bill Peebles 及硬件与机器人负责人 Caitlin Kalinowski。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月15日23时22分"
+  },
+  {
+    "id": "cmsuiy02601vbro1f8532rv1o",
+    "title": "阿里通义千问 AI 模型全球下载量破 30 亿，超越 Meta 和谷歌",
+    "url": "https://www.ithome.com/0/990/187.htm",
+    "summary": "阿里开源 AI 模型千问家族过去六个月全球累计下载量突破 30 亿次，成为全球下载量第一的 AI 模型。Hugging Face 报告显示，2026 年千问下载量达 20.45 亿次，远超谷歌的 4.18 亿次和 Meta 的 2.27 亿次；基于 Qwen 的衍生模型达 151，448 个，是 Meta 的 2.6 倍。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日23时10分"
+  },
+  {
+    "id": "cmsuizm0t020jro1fngel1t3t",
+    "title": "PixVerse 情感表现获赞：导演级选择",
+    "url": "https://x.com/PixVerse_/status/2088641866635890757",
+    "summary": "这种级别的情感表现是导演层面的选择，而不仅仅是模型输出。做得好。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月15日23时0分"
+  },
+  {
+    "id": "cmsuizobj021jro1frbbhrz1s",
+    "title": "Scale AI 论文：智能体故障定位新分类法",
+    "url": "https://x.com/rohanpaul_ai/status/2088640355121889412",
+    "summary": "Scale AI 论文提出以交互为中心的智能体故障分类法，主张调试时应先定位首次未恢复故障发生在模型、上下文、记忆、工具层、其他智能体、评分器还是环境中。该分类法涵盖 41 种故障模式，并在 40 个案例上验证。GPT-5.5 分类准确率达 80%（Cohen's κ=0.76），4 个评判器一致时精度升至 96%，覆盖率降至 68%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日22时54分"
+  },
+  {
+    "id": "cmsuiy02601vdro1fijyfb89w",
+    "title": "前谷歌员工打造\"聊天机器人\"ChatTJB，背后全是真人回复",
+    "url": "https://www.ithome.com/0/990/184.htm",
+    "summary": "32岁前谷歌员工塔克·布莱恩特创建网站ChatTJB，用户面对普通聊天框提问，但另一端没有大语言模型，回复者是他本人及1万多名志愿者。自他花6，000美元在旧金山竖起广告牌以来，网站已收到超10万条提问，志愿者等候名单每天增加约1000人，高峰时每小时收到5000多条提问。布莱恩特目前基本停止亲自回答，由志愿者\"代劳\"，并称ChatTJB从一开始就不是为了赚钱。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日22时53分"
+  },
+  {
+    "id": "cmsuixvq201v8ro1fgjyobeby",
+    "title": "Airtap 云手机 Agent 实现无人值守自动化",
+    "url": "https://x.com/AYi_AInotes/status/2088638592633454648",
+    "summary": "博主用 Airtap 云手机 Agent 设置每日早 8 点 Routine，合盖状态下自动抓取 12 个新 FDE 岗位（Zendesk、ElevenLabs 等，薪资最高 $400K）并整理发至邮箱。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月15日22时47分"
+  },
+  {
     "id": "cmsuhx1cp0cwwroe0a04elixf",
     "title": "AI生成邮件注水问题及对策",
     "url": "https://x.com/gabriel1/status/2088637497068908712",
@@ -14534,6 +14606,14 @@
     "summary": "\"我们正走向一个极大丰富的未来。机器人将制造出如此多的机器人，以至于它们将满足人类的所有需求。你甚至想不出还有什么可向机器人索求的。商品和服务将极大丰富，机器人将比人还多。\"\n\n--埃隆·马斯克",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月15日22时34分"
+  },
+  {
+    "id": "cmsuiy02601vfro1fxcdxtet5",
+    "title": "菲尔兹奖得主马丁·海尔：AI数学推演已达博士水平，中国基础科学投入令人印象深刻",
+    "url": "https://www.ithome.com/0/990/181.htm",
+    "summary": "菲尔兹奖得主马丁·海尔在2026国际基础科学大会期间接受央视专访，认为AI已能完成博士层级的数学推演，成为实用性极强的工具，但数学家关注的是无法自动化解决的问题。他预计AI将改变数学学科，但不认同两年内AI全面超越人类数学家的判断。他还评价过去五到十年中国数学研究实现质的飞跃，大量优秀青年学子选择留在中国完成学术生涯。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日22时29分"
   },
   {
     "id": "cmsugsqq00c68roe0u4q7vr98",
