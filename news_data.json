@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsul4u2q02f8rouhc16wh69k",
+    "title": "迈向无需手动选模型的新阶段",
+    "url": "https://x.com/gdb/status/2088658133971509640",
+    "summary": "朝着再也不用手动选择模型的方向迈进。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月16日0时4分"
+  },
+  {
     "id": "cmstr2ojn0fe3ro0xu7u88sig",
     "title": "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 Skill",
     "url": "https://www.ithome.com/0/990/003.htm",
@@ -14536,6 +14544,14 @@
     "date": "2026年8月15日23时59分"
   },
   {
+    "id": "cmsul4tpt02f4rouhx2xklhux",
+    "title": "微软：用蒸馏技能替代昂贵测试时推理，一次付清推理成本",
+    "url": "https://x.com/rohanpaul_ai/status/2088656461274517888",
+    "summary": "微软新论文提出，可将昂贵的测试时推理替换为从过往智能体运行中提取的小型规则集。用 GPT-5.4-mini 提取 35-50 条轨迹中的失败模式并转为 markdown 技能，在 4 个智能体基准上恢复了非推理与推理模式间 55%-100%+ 的差距，且输出 token 减少 2.9-4.5 倍。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日23时58分"
+  },
+  {
     "id": "cmsukh550025hrouhgro0lm12",
     "title": "HuggingFace 下载量骤降30%引质疑",
     "url": "https://x.com/natolambert/status/2088655453077254234",
@@ -14574,6 +14590,14 @@
     "summary": "Google 在 Cloud Next '26 发布第八代 TPU，首次分为两个版本：TPU 8t 面向训练、追求原始吞吐量，TPU 8i 面向推理、侧重延迟与芯片间速度。两者共享 Axion CPU、液冷和软件栈，为其中一个版本编写的代码可直接在另一个版本上运行。",
     "source": "ByteByteGo（RSS）",
     "date": "2026年8月15日23时30分"
+  },
+  {
+    "id": "cmsul33wj029xrouh0m79g19f",
+    "title": "Suno Studio 2.0 发布：新增 MIDI 支持、效果插件，向 DAW 靠拢",
+    "url": "https://www.ithome.com/0/990/190.htm",
+    "summary": "Suno 推出 Studio 2.0，新增 MIDI 支持，用户可将 MIDI 数据直接交给 AI 生成音频或续写旋律，但暂只能使用自带合成器。聊天机器人已整合进 Studio 界面，可读取工程内容创作歌词或生成吉他声部，并自动添加混响、压缩和 EQ。用户还能通过 AI 创建自定义效果插件，生成的效果会保存在账户中供后续调用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日23时28分"
   },
   {
     "id": "cmsuizf8p01ylro1fvrkdedd8",
