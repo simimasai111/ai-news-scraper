@@ -14520,12 +14520,44 @@
     "date": "2026年8月15日2时0分"
   },
   {
+    "id": "cmsugsqq00c68roe0u4q7vr98",
+    "title": "英伟达成 SpaceX 第六大股东，持股 1.228 亿股价值约 210 亿美元",
+    "url": "https://www.ithome.com/0/990/179.htm",
+    "summary": "英伟达提交给 SEC 的文件显示，其持有 1.228 亿股 SpaceX A 类股票，按昨日收盘价计算价值约 173 亿美元，位列 SpaceX 第六大股东。该股份源自英伟达今年 1 月对马斯克旗下 xAI 的一轮交易，具体规模此前未公开。英伟达目前最大持股为英特尔，价值约 220 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日22时20分"
+  },
+  {
+    "id": "cmsugufnt0cbnroe03jsupgkp",
+    "title": "小红书开源模型引SemiAnalysis关注",
+    "url": "https://x.com/SemiAnalysis_/status/2088626891561292249",
+    "summary": "很高兴看到来自热门中国社交媒体应用（@xiaohongshu，英文名 RedNote）的 @dotsstudioai 加入开放权重社区！❤️ 团队仍在日常使用中测试该模型，以了解其实际质量，或判断其是否只是刷榜模型。\n\n无论如何，看到又一家公司加入开放社区总是令人高兴的！",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月15日22时0分"
+  },
+  {
     "id": "cmsuenk1k0am9roe0d0tpah64",
     "title": "谷歌安卓负责人萨米尔·萨马特畅想未来：说清目标系统就能替你完成",
     "url": "https://www.ithome.com/0/990/172.htm",
     "summary": "谷歌安卓生态系统总裁萨米尔·萨马特称，规划新版安卓时通常提前约三年考虑消费者使用方式，设想用户只需说清目标或意图，系统就能代为完成。他举例称，AI智能体未来可读取就医记录、向保险公司确认核磁共振检查是否承保并直接完成预约。本周发布的Pixel 11 Pro背面新增指示灯，会在Gemini处理指令时亮起，方便用户直接语音交流。",
     "source": "IT之家（RSS）",
     "date": "2026年8月15日21时8分"
+  },
+  {
+    "id": "cmsugsqq00c6aroe05zdqhs1y",
+    "title": "极摩客 EVO-X5 迷你主机现身 Geekbench：锐龙 AI Max+ Pro 495 处理器",
+    "url": "https://www.ithome.com/0/990/177.htm",
+    "summary": "极摩客 EVO-X5 迷你主机现身 Geekbench，搭载锐龙 AI Max+ Pro 495 处理器，配备 123.68GB 内存，CPU 最高频率 5.25GHz，16 核 32 线程，Vulkan 跑分 103，729 分。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日21时59分"
+  },
+  {
+    "id": "cmsugt5e60c88roe0e6g56hsm",
+    "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+    "url": "https://sankalp.bearblog.dev/autoresearch",
+    "summary": "一位开发者利用 Codex 进行自动研究，成功将内核速度提升 232 倍。该方法通过 AI 智能体自主分析代码、提出优化方案并迭代验证，大幅缩短了手动排查性能瓶颈的时间。该案例展示了 Codex 在系统级性能优化中的实际应用潜力。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月15日21时58分"
   },
   {
     "id": "cmsufs8vw0bevroe0opux2z0y",
