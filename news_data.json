@@ -14648,6 +14648,22 @@
     "date": "2026年8月15日17时5分"
   },
   {
+    "id": "cmsu773y003diroe0nu60g0s3",
+    "title": "Goldman Sachs has already started helping Nvidia build financing platforms aimed at pulling $ 500B+ …",
+    "url": "https://x.com/rohanpaul_ai/status/2088559360121467320",
+    "summary": null,
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日17时32分"
+  },
+  {
+    "id": "cmsu76yj803ceroe0ebj8wj8d",
+    "title": "We went a little over capacity at @magnific SF for MiniMax H3 😅🎬 From commercial work to music vi…",
+    "url": "https://x.com/MiniMax_AI/status/2088558801909866526",
+    "summary": null,
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月15日17时29分"
+  },
+  {
     "id": "cmsu3xp08011sroe0q4k4i2kd",
     "title": "Anthropic 筹备\"史上最大\"IPO，预估 2028 年营收可达 1900 亿-2000 亿美元",
     "url": "https://www.ithome.com/0/990/105.htm",
@@ -14878,6 +14894,14 @@
     "summary": "腾讯 QQ 宣布 QQ Bot 机器人接入 DeepSeek Harness（DSH）官方插件，接入后机器人获得 AI 智能体能力，支持单聊和群聊，每个会话拥有独立对话记忆，并可在聊天中随时切换模型。",
     "source": "IT之家（RSS）",
     "date": "2026年8月15日13时44分"
+  },
+  {
+    "id": "cmsu7ga9u03onroe0eoshkpou",
+    "title": "DeepSeek Harness实测：PTC模式和Cordis插件才是隐藏大招",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509609&idx=1&sn=177f208ce6031423db43442a55f6bf46",
+    "summary": "DeepSeek开源Agent框架DeepSeek Harness（dsh），上线GitHub一多小时破2万星，次日达6万。其核心设计\"everything is a plugin\"，基于Cordis插件系统，模型接入、工具注册表、主循环等全部可替换。",
+    "source": "公众号：卡尔的AI沃茨",
+    "date": "2026年8月15日13时3分"
   },
   {
     "id": "cmstz04990nisro0xl3wj83lm",
