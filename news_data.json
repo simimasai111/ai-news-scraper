@@ -14528,12 +14528,28 @@
     "date": "2026年8月15日21时8分"
   },
   {
+    "id": "cmsufs8vw0bevroe0opux2z0y",
+    "title": "Anthropic 或推 Claude 模型对比界面",
+    "url": "https://x.com/testingcatalog/status/2088624755913982302",
+    "summary": "ANTHROPIC 🔥：Claude 可能新增模型对比界面，让用户能以简单方式查看不同模型回复的差异。\n\n> 用户将能开关记忆功能，以及\"保留\"回复。\n> 与 A/B 测试界面不同，用户似乎可以按需在普通聊天和模型对比模式之间自行切换。\n\n内置 LM Arena 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月15日21时52分"
+  },
+  {
     "id": "cmsuep9qu0aryroe0d5swlma2",
     "title": "重复采样胜过自我反思：Qwen2.5 研究揭示更优策略",
     "url": "https://x.com/rohanpaul_ai/status/2088612672590012457",
     "summary": "一项研究对比了 7 种测试时推理方法，发现让 Qwen2.5（1.5B 至 7B）模型重复采样同一数学问题并取多数答案，在相同 token 预算下优于自我反思等复杂方法。36 项对比中，无方法稳定胜出，10 项显著更差。该结论限于 Qwen2.5 数学任务，不适用于前沿模型或开放任务。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月15日21时4分"
+  },
+  {
+    "id": "cmsufrui60bdbroe0j8z5v6u5",
+    "title": "Meta FAIR 新论文揭示 Chinchilla 缩放定律外推盲点，提出 Skaling 方法",
+    "url": "https://x.com/rohanpaul_ai/status/2088623493898232300",
+    "summary": "Meta FAIR 新论文发现 Chinchilla 缩放定律在外推至前沿规模时存在盲点，因其假设模型大小与训练数据独立作用。新方法 Skaling 仅增加一项耦合项，将预测误差降低约 1.5-3 倍，并以约 10 倍更少的 profiling 算力达到全网格精度。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日21时47分"
   },
   {
     "id": "cmsuep9qu0arzroe0ve2bucxf",
