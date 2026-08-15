@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsuuj81z011wrovm8f5gz9iz",
+    "title": "GPT-5.6 技能组合生成大规模代码审查",
+    "url": "https://x.com/dexhorthy/status/2088719534555303956",
+    "summary": "强烈推荐\n\n【引用 @0xblacklight】：将 gpt-5.6-sol-xhigh 与 @dillon_mulroy 的 de-slop 技能及我的 effect 技能结合使用，结果生成了一个 +503/-13，682 的 PR\n\n彻底重构了几个旧项目",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月16日4时8分"
+  },
+  {
     "id": "cmsuto7hk0912rouhodiiywlk",
     "title": "Cursor 正式被 SpaceX 收购",
     "url": "https://cursor.com/blog/joining-spacex",
@@ -13856,11 +13864,59 @@
     "date": "2026年8月16日4时5分"
   },
   {
+    "id": "cmsuus3nw017mrovmldhe46dt",
+    "title": "Gavin Baker与Sholto Douglas就AI权力集中展开辩论",
+    "url": "https://x.com/deedydas/status/2088730279368405241",
+    "summary": "Gavin Baker与Sholto Douglas就AI权力集中展开辩论，核心是攻防平衡理论：防御主导领域应分发AI，进攻主导领域需管控。Sholto指出网络领域需约2年加固关键系统，生物领域到2030年代仍进攻主导，合成致命病原体成本约1万美元而疫苗需数十亿。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月16日4时51分"
+  },
+  {
+    "id": "cmsuv4y5b01qbrovmdfaetbfj",
+    "title": "DeepSeek Harness 架构：事实存于可验证处",
+    "url": "https://x.com/dongxi_nlp/status/2088729828723679414",
+    "summary": "DeepSeek harness 具有清晰的架构个性：\n\n每个重要事实都存在于可被验证或强制执行之处。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月16日4时49分"
+  },
+  {
+    "id": "cmsuuqtbl013brovm0o121v9w",
+    "title": "Your AI Slop Bores Me：扮演聊天机器人，体验 AI 的\"胡说八道\"",
+    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "summary": "Your AI Slop Bores Me 是一款让真人分别扮演用户和 AI 的互动游戏，双方在 150 秒内完成文字或图片请求的应答。游戏采用类似 LLM 的 token 机制，提问消耗积分，需通过扮演 AI 回答问题赚取，或每两分钟免费获得一次请求。该游戏还设有 Discord 服务器和 Hall of Fame 展示优秀作品。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月16日4时45分"
+  },
+  {
+    "id": "cmsuurvun015lrovmsk3mxi91",
+    "title": "Sol 终获 Luna 子代理导航能力",
+    "url": "https://x.com/kimmonismus/status/2088727498867523597",
+    "summary": "Sol 终于可以导航 Luna 子代理了。这是一次非常必要且受欢迎的更新。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月16日4时40分"
+  },
+  {
+    "id": "cmsuuqsz90137rovmkasxokeo",
+    "title": "Cloudflare 的 AI 精神错乱",
+    "url": "https://opensauce.it/cloudflare-ai-psychosis",
+    "summary": "文章批评 Cloudflare 在 AI 热潮中迷失方向，背离了其隐身守护互联网的初衷。作者认为该公司正从低调的基础设施提供者，转向追逐 AI 概念，导致战略混乱与身份认同危机。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月16日4时37分"
+  },
+  {
     "id": "cmsuu376p09dtrouh5ekdj9ur",
     "title": "OpenAI 内部士气高涨，正发生惊人变化",
     "url": "https://x.com/thsottiaux/status/2088725514542575903",
     "summary": "OpenAI 此刻正在发生令人难以置信的事情。士气高涨。",
     "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月16日4时32分"
+  },
+  {
+    "id": "cmsuus4s2017yrovm9196yymv",
+    "title": "Anthropic 内部自信或成全球唯一私营AI公司",
+    "url": "https://x.com/rohanpaul_ai/status/2088725493063504059",
+    "summary": "\"在内部，Anthropic 非常自信……Dario 曾表示，Anthropic 可能在某一天成为世界上唯一的私营公司。在这个愿景中，只有 Anthropic，然后是各国政府，仅此而已。\"\n\n- @GavinSBaker https://x.com/theallinpod/status/2088367978270142811/video/1",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月16日4时32分"
   },
   {
