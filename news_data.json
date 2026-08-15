@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsuqulw707dbrouhqjb6blkn",
+    "title": "DeepSeek Harness：让智能体状态有明确归属",
+    "url": "https://x.com/dongxi_nlp/status/2088696132964941988",
+    "summary": "DeepSeek Harness 的核心设计是拒绝将\"智能体状态\"视为单一模糊对象，而是让每个关键事实归属于有权验证它的组件。例如文件读取会记录版本号，仅在版本匹配时才允许修改，以消除检查与使用之间的时间差。工具调用则作为事件管道，包含身份验证、模式校验、执行钩子等环节，子智能体也需独立决策上下文、生命周期与权限。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月16日2时35分"
+  },
+  {
     "id": "cmsuoce9804fjrouh47l9pt2c",
     "title": "埃森·莫里克呼吁专家用AI视频还原历史",
     "url": "https://x.com/emollick/status/2088685078519959776",
