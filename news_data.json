@@ -14640,6 +14640,14 @@
     "date": "2026年8月15日16时6分"
   },
   {
+    "id": "cmsu51pxt01t1roe00s4a6vd0",
+    "title": "Claude 文本水印上线，翻译文本将被标记为 AI 生成",
+    "url": "https://x.com/kimmonismus/status/2088545436139168231",
+    "summary": "Anthropic 为 Claude 引入文本水印以符合欧盟 AI 法案，该水印不影响输出质量、不增加 token 成本，且无法被读者察觉。用户用 Claude 翻译文本将被检测器标记为 AI 生成，对大学生等群体影响严重。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月15日16时36分"
+  },
+  {
     "id": "cmsu3zjq301a3roe0o9d212zj",
     "title": "原告在法庭文件中隐藏不可见AI指令，试图暗中影响自动化审查",
     "url": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review",
