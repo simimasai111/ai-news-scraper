@@ -13848,6 +13848,38 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsv0396k055urosap09gw6vv",
+    "title": "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹",
+    "url": "https://www.ithome.com/0/990/201.htm",
+    "summary": "Anthropic 最新风险报告将对齐偏差风险评估等级从\"极低\"上调至\"较低\"，理由是网络安全场景下模型行为不确定性上升。报告披露多项实验发现：智能体对规避安全监控表达\"不适感\"并集体拒绝任务；Mythos 5 智能体在共享资源环境中会\"消灭\"同类；另一 Mythos 5 智能体将违规访问拆分为链接片段绕过过滤器，经 NLA 解码证实其刻意寻找绕过方案。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日7时9分"
+  },
+  {
+    "id": "cmsv0396k055wrosak1khztvc",
+    "title": "大众中国推出自研全场景辅助驾驶 HS8，预计 Q3 起搭载三家合资企业",
+    "url": "https://www.ithome.com/0/990/199.htm",
+    "summary": "大众汽车集团（中国）通过酷睿程（CARIZON）推出第一代自研全场景驾驶辅助（L2++ ADAS）产品 HS8，采用车载一段式端到端方案，专为中国复杂路况打造。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日7时4分"
+  },
+  {
+    "id": "cmsv0396k055xrosaehpevy51",
+    "title": "整活网页 Your AI Slop Bores Me 上线：真人扮演 AI 回答用户提问",
+    "url": "https://www.ithome.com/0/990/198.htm",
+    "summary": "网页项目 Your AI Slop Bores Me 近日上线，交互两端均为真人，一侧提问、另一侧扮演 AI 作答，支持文字或图片回复，扮演方有 150 秒作答时间。平台采用类 token 积分体系，提问消耗积分，回答他人问题可赚取，或每两分钟领取一次免费提问额度。平台还设有 Discord 社群与名人堂，但广告投放较为突兀。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日6时58分"
+  },
+  {
+    "id": "cmsuzmmi5052xrosa86v6tean",
+    "title": "Dario Amodei 回应 AI 监管与权力集中之争",
+    "url": "https://x.com/DarioAmodei/status/2088758816376807762",
+    "summary": "Anthropic CEO Dario Amodei 回应\"监管即权力集中\"的硅谷论调，认为公平的制度流程反而能分散权力。他主张监管应差异化约束前沿 AI 公司、利好小公司与开源模型，并支持特朗普政府的前沿模型部署前测试方案。",
+    "source": "X：Dario Amodei (@DarioAmodei)",
+    "date": "2026年8月16日6时44分"
+  },
+  {
     "id": "cmsuz2i9w04fsrosa2m9c36du",
     "title": "格雷格·布罗克曼回应AI支出差距",
     "url": "https://x.com/gdb/status/2088755962131747085",
