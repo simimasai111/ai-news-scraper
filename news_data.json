@@ -14632,6 +14632,78 @@
     "date": "2026年8月15日1时0分"
   },
   {
+    "id": "cmsuaevuc05xvroe0came8ifx",
+    "title": "农业机器人车队：新疆棉田厘米级定位",
+    "url": "https://x.com/rohanpaul_ai/status/2088587149218365849",
+    "summary": "农业可能是地球上按覆盖面积计算最大的机器人车队。一台配备宽幅喷杆的自主农业机器人正穿行于中国新疆的棉田中。厘米级定位是这里低调的成就。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日19时22分"
+  },
+  {
+    "id": "cmsuaevuc05xwroe0q0endzh3",
+    "title": "提示词如何让编程智能体浪费算力：Same Task， Different Work 论文揭示",
+    "url": "https://x.com/rohanpaul_ai/status/2088581959299870941",
+    "summary": "论文发现，提示词要求编程智能体考虑多种方案时，其推理量增加2.4-7.4倍，但成功率无提升；智能体平均展开约三个方案后弃用，仅实现其中一个。\"Be absolutely certain\"指令则触发冗余验证，最高使运行成本达基线18.25倍、工具调用15次对6次、耗时3倍，成功率不变。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日19时1分"
+  },
+  {
+    "id": "cmsuad7ea05seroe0cbx4j0y9",
+    "title": "索尼 PS5 Pro 增强版 PSSR 技术揭秘：让 AI 少干活，画质反而更好",
+    "url": "https://www.ithome.com/0/990/159.htm",
+    "summary": "索尼SIE在SIGGRAPH 2026上介绍了PS5 Pro增强版PSSR的重设计：用核预测网络（KPN）取代色彩预测网络，让AI预测混合权重而非直接输出颜色，并引入椭圆高斯滤波器，解决2.5倍和3倍超分辨率问题。结果显示图像质量与时序稳定性提升，GPU时间和内存占用降低，训练时间从约4个GPU月缩短至不足1个GPU周。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日19时19分"
+  },
+  {
+    "id": "cmsuad6v205saroe0pt80jyfg",
+    "title": "Agent 接管 iPhone 理备忘录的实战经验",
+    "url": "https://x.com/AYi_AInotes/status/2088585965354803569",
+    "summary": "阿易 AI Notes 分享用 Agent 接管 iPhone 整理备忘录的真实用法：Agent 数出 iCloud 共 878 条备忘录，先建议从置顶条目动手，而非直接大改，省下约两周手动整理时间。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月15日19时17分"
+  },
+  {
+    "id": "cmsuaf2hr05zgroe0y1e7275v",
+    "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
+    "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+    "summary": null,
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月15日19时0分"
+  },
+  {
+    "id": "cmsuad6v205sbroe04wekv1kh",
+    "title": "OpenAI 前端优化：15，529→64 条对话加载",
+    "url": "https://x.com/AYi_AInotes/status/2088581633100095584",
+    "summary": "OpenAI 将打开 741 轮、231MB 对话的前端 transcript 加载从 15，529 条砍至 64 条，耗时从 27 秒降至 1.66 秒，网络请求从 894 个减至 16 个，JS 堆内存增长减少 87.8%。Brent 称 forking 和 side chat 接近瞬时，覆盖 CLI、所有应用和模型。此举承认 agentic 时代瓶颈已从模型转向客户端。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月15日19时0分"
+  },
+  {
+    "id": "cmsuaeopi05vmroe09p64ipvw",
+    "title": "AI 创业最该优化的是认知速度",
+    "url": "https://x.com/frxiaobei/status/2088581559624536123",
+    "summary": "一位创业者花一周优化 ComfyUI 工作流，速度提升 20%、显存省 3G，却没让内容被真实用户看见。作者指出，当 AI 让生产能力廉价后，早期创业的核心不再是算模型调用费或显卡成本，而应计算\"信息收益率\"--投入一周换回多少能改变决策的信息。工具奖励勤奋，市场却暴露无知，持续优化未被证明值得解决的问题才是最隐蔽的拖延。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月15日19时0分"
+  },
+  {
+    "id": "cmsuad7eb05sgroe0ckxs87ns",
+    "title": "OpenAI CEO 奥尔特曼：大学读两年就够了，四年可能有点久",
+    "url": "https://www.ithome.com/0/990/156.htm",
+    "summary": "OpenAI CEO 萨姆·奥尔特曼认为大学读两年恰到好处，四年制可能已无必要。他2005年在斯坦福大学读两年后退学，联合创办位置分享应用 Loopt，该应用成为 Y Combinator 首批孵化项目之一。奥尔特曼还建议年轻人初期可同时做多个项目，但确定方向后应全力投入。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日18时45分"
+  },
+  {
+    "id": "cmsuad7eb05siroe0dhi4rn3q",
+    "title": "英伟达联手六大金融机构建立 5000 亿美元 AI 融资平台，黄仁勋称部分项目可获最高 25% 残值支持",
+    "url": "https://www.ithome.com/0/990/154.htm",
+    "summary": "英伟达宣布与阿波罗、贝莱德、黑石、布鲁克菲尔德、高盛和 KKR 合作建立独立融资平台，计划调动超 5000 亿美元第三方资本用于 AI 基础设施建设。黄仁勋表示，公司可能针对部分 AI 基础设施投资项目提供最高 25% 的残值支持，以降低金融机构对 GPU 等设备未来价值下降的担忧。该机制以资产残值为基础，旨在补充而非取代金融机构自身的风险评估。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日18时41分"
+  },
+  {
     "id": "cmsu8a43f04gqroe0r82f1jng",
     "title": "Gemini 新增关闭可见水印选项",
     "url": "https://x.com/testingcatalog/status/2088567338329067921",
