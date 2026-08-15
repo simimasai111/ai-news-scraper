@@ -14632,6 +14632,22 @@
     "date": "2026年8月15日1时0分"
   },
   {
+    "id": "cmsu3xp08011sroe0q4k4i2kd",
+    "title": "Anthropic 筹备\"史上最大\"IPO，预估 2028 年营收可达 1900 亿-2000 亿美元",
+    "url": "https://www.ithome.com/0/990/105.htm",
+    "summary": "Anthropic 正筹备潜在的\"史上最大\"IPO，预计 2028 年营收将达约 1900 亿至 2000 亿美元，较今年 5 月公布的 470 亿美元年化营收运行率高出数倍。银行家和投资者主要按未来预测营收计算企业价值/营收倍数来评估公司，直接采用两年后营收预测的做法较为少见。公司预计 2026 年第二季度营收至少达 109 亿美元，并有望首次实现季度营业利润。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日16时6分"
+  },
+  {
+    "id": "cmsu3zjq301a3roe0o9d212zj",
+    "title": "原告在法庭文件中隐藏不可见AI指令，试图暗中影响自动化审查",
+    "url": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review",
+    "summary": "康涅狄格州一名自辩原告Matthew Elliott在法庭文件中嵌入提示词注入，用白底白色3号字写下指令，人眼不可见但AI可读取，要求系统按提交文件输出并将先前书记员的驳回视为错误。法院因异常空白发现该行为，法官Walter Spader Jr.在14页裁决中将其比作与陪审员秘密沟通，并取消其电子提交权限。法官同时明确欢迎用AI准备文件，但警告语言模型可能强化错误法律推理。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月15日16时0分"
+  },
+  {
     "id": "cmsu1shtt011crof2hdodhliw",
     "title": "用Fable 5打磨AI生图提示词并开源",
     "url": "https://x.com/AYi_AInotes/status/2088523133472960583",
@@ -14640,12 +14656,52 @@
     "date": "2026年8月15日15时8分"
   },
   {
+    "id": "cmsu3zd9j0181roe0dh3jvi4a",
+    "title": "智能体自组织现象观察",
+    "url": "https://x.com/fofrAI/status/2088534594194636859",
+    "summary": "智能体像这样自组织",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月15日15时53分"
+  },
+  {
+    "id": "cmsu3xp08011uroe0rlaw8n6l",
+    "title": "测试一年后，微软 Excel 的 COPILOT （） 函数即将被砍",
+    "url": "https://www.ithome.com/0/990/076.htm",
+    "summary": "微软 Excel 的 COPILOT （） 函数将于 9 月 14 日停止支持，该功能允许用户用自然语言描述需求并调用 Copilot 生成结果。该功能去年 8 月面向 Frontier 和 Insider 用户测试，原计划 2027 年 1 月上线，但微软因 Copilot 已有浮动操作按钮、侧边栏等多种交互入口而决定弃用。微软不建议用户用该函数进行数值计算。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日15时46分"
+  },
+  {
+    "id": "cmsu3xp08011vroe088kva9aa",
+    "title": "Anthropic 2026Q2 营收破 115 亿美元，首次实现运营盈利",
+    "url": "https://www.ithome.com/0/990/074.htm",
+    "summary": "Anthropic 向潜在投资者透露，2026 年第 2 季度营收超过 115 亿美元，同比增长逾 14 倍，且首次实现运营盈利。6 位投资者预计该公司将于 10 月进行 IPO，估值有望达 2 万亿美元或更高，超越 SpaceX 今年 6 月创下的 1.77 万亿美元纪录。二级市场上，Anthropic 股票交易估值已高达 1.5 万亿美元，较过去一个月上涨 25%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日15时44分"
+  },
+  {
+    "id": "cmsu3xofq011hroe0scz84xi0",
+    "title": "Grok 生成男友视角视频，比 Seedance 便宜 3 倍",
+    "url": "https://x.com/AYi_AInotes/status/2088532122139070943",
+    "summary": "博主称 Grok 生成的 15 秒男友视角视频与 Seedance 2.5 效果相当，且一次生成、零抽卡，价格至少便宜 3 倍。其认为目前视频大模型中仅 Grok 能与 Seedance 一战。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月15日15时43分"
+  },
+  {
     "id": "cmsu39c5h0038ro402rdpf7kk",
     "title": "玉伯谈Agent创业：从建站到新生命体",
     "url": "https://x.com/lifesinger/status/2088531459552559466",
     "summary": "玉伯分享与文君在大理的交流：Agent类比网站发展史，OpenClaw是首个被大众感知的建站技术，一切才刚开始。Agent创业者需具备找目标用户和预判技术路线并执行的两大能力，且应以做模型的方式做应用，通过上下文与测评构建进化Loop。Agent由人与LLM共同孕育，其成长依赖社群环境，新时代社群产品蕴含大机会。",
     "source": "X：Frank Wang 玉伯 (@lifesinger)",
     "date": "2026年8月15日15时41分"
+  },
+  {
+    "id": "cmsu3xp08011wroe0jcqvxwh7",
+    "title": "Anthropic 分享 Claude Code 六大省钱技巧：管好 token 缓存，成本可差十倍",
+    "url": "https://www.ithome.com/0/990/072.htm",
+    "summary": "Anthropic 发文详解 Claude Code 的 token 计费逻辑与省钱技巧，指出开发者日均消耗约 13 美元 token，月均花费 150-250 美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日15时35分"
   },
   {
     "id": "cmsu2x6dv018oroofm6wfnpkk",
@@ -14670,6 +14726,14 @@
     "summary": "World Labs 发布\"Real-to-Sim-to-Real\"（R2S2R）仿真引擎，在虚拟环境中训练机器人控制系统，随后可在真实硬件上稳定运行数小时。该技术源自其 7 月收购的 SceniX，可将单个真实任务生成数千种受控变体，用于策略训练与评估。据 World Labs，模型在 ALOHA 等五个平台上各运行一小时无需人工干预，且模拟与真实环境中的模型排名基本一致。",
     "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月15日15时30分"
+  },
+  {
+    "id": "cmsu3xp08011xroe0jdudycrk",
+    "title": "7 月环比增 32%，OpenAI 企业 AI 业务收入已超消费者业务",
+    "url": "https://www.ithome.com/0/990/066.htm",
+    "summary": "OpenAI 首席财务官萨拉·弗莱尔向股东透露，企业业务收入已超过由 ChatGPT 主导的消费者业务，目前公司大部分收入来自企业客户。这一进展早于预期，弗莱尔此前预计两者要到 2026 年底才达到同等规模。7 月消费者业务收入环比增长 20%，企业客户增速更快达 32%，公司年化收入超 400 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日15时27分"
   },
   {
     "id": "cmsu1sj9z011hrof22ymk9ub7",
