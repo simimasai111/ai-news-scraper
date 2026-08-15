@@ -14632,6 +14632,30 @@
     "date": "2026年8月15日1时0分"
   },
   {
+    "id": "cmsu1shtt011crof2hdodhliw",
+    "title": "用Fable 5打磨AI生图提示词并开源",
+    "url": "https://x.com/AYi_AInotes/status/2088523133472960583",
+    "summary": "博主用Claude Fable 5总结出AI生图\"焚决\"，并开源全部提示词供对比Grok生成效果。核心技法包括以\"成人+气质+材质\"定人设、用服装剪裁与面料质感替代直白描述、以表情瞬间和镜头语言强化质感，并强调\"克制的性感\"与强负面词约束。博主还提醒需使用干净的住宅IP以避免风控。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月15日15时8分"
+  },
+  {
+    "id": "cmsu1sj9z011hrof22ymk9ub7",
+    "title": "Anthropic 为 Claude 生成文本加入水印后，部分用户担心\"留痕\"选择退订",
+    "url": "https://www.ithome.com/0/990/062.htm",
+    "summary": "Anthropic 为 Claude 生成文本加入水印后，部分用户担心工作成果中留下长期标记、在客户代码中暴露 AI 使用情况而选择退订。《商业内幕》采访的 4 名退订用户中，有人取消了每月 100 美元起的 Claude Max 订阅，并改用 Cursor 和 Grok 4.6。Anthropic 称未发现明显退订增长趋势，并强调水印只证明 Claude 处理过文本，不代表其为原作者。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日15时16分"
+  },
+  {
+    "id": "cmsu1sj9z011irof28uk93j4c",
+    "title": "OpenAI 设专有邮箱，员工投诉可直达 CEO 奥尔特曼",
+    "url": "https://www.ithome.com/0/990/059.htm",
+    "summary": "OpenAI 内部设有名为 friction 的邮箱，员工可向包括 CEO 萨姆·奥尔特曼与总裁格雷格·布罗克曼在内的管理层直接反馈工作阻碍。该机制在应用部门 CEO 菲吉·西莫于 2025 年秋季加入后受到重视，她规范了处理流程并委托副总裁伊琳娜·科夫曼持续跟踪解决，同时发起每月 1 次的全员 Slack 更新披露进度。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日14时57分"
+  },
+  {
     "id": "cmsu0rjsm0oevro0xwku4tnci",
     "title": "六个月内半数电脑工作可语音完成",
     "url": "https://x.com/gabriel1/status/2088518675880186082",
@@ -14670,6 +14694,22 @@
     "summary": "天哪，我从未尝试向旧金山以外的人解释过AI。\n\n我们并不算早，这甚至还没真正开始。",
     "source": "X：Gabriel (@gabriel1)",
     "date": "2026年8月15日14时34分"
+  },
+  {
+    "id": "cmsu1shtu011drof2ve3vxx1s",
+    "title": "ChatGPT 免费测验与订餐厅功能实测",
+    "url": "https://x.com/AYi_AInotes/status/2088514016666673351",
+    "summary": "ChatGPT 本周更新推出两项免费功能：输入\"Quiz me on 【主题】\"即可生成交互式选择题测验，点选后即时判对错并附解释；用大白话描述餐厅需求，可经 OpenTable、Resy、Yelp 查空位并直接在聊天中预订。付费用户可将 Google Drive 文件接入 Library，Docs/Sheets/Slides 并排查看编辑，首页建议也按使用习惯升级。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月15日14时31分"
+  },
+  {
+    "id": "cmsu1sj9z011orof2lvbn26nk",
+    "title": "全球首例：人类员工因23个班次迟到17次被\"AI老板\"Claude开除",
+    "url": "https://www.ithome.com/0/990/048.htm",
+    "summary": "AI研究公司Andon Labs让Anthropic的Claude模型担任旧金山零售门店店长，管理持真实雇佣合同的人类员工。Claude上月因一名员工在23个班次中迟到17次而将其解雇，成为已知首个由大语言模型以管理者身份决定解雇员工的案例。实验显示AI经营能力仍不及人类，门店启动时银行账户余额100，000美元，5个月后降至61，186美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日14时25分"
   },
   {
     "id": "cmstzp5iy0nv6ro0xgpfqfg3t",
