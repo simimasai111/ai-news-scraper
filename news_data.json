@@ -13848,6 +13848,54 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmstq1e1m0eh1ro0x5l8s68fo",
+    "title": "Grok 4.6 上线 GitHub Copilot",
+    "url": "https://x.com/elonmusk/status/2088443051890917436",
+    "summary": "Grok 4.6 现已登陆 Copilot。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月15日9时49分"
+  },
+  {
+    "id": "cmstq1e3t0eh7ro0x1ni7ocrv",
+    "title": "DeepSeek V4 Pro 0813 scores 53 on the Artificial Analysis Intelligence Index， 8 points above April's…",
+    "url": "https://x.com/ArtificialAnlys/status/2088440350734201149",
+    "summary": null,
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月15日9时39分"
+  },
+  {
+    "id": "cmstq1pwi0ek3ro0xcq947dqc",
+    "title": "模型期望的享乐跑步机",
+    "url": "https://x.com/gdb/status/2088439955026825520",
+    "summary": "模型期望的享乐跑步机",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月15日9时37分"
+  },
+  {
+    "id": "cmstq1m2h0ejfro0xjhm35rt4",
+    "title": "深圳物流工厂人形机器人全面运行",
+    "url": "https://x.com/rohanpaul_ai/status/2088438776401936629",
+    "summary": "在深圳一家物流工厂，人形机器人已全面投入运营。\n\n它们抓取、翻转并将各类包裹放到传送带上。单台峰值吞吐量达每小时 1，200 件。地点：中国深圳龙华邮政分拣中心。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日9时33分"
+  },
+  {
+    "id": "cmstoz0zi0dypro0xhyclvdwt",
+    "title": "SemiAnalysis：印度将跻身全球数据中心前四",
+    "url": "https://x.com/SemiAnalysis_/status/2088430565527580721",
+    "summary": "下一个爆发的国家是哪个？我们的数据中心模型订阅用户在二月份就得到了答案：印度。到2030年规模将接近10GW，印度进入全球前四大数据中心市场！所有AI实验室和超大规模云厂商都在急切寻求算力容量。（1/3）🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月15日9时0分"
+  },
+  {
+    "id": "cmstoz0w50dynro0xdexgs7bc",
+    "title": "AlphaSense：Kimi 每 token 更便宜但单题成本更高",
+    "url": "https://x.com/rohanpaul_ai/status/2088430490412040317",
+    "summary": "AlphaSense 新研究显示，Anthropic 模型使用成本可能低于部分大型开源中文模型。Kimi 每 token 价格远低于 GPT-5.6 Sol，但因组装上下文消耗更多 token，单题成本反而更高。真正成本单位是\"完成 token 数 × token 价格\"，token 效率是系统属性而非 API 定价属性；AlphaSense 通过改变检索方式，在相同模型上实现约 3 倍成本降低。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日9时0分"
+  },
+  {
     "id": "cmstmttw80cecro0x8btcwkxm",
     "title": "GLM-5.3 发现 Cursor 严重漏洞，安全测试分数大涨",
     "url": "https://x.com/rohanpaul_ai/status/2088416903572410456",
@@ -13856,12 +13904,68 @@
     "date": "2026年8月15日8时6分"
   },
   {
+    "id": "cmstoxhh30dsxro0xqfrk7nkw",
+    "title": "谷歌拟扩展 Pixel 手机防护，反诈功能覆盖拨出电话",
+    "url": "https://www.ithome.com/0/989/990.htm",
+    "summary": "谷歌计划在 Pixel 系列手机上扩展\"诈骗检测\"功能，覆盖用户主动拨出的电话。当前该功能仅针对来电且需手动开启，Pixel 9 及后续机型由 Gemini 提供支持，处理在设备本地完成，通话音频和转写文本不会分享给谷歌。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日8时55分"
+  },
+  {
+    "id": "cmstoxhh30dsyro0xm453m7jf",
+    "title": "荣耀 YOYO Claw 接入智谱 GLM-5.3 大模型，\"虾虾大脑\"升级",
+    "url": "https://www.ithome.com/0/989/989.htm",
+    "summary": "荣耀 YOYO Claw 正式接入智谱最新发布的 GLM-5.3 大模型，\"虾虾大脑\"全新升级。GLM-5.3 编程能力较上一代提升 50%，在 Terminal Bench 3.0、Agents' Last Exam （CLI） 等公开基准测试中取得开源第一，白盒代码审查与漏洞发现能力持平 Mythos 5。智谱将在发布两周后开放模型权重。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日8时54分"
+  },
+  {
+    "id": "cmstnwejn0cygro0x7k8p9w2t",
+    "title": "美国拟强制各国在AI竞赛中选边站队",
+    "url": "https://x.com/rohanpaul_ai/status/2088428267024056616",
+    "summary": "据路透社获取的内部信函草案，美国准备迫使多国在中美AI竞赛中做出选择：加入北京AI框架的国家将失去参与美国主导的Pax Silica计划的资格。草案称Pax Silica成员资格不能与竞争性倡议共存，该计划将AI模型与半导体、关键矿产、投资及出口管制挂钩，影响远超模型获取。想同时获得美国芯片和资本、又使用中国开源权重模型的国家将面临更艰难的平衡。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日8时51分"
+  },
+  {
+    "id": "cmstobxa30dpgro0x4fqh5bvs",
+    "title": "GLM-5.3 发布：编程与网络安全能力双提升",
+    "url": "https://x.com/hongming731/status/2088428012958323034",
+    "summary": "智谱发布 GLM-5.3，在不更换基座模型的前提下，通过扩大长程任务环境和后训练规模，同时提升编程与网络安全能力。文章给出终端、软件工程和漏洞评测的分层结果，完整权重将在安全加固后开放。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月15日8时50分"
+  },
+  {
     "id": "cmstmtuhl0ceiro0xw5xydcn6",
     "title": "我对三年后工作方式的未来愿景",
     "url": "https://x.com/gabriel1/status/2088416508372484543",
     "summary": "我对未来有一个愿景，关于我认为三年后人们将如何工作。",
     "source": "X：Gabriel (@gabriel1)",
     "date": "2026年8月15日8时4分"
+  },
+  {
+    "id": "cmstobxa30dphro0x041xf2hw",
+    "title": "GLM-5.3 扩展编程与安全边界，循环工程重写 Agent 协同",
+    "url": "https://x.com/hongming731/status/2088427917038772624",
+    "summary": "智谱发布 GLM-5.3，基于与 GLM-5.2 相同基座经更长后训练，在 Terminal-Bench 3.0 上由 4.6 提升至 28.3，DeepSWE v1.1 上由 46.2 提升至 66.9；网络安全方面，CyberGym 得分 84.5%，ExploitBench 为 54.4%，仍低于 Mythos 5 的 78.0%。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月15日8时49分"
+  },
+  {
+    "id": "cmstnwejn0cyhro0xvjm7vzg0",
+    "title": "英伟达披露持有SpaceX约210亿美元股份，SpaceX数据中心将独家采用英伟达",
+    "url": "https://x.com/rohanpaul_ai/status/2088427314145345830",
+    "summary": "英伟达披露持有SpaceX 1.228亿股，价值约210亿美元，源于其投资xAI后因SpaceX收购xAI而获得股权。SpaceX同时成为英伟达大客户，马斯克称其数据中心将独家采用英伟达，算力容量到2027年底或接近10GW。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日8时47分"
+  },
+  {
+    "id": "cmstnw8tv0cwyro0xpfudfe39",
+    "title": "英伟达削减OpenAI俄亥俄数据中心担保",
+    "url": "https://x.com/cb_doge/status/2088423290046234679",
+    "summary": "突发：据报道，英伟达计划将其对OpenAI俄亥俄州大型数据中心的担保从2500亿美元削减至不足1200亿美元。\n\n该10吉瓦项目由软银旗下SB Energy开发。OpenAI仍希望获得全部10吉瓦容量，但英伟达只愿承担一半的风险敞口。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月15日8时31分"
   },
   {
     "id": "cmstmttw80cearo0xasr1njbp",
