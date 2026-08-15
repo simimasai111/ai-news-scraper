@@ -14640,6 +14640,38 @@
     "date": "2026年8月15日15时8分"
   },
   {
+    "id": "cmsu39c5h0038ro402rdpf7kk",
+    "title": "玉伯谈Agent创业：从建站到新生命体",
+    "url": "https://x.com/lifesinger/status/2088531459552559466",
+    "summary": "玉伯分享与文君在大理的交流：Agent类比网站发展史，OpenClaw是首个被大众感知的建站技术，一切才刚开始。Agent创业者需具备找目标用户和预判技术路线并执行的两大能力，且应以做模型的方式做应用，通过上下文与测评构建进化Loop。Agent由人与LLM共同孕育，其成长依赖社群环境，新时代社群产品蕴含大机会。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月15日15时41分"
+  },
+  {
+    "id": "cmsu2x6dv018oroofm6wfnpkk",
+    "title": "OpenAI 更新 ChatGPT 多项新功能",
+    "url": "https://x.com/testingcatalog/status/2088529498392207742",
+    "summary": "OPENAI 👀：ChatGPT 近期获得了一系列更新。用户现在可以自动从对话中生成测验、搜索预订信息、将 Google Drive 文件添加到 ChatGPT Library，并在首页获得更好的建议（仅限付费套餐）。\n\n鸣谢 @adamhfry",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月15日15时33分"
+  },
+  {
+    "id": "cmsu2wipa0148roof7sgzi0zq",
+    "title": "Codex 性能大更新：加载提速 16 倍",
+    "url": "https://x.com/kimmonismus/status/2088529353722270201",
+    "summary": "炒作：Codex 下周将推出重大性能更新，应能让超长对话的加载速度大幅提升，同时减少内存占用和请求次数。\n\n在一个极端的 741 轮对话基准测试中，平均加载时间从 27.6 秒降至 1.7 秒。\n\n对这次更新超级期待",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月15日15时32分"
+  },
+  {
+    "id": "cmsu2wxef018droofxch98s10",
+    "title": "World Labs 推出 R2S2R 仿真引擎，将单个真实机器人任务转化为数千种模拟变体",
+    "url": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training",
+    "summary": "World Labs 发布\"Real-to-Sim-to-Real\"（R2S2R）仿真引擎，在虚拟环境中训练机器人控制系统，随后可在真实硬件上稳定运行数小时。该技术源自其 7 月收购的 SceniX，可将单个真实任务生成数千种受控变体，用于策略训练与评估。据 World Labs，模型在 ALOHA 等五个平台上各运行一小时无需人工干预，且模拟与真实环境中的模型排名基本一致。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月15日15时30分"
+  },
+  {
     "id": "cmsu1sj9z011hrof22ymk9ub7",
     "title": "Anthropic 为 Claude 生成文本加入水印后，部分用户担心\"留痕\"选择退订",
     "url": "https://www.ithome.com/0/990/062.htm",
