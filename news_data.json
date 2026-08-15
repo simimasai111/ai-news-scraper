@@ -14520,12 +14520,52 @@
     "date": "2026年8月15日2时0分"
   },
   {
+    "id": "cmsuenk1k0am9roe0d0tpah64",
+    "title": "谷歌安卓负责人萨米尔·萨马特畅想未来：说清目标系统就能替你完成",
+    "url": "https://www.ithome.com/0/990/172.htm",
+    "summary": "谷歌安卓生态系统总裁萨米尔·萨马特称，规划新版安卓时通常提前约三年考虑消费者使用方式，设想用户只需说清目标或意图，系统就能代为完成。他举例称，AI智能体未来可读取就医记录、向保险公司确认核磁共振检查是否承保并直接完成预约。本周发布的Pixel 11 Pro背面新增指示灯，会在Gemini处理指令时亮起，方便用户直接语音交流。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日21时8分"
+  },
+  {
+    "id": "cmsuep9qu0aryroe0d5swlma2",
+    "title": "重复采样胜过自我反思：Qwen2.5 研究揭示更优策略",
+    "url": "https://x.com/rohanpaul_ai/status/2088612672590012457",
+    "summary": "一项研究对比了 7 种测试时推理方法，发现让 Qwen2.5（1.5B 至 7B）模型重复采样同一数学问题并取多数答案，在相同 token 预算下优于自我反思等复杂方法。36 项对比中，无方法稳定胜出，10 项显著更差。该结论限于 Qwen2.5 数学任务，不适用于前沿模型或开放任务。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日21时4分"
+  },
+  {
+    "id": "cmsuep9qu0arzroe0ve2bucxf",
+    "title": "模型不再是产品，编排系统才是核心",
+    "url": "https://x.com/rohanpaul_ai/status/2088612631779344518",
+    "summary": "\"模型不再是产品。Codex、Perplexity Computer 或 Claude Code--这些都是编排系统。它把一个模型与智能体外壳配对。什么是智能体外壳？即智能体如何循环运行的规则。\"--Aravind Srinivas",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日21时3分"
+  },
+  {
+    "id": "cmsuep9qt0arxroe0sdird1xz",
+    "title": "WSJ 报道 Cami Clark 在 Anthropic 影响力",
+    "url": "https://x.com/rohanpaul_ai/status/2088614931969315003",
+    "summary": "华尔街日报最新报道了 Cami Clark 及其在 Anthropic 的影响力。\n\n\"保持低调，但却是 AI 负责人的关键顾问。\"",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日21时12分"
+  },
+  {
     "id": "cmsuckhid09c5roe0ug17qlx2",
     "title": "Anthropic 为 Claude 桌面端内置浏览器",
     "url": "https://x.com/testingcatalog/status/2088598175074377849",
     "summary": "ANTHROPIC 🔥：Claude 桌面端将内置一个专用浏览器，在 Cowork 会话中随时可用！一个超级应用正在崛起。\n\n这看起来似曾相识 👀",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月15日20时6分"
+  },
+  {
+    "id": "cmsuep9qu0as0roe0k45io8ob",
+    "title": "李飞飞呼吁AI辩论回归科学而非科幻",
+    "url": "https://x.com/rohanpaul_ai/status/2088611116519997802",
+    "summary": "李飞飞在AI4 2026上批评AI领域日益极端的叙事，认为恐惧营销和不科学的言论会阻碍政策制定者与公众理解技术本质。她主张AI讨论应基于科学、教育和健康沟通，并强调学生、教师、护士、父母和工人等群体理解AI对其工作与子女未来的影响至关重要。其核心信息是：AI是快速演进的工具，社会需要更理性的对话。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日20时57分"
   },
   {
     "id": "cmsuck2i609afroe0ago6wav3",
