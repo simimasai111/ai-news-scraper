@@ -13848,12 +13848,44 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsun8n3403sprouh9gka3uvq",
+    "title": "IBM 新研究：基准分数部分源于措辞而非模型",
+    "url": "https://x.com/omarsar0/status/2088675092238889461",
+    "summary": "IBM 新研究提出 BenchDrift，通过生成保持答案不变但沿语言、指代、语用和结构轴变化的基准问题变体，衡量模型正确率翻转的频率。研究发现措辞敏感性不随模型能力提升而消失，反而改变方向：弱模型从改写中获益多于损失，强模型损失远超获益，因此基准排名靠前的模型其分数最依赖措辞。八款模型在 GSM8K、MMLU 和 MATH-Hard 上对哪些改写代价最高基本达成一致。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月16日1时12分"
+  },
+  {
+    "id": "cmsun9tl503v2rouhm26aw22h",
+    "title": "AI 经济影响的核心问题：技术摩擦会否消失",
+    "url": "https://x.com/emollick/status/2088671858606629182",
+    "summary": "Ethan Mollick 指出，AI 对经济影响的核心问题在于技术采用的惯常摩擦是否仍会延续。若 AI 系统持续改进，这些摩擦可能不会像以往技术那样阻碍普及。引用推文中的 @arpitrage 虽常讲授 AI 普及的摩擦，但内心认为摩擦并不严重--只需让机器做事即可，关键在于摩擦能否持续存在。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月16日0时59分"
+  },
+  {
+    "id": "cmsunaekx03y8rouhqg69ijmi",
+    "title": "Gemini Notebook 将支持直接查询 Drive 文件",
+    "url": "https://x.com/testingcatalog/status/2088670774299099214",
+    "summary": "Google 正在开发一项功能，让 Gemini Notebook 可以直接在聊天界面中查询 Google Drive 中的文件。\n\n> 你现在可以在 Gemini Notebook 中直接查询 Google Drive 文件。提问即可开始。\n\nGemini Notebook 要成为超级应用？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月16日0时54分"
+  },
+  {
     "id": "cmsul4u2q02f8rouhc16wh69k",
     "title": "迈向无需手动选模型的新阶段",
     "url": "https://x.com/gdb/status/2088658133971509640",
     "summary": "朝着再也不用手动选择模型的方向迈进。",
     "source": "X：Greg Brockman (@gdb)",
     "date": "2026年8月16日0时4分"
+  },
+  {
+    "id": "cmsun87vu03rrrouh1jgq1hrr",
+    "title": "全球最强GPU程序员Scott Gray离开OpenAI",
+    "url": "https://x.com/AYi_AInotes/status/2088668631269834963",
+    "summary": "底层系统大神Scott Gray离开OpenAI。他早年手写CUDA内核，SGEMM性能达硬件峰值98%，被前CEO称为全球最强GPU程序员。2016年极早期加入OpenAI，编写blocksparse库使稀疏Transformer可大规模训练，GPT-3、GPT-4、Codex、DALL-E论文均有其名，是将Scaling Laws从理论变为工程现实的关键人物。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月16日0时46分"
   },
   {
     "id": "cmsum77cw02yzrouhqst71uig",
