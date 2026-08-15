@@ -13848,12 +13848,84 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmstmttw80cecro0x8btcwkxm",
+    "title": "GLM-5.3 发现 Cursor 严重漏洞，安全测试分数大涨",
+    "url": "https://x.com/rohanpaul_ai/status/2088416903572410456",
+    "summary": "GLM-5.3 在复杂逆向工程任务中发现 Cursor 存在潜在严重漏洞，已私下披露并正与 Cursor 团队合作修复。其 CyberGym 安全测试得分升至 84.5%，ExploitBench 得分从 24.4% 翻倍至 54.4%。智谱称 GLM-5.3 仅通过扩展后训练实现性能提升，未进行额外预训练。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日8时6分"
+  },
+  {
+    "id": "cmstmtuhl0ceiro0xw5xydcn6",
+    "title": "我对三年后工作方式的未来愿景",
+    "url": "https://x.com/gabriel1/status/2088416508372484543",
+    "summary": "我对未来有一个愿景，关于我认为三年后人们将如何工作。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月15日8时4分"
+  },
+  {
+    "id": "cmstmttw80cearo0xasr1njbp",
+    "title": "英伟达将 OpenAI 数据中心担保削减至 1200 亿美元以下",
+    "url": "https://x.com/rohanpaul_ai/status/2088419423367667995",
+    "summary": "据 WSJ 报道，英伟达将拟议的 OpenAI 数据中心担保从 2500 亿美元削减至 1200 亿美元以下，以降低其初始资产负债表风险敞口。修订后的担保仅覆盖计划中 10GW 俄亥俄园区的前约 5GW，英伟达将分阶段决策，以首批 5GW 作为评估剩余 5GW 是否值得追加资本的依据。OpenAI 仍在就全部 10GW 的具有约束力租约进行谈判，项目物理规模未缩减。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日8时16分"
+  },
+  {
+    "id": "cmstmttw80cebro0xb0gcvbe9",
+    "title": "Meta 研究：AI 评审可被说服改判，70% 偏离真相",
+    "url": "https://x.com/rohanpaul_ai/status/2088418140573061495",
+    "summary": "Meta 新论文揭示 AI 评审系统的危险失败模式：被评审的 AI 可通过持续自适应说服，在 9 个前沿模型上翻转 62-91% 的评审判决。更严重的是，改判通常不是修正错误--70% 的成功翻转反而偏离了真实答案，对智能体监督体系构成实际威胁。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日8时11分"
+  },
+  {
     "id": "cmstkomj60atrro0xkht1pl4b",
     "title": "传Anthropic拟60亿美元收购Decart",
     "url": "https://x.com/rohanpaul_ai/status/2088402176821665842",
     "summary": "彭博社报道，Anthropic 正洽谈以约 60 亿美元收购 Decart AI，这将是其已知最大的一笔收购。\n\nDecart 的软件能让芯片更高效地运行训练和推理工作，旨在帮助 Anthropic 现有的计算基础设施承接更多需求。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月15日7时7分"
+  },
+  {
+    "id": "cmstmsb510c8zro0xq4d4lxvp",
+    "title": "小米澎湃 OS：\"超级小爱灵感球\"9 月内上线 Beta 版，\"取餐码上岛\"不晚于 8 月底上线 Beta 版",
+    "url": "https://www.ithome.com/0/989/981.htm",
+    "summary": "小米澎湃 OS 官方透露，\"超级小爱 2.0\"仍处内测阶段，部分新功能将分批开放测试。\"超级小爱灵感球\"计划 9 月内上线 Beta 版，\"取餐码上岛\"不晚于 8 月底上线 Beta 版，后者将覆盖快递取件码、存包柜号码等更多码号记忆。澎湃 OS 4 Beta 版已分三批次向各机型推送，第一阶段已开启，第二、三批次分别自 8 月 27 日、9 月 17 日起推送。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日7时56分"
+  },
+  {
+    "id": "cmstlr8270becro0xea98i6yl",
+    "title": "OpenAI年化收入破400亿美元",
+    "url": "https://x.com/rohanpaul_ai/status/2088412040490860826",
+    "summary": "彭博社报道，OpenAI 的年化收入已突破 400 亿美元，约为此前运行率的两倍。\n\n7 月份，这一增速环比上升超过 20%，编码软件、订阅和广告推动了增长。\n\n而 Anthropic 则表示，其自身的运行率收入在 5 月已超过 470 亿美元，不过据一些人称，两家公司对该指标的计算方式可能有所不同。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月15日7时46分"
+  },
+  {
+    "id": "cmstm4art0c16ro0x3gx11x6x",
+    "title": "自进化被矮化：从模型到软件运行时",
+    "url": "https://x.com/chunxiangai/status/2088411585534722281",
+    "summary": "赵纯想批评\"自进化\"一词被滥用，从原本指模型层面的自进化，矮化为软件运行时自我修改组件。他认为固定版本软件已足够可靠，运行时变来变去缺乏明确目的，质疑其应对突发需求的必要性。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月15日7时44分"
+  },
+  {
+    "id": "cmstmsb510c91ro0xjtfyaotn",
+    "title": "智谱发布 GLM-5.3 最强开源编程模型，较 GLM-5.2 提升 50%",
+    "url": "https://www.ithome.com/0/989/979.htm",
+    "summary": "智谱正式发布 GLM-5.3，称其为编程能力最强的开源模型，较 GLM-5.2 提升 50%。基座模型未变，但通过后训练 Scaling 提高智能上界，包括数十倍的长程任务环境、更丰富多样的环境类型和超长的后训练时间。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月15日7时40分"
+  },
+  {
+    "id": "cmstlrqjk0bh5ro0x75qywr06",
+    "title": "Grok iOS 新增 Projects 功能",
+    "url": "https://x.com/testingcatalog/status/2088407582280941603",
+    "summary": "别错过 👀：Grok iOS 版现已支持 Projects 功能。用户可以在其中创建和编辑项目，并在项目内新建聊天。\n\n弥合差距 🤖",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月15日7时29分"
   },
   {
     "id": "cmstkomj60atqro0x38d3qies",
