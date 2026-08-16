@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsw3kcza0gmkrovmjlo1e930",
+    "title": "是时候开始构建了",
+    "url": "https://x.com/dexhorthy/status/2089036897993589142",
+    "summary": "是时候开始构建了。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月17日1时9分"
+  },
+  {
+    "id": "cmsw3sy1t0gsdrovmud54fi7z",
+    "title": "Meta 新论文：小模型或只是欠调优，而非规模扩展的差预测器",
+    "url": "https://x.com/rohanpaul_ai/status/2089044412685029787",
+    "summary": "Meta 新论文发现，小模型可能只是欠调优，而非规模扩展的差预测器。规模法则在约 4M 参数处涌现，该规模模型可在 1 块 GPU 上 1 小时内完成训练。每规模需 256 组超参数配置时法则才准确，小模型对超参数异常敏感。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日1时39分"
+  },
+  {
+    "id": "cmsw3sqvt0gpzrovmz94lbafx",
+    "title": "Claude拒绝安装去水印插件引热议",
+    "url": "https://x.com/kimmonismus/status/2089042944883929533",
+    "summary": "不出所料，Claude 拒绝安装去水印插件。\n\n这件事大概无需多言；它本身已说明一切。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月17日1时33分"
+  },
+  {
+    "id": "cmsw3srep0gqhrovm1hvstd3j",
+    "title": "非可验证领域基准常依赖人类意见",
+    "url": "https://x.com/emollick/status/2089042815405686919",
+    "summary": "非可验证领域的基准往往是人类的意见。在现实世界中，我们正是这样判断一篇文章、一个想法或一次推介是否出色。\n\n而我们确实知道如何衡量和基准化这些东西：是时候让AI从业者去研读定性研究方法论了！",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月17日1时33分"
+  },
+  {
+    "id": "cmsw3rkgc0go1rovmhlya6nvm",
+    "title": "谁在倒卖 AI 信用额度？揭秘 token 经纪商市场",
+    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "summary": "文章调查了新兴的\"token 经纪商\"群体，他们从初创公司低价收购未使用的 AI 信用额度再转售牟利。市场上已出现 AI Credits、AICreditMart 等信用交易平台，以及 CheapCredits、Tokvana 等声称通过\"批量定价\"提供折扣（如统一 40% 折扣）的路由器。作者估计相关平台和论坛上流通的信用额度达数千万美元，并预测随着企业加强成本管控，此类滥用行为将面临打击。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月17日1时26分"
+  },
+  {
     "id": "cmsw2odbj0g26rovmwwl0moxl",
     "title": "网传Anthropic内部文档造假，Agent工程从Loop走向Graph是真趋势",
     "url": "https://x.com/AYi_AInotes/status/2089037836104139047",
