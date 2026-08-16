@@ -14240,12 +14240,52 @@
     "date": "2026年8月16日1时12分"
   },
   {
+    "id": "cmsvd0all0ej4rosadktehy1n",
+    "title": "DeepSeek V4-Pro 实测：Harness 能否救场",
+    "url": "https://x.com/karminski3/status/2088856655534624783",
+    "summary": "DeepSeek Harness 能拯救这次 V4-Pro 的发布吗？\n\n给大家带来 DeepSeek-V4-Pro-0813 实测！\n\n本期视频我们只验证 4 件事：\n\ndeepseek-v4-pro-0813 拉了吗？\n\nv4-pro 推理强度 max 甚至不如 high 吗？甚至打不过 v4-flash 吗？\n\n以及 v4-pro + deepseek harness 效果会更好吗？\n\n视频告诉你答案！\n\n#deepseek #deepseekv4pro #deepseekv4pro0813",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月16日13时13分"
+  },
+  {
+    "id": "cmsvcb9860e7vrosad3r4tu89",
+    "title": "Opus用户为何不换用Sol？价格不重要吗",
+    "url": "https://x.com/thsottiaux/status/2088850995430477882",
+    "summary": "如果你有公司还在用 Opus 而不是 Sol，为什么？价格对你来说不重要吗？什么能说服你切换？",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月16日12时51分"
+  },
+  {
+    "id": "cmsvcye5z0ecnrosa3w1ttb2c",
+    "title": "OpenAI 挖角 Wiz 前总裁 Dali Rajic 担任首席营收官",
+    "url": "https://www.ithome.com/0/990/271.htm",
+    "summary": "OpenAI 任命 Dali Rajic 担任首席营收官，接替上任仅约 8 个月的 Denise Dresser，后者将在完成交接后离开。Rajic 此前担任谷歌旗下云安全公司 Wiz 总裁兼首席运营官，该公司近期已被谷歌以 320 亿美元收购。OpenAI 目前产品每周活跃用户超 10 亿，企业客户突破 200 万家，较一年前翻了一番。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日12时42分"
+  },
+  {
     "id": "cmsvat4q10cvjrosa6c6vn6j2",
     "title": "千问办公首发上线 GLM-5.3 和 DeepSeek V4 Pro 模型，可直接选用",
     "url": "https://www.ithome.com/0/990/264.htm",
     "summary": "千问办公首发上线 GLM-5.3 和 DeepSeek V4 Pro 两款前沿模型，用户可在产品首页「前沿模型」档位直接选用。DeepSeek V4 Pro 支持 100 万 token 上下文、最高 384K 输出；GLM-5.3 较 GLM-5.2 性能提升 50%。",
     "source": "IT之家（RSS）",
     "date": "2026年8月16日12时3分"
+  },
+  {
+    "id": "cmsvcye5z0ecorosa9k3cv0t9",
+    "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
+    "url": "https://www.ithome.com/0/990/270.htm",
+    "summary": "索尼 SIE 提交编号 18/314775 的新专利申请，用大语言模型控制 AI 账号模拟未成年人聊天行为，以主动识别诈骗者、垃圾信息发送者及潜在儿童侵害者等恶意用户。系统将可疑互动作为风险信号，对多次可疑行为的账号进行标记或封禁，并在其联系真实玩家时提前警告。该专利目前仅代表索尼的探索，是否落地 PlayStation 平台仍未知。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日12时30分"
+  },
+  {
+    "id": "cmsvcyazl0ecirosapw8sn8mt",
+    "title": "Seedance 2.5 视频生成：迟来二十年的补偿感",
+    "url": "https://x.com/AYi_AInotes/status/2088845636355440754",
+    "summary": "博主用 Seedance 2.5 将 AIGC 美女图转为视频，8 段画面动作与运镜一气呵成，全程不漂移，体验丝滑。其感叹 AI 让儿时想象直接成真，带来\"迟到了二十年的补偿感\"。引用推文称 Seedance 2.5 尺度比 2.0 开放，且能过审。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月16日12时29分"
   },
   {
     "id": "cmsvat4yn0cvprosavz55ht6q",
