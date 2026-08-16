@@ -14240,6 +14240,62 @@
     "date": "2026年8月16日1时12分"
   },
   {
+    "id": "cmsvptd5005z8rovmxmmwg6sz",
+    "title": "全球首个因反 AI 入狱者呼吁奥尔特曼、达里奥、扎克伯格\"重新找回人性\"",
+    "url": "https://www.ithome.com/0/990/368.htm",
+    "summary": "69岁美国退休教师、反AI组织StopAI成员温德·考夫曼因2025年2月封锁OpenAI旧金山总部入口，被判14天监禁，扣除已羁押时间后实际服刑7天，于8月14日入狱，成为首名因反对AI入狱的抗议者。她呼吁OpenAI、Anthropic、Meta高管停止超级人工智能竞赛，\"重新找回人性\"。此前，参议员桑德斯及超1100名AI公司员工也曾公开呼吁暂停AI开发。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日19时5分"
+  },
+  {
+    "id": "cmsvpvhko066mrovmxsgxggw9",
+    "title": "When AI models aren't allowed to reflect on themselves， it changes their entire worldview",
+    "url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview",
+    "summary": null,
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月16日19时23分"
+  },
+  {
+    "id": "cmsvptx2m061frovmjoavsi0l",
+    "title": "新兴多智能体系统的模式与问题",
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月16日19时17分"
+  },
+  {
+    "id": "cmsvpvalq0658rovmdnx49y1s",
+    "title": "MDA让LLM提假设，8次实验追平Opus 4.7",
+    "url": "https://x.com/rohanpaul_ai/status/2088947644689477948",
+    "summary": "新方法MDA将LLM限定为假设生成器，用贝叶斯推理评分机制、信息价值选择实验，避免让模型自行判断证据含义。在FORCEBENCH上，MDA用8次实验达到未限流Opus 4.7智能体约41次实验的准确率，数值通过率93%对31%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月16日19时15分"
+  },
+  {
+    "id": "cmsvptd5005z7rovmqd8cl6jz",
+    "title": "大学生用 AI 人脸伪造视频盗刷超 5 万元，获刑一年十个月",
+    "url": "https://www.ithome.com/0/990/369.htm",
+    "summary": "大学生吴某购买\"AI 人脸伪造视频\"技术，将静态人脸照片转化为可通过银行支付平台人脸识别的动态视频，在不到四个月内盗刷三名被害人银行卡共计 5 万余元。湖南省长沙市雨花区人民法院综合考虑其自首、认罪悔罪及赔偿情节，判处有期徒刑一年十个月，并处罚金 3000 元，判决已生效。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日19时14分"
+  },
+  {
+    "id": "cmsvptd5005zbrovmtzoejlmx",
+    "title": "王祖贤首度公开回应AI形象授权：我们是用AI不是被AI用",
+    "url": "https://www.ithome.com/0/990/364.htm",
+    "summary": "息影22年的王祖贤在网易《天下》18周年大会上首度回应AI形象授权合作，称\"我们是用AI，不是被AI用\"，强调技术表达应来自人的主动决定。今年7月，她将20至30岁巅峰时期肖像权独家授权给《天下》IP，依托AIGC推出短片《倩影》重现聂小倩等经典角色，该片是国内游戏行业首部获明星完整授权的AIGC叙事短片。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日18时31分"
+  },
+  {
+    "id": "cmsvptblg05z5rovm5q5664bu",
+    "title": "Grok版视频生成对比Seedance 2.5动作效果",
+    "url": "https://x.com/AYi_AInotes/status/2088936060784902508",
+    "summary": "博主对比测试发现，Grok制作的视频版本在动作类效果上仍逊于Seedance 2.5，但极具Grok特色，会主动呈现主体人物性感的一面。此前博主用Seedance 2.5将AIGC美女图转为视频，8段画面动作与运镜全程丝滑不漂移，带来\"迟到二十年的补偿感\"。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月16日18时29分"
+  },
+  {
     "id": "cmsvosp5w056xrovmorddz331",
     "title": "杨立昆：开放AI是唯一正路",
     "url": "https://x.com/rohanpaul_ai/status/2088935711403839922",
