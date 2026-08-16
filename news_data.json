@@ -13856,6 +13856,30 @@
     "date": "2026年8月17日4时8分"
   },
   {
+    "id": "cmswa8hgp0mu3rovmz1ekmsy8",
+    "title": "Stripe 超 70 亿美元收购 OpenRouter",
+    "url": "https://x.com/rohanpaul_ai/status/2089090435499331734",
+    "summary": "Stripe 据报同意以超 70 亿美元收购 OpenRouter，为其 5 月 13 亿美元估值的至少 5.4 倍。OpenRouter 拥有 1000 万+用户、500+ 模型和 200T+ 月 token，其流量数据比 API 更难复制。若交易完成，Stripe 将同时掌控 AI 支出的计量与路由层，但需保持路由中立性。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日4时42分"
+  },
+  {
+    "id": "cmswa73pz0mp8rovmpfu83oj1",
+    "title": "模型正在故意变得更\"笨\"：用世界知识换取推理能力",
+    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+    "summary": "前沿模型正用世界知识换取推理能力：GLM-5.2 在 AIME 2026 达 99.2%，每 token 仅激活约 400 亿参数，而 Qwen3.5 9B 在 SimpleQA 上幻觉率高达 80-82%。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月17日4时40分"
+  },
+  {
+    "id": "cmswa72r30momrovm4tqr8goh",
+    "title": "为何人们不买账扎克伯格的AI未来",
+    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+    "summary": "Meta CEO扎克伯格发布6500字宣言，称\"未来属于每个人\"，描绘人人拥有强大个人AI代理的图景。因Meta社交媒体历史及在前沿模型和消费级AI助手领域缺乏领先地位，该愿景遭广泛质疑。其新模型Glimmer需特定硬件，普通用户尚难使用。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月17日4时32分"
+  },
+  {
     "id": "cmsw94iu00m5drovmqgcaoguo",
     "title": "Django、Flask、Rails 作者为何早押注 AI",
     "url": "https://x.com/trq212/status/2089085004966207679",
@@ -13869,6 +13893,14 @@
     "url": "https://x.com/kimmonismus/status/2089084875156435114",
     "summary": "Codex 现支持为 GPT-5.6 Sol 开启 100 万 token 上下文窗口，该模型文档标注窗口为 1，050，000 token。",
     "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月17日4时20分"
+  },
+  {
+    "id": "cmswa7az80mqerovm3y3xoqgi",
+    "title": "Perplexity CEO回应订阅退款失误",
+    "url": "https://x.com/AravSrinivas/status/2089084791044124843",
+    "summary": "你说得对 @GergelyOrosz，这是我们搞错了。提醒邮件没有发送给这位用户。他已获得退款，但这并非我们想要的运营方式。我们正在全面升级客户支持。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
     "date": "2026年8月17日4时20分"
   },
   {
