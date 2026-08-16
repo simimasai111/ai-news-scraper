@@ -14208,6 +14208,14 @@
     "date": "2026年8月16日2时35分"
   },
   {
+    "id": "cmsvzscwa0e5crovm3zq1staj",
+    "title": "Dario Amodei：公众对 AI 的负面看法本质是信任危机，而非 AI 领袖的风险警告所致",
+    "url": "https://simonwillison.net/2026/Aug/16/dario-amodei",
+    "summary": "Anthropic CEO Dario Amodei 认为，公众对 AI 的负面看法并非源于 AI 领袖的风险警告，而是一场根本性的信任危机--普通人不信任公司、政府或科技行业。他指出，赢得信任的关键不是华丽的营销宣传，而是真正兑现造福世界的重大承诺，并承认 AI 公司目前最大的批评点在于尚未兑现这些承诺。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月16日23时5分"
+  },
+  {
     "id": "cmsvye0zv0d2trovmaj0b77iw",
     "title": "Seedance 2.5 街头逃亡测试：动作表现优于 2.0",
     "url": "https://x.com/AYi_AInotes/status/2089005501690343735",
@@ -14216,12 +14224,36 @@
     "date": "2026年8月16日23时4分"
   },
   {
+    "id": "cmsvzilcy0dtmrovmpjlbxzag",
+    "title": "Deedy Das 推出情绪生成沉浸式体验网站",
+    "url": "https://x.com/deedydas/status/2089014375973900344",
+    "summary": "做了个小网站，输入一种\"情绪\"，就能生成一整套体验：歌曲播放列表、环境音和循环视频背景。\n\n以下是我做的头 4 个：\n- Haight：旧金山的爱之夏\n- Mussoorie 【2：22】：山间的 Ruskin Bond 之夜\n- Baarish 【3：19】：季风时节的加尔各答\n- Mehfil 【5：00】：Nizammudin 的 Qawalli 之夜\n\n只需说出你当下的感觉，投屏到电视上，它就能无限延续下去……",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月16日23时40分"
+  },
+  {
+    "id": "cmsvzit5a0dv2rovmz1y6h6ml",
+    "title": "顶尖数学家称 LLM 是强计算器但缺乏创造性思维",
+    "url": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers",
+    "summary": "数学家 Timothy Gowers 和 Peter Sarnak 认为，大语言模型擅长组合已知方法并探索多条搜索路径，但缺乏在广阔搜索空间中挑选少数有效路径的直觉，难以产生真正的新想法。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月16日23时31分"
+  },
+  {
     "id": "cmsvyfsou0d6krovmbt6n1yw2",
     "title": "Google AI Overview 将深刻改变网络本质",
     "url": "https://x.com/emollick/status/2089003775755190570",
     "summary": "很难想象，即使你完全忽略与 AI 相关的其他一切，仅 Google AI Overview 一项，随着时间的推移，也足以深刻改变网络的性质，以及我们因此消费和据以行动的信息。显然，这已经开始发生了。",
     "source": "X：Ethan Mollick (@emollick)",
     "date": "2026年8月16日22时58分"
+  },
+  {
+    "id": "cmsvzh8tj0dpfrovmizrkzu4s",
+    "title": "ChatGPT 桌面应用新增 Computer History 功能，记录点击与键盘操作以训练模型",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "summary": "ChatGPT 的 macOS 桌面应用推出 Computer History 功能，将用户操作转化为训练数据，学习工作方式、建议自动化并接手未完成任务。该功能默认关闭，用户可选择排除特定应用和网站，或删除记录条目。OpenAI 产品与工程经理 Ari Weinstein 表示，该功能会自动忽略无痕或隐私浏览内容。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月16日22时56分"
   },
   {
     "id": "cmsvyenmi0d46rovmnk6wk49t",
