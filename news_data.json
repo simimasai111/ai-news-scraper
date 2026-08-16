@@ -13848,6 +13848,22 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsw8fwb90lx9rovma3mqghqx",
+    "title": "R-lens与推理痕迹窃取研究两则",
+    "url": "https://x.com/dongxi_nlp/status/2089065591961199082",
+    "summary": "Best Read Week 33\n\nR-lens：让 J-lens 在早期层更忠实\n\n从专有 LLM API 窃取推理痕迹\n\nR-lens：https://www.lesswrong.com/posts/nv8oedrnLXKRzNEL9/r-lens-making-j-lens-more-faithful-on-early-layers\nStealing Reasoning Traces：https://arxiv.org/pdf/2608.09867",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月17日3时3分"
+  },
+  {
+    "id": "cmsw88ide0liyrovmhjpvtel2",
+    "title": "The hyping of Anthropic's IPO",
+    "url": "https://garymarcus.substack.com/p/the-hyping-of-anthropics-ipo",
+    "summary": null,
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月17日3时25分"
+  },
+  {
     "id": "cmsw70izv0ks8rovm5miu9qy0",
     "title": "Grok Build v1.0.5 发布：新增配置覆盖与工作树回收",
     "url": "https://x.com/cb_doge/status/2089067810131788149",
