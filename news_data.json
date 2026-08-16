@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsweipb60qp5rovmqpfh80g0",
+    "title": "Grok Imagine 精准编辑自动拆分47段",
+    "url": "https://x.com/cb_doge/status/2089120092269474260",
+    "summary": "精准编辑是 Grok Imagine 最好的功能之一。\n\n它能在几秒内自动将我的图片拆分为 47 个不同片段，让我只编辑想改的部分，同时保持图片其余部分不变。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月17日6时40分"
+  },
+  {
     "id": "cmswdg3g90q4wrovm3jm6jo5d",
     "title": "Claude 宕机，Grok 正常运行",
     "url": "https://x.com/cb_doge/status/2089110820785647818",
@@ -13864,12 +13872,28 @@
     "date": "2026年8月17日6时2分"
   },
   {
+    "id": "cmsweioim0qonrovmna9noete",
+    "title": "Codex 百万上下文窗口使用提醒",
+    "url": "https://x.com/kimmonismus/status/2089116275842633892",
+    "summary": "快速提醒：当初他们推出扩展上下文时曾说明，超过 272k 的部分会以 2 倍速率消耗使用额度，所以使用时要小心！",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月17日6时25分"
+  },
+  {
     "id": "cmswdg3g90q4vrovmouqebiik",
     "title": "Grok 4.6 登顶 VISTA 基准测试",
     "url": "https://x.com/cb_doge/status/2089115693770035704",
     "summary": "Grok 4.6 在 VISTA 基准测试中正式排名第一！🥇\n\n它在将 Figma 设计转化为可运行网页应用方面获得了最高分，超越了 GPT-5.6-sol 和 Claude fable-5。",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月17日6时22分"
+  },
+  {
+    "id": "cmswesk6a0r2hrovml2edcl2c",
+    "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+    "summary": "阿里 Qwen 实验室发布 Apache 2 许可的 27B 参数视觉大模型 Qwen 3.8 27B，官方基准显示其超越前代 Qwen 3.6 27B 及闭源 Qwen 3.7-Plus。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月17日6时0分"
   },
   {
     "id": "cmswcq8aa0puarovm5z6lkbu4",
