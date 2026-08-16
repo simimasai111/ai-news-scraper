@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmswcq8aa0puarovm5z6lkbu4",
+    "title": "中英AI圈关注点差异与DGX Spark融合趋势",
+    "url": "https://x.com/dongxi_nlp/status/2089104958075367603",
+    "summary": "博主断开中文信息流两周后观察发现，中英文AI圈普通用户关注点呈两种模式：中文圈聚焦DeepSeek，英文圈聚焦DGX Spark。他预计两者将出现融合趋势，即\"DGX Spark + DeepSeek\"的组合将受到广泛关注。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月17日5时40分"
+  },
+  {
+    "id": "cmswccbgk0o4rrovm0m27oqre",
+    "title": "OpenAI 悄然解散灾难性风险团队",
+    "url": "https://x.com/AISafetyMemes/status/2089104770183348302",
+    "summary": "OpenAI 已悄然解散其灾难性风险（preparedness）团队，引发内部不安。此前共同领导\"超级对齐\"团队的 Jan Leike 于 2024 年辞职，称安全在\"让位于光鲜产品\"；Bakalar、Achiam 和 Johannes Heidecke 等安全人员的离职加剧了担忧。有知情者称\"现在迫切需要把这件事做好\"，也有人感到\"责任与恐惧交织，担心自己不够警觉\"。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月17日5时39分"
+  },
+  {
+    "id": "cmswcdhsk0o73rovmkb30d313",
+    "title": "Stripe 超 70 亿美元收购 OpenRouter",
+    "url": "https://x.com/kimmonismus/status/2089103402739323289",
+    "summary": "Stripe 已敲定以超 70 亿美元收购 AI 公司 OpenRouter 的协议。此前《华尔街日报》曾报道谈判价约为 100 亿美元，最终成交价低于该传闻。对 Stripe 而言这是一场重大胜利。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月17日5时33分"
+  },
+  {
     "id": "cmswbaw830nn8rovm9er4lrqn",
     "title": "GPT-5.6 代导出 X 书签数据",
     "url": "https://x.com/emollick/status/2089100618648404216",
