@@ -13856,6 +13856,14 @@
     "date": "2026年8月16日9时4分"
   },
   {
+    "id": "cmsv6is7p09rgrosa51r13qjh",
+    "title": "消息称英伟达拟向软银旗下 SB Energy 投资至多 30 亿美元，助 OpenAI 建设数据中心",
+    "url": "https://www.ithome.com/0/990/237.htm",
+    "summary": "英伟达正洽谈向软银子公司 SB Energy 投资至多 30 亿美元，后者正为 OpenAI 开发俄亥俄州大型数据中心项目。出资分两部分：项目签约时支付 15 亿美元，剩余一半在 SB Energy 启动 IPO 时投入。SB Energy 计划最快下月上市，IPO 募资规模至少 50 亿美元；另据《华尔街日报》，英伟达对俄亥俄项目的首期担保额预计下调至 1，200 亿美元以内。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日9时48分"
+  },
+  {
     "id": "cmsv3s81d085erosaxddj0kdu",
     "title": "全球三大模型防蒸馏机制告破",
     "url": "https://x.com/hongming731/status/2088787404975231264",
@@ -14230,6 +14238,38 @@
     "summary": "IBM 新研究提出 BenchDrift，通过生成保持答案不变但沿语言、指代、语用和结构轴变化的基准问题变体，衡量模型正确率翻转的频率。研究发现措辞敏感性不随模型能力提升而消失，反而改变方向：弱模型从改写中获益多于损失，强模型损失远超获益，因此基准排名靠前的模型其分数最依赖措辞。八款模型在 GSM8K、MMLU 和 MATH-Hard 上对哪些改写代价最高基本达成一致。",
     "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
     "date": "2026年8月16日1时12分"
+  },
+  {
+    "id": "cmsv8nyiv0bbwrosacdvohlsu",
+    "title": "华为昇腾 0 Day 适配小红书开源大模型 dots3-note preview",
+    "url": "https://www.ithome.com/0/990/256.htm",
+    "summary": "小红书 8 月 14 日发布 dots3-note preview 开源大模型，华为昇腾 Atlas 800 A3、Atlas 900 A3 SuperPoD 超节点已完成全量适配，并基于 vLLM Ascend 推理引擎提供部署与推理能力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日11时10分"
+  },
+  {
+    "id": "cmsv8nxwi0bbqrosav8m3jpe7",
+    "title": "DeepSeek V4 Pro 能力高度绑定脚手架",
+    "url": "https://x.com/AYi_AInotes/status/2088819786687938670",
+    "summary": "DeepSeek V4 Pro 能力高度绑定特定脚手架：同一模型同一任务，首轮塞入 25 个工具仅得 91 分，只给 bash 和 str_replace_editor 两个工具则稳定 96-99 分，两阶段锚定（先极简后解锁）连续 98-99 分。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月16日10时47分"
+  },
+  {
+    "id": "cmsv7lw2w0ae5rosaxdkvargu",
+    "title": "AI 药物研发实际进展如何：临床影响证据仍有限",
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "summary": "多位领域专家发文指出，尽管各类 AI 方法已被开发、应用和基准测试，其临床相关影响的证据迄今仍\"令人失望地有限\"，目前处于\"缺乏证据\"阶段。文章强调，AI 在药物研发中的重点应从\"做能做的事\"转向\"做应做的事\"，并指出 II 期临床成功率是衡量改进的关键指标，但现有数据因混杂因素和条件性而难以用于真正的机器学习。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月16日10时46分"
+  },
+  {
+    "id": "cmsv8nyiw0bbzrosawujzdeby",
+    "title": "卢伟冰发文庆祝小米手机 15 周岁生日，称未来全面拥抱 AI",
+    "url": "https://www.ithome.com/0/990/250.htm",
+    "summary": "小米集团总裁卢伟冰发文庆祝小米手机 15 周岁生日，称未来将全面拥抱 AI。初代小米手机于 2011 年 8 月 16 日发布，售价 1999 元；2025 年小米手机全球出货量 1.654 亿部，市场份额约 13%，连续五年稳居全球前三。小米已推出澎湃 HyperOS 4 系统并开启 Beta 版内测，雷军此前宣布未来三年在 AI 领域投入至少 600 亿元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日10时36分"
   },
   {
     "id": "cmsun9tl503v2rouhm26aw22h",
