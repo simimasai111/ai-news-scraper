@@ -14240,6 +14240,62 @@
     "date": "2026年8月16日1时12分"
   },
   {
+    "id": "cmsvefhu30hk1rosachzakuko",
+    "title": "DeepSeek Harness：事实有据，权限有度",
+    "url": "https://x.com/dongxi_nlp/status/2088868591881871856",
+    "summary": "事实有据，权限有度。\n\nDeepSeek Harness，把边界写成契约。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月16日14时0分"
+  },
+  {
+    "id": "cmsvefhu40hk2rosajdb5rd8a",
+    "title": "DeepSeek Harness 开源：把边界写成契约",
+    "url": "https://x.com/dongxi_nlp/status/2088868084194889814",
+    "summary": "DeepSeek Harness 开源，设计哲学是\"事实有据，权限有度\"。它拒绝将 agent state 写成模糊目标，让每份重要 state 由能验证它的 owner 持有，并通过 atomic comparison 关闭 time-of-check/time-of-use gap。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月16日13时58分"
+  },
+  {
+    "id": "cmsvegh540hmqrosakt8hzpwy",
+    "title": "GPT-5.6 Sol 分词效率比 Claude Opus 5 高 34.5%",
+    "url": "https://x.com/thsottiaux/status/2088866513008873560",
+    "summary": "OpenAI 的 token 与其他模型不等价，每百万 token 价格对比会误导决策。GPT-5.6 Sol 的分词器在测试中仅用 766 个 token，而 Claude Opus 5 需约 1，170 个，少 34.5%。真正该比较的是每次成功结果的价格，而非单价。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月16日13时52分"
+  },
+  {
+    "id": "cmsve2kkx0f28rosaf6dze0ug",
+    "title": "o3-mini智能体循环生成考题质量媲美标准测试",
+    "url": "https://x.com/emollick/status/2088864599701442925",
+    "summary": "o3-mini（已非常过时）在智能体循环中生成了不错的考试题目：\"在我们迄今最大规模的AI生成问题实地研究之一中，我们发现这种方法在心理测量学属性上与高风险标准化考试中的题目相当。\"",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月16日13时45分"
+  },
+  {
+    "id": "cmsve1f4o0ezcrosaxvhvz4h6",
+    "title": "我依然对 LLM 持怀疑态度：四年革命为何几乎无实质产出",
+    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+    "summary": "作者仍不为任何实际工作使用 LLM，认为这场\"革命\"四年后几乎没有实质产出：软件质量、速度、成本与安全性均未改善，且缺乏能证明顶级生产力提升的独立研究。他收到的 LLM 生成 PR 依然质量低劣，合并率远低于人类编写；前沿模型还会漏掉业余爱好者轻易发现的明显问题。他选择不依赖 LLM 以专精技能，并对此决定感到满意。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月16日13时41分"
+  },
+  {
+    "id": "cmsve2ijm0f0yrosaja3sbsk6",
+    "title": "专业AI的信任成本：用户为何用豆包验证",
+    "url": "https://x.com/frxiaobei/status/2088862509549941028",
+    "summary": "一位用户试用垂直AI后，将答案复制到豆包再问\"这个说法对吗\"，用熟悉工具验证专业工具。专业AI的信任成本即用户的核验成本，答案正确只解决一半问题，还需设计用户走得完的验证路径--先给结论和中文解释，再展开专业证据链。证据价值取决于权威性、相关性及用户能否快速理解核验，否则再多资料也只是产品方的自我证明。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月16日13时36分"
+  },
+  {
+    "id": "cmsvdulch0ey1rosarp96247a",
+    "title": "https://x.com/i/broadcasts/1DGleVXklPDJL",
+    "url": "https://x.com/WorkBuddy_AI/status/2088861248393990606",
+    "summary": null,
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "date": "2026年8月16日13时31分"
+  },
+  {
     "id": "cmsvd0all0ej4rosadktehy1n",
     "title": "DeepSeek V4-Pro 实测：Harness 能否救场",
     "url": "https://x.com/karminski3/status/2088856655534624783",
