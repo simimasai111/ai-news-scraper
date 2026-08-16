@@ -14240,6 +14240,22 @@
     "date": "2026年8月16日1时12分"
   },
   {
+    "id": "cmsvmm4z503f2rovmhp7hzdoa",
+    "title": "LittleLearner：一个只学美国小学课程（K-5）的 LLM 沙盒，研究模型能力边界",
+    "url": "https://littlelearner-ll.github.io/",
+    "summary": "LittleLearner 是一个受控沙盒，用 88B token 的 LittleCurriculum 语料（按 Common Core K-5 标准过滤）从头训练 0.6B / 1.3B / 5B 三个规模模型，并配有未过滤的对照模型。实验发现，扩展规模、SFT+GRPO 后训练和上下文学习都能放大课程内能力，但均无法有效提升超出 K-5 范围的表现，表明预训练过滤决定了模型的能力上限。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月16日17时42分"
+  },
+  {
+    "id": "cmsvmniq603j8rovmxx1oe7iv",
+    "title": "DeepSeek Harness 3天斩获12.2万星",
+    "url": "https://x.com/rohanpaul_ai/status/2088924161959927819",
+    "summary": "DeepSeek Harness 发布3天即获12.2万+ GitHub 星标，成为 GitHub 历史上增长最快的项目之一。该编排层可将模型、工具、存储、调度乃至 UI 全部作为可替换插件，支持将 Claude Code 或 Codex 接入作为子智能体，并采用 MIT 许可。同期 DeepSeek 将缓存命中输入价格提高6至12倍，而缓存输入正是智能体循环的核心消耗。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月16日17时41分"
+  },
+  {
     "id": "cmsvllcx202ysrovmxpna1rih",
     "title": "OpenAI 更新隐私政策，ChatGPT 广告个性化需用户主动开启",
     "url": "https://x.com/testingcatalog/status/2088919317257556359",
