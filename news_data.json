@@ -14248,6 +14248,14 @@
     "date": "2026年8月16日16时5分"
   },
   {
+    "id": "cmsvkibff01ztrovm1v1yzf0x",
+    "title": "西门子测试Qwen与DeepSeek，欧洲企业转向中国开源模型",
+    "url": "https://x.com/rohanpaul_ai/status/2088907820234371546",
+    "summary": "中国开源模型正获欧洲企业青睐，西门子已公开测试Qwen和DeepSeek，在自托管LLM平台配合vLLM运行。本地推理可规避GDPR跨境数据传输限制，但自托管仅在服务器持续满载时优于租用API，且中国是西门子最大市场之一，采用中国模型有助于维持在华业务资格。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月16日16时36分"
+  },
+  {
     "id": "cmsvjdtuw0kudrosa51kxtx3f",
     "title": "ChatGPT 新功能：订阅用户可直接在对话中编辑谷歌云盘文件",
     "url": "https://www.ithome.com/0/990/295.htm",
