@@ -14240,12 +14240,28 @@
     "date": "2026年8月16日1时12分"
   },
   {
+    "id": "cmsvllcx202ysrovmxpna1rih",
+    "title": "OpenAI 更新隐私政策，ChatGPT 广告个性化需用户主动开启",
+    "url": "https://x.com/testingcatalog/status/2088919317257556359",
+    "summary": "OpenAI 正在更新其隐私政策，涉及 ChatGPT 上的广告，提及广告个性化。\n\n> 广告正在扩展到更多地区，且仍仅向免费版和 Go 账户展示。\n\n> 用户若希望使用广告个性化，必须明确选择开启。\n\n> 在某些地区，免费用户仍可选择不看到广告，但消息数量将受到限制。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月16日17时22分"
+  },
+  {
     "id": "cmsvjfqji0l0arosazb8qc3rq",
     "title": "Dario Amodei：AI 5-10 年内可治愈多数疾病",
     "url": "https://x.com/rohanpaul_ai/status/2088899977062051883",
     "summary": "Anthropic CEO Dario Amodei 打破沉默，预测 AI 约 5-10 年内可帮助治愈多数人类疾病，并称 AI 在结构上天然趋向权力集中，与监管无关。他主张监管应放缓前沿 AI 实验室、给小型挑战者追赶空间，并支持对前沿模型进行部署前测试。他认为开源权重无法解决集中问题，因算力与芯片仍稀缺，AI 公司需以真实突破而非营销赢得公众信任。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月16日16时5分"
+  },
+  {
+    "id": "cmsvlko5102uwrovmf3akwq9y",
+    "title": "Amodei与Baker激辩AI监管与权力集中",
+    "url": "https://x.com/kimmonismus/status/2088913258937762016",
+    "summary": "Anthropic CEO Dario Amodei与Gavin Baker就AI监管展开辩论。Amodei认为AI本身就会集中权力，主张对最大开发者施以更严规则并设立FINRA式监管机构；Baker则指合规固定成本利好巨头，且灾难叙事助长反数据中心运动。Amodei否认言论失衡，称其文章风险与益处论述均衡，并坚信5-10年内可治愈多数人类疾病。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月16日16时58分"
   },
   {
     "id": "cmsvkibff01ztrovm1v1yzf0x",
