@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmswdg3g90q4wrovm3jm6jo5d",
+    "title": "Claude 宕机，Grok 正常运行",
+    "url": "https://x.com/cb_doge/status/2089110820785647818",
+    "summary": "Claude 宕机了。\n\nGrok 正常运行。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月17日6时3分"
+  },
+  {
+    "id": "cmswdg8mr0q6jrovmp25juz6f",
+    "title": "AI 递归自我进化将终结人类智能巅峰时代",
+    "url": "https://x.com/rohanpaul_ai/status/2089110535719797086",
+    "summary": "前谷歌高管 Mo Gawdat 指出，AI 正从学习人类发明的数学转向发明人类可学习的数学，人类作为顶级智能的时代即将结束。AI 已能通过递归自我发展不断改进自身方法，一旦机器能自主迭代优化，技术进步速度将远超人类正常科研节奏。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日6时2分"
+  },
+  {
+    "id": "cmswdg3g90q4vrovmouqebiik",
+    "title": "Grok 4.6 登顶 VISTA 基准测试",
+    "url": "https://x.com/cb_doge/status/2089115693770035704",
+    "summary": "Grok 4.6 在 VISTA 基准测试中正式排名第一！🥇\n\n它在将 Figma 设计转化为可运行网页应用方面获得了最高分，超越了 GPT-5.6-sol 和 Claude fable-5。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月17日6时22分"
+  },
+  {
     "id": "cmswcq8aa0puarovm5z6lkbu4",
     "title": "中英AI圈关注点差异与DGX Spark融合趋势",
     "url": "https://x.com/dongxi_nlp/status/2089104958075367603",
@@ -13870,6 +13894,14 @@
     "summary": "Stripe 已敲定以超 70 亿美元收购 AI 公司 OpenRouter 的协议。此前《华尔街日报》曾报道谈判价约为 100 亿美元，最终成交价低于该传闻。对 Stripe 而言这是一场重大胜利。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月17日5时33分"
+  },
+  {
+    "id": "cmswdevr30q2qrovmeim57kji",
+    "title": "OpenAI 据报道解散了其 preparedness 团队",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "summary": "据英国《金融时报》报道，OpenAI 上月底解散了其 preparedness 团队，该团队此前负责评估模型是否构成严重风险并制定缓解措施。相关职责被拆分至生物、网络等具体领域，并并入现有团队。这是该公司在筹备大规模 IPO 期间的最新变动。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月17日5时32分"
   },
   {
     "id": "cmswbaw830nn8rovm9er4lrqn",
