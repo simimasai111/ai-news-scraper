@@ -14240,6 +14240,38 @@
     "date": "2026年8月16日1时12分"
   },
   {
+    "id": "cmsvjfqji0l0arosazb8qc3rq",
+    "title": "Dario Amodei：AI 5-10 年内可治愈多数疾病",
+    "url": "https://x.com/rohanpaul_ai/status/2088899977062051883",
+    "summary": "Anthropic CEO Dario Amodei 打破沉默，预测 AI 约 5-10 年内可帮助治愈多数人类疾病，并称 AI 在结构上天然趋向权力集中，与监管无关。他主张监管应放缓前沿 AI 实验室、给小型挑战者追赶空间，并支持对前沿模型进行部署前测试。他认为开源权重无法解决集中问题，因算力与芯片仍稀缺，AI 公司需以真实突破而非营销赢得公众信任。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月16日16时5分"
+  },
+  {
+    "id": "cmsvjdtuw0kudrosa51kxtx3f",
+    "title": "ChatGPT 新功能：订阅用户可直接在对话中编辑谷歌云盘文件",
+    "url": "https://www.ithome.com/0/990/295.htm",
+    "summary": "OpenAI 为 ChatGPT 订阅用户推出新功能，可直接将谷歌云盘文件添加到资料库，并在聊天中完成编辑、问答和摘要生成，无需在 ChatGPT 与 Google Drive 间频繁切换。本周还新增互动测验工具，可按主题生成选择题，并集成 Yelp 提供餐厅预订与推荐服务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日16时1分"
+  },
+  {
+    "id": "cmsvjfxdm0l1orosaczuldimf",
+    "title": "OpenAI 解散\"Preparedness\"团队，其灾难性 AI 风险评估工作被拆分至其他部门",
+    "url": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups",
+    "summary": "OpenAI 于 7 月底解散了评估 AI 模型是否构成严重或灾难性风险的\"Preparedness\"团队，其生物与网络风险相关工作已分配给现有团队。前负责人 Dylan Scandinaro 现聚焦于\"递归自我改进\"AI 的安全风险，联合创始人 Greg Brockman 称安全已更紧密融入模型开发。近期多名安全人员离职，内部不安情绪加剧。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月16日16时12分"
+  },
+  {
+    "id": "cmsvject00kwmrosa7zrsipnd",
+    "title": "软件工程的基础知识为何比智能体炒作更重要",
+    "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever",
+    "summary": "作者认为，智能体工程的热潮掩盖了软件工程的核心：可调试、可维护、分层、可组合的代码仍依赖深思熟虑的推理，而这正是当前LLM的短板。LLM本质是预测而非推理，且无法区分好坏建议，存在提示注入等根本性缺陷。开源权重模型正让个人电脑具备相近能力，但工程的关键仍在于选择正确的抽象和管理认知负荷。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月16日15时50分"
+  },
+  {
     "id": "cmsvid43h0k2arosabrznzijs",
     "title": "Qwen3.8-27B 笔记本运行获 Atomic Chat 支持",
     "url": "https://x.com/Alibaba_Qwen/status/2088891548507492646",
