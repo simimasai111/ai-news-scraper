@@ -14216,6 +14216,30 @@
     "date": "2026年8月16日21时7分"
   },
   {
+    "id": "cmsvvnjj20bgarovmgjxa38bb",
+    "title": "洪明周刊第108期：AI智能体工程现场六主线",
+    "url": "https://x.com/hongming731/status/2088987045561770452",
+    "summary": "洪明发布第108期周刊，聚焦AI智能体工程现场，沿执行模型、Harness、质量与评测、多智能体与权限、路由与缓存、执行层新边界六条主线展开。内容承接此前关于判断力、验证边界、「1% 法则」和个人AGI的讨论，深入具体工程实践。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月16日21时51分"
+  },
+  {
+    "id": "cmsvvnjj20bgbrovm589s6yo1",
+    "title": "BestBlogs 周刊：智能执行层全景解析",
+    "url": "https://x.com/hongming731/status/2088986802971693453",
+    "summary": "BestBlogs 第108期周刊聚焦AI智能体执行层，Grok 4.6、DeepSeek V4 Pro、Gemini 3.7 Flash均优化长程Agent能力。DeepSeek开源插件化Harness v0.1，OpenAI公开Codex Harness机制。周刊从执行模型、Harness、评测、多智能体、路由缓存等六条主线，剖析模型如何稳定完成任务。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月16日21时50分"
+  },
+  {
+    "id": "cmsvv88dt0as5rovmmke1mtbz",
+    "title": "开源数据训练应限期开源模型：Naval 对话摘录",
+    "url": "https://x.com/rohanpaul_ai/status/2088980361359360352",
+    "summary": "Naval 在播客中提出，若 AI 公司（如 Anthropic/OpenAI）使用开放网络数据训练，应被要求在 12 个月后开源其模型。他直言 Anthropic 一边渲染 AI 末日风险一边闭源开发，如同\"牧师独占上帝解释权\"，并认为政府应推动此类开源要求。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月16日21时25分"
+  },
+  {
     "id": "cmsvu3oub0a2trovm6i5w8q7t",
     "title": "莫言谈 AI 写作：只能在前人作品上拼凑，再好也写不出《岳阳楼记》《滕王阁序》",
     "url": "https://www.ithome.com/0/990/381.htm",
