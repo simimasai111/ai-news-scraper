@@ -14240,6 +14240,38 @@
     "date": "2026年8月16日1时12分"
   },
   {
+    "id": "cmsvg7xy30iitrosaivq0ta6e",
+    "title": "通义千问开源模型全球下载量破30亿",
+    "url": "https://x.com/Alibaba_Qwen/status/2088881015855182122",
+    "summary": "阿里巴巴通义千问（Qwen）开源模型全球下载量突破30亿次。据彭博社报道，过去六个月其下载量已超越Meta、谷歌及国内同行，成为全球下载量第一的AI模型。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月16日14时50分"
+  },
+  {
+    "id": "cmsvg7xy40iiurosax30931bu",
+    "title": "Qwen3.8-27B登顶Hugging Face热榜",
+    "url": "https://x.com/Alibaba_Qwen/status/2088876951041941792",
+    "summary": "非常感谢整个社区！Qwen3.8-27B 现已成为 Hugging Face 上排名第一的热门模型！🏆 欢迎试用并告诉我们你的想法。🤗",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月16日14时34分"
+  },
+  {
+    "id": "cmsvf3j5b0hrsrosa6oohsgf8",
+    "title": "万亿IPO前夜的OpenAI：高管争夺奥尔特曼注意力",
+    "url": "https://www.ithome.com/0/990/278.htm",
+    "summary": "OpenAI在筹备估值或达1万亿美元的IPO之际，今年已进行近六次重组，首席营收官等多位高管接连离职，内部政治博弈激烈。公司年化营收从去年底240亿美元增至本月约400亿美元，但宿敌Anthropic同期从90亿美元飙升至470亿美元。OpenAI将离职潮解释为IPO前精简流程的一部分，IPO大概率推迟至明年。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日14时21分"
+  },
+  {
+    "id": "cmsvf3h120hrorosafu5blwms",
+    "title": "反驳\"全塞进AGENTS.md\"：Skills是管理臃肿的工具",
+    "url": "https://x.com/AYi_AInotes/status/2088871053921526028",
+    "summary": "针对\"Skills是bloat、应全塞进AGENTS.md\"的流行建议，多位AI从业者指出其误区。Skills采用渐进式披露，仅按需加载完整内容，而AGENTS.md每次会话全量加载。全塞进AGENTS.md会导致token成本高、关键指令被稀释及不可维护。适用边界仅在极简个人工具，多工作流场景应分层使用。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月16日14时10分"
+  },
+  {
     "id": "cmsvefhu30hk1rosachzakuko",
     "title": "DeepSeek Harness：事实有据，权限有度",
     "url": "https://x.com/dongxi_nlp/status/2088868591881871856",
@@ -14262,6 +14294,14 @@
     "summary": "OpenAI 的 token 与其他模型不等价，每百万 token 价格对比会误导决策。GPT-5.6 Sol 的分词器在测试中仅用 766 个 token，而 Claude Opus 5 需约 1，170 个，少 34.5%。真正该比较的是每次成功结果的价格，而非单价。",
     "source": "X：Tibo (@thsottiaux)",
     "date": "2026年8月16日13时52分"
+  },
+  {
+    "id": "cmsvf5k7m0hy2rosaz5umu2wx",
+    "title": "Artificial Analysis 推出 Optima：让用户用自有数据构建定制 AI 基准测试",
+    "url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data",
+    "summary": "Artificial Analysis 发布新平台 Optima，允许用户基于自有数据、工作流或场景描述构建定制 AI 基准测试，并对比模型在质量、单任务成本和单任务耗时上的表现。平台支持上传评估数据集或智能体轨迹，也可通过描述场景生成测试用例，提供基于评分标准或两两对比两种评估方式。Optima 现已上线，基准构建与运行仅按实际 token 成本计费，无加价。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月16日13时50分"
   },
   {
     "id": "cmsve2kkx0f28rosaf6dze0ug",
