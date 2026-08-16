@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsv4dn9t088trosapiayrtab",
+    "title": "第二届世界人形机器人运动会新增跳远、举重、拔河等项目，2056台机器人参赛",
+    "url": "https://www.ithome.com/0/990/230.htm",
+    "summary": "第二届世界人形机器人运动会正赛将于8月22日至26日在国家速滑馆举行，设51个项目共1301场比赛，666支队伍携2056台机器人参赛，队伍数量较首届增长138%。本届新增跳远、举重、拔河、乒乓球等高强度对抗项目，并设置夹豆子、拧螺丝等8个灵巧手\"微操\"赛项。赛事吸引来自六大洲16个国家的队伍，国内157家企业、200所院校和科研机构参赛。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月16日9时4分"
+  },
+  {
+    "id": "cmsv3s81d085erosaxddj0kdu",
+    "title": "全球三大模型防蒸馏机制告破",
+    "url": "https://x.com/hongming731/status/2088787404975231264",
+    "summary": "116页论文证实Anthropic、OpenAI、Google的API存在密码学旁路漏洞，可将加密推理包注入同厂轻量模型并越狱，使其逐字转录隐藏思维链，解码1万条成本约720美元。研究还发现Kimi-K3复现Opus推理概率较其他模型高约百万倍，但作者强调不足以直接证明蒸馏。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月16日8时38分"
+  },
+  {
+    "id": "cmsv3s81d085frosawoexxbdx",
+    "title": "三大模型加密思维链被旁路转录",
+    "url": "https://x.com/hongming731/status/2088787323773448291",
+    "summary": "MATS 研究员领衔的 116 页论文证实，Anthropic、OpenAI、Google 的 API 存在密码学旁路漏洞：攻击者将加密推理包注入同厂轻量模型并越狱后，可逐字转录旗舰模型的隐藏思维链。按 Haiku 4.5 价格估算，解码 1 万条思维链约 720 美元。除 Anthropic 的 Fable 5 外，Claude、GPT-5.6、Gemini 全系均受影响。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月16日8时38分"
+  },
+  {
     "id": "cmsv28ffl06o0rosai99w9ngm",
     "title": "女子加入针对 SpaceXAI 的诉讼：继父利用 Grok 将其 11 岁照片加工成 7000 多张色情图像",
     "url": "https://www.ithome.com/0/990/221.htm",
