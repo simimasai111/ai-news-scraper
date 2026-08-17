@@ -14400,6 +14400,14 @@
     "date": "2026年8月17日1时11分"
   },
   {
+    "id": "cmsx34c9y0139ro32qxuktom5",
+    "title": "第二届世界人形机器人运动会模拟消防救援比赛：23支队伍参赛，仅3支完成全部挑战",
+    "url": "https://www.ithome.com/0/990/768.htm",
+    "summary": "8月16日，第二届世界人形机器人运动会在北京举行模拟消防救援比赛，23支队伍参赛，重点检验机器人在复杂现实环境中的实际作业能力。每台机器人需在30分钟内完成识别危险物质、关闭阀门和扑灭火源三项任务，当日12支参赛队伍中仅3支完成全部挑战。比赛暴露出降雨、光线变化和室外条件对视觉识别与机械操作的干扰，遥操作和全向轮等方案仍被部分队伍采用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日18时5分"
+  },
+  {
     "id": "cmsx0z5h602seroq4u4vymggm",
     "title": "阿里 AI 音乐模型\"快乐虾米\"HappyShrimp 1.0 上线，号称人人都能写出好听的歌",
     "url": "https://www.ithome.com/0/990/721.htm",
@@ -14414,6 +14422,14 @@
     "summary": "DeepSeek 发布 DeepSeek Harness v0.1 开发者预览版，以 MIT 许可开源，项目名为 dsh。该框架基于 Cordis 内核，将模型、工具、技能、会话、沙箱、存储、循环、调度和 UI 均设计为可替换插件，支持 Standard、Code、Minimal、Creator 四种运行模式。",
     "source": "MarkTechPost（RSS）",
     "date": "2026年8月17日17时6分"
+  },
+  {
+    "id": "cmsx34c9y013aro3296todql5",
+    "title": "谷歌 Pixel 手机新功能曝光：用 Gemini Nano 分析电池使用情况",
+    "url": "https://www.ithome.com/0/990/762.htm",
+    "summary": "Android 17 QPR 2 Beta 3 代码字符串显示，谷歌正为 Pixel 开发全新电池使用状况页面，可分析用户 14 天内实际使用的 App，并调用 Gemini Nano 端侧模型生成电池摘要与个性化续航建议。该功能目前无法打开，且因依赖 Gemini Nano，Pixel 8 以前的机型可能无法使用，或将在未来 Pixel Drop 中上线。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日17时57分"
   },
   {
     "id": "cmsx23q1h03omroq4sdforf4u",
