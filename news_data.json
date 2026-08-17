@@ -14400,12 +14400,68 @@
     "date": "2026年8月17日1时11分"
   },
   {
+    "id": "cmswwosx406dvrox7kqptkqjt",
+    "title": "宇树\"超人\"机器人跳高跑速双超人类纪录",
+    "url": "https://x.com/AYi_AInotes/status/2089247655494902075",
+    "summary": "宇树发布新机器人\"超人\"，立定跳高 2 米、极限速度 12.66 米/秒（腿长 0.85 米），两项均超人类纪录（人类立定跳高约 1.8 米，博尔特峰值约 12.42 米/秒）。该整机研发仅 3 个多月，被指复用 H1/G1 平台，宇树刚完成科创板 IPO 定价（估值 610 亿）。但官方称系极端测试，重量、续航等关键参数未公布，尚无第三方独立验证。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月17日15时7分"
+  },
+  {
+    "id": "cmswx01ct06msrox792hvx77l",
+    "title": "火山引擎飞连升级AI办公安全能力，覆盖Agent与AI网站全链路防护",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543513&idx=1&sn=e3401a66a333f988a5c02215917ed973",
+    "summary": "火山引擎飞连升级AI办公安全能力，针对Work Agent、Coding Agent、AI网站等工具提供AI资产可视、使用治理、运行保护和数据防泄露，实现从风险发现到追溯的全链路防护。",
+    "source": "公众号：火山引擎",
+    "date": "2026年8月17日15时29分"
+  },
+  {
+    "id": "cmswwqt5n06jnrox7g9olny6c",
+    "title": "百度发布库库AI，GenFlow月活破亿",
+    "url": "https://x.com/Baidu_Inc/status/2089250587422720123",
+    "summary": "认识库库AI（Kuku AI），GenFlow 的官方中文名，在百度 AI Day 上正式公布 ✨\n\nGenFlow 四月月活跃用户突破 1 亿，其职场 AI 工具月活跃用户已达 2500 万以上。\n\n为满足快速增长的工作场景 AI 需求，GenFlow 正推出桌面版和网页版，以及企业版，将通用 AI 带入专业工作流程。",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月17日15时18分"
+  },
+  {
+    "id": "cmswwosqn06derox7y9hqblwo",
+    "title": "国家统计局：前 7 个月我国工业机器人产量同比增长 28.5%",
+    "url": "https://www.ithome.com/0/990/641.htm",
+    "summary": "国家统计局新闻发言人付凌晖在国新办发布会上表示，今年 1 至 7 月份我国工业机器人产量同比增长 28.5%，3D 打印设备、锂离子电池产量同比分别增长 52.3%、40.2%。同期全国规模以上工业增加值同比增长 5.3%。IDC 数据显示，2025 年中国工业具身智能机器人市场规模约 57.4 亿元，其中以工业机器人为载体的具身智能应用市场规模约 36.2 亿元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日15时16分"
+  },
+  {
     "id": "cmswulkwe04rhrox77bv9wgof",
     "title": "各AI智能体如何获得专属电脑",
     "url": "https://x.com/emollick/status/2089233231853785118",
     "summary": "有意思的是，目前正在探索如何给 AI 一台电脑的各种实验：Codex 和 Claude Code 使用你的本地机器，ChatGPT Work 在网页端运行（Claude 和 ChatGPT 也是如此），给 AI 一台在线的一次性机器，用后即重置，而 Grokbot 则给每个 AI 智能体一台持久化的网络机器。",
     "source": "X：Ethan Mollick (@emollick)",
     "date": "2026年8月17日14时9分"
+  },
+  {
+    "id": "cmswwosqn06dgrox7qf83udcm",
+    "title": "蚂蚁集团 CEO 韩歆毅：智能体商业将在未来 6-12 个月爆发",
+    "url": "https://www.ithome.com/0/990/636.htm",
+    "summary": "蚂蚁集团 CEO 韩歆毅在支付宝 AI 生态合作伙伴大会上表示，智能体商业将在未来 6-12 个月爆发。他认为这一临界点基于三大条件同时成熟：AI 技术能力演进、需求跃迁以及可持续的价值闭环，其中智能体推理、执行、工具调用能力成熟，长程复杂任务能力持续加强。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日14时59分"
+  },
+  {
+    "id": "cmswvoiqg05hirox7ojghk3bt",
+    "title": "Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion",
+    "url": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion",
+    "summary": null,
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月17日14时49分"
+  },
+  {
+    "id": "cmswwosqn06dhrox7e78x05nt",
+    "title": "TrendForce：液冷散热成高端 AI 基础设施标配，预估 2026 年渗透率可达 53%",
+    "url": "https://www.ithome.com/0/990/633.htm",
+    "summary": "TrendForce 集邦咨询预估，液冷于 AI 芯片的渗透率将从 2025 年约 33% 上升至 2026 年 53%，成为高端 AI 基础设施标准配置。英伟达、AMD 等芯片方案已全面采用液冷，谷歌在 CSP 中率先导入，覆盖其 AI 服务器比例超 80%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日14时47分"
   },
   {
     "id": "cmswuuvg804w4rox79u0y33jg",
@@ -14677,6 +14733,14 @@
     "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653159565&idx=1&sn=d47f1498bc952ebceeb018075410239c",
     "summary": null,
     "source": "公众号：百度智能云（文心）",
+    "date": "2026年8月17日10时0分"
+  },
+  {
+    "id": "cmswwbtq806c0rox7mnotg5wl",
+    "title": "Kimi熹妃回宫",
+    "url": "https://elsewhere.news/zh/funeralai/kimi-1786944734501",
+    "summary": null,
+    "source": "elsewhere：文章（RSS）",
     "date": "2026年8月17日10时0分"
   },
   {
