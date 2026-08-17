@@ -14344,6 +14344,94 @@
     "date": "2026年8月17日2时33分"
   },
   {
+    "id": "cmsxaoe2402ywrobnbrmx0fot",
+    "title": "AI 如何重新定义艺术与创作门槛",
+    "url": "https://x.com/frxiaobei/status/2089349801020457420",
+    "summary": "AI 同时抹平了文字、绘画、音乐、视频、3D 乃至虚拟世界的生产门槛，把过去属于少数专业创作者的表现能力大规模发给普通人。当画面、文字、声音、角色甚至世界本身都不再稀缺，艺术竞争将从\"谁做得更好\"转向\"谁能提出一种以前不存在的表达\"。AI 真正应催生的，是一种今天还没有名字、甚至不知该如何欣赏的新艺术形态。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月17日21时53分"
+  },
+  {
+    "id": "cmsxaoijy0312robn8ivonx2g",
+    "title": "中国开源模型倒逼美企加码分销竞争",
+    "url": "https://x.com/rohanpaul_ai/status/2089348578288574830",
+    "summary": "中国开源权重模型正迫使美国AI企业在分销上更激烈地竞争。\n\n中国在模型层价格和分销上施压最大，而美国企业则试图保持其在算力、基础设施和产品方面的优势。\n\n中国开源权重对模型层定价权的威胁，比其对美国稀缺算力基础设施控制权的威胁更为直接。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日21时48分"
+  },
+  {
+    "id": "cmsxaodqn02ymrobnti5e61kn",
+    "title": "NVIDIA 从卖铲人到建矿场，锁定长期需求",
+    "url": "https://x.com/kimmonismus/status/2089347978410480020",
+    "summary": "tl；dr NVIDIA 不再只是\"卖铲子和铁锹\"。它正在帮助建造矿场，并为其基础设施锁定未来几代人的需求。事态发展颇为有趣。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月17日21时45分"
+  },
+  {
+    "id": "cmsxaoioz0318robnxim98le5",
+    "title": "面壁 MiniCPM5-1B 驱动农业土壤健康分析",
+    "url": "https://x.com/OpenBMB/status/2089347761494016030",
+    "summary": "开发者 @RightSideOfAI 基于面壁智能 MiniCPM5-1B 构建开源 AI 管线 AUGURY，将杂草观测转化为土壤健康洞察。该系统结合 DINOv2+FAISS 检索、含 2，230 物种的知识库及 MiniCPM5-1B LoRA 微调，实现不产生幻觉的对话式分析。模型经 GGUF Q4_K_M 量化后仅约 660MB，支持手机端离线推理。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月17日21时44分"
+  },
+  {
+    "id": "cmsxaoijy0313robnc7inkyy5",
+    "title": "OpenAI 获英伟达支持签 8GW 俄亥俄数据中心租约",
+    "url": "https://x.com/rohanpaul_ai/status/2089346221890765252",
+    "summary": "OpenAI 与 SB Energy 签署俄亥俄州 8GW 数据中心租约，英伟达将投资 15 亿美元并提供信贷支持，该园区将独家部署英伟达 AI 算力。首期 800MW 预计 2028 年投运，项目还需新建 9.2GW 燃气发电和 42 亿美元电网升级。英伟达通过担保园区残值（潜在支付高达 1050 亿美元）降低 SB Energy 融资成本，以拉动自身芯片销售。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日21时38分"
+  },
+  {
+    "id": "cmsxaov14032orobntjxxuk8r",
+    "title": "AI video market has bounced back from Sora's false start",
+    "url": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start",
+    "summary": null,
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月17日21时29分"
+  },
+  {
+    "id": "cmsxaoijy0314robnnj73nmd3",
+    "title": "中国自研EUV原型机逼近光刻突破",
+    "url": "https://x.com/rohanpaul_ai/status/2089343216642625874",
+    "summary": "中国在深圳建成自研EUV光刻原型机，可产生EUV光但尚不能制造芯片，精密光学仍是最难瓶颈。该原型机由前ASML工程师参与、部件来自旧设备。ASML称可定位其全部340台EUV机器，但零部件供应链追踪不足。中国现有DUV光刻机配合多重曝光技术，已可绕开EUV制造先进逻辑芯片。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日21时26分"
+  },
+  {
+    "id": "cmsx9lwda0640rommz4nn5jxh",
+    "title": "Seedance 2.5 演示：角色与镜头跨镜头一致",
+    "url": "https://x.com/PixVerse_/status/2089336746723233997",
+    "summary": "他在自由女神像上拍了张自拍，然后荡过曼哈顿。\n\n这段 27 秒的 Seedance 2.5 演示，让角色和镜头运动在镜头间保持一致。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月17日21时1分"
+  },
+  {
+    "id": "cmsx9jy2a05y9rommsonusxhr",
+    "title": "OpenAI 总裁布罗克曼回应高管流失潮：其实没那么反常",
+    "url": "https://www.ithome.com/0/990/826.htm",
+    "summary": "OpenAI 总裁格雷格·布罗克曼淡化外界对高管接连离职的担忧，称公司一直处于聚光灯下，每次有人离职都会受到更多审视。上周首席营收官丹尼斯·德雷瑟入职仅 8 个月即离任，资深高管布拉德·莱特卡普也结束 8 年任期；OpenAI 随后任命前 Wiz 首席运营官达利·拉伊奇接任首席营收官。公司正筹备 IPO，需向投资者证明 8，520 亿美元估值的合理性。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日21时19分"
+  },
+  {
+    "id": "cmsx9klyw0601rommln4648p6",
+    "title": "Wispr 获 2.8 亿美元 B 轮融资，估值 20 亿美元，业务拓展至会议记录",
+    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation",
+    "summary": "Wispr 宣布完成由 Menlo Ventures 领投的 2.8 亿美元 B 轮融资，估值达 20 亿美元，累计融资额升至 3.61 亿美元。公司同步推出名为 Canto 的新模型，可将 Wispr Flow 听写输出的错误率从 30% 降至 10% 以下，并发布会议记录工具，与 Granola、Fireflies 等产品竞争。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月17日21时10分"
+  },
+  {
+    "id": "cmsx9lwma0648rommjgn94zg5",
+    "title": "面壁 MiniCPM5-1B 驱动 AUGURY 解读土壤健康",
+    "url": "https://x.com/OpenBMB/status/2089336452635303970",
+    "summary": "开发者 @RightSideOfAI 基于面壁智能 MiniCPM5-1B 构建开源 AI 管线 AUGURY，将杂草观测转化为土壤健康洞察。该系统结合 DINOv2+FAISS 检索、含 2，230 物种的知识库及 MiniCPM5-1B LoRA 微调，不产生幻觉，仅将已验证知识转化为对话式土壤报告。AUGURY 支持 GGUF Q4_K_M 量化（约 660MB），可实现手机端离线推理。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月17日21时0分"
+  },
+  {
     "id": "cmsx8j8nz051cromm1ic2vqhb",
     "title": "政治竞选中的AI采用率显著上升",
     "url": "https://x.com/emollick/status/2089334464232968679",
@@ -14376,12 +14464,36 @@
     "date": "2026年8月17日20时38分"
   },
   {
+    "id": "cmsx9jvre05y6romms3bo1umb",
+    "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
+    "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+    "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月17日20时34分"
+  },
+  {
     "id": "cmsx8j73h0502rommcq9wj70o",
     "title": "用户惊呼：ChatGPT 快停下！",
     "url": "https://x.com/kimmonismus/status/2089328388561342482",
     "summary": "抱歉，什么？！\n\n这到底是什么鬼…？！",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月17日20时28分"
+  },
+  {
+    "id": "cmsx9jy2a05ydromm1tp1u9a0",
+    "title": "华为乾崑智驾车位到车位累计使用次数突破 1 亿次",
+    "url": "https://www.ithome.com/0/990/813.htm",
+    "summary": "华为乾崑智驾车位到车位累计使用次数突破 1 亿次，辅助泊车累计使用突破 10 亿次。乾崑智驾累计辅助驾驶里程已突破 141 亿公里，搭载乾崑智驾车辆累计行驶总里程突破 406 亿公里。7 月安全出行报告显示，月度辅助驾驶里程突破 10.6 亿公里，辅助驾驶月活用户达 94.7%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日20时28分"
+  },
+  {
+    "id": "cmsx9jy2a05yerommy1e0jc6t",
+    "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+    "url": "https://www.ithome.com/0/990/812.htm",
+    "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日20时25分"
   },
   {
     "id": "cmsx7gqzq04dxrommt363urzt",
