@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsxls1d9047troz0bysckhzo",
+    "title": "Replit 应用新增黑盒渗透测试功能",
+    "url": "https://x.com/Replit/status/2089427187162083785",
+    "summary": "你现在可以为 Replit 应用运行黑盒渗透测试了。\n\n这些安全扫描会以外部攻击者的方式测试你的 Replit 应用。\n\nReplit Agent 可以一键修复扫描发现的问题。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月18日3时0分"
+  },
+  {
     "id": "cmsxkbpcm032broz0bddl8qqy",
     "title": "Grok 应用新增 Grok Bot 快捷入口",
     "url": "https://x.com/cb_doge/status/2089413919417024816",
@@ -13856,12 +13864,92 @@
     "date": "2026年8月18日2时7分"
   },
   {
+    "id": "cmsxld6es03o8roz0jblf3ii9",
+    "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+    "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日2时46分"
+  },
+  {
+    "id": "cmsxl9ouy03mjroz0wkuysqol",
+    "title": "GLM-5.3 上线 WorkBuddy 可设为常用模型",
+    "url": "https://x.com/WorkBuddy_AI/status/2089422597264212039",
+    "summary": "@Zai_org 的 GLM-5.3 现已上线 WorkBuddy。\n\n将其设为首选模型，即可投入使用。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "date": "2026年8月18日2时42分"
+  },
+  {
+    "id": "cmsxleatz03qaroz0g0679jz5",
+    "title": "MiniMax H3 本地视频生成资源与实测分享",
+    "url": "https://x.com/MiniMax_AI/status/2089421390374138178",
+    "summary": "MiniMax 官方分享了用 H3 模型在 RTX 4090（24GB）上本地生成视频的实用资源，并引用了 @Lumosous 的实测体验：通过 ComfyUI 实现文生视频、音乐节拍同步和图生视频三种玩法，官方 H3 Prompt Writing Skill 可把想法转为结构化提示词。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月18日2时37分"
+  },
+  {
+    "id": "cmsxleemw03rwroz0vc8lq8m1",
+    "title": "MiniMax 发布 MiniMax-Music3：开源权重音乐模型，从歌词与结构化描述生成完整五分钟歌曲",
+    "url": "https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3",
+    "summary": "MiniMax 发布开源权重文本转音乐模型 MiniMax-Music3，输入带段落标签的歌词和详细音乐描述，单次生成最长五分钟的 32 kHz、16-bit 立体声 WAV 歌曲。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月18日2时36分"
+  },
+  {
+    "id": "cmsxleatz03qbroz09n0vlyq8",
+    "title": "MiniMax H3 视频模型助力游戏精灵创建",
+    "url": "https://x.com/MiniMax_AI/status/2089420340728610890",
+    "summary": "MiniMax 称其 SOTA 视频生成模型 H3 能精准理解行走角色动作，而最新图像生成模型仍难保持行走动作一致。引用推文展示了 H3 用于游戏精灵创建的工作流：单张角色设计图配纯品红背景，每个动作生成 5 秒 H3 片段，裁剪至姿态极限并抠像打包成精灵图集，接入状态机即可游玩（8 个动作约 $5）。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月18日2时33分"
+  },
+  {
+    "id": "cmsxld6n503oaroz0m9df2n3s",
+    "title": "LLM代码模型超越扩散模型成趋势",
+    "url": "https://x.com/omarsar0/status/2089418707202084991",
+    "summary": "至少可以说，LLM 在代码方面的强大能力在解锁通用能力上表现得如此出色，这多少有些令人意外。\n\n扩散模型很快也会有它的高光时刻，但我预计 LLM 会继续进步并实现超越。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月18日2时26分"
+  },
+  {
+    "id": "cmsxledjs03ruroz0s5sntq9e",
+    "title": "Groq 完成 3.5 亿美元融资，估值腰斩至 35 亿",
+    "url": "https://x.com/rohanpaul_ai/status/2089418286941569249",
+    "summary": "Groq 宣布完成 3.5 亿美元 A 轮融资，估值 35 亿美元，约为 2025 年 9 月 69 亿美元估值的一半。新估值反映的是与 NVIDIA 达成授权交易后的公司状况，原业务中的芯片、LPU 技术及创始人 Jonathan Ross 等已并入 NVIDIA。Groq 的优势不再依赖该架构的独家控制，而更取决于其云服务能否持续提供更优的延迟和成本效益。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日2时25分"
+  },
+  {
+    "id": "cmsxkbsgq0345roz09xiurngm",
+    "title": "英伟达担保1050亿美元助OpenAI建数据中心",
+    "url": "https://x.com/rohanpaul_ai/status/2089412341721153910",
+    "summary": "英伟达同意为OpenAI在俄亥俄州由软银旗下SB Energy开发的大型数据中心提供最高1050亿美元的租赁付款担保。SB Energy将拥有并运营该设施，OpenAI租赁算力，英伟达供应AI计算设备。OpenAI对英伟达芯片的支出预计到2030年累计约6000亿美元算力。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日2时1分"
+  },
+  {
+    "id": "cmsxkbpkd032hroz0r1tzb4lu",
+    "title": "Grok 4.6 跻身医疗 AI 指数前三",
+    "url": "https://x.com/elonmusk/status/2089416747720061154",
+    "summary": "Grok 4.6 在 Artificial Analysis Healthcare & Medical Index 中跻身前三，（high） 档得分 50，距最高分 51 仅差 1 分，超越 GPT-5.6 Sol、Kimi K3 和 Gemini 3.7 Flash。该指数评估模型在医疗知识、临床推理、患者文档、非幻觉及智能体工作流方面的实际表现。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月18日2时19分"
+  },
+  {
     "id": "cmsxkale10306roz09mzje37l",
     "title": "LLM编码模型或优于扩散模型",
     "url": "https://x.com/trq212/status/2089415712007938315",
     "summary": "最近所有的程序化生成艺术、视频编辑和3D游戏演示，让我更新了看法--LLM编码模型在大量创意工作上比扩散模型更出色。",
     "source": "X：Thariq (@trq212)",
     "date": "2026年8月18日2时14分"
+  },
+  {
+    "id": "cmsxkc5e5035mroz0ev5qge2y",
+    "title": "隐藏 Airtag 追踪显示亚马逊正在销毁珍本图书以训练 AI",
+    "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+    "summary": "404 Media 调查发现，书商在珍本图书中植入 Airtag，追踪到亚马逊位于拉斯维加斯的 AI 训练设施 VGT3，该团队将书籍拆解并扫描页面。亚马逊拒绝就此事置评，仅称通过商业渠道购书以改进产品。调查还证实了书商理论：AI 公司按 ISBN 清单系统扫描图书，且亚马逊曾因图书供应短缺而担忧仓库关闭。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月18日2时13分"
   },
   {
     "id": "cmsxkalem0308roz0mgl3htik",
