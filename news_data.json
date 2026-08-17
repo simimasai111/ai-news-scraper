@@ -13848,12 +13848,76 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsxny9ol05yiroz0d334di98",
+    "title": "Sakana Namazu 登陆 OpenRouter，基于 Kimi K2.6",
+    "url": "https://x.com/OpenRouter/status/2089442143010189812",
+    "summary": "Sakana AI 的 Sakana Namazu 已在 OpenRouter 上线。\n\nSakana Namazu 基于 Kimi K2.6 构建，是一款专业模型，将深厚的日本文化理解与高性能推理能力相结合，并整合了网络搜索与代码执行，以处理业务场景中的复杂任务。\n\nhttps://openrouter.ai/sakana/sakana-namazu",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月18日4时0分"
+  },
+  {
+    "id": "cmsxnjgiv059aroz0pql2kquw",
+    "title": "Anthropic 年化收入达 650 亿美元，超 7 倍增长",
+    "url": "https://x.com/kimmonismus/status/2089440269762445635",
+    "summary": "Anthropic 年化收入截至 7 月底达 650 亿美元，是 2025 年底运行率的 7 倍多。最新季度收入超 115 亿美元，去年同期为 7.87 亿美元，并实现正向调整后营业利润。其运行率 5 月已突破 470 亿美元，OpenAI 近期超 400 亿美元，Anthropic 正筹备 IPO。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月18日3时52分"
+  },
+  {
+    "id": "cmsxnjjba05bkroz0zadg41jz",
+    "title": "Okara AI CMO v2 发布：多智能体营销分发",
+    "url": "https://x.com/rohanpaul_ai/status/2089438830797688937",
+    "summary": "Okara AI CMO v2 发布，将 AI 智能体应用于营销分发。不同智能体分别负责各渠道，共享设计指南与内容策略以保持上下文一致。团队称基于 5 个月分析数百万文章、帖子和社交讨论后重建了这些智能体。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日3时46分"
+  },
+  {
+    "id": "cmsxnxhxa05wjroz0grlpa8a9",
+    "title": "同一集群利用率提升 33 个百分点：改变的是分配顺序",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "summary": "Hugging Face 构建了一个约束感知的 GPU 分配器，并在七个基准场景中与 FIFO 调度器对比。在相同硬件和负载下，GPU 利用率最高提升 33 个百分点，优先级加权输出在全部场景中均上升，最高达 105%。分配器将实时推理需求按曲线而非峰值处理，批量任务按优先级跨整个调度周期排序，从而回收了预留闲置容量。",
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年8月18日3时46分"
+  },
+  {
+    "id": "cmsxnxga205vfroz08tm5j6bc",
+    "title": "小模型+工具遇天花板，下一扩展轴是什么",
+    "url": "https://x.com/dongxi_nlp/status/2089437336270488061",
+    "summary": "马东锡 NLP 引用 Jason Wei 观点，质疑\"1B 认知核心+工具调用\"范式：无需工具、快速自然地完成任务至关重要，参数化内化知识有信息上限，追求最高质量智能仍需更大模型。旧范式是预训练算力扩展，当前是推理时扩展，下一扩展轴成谜。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月18日3时40分"
+  },
+  {
     "id": "cmsxmfrw604klroz0047ttqdb",
     "title": "OpenCode Go 订阅优惠第一阶段完成",
     "url": "https://x.com/opencode/status/2089428008268402786",
     "summary": "Operation Cheepseek：第一阶段完成\n\nOpenCode Go 订阅用户现在可以以 $10 获得 $30 的使用额度\n\n第二阶段启动中……",
     "source": "X：opencode (@opencode)",
     "date": "2026年8月18日3时3分"
+  },
+  {
+    "id": "cmsxny94u05yfroz08hhve55u",
+    "title": "Gemini 3.7 Flash 让表格秒变交互应用",
+    "url": "https://x.com/GoogleAI/status/2089437060310434098",
+    "summary": "Google 推出 Sheets canvas，结合 Gemini 3.7 Flash 可将电子表格自动转化为带滑块、仪表盘等功能的实时交互迷你应用，无需编码。该功能支持双向同步，用户在画布上的操作会实时写回表格。Sheets canvas 已面向 Google AI Pro 和 Ultra 订阅用户开放，并逐步推广至 Workspace 商业和教育订阅。",
+    "source": "X：Google AI (@GoogleAI)",
+    "date": "2026年8月18日3时39分"
+  },
+  {
+    "id": "cmsxnjiu605baroz0d9y0xgt1",
+    "title": "ABC Legal 部署 Claude 托管智能体降本 50%",
+    "url": "https://x.com/ClaudeDevs/status/2089436153208549876",
+    "summary": "在一篇新博文中，我们分享了客户 ABC Legal 如何部署 Claude 托管智能体。这支由 50 多个智能体组成的团队已将某些法律任务的成本削减了高达 50%。\n\n这些智能体还利用反馈循环随时间持续改进。\n\n了解更多：https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月18日3时36分"
+  },
+  {
+    "id": "cmsxnjgiv059broz0u74ffak2",
+    "title": "Anthropic Mythos 2 训练完成但不发布",
+    "url": "https://x.com/kimmonismus/status/2089436090885185698",
+    "summary": "Anthropic 的 Mythos 2 已完成训练，但 Anthropic 不会发布它，不过构建 Mythos 3 的内部循环并未停止，Patel 如是说。\n\n现在的重点是内部改进。尚不清楚我们何时会看到任何发布。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月18日3时35分"
   },
   {
     "id": "cmsxmgvnv04mmroz0da1mudth",
@@ -13877,6 +13941,14 @@
     "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
     "summary": "Anthropic 正通过诉讼、监管游说和模型发布策略，系统性压制开源 AI 生态。其法律行动针对开源模型开发商，同时利用政策影响力推动更严格的监管框架。这场对抗正在重塑 AI 行业的竞争格局，引发开发者社区对开源未来走向的广泛担忧。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日3时17分"
+  },
+  {
+    "id": "cmsxnx24505p3roz0vwc27nqe",
+    "title": "Grok 限额体验：缺降级机制令人挫败",
+    "url": "https://x.com/EMostaque/status/2089431551444471855",
+    "summary": "在充分测试后，我达到了 @grok @bot 的使用上限。\n\n把它当作协调器用（我把我的 gpt/claude/cursor 命令行接口都给了它），感觉和代码模型额度用完相比，有种奇怪的挫败感。\n\n我觉得是因为一切都会停止，而且没有警告--应该自动降级到廉价模型。",
+    "source": "X：Emad Mostaque (@EMostaque)",
     "date": "2026年8月18日3时17分"
   },
   {
