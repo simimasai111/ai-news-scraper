@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmswm0yd10wu8rovmb5766kb7",
+    "title": "华尔街巨头注资5000亿美元，Anthropic拟9月IPO",
+    "url": "https://x.com/rohanpaul_ai/status/2089169943808127253",
+    "summary": "华尔街巨头向英伟达AI计划注资5000亿美元，英伟达与6家大型投资者合作创建芯片抵押融资平台。Anthropic目标9月或10月初IPO，早于OpenAI（可能推迟至明年）。Anthropic CEO称AI反弹\"本质上是信任危机\"。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日9时58分"
+  },
+  {
+    "id": "cmswlzm5r0wpkrovm4anscgry",
+    "title": "英伟达大幅削减为 OpenAI 俄亥俄数据中心项目提供的融资担保额度",
+    "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+    "summary": "英伟达已修订支持 OpenAI 俄亥俄数据中心项目的计划，初始担保金额预计将低于 1200 亿美元，低于此前讨论的 2500 亿美元。此举源于投资者对英伟达大规模融资承诺风险敞口的担忧，双方协议最早可能在本周末签署。OpenAI 仍在就该项目 10 吉瓦的约束性租约进行谈判，该项目由软银旗下 SB Energy 开发。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月17日9时58分"
+  },
+  {
+    "id": "cmswm0wv00wtjrovmjejv3lrt",
+    "title": "Grok Bot 四大设计决策：极简 UI 与云端持久化",
+    "url": "https://x.com/leerob/status/2089169319099777364",
+    "summary": "Grok Bot 通过四项技术决策实现易用性：采用极简 UI 并针对前沿模型能力设计；客户端薄封装、服务端厚封装以提升流畅度。其智能体连接常驻云端电脑，支持持久文件系统，并可调用浏览器自动化完成任务，甚至可将操作录制成可重复流程。",
+    "source": "X：Lee Robinson (@leerob)",
+    "date": "2026年8月17日9时55分"
+  },
+  {
     "id": "cmswjvo2z0uzsrovmxsw6a6gj",
     "title": "AI 治病言论需更精确，临床试验差距大",
     "url": "https://x.com/emollick/status/2089156476568842516",
@@ -14366,6 +14390,62 @@
     "summary": "对Tibo友好点，😂\n\nAGI很酷，但它能这么有趣吗？",
     "source": "X：Yuchen Jin (@Yuchenj_UW)",
     "date": "2026年8月17日1时11分"
+  },
+  {
+    "id": "cmswn3i3k0xhprovmooexfomk",
+    "title": "PixVerse 展示 MiniMax H3 电影级预告片效果",
+    "url": "https://x.com/PixVerse_/status/2089182609746133178",
+    "summary": "PixVerse 官方分享了一段用 MiniMax H3 生成的电影预告片《THE DRAGON RIDER》，展示该模型在视频生成上的能力。预告片融合街头时尚、功夫、未来滑板与金龙元素，并包含 3D 字体、霓虹招牌、速度变奏等电影级镜头效果。",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月17日10时48分"
+  },
+  {
+    "id": "cmswn3jiq0xi7rovm4w3wbym7",
+    "title": "ChatGPT 浏览器操作：几分钟备齐移民材料",
+    "url": "https://x.com/gdb/status/2089181834580250870",
+    "summary": "ChatGPT 浏览器操作：\n\n【引用 @athyuttamre】：ChatGPT 浏览器操作太强了 🐐\n\n通过抓取过去 7 年的税务、银行流水和移民文件，几分钟内准备好整套移民材料。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月17日10时45分"
+  },
+  {
+    "id": "cmswn3i3k0xhqrovm69kgtra3",
+    "title": "PixVerse 重现 90 年代动漫质感",
+    "url": "https://x.com/PixVerse_/status/2089178530726740090",
+    "summary": "这真的带回那种 90 年代动漫的感觉！",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月17日10时32分"
+  },
+  {
+    "id": "cmswn3izr0xi5rovmczy7mbex",
+    "title": "Seedance 2.5 登顶 Design Arena 多图生视频",
+    "url": "https://x.com/rohanpaul_ai/status/2089177550895673393",
+    "summary": "Seedance 2.5 在 Design Arena 多图生视频榜单以 1400 Elo 排名第一，大幅领先其他顶级模型。开源模型 MiniMax H3 以 1355 Elo 位列第二，为最佳开源视频模型。该榜单测试模型融合多张参考图并保持主体、风格与场景连贯性的能力，更贴近真实生产流程。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日10时28分"
+  },
+  {
+    "id": "cmswn3hz10xhhrovmodj0i91r",
+    "title": "智能体让生活管理更轻松",
+    "url": "https://x.com/gabriel1/status/2089177118781612133",
+    "summary": "有了智能体，追踪我的生活变得容易多了\n\n我告诉我的智能体：\"为团队签证申请做一个仪表盘，先看看我是否在阻碍进度，每天从邮件线程和签证流程网站更新。\"",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月17日10时26分"
+  },
+  {
+    "id": "cmswm0yd10wu7rovmoaem209g",
+    "title": "OpenAI 解散 Preparedness 团队，前沿风险职责分散",
+    "url": "https://x.com/rohanpaul_ai/status/2089173126165020830",
+    "summary": "OpenAI 已解散其 Preparedness 团队，将前沿风险职责并入其他内部小组。据 Financial Times 报道，该变动发生于 7 月底，生物与网络等领域的资深员工已在现有团队内接手相关事务。OpenAI 表示并未放弃 Preparedness Framework，相关工作将更加分散化。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日10时11分"
+  },
+  {
+    "id": "cmswm5tv90wwerovmfyu5w177",
+    "title": "阿里云Qwen3.8 27B成本地代码模型新王",
+    "url": "https://x.com/alibaba_cloud/status/2089173089997492323",
+    "summary": "Qwen3.8 27B：本地代码模型的新王者 https://www.youtube.com/watch?v=zJ-TaC1FN-U 了解更多关于 Qwen3.8 的信息，并通过 API 构建更多应用： Qwen Cloud： https://click.qwencloud.com/m/20000001102/ Model Studio： https://click.alibabacloud.com/m/20000001093/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月17日10时10分"
   },
   {
     "id": "cmsw0kyox0eogrovmis7cgxid",
