@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmswjvo2z0uzsrovmxsw6a6gj",
+    "title": "AI 治病言论需更精确，临床试验差距大",
+    "url": "https://x.com/emollick/status/2089156476568842516",
+    "summary": "Ethan Mollick 回应 AI 治愈疾病的说法，认为其实际含义可能是\"数据中心里的天才群体将发明理论上能治病的东西\"，但这与真实试验、证据和 FDA 审批之间存在巨大鸿沟。引用推文指出，尚无 AI 公司提出 5-10 年内治愈哪怕一种疾病的切实计划，且仅心血管疾病三期试验就需约五年（如 ZEUS），医院工作教会人敬畏疾病。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月17日9时4分"
+  },
+  {
+    "id": "cmswkydlo0vndrovmqs7races",
+    "title": "OpenAI 各层级用户日均交互次数曝光",
+    "url": "https://x.com/rohanpaul_ai/status/2089163191477821552",
+    "summary": "OpenAI 的使用模式，来自 CFO Sarah Friar 的最新采访。\n\n\"我们的免费用户每天大约进行七轮对话，或七个问题。我们的第一个付费层级大约是它的两倍，约 15 次。我们真正的付费层级 Plus，价格为 20 美元，大约是免费用户的 3 倍，而 Pro 大约是免费用户的 11 倍。\"\n\n\"我们 OpenAI 的使命是让 AGI 造福全人类，而不是造福付得起钱的那部分人类，也不是造福在企业里工作的那部分人类。\"\n\n--来自 @theallinpod 的 YouTube 频道（链接在评论中）",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日9时31分"
+  },
+  {
+    "id": "cmswl38jd0vqqrovmiiau40qm",
+    "title": "阿里云Agentic Lake让数据为AI智能体就绪",
+    "url": "https://x.com/alibaba_cloud/status/2089163153028317263",
+    "summary": "你的数据湖是为人类构建的。但智能体时代已经到来--它需要智能体就绪的数据。#AgenticTalks 第3集：为什么数据湖正在被重建，阿里云 Agentic Lake 如何让企业数据为 AI 做好准备，外加现场演示。8月18日，阿里云线上直播。注册 → https://click.alibabacloud.com/m/20000002139/\n\n#AlibabaCloud #DataLake #AIAgent",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月17日9时31分"
+  },
+  {
     "id": "cmswha6w10t3crovmzks6x0yt",
     "title": "反常识真相：Agent在真实工作场景成功率依然很低，多模型电商任务通过率不足50%",
     "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685310&idx=1&sn=a62263bd647f948b3d7a9492337fd137",
@@ -13862,6 +13886,70 @@
     "summary": "评论文章批评 Anthropic 在 Claude 中引入\"Watermark\"文本篡改功能，认为这是对写作本身的扭曲。文章指出该功能会改变用户生成的文本内容，而非仅添加不可见标记，从而干涉了作者的文字表达。作者认为此举违背了写作的纯粹性，并可能对用户创作产生负面影响。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月17日8时6分"
+  },
+  {
+    "id": "cmswjtru20uuvrovmiqbz3ads",
+    "title": "贾跃亭：法拉第未来探索机器人独立融资及上市",
+    "url": "https://www.ithome.com/0/990/442.htm",
+    "summary": "法拉第未来创始人贾跃亭宣布，FF机器人进入放量收入快速增长新阶段，将探索机器人业务独立融资及上市。公司计划年底前销售出货2，000台EAI本体，产出100个Skills，并将开发者社区扩大至200个主体；EAI数据工厂目标12月底达每月20，000小时数据采集产能。机器人业务上半年平均毛利率超30%，但FFAI整体财务受汽车债务拖累，上半年营业总收入134.8万美元，同比下降99.93%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日8时52分"
+  },
+  {
+    "id": "cmswjtru30uuyrovmtdbvfxsi",
+    "title": "王莆中谈美团 AI 变革：全员\"养虾运动\"曾日耗千万，CatPaw 已覆盖 9 万员工",
+    "url": "https://www.ithome.com/0/990/439.htm",
+    "summary": "美团核心本地商业 CEO 王莆中透露，公司 AI 变革经历 4 个阶段，初期全员\"养虾运动\"曾致账单每日消耗上千万元并干扰真实经营，后经赛马机制梳理，7 月 AI 初步在内部产品流程中跑通。美团全场景 AI Agent 平台 CatPaw 于 7 月上线，已覆盖 9 万员工、搭建 Agent 3 万个，支持云端 7×24 小时运行及本地生活行业技能。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日8时47分"
+  },
+  {
+    "id": "cmswj7t700uolrovmqx5ctk2m",
+    "title": "Codex 开源近全可靠将集成 Astra",
+    "url": "https://x.com/thsottiaux/status/2089149255382438340",
+    "summary": "Codex\n\n✅ 几乎 100% 可靠 ✅ 偶尔重置 ✅ 开源 ✅（将拥有 Astra）",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月17日8时36分"
+  },
+  {
+    "id": "cmswit2nc0txirovmo2jx2ood",
+    "title": "马斯克推荐试用Grok @Bot智能体",
+    "url": "https://x.com/elonmusk/status/2089148540039901185",
+    "summary": "试试 Grok @Bot！\n\n【引用 @amuse】：专业提示：如果你还没用 Grok @bot，那你亏大了。它已经取代了 OpenClaw、Hermes 和我的本地模型（1 万美元的 Mac Mini）。弄一个 Comet Pro Remote KVM，让机器人访问你的 Mac 环境。我下周打算把我的 Mac Mini 卖掉（价格比我买时还高）。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月17日8时33分"
+  },
+  {
+    "id": "cmswit1ly0twqrovmimn9luay",
+    "title": "Codex 如何开启 GPT-5.6 Sol 百万 token 上下文",
+    "url": "https://x.com/polynoamial/status/2089148291028291665",
+    "summary": "Noam Brown 称赞 Codex 的自动压缩功能出色，并指出若需 1M-token 上下文，可通过配置实现。",
+    "source": "X：Noam Brown (@polynoamial)",
+    "date": "2026年8月17日8时32分"
+  },
+  {
+    "id": "cmswit6bb0tymrovmmdfoit7o",
+    "title": "前OpenAI员工推出Energy，瞄准AI工作普及",
+    "url": "https://x.com/gabriel1/status/2089147133551391036",
+    "summary": "Gabriel 从 OpenAI 离职三个月后推出新公司 Energy，目标是让所有知识工作者像程序员一样大规模使用 AI。他认为当前市场虽大但无人正确使用模型，而将现有 AI 能力普及到全球工作场景蕴含数万亿美元价值。Energy 用户已能在数小时内完成数天工作量。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月17日8时27分"
+  },
+  {
+    "id": "cmswj8ec80uqvrovmp252ppxt",
+    "title": "BestBlogs 早报：Qwen 3.8 27B 与 Claude 水印等 10 条",
+    "url": "https://x.com/hongming731/status/2089146558004748635",
+    "summary": "BestBlogs 08-17 早报精选 10 条 AI 内容：评测指 Qwen 3.8 27B 性能强大但默认 \"xhigh\" 推理设置致过度思考与生成缓慢；详解 Anthropic 采用 SynthID-Text 文本水印的机制与影响；另有 OpenAI 设计负责人谈设计师焦虑、持久化知识层架构、AI API 成本削减 95% 策略等。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月17日8时25分"
+  },
+  {
+    "id": "cmswj8ec80uqwrovmjlphkd7q",
+    "title": "设计师焦虑源于期望不清，RAG 需持久知识层",
+    "url": "https://x.com/hongming731/status/2089146510873366658",
+    "summary": "OpenAI 设计负责人 Ian Silber 在 Lenny's Podcast 指出，设计师焦虑源于角色期望不清而非机会消失，工程师生产力提升 10-100 倍而设计团队未跟上，建议以 do less 和奖励好奇心应对。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月17日8时25分"
   },
   {
     "id": "cmswi588e0tlcrovmyfohhja0",
