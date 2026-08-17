@@ -13848,6 +13848,54 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsxi6ljs02tproswie6yj4cm",
+    "title": "Menlo 旗下 Wispr Flow 与 Higgsfield 双双完成巨额融资",
+    "url": "https://x.com/deedydas/status/2089398673230938591",
+    "summary": "Menlo Ventures 宣布旗下两家公司完成巨额融资：语音听写应用 Wispr Flow 融资 2.8 亿美元，估值 20 亿美元，年同比增长约 40 倍，累计听写超 600 亿词；AI 视频生成公司 Higgsfield 融资 4 亿美元，估值 54 亿美元，年化收入 12 个月内从 2000 万美元增至 7 亿美元。Menlo 强调应用层制胜关键在于极致产品力、增长、留存与变现。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月18日1时7分"
+  },
+  {
+    "id": "cmsxi6m4w02txroswezzz6frv",
+    "title": "Xpander 发布统一 AI 智能体运行时",
+    "url": "https://x.com/rohanpaul_ai/status/2089398349678145793",
+    "summary": "Xpander 获 750 万美元融资，推出统一 AI 智能体运行时，让企业一次发布智能体后，授权同事可在自身权限下调用。用户可用自然语言让 Omni 构建智能体，也可用 LangChain 等框架自建，最终都进入同一运行时，获得内存、部署、权限、可观测性与工具访问能力。云版提供 1000 免费额度，支持自托管。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日1时6分"
+  },
+  {
+    "id": "cmsxi809j02vnroswjnpyp2gv",
+    "title": "ABC Legal 如何借助 Claude Managed Agents 让每位员工成为构建者",
+    "url": "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
+    "summary": "ABC Legal 为 1，100 名员工部署 Claude Enterprise 后，通过 Claude Managed Agents 将零散实验转变为受治理的智能体体系，截至 2026 年 7 月已上线 50 多个生产级智能体，部分覆盖的人工任务成本降低约 50%，约 310 名员工日常使用 Claude。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月18日1时25分"
+  },
+  {
+    "id": "cmsxi77rv02vhrosw1k0bmtom",
+    "title": "Vorflux 云平台上线，可自主完成开发任务",
+    "url": "https://x.com/testingcatalog/status/2089401610111762796",
+    "summary": "Vorflux 已开放其新云平台，允许用户在专用机器上运行从计划到合并 PR 的任务。\n\n它可以自主规划、构建、测试和审查。> 差异审查默认由与编写代码不同的模型家族完成。> 首次启动保存为快照，所有后续会话均从同一起点唤醒。> 浏览器智能体会走查真实用户流程，录屏会包含在拉取请求中。\n\nPR 中有视频为证 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月18日1时18分"
+  },
+  {
+    "id": "cmsxia8cm02wcroswzm9l306x",
+    "title": "Cartesia's Sonic 3.6 takes the #1 spot on both the Provider Voice and Controlled Voice Artificial An…",
+    "url": "https://x.com/ArtificialAnlys/status/2089400880688976062",
+    "summary": null,
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月18日1时16分"
+  },
+  {
+    "id": "cmsxi6vjx02uxrosw5jfiwhv3",
+    "title": "探访AI盗脸微短剧受害者",
+    "url": "https://x.com/thexpin/status/2089400363392905400",
+    "summary": "AI盗走了她们的脸。我找到了她们。\n\n我与两位受害者进行了交谈，她们的脸在不知情的情况下被AI盗用，并植入到中国微短剧中。以下是对病毒式传播的微短剧行业阴暗面的深度调查。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月18日1时14分"
+  },
+  {
     "id": "cmsxg0710012oroswihghd2ox",
     "title": "Codex 多智能体编排技巧推荐阅读",
     "url": "https://x.com/omarsar0/status/2089383982827794660",
