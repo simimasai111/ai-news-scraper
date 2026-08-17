@@ -14344,6 +14344,38 @@
     "date": "2026年8月17日2时33分"
   },
   {
+    "id": "cmsxd9tg501dzroi2i4vce8b4",
+    "title": "可灵AI秒级生成希区柯克变焦",
+    "url": "https://x.com/Kling_ai/status/2089366652198727984",
+    "summary": "数秒内创建希区柯克变焦 🎬",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年8月17日23时0分"
+  },
+  {
+    "id": "cmsxctod104y6robn6ds0zaxb",
+    "title": "Qwen3.8 27B 本地运行速度实测",
+    "url": "https://x.com/rohanpaul_ai/status/2089363481124593942",
+    "summary": "有人在 RTX 5090 32 GB 显存系统上本地运行 Qwen3.8 27B 的漂亮可视化演示，速度达 115 tokens/sec\n\n注意，Qwen3.8-27B 官方 BF16 检查点大小为 55.6 GB",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日22时47分"
+  },
+  {
+    "id": "cmsxcu0af04zrrobn7z03zhx6",
+    "title": "AirTag 追踪揭示亚马逊为训练 AI 批量购入并销毁珍稀书籍",
+    "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+    "summary": "404 Media 通过将 AirTag 放入一批珍稀书籍包裹并追踪，发现亚马逊批量购入纸质书、扫描用于 AI 训练后将其销毁。包裹最终抵达拉斯维加斯仓库的 VGT3 团队，工人会切掉书脊以加快扫描，数据用于训练 Nova 模型。Anthropic 的\"Project Panama\"项目也采用类似做法，法院裁定该扫描属合理使用，未构成版权侵权。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月17日22时43分"
+  },
+  {
+    "id": "cmsxcsftc04ulrobn40b44wn1",
+    "title": "GPT-5.6 Sol 是 OpenAI 迄今最强的视觉模型",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6",
+    "summary": "OpenAI 上周发布 GPT-5.6 系列（Sol、Terra、Luna），第三方基准测试显示 Sol 是其迄今最强视觉模型。Sol 目标检测达 46.2 mAP@50，远超 GPT-5.5 的 13.8；计数准确率 73.0%，较 GPT-5.5 的 64.9% 明显提升。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月17日22时29分"
+  },
+  {
     "id": "cmsxbr0ax0442robnzygtj0n6",
     "title": "AI分析应披露提示词与多宇宙报告",
     "url": "https://x.com/emollick/status/2089351996016918825",
