@@ -13848,12 +13848,76 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsxom4me067mroz0g5qt9mi1",
+    "title": "OpenAI 训练模型编写超人类安全代码",
+    "url": "https://x.com/rohanpaul_ai/status/2089444226430111876",
+    "summary": "OpenAI 联合创始人 Greg Brockman 表示，OpenAI 正专门训练模型编写\"超人类安全代码\"，以强化机构基础设施抵御 AI 攻击。他称未来数月每个组织都需大幅自动化安全程序，并呼吁安全社区加速提升防御能力，同时建议保留人工审查关键变更、消除修复延迟。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日4时8分"
+  },
+  {
+    "id": "cmsxozsbn06fjroz0lux33o1z",
+    "title": "Gemini 3.7 Flash 识别维多利亚植物图谱",
+    "url": "https://x.com/googleaidevs/status/2089443913493033058",
+    "summary": "我们向 Gemini 3.7 Flash 输入了数百份来自维多利亚时代植物插画书籍的 PDF，并让它使用现代 APG IV 分类系统提取和分类这些历史植物。🌳 💻\n\n看看它如何在 @Antigravity 构建的交互式可视化中将其理解变为现实。",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "date": "2026年8月18日4时7分"
+  },
+  {
+    "id": "cmsxpfwxx06oyroz06pptfyck",
+    "title": "取代GitHub者将彻底不同于GitHub",
+    "url": "https://x.com/dexhorthy/status/2089443460243939623",
+    "summary": "这人懂行。\n\n取代GitHub的东西不会：\n有\"使用GitHub登录\"按钮\n有PR\n有异步CI / 类似Actions的原语\n\n它会在团队已有的工作方式中与他们相遇\n对每个工作单元产生令人难以置信的信心\n总体上与GitHub如此不同\n\n这是一个时代的终结，但相信更好的东西还在后头。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月18日4时5分"
+  },
+  {
+    "id": "cmsxpfwxr06oxroz0kjfuty3w",
+    "title": "Our AI Costs Jumped 230 Percent. I'm Not Setting Token Budgets-Yet.",
+    "url": "https://every.to/p/our-ai-costs-jumped-230-percent-i-m-not-setting-token-budgets-yet",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月18日4时47分"
+  },
+  {
+    "id": "cmsxp6i9006ljroz02ecd2vxs",
+    "title": "Grok 上线 Whop 连接器，代币变现",
+    "url": "https://x.com/SpaceXAI/status/2089449055651033207",
+    "summary": "试试 @whop 连接器，现已在 Grok 中发布。",
+    "source": "X：SpaceXAI (@SpaceXAI)",
+    "date": "2026年8月18日4时27分"
+  },
+  {
+    "id": "cmsxom4me067lroz0u5jiu809",
+    "title": "字节 Harness-IF：评测编码智能体指令遵循",
+    "url": "https://x.com/rohanpaul_ai/status/2089447520711880740",
+    "summary": "字节跳动新论文提出 Harness-IF 基准，测试编码智能体在指令与模型默认行为相悖时的遵循能力。在 12 个前沿模型、60 个多轮编码任务中，所有模型在此类对抗性指令上得分均更低，表明智能体可控性可能被高估。该基准将指令分布于系统提示、工具描述、技能描述、项目文件及用户指令等编码智能体实际读取的位置。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日4时21分"
+  },
+  {
     "id": "cmsxny9ol05yiroz0d334di98",
     "title": "Sakana Namazu 登陆 OpenRouter，基于 Kimi K2.6",
     "url": "https://x.com/OpenRouter/status/2089442143010189812",
     "summary": "Sakana AI 的 Sakana Namazu 已在 OpenRouter 上线。\n\nSakana Namazu 基于 Kimi K2.6 构建，是一款专业模型，将深厚的日本文化理解与高性能推理能力相结合，并整合了网络搜索与代码执行，以处理业务场景中的复杂任务。\n\nhttps://openrouter.ai/sakana/sakana-namazu",
     "source": "X：OpenRouter (@OpenRouter)",
     "date": "2026年8月18日4时0分"
+  },
+  {
+    "id": "cmsxom4me067nroz0o4k65gfl",
+    "title": "宾大研究：AI智能体压缩后遗忘规则",
+    "url": "https://x.com/rohanpaul_ai/status/2089441634597450156",
+    "summary": "宾夕法尼亚大学新论文发现，AI智能体在长会话压缩后常遗忘用户设定的规则，却仍记得任务本身。在3种长上下文设置中，现有压缩器平均仅保留17%的会话规则。简单修复方案是使用独立的9B参数提取器在压缩后恢复规则，使保留率提升至90%以上。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日3时58分"
+  },
+  {
+    "id": "cmsxpfwxx06ozroz0oriqg7ce",
+    "title": "HumanLayer 跨智能体会话协作新功能",
+    "url": "https://x.com/dexhorthy/status/2089441382628839639",
+    "summary": "我们一直在努力寻找跨智能体会话协作的最佳方式--无论是开发工作站、Mac mini 还是云环境的任意组合。\n\n向队友的会话发送提示词\n\n跨工作站传送 worktree 捆绑包和任务上下文\n\n从手机管理会话并协作处理产物\n\n我们还应该添加什么？",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月18日3时57分"
   },
   {
     "id": "cmsxnjgiv059aroz0pql2kquw",
@@ -13917,6 +13981,14 @@
     "url": "https://x.com/kimmonismus/status/2089436090885185698",
     "summary": "Anthropic 的 Mythos 2 已完成训练，但 Anthropic 不会发布它，不过构建 Mythos 3 的内部循环并未停止，Patel 如是说。\n\n现在的重点是内部改进。尚不清楚我们何时会看到任何发布。",
     "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月18日3时35分"
+  },
+  {
+    "id": "cmsxp1l3k06jaroz0sc2th0kf",
+    "title": "你最喜欢的创作者不是真人--这重要吗？",
+    "url": "https://www.a16z.news/p/your-favorite-creator-isnt-realdoes",
+    "summary": "一位作者用ChatGPT生成图像、Minimax 3和Grok Imagine 1.5生成视频，打造了虚拟女生Janie，并让她参加阿拉巴马大学姐妹会招募。一周内Janie获得1300名粉丝，视频平均观看量达数万次，20条视频中8条被TikTok标记为AI生成，但未影响表现。作者未标注AI身份，认为这违反了TikTok服务条款，但旨在测试平台与观众的识别能力。",
+    "source": "a16z：News（RSS）",
     "date": "2026年8月18日3时35分"
   },
   {
