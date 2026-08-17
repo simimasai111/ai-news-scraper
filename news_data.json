@@ -14344,6 +14344,62 @@
     "date": "2026年8月17日2时33分"
   },
   {
+    "id": "cmsxbr0ax0442robnzygtj0n6",
+    "title": "AI分析应披露提示词与多宇宙报告",
+    "url": "https://x.com/emollick/status/2089351996016918825",
+    "summary": "这对可复现性以及将AI用于科学而言都很明智：\"AI生成的分析应附带多宇宙式报告，并完整披露所用提示词，与代码和数据同等对待。\"\n\n而且这适用于所有AI分析，不仅仅是学术工作。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月17日22时1分"
+  },
+  {
+    "id": "cmsxbrft40478robn8pxoq793",
+    "title": "OpenAI 与软银签俄亥俄数据中心租约，Nvidia 最高担保 1050 亿美元",
+    "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion",
+    "summary": "OpenAI 与软银旗下 SB Energy 签署 20 年租约，获得俄亥俄州园区约 8 吉瓦 IT 容量，Nvidia 为项目提供最高 1050 亿美元担保并成为独家芯片供应商。Nvidia CEO 黄仁勋称土地、电力和建筑外壳已成 AI 建设最大瓶颈。据《华尔街日报》分析，九家科技公司持有约 3 万亿美元未计入资产负债表的 AI 相关承诺。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月17日22时13分"
+  },
+  {
+    "id": "cmsxbr3tt045srobnxedfy8i6",
+    "title": "面壁智能 VoxCPM2 驱动 AI 辩论游戏",
+    "url": "https://x.com/OpenBMB/status/2089351548937617446",
+    "summary": "面壁智能 OpenBMB 展示了一款由 VoxCPM2 驱动的《逆转裁判》风格 AI 辩论游戏 The Grand Tribunal，玩家可与 Oscar Wilde、尼采、柏拉图等哲学家进行回合制辩论。VoxCPM2 通过语音合成与声音克隆为 AI 对手提供富有表现力的声音，支持语音交互，将文字角色转化为可对话的辩论伙伴。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月17日22时0分"
+  },
+  {
+    "id": "cmsxbr37k045mrobntoe59clq",
+    "title": "百度 DuMate 增长数据：日查询量涨 60 倍",
+    "url": "https://x.com/Baidu_Inc/status/2089351548258386308",
+    "summary": "百度 AI 办公智能体 DuMate 自上线以来日均查询量增长 60 倍，仅过去一个月就翻了一番。AICPB 七月榜单将其列为全球网页产品增长第二名，访问量环比增长近 9.5 倍，成为榜单上增长最快的 AI 智能体；桌面端环比增长近 12 倍，居 AI 办公智能体之首。DuMate 不止于问答，还能端到端处理复杂任务，将工作目标转化为成品。",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月17日22时0分"
+  },
+  {
+    "id": "cmsxbr1z5044yrobnts4vakj4",
+    "title": "传统企业AI化：先换能力而非系统",
+    "url": "https://x.com/frxiaobei/status/2089350534147014856",
+    "summary": "传统企业AI化常陷入误区：一谈转型就规划新平台、新系统，但真正难替换的不是代码，而是系统内沉淀的业务规则、组织经验和历史数据。更现实的路径是拆解原有业务流程，将AI能力逐个做成可调用接口，先建议后半自动执行，逐步扩大边界。Human-in-the-loop不是临时补丁，而是企业AI化最重要的迁移机制--人负责边界、纠错和验收，AI处理已稳定的部分，在不停止营业的情况下边开车边换发动机。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月17日21时56分"
+  },
+  {
+    "id": "cmsxbp1s003zirobn3j3vbkem",
+    "title": "黄仁勋：OpenAI 承诺在 2030 年前部署约 12GW 英伟达算力",
+    "url": "https://www.ithome.com/0/990/834.htm",
+    "summary": "英伟达 CEO 黄仁勋透露，OpenAI 已承诺在 2030 年前大规模部署英伟达 AI 基础设施，现有及计划部署合计约 12GW 算力，若扩大合作总规模有望增至约 16GW，对应约 6，000 亿美元业务机会。英伟达将与 SB Energy 合作，在俄亥俄州 PORTS-Pike 园区锁定土地、电力和建筑外壳容量，OpenAI 作为承租方建设并运营 AI 工厂。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日21时55分"
+  },
+  {
+    "id": "cmsxbr36g045irobndphx7lpl",
+    "title": "David Sacks 批 Dario 监管立场自利",
+    "url": "https://x.com/rohanpaul_ai/status/2089350061453168996",
+    "summary": "David Sacks 发文反驳 Anthropic CEO Dario Amodei 的 AI 监管观点，指其\"监管俘获\"论是稻草人，并称其推动的发布前审批（如\"FDA for AI\"\"FINRA for AI\"）将令美国沦为昂贵封闭模型孤岛，而全球其他地区以更广泛选择加速前进。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日21时54分"
+  },
+  {
     "id": "cmsxaoe2402ywrobnbrmx0fot",
     "title": "AI 如何重新定义艺术与创作门槛",
     "url": "https://x.com/frxiaobei/status/2089349801020457420",
@@ -14376,11 +14432,27 @@
     "date": "2026年8月17日21时44分"
   },
   {
+    "id": "cmsxbp1s103zkrobnpg22bivm",
+    "title": "第二届世界人形机器人运动会线缆连接预赛今日完赛，14 支队伍进入决赛",
+    "url": "https://www.ithome.com/0/990/831.htm",
+    "summary": "第二届世界人形机器人运动会线缆连接预赛今日完赛，24 支参赛队伍中有 14 支进入决赛。比赛要求机器人在 5 分钟内完成 8 个数据线与插头连接，满分 8 分，难点在于识别 USB 插口正反向并精准下压。本届运动会将于 8 月 22 日至 26 日在北京国家速滑馆举行，共 51 个项目 1301 场比赛，666 支队伍携 2056 台机器人参赛。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日21时43分"
+  },
+  {
     "id": "cmsxaoijy0313robnc7inkyy5",
     "title": "OpenAI 获英伟达支持签 8GW 俄亥俄数据中心租约",
     "url": "https://x.com/rohanpaul_ai/status/2089346221890765252",
     "summary": "OpenAI 与 SB Energy 签署俄亥俄州 8GW 数据中心租约，英伟达将投资 15 亿美元并提供信贷支持，该园区将独家部署英伟达 AI 算力。首期 800MW 预计 2028 年投运，项目还需新建 9.2GW 燃气发电和 42 亿美元电网升级。英伟达通过担保园区残值（潜在支付高达 1050 亿美元）降低 SB Energy 融资成本，以拉动自身芯片销售。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日21时38分"
+  },
+  {
+    "id": "cmsxb36ew03u0robn5hg2x0m1",
+    "title": "OpenRouter 新增每次会话成本数据层",
+    "url": "https://x.com/OpenRouter/status/2089346062062403961",
+    "summary": "OpenRouter 及其 API 中新增数据层：每次会话成本（Cost per Session）\n\n每次会话成本是一种评估模型实际使用成本的方式，涵盖不同任务和测试框架。\n\n以下是 Kimi K3 在 Hermes 上与 Sol、Fable 和 Opus 各版本的对比情况：",
+    "source": "X：OpenRouter (@OpenRouter)",
     "date": "2026年8月17日21时38分"
   },
   {
