@@ -14416,6 +14416,14 @@
     "date": "2026年8月17日17时6分"
   },
   {
+    "id": "cmsx23q1h03omroq4sdforf4u",
+    "title": "不探索AI智能体将错失良机",
+    "url": "https://x.com/fofrAI/status/2089289289737589240",
+    "summary": "如果你不去探索智能体、管理智能体、用智能体去做各种事情、观察它们如何相互交互、推动可能性的边界，那你正在错失良机。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月17日17时52分"
+  },
+  {
     "id": "cmsx116mf02z5roq4z468hyoy",
     "title": "Odyssey 户外AI机器人仍算室内使用",
     "url": "https://x.com/odysseyml/status/2089279936968233410",
@@ -14704,6 +14712,14 @@
     "date": "2026年8月17日12时25分"
   },
   {
+    "id": "cmsx2bs4t042groq4yvduxsc8",
+    "title": "义父Tibo今天把gpt 5.6 sol的百万上下文解封了，方法很简单，一句话搞定。 只需要在codex的config.toml文件的开头写入这三个参数， ``` model = \"gpt-5.6-sol\" model_context_window = 1000000 model_auto_compact_token_limit = 900000 ``` 这三行设置放到这个toml文件的开头，放在所有的【section】标题之前。然后重启桌面端，开个新对话就好。 也可以把上面我特意空出来这一段复制发给codex让它自己搞定自己。 这个百万上下文本来是API特有的，现在chatgpt和codex也能用上了，按我好朋友max的测试结果来看，Codex里只能开启到82W左右的上下文，因为还有一些预留的长度。 如果你不想改默认设置，对单个 CLI 的对话也能够临时调整上下文的窗口。 ``` codex -m gpt-5.6-sol \\ -c model_context_window=1000000 \\ -c model_auto_compact_token_limit=900000 ``` 开了百万上下文的话，消耗token的速度翻倍都不止。我只能说，我现在要到20号才能用我的CodeX了。。。 Tibo还爆料了codex还会上架Astra， 也就是传说中的GPT6， 所以那么大件事， 不重置五六七八次额度庆祝一下吗？ 不够用啊真的不够用",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509659&idx=1&sn=4d919d5d8761f2ebc3048fae646b8f06",
+    "summary": null,
+    "source": "公众号：卡尔的AI沃茨",
+    "date": "2026年8月17日12时24分"
+  },
+  {
     "id": "cmswq99zc03quroztv1o4v9z9",
     "title": "Codex 解锁 GPT-5.6 Sol 百万上下文",
     "url": "https://x.com/AYi_AInotes/status/2089199996159598689",
@@ -14718,6 +14734,14 @@
     "summary": "法国团队将死后成人脑组织外植体（OPAB）接入微电极阵列、麦克风和仿生机械手，构建可感知、行动、再学习的闭环系统。训练三天后，16 个 OPAB 的平均模仿准确率从 31.22% 升至 58.5%，其中 3 个能 100% 正确模仿全部三个音符，62.5% 学会至少两个音符。长期追踪的 5 个样本中，4 个在训练结束 17 天后仍保留学习结果。",
     "source": "IT之家（RSS）",
     "date": "2026年8月17日11时55分"
+  },
+  {
+    "id": "cmsx2rc810115ro32ruuj0rms",
+    "title": "融完2亿元后，一位AI硬件创业者的奥德赛之旅 | Linear Voice",
+    "url": "https://elsewhere.news/zh/linearcapital/2ai-linear-voice",
+    "summary": "一位AI硬件创业者在完成2亿元融资后，回顾创业历程中的诱惑与抉择，讲述自己如何在资本热潮、技术路线摇摆与市场噪音中保持初心。文章以第一人称叙事，呈现创业者在融资后的真实心态变化，以及他对AI硬件赛道长期主义的思考。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月17日11时50分"
   },
   {
     "id": "cmswq99yh03qerozt38mjemrp",
