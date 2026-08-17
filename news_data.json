@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsxmfrw604klroz0047ttqdb",
+    "title": "OpenCode Go 订阅优惠第一阶段完成",
+    "url": "https://x.com/opencode/status/2089428008268402786",
+    "summary": "Operation Cheepseek：第一阶段完成\n\nOpenCode Go 订阅用户现在可以以 $10 获得 $30 的使用额度\n\n第二阶段启动中……",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月18日3时3分"
+  },
+  {
+    "id": "cmsxmgvnv04mmroz0da1mudth",
+    "title": "Suno Studio 2.0 发布一周，用户反响热烈",
+    "url": "https://x.com/suno/status/2089432463961727207",
+    "summary": "音频变换只是开始。🎻✨\n\n我们上周发布了 Studio 2.0，你们制作的曲目让我们惊叹不已！到目前为止，你最喜欢的新功能是什么？",
+    "source": "X：Suno (@suno)",
+    "date": "2026年8月18日3时21分"
+  },
+  {
+    "id": "cmsxmfrhg04kfroz0jhx4zpq8",
+    "title": "Qwen3.8 27B 在人工分析中获得52分",
+    "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+    "summary": "Qwen3.8 27B 在 Artificial Analysis Intelligence Index 上获得 52 分，远超同类模型中位数（9 分）。该模型支持文本和图像输入、文本输出，上下文窗口为 256k tokens，总参数 27B，采用 Apache 2.0 许可证。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日3时1分"
+  },
+  {
+    "id": "cmsxmfrhg04keroz0pq4o2fm1",
+    "title": "Anthropic 对开源 AI 的战争",
+    "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+    "summary": "Anthropic 正通过诉讼、监管游说和模型发布策略，系统性压制开源 AI 生态。其法律行动针对开源模型开发商，同时利用政策影响力推动更严格的监管框架。这场对抗正在重塑 AI 行业的竞争格局，引发开发者社区对开源未来走向的广泛担忧。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日3时17分"
+  },
+  {
+    "id": "cmsxmgymq04ohroz03pak1wai",
+    "title": "OpenAI 总裁谈路线图：能力将大幅提升",
+    "url": "https://x.com/rohanpaul_ai/status/2089430780523184527",
+    "summary": "OpenAI 总裁 Greg Brockman 刚刚表示，随着模型曲线持续进步，OpenAI 的路线图指向重大的能力提升。\n\n\"我们确实有一条规划好的路线图，能力将持续以显著方式增长，这些方式很难用简短的语言解释清楚。\"\n\n----\n\n来自\"CNBC Television\"YouTube 频道（完整视频链接见评论）",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日3时14分"
+  },
+  {
     "id": "cmsxls1d9047troz0bysckhzo",
     "title": "Replit 应用新增黑盒渗透测试功能",
     "url": "https://x.com/Replit/status/2089427187162083785",
@@ -13862,6 +13902,14 @@
     "summary": "Grok 应用现在有了 Grok Bot 的快捷方式，一键即可轻松访问。\n\n在此试用 Grok Bot：https://x.ai/bot",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月18日2时7分"
+  },
+  {
+    "id": "cmsxmgymq04oiroz0grrrtxwl",
+    "title": "混合线性注意力LLM中的巨量激活：注意力层前尖峰与层间平台",
+    "url": "https://x.com/rohanpaul_ai/status/2089425654609740202",
+    "summary": "混合Transformer架构LLM用廉价循环层替代多数注意力层，但保留的少数全注意力层对模型影响远超其数量占比。在Qwen3.5、Kimi Linear、Nemotron-H和Zamba2中，模型在昂贵回溯层前反复产生异常巨大的内部数值，移动或增加该层会相应改变这些极端值的分布。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日2时54分"
   },
   {
     "id": "cmsxld6es03o8roz0jblf3ii9",
