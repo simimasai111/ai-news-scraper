@@ -14344,6 +14344,54 @@
     "date": "2026年8月17日2时33分"
   },
   {
+    "id": "cmsx8j8nz051cromm1ic2vqhb",
+    "title": "政治竞选中的AI采用率显著上升",
+    "url": "https://x.com/emollick/status/2089334464232968679",
+    "summary": "政治竞选中AI应用已相当普遍，民主党与共和党均越来越多地使用AI，进步派领先。FEC数据显示，Cornel West将近10%竞选支出投向Descript和OpenAI。分析基于FEC数据，Claude通过自动化研究管道提出该研究思路，AI正改变政治及研究方式。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月17日20时52分"
+  },
+  {
+    "id": "cmsx8vze505nlrommmqdrk6bn",
+    "title": "达里奥式油腻致敬引发热议",
+    "url": "https://x.com/dongxi_nlp/status/2089331543952994779",
+    "summary": "油腻地向油腻的达里奥致敬。\n\n【引用 @ajambrosino】：未来6周锁定专注。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月17日20时40分"
+  },
+  {
+    "id": "cmsx8zij405t2rommm4gwgzjh",
+    "title": "https://x.com/i/article/2089330332369588224",
+    "url": "https://x.com/JensenHuang/status/2089331487342829862",
+    "summary": null,
+    "source": "X：Jensen Huang (@JensenHuang)",
+    "date": "2026年8月17日20时40分"
+  },
+  {
+    "id": "cmsx8j8nz051dromm2f61k7yk",
+    "title": "AI政策讨论缺失四类用途区分",
+    "url": "https://x.com/emollick/status/2089330959405535433",
+    "summary": "AI政策讨论中缺失的一点是，对以下内容缺乏清晰描述：（1） 哪些AI用途是好的，（2） 哪些用途在正确的政策体制下可能变好，（3） 哪些非灾难性的不良用途需要监管来缓解，以及 （4） 哪些灾难性用途需要预防性行动。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月17日20时38分"
+  },
+  {
+    "id": "cmsx8j73h0502rommcq9wj70o",
+    "title": "用户惊呼：ChatGPT 快停下！",
+    "url": "https://x.com/kimmonismus/status/2089328388561342482",
+    "summary": "抱歉，什么？！\n\n这到底是什么鬼…？！",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月17日20时28分"
+  },
+  {
+    "id": "cmsx7gqzq04dxrommt363urzt",
+    "title": "OpenAI 防御者窗口：升级网络安全实践",
+    "url": "https://x.com/gdb/status/2089326994714763665",
+    "summary": "防御者能够预见未来，但眼下只有短暂窗口来升级他们的网络安全实践。\n\n关键在于升级基础能力，并应用最好的 AI 工具。\n\n我们在 OpenAI 正在做的事情，以及其他组织可以从何处着手：https://blog.gregbrockman.com/the-defenders-window",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月17日20时22分"
+  },
+  {
     "id": "cmsw3kcza0gmkrovmjlo1e930",
     "title": "是时候开始构建了",
     "url": "https://x.com/dexhorthy/status/2089036897993589142",
@@ -14405,6 +14453,14 @@
     "url": "https://x.com/rohanpaul_ai/status/2089318974047859057",
     "summary": "宇树发布人形机器人\"超人\"演示：立定跳高2米，最高奔跑速度12.66 m/s（约28.3 mph），超过博尔特约12.4 m/s的峰值速度。该机器人腿长0.85米，研发仅三个多月，仍有较大提升空间。不过这些均为峰值性能演示，续航、加速、能耗及可重复性仍未知。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日19时50分"
+  },
+  {
+    "id": "cmsx7fg8s04a0rommpxa8jurl",
+    "title": "阿莫迪：监管不等于权力集中，客观制度反而去中心化",
+    "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+    "summary": "Anthropic CEO Dario Amodei 反驳\"监管=监管俘获=权力集中\"的观点，认为客观公正的制度流程具有去中心化力量。他举例称其支持的加州 SB53 提案完全豁免收入或训练成本低于 5 亿美元的公司，且倡导的测试流程对前沿模型更严格，从而有利于挑战者。他同时表示支持特朗普政府据报道将采取的前沿模型部署前测试做法。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月17日19时50分"
   },
   {
