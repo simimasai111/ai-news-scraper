@@ -13848,6 +13848,70 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsxv1mja0bpzroz08kiikx4w",
+    "title": "马斯克警告成真：ChatGPT涉青少年弑亲案",
+    "url": "https://x.com/cb_doge/status/2089489479820292118",
+    "summary": "埃隆·马斯克曾警告：\"别让你爱的人用ChatGPT。\"\n\n他说得完全没错。\n\n一名17岁少年用ChatGPT编造\"杀害家人的幻想故事\"……随后涉嫌杀害了他的母亲和14岁的弟弟。\n\nOpenAI手上沾满了鲜血。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月18日7时8分"
+  },
+  {
+    "id": "cmsxv1oid0breroz0fh5apixy",
+    "title": "中国开源AI策略或致长期依赖中国技术标准",
+    "url": "https://x.com/rohanpaul_ai/status/2089489393899982907",
+    "summary": "英国金融时报报道，中国开源权重AI策略或使模型采用转化为对他国技术标准的长期依赖。美国出口限制（2019年华为实体清单、2022年先进芯片管制）反而强化了中国技术自主压力。中国正通过分发渠道而非单纯模型能力竞争，尤其吸引寻求低成本、本地部署或减少对美依赖的国家。马斯克曾预测，未来几年美国或领先，但胜负取决于谁控制AI芯片制造，而目前100%先进AI芯片产自台湾。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日7时7分"
+  },
+  {
+    "id": "cmsxv1m3c0bplroz0wju3dm8n",
+    "title": "智能模型创意变异性不足制约价值",
+    "url": "https://x.com/emollick/status/2089488934082363397",
+    "summary": "还有变异性！AI 实验室在考虑创意任务时，需要更多地思考变异性。事实上，从智能模型中获取创意变体需要付出努力，这严重限制了它们在问题解决和创意工作中的有效价值。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月18日7时5分"
+  },
+  {
+    "id": "cmsxv1lcv0boxroz0kwcqfmpn",
+    "title": "DeepSeek V4 Pro 0813 结合 J-Space 提升基准成绩",
+    "url": "https://x.com/kimmonismus/status/2089488440089788587",
+    "summary": "有人将 DeepSeek V4 Pro 0813 与名为 J-Space 的 harness 结合，据称可减少扩展推理/工具调用过程中的错误。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月18日7时3分"
+  },
+  {
+    "id": "cmsxuzlm30bl4roz0bz38om49",
+    "title": "GitHub 服务中断同一天，Cursor 推出内置代码托管平台 Origin",
+    "url": "https://www.ithome.com/0/990/874.htm",
+    "summary": "Cursor 于 8 月 17 日推出内置代码托管平台 Origin，集成在编辑器新增的\"Codebase\"选项卡中，面向所有付费套餐用户开放早期测试版。Origin 支持完整的拉取请求功能，用户无需离开编辑器即可查看代码差异、发表评论和合并代码，并可向 Cursor 询问代码仓库问题、修改代码或创建推送新分支。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日7时3分"
+  },
+  {
+    "id": "cmsxv0p3v0bntroz0227a6b3j",
+    "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+    "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+    "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
+    "source": "Google Developers Blog（RSS）",
+    "date": "2026年8月18日7时22分"
+  },
+  {
+    "id": "cmsxvgxt60c2nroz0pq87g5md",
+    "title": "Databricks Feature Store 如何实现亚秒级特征新鲜度",
+    "url": "https://www.databricks.com/blog/how-databricks-feature-store-serves-features-sub-second-freshness",
+    "summary": "Databricks Feature Store 推出亚秒级特征新鲜度能力，让机器学习模型能实时获取最新信号，适用于欺诈检测等对时效性要求高的场景。该能力通过优化特征存储与在线服务链路，将特征更新延迟降至亚秒级，从而提升模型预测的准确性与响应速度。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月18日7时10分"
+  },
+  {
+    "id": "cmsxv1oid0brdroz0xmjexoph",
+    "title": "人形机器人弯道冲刺动能回收供电",
+    "url": "https://x.com/rohanpaul_ai/status/2089489952639762852",
+    "summary": "一个人形机器人在北京国家速滑馆的弯道上冲刺，并将剩余动能转化为接地电箱的电能。实现了高效的能量转换。😄",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日7时10分"
+  },
+  {
     "id": "cmsxtz2j40atfroz0tl9y04od",
     "title": "Anthropic 年化收入达 650 亿美元",
     "url": "https://x.com/rohanpaul_ai/status/2089483421232046439",
@@ -13862,6 +13926,14 @@
     "summary": "用户试用 @GetEnergy_ 智能体，让其处理积压的旅行保险医疗理赔。该智能体自动读取 Gmail 和 Google Photos，将照片扫描为 PDF，按理赔分类整理并逐一提交，数小时后 5 份理赔全部完成，挽回超 1000 欧元。主推文作者笑称起初以为这是对自己公司的批评。",
     "source": "X：Gabriel (@gabriel1)",
     "date": "2026年8月18日6时43分"
+  },
+  {
+    "id": "cmsxuzlm40bl7roz0rgpdc5nd",
+    "title": "苹果 Siri AI 集体诉讼和解案最终批准听证会定于明年 2 月",
+    "url": "https://www.ithome.com/0/990/869.htm",
+    "summary": "苹果因 Siri AI 功能延迟推出达成的 2.5 亿美元集体诉讼和解，最终批准听证会定于 2027 年 2 月 24 日，赔偿款预计此后数月发放。符合条件的美国消费者为 2024 年 6 月 10 日至 2025 年 3 月 29 日购买 iPhone 16 系列或部分 iPhone 15 机型的用户，每台设备预计至少获 25 美元，最高 95 美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日6时41分"
   },
   {
     "id": "cmsxtbhny0aglroz0cqbwdqaw",
@@ -14086,6 +14158,14 @@
     "summary": "Hugging Face 构建了一个约束感知的 GPU 分配器，并在七个基准场景中与 FIFO 调度器对比。在相同硬件和负载下，GPU 利用率最高提升 33 个百分点，优先级加权输出在全部场景中均上升，最高达 105%。分配器将实时推理需求按曲线而非峰值处理，批量任务按优先级跨整个调度周期排序，从而回收了预留闲置容量。",
     "source": "Hugging Face：Blog（RSS）",
     "date": "2026年8月18日3时46分"
+  },
+  {
+    "id": "cmsxvgxt60c2oroz03eld604q",
+    "title": "Databricks：原型验证税正在拖垮你的 AI 路线图",
+    "url": "https://www.databricks.com/blog/prototyping-tax-killing-your-ai-roadmap",
+    "summary": "Databricks 指出，团队在 AI 原型验证阶段投入过多时间与资源，正成为拖累 AI 路线图落地的\"原型验证税\"。文章分析了这一现象的成因与代价，并给出如何通过更高效的工程实践与平台支持，缩短从原型到生产的路径，避免让验证阶段消耗掉真正的创新动力。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月18日3时42分"
   },
   {
     "id": "cmsxnxga205vfroz08tm5j6bc",
