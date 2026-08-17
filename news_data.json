@@ -13848,12 +13848,44 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsxtbhny0aglroz0cqbwdqaw",
+    "title": "Interconnects AI 订阅者破千，独立声音获认可",
+    "url": "https://x.com/natolambert/status/2089480421792780312",
+    "summary": "个人里程碑：@interconnectsai 拥有了 1000 位真正的粉丝！达成一个长期目标的感觉真好。\n\n我很高兴能成为 AI 领域的独立声音。培养付费用户群体有助于我长期坚持这一方向，并扩大 Interconnects 的影响力。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月18日6时32分"
+  },
+  {
+    "id": "cmsxswi0j0a8aroz0tkkeyu00",
+    "title": "谷歌TPU互联拓扑演进：从2D到3D Torus",
+    "url": "https://x.com/SemiAnalysis_/status/2089472651521626622",
+    "summary": "多年来，谷歌一直在改进其最初随TPUv2推出的2D环形片间互联（ICI）网络拓扑，后来从TPUv4和v5p开始扩展为3D环形拓扑。（1/8）🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月18日6时1分"
+  },
+  {
+    "id": "cmsxsvb5s0a4troz0z2q2nu3h",
+    "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+    "url": "https://cursor.com/changelog/origin-code-hosting",
+    "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日6时14分"
+  },
+  {
     "id": "cmsxq3q3x07h2roz0z906es50",
     "title": "PhotoScan：用智能手机照片估算胰岛素抵抗，精度接近DXA",
     "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery",
     "summary": "Google Research 推出 PhotoScan，一种从智能手机 2D 照片直接估算三维身体成分的深度学习框架，可预测胰岛素抵抗，在临床研究中精度接近 DXA 扫描。",
     "source": "Google Research：Blog（网页）",
     "date": "2026年8月18日5时5分"
+  },
+  {
+    "id": "cmsxswiog0a8croz031jgw1s3",
+    "title": "Claude Code 新技能 /design 支持 UI 设计",
+    "url": "https://x.com/ClaudeDevs/status/2089471692762673408",
+    "summary": "Claude Code 现在可以设计了。新的 /design 技能（研究预览）将 Claude Design 的画板工作流带入 CLI 和 Desktop，基于 artifacts 构建。\n\n运行 /design 即可为你的 UI 获得可编辑画板--选择一个，调整它，然后让 Claude 实现它。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月18日5时57分"
   },
   {
     "id": "cmsxqr8ws07oyroz0ubh32f6v",
