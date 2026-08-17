@@ -14400,6 +14400,30 @@
     "date": "2026年8月17日1时11分"
   },
   {
+    "id": "cmsx0z5h602seroq4u4vymggm",
+    "title": "阿里 AI 音乐模型\"快乐虾米\"HappyShrimp 1.0 上线，号称人人都能写出好听的歌",
+    "url": "https://www.ithome.com/0/990/721.htm",
+    "summary": "阿里巴巴今天（17 日）宣布 AI 音乐模型 HappyShrimp 1.0（中文名快乐虾米）正式上线，支持端到端整曲生成，能精准理解自然语言，将情绪、故事或记忆变成完整音乐。模型针对人声机械、词曲错位等痛点，在声音细节与音乐性上实现突破，并能理解\"Lo-fi R&B\"等专业表达及情绪、场景与叙事。即日起在国内及海外同步上线 PC 网页端。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日17时9分"
+  },
+  {
+    "id": "cmsx1176202z7roq4wjzfx89a",
+    "title": "DeepSeek 发布 DeepSeek Harness 开发者预览版：MIT 许可的智能体框架，一切皆插件",
+    "url": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview",
+    "summary": "DeepSeek 发布 DeepSeek Harness v0.1 开发者预览版，以 MIT 许可开源，项目名为 dsh。该框架基于 Cordis 内核，将模型、工具、技能、会话、沙箱、存储、循环、调度和 UI 均设计为可替换插件，支持 Standard、Code、Minimal、Creator 四种运行模式。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月17日17时6分"
+  },
+  {
+    "id": "cmsx116mf02z5roq4z468hyoy",
+    "title": "Odyssey 户外AI机器人仍算室内使用",
+    "url": "https://x.com/odysseyml/status/2089279936968233410",
+    "summary": "仍然算作室内。",
+    "source": "X：Odyssey (@odysseyml)",
+    "date": "2026年8月17日17时15分"
+  },
+  {
     "id": "cmswyvvyr08d4rox7a62b0bvr",
     "title": "Codex 将集成 Astra，开源近全可靠",
     "url": "https://x.com/kimmonismus/status/2089262364084384198",
@@ -14408,12 +14432,36 @@
     "date": "2026年8月17日16时5分"
   },
   {
+    "id": "cmsx0z5h602siroq42dxn018f",
+    "title": "周鸿祎发布全员信：360 要用 AI\"重新创业\"",
+    "url": "https://www.ithome.com/0/990/715.htm",
+    "summary": "360 集团创始人周鸿祎发布全员信，宣布公司向 AI Native（AI 原生）组织转型，并称此次转型是 360\"用 AI 重新创业\"。他要求各级管理者至少推动一个 AI 产品或业务创新、跑通一条由 AI 重构的核心流程，并拿出一项亲手使用 AI 完成的成果，相关结果将纳入年度考核。360 同步启动组织扁平化、产研团队 AI 原生转型及加大校招等配套调整。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日16时59分"
+  },
+  {
+    "id": "cmsx0z5h602slroq4wupg5f0e",
+    "title": "豆包\"工作任务\"模式上新：支持手机远程操作电脑",
+    "url": "https://www.ithome.com/0/990/699.htm",
+    "summary": "豆包\"工作任务\"模式今日宣布功能上新，支持手机远程控制电脑。完成授权后，用户可在手机端远程接管电脑，执行桌面端未完成任务或启动新任务，并实时接收进度提醒。豆包会在本地电脑环境中获取文件上下文，处理文档、图片、代码、表格等资料，完成更复杂的电脑操作。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日16时40分"
+  },
+  {
     "id": "cmswyu0vf088grox70x0lev0u",
     "title": "AI 大模型周榜：Anthropic 多款新模型密集入榜，国产 kimi-k3-max 稳定头部",
     "url": "https://www.ithome.com/0/990/681.htm",
     "summary": "Arena 发布第 33 周 AI 大模型盲测排名，Anthropic 多款 claude-opus-4 系列新模型密集入榜并占据综合榜前五位，claude-fable-5 以 1506 分蝉联榜首。国产模型 kimi-k3-max 升至综合榜第 12 位，在前端开发榜保持第 2 名；qwen3.8-max 首次跻身智能体榜 Top 10。榜单基于匿名盲测投票，反映用户主观偏好而非绝对能力测试。",
     "source": "IT之家（RSS）",
     "date": "2026年8月17日16时2分"
+  },
+  {
+    "id": "cmswzxas1091krox79k0rnw76",
+    "title": "Ask HN：有没有哪家公司又改回手写代码了？",
+    "url": "https://news.ycombinator.com/item?id=49318906",
+    "summary": "一位 HN 用户发起提问，想知道在 LLM 热潮中是否有公司因 AI 生成代码导致技术债失控而回归手写代码。有创业公司创始人表示正考虑重写核心功能，因 AI 让开发者轻易制造混乱代码和功能膨胀，重构后仍迅速失控。另有开发者称对\"有趣\"代码不用 AI，认为建立心智模型占工作量的 90%，且模型在空间推理上仍表现糟糕。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月17日16时21分"
   },
   {
     "id": "cmswyu0vf088hrox7bnpgwvnw",
