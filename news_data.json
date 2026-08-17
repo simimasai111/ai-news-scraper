@@ -14344,12 +14344,92 @@
     "date": "2026年8月17日2时33分"
   },
   {
+    "id": "cmsxdu6n401h8roi2iy1elash",
+    "title": "字节跳动与美国电影协会签署协议，加强 AI 模型版权保护",
+    "url": "https://www.ithome.com/0/990/847.htm",
+    "summary": "字节跳动与美国电影协会（MPA）签署协议，加强 AI 视频与图像生成模型的版权保护。协议涵盖 Seedance 视频生成模型和 Seedream 图像生成模型，二者通过 TikTok、CapCut 和 Dreamina 等应用提供服务。字节表示，新版本 Seedance 和 Seedream 已加入更强的知识产权保护机制，双方将随 AI 发展继续完善版权防护。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日23时6分"
+  },
+  {
+    "id": "cmsxdw58p01koroi2lkkb2t37",
+    "title": "技术革命消灭中间层，轮到智力劳动",
+    "url": "https://x.com/frxiaobei/status/2089367809138794598",
+    "summary": "每一次技术革命都在消灭一部分劳动价值的同时放大另一部分，而这次轮到智力劳动。科技进步的结果是消灭中间层：高智力劳动要求更高，低智力劳动要求更低，因为替代前者成本太高、替代后者收益太低。因此不要去做让中等智力劳动更高效的产品，因为那个劳动需求本身就会消失。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月17日23时4分"
+  },
+  {
+    "id": "cmsxebskj023uroi2xxa9iib5",
+    "title": "Waymo vs Tesla： Two Ways to Build Self-Driving Cars",
+    "url": "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build",
+    "summary": null,
+    "source": "ByteByteGo（RSS）",
+    "date": "2026年8月17日23时30分"
+  },
+  {
+    "id": "cmsxdu6n401h6roi2hhdiioxg",
+    "title": "OpenAI 向 FBI 举报佛州男子向 ChatGPT 描述杀害前女友计划",
+    "url": "https://www.ithome.com/0/990/850.htm",
+    "summary": "OpenAI 向 FBI 举报一名 25 岁佛罗里达州男子达伦·周，因其向 ChatGPT 详细描述强奸并杀害前女友的计划。该男子为被解雇的高盛分析师，今年 5 月被捕，6 月被以加重跟踪骚扰、书面死亡威胁和非法使用手机三项重罪起诉。8 月 13 日他对三项指控全部认罪，换取无需入狱的协议，被判 8 年缓刑。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日23时20分"
+  },
+  {
+    "id": "cmsxdw8z501myroi2nld3zl2w",
+    "title": "SemiAnalysis 播客：AI 支出与 Gemini 深度谈",
+    "url": "https://x.com/SemiAnalysis_/status/2089366953521537028",
+    "summary": "对这档播客唯一的反馈就是它太精彩了。于是 Dylan 前来\"修正\"这一点，畅谈 SemiAnalysis 的 AI 支出、Gemini、他最喜欢的动漫等话题！",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月17日23时1分"
+  },
+  {
+    "id": "cmsxdw6m901loroi2h3e3yudu",
+    "title": "OpenAI 与 SB Energy 达成协议，在俄亥俄州锁定约 8GW AI 算力容量",
+    "url": "https://x.com/kimmonismus/status/2089371190276092299",
+    "summary": "OpenAI 与 SB Energy 达成协议，在俄亥俄州获取约 8GW AI 算力容量，为其最大基础设施承诺之一。SB Energy 将建设并运营 PORTS-Pike 数据中心，20 年租约，园区独家部署 NVIDIA 算力，首批 800MW 预计 2028 年投运，2032 年全部建成。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月17日23时18分"
+  },
+  {
+    "id": "cmsxdv0n601jaroi210qnq9oa",
+    "title": "Nvidia 向软银旗下数据中心开发商 SB Energy 投资 15 亿美元",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+    "summary": "Nvidia 周一宣布向软银与 OpenAI 关联的数据中心开发商 SB Energy 投资 15 亿美元，并成为 OpenAI 位于俄亥俄州辛辛那提附近 Ports-Pike 数据中心计算基础设施的唯一供应商。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月17日23时16分"
+  },
+  {
+    "id": "cmsxeb6zg0200roi2bk72n6oy",
+    "title": "开源AI核心：训练配方类比Linux",
+    "url": "https://x.com/natolambert/status/2089370522689606078",
+    "summary": "开源AI的核心在于，训练配方本身才是最接近Linux和开源软件的对应物。模型权重是暂时的。Nvidia正以开放方式构建他们的模型，以便每个人日后都能构建自己的模型，避免智能被垄断。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月17日23时15分"
+  },
+  {
     "id": "cmsxd9tg501dzroi2i4vce8b4",
     "title": "可灵AI秒级生成希区柯克变焦",
     "url": "https://x.com/Kling_ai/status/2089366652198727984",
     "summary": "数秒内创建希区柯克变焦 🎬",
     "source": "X：可灵 Kling AI (@Kling_ai)",
     "date": "2026年8月17日23时0分"
+  },
+  {
+    "id": "cmsxdu6n401h9roi2oitrnr9y",
+    "title": "AirTag 追踪调查：亚马逊为训练 AI 扫描书籍，先切掉书脊致原书销毁",
+    "url": "https://www.ithome.com/0/990/845.htm",
+    "summary": "外媒 404 Media 通过藏入 AirTag 的追踪调查发现，亚马逊在拉斯维加斯仓库由 VGT3 团队处理书籍，为提高扫描效率先切掉书脊，原书在过程中被毁，扫描数据用于训练 Nova 模型。Anthropic 此前也开展过类似\"巴拿马计划\"，相关诉讼中法官裁定此类扫描属合理使用，不构成版权侵权。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日22时56分"
+  },
+  {
+    "id": "cmsxebmb6021wroi2l5h9u16e",
+    "title": "AgentCore Payments 中间件为 LangChain 智能体提供 API 支付能力",
+    "url": "https://www.langchain.com/blog/langchain-agentcore-payments",
+    "summary": "AgentCore Payments 中间件让 LangChain 智能体以确定性会话预算支付 API 费用。该中间件为 x402 支付签名，LangSmith 可追踪每一笔支付记录。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月17日22时52分"
   },
   {
     "id": "cmsxctod104y6robn6ds0zaxb",
