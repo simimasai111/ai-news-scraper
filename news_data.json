@@ -13880,6 +13880,14 @@
     "date": "2026年8月17日9时4分"
   },
   {
+    "id": "cmswpgyb60331rozt4jazc0st",
+    "title": "给MiniMax H3烧了5万AI视频积分后，8种最适合它的新玩法分享",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509658&idx=1&sn=682a0d188eb59937a0cb05842fbfcadd",
+    "summary": "MiniMax H3在动漫PV、动态海报、游戏开场等创意视频上表现突出，转场更自然，常能给出提示语之外的惊喜效果。实测覆盖广告、电商、游戏、UI四个商业方向共8种玩法，H3在实拍与二维手绘结合、UI动效设计上尤为擅长。该模型已开源，按MiniMax Design套餐折算2K低至约0.5元每秒、768P约0.23元每秒，且在Artificial Analysis有声视频编辑榜排第一。",
+    "source": "公众号：卡尔的AI沃茨",
+    "date": "2026年8月17日9时4分"
+  },
+  {
     "id": "cmswkydlo0vndrovmqs7races",
     "title": "OpenAI 各层级用户日均交互次数曝光",
     "url": "https://x.com/rohanpaul_ai/status/2089163191477821552",
@@ -14392,6 +14400,70 @@
     "date": "2026年8月17日1时11分"
   },
   {
+    "id": "cmswp8qhh02pyroztrgrbfbc0",
+    "title": "智能体技能即使与任务完全相关仍可能使 LLM 智能体表现更差",
+    "url": "https://x.com/rohanpaul_ai/status/2089196267930800136",
+    "summary": "一项实证研究发现，与任务完全相关的智能体技能仍可能使 LLM 智能体表现更差。307 例技能引发的失败中，125 例功能性故障有 86 例源于任务实现错误；182 例效率回退中 114 例来自额外流程，过度验证造成 67 例。平台应将加载技能视为改变系统行为，需对照任务要求核查并与无技能运行对比。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日11时43分"
+  },
+  {
+    "id": "cmswo63fe021broztiqw3dqat",
+    "title": "PixVerse 用 MiniMax H3 打造蜘蛛女开场",
+    "url": "https://x.com/PixVerse_/status/2089186223462228397",
+    "summary": "开场中的 H3 动态图形真是强有力的钩子！\n\n【引用 @kaen_sv】：认识蜘蛛女！\n\n🎬 使用 PixVerse 上的 MiniMax H3 制作\n\n@PixVerse_ 项目链接 👇\n\n#H3onPixVerse #PixVerse #HeroVerse",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月17日11时3分"
+  },
+  {
+    "id": "cmswp7dqe02lnrozte8t37yi9",
+    "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
+    "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+    "summary": "一项调查显示，年轻人对AI首席执行官怀有极其强烈的反感情绪。这种憎恶程度之高，几乎令人难以置信，反映出年轻一代对AI行业领导者的显著不信任与抵触态度。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月17日11时34分"
+  },
+  {
+    "id": "cmswo4t4e01x4roztfd6r8g8j",
+    "title": "Qwen 3.8 27B 评测：表现出色但默认过度思考",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+    "summary": "阿里 Qwen 实验室发布 Apache 2 许可的 27B 参数视觉大模型 Qwen 3.8 27B，性能亮眼。但该模型默认启用过度思考模式，导致推理速度下降，用户需手动关闭以获得更高效响应。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月17日11时18分"
+  },
+  {
+    "id": "cmswo63fe021aroztxzavugc7",
+    "title": "PixVerse 视频逼真引热议",
+    "url": "https://x.com/PixVerse_/status/2089190032565588083",
+    "summary": "这个看起来太真实了！",
+    "source": "X：PixVerse (@PixVerse_)",
+    "date": "2026年8月17日11时18分"
+  },
+  {
+    "id": "cmswo64vf021wroztxmbi64up",
+    "title": "万斯：AI 末日论是 CEO 的病毒式营销",
+    "url": "https://x.com/rohanpaul_ai/status/2089185686960431530",
+    "summary": "美国副总统 JD Vance 称，部分 AI 公司 CEO 刻意渲染末日论，因为恐惧本身就是一种病毒式营销，让产品显得更强大。他同时表示，不认为 AI 会导致大规模失业，数据中未见相关证据，更可能的结果是提升生产力并改变部分岗位。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日11时0分"
+  },
+  {
+    "id": "cmswo64ac021urozt2h9sef60",
+    "title": "SemiAnalysis 社媒风格为何两极分化",
+    "url": "https://x.com/SemiAnalysis_/status/2089185584250032614",
+    "summary": "SemiAnalysis 的企业社交媒体账号真是奇怪。前一天还在讲 Tensor Core 每指令周期与 tileRT 的最深层次内容，第二天就变成某个 AI 生成的草莓卡通《爱情岛》巨型垃圾内容。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月17日11时0分"
+  },
+  {
+    "id": "cmswo623a020croztlmy1b76f",
+    "title": "MiniMax H3 本地生成水獭视频，质量飞跃",
+    "url": "https://x.com/emollick/status/2089185499197911391",
+    "summary": "Ethan Mollick 用开源权重视频生成模型 MiniMax H3 在本地电脑上生成了一段带声音的水獭用笔记本视频，耗时约 3 分钟。他对比两年前指出，虽仍不及 SOTA 文生视频，但完全离线运行是全新能力，进步迅速。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月17日11时0分"
+  },
+  {
     "id": "cmswn3i3k0xhprovmooexfomk",
     "title": "PixVerse 展示 MiniMax H3 电影级预告片效果",
     "url": "https://x.com/PixVerse_/status/2089182609746133178",
@@ -14408,12 +14480,28 @@
     "date": "2026年8月17日10时45分"
   },
   {
+    "id": "cmswo42xl000oroztid4m22ni",
+    "title": "Grok 99 美元打包 Cursor Ultra 与 xPremium+",
+    "url": "https://x.com/AYi_AInotes/status/2089180989394129152",
+    "summary": "Grok 推出限时捆绑优惠：99 美元/月即可获得原价 300 美元的 SuperGrok Harvey 订阅、原价 200 美元的 Cursor Ultra 会员及 xPremium+，总价值约 700 美元，相当于 2 折。订阅后需立即取消自动续费，否则到期恢复 300 美元/月。此外，只要 SuperGrok Heavy 订阅保持活跃，Cursor Ultra 即可一直免费使用，无到期时间。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月17日10时42分"
+  },
+  {
     "id": "cmswn3i3k0xhqrovm69kgtra3",
     "title": "PixVerse 重现 90 年代动漫质感",
     "url": "https://x.com/PixVerse_/status/2089178530726740090",
     "summary": "这真的带回那种 90 年代动漫的感觉！",
     "source": "X：PixVerse (@PixVerse_)",
     "date": "2026年8月17日10时32分"
+  },
+  {
+    "id": "cmswo43g60012roztssn9crv2",
+    "title": "Codex 中的 GPT-5.6 Sol 百万上下文能力已可通过 ChatGPT 账号使用",
+    "url": "https://www.ithome.com/0/990/503.htm",
+    "summary": "OpenAI 工程师 Tibo 宣布，Codex 中 GPT-5.6 Sol 模型的 100 万 Token 上下文窗口功能已从仅限 API 密钥扩展至支持 ChatGPT 账号。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日10时29分"
   },
   {
     "id": "cmswn3izr0xi5rovmczy7mbex",
@@ -14446,6 +14534,22 @@
     "summary": "Qwen3.8 27B：本地代码模型的新王者 https://www.youtube.com/watch?v=zJ-TaC1FN-U 了解更多关于 Qwen3.8 的信息，并通过 API 构建更多应用： Qwen Cloud： https://click.qwencloud.com/m/20000001102/ Model Studio： https://click.alibabacloud.com/m/20000001093/",
     "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "date": "2026年8月17日10时10分"
+  },
+  {
+    "id": "cmswpimra0361roztz2rka1l6",
+    "title": "百度智能云AIGC出海沙龙在港举办，Agent矩阵助力企业出海",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653159565&idx=2&sn=51c082deab023bf2ae5fd7ebd2b21c14",
+    "summary": "百度智能云在港举办AIGC出海沙龙，发布面向出海的Agent产品矩阵，覆盖营销、开发到决策场景。其中秒哒无代码平台已创建350万可商用应用，服务超3500万人，估算创造50亿+价值；千帆MaaS提供150+主流大模型，支持Agent Skills集成与风控合规。",
+    "source": "公众号：百度智能云（文心）",
+    "date": "2026年8月17日10时0分"
+  },
+  {
+    "id": "cmswpimra0360roztk0mbeoey",
+    "title": "9月16日见！共赴一场产业智能体盛会",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653159565&idx=1&sn=d47f1498bc952ebceeb018075410239c",
+    "summary": null,
+    "source": "公众号：百度智能云（文心）",
+    "date": "2026年8月17日10时0分"
   },
   {
     "id": "cmsw0kyox0eogrovmis7cgxid",
