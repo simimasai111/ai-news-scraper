@@ -14400,6 +14400,30 @@
     "date": "2026年8月17日1时11分"
   },
   {
+    "id": "cmswtj24902tyrox7iyr3ksmf",
+    "title": "黑盒攻击可窃取智能体技能文件",
+    "url": "https://x.com/rohanpaul_ai/status/2089228731667689511",
+    "summary": "新研究测试用户能否仅通过正常黑盒交互窃取专有 SKILL.md，5 款商业模型中，最简单的提取提示平均实现 48% 精确恢复和 0.91 的 LLM 判定泄漏率。链式思维提示将精确恢复率推至 72%，少样本示例产生最高词汇和语义相似度。作者最强防御可阻止精确披露，但语义泄漏在更难案例中仍存，平台需将技能内容视为可通过模型行为外泄的数据。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日13时52分"
+  },
+  {
+    "id": "cmswsgdxw0261rox73u1l1p2d",
+    "title": "DSH 深度好文：变化不等于正式版本",
+    "url": "https://x.com/frxiaobei/status/2089214638818816341",
+    "summary": "小北推荐关于 DSH 的深度文章，强调 Plugin 架构之外更应关注\"一次变化已发生\"与\"有资格成为正式版本\"是两回事。临时实验中 Agent 调用新工具、挂载 Plugin 等能力看似扩张，但长期运行需面对变化为何有效、能否稳定复现等难题。从实验走向可靠能力需评测、隔离、版本化、晋升、持续观察、回滚与审计，模型生成的代码只是变异，评测与权限等构成选择环境，经筛选才有资格晋升为下一代正式版本。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月17日12时56分"
+  },
+  {
+    "id": "cmswseh68022wrox7wo0mkd4s",
+    "title": "黑莓公司熬了 15 年翻身：从手机霸主到汽车系统与安全软件幕后",
+    "url": "https://www.ithome.com/0/990/590.htm",
+    "summary": "黑莓公司转型汽车系统与安全软件领域，今年第一季度实现现金流转正，为 2017 年以来首次。其 QNX 汽车操作系统已占营收约一半，防窃听软件 Secusmart 为 20 个国家政府提供服务。过去一年黑莓股价上涨 150%，目前市值约 52 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日12时54分"
+  },
+  {
     "id": "cmswrdvg1015arox7fu2k3njy",
     "title": "架构选择如何影响大模型长上下文扩展",
     "url": "https://x.com/rohanpaul_ai/status/2089212877198762043",
@@ -14422,6 +14446,14 @@
     "summary": "🚨 智能体安全告警常被噪音淹没。🧭 AgentLoop Audit 将真实风险与噪音区分开来：ꔷ 完整会话与工具事实 ꔷ 上下文风险分析 ꔷ 一键定位证据 ꔷ 按密钥、应用与用户追踪影响 🔗 https://click.alibabacloud.com/m/20000002385/\n\n#AIAgent #Security #AgentSecurity #AISecurity #LLMOps",
     "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "date": "2026年8月17日12时28分"
+  },
+  {
+    "id": "cmswseh68022yrox7z5lczrhy",
+    "title": "AI 视频生成平台 Higgsfield 融资 4 亿美元，估值达 54 亿美元",
+    "url": "https://www.ithome.com/0/990/588.htm",
+    "summary": "AI 视频生成平台 Higgsfield 从 DST Global、高盛、英特尔等投资者处筹集 4 亿美元，估值达 54 亿美元。该公司年化收入已从一年前的 2，000 万美元增至今年 8 月的 7 亿美元，全球用户超 3000 万。本轮融资将用于拓展企业订阅业务、加大算力建设，并帮助品牌利用 AI 每天制作多条营销视频。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日12时27分"
   },
   {
     "id": "cmswrdsem012xrox7x98ez6oi",
