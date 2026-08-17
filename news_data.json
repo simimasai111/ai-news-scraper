@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsxfdsk20382roi2gt6zld4i",
+    "title": "英伟达看好开源AI，押注机会大爆发",
+    "url": "https://x.com/natolambert/status/2089382137875005858",
+    "summary": "英伟达对开源AI的乐观态度，让人想起Meta和谷歌当年对自由互联网的大力投入--他们假设，如果更多人能更方便地接入互联网，好事就会发生。英伟达正押注AI会走上类似的道路--机会将大规模爆发。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月18日0时1分"
+  },
+  {
+    "id": "cmsxfchyl02z7roi21hvf9537",
+    "title": "Replit 推出企业治理新工具",
+    "url": "https://x.com/Replit/status/2089381802729238691",
+    "summary": "Replit 即将推出新的企业治理工具：全面的审计日志、对企业工作区设置的更多控制，以及用于大规模管理账户的管理员 API。https://replit.com/blog/new-enterprise-governance-tools",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月18日0时0分"
+  },
+  {
+    "id": "cmsxf8cmu02slroi2hvfzgfff",
+    "title": "GitHub 如何用 canvases 让智能体工作流可见、可控且成本高效",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+    "summary": "GitHub 博客介绍如何用 canvases 让智能体工作流可见、可控且成本高效。作者认为聊天适合表达意图，但智能体工作会淹没在滚动中，而 canvas 能让工作流更清晰。文章分享了作者在智能体工作流中使用 canvases 的实践，并建议其他工作流也值得引入 canvas。",
+    "source": "GitHub Blog",
+    "date": "2026年8月18日0时0分"
+  },
+  {
     "id": "cmswm0yd10wu8rovmb5766kb7",
     "title": "华尔街巨头注资5000亿美元，Anthropic拟9月IPO",
     "url": "https://x.com/rohanpaul_ai/status/2089169943808127253",
@@ -14344,6 +14368,14 @@
     "date": "2026年8月17日2时33分"
   },
   {
+    "id": "cmsxfcx2n036jroi2rxg0tdmq",
+    "title": "开源模型生态的未来：Nvidia 押注\"教所有人炼 token\"",
+    "url": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+    "summary": "开源模型生态正日益依赖 Nvidia 的资助，其已投入 260 亿美元推动近乎开源的模型开发，以扩大推理芯片需求。若此路径不奏效，开源模型将转向效率、可修改性等长尾场景，与闭源模型分化。同时，基础模型训练门槛升高，开源社区兴趣正从全量训练转向对 DeepSeek V4 Flash、GLM 5.X 等模型的微调。",
+    "source": "Nathan Lambert：Interconnects（RSS）",
+    "date": "2026年8月17日23时7分"
+  },
+  {
     "id": "cmsxdu6n401h8roi2iy1elash",
     "title": "字节跳动与美国电影协会签署协议，加强 AI 模型版权保护",
     "url": "https://www.ithome.com/0/990/847.htm",
@@ -14360,12 +14392,68 @@
     "date": "2026年8月17日23时4分"
   },
   {
+    "id": "cmsxez39u02g5roi2r8tx23mf",
+    "title": "中国科技周报：DeepSeek V4 Pro 发布与机器人维修业兴起",
+    "url": "https://x.com/thexpin/status/2089377433208164477",
+    "summary": "DeepSeek 正式发布 V4 Pro，基准测试较预览版显著提升，同时大幅涨价使旗舰定价接近主要竞品。本周中国科技周报还聚焦人形机器人维修业兴起、AI 视频生成生态（如 Seedance 2.5 和 MiniMax H3）的商业化，以及苹果与阿里合作训练中文 LLM 等动态。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月17日23时42分"
+  },
+  {
+    "id": "cmsxeyw4e02fjroi2tyokiopo",
+    "title": "马斯克谈AI胜负取决于芯片制造地",
+    "url": "https://x.com/rohanpaul_ai/status/2089376862640451638",
+    "summary": "\"未来几年，美国很可能（在AI领域）获胜。之后将取决于谁掌控AI芯片制造。如果其中更多由中国掌控，那么中国将获胜。而100%的先进AI芯片都在台湾制造。\"\n\n--埃隆·马斯克",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日23时40分"
+  },
+  {
+    "id": "cmsxexlml02bdroi20zpptcma",
+    "title": "论文揭示智能体技能的真实作用机制",
+    "url": "https://x.com/omarsar0/status/2089376463330128151",
+    "summary": "一篇论文通过8，135条标准化试验记录揭示，智能体技能起作用时65.7%靠程序性锚定，仅4.5%靠显式知识注入，即技能主要稳定执行而非补充知识。技能库从5个增至100个时，实际使用精确率从29.6%降至3.3%；技能仍比Workflow Memory高6.06分，但在脆弱假设或不兼容情境下会失效。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月17日23时39分"
+  },
+  {
+    "id": "cmsxeyrbn02dnroi2615gaguj",
+    "title": "五台山海报设计：视觉聚核构图参考",
+    "url": "https://x.com/frxiaobei/status/2089376261659640258",
+    "summary": "小北分享五台山文化海报设计，以白塔为绝对视觉核心，采用\"同心环抱\"构图，让山势、寺院、文字与云雾共同向中心汇聚。整体以藏红、米白、青灰为主色，融合佛教建筑秩序与瑞士编辑设计语言，呈现博物馆展览海报气质。该设计源自@MrLarus提出的\"视觉聚核\"构图法，适合海报、封面及品牌视觉参考。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月17日23时38分"
+  },
+  {
+    "id": "cmsxezgaw02h5roi2d1kqw3lv",
+    "title": "OpenAI 携手 NVIDIA 布局俄亥俄 8GW 数据中心",
+    "url": "https://x.com/testingcatalog/status/2089375632731894185",
+    "summary": "OpenAI 计划在俄亥俄州 PORTS-Pike 科技园区获取 8 吉瓦 IT 容量，与 SB Energy、NVIDIA 及美国能源部合作。项目预计创造 35，000 个建筑岗位和 2，500 个长期运营岗位，SB Energy 将承担全部电网升级费用。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月17日23时35分"
+  },
+  {
     "id": "cmsxebskj023uroi2xxa9iib5",
     "title": "Waymo vs Tesla： Two Ways to Build Self-Driving Cars",
     "url": "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build",
     "summary": null,
     "source": "ByteByteGo（RSS）",
     "date": "2026年8月17日23时30分"
+  },
+  {
+    "id": "cmsxeyr9002djroi2prxqnjt4",
+    "title": "GPT-5.6 智能体降本增效经验谈",
+    "url": "https://x.com/OpenAIDevs/status/2089374207818059793",
+    "summary": "初创企业从使用 GPT-5.6 构建高性价比智能体中学到了什么？\n\n我们与各行业团队合作，探究更智能的模型选择、推理和工具调用如何帮助智能体以更低成本处理更复杂的工作。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月17日23时30分"
+  },
+  {
+    "id": "cmsxf8gen02ujroi2ohgnkw2u",
+    "title": "404 Media 用 AirTag 追踪稀有书籍订单，最终指向亚马逊 AI 训练设施",
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra",
+    "summary": "404 Media 通过在一本稀有书籍中放置 AirTag，追踪到一笔约 1，000 本书的大额匿名订单最终送达拉斯维加斯东北部的亚马逊 LAS8 设施 VGT3 区域。该设施入口处有恐龙与书籍的标志，亚马逊员工在论坛讨论中确认 VGT3 会对大量书籍进行破坏性扫描，用于 AI 训练。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月17日23时21分"
   },
   {
     "id": "cmsxdu6n401h6roi2hhdiioxg",
@@ -14381,6 +14469,14 @@
     "url": "https://x.com/SemiAnalysis_/status/2089366953521537028",
     "summary": "对这档播客唯一的反馈就是它太精彩了。于是 Dylan 前来\"修正\"这一点，畅谈 SemiAnalysis 的 AI 支出、Gemini、他最喜欢的动漫等话题！",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月17日23时1分"
+  },
+  {
+    "id": "cmsxesocv029troi2vqewpvbz",
+    "title": "OpenAI 携手 NVIDIA 签约 4+GW 算力",
+    "url": "https://x.com/markchen90/status/2089366892024893445",
+    "summary": "我们很高兴能与 NVIDIA 展开大规模合作，签约 4+GW 的算力容量。这是前沿训练所需的规模！",
+    "source": "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
     "date": "2026年8月17日23时1分"
   },
   {
@@ -14421,6 +14517,14 @@
     "url": "https://www.ithome.com/0/990/845.htm",
     "summary": "外媒 404 Media 通过藏入 AirTag 的追踪调查发现，亚马逊在拉斯维加斯仓库由 VGT3 团队处理书籍，为提高扫描效率先切掉书脊，原书在过程中被毁，扫描数据用于训练 Nova 模型。Anthropic 此前也开展过类似\"巴拿马计划\"，相关诉讼中法官裁定此类扫描属合理使用，不构成版权侵权。",
     "source": "IT之家（RSS）",
+    "date": "2026年8月17日22时56分"
+  },
+  {
+    "id": "cmsxf404902naroi23oukhye9",
+    "title": "Gary Marcus 反驳 Dario Amodei：五年到十年内治愈癌症与\"大多数人类疾病\"不现实",
+    "url": "https://garymarcus.substack.com/p/no-dario-amodei-we-will-not-be-curing",
+    "summary": "Gary Marcus 撰文反驳 Anthropic CEO Dario Amodei 关于\"五到十年内治愈癌症和大多数人类疾病\"的乐观预测，认为其遗漏了关键前提。Marcus 指出，当前 AI 在生物学与医学领域的实际能力仍受限于数据质量、可解释性及验证机制，远未达到可支撑此类承诺的成熟度。文章强调，缺乏严谨科学验证的过度承诺可能误导公众预期与政策方向。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
     "date": "2026年8月17日22时56分"
   },
   {
