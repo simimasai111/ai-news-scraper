@@ -13864,12 +13864,76 @@
     "date": "2026年8月18日0时8分"
   },
   {
+    "id": "cmsxh3wxj01tsroswxhb6625g",
+    "title": "Sol超快计算机用整理Slack侧边栏",
+    "url": "https://x.com/jxnlco/status/2089394551945367897",
+    "summary": "我：用 Sol 超快计算机用功能整理我的 Slack 侧边栏 / 分区",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月18日0时50分"
+  },
+  {
+    "id": "cmsxh4bc901x4roswsn6c8rw7",
+    "title": "Trajectory 在持续学习赛道上的执行获 swyx 称赞",
+    "url": "https://x.com/swyx/status/2089393073327653344",
+    "summary": "swyx 称赞 Trajectory 在持续学习赛道上的品味与执行，称其为该领域早期领先者之一。Trajectory 的 rronak_ 在 aiDotEngineer World Fair 上阐述了其解决持续学习主要数据问题的方法，包括为何 GRPO 不够用、必须转向 on-policy 并修复随之而来的问题，并分享了扩展 SDPO 等算法的经验。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月18日0时45分"
+  },
+  {
+    "id": "cmsxh3zp201veroswbcpzdz15",
+    "title": "AI 每日复盘网页消息行为并排优先级",
+    "url": "https://x.com/gabriel1/status/2089392057806631027",
+    "summary": "每天，AI 都会浏览我访问过的所有网页、发送的消息以及执行的操作，从中找出可改进之处和错误。\n\n一天结束时，它会生成一份优先级排名前十的清单。\n\n它能发现重复预订、忘记授予 Google 文档权限、错误的发票、SEO 问题等。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月18日0时41分"
+  },
+  {
+    "id": "cmsxh2ro701rdrosw8etdu17i",
+    "title": "亚马逊为训练 AI 模型大量购入并销毁珍稀书籍",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+    "summary": "据 404 Media 报道，亚马逊正大量购入珍稀书籍，切掉书脊后扫描用于 AI 训练，其追踪器最终抵达亚马逊位于拉斯维加斯的 VGT3 设施。亚马逊回应称通过商业渠道购书以改善客户使用的产品与服务。这些绝版或网上难寻的书籍提供了宝贵训练数据，因 2022 年前出版的文本可避免\"模型崩溃\"风险。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月18日0时38分"
+  },
+  {
+    "id": "cmsxh2s5p01rprosw204ap68x",
+    "title": "AI 生成的 GitHub Copilot\"自动修复\"功能导致 Snowflake 的 Jira 系统遭到入侵",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "summary": "一个由 AI 生成的修复方案在 Snowflake 公共仓库中引入了工作流注入漏洞，并在数天内被 Wiz Red Agent 发现。该漏洞导致 Snowflake 的 Jira 系统遭到入侵。Wiz Red Agent 已发布完整研究分析。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日0时38分"
+  },
+  {
+    "id": "cmsxh2syh01s3roswndm99gua",
+    "title": "Grok Bot 获赞，或成下一个 Claude Code",
+    "url": "https://x.com/omarsar0/status/2089391064184492138",
+    "summary": "Grok Bot 太棒了！我对 Grok 模型最近的更新印象非常深刻。\n\n如果你曾想尝试 Codex 和 Claude Code 之外的不同产品，Grok Bot 值得一试。\n\n【引用 @GavinSBaker】：我认为 @bot 是 AI 领域的又一个\"Claude Code\"时刻。\n\n我估计我的个人 AI 使用量增长了大约 100 倍。\n\n对于所有来问我如何构建\"播客摘要器\"的人，我在 Grok Bot 里大约 15 秒就搞定了，而且比我之前的方案更好。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月18日0时37分"
+  },
+  {
+    "id": "cmsxh3w7801terosw1htjr31p",
+    "title": "微软参展SIGCOMM 2026展示网络研究",
+    "url": "https://x.com/MSFTResearch/status/2089389434026234340",
+    "summary": "微软很荣幸参与 SIGCOMM 2026。欢迎查看我们的分会场，涵盖网络流量工程、新型负载均衡策略、自适应光子交换调度、AI 网络模拟等内容。https://msft.it/6018aKgfp",
+    "source": "X：Microsoft Research (@MSFTResearch)",
+    "date": "2026年8月18日0时30分"
+  },
+  {
     "id": "cmsxg1owo017grosw403vcdis",
     "title": "Luma Seedance 2.5 上线，支持 1080p 与 4K 升级",
     "url": "https://x.com/LumaLabsAI/status/2089382307182281025",
     "summary": "Seedance 2.5 的 1080p 版本现已上线。可使用 Luma 升级至 4K。",
     "source": "X：Luma AI (@LumaLabsAI)",
     "date": "2026年8月18日0时2分"
+  },
+  {
+    "id": "cmsxh3y7v01ugroswntu06die",
+    "title": "Grok Bot 被称 AI 领域又一\"Claude Code\"时刻",
+    "url": "https://x.com/elonmusk/status/2089388021154283625",
+    "summary": "Grok @Bot\n\n【引用 @GavinSBaker】：我认为 @bot 是 AI 领域的又一个\"Claude Code\"时刻。\n\n我估计我个人使用 AI 的频率提升了大约 100 倍。\n\n对于所有来问我如何搭建\"播客摘要器\"的人--我在 Grok Bot 里大约 15 秒就搞定了，而且效果比我之前用的还要好。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月18日0时24分"
   },
   {
     "id": "cmsxfdsk20382roi2gt6zld4i",
