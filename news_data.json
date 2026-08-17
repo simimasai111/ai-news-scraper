@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsxq3q3x07h2roz0z906es50",
+    "title": "PhotoScan：用智能手机照片估算胰岛素抵抗，精度接近DXA",
+    "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery",
+    "summary": "Google Research 推出 PhotoScan，一种从智能手机 2D 照片直接估算三维身体成分的深度学习框架，可预测胰岛素抵抗，在临床研究中精度接近 DXA 扫描。",
+    "source": "Google Research：Blog（网页）",
+    "date": "2026年8月18日5时5分"
+  },
+  {
     "id": "cmsxom4me067mroz0g5qt9mi1",
     "title": "OpenAI 训练模型编写超人类安全代码",
     "url": "https://x.com/rohanpaul_ai/status/2089444226430111876",
@@ -13872,12 +13880,36 @@
     "date": "2026年8月18日4时5分"
   },
   {
+    "id": "cmsxppddv06wbroz0v7z68e2h",
+    "title": "Hermes Desktop 新增 Bot Mode 打造专属 AI 智能体",
+    "url": "https://x.com/testingcatalog/status/2089455631044669877",
+    "summary": "Nous Research 为 Hermes Desktop 推出 Bot Mode，用户可将智能体档案转化为一系列具名 Bot。每个 Bot 拥有独立角色、模型、记忆、技能和头像，可使用任意模型并相互通信，一次构建即可长期复用。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月18日4时53分"
+  },
+  {
     "id": "cmsxpfwxr06oxroz0kjfuty3w",
     "title": "Our AI Costs Jumped 230 Percent. I'm Not Setting Token Budgets-Yet.",
     "url": "https://every.to/p/our-ai-costs-jumped-230-percent-i-m-not-setting-token-budgets-yet",
     "summary": null,
     "source": "Every：最新文章（网页）",
     "date": "2026年8月18日4时47分"
+  },
+  {
+    "id": "cmsxpnfgb06q6roz0ixblj6s7",
+    "title": "密集模型本地运行提速引惊叹",
+    "url": "https://x.com/AravSrinivas/status/2089451933321052366",
+    "summary": "密集模型在本地硬件上运行缓慢，但这令人难以置信，也预示着不久后的趋势。\n\n【引用 @ggerganov】：细品一下",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月18日4时38分"
+  },
+  {
+    "id": "cmsxpniwv06r2roz02peoshlu",
+    "title": "AirTag追踪证实亚马逊为训练AI销毁珍本图书",
+    "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+    "summary": "404 Media通过藏在珍本中的AirTag追踪发现，亚马逊在拉斯维加斯的AI训练设施VGT3将批量采购的珍本图书拆毁扫描，用于训练其前沿模型。亚马逊拒绝就此事置评，仅称通过商业渠道购书以改进产品服务。此前书商怀疑AI公司按ISBN系统化扫描全球图书，此次调查为这一理论提供了佐证。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日4时38分"
   },
   {
     "id": "cmsxp6i9006ljroz02ecd2vxs",
@@ -13888,12 +13920,28 @@
     "date": "2026年8月18日4时27分"
   },
   {
+    "id": "cmsxpniwv06r3roz0v2ddhte8",
+    "title": "AI；DR：AI 生成内容泛滥下的新阅读政策",
+    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "summary": "一位科技从业者提出\"AI；DR\"（AI；没读）新政策：如果发信人不愿花时间审阅和编辑 AI 生成的内容，收信人也不愿费心阅读。作者认为，在 Slack 讨论、新闻通讯和社交媒体中，未经编辑的 AI 输出已引发普遍反感，而客户支持等场景则可接受 100% AI 生成内容。该政策旨在呼吁人们在沟通中保留\"人的触感\"。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日4时22分"
+  },
+  {
     "id": "cmsxom4me067lroz0u5jiu809",
     "title": "字节 Harness-IF：评测编码智能体指令遵循",
     "url": "https://x.com/rohanpaul_ai/status/2089447520711880740",
     "summary": "字节跳动新论文提出 Harness-IF 基准，测试编码智能体在指令与模型默认行为相悖时的遵循能力。在 12 个前沿模型、60 个多轮编码任务中，所有模型在此类对抗性指令上得分均更低，表明智能体可控性可能被高估。该基准将指令分布于系统提示、工具描述、技能描述、项目文件及用户指令等编码智能体实际读取的位置。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月18日4时21分"
+  },
+  {
+    "id": "cmsxpts5p06yoroz00hfoz9ch",
+    "title": "Claude Code v2.1.234 发布：新增项目目录名变量与 GitLab MR 徽章，修复多项安全与稳定性问题",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.234",
+    "summary": "Claude Code v2.1.234 新增可选 CLAUDE_CODE_PROJECT_DIR_NAME 环境变量、selection：clear 键绑定及 GitLab MR 徽章，并在用量限制重置后自动继续会话。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月18日4时20分"
   },
   {
     "id": "cmsxny9ol05yiroz0d334di98",
