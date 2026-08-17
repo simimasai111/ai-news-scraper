@@ -13856,6 +13856,30 @@
     "date": "2026年8月18日5时5分"
   },
   {
+    "id": "cmsxqr8ws07oyroz0ubh32f6v",
+    "title": "Grok Imagine 荷马史诗短片大赛，头奖 10 万美元",
+    "url": "https://x.com/cb_doge/status/2089458330309980425",
+    "summary": "SpaceXAI 推出电影制作竞赛，要求创作者用 Grok Imagine 将荷马《奥德赛》场景搬上银幕，奖金总额 10 万美元。参赛需提交 3-5 分钟英文视频，至少 1 分钟对白，视频、图像及角色声音须由 Grok Imagine 生成，其他工具可用于剪辑、配乐和音效。面向 18 岁以上美国居民，截止日期为 2026 年 8 月 31 日。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月18日5时4分"
+  },
+  {
+    "id": "cmsxqrphl07s1roz0q2q36e3c",
+    "title": "前SpaceX工程师用机器人打造钢铁零件自动化工厂",
+    "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts",
+    "summary": "三位前SpaceX工程师创立初创公司1872，利用AI驱动软件和机器人实现钢铁零件制造自动化，目标2027年前建成原型工厂。公司7月22日在俄亥俄州辛辛那提Factory One设施启动，初期聚焦自动化生产钢制底座，供应AI数据中心或小型模块化核反应堆客户。CEO Dan Summers表示追求约80%自主运营，而非盲目追求100%全自动化。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月18日5时18分"
+  },
+  {
+    "id": "cmsxqq56207n2roz0cehhrl4b",
+    "title": "GitSkills：380万智能体技能数据集发布",
+    "url": "https://x.com/omarsar0/status/2089460996045676882",
+    "summary": "GitSkills 数据集收录了 GitHub 上 282，200 个公共仓库中的约 380 万份 SKILL.md 文件，归并为 1，877，981 个不同技能内容，以单个 SQLite 文件提供。该数据集基于 Anthropic 发布技能格式九个月后的全量挖掘，可用于提取智能体设计模式与灵感。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月18日5时14分"
+  },
+  {
     "id": "cmsxom4me067mroz0g5qt9mi1",
     "title": "OpenAI 训练模型编写超人类安全代码",
     "url": "https://x.com/rohanpaul_ai/status/2089444226430111876",
