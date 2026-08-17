@@ -14400,12 +14400,44 @@
     "date": "2026年8月17日1时11分"
   },
   {
+    "id": "cmsx6e4al02cfromm8p06u65r",
+    "title": "宇树人形机器人跳跃与奔跑超越人类纪录",
+    "url": "https://x.com/rohanpaul_ai/status/2089318974047859057",
+    "summary": "宇树发布人形机器人\"超人\"演示：立定跳高2米，最高奔跑速度12.66 m/s（约28.3 mph），超过博尔特约12.4 m/s的峰值速度。该机器人腿长0.85米，研发仅三个多月，仍有较大提升空间。不过这些均为峰值性能演示，续航、加速、能耗及可重复性仍未知。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日19时50分"
+  },
+  {
+    "id": "cmsx6eg5j02dyrommirwe615s",
+    "title": "Anthropic 为 Claude 输出添加水印，批评者质疑文本质量代价",
+    "url": "https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs",
+    "summary": "Anthropic 为 Claude 输出嵌入基于词选统计模式的水印，以符合欧盟《AI 法案》要求。博主 John Gruber 反驳称，模型依据水印密钥而非语义选词必然损害文本质量，并质疑 Google DeepMind 的 SynthID 研究不足以证明质量无影响。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月17日19时43分"
+  },
+  {
     "id": "cmsx59hrw01iqromm20s2tzap",
     "title": "卧槽兄弟们，一个API中转站， 卖了70多亿美元🤯。。。 @business 刚报的，@stripe 收购@OpenRouter ，金额超过💲70亿，早期谈判价甚至到过💲100亿， 比Met…",
     "url": "https://x.com/AYi_AInotes/status/2089307122358006218",
     "summary": null,
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年8月17日19时3分"
+  },
+  {
+    "id": "cmsx6ednr02dcrommfly5bxyj",
+    "title": "宇树发布人形机器人\"超人\"可跳2米",
+    "url": "https://x.com/thexpin/status/2089315051014418627",
+    "summary": "宇树科技发布了一款名为\"超人\"的新型人形机器人，宣称其站立跳跃高度达2米，最高速度12.66米/秒（28.3英里/小时），而腿长仅0.85米。宇树表示，该机器人在三个多月内开发完成，未来几个月仍有显著改进空间。公司声称其目前的跳跃和奔跑性能已超越人类纪录。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月17日19时35分"
+  },
+  {
+    "id": "cmsx6cugr0281rommhk94edd2",
+    "title": "MathCode：内置数学形式化引擎的终端 AI 编程助手",
+    "url": "https://math-ai-org.github.io/mathcode",
+    "summary": "MathCode 是一款终端 AI 编程助手，内置数学形式化引擎，可将自然语言数学问题自动转换为 Lean 4 定理并尝试形式化证明。其持久化 Lean REPL 将编译检查从约 30 秒缩短至约 0.4 秒，并支持定理/公理库、智能体证明、子目标树并行证明及 Obsidian 知识图谱。支持 macOS （arm64） 与 Linux （x86_64），默认后端需 codex CLI。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月17日19时33分"
   },
   {
     "id": "cmsx5beyr01mpromm824sz2v8",
@@ -14422,6 +14454,14 @@
     "summary": "8月16日，第二届世界人形机器人运动会在北京举行模拟消防救援比赛，23支队伍参赛，重点检验机器人在复杂现实环境中的实际作业能力。每台机器人需在30分钟内完成识别危险物质、关闭阀门和扑灭火源三项任务，当日12支参赛队伍中仅3支完成全部挑战。比赛暴露出降雨、光线变化和室外条件对视觉识别与机械操作的干扰，遥操作和全向轮等方案仍被部分队伍采用。",
     "source": "IT之家（RSS）",
     "date": "2026年8月17日18时5分"
+  },
+  {
+    "id": "cmsx6cvvc028orommrr7yefkn",
+    "title": "Anthropic 详解 Claude 隐形文本水印如何运作",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "summary": "Anthropic 为遵守欧盟《人工智能法案》透明度要求，将采用 Google DeepMind 开源 SynthID-Text 技术的\"一个版本\"为 Claude 生成文本添加隐形水印。该水印利用低风险词汇选择的随机性模式标记内容，读者无感但持有密钥者可检测，且不会增加用户成本或影响输出质量。Anthropic 同时为 Claude 处理的图片引入 C2PA 支持。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月17日18时57分"
   },
   {
     "id": "cmsx59itf01iuromm3df9ectc",
