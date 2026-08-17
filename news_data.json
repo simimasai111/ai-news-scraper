@@ -14400,6 +14400,62 @@
     "date": "2026年8月17日1时11分"
   },
   {
+    "id": "cmswrdvg1015arox7fu2k3njy",
+    "title": "架构选择如何影响大模型长上下文扩展",
+    "url": "https://x.com/rohanpaul_ai/status/2089212877198762043",
+    "summary": "一项研究测试了26个7B模型，发现QK归一化、分组查询注意力、滑动窗口注意力和较短预训练上下文等架构选择，单独影响不大，但叠加会严重损害长上下文能力。在HELMET 32K评测中，分数从29.9到56.4不等，而短上下文评测几乎无法区分这些模型。长上下文能力在训练开始前就已部分决定，架构需要早期压力测试。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月17日12时49分"
+  },
+  {
+    "id": "cmswrdsem012wrox7vaz70hf7",
+    "title": "ChatGPT 订阅新玩法：Codex 路由",
+    "url": "https://x.com/frxiaobei/status/2089211618626510956",
+    "summary": "ChatGPT 订阅还能这么玩 👍👍👍",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月17日12时44分"
+  },
+  {
+    "id": "cmswrit18017lrox7fpn2vfpj",
+    "title": "阿里云AgentLoop审计如何过滤安全噪音",
+    "url": "https://x.com/alibaba_cloud/status/2089207829651439705",
+    "summary": "🚨 智能体安全告警常被噪音淹没。🧭 AgentLoop Audit 将真实风险与噪音区分开来：ꔷ 完整会话与工具事实 ꔷ 上下文风险分析 ꔷ 一键定位证据 ꔷ 按密钥、应用与用户追踪影响 🔗 https://click.alibabacloud.com/m/20000002385/\n\n#AIAgent #Security #AgentSecurity #AISecurity #LLMOps",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月17日12时28分"
+  },
+  {
+    "id": "cmswrdsem012xrox7x98ez6oi",
+    "title": "每百万Token便宜不等于省钱：Tibo戳破行业错觉",
+    "url": "https://x.com/frxiaobei/status/2089206837157789936",
+    "summary": "Tibo指出，每百万Token单价更低不代表模型用起来更省钱--不同模型生成相同文本所需Token数不同，单价低可能总账单更高。其引用对比显示，GPT-5.6 Sol的tokenizer用766个token，而Claude Opus 5估计需1，170个，少约34.5%。真正该看的是每次成功结果的价格，而非单价。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月17日12时25分"
+  },
+  {
+    "id": "cmswq99zc03quroztv1o4v9z9",
+    "title": "Codex 解锁 GPT-5.6 Sol 百万上下文",
+    "url": "https://x.com/AYi_AInotes/status/2089199996159598689",
+    "summary": "OpenAI Codex 负责人 Tibo 公布解锁方法：在 `~/.codex/config.toml` 顶部加三行配置，即可将 GPT-5.6 Sol 的上下文窗口从默认约 25-37 万 token 提升至 100 万 token（官方支持 105 万）。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月17日11时57分"
+  },
+  {
+    "id": "cmswq99yh03qcroztqa3915z6",
+    "title": "死后人脑组织控制机械手弹钢琴：法国团队用 OPAB 构建混合 AI 闭环系统",
+    "url": "https://www.ithome.com/0/990/583.htm",
+    "summary": "法国团队将死后成人脑组织外植体（OPAB）接入微电极阵列、麦克风和仿生机械手，构建可感知、行动、再学习的闭环系统。训练三天后，16 个 OPAB 的平均模仿准确率从 31.22% 升至 58.5%，其中 3 个能 100% 正确模仿全部三个音符，62.5% 学会至少两个音符。长期追踪的 5 个样本中，4 个在训练结束 17 天后仍保留学习结果。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日11时55分"
+  },
+  {
+    "id": "cmswq99yh03qerozt38mjemrp",
+    "title": "澳大利亚社交媒体禁令技术报告被曝引用错误，机构承认使用ChatGPT编辑",
+    "url": "https://www.ithome.com/0/990/579.htm",
+    "summary": "负责测试澳大利亚社交媒体禁令年龄验证技术的ACCS报告被曝存在多处引用错误，机构最初否认后承认曾用ChatGPT改写部分段落，但否认错误由AI幻觉造成。卫报分析发现同一章节有6条参考文献存在DOI指向错误论文、作者与期刊信息不符等问题。该报告耗资348万澳元，曾为澳大利亚去年12月生效的社交媒体禁令铺路，目前参议院正就此展开调查。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月17日11时48分"
+  },
+  {
     "id": "cmswp8qhh02pyroztrgrbfbc0",
     "title": "智能体技能即使与任务完全相关仍可能使 LLM 智能体表现更差",
     "url": "https://x.com/rohanpaul_ai/status/2089196267930800136",
