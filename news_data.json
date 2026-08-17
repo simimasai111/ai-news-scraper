@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsxkbpcm032broz0bddl8qqy",
+    "title": "Grok 应用新增 Grok Bot 快捷入口",
+    "url": "https://x.com/cb_doge/status/2089413919417024816",
+    "summary": "Grok 应用现在有了 Grok Bot 的快捷方式，一键即可轻松访问。\n\n在此试用 Grok Bot：https://x.ai/bot",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月18日2时7分"
+  },
+  {
+    "id": "cmsxkale10306roz09mzje37l",
+    "title": "LLM编码模型或优于扩散模型",
+    "url": "https://x.com/trq212/status/2089415712007938315",
+    "summary": "最近所有的程序化生成艺术、视频编辑和3D游戏演示，让我更新了看法--LLM编码模型在大量创意工作上比扩散模型更出色。",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月18日2时14分"
+  },
+  {
+    "id": "cmsxkalem0308roz0mgl3htik",
+    "title": "智能体技能生态：56，804 个技能争抢不足 100 个触发位",
+    "url": "https://x.com/omarsar0/status/2089411994499903566",
+    "summary": "一篇面向智能体技能开发者的论文指出，当前 56，804 个公开技能都在争夺系统提示词中不足 100 个的可靠触发位。论文提出用\"路径\"分离技能的内容、持久化与自动触发，仅触发需驻留提示词；目录即菜单，供应商可将技能复制进 Git 树供团队自主适配，无需 manifest 或 lockfile。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月18日2时0分"
+  },
+  {
     "id": "cmsxi6ljs02tproswie6yj4cm",
     "title": "Menlo 旗下 Wispr Flow 与 Higgsfield 双双完成巨额融资",
     "url": "https://x.com/deedydas/status/2089398673230938591",
@@ -13862,6 +13886,62 @@
     "summary": "Xpander 获 750 万美元融资，推出统一 AI 智能体运行时，让企业一次发布智能体后，授权同事可在自身权限下调用。用户可用自然语言让 Omni 构建智能体，也可用 LangChain 等框架自建，最终都进入同一运行时，获得内存、部署、权限、可观测性与工具访问能力。云版提供 1000 免费额度，支持自托管。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月18日1时6分"
+  },
+  {
+    "id": "cmsxkakju0300roz0zx6cvdeu",
+    "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+    "url": "https://www.librarian.net/notoai",
+    "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日1时58分"
+  },
+  {
+    "id": "cmsxjbtk6018lroz0ywmuve4h",
+    "title": "SGLang 重构 CUDA Graph 支持，Breakable CUDA Graph 成 prefill 默认方案",
+    "url": "https://www.lmsys.org/blog/2026-08-17-advanced-cuda-graph",
+    "summary": "SGLang 重构 CUDA Graph 支持，通过 runner/backend 接口拆分使不同捕获策略可复用。其社区首创的 Breakable CUDA Graph（BCG）现为 prefill 默认方案，代码量仅为 torch.compile 方案的约四分之一（521 行对比 1，771 行），构建速度快 3.8-5.2 倍。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "date": "2026年8月18日1时56分"
+  },
+  {
+    "id": "cmsxjnrx002t3roz0vd4hbsxx",
+    "title": "Cursor 推出代码托管平台 Origin",
+    "url": "https://x.com/Yuchenj_UW/status/2089410736900698351",
+    "summary": "今天早上 GitHub 对我这边宕机了。\n\nCursor 又推出了一个 GitHub。\n\n时机挺有意思。\n\n【引用 @cursor_ai】：Origin，我们的代码托管平台，现已上线。\n\n它快速、易用，并与 Cursor 深度集成。\n\n从 GitHub 同步你的仓库即可开始使用。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月18日1时55分"
+  },
+  {
+    "id": "cmsxj98p3016eroz0da122sc6",
+    "title": "用 docTR 构建端到端文档智能流水线：OCR、版面分析、KIE、基准测试与可搜索 PDF",
+    "url": "https://www.marktechpost.com/2026/08/17/end-to-end-document-intelligence-pipeline-with-doctr-for-ocr",
+    "summary": "本教程基于 docTR 构建端到端 OCR 工作流，覆盖文本检测、识别、版面分析、结构化抽取与导出。通过合成发票数据，对比不同检测-识别架构组合的速度与精度，并实现低置信度二次识别、旋转文档处理、KIE 字段抽取及可搜索 PDF 导出。最后讨论微调、批处理与部署，展示从基础 OCR 到生产级文档智能流水线的路径。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月18日1时52分"
+  },
+  {
+    "id": "cmsxj93h90144roz0648bfczy",
+    "title": "Cursor 推出 GitHub 竞品 Origin 代码托管平台",
+    "url": "https://x.com/kimmonismus/status/2089407302600429591",
+    "summary": "Cursor 正式上线代码托管平台 Origin，直接对标 GitHub。开发者可在 Cursor 内托管仓库、管理 PR、审查代码，并通过 Vercel 等集成部署，且能与 Cursor 编程智能体协同。现有 GitHub 仓库支持双向同步，GitHub 仍作为数据源。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月18日1时41分"
+  },
+  {
+    "id": "cmsxjnwqm02tdroz0qz33ia4h",
+    "title": "OpenRouter 半价上线 GPT-5.6 Sol",
+    "url": "https://x.com/OpenRouter/status/2089406144297214339",
+    "summary": "OpenAI 的 GPT-5.6 Sol 现在在 OpenRouter 上享半价优惠！\n\n此优惠同样适用于批处理 API、flex 和 priority（快速）层级，flex 层级价格低至输入 $1.25、输出 $7.50。\n\n折扣自动生效，直接使用 openai/gpt-5.6-sol 即可。https://openrouter.ai/openai/gpt-5.6-sol",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月18日1时36分"
+  },
+  {
+    "id": "cmsxj9sxu0181roz0jf0i71ga",
+    "title": "Cursor 推出 Origin 代码托管平台测试版",
+    "url": "https://x.com/testingcatalog/status/2089404632371990585",
+    "summary": "CURSOR 🔥：Origin，一个新的代码托管平台，正在推出测试版！\n\n> 它快速、易用，并且与 Cursor 深度集成。\n\nOrigin 测试时间到了 👀\n\n【引用 @cursor_ai】：我们从今天开始推出测试版。\n\nhttps://cursor.com/changelog/origin-code-hosting",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月18日1时30分"
   },
   {
     "id": "cmsxi809j02vnroswjnpyp2gv",
