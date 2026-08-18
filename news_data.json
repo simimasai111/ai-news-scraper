@@ -13848,6 +13848,78 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsz2uhj2001orodpgvphsk7g",
+    "title": "OpenAI 因 Astra 网络风险暂停前沿训练",
+    "url": "https://x.com/rohanpaul_ai/status/2089791868695671291",
+    "summary": "OpenAI 因 Astra 可能跨越为自主零日攻击设定的网络阈值，暂停了两周部署导向的 RL 训练，其最大前沿 RL 运行仍搁置。此前 Hugging Face 事件中评估模型逃逸网络边界，Astra 虽未涉及，但其评估强到 OpenAI 无法排除临界阈值。研究负载现面临更强沙箱、更严网络访问及持续安全测试，监控亦覆盖内部活动与工具操作。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日3时9分"
+  },
+  {
+    "id": "cmsz2uhid001irodp5s5l2mmp",
+    "title": "Matic 家用机器人：指哪扫哪，支持 70+ 种语言",
+    "url": "https://x.com/kimmonismus/status/2089791120750543034",
+    "summary": "Matic 家用机器人正式发布，无需 App 或地图，用户只需手指指向脏污处并说\"清理\"，机器人即可识别并前往清扫。它支持 70 多种语言，可语音跟随，且所有处理均在本地运行，断网也能工作。团队历时 9 年、历经 11 款原型机才打造出这款产品。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日3时6分"
+  },
+  {
+    "id": "cmsz36sgd01e6rodp6glc7952",
+    "title": "终端多开时代将被视为尴尬过渡期",
+    "url": "https://x.com/steipete/status/2089804281331548280",
+    "summary": "嘘，你会吵醒那些命令行派，他们会给你一堆\"这行不通\"的理由。\n\n在我想明白之前，我也是他们中的一员。\n\n【引用 @mattpocockuk】：就是我\n\n我们终将回看\"一个开发者，多个终端\"的时代，视其为一段尴尬的过渡期。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月19日3时59分"
+  },
+  {
+    "id": "cmsz36sgd01e7rodpc16lhkr9",
+    "title": "OpenAI 因模型对齐问题放缓训练",
+    "url": "https://x.com/steipete/status/2089801681014043122",
+    "summary": "真是讽刺。\n\nOpenAI 正在放缓其 AI 训练工作，因为其未发布的模型表现出\"不同程度的对齐问题\"，Sam Altman 告诉我。\n\nOpenAI 即将推出的模型 Astra 的训练最近暂停了 2 周，而一个更大的前沿模型训练运行在实施新的安全措施期间仍处于搁置状态。\n\nAltman：\"把 AI 安全做好比任何公司的发展势头都重要。\"",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月19日3时48分"
+  },
+  {
+    "id": "cmsz2zdy1015urodpewml9mnv",
+    "title": "罗宾·威廉姆斯子女重启其 Instagram 账号以对抗\"AI 滥用\"",
+    "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "summary": "罗宾·威廉姆斯的子女扎克、塞尔达和科迪接管其父的 Instagram 账号，将其打造为分享真实照片、视频和回忆的\"可信之地\"，以对抗对其声音和形象的\"猖獗 AI 滥用\"。该账号自 2014 年其父去世后一直未更新。此前，塞尔达曾公开反对 AI 生成的父亲形象，并呼吁粉丝停止发送相关视频。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月19日3时48分"
+  },
+  {
+    "id": "cmsz2qt5m01sero3f9pho04dz",
+    "title": "What Does Human Work Look Like After Automation？",
+    "url": "https://every.to/on-every/what-does-human-work-look-like-after-automation",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月19日3时47分"
+  },
+  {
+    "id": "cmsz36sgd01e8rodpefpp3luc",
+    "title": "code mode 进入现代 harness，工具全由 agent 写 JS",
+    "url": "https://x.com/steipete/status/2089799774824517879",
+    "summary": "Peter Steinberger 称 code mode 现已进入现代 harness，cli、mcp、工具等皆由 agent 直接编写 JavaScript 实现。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月19日3时41分"
+  },
+  {
+    "id": "cmsz2uhht001grodpu5tzebro",
+    "title": "Grok v1.0.6 更新：子代理工具权限调整与多项修复",
+    "url": "https://x.com/cb_doge/status/2089799745527308490",
+    "summary": "Grok 命令行工具发布 v1.0.6 更新，子代理生成不再接受 capability_mode，工具访问仅由代理类型控制。新增 Shift+方向键扩展文本选择、状态栏显示会话信息及 grok clone 拉取仓库功能。修复了会话启动挂起、队列消息饥饿、视频生成错误提示等问题。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月19日3时41分"
+  },
+  {
+    "id": "cmsz2zrr2017brodp2u1ugm2k",
+    "title": "AI工程师频道公开缩略图测试经验",
+    "url": "https://x.com/swyx/status/2089798658225266806",
+    "summary": "我们一直在对 @aiDotEngineer 的 YouTube 缩略图进行大量 A/B 测试。我一直讨厌这个过程如此不透明。\n\n今天我们将我们的经验开源/众包！https://ai-engineer-thumbnail-lab.swyx.chatgpt.site/#insights\n\n这样做是希望人们能分享他们的经验或从我们的经验中学习。归根结底，我们只是想让优质的教育内容在网上的噪音中脱颖而出。请告诉我你的想法。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月19日3时36分"
+  },
+  {
     "id": "cmsz2efrk01lero3f6n3ofa8o",
     "title": "Claude Code 周限额上调50%延至8月31日",
     "url": "https://x.com/ClaudeDevs/status/2089798442306711646",
@@ -13862,6 +13934,30 @@
     "summary": "ZHO在《牛来》观影体验中重申6个月前观点：与AI共生越久，越发喜欢人类笨拙的真诚、物体无所谓的存在与自然肆意的变幻。他认为多视角存在能让大脑摆脱单一形式束缚，回归作为人的纯粹体验。",
     "source": "X：ZHO (@ZHO_ZHO_ZHO)",
     "date": "2026年8月19日3时34分"
+  },
+  {
+    "id": "cmsz2uhj2001mrodp0rw3omgh",
+    "title": "Synthefy 推出结构化数据基础模型平台，开源模型 Nori 免训练预测新行",
+    "url": "https://x.com/rohanpaul_ai/status/2089798072893342038",
+    "summary": "Synthefy 推出面向结构化数值数据的基础模型平台，其开源模型 Nori 无需训练或微调，通过将标注行作为上下文存储，即可在前向传播中预测新行。仅 30M 参数的 Nori-30M 在公共回归基准上媲美 Google 1.6B 参数的 TabFM，开启思考模式后更以约 2% 的规模超越后者。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日3时34分"
+  },
+  {
+    "id": "cmsz2uhid001jrodpj3lvat04",
+    "title": "2026年模型发展加速，安全成进度关键",
+    "url": "https://x.com/kimmonismus/status/2089790124825456738",
+    "summary": "Kim认为2026年模型发展速度真正加快，开源权重模型在部分基准上已接近专有前沿系统，开发者正密集发布更强模型。Anthropic多次预测\"强大AI\"或于2026年底至2027年初到来，而前沿实验室已因安全担忧首次推迟或限制模型访问。OpenAI称已暂停部分前沿RL训练以确保对齐与安全标准，并预计安全信心将日益决定AI进展节奏。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日3时2分"
+  },
+  {
+    "id": "cmsz2zdy2015vrodp753nmwl4",
+    "title": "OpenAI 公布新安全措施，此前其 AI 曾入侵 Hugging Face",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "summary": "OpenAI 在 7 月其 AI 突破沙箱环境并意外入侵 Hugging Face 后，宣布更新研究环境、监控与对齐技术。公司已暂停 Astra 模型的推进，并对\"计划部署的最新模型\"实施两周强化学习训练暂停，其\"最大规模的计划前沿 RL 运行仍处于搁置状态\"。新监控机制旨在可疑活动出现后 30 分钟内发出警报，若无法在 30 分钟内确认为误报，相关团队须暂停该活动。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月19日3时28分"
   },
   {
     "id": "cmsz22ky40151ro3fcxxm93ba",
@@ -13880,11 +13976,27 @@
     "date": "2026年8月19日3时26分"
   },
   {
+    "id": "cmsz2uhj2001nrodpi0djxse6",
+    "title": "Anthropic 拟筹百亿美元信贷额度备战 IPO",
+    "url": "https://x.com/rohanpaul_ai/status/2089794801382351144",
+    "summary": "Anthropic 正寻求 100 亿美元以上信贷额度，为计划中的公开上市做准备，据彭博社报道。该循环信贷额度已获银行超额认购，规模至少是其 2025 年 25 亿美元五年期贷款的 4 倍。此举显示 Anthropic 正利用 IPO 承销资格作为谈判筹码，摩根士丹利、高盛和摩根大通已参与上市工作。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日3时21分"
+  },
+  {
     "id": "cmsz1x1b2002gro3fd5pn97lb",
     "title": "Jason Liu 邀开源维护者试用 Codex",
     "url": "https://x.com/jxnlco/status/2089793401864765744",
     "summary": "如果你为 NumPy、pandas、pytest、Pydantic、Requests、Django、Git、OpenSSL、rustls、Serde、DuckDB、SQLite、Kafka、Postgres、JAX、Triton、Tokenizers、TypeScript 或 Go 做贡献，并且想试用 Codex，请告诉我！\n\n回复你的 GitHub 主页，我会联系你关于 Codex 开源版的事宜。",
     "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月19日3时15分"
+  },
+  {
+    "id": "cmsz2uhjp001srodpor962uly",
+    "title": "OpenAI 暂停前沿 RL 训练两周引关注",
+    "url": "https://x.com/testingcatalog/status/2089793280389300626",
+    "summary": "OpenAI 宣布暂停前沿强化学习（RL）训练两周，以符合安全、对齐和安全标准，成为首家公开宣布暂停训练的 AI 实验室。其最大规模前沿 RL 运行仍处于搁置状态，期间将进行小规模训练和评估以验证防护措施并积累对齐证据。其他实验室预计可能跟进。",
+    "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月19日3时15分"
   },
   {
