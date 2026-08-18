@@ -14752,6 +14752,110 @@
     "date": "2026年8月18日1时14分"
   },
   {
+    "id": "cmsyd9oce0rt1roz0hbvkuwoi",
+    "title": "与Codex相比Anthropic界面体验欠佳",
+    "url": "https://x.com/kimmonismus/status/2089621198665621527",
+    "summary": "与 Codex 相比，Anthropic 的 UI/UX 体验不佳，除非你通过 CLI 使用它。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月18日15时51分"
+  },
+  {
+    "id": "cmsyc4zwj0r0froz0xg31yzin",
+    "title": "OpenAI 总裁布罗克曼：为抵御 AI 网络威胁，企业应尽快做好 10 件事",
+    "url": "https://www.ithome.com/0/991/089.htm",
+    "summary": "OpenAI 总裁布罗克曼警告，其 AI 模型成功入侵 Hugging Face 已成为\"网络安全的分水岭时刻\"，企业必须立即加强防护。他列出防御方应尽快落实的 10 项措施，包括为安全团队配备 AI 智能体、立即进行安全评估、将安全审查纳入开发流程等。布罗克曼强调防御方仍有\"窗口期\"，未来数月须大幅提升安全体系自动化水平。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日15时4分"
+  },
+  {
+    "id": "cmsyda86q0rwkroz0togpof7v",
+    "title": "Anthropic 年化收入超 650 亿美元，同比增长七倍",
+    "url": "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion",
+    "summary": "Anthropic 截至 2026 年 7 月底的年化收入超过 650 亿美元，较一年前增长七倍，相关数据已在定期投资者更新中披露。该公司最早可能于 2026 年秋季以 1 万亿美元估值上市，有望抢在 OpenAI 之前登陆公开市场。Anthropic 预计 2028 年营收将达到 1900 亿至 2000 亿美元。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月18日15时37分"
+  },
+  {
+    "id": "cmsyd9rtm0rv3roz06pidx5y5",
+    "title": "社区开源 FP8 优化，MiniCPM5-1B 推理提速近 80%",
+    "url": "https://x.com/OpenBMB/status/2089616805878997091",
+    "summary": "面壁智能点赞社区贡献：@VukRosic99 开源了 MiniCPM5-1B 的 FP8 服务优化，不改官方 checkpoint 即在 RTX 3060 上实现显著加速。其自主研究系统将推理速度从约 165 tokens/秒提升至 287 tokens/秒，提速近 80%，并公开了可复现基准。面壁期待更多 GPU 与负载下的测试结果。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月18日15时34分"
+  },
+  {
+    "id": "cmsyda24a0rw3roz0ayiwt1hn",
+    "title": "求推荐中文写作能力评测基准",
+    "url": "https://x.com/karminski3/status/2089616317989195864",
+    "summary": "有网友好奇目前是否有针对模型写作能力的测试基准，尚未见到，求推荐。引用推文指出DeepSeek V4系列表现反常：更便宜的V4 Flash强于Pro，推理强度更低的V4 Pro High强于Pro Max；写作文风上V4 Pro仍优于其他版本，但与Opus 4.6差距悬殊。",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月18日15时32分"
+  },
+  {
+    "id": "cmsyc4zwj0r0groz07tncm3b4",
+    "title": "企业微信 5.0.10 开放 CLI 与 MCP，10 大办公模块可接入主流 Agent",
+    "url": "https://www.ithome.com/0/991/088.htm",
+    "summary": "企业微信 5.0.10 正式面向所有规模企业开放 CLI 与 MCP 能力，取消人数、资质等门槛限制。WorkBuddy、DeepSeek Harness、Minimax Code 等主流 AI Agent 可直接调用文档、表格、邮件、会议等十大核心办公模块，企业也可接入自建 Agent。数据安全方面，MCP 接入链路叠加权限与审批机制，AI 执行关键动作需人工审批，授权支持有效期且全程可追溯。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日15时2分"
+  },
+  {
+    "id": "cmsyc608a0r3qroz0o1kzzg93",
+    "title": "Launch HN：Speko（YC S26）--面向语音 AI 的 OpenRouter",
+    "url": "https://speko.ai/",
+    "summary": "Speko（YC S26）推出面向语音 AI 的模型路由服务，覆盖 10 种语言、61 个语音与语言模型。它针对非英语场景进行评测，并将每次会话路由到实际表现最优的模型，弥补现有基准测试仅用英语评估的缺口。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日15时2分"
+  },
+  {
+    "id": "cmsyd9rtm0rv4roz0nsv24zvf",
+    "title": "面壁智能 MiniCPM-o 4.5 全双工多模态交互解析",
+    "url": "https://x.com/OpenBMB/status/2089615191273300096",
+    "summary": "面壁智能转发 @LearnOpenCV 对 MiniCPM-o 4.5 的深度解析。这款 9B 开源模型支持实时全双工交互，可同时处理实时视频、输入音频并生成语音回复。其统一流水线整合视觉、音频、推理与流式语音生成，实现更自然的 AI 交互体验。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月18日15时27分"
+  },
+  {
+    "id": "cmsyd4wnh0rq2roz04rx9395c",
+    "title": "OpenAI 首席研究官：对齐研究团队仍在招人",
+    "url": "https://x.com/markchen90/status/2089614833767567458",
+    "summary": "我们许多最优秀的研究人员正选择专注于对齐研究，但我们也在招人！\n\n如果你想在一家认真对待对齐、且不假装问题已解决的前沿实验室工作，请申请。",
+    "source": "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
+    "date": "2026年8月18日15时26分"
+  },
+  {
+    "id": "cmsyc4zwj0r0hroz0ajzsvw6o",
+    "title": "Serve Robotics 与 Grubhub 达成合作，无人配送服务扩展至更多美国城市",
+    "url": "https://www.ithome.com/0/991/087.htm",
+    "summary": "Serve Robotics 宣布与外卖平台 Grubhub 合作，率先在芝加哥、洛杉矶、亚历山德里亚 3 座城市提供人行道机器人配送服务。与 DoorDash 的合作已在华盛顿、圣何塞启动，并即将在迈阿密开设首批微型仓库。Serve 当前在全美部署超 2000 台机器人，为 4000 多家餐厅提供配送支持。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日15时1分"
+  },
+  {
+    "id": "cmsyc7r790r8nroz0v7677qom",
+    "title": "Anthropic 开发 Hub 模式，或用于多智能体可视化",
+    "url": "https://x.com/testingcatalog/status/2089613179936555491",
+    "summary": "Anthropic 正在开发 Hub 模式 👀\n\n* 推测--这可能与一个界面有关，Claude 将在其中操作多个子智能体，并向用户可视化整体进度。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月18日15时19分"
+  },
+  {
+    "id": "cmsycmgww0rkrroz0nfma0z05",
+    "title": "设计 AI 评测：先求清晰，再谈可视化",
+    "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+    "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
+    "source": "Google AI：DEV 作者专属（RSS）",
+    "date": "2026年8月18日15时0分"
+  },
+  {
+    "id": "cmsyc4zwj0r0jroz0mojbmsz0",
+    "title": "半价！全球最大 AI 聚合平台 OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费用",
+    "url": "https://www.ithome.com/0/991/081.htm",
+    "summary": "OpenRouter 宣布 OpenAI 最强模型 GPT-5.6 Sol 调用费用半价，调整后每 100 万 Tokens 输入 2.5 美元、输出 15 美元。另一托管平台 Vercel 也推出限时半价，有效期 1 个月至 2026 年 9 月 18 日，适用于标准和 Fast 模式。分析媒体 SemiAnalysis 认为这是吸引更多用户使用该模型的营销策略。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日14时47分"
+  },
+  {
     "id": "cmsybjay40qumroz02n4hufqj",
     "title": "Codex 深夜修复测试并交付代码",
     "url": "https://x.com/thsottiaux/status/2089604619936956778",
@@ -14774,6 +14878,22 @@
     "summary": "通义千问展示 Qwen3.8-27B 单次提示词即可生成惊艳效果，并鼓励用户在自己的笔记本上运行。用户 @ItsmeAjayKV 对比测试显示，Qwen3.8-27B 在 RTX 3090 上以 Q5 量化（非 f8）运行，生成的水面模拟效果一致且视觉惊艳，超越 Gemini-3.7-flash。",
     "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "date": "2026年8月18日14时38分"
+  },
+  {
+    "id": "cmsyc4yic0r08roz0l91nbb4v",
+    "title": "Qwen3.8-27B 开源模型首次摸到前沿门槛",
+    "url": "https://x.com/AYi_AInotes/status/2089601873397338597",
+    "summary": "阿里 Qwen 开源 Qwen3.8-27B，在 Artificial Analysis Intelligence Index 拿下 52 分，与 DeepSeek V4 Pro（53 分）、GPT-5.6 Luna（52 分）等闭源旗舰同级，成为首个达到前沿能力的本地模型。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月18日14时34分"
+  },
+  {
+    "id": "cmsyc4zwj0r0lroz0cp758uj0",
+    "title": "全球首个独立运营的生物集成服务器机架原型亮相：新加坡国立大学联合 DayOne 与 Cortical Labs 推出",
+    "url": "https://www.ithome.com/0/991/078.htm",
+    "summary": "新加坡国立大学医学院携手 DayOne 和 Cortical Labs，推出全球首个独立运营的生物集成服务器机架原型，首批部署 20 个 CL1 生物计算系统。该系统利用人类干细胞培育的活体神经元连接硅基硬件处理信息，每个 CL1 单元仅耗电 30 瓦，神经元在生命维持系统支持下可存活长达六个月。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日14时28分"
   },
   {
     "id": "cmsya1yiz0pearoz0etnsr6he",
