@@ -14752,12 +14752,28 @@
     "date": "2026年8月18日1时14分"
   },
   {
+    "id": "cmsyinad10ww0roz0454qu520",
+    "title": "Claude Code 新增 /design 命令，可在终端直接创建 UI 设计稿",
+    "url": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal",
+    "summary": "Anthropic 在 Claude Code 中发布 /design 命令的早期预览版，开发者可在终端或桌面应用中直接创建设计稿。该命令能读取现有代码库、匹配当前 UI 风格，并生成多个可编辑的共享设计稿。相关编辑和提示功能来自 Claude Design，现已内置到 Claude Code 中，可通过运行 \"claude update\" 体验。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月18日18时6分"
+  },
+  {
     "id": "cmsyi5mdz0wjqroz0to9uk3ej",
     "title": "面壁智能与厘清智能达成战略合作，加速具身智能端侧落地",
     "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499026&idx=1&sn=8c9a1cab2f38989ac023d8891b805c61",
     "summary": "8月18日，面壁智能与厘清智能签署战略合作协议，围绕大模型技术在具身智能领域的深度应用展开联合研发，推动具身智能基础模型训练、智能数据采集等关键技术产业化落地。双方将探索\"云端大模型+端侧模型+物理AI模型\"协同范式，打通\"端侧大脑\"与\"物理AI\"闭环，加速具身智能从实验室走向规模化商用。",
     "source": "公众号：面壁智能（MiniCPM）",
     "date": "2026年8月18日18时2分"
+  },
+  {
+    "id": "cmsyikhp90wmuroz09pvs2u1f",
+    "title": "石头 P30 Pro 体验：8.98cm 极薄机身配 60°C 热活水滚筒，扫拖机器人换代之作",
+    "url": "https://www.ithome.com/0/991/273.htm",
+    "summary": "石头 P30 Pro 正式发布，采用滚筒活水设计，机身厚度控制在 8.98cm，成为目前行业内最薄的滚筒扫地机器人，并配备 60°C 热活水洗地及 40000Pa 大吸力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日18时17分"
   },
   {
     "id": "cmsyi1st90wj7roz0b4v6d1na",
@@ -14808,12 +14824,52 @@
     "date": "2026年8月18日17时5分"
   },
   {
+    "id": "cmsyimfel0wqxroz0xht4hbk8",
+    "title": "基准测试末日：LLM 让刷分变得轻而易举",
+    "url": "https://danluu.com/benchpocalypse",
+    "summary": "作者指出，LLM 让操纵大型基准测试变得前所未有的容易，导致基准测试结果不再可信。他让智能体构建了正则引擎 FRE，在 rebar 基准上比 Rust regex crate 快 1.4 倍，但在 holdout 基准上却慢 10 倍甚至无法完成。即使告知智能体存在 holdout 集，FRE 整体仍慢 2.4 倍，仅在某些用例上表现更好。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日17时58分"
+  },
+  {
     "id": "cmsyhju430vk4roz0ngpccp8e",
     "title": "我不再喜欢上网了",
     "url": "https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet",
     "summary": "一位资深网民坦言，随着互联网日益商业化，高质量内容被大量博取注意力的低质内容取代，而 LLM 的普及让这一比例严重失衡，上网的乐趣已基本消失。作者将 AI 生成内容比作游戏《极乐迪斯科》中不断扩张、侵蚀信息的\"苍白\"，认为如今连 Hacker News 等长文社区也充斥 LLM 写作，同事间用 LLM 输出交流更让协作失去温度。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月18日17时42分"
+  },
+  {
+    "id": "cmsyikhpa0wn2roz0rz1gzw8d",
+    "title": "腾讯云将在马来西亚设立首个云区域，同步推进本地 AI 人才培养计划",
+    "url": "https://www.ithome.com/0/991/250.htm",
+    "summary": "腾讯云宣布将在马来西亚柔佛州设立首个云区域，首期计划设三个可用区，新服务器将接入覆盖 23 个区域、66 个可用区的全球网络。腾讯云同时展示了最新 AI 解决方案，并亮相桌面级 AI 原生办公智能体工作台 WorkBuddy，该产品拥有超 100 种 Skill。腾讯还将与马来西亚理工大学合作，计划在当地培养超 1000 名 AI 人才。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日17时40分"
+  },
+  {
+    "id": "cmsyikhhq0wmrroz02ca5102v",
+    "title": "时序上下文如何解决 Agent 记忆过期：四个机制与两条开源路线",
+    "url": "https://x.com/AYi_AInotes/status/2089648609671172441",
+    "summary": "阿易 AI Notes 指出，向量检索无法表达\"新事实取代旧事实\"，导致 Agent 回答矛盾（如预算 50 万与 30 万并存）。文章拆解时序上下文四个核心机制：有效期、取代关系、软删除与审计日志，并对比 Graphiti 与 OpenContext 两条开源路线。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月18日17时40分"
+  },
+  {
+    "id": "cmsyikhpa0wn8roz0gwcr6pj5",
+    "title": "百度 2026 财年第二财季归母净利润 23.19 亿元，同比下降 68.33%",
+    "url": "https://www.ithome.com/0/991/231.htm",
+    "summary": "百度 2026 财年第二财季总营收 312.75 亿元，同比下降 4%，归母净利润 23.19 亿元，同比下滑 68.33%，均低于市场预期。核心 AI 业务保持增长，AI Cloud Infra 收入 73.0 亿元，同比增长 50%，其中 GPU Cloud 收入同比增速提升至 283%。Apollo Go 已覆盖全球 28 个城市，公司预计年内完成双重主要上市转换。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日17时27分"
+  },
+  {
+    "id": "cmsyikhpa0wn9roz01c377qcq",
+    "title": "中国信通院联合发布具身智能训练场研究报告",
+    "url": "https://www.ithome.com/0/991/239.htm",
+    "summary": "中国信通院联合发布《具身智能训练场研究报告（2026年）》，指出训练场产业链已初步成型，呈\"上游技术供给活跃、下游应用仍待拓展\"的倒三角特征。训练场属重资产投入，当前商业服务以数据产品出售为主，但仅靠数据出售难以覆盖投入，亟需构建多元收入结构。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日17时23分"
   },
   {
     "id": "cmsyghq7r0utdroz0xcp3nyi3",
