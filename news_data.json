@@ -14752,6 +14752,30 @@
     "date": "2026年8月18日1时14分"
   },
   {
+    "id": "cmsybjay40qumroz02n4hufqj",
+    "title": "Codex 深夜修复测试并交付代码",
+    "url": "https://x.com/thsottiaux/status/2089604619936956778",
+    "summary": "午夜过后，给我 Codex\n谁能把这些失败的测试统统赶走？\n午夜过后，给我 Codex\n在黎明之前，穿越黑暗把它交付",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月18日14时45分"
+  },
+  {
+    "id": "cmsyb4kza0q1oroz0jqkavy6t",
+    "title": "研究揭示LLM智能体记忆机制存在重大盲区",
+    "url": "https://x.com/rohanpaul_ai/status/2089603702571380798",
+    "summary": "新研究发现，LLM智能体并未真正理解或应用抽象经验规则，而是仅依赖原始历史日志进行模仿。实验通过篡改存储内容验证：破坏逐步历史记录导致AI性能大幅下降，而完全破坏总结规则却无任何性能损失。这表明当前AI系统更多是模仿而非真正推理学习，引发对行业记忆机制设计的重新思考。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日14时42分"
+  },
+  {
+    "id": "cmsyb4kls0q1croz0a8ybely0",
+    "title": "Qwen3.8-27B 本地运行效果惊艳",
+    "url": "https://x.com/Alibaba_Qwen/status/2089602715735519586",
+    "summary": "通义千问展示 Qwen3.8-27B 单次提示词即可生成惊艳效果，并鼓励用户在自己的笔记本上运行。用户 @ItsmeAjayKV 对比测试显示，Qwen3.8-27B 在 RTX 3090 上以 Q5 量化（非 f8）运行，生成的水面模拟效果一致且视觉惊艳，超越 Gemini-3.7-flash。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月18日14时38分"
+  },
+  {
     "id": "cmsya1yiz0pearoz0etnsr6he",
     "title": "Qwen3.8-27B 本地可跑，追平 GPT-5.6",
     "url": "https://x.com/Alibaba_Qwen/status/2089597078385446969",
@@ -15062,6 +15086,14 @@
     "summary": "硅谷传奇投资人 Bill Gurley 在最新访谈中警告，钱在追着创业者跑，这本身就是最危险的信号。他谈及 AI 热潮下的市场情绪与投资逻辑，并分享了在喧嚣中倾听内心声音的重要性。",
     "source": "elsewhere：文章（RSS）",
     "date": "2026年8月18日10时10分"
+  },
+  {
+    "id": "cmsybrw2w0qyhroz08hlvtwc5",
+    "title": "大模型是残酷的制造业",
+    "url": "https://elsewhere.news/zh/funeralai/large-models-are-a-brutal-manufacturing-industry",
+    "summary": null,
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月18日10时0分"
   },
   {
     "id": "cmsxg0710012oroswihghd2ox",
