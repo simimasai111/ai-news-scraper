@@ -13848,6 +13848,94 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsywkoue01fcro20ye67al0j",
+    "title": "Grok 是最有趣 AI，幽默感无与伦比",
+    "url": "https://x.com/cb_doge/status/2089756821317906572",
+    "summary": "Grok 也是最有趣的 AI，拥有无与伦比的幽默感。\n\n让 Grok 吐槽一下某人，你自己看看就知道了 😂",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月19日0时50分"
+  },
+  {
+    "id": "cmsywkkcv01dmro20esvl8u4j",
+    "title": "Etched 融资7亿美元估值210亿",
+    "url": "https://x.com/jxnlco/status/2089756438071566485",
+    "summary": "太棒了，马上给我来14个~\n\n【引用 @Etched】：我们已从Jane Street、Kleiner Perkins、Sequoia、A16Z、Peter Thiel、BCV和Blackstone融资7亿美元，估值210亿美元。\n\n我们也很高兴地宣布，已将第一台机架交付给Jane Street。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月19日0时48分"
+  },
+  {
+    "id": "cmsywknre01eoro20f8szzr9l",
+    "title": "Claude Cowork 移动端与网页版全面上线",
+    "url": "https://x.com/claudeai/status/2089756371570900999",
+    "summary": "Claude Cowork 现已面向所有付费套餐开放移动端和网页版使用。\n\nBeta 版将在未来几周内逐步推出，首先面向 Max 套餐用户，随后将覆盖更多套餐。",
+    "source": "X：Claude (@claudeai)",
+    "date": "2026年8月19日0时48分"
+  },
+  {
+    "id": "cmsywjtfg01cnro20nfm65hkv",
+    "title": "Foremark Legal 获 600 万美元种子轮，打造智能体消费律所",
+    "url": "https://x.com/omarsar0/status/2089755796565373370",
+    "summary": "Foremark Legal 宣布完成 600 万美元种子轮融资，打造全球首家基于智能体、按结果收费的消费法律事务所。该公司为消费法律索赔构建了核保引擎，可低成本批量评估案件是否值得受理，从而让律所能够以风险代理方式承接案件。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月19日0时46分"
+  },
+  {
+    "id": "cmsywkntc01euro2062pd6kjl",
+    "title": "Grok 4.6 上线，Grok 4.7 即将发布",
+    "url": "https://x.com/elonmusk/status/2089754307453141424",
+    "summary": "xAI 推出 Grok 4.6，并预告重大升级版 Grok 4.7 即将到来。据引用推文，Grok 4.6 在 Artificial Analysis 基准上与 GPT-5.6 Sol 同获 61 分，性能持平但 API 价格更低：输入 $2/1M tokens、输出 $6/1M tokens，较 GPT-5.6 Sol（$5/$30）分别便宜 2.5 倍和 5 倍。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月19日0时40分"
+  },
+  {
+    "id": "cmsywkoue01fdro20nacohs7b",
+    "title": "Claude 宕机，Grok 正常运行",
+    "url": "https://x.com/cb_doge/status/2089753582379954347",
+    "summary": "Claude 宕机了。\n\nGrok 正常运行。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月19日0时37分"
+  },
+  {
+    "id": "cmsyvi075025qrobqh6s2fhxo",
+    "title": "Rox Teams 发布，中小企业也能用 Revenue Agents",
+    "url": "https://x.com/kimmonismus/status/2089749766913532163",
+    "summary": "Rox 推出 Rox Teams，让九人小团队也能用信用卡开通 MongoDB 同款收入智能体平台，无需 FDE，数分钟即可完成设置。此前 Rox 已服务市值合计超 $5T 的 Global 2000 企业，MongoDB、togethercompute 等客户已从传统 CRM 转向 Revenue Agents，有客户借此促成超 $140M 交易。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日0时22分"
+  },
+  {
+    "id": "cmsywk32l01d7ro20pixh457v",
+    "title": "Claude 为仅支持 Windows 的冷门惠普打印机编写 macOS 驱动程序",
+    "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+    "summary": "一位用户让 Claude 为其仅支持 Windows 的冷门惠普打印机编写 macOS 驱动程序，相关推文在 Hacker News 获得 104 点热度。该案例展示了 Claude 在底层驱动开发与跨平台兼容性修复上的实际能力，引发社区对 AI 编程边界的讨论。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日0时22分"
+  },
+  {
+    "id": "cmsywjl9k01c3ro2093iie7s5",
+    "title": "Perplexity Computer 支持邮件任务",
+    "url": "https://x.com/AravSrinivas/status/2089744545970016693",
+    "summary": "cc computer@perplexity.com\n\n【引用 @perplexity_ai】：Computer 现已支持邮件。\n\n在任意邮件线程中发送、转发或抄送 computer@perplexity.com。\n\n每项邮件任务都会作为 Computer 中的常规会话运行，可在网页端和移动端查看，并与其他应用内任务一样保留完整的审计记录。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月19日0时1分"
+  },
+  {
+    "id": "cmsyvh6gr024krobqrsvbu5n8",
+    "title": "苹果带摄像头 AirPods 为何可能不像消费者担心的那样\"偷拍\"",
+    "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear",
+    "summary": "苹果被曝将推出带摄像头的 AirPods，但据 macOS 26.7 RC 泄露视频与代码，其摄像头仅作 Siri 的\"眼睛\"，无法拍照或录像，用于识别书籍、食材等环境信息。设备将配备 LED 指示灯，在共享视觉数据时亮起以示透明。该功能旨在推动用户减少掏出 iPhone，更自然地与升级版 Siri AI 交互。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月19日0时19分"
+  },
+  {
+    "id": "cmsyvi4vu027srobqozjbdgi7",
+    "title": "Perplexity Computer 现支持邮件任务",
+    "url": "https://x.com/perplexity_ai/status/2089744150229131651",
+    "summary": "Computer 现在可以在电子邮件中工作。\n\n在任何邮件线程中发送、转发或抄送 computer@perplexity.com。\n\n每个邮件任务都会作为 Computer 中的普通会话运行，可在网页端和移动端查看，并带有与应用程序中任何任务相同的审计追踪。",
+    "source": "X：Perplexity (@perplexity_ai)",
+    "date": "2026年8月19日0时0分"
+  },
+  {
     "id": "cmsxz9xrq0f38roz0lzhw3o6u",
     "title": "OpenAI 前高管 Fidji Simo：相信 AI 能治愈所有疾病，但光靠大模型远远不够",
     "url": "https://www.ithome.com/0/990/910.htm",
@@ -14656,6 +14744,14 @@
     "date": "2026年8月18日23时8分"
   },
   {
+    "id": "cmsyvx4fu013sro2001beu4kk",
+    "title": "LangSmith 推出 Tuned Evaluators，为生产环境 trace 附加质量反馈",
+    "url": "https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error",
+    "summary": "LangSmith 发布 Tuned Evaluators，可为生产环境 trace 附加质量反馈，首个能力是 Perceived Error，帮助团队发现并修复智能体错误。该功能直接作用于线上运行数据，让质量评估不再局限于离线测试阶段。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月18日23时59分"
+  },
+  {
     "id": "cmsyuhjpx017qrobqtv8un9vr",
     "title": "Miles v0.1：面向前沿模型的生产级后训练系统",
     "url": "https://www.lmsys.org/blog/2026-08-18-miles-v0-1",
@@ -14664,11 +14760,27 @@
     "date": "2026年8月18日23时56分"
   },
   {
+    "id": "cmsyvfji0022grobqi6cnmm8s",
+    "title": "对标奔驰 G 级，曝林肯计划基于福特烈马打造硬派越野新车",
+    "url": "https://www.ithome.com/0/991/364.htm",
+    "summary": "林肯计划基于福特烈马平台推出一款全新硬派 SUV，目标客户是喜欢奔驰 G 级但嫌其太贵的消费者。项目已进入量产推进阶段，预计 2029 年夏末在密歇根装配厂与烈马共线生产，经销商预计起售价约 7 万美元，低于领航员和奔驰 G550。该车也是林肯重整计划的一部分，福特准备从 2030 年起扩大林肯在美国本土的生产规模。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日23时56分"
+  },
+  {
     "id": "cmsyuee7f000irobqbzybcq21",
     "title": "Populous 如何用 Runway 呈现全球标志性场馆设计",
     "url": "https://runwayml.com/news/customers/populous",
     "summary": "全球设计公司 Populous 高级建筑师 Georgina Myers 介绍团队用 Runway 辅助体育场馆概念设计：过去完整视频需外部渲染团队至少三周，且提交前两周须冻结设计模型；如今 Runway 能生成传达尺度感的完整渲染和航拍图，将视觉制作时间缩短，让设计师把时间还给设计本身。该工具已用于利雅得 MBS 体育场等中东项目，支持 9 种不同活动模式的场景迭代。",
     "source": "Runway：News（网页）",
+    "date": "2026年8月18日23时53分"
+  },
+  {
+    "id": "cmsywbc1f01ayro201wplhjol",
+    "title": "软件工厂聚会：25位开发者分享实战经验",
+    "url": "https://x.com/dexhorthy/status/2089742582448603466",
+    "summary": "这是一次令人难以置信的聚会--25位出色的开发者分享了各自软件工厂中真正有效的战术方法，从初创公司到千人规模的工程团队都有涉及。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
     "date": "2026年8月18日23时53分"
   },
   {
@@ -14710,6 +14822,30 @@
     "summary": "GOOGLE 🔥：Computer Use 功能终于被发现在 Gemini 桌面应用测试中现身。\n\nGemini Spark 将能够控制其他应用并访问选定文件夹。\n\n它还将配备高级备份选项，允许 Gemini 在修改文件前先将文件备份到 Google Drive。\n\n就该这样 👀",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月18日23时39分"
+  },
+  {
+    "id": "cmsyvfhzi022drobqowaqsb76",
+    "title": "Grok Bot 五条专业用法：一个 Bot 一个岗位",
+    "url": "https://x.com/AYi_AInotes/status/2089737633127669806",
+    "summary": "阿易 AI Notes 分享 Grok Bot 的专业用法，称其不是聊天框，而是能开浏览器、登录工具、替用户干活的数字员工。核心逻辑是\"一个 Bot 等于一个岗位\"，并建议先花 30 分钟搭建一个只连 Gmail、日历、Notion 的「参谋」Bot，通过 Teach a task 功能演示一遍流程即可让 Bot 学会任务，且默认不开启\"永远允许\"权限。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月18日23时34分"
+  },
+  {
+    "id": "cmsyvfji0022krobqsfr28k0d",
+    "title": "显卡超频工具 HYDRA 2.3B Pro 发布：解锁 RTX 50 系列 125% 功耗上限",
+    "url": "https://www.ithome.com/0/991/358.htm",
+    "summary": "超频开发者 Yuri Bubliy（1usmus）发布 HYDRA 2.3B Pro，首次为英伟达 RTX 50 系列显卡提供深度权限解锁，无需刷写 BIOS 即可将 GDDR7 显存速率统一解锁至 36Gbps，功耗墙最高提升至原厂设定的 125%。以 RTX 5090 为例，理论显存带宽可达 2.304TB/s，较出厂提升约 28.5%。该工具还实验性支持 RTX PRO 6000 专业卡。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日23时34分"
+  },
+  {
+    "id": "cmsyvfji1022lrobqzq12rg0n",
+    "title": "埃及盲人兄妹开发 AI 应用 ScribeMe，实时描述周围影像助视障群体\"看见\"世界",
+    "url": "https://www.ithome.com/0/991/357.htm",
+    "summary": "埃及开罗盲人开发者马克·莫拉德开发 AI 辅助应用 ScribeMe，可安装到 Meta 智能眼镜中，实时描述周围景象，帮助完全失明人士\"看见\"世界。该应用已覆盖 140 个国家和地区，拥有数千名用户，支持 iOS 和安卓系统，可通过手机摄像头实时回答用户问题并支持 20 种语言。ScribeMe 免费下载，额外功能订阅价为每月 20 美元或每年 200 美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日23时33分"
   },
   {
     "id": "cmsyts44t037gros349pe8kyg",
@@ -14758,6 +14894,14 @@
     "summary": "零售商正进入 AI 采用的新阶段，治理成为关键挑战。Databricks 认为，零售企业需要一个控制平面来管理 AI 系统的上下文，确保数据访问、合规性和模型行为的一致性。该方案旨在帮助零售商在部署 AI 时平衡创新与风险控制，避免碎片化治理带来的安全漏洞。",
     "source": "Databricks：Blog（RSS）",
     "date": "2026年8月18日23时18分"
+  },
+  {
+    "id": "cmsyvfji1022orobqqxbj5l61",
+    "title": "微软暂时停用 Win11 系统 Copilot 任务栏搜索框，聚焦统一版 Copilot 开发工作",
+    "url": "https://www.ithome.com/0/991/352.htm",
+    "summary": "微软暂时移除了 Win11 系统的 Copilot 任务栏搜索框，将更多精力放在统一版 Copilot 应用上。该功能此前仅通过预览形式向少数用户开放，多数使用者为 Microsoft 365 Copilot 企业用户，普通消费者版本已在几个月前停用。微软表示将暂时停用任务栏的\"询问 Copilot\"，未来将带来全新体验并持续收集用户反馈。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日23时14分"
   },
   {
     "id": "cmsys0zfy01hvros3vl0imez4",
