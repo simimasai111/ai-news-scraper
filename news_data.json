@@ -13856,12 +13856,60 @@
     "date": "2026年8月19日1时9分"
   },
   {
+    "id": "cmsyypqwu02zkro205ickfsjd",
+    "title": "OpenAI DevDay 全球巡回十月启动",
+    "url": "https://x.com/jxnlco/status/2089769475356729815",
+    "summary": "期待与大家见面！你们在哪里？\n\n【引用 @OpenAIDevs】：OpenAI DevDay 即将走向全球。\n\n从今年十月起，DevDay Exchange 将汇聚开发者，交流构建心得、分享真实项目，并结识打造 OpenAI 工具的团队，活动城市包括：\n\n班加罗尔、东京、首尔、柏林、巴黎、伦敦、圣保罗、墨西哥城\n\n我们已准备好见证全球开发者将什么推向生产环境。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月19日1时40分"
+  },
+  {
     "id": "cmsyxndxf02furo20wf2v4eq7",
     "title": "Rox Teams 发布：让任意团队自助运行 Revenue Agents",
     "url": "https://x.com/rohanpaul_ai/status/2089760080191504496",
     "summary": "Rox 推出 Rox Teams，让各类企业无需 FDE 即可在数分钟内自助激活 Revenue Agents，每个账户一个智能体，共享同一数据底座，负责研究线索、外联、管理交易、更新 CRM 与续约。此前 Rox 已服务全球市值合计超 $5T 的 Global 2000 企业，MongoDB、togethercompute 等已从传统 CRM 转向 Revenue Agents。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月19日1时3分"
+  },
+  {
+    "id": "cmsyyoqtg02xuro203dv5kfma",
+    "title": "Scale AI 推出 RSI 基准测试",
+    "url": "https://x.com/alexandr_wang/status/2089759883914822033",
+    "summary": "来自 @ScaleAILabs 和 @mhrezaeics 的出色倡议（RSI 基准测试）\n\n【引用 @mhrezaeics】：发布 http://rsi-benchmark.com：\n\nAI 研发工作一直属于人类。然而，首次地，这似乎不再那么确定。\n\n递归自我改进已近在眼前。或许仍很遥远，但已近到我们应该开始对其进行衡量。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月19日1时2分"
+  },
+  {
+    "id": "cmsyypvzn031gro206gu055oj",
+    "title": "Krea AI 8月27日纽约首秀预告",
+    "url": "https://x.com/krea_ai/status/2089766521912561688",
+    "summary": "谁想要预览？\n\n8月27日纽约首秀。\n\n请在下方报名 👇",
+    "source": "X：Krea AI (@krea_ai)",
+    "date": "2026年8月19日1时28分"
+  },
+  {
+    "id": "cmsyyorac02xyro20bp74gc3k",
+    "title": "微软 MAI-Image-2.6-Preview 登顶图像编辑榜第三",
+    "url": "https://x.com/mustafasuleyman/status/2089766508373176726",
+    "summary": "微软 MAI-Image-2.6-Preview 在图像编辑基准测试中位列第三，得分 1，420 分，较上一代提升 19 分，从第五跃升至第三。该模型在商品、3D、动漫、写实等四类中均排第三，文本渲染提升最显著（+43 分）。",
+    "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+    "date": "2026年8月19日1时28分"
+  },
+  {
+    "id": "cmsyypvwg031cro205ln6r3c7",
+    "title": "OpenAI DevDay Exchange 全球巡回十月启动",
+    "url": "https://x.com/OpenAIDevs/status/2089766380480725199",
+    "summary": "OpenAI DevDay 即将走向全球。\n\n从今年十月起，DevDay Exchange 将汇聚开发者，交流构建心得、分享真实项目，并结识打造 OpenAI 工具的团队，活动城市包括：\n\n班加罗尔 东京 首尔 柏林 巴黎 伦敦 圣保罗 墨西哥城\n\n我们期待看到全球🌎的开发者们将什么推向生产环境。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月19日1时28分"
+  },
+  {
+    "id": "cmsyyozzl02ycro202p3fjcbh",
+    "title": "搜索API基准：Parallel、Exa、Firecrawl领跑",
+    "url": "https://x.com/omarsar0/status/2089765849682870696",
+    "summary": "Artificial Analysis 推出 Search Index，评测搜索 API 在智能体场景下的质量、成本与速度，首发覆盖 7 家供应商共 11 项结果。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月19日1时26分"
   },
   {
     "id": "cmsyxmbd502ahro20e1df8dij",
@@ -13888,6 +13936,14 @@
     "date": "2026年8月19日1时1分"
   },
   {
+    "id": "cmsyyghik02wuro20q9cwvobo",
+    "title": "AI That Works 第70期：同步与A/B测试200个智能体",
+    "url": "https://x.com/dexhorthy/status/2089763557873525049",
+    "summary": "同步与 A/B 测试 200 个智能体：🦄 AI That Works #70 https://x.com/i/broadcasts/1dKrPravApVJX",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月19日1时17分"
+  },
+  {
     "id": "cmsyxn5ol02c5ro206xhjj62h",
     "title": "Qwen3.8-27B 去审查版可在苹果芯片本地运行",
     "url": "https://x.com/kimmonismus/status/2089763435865088508",
@@ -13910,6 +13966,14 @@
     "summary": "每一项强大的新技术都伴随着权衡取舍。\n\n互联网如此，社交媒体亦如此。\n\nDoug Burger、Amy Luers 和 Ishai Menache 探讨 AI 的气候影响，以及如何引导这项技术支持可持续的未来。https://msft.it/6010azEQA",
     "source": "X：Microsoft Research (@MSFTResearch)",
     "date": "2026年8月19日1时0分"
+  },
+  {
+    "id": "cmsyyghik02wvro20h3z8olb7",
+    "title": "HumanLayer 发布 Outline 文档 /show-me 功能",
+    "url": "https://x.com/dexhorthy/status/2089759040352272393",
+    "summary": "今早的 humanlayer 发布 - Outline 文档现在使用 `/show-me` 文件树和图表来概述每个阶段",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月19日0时59分"
   },
   {
     "id": "cmsywyxk3024aro20fog3yklq",
