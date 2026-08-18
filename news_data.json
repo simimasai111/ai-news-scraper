@@ -14664,6 +14664,38 @@
     "date": "2026年8月18日20时6分"
   },
   {
+    "id": "cmsynzvoj128vroz0kb2is5zp",
+    "title": "OpenAI 推出青少年版 ChatGPT 体验",
+    "url": "https://x.com/kimmonismus/status/2089692469264810266",
+    "summary": "OpenAI 推出面向青少年的独立 ChatGPT 体验，弱化\"答案机器\"和\"人\"的属性。13-17 岁用户（含通过年龄预测识别者）将自动获得更强保护措施。Study Mode 优先处理学业，家长可设置学习时段，ChatGPT 将避免浪漫用语并明确自身无感情。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月18日20时34分"
+  },
+  {
+    "id": "cmsynzw4q1295roz0k3yjs8vt",
+    "title": "Claude 真的很迷： 账号都给我封了，推广新功能的邮件倒是一封没落。 怎么，产品用不了，广告还得继续体验？",
+    "url": "https://x.com/frxiaobei/status/2089691783458435080",
+    "summary": "Claude 真的很迷： 账号都给我封了，推广新功能的邮件倒是一封没落。\n\n怎么，产品用不了，广告还得继续体验？",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月18日20时32分"
+  },
+  {
+    "id": "cmsyo04g312cwroz08j8p9j9t",
+    "title": "中国试点\"Token贷款\"创新AI融资模式",
+    "url": "https://x.com/thexpin/status/2089691532039197180",
+    "summary": "中国正在测试一种新型AI融资方式：\"Token贷款\"。包括中国银行在内的多家银行，允许企业以AI合同价值或Token消耗量作为信用评估基础。部分试点贷款金额已高达390万美元。\n\n与传统贷款不同，此类贷款不完全依赖实物资产或营收记录，而是将AI使用成本作为新的金融指标，标志着中国正尝试围绕Token构建资产估值体系。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月18日20时31分"
+  },
+  {
+    "id": "cmsyo02wt12byroz0m1p38f2u",
+    "title": "Qwen3.8-27B 消费级 GPU 跑出 Opus 级智能",
+    "url": "https://x.com/rohanpaul_ai/status/2089691507926446430",
+    "summary": "有人在消费级 GPU 上运行 Opus 4.6 级别的智能。\n\nQwen3.8-27B-GGUF 在 2×4090 上达到 80 tok/s，完整 262，144 上下文，MTP 开启，48GB 显存仅占用 34GB。\n\n注，Qwen3.8-27B：SWE-Pro 61.7 对比 Opus 53.4；GPQA 89.2 对比 91.3。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日20时30分"
+  },
+  {
     "id": "cmsymwkyv11hdroz0enzw76ox",
     "title": "Google Pet Memory 认不出我的猫：Gemini for Home 宠物识别功能实测失败",
     "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
