@@ -13864,6 +13864,14 @@
     "date": "2026年8月18日9时5分"
   },
   {
+    "id": "cmsy1f3yh0gw5roz0hroz5no8",
+    "title": "Counterpoint：未来五年超 1.3 亿颗先进封装 AI 芯片出货，英特尔挑战台积电",
+    "url": "https://www.ithome.com/0/990/924.htm",
+    "summary": "Counterpoint 预计未来五年超 1.3 亿颗 GPU / AI ASIC 采用先进封装片上计算内存，创造近 2 万亿美元计算收入。报告称封装已成新竞争战场，HBM 对台积电 CoWoS 的依赖带来高成本，为替代方案创造机会。英特尔以 EMIB、ZAM 和 XBM 三路架构方案挑战 CoWoS，但能否成功取决于执行、生态支持及散热集成权衡。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日9时58分"
+  },
+  {
     "id": "cmsy0dger0fu4roz0arxqw7xr",
     "title": "Claude Code 推出 /design 命令预览",
     "url": "https://x.com/trq212/status/2089529798850969805",
@@ -13902,6 +13910,22 @@
     "summary": "乐观更新，这算不算个新东西？",
     "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
     "date": "2026年8月18日9时39分"
+  },
+  {
+    "id": "cmsy1wkz00hfiroz0jw7rh1zi",
+    "title": "AI引发创作者真实性焦虑",
+    "url": "https://x.com/karinanguyen/status/2089527289440809022",
+    "summary": "我认为AI正在给创作者带来一种新的真实性焦虑：创作本身已不够，你还必须证明这是你做的。这有点像独立邋遢风（indie sleaze），那时的凌乱感标志着真实。而如今，不完美正成为人性的证明。",
+    "source": "X：Karina Nguyen（@karinanguyen）",
+    "date": "2026年8月18日9时38分"
+  },
+  {
+    "id": "cmsy1f3yh0gwaroz0gf9uvks0",
+    "title": "苹果带摄像头的 AirPods 实机演示曝光，可实现环境视觉感知",
+    "url": "https://www.ithome.com/0/990/919.htm",
+    "summary": "苹果正在研发配备摄像头的 AirPods，内部代号 B790，相关演示视频在 macOS Tahoe 26.7 RC 中被发现。该设备可将摄像头获取的信息提供给\"视觉智能\"，Siri 能回答用户关于周围环境的问题并记录信息，头发遮挡摄像头时还会收到提醒。彭博社记者 Mark Gurman 此前透露，这款产品最快可能在今年 9 月发布。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日9时33分"
   },
   {
     "id": "cmsxz9xrq0f36roz0av2r814q",
@@ -14726,6 +14750,78 @@
     "summary": "AI盗走了她们的脸。我找到了她们。\n\n我与两位受害者进行了交谈，她们的脸在不知情的情况下被AI盗用，并植入到中国微短剧中。以下是对病毒式传播的微短剧行业阴暗面的深度调查。",
     "source": "X：X.PIN (@thexpin)",
     "date": "2026年8月18日1时14分"
+  },
+  {
+    "id": "cmsy1h96v0h32roz0bi3djsik",
+    "title": "Nous Research 为 Hermes Agent 推出 Bot Mode，将智能体档案变为命名机器人名册",
+    "url": "https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode",
+    "summary": "Nous Research 为开源智能体 Hermes Agent 推出 Bot Mode，将单一智能体会话列表替换为一组命名机器人，每个机器人拥有独立的聊天、记忆、技能和固定模型，并可通过持久化 Agent Inbox 和 @提及 相互通信。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月18日10时5分"
+  },
+  {
+    "id": "cmsy1f3yh0gw4roz0u4jivius",
+    "title": "需求超预期：华硕 RTX Spark 笔记本 ProArt P16/P14 首批配额售罄",
+    "url": "https://www.ithome.com/0/990/952.htm",
+    "summary": "华硕在 2026 年第 2 季度财报电话会议上表示，首批搭载 NVIDIA RTX Spark 的 ProArt P16 与 ProArt P14 预售需求远超预期，面向零售商和分销商的首批配额已全部订完，正持续追加订单。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日10时4分"
+  },
+  {
+    "id": "cmsy1uupm0hbjroz07ng0ijbq",
+    "title": "Nano Banana与Gemini Omni打造可视化百科",
+    "url": "https://x.com/googleaidevs/status/2089540580422644216",
+    "summary": "用 Nano Banana 和 Gemini Omni 将网络变成交互式视觉百科全书。🌐✨\n\n我们在 @Antigravity 中使用 Gemini 3.7 Flash 构建了一个 Chrome 扩展，让你在浏览时高亮任意文本即可快速生成丰富的视觉化释义，助力深度学习。\n\n查看演示 ↓",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "date": "2026年8月18日10时31分"
+  },
+  {
+    "id": "cmsy2in530hmxroz046hmf1n7",
+    "title": "以色列设立虚假智库，疑似为欺骗AI聊天机器人",
+    "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+    "summary": "以色列政府通过广告公司Piro设立虚假智库\"汉诺威公共政策研究所\"，发布百余份亲以报告，旨在影响Claude、Gemini等LLM的可信度评估。Piro已获以色列政府90万美元资金，其报告被GPTZero判定为AI生成。此前以色列还以4650万美元合同聘请Brad Parscale创建类似网站，已成功影响Microsoft Copilot和Google Gemini。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日10时30分"
+  },
+  {
+    "id": "cmsy2jrnp0hp7roz037ph2lmd",
+    "title": "Grok 4.6 在 Cursor 中创 VulcanBench 最高分",
+    "url": "https://x.com/cb_doge/status/2089539025841303566",
+    "summary": "突发：Grok 4.6 在 VulcanBench 最新基准研究中取得最高分。\n\n在 Cursor 内运行时，Grok 得分 88.4%，比基础 API 设置高出 14.5 个百分点，完成任务速度约快 2.4 倍。\n\nGrok 的真实编码表现令人印象深刻。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月18日10时25分"
+  },
+  {
+    "id": "cmsy1hi7p0h44roz08t7o21vj",
+    "title": "Claude Code CLI 优化：p99 CPU 占用减半",
+    "url": "https://x.com/bcherny/status/2089538781909332210",
+    "summary": "这样的小型体验优化积少成多。更多改进即将推出。\n\n【引用 @ClaudeDevs】：今日性能优化：Claude Code CLI 在 p99 下 CPU 占用降低 2 倍。\n\nBun 的垃圾回收器此前按固定计时器运行，因此会在 Claude Code 最繁忙时中途触发并抢占 CPU。现在它会等待进程空闲后再执行。",
+    "source": "X：Boris Cherny (@bcherny)",
+    "date": "2026年8月18日10时24分"
+  },
+  {
+    "id": "cmsy1f43a0gwqroz003l6zw2n",
+    "title": "黄仁勋：AI 工厂下一稀缺资源是土地、电力和数据中心外壳",
+    "url": "https://x.com/AYi_AInotes/status/2089538119418700203",
+    "summary": "黄仁勋称 AI 工厂下一代关键稀缺资源是土地、电力和数据中心外壳，芯片短缺已阶段性缓解。NVIDIA 联手软银旗下 SB Energy 投资俄亥俄州前铀浓缩基地，初始 4.25 GW 可扩至 8 GW，自投 15 亿美元；OpenAI 为租户，每代部署约 150 万颗 GPU，2030 年算力承诺约 12 GW，对应 6000 亿美元机会。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月18日10时21分"
+  },
+  {
+    "id": "cmsy1hi7p0h45roz04tbxotvj",
+    "title": "Claude Code 推出 /design 设计技能",
+    "url": "https://x.com/bcherny/status/2089537919795212565",
+    "summary": "告诉我们你的想法！\n\nClaude Code 现在可以设计了。新的 /design 技能（研究预览）将 Claude Design 的画板工作流引入 CLI 和桌面端，基于 artifacts 构建。\n\n运行 /design 即可为你的 UI 获取可编辑画板--选择一个、调整它，然后让 Claude 来实现。",
+    "source": "X：Boris Cherny (@bcherny)",
+    "date": "2026年8月18日10时20分"
+  },
+  {
+    "id": "cmsy1m4b90h5nroz08lqu6xwu",
+    "title": "阿里云 Wan3.0 创作者直播 8 月 19 日举行",
+    "url": "https://x.com/alibaba_cloud/status/2089537447709282363",
+    "summary": "你的想象力，无需渲染农场。🎥 Wan3.0 创作者直播专场 - 8 月 19 日（周三）。最新升级、真实创作者工作流、实用技巧。直播链接即将发布。关注以获取通知。欧洲中部时间下午 5 点 / 太平洋时间上午 8 点 / 新加坡时间晚上 11 点 / 海湾时间晚上 7 点，YouTube 直播。观看 →https://www.youtube.com/live/ZNs_JhvlatY #Wan3 #AIVideo",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月18日10时18分"
   },
   {
     "id": "cmsxg0710012oroswihghd2ox",
