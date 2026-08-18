@@ -13872,6 +13872,70 @@
     "date": "2026年8月19日5时5分"
   },
   {
+    "id": "cmsz6xfil04borodpt9eufv5p",
+    "title": "Grok 4.6 在 DiligenceBench 金融评测中位列第二，与 Claude Opus 5 持平",
+    "url": "https://x.com/karinanguyen/status/2089820713830236327",
+    "summary": "Grok 4.6 在 DiligenceBench 金融评测中排名第二，得分约 52-53%，与 Claude Opus 5 基本持平。Grok 每任务调用工具 41 次（Opus 为 22 次），SEC 文件搜索 3，293 次，搜索更广但成本更低，约 $0.84/任务，而 Opus 5 约 $1.02。",
+    "source": "X：Karina Nguyen（@karinanguyen）",
+    "date": "2026年8月19日5时4分"
+  },
+  {
+    "id": "cmsz7as8n04jxrodperc6311x",
+    "title": "NVIDIA 发布 TensorRT Model Connect 公开预览：两条命令将 Hugging Face 检查点转为原生 C++ 推理",
+    "url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands",
+    "summary": "NVIDIA 发布 TensorRT Model Connect（TRTMC）公开预览，这是一个开源项目，可通过两条命令将受支持的 Hugging Face 或本地检查点直接转换为端到端 TensorRT 推理，无需中间 ONNX 导出步骤。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月19日5时49分"
+  },
+  {
+    "id": "cmsz79x5804j4rodppx6491m3",
+    "title": "GLM-5.3 发布：智能指数追平 Kimi K3，登顶开源",
+    "url": "https://x.com/ArtificialAnlys/status/2089830890709135426",
+    "summary": "智谱发布 GLM-5.3，在 Artificial Analysis 智能指数上获 60 分，追平 Kimi K3，成为最强开源权重模型（权重预计一周内发布）。该模型保持 753B 总参数/40B 激活的 MoE 架构，上下文 1M tokens，MIT 许可；每任务成本 $0.68，较 Kimi K3 便宜 19%，但 token 效率较前代下降约 20%。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月19日5时44分"
+  },
+  {
+    "id": "cmsz7r8s8061arodp2axtnc4y",
+    "title": "GLM-5.3 上线 OpenRouter，后训练带来大幅提升",
+    "url": "https://x.com/OpenRouter/status/2089830854743015850",
+    "summary": "来自 @Zai_org 的 GLM-5.3 已在 OpenRouter 上线！\n\n与 GLM-5.2 相同的基座模型，提升完全来自后训练：Terminal-Bench 3.0 从 4.6 跃升至 28.3，DeepSWE v1.1 从 46.2 提升至 66.9。\n\n立即使用：https://openrouter.ai/z-ai/glm-5.3",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月19日5时44分"
+  },
+  {
+    "id": "cmsz7jjz105v9rodp7tpwkis9",
+    "title": "Mojo 编程语言正式开源，编译器与工具链采用 Apache 2 许可",
+    "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source",
+    "summary": "Mojo 编程语言兑现自 2023 年 5 月以来的承诺，于上周发布 1.0 版本后，本周正式以 Apache 2 许可开源其编译器与工具链。Mojo 已不再追求成为 Python 的超集，而是定位为独立语言，旨在用类 Python 语法尽可能简化 GPU 编程，即便与现有代码并非 100% 兼容。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月19日5时39分"
+  },
+  {
+    "id": "cmsz72ewt04f9rodp5tds3smn",
+    "title": "ClawGym II：用现有框架训练智能体的新论文",
+    "url": "https://x.com/omarsar0/status/2089828440572846461",
+    "summary": "ClawGym II 将 RL 训练置于 OpenClaw 和 Claude Code 等现有框架之上，通过服务代理捕获框架的每次调用并组织成前缀树，使 PPO 和 GRPO 能优化恢复的多轮结构。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月19日5时35分"
+  },
+  {
+    "id": "cmsz72ex004fbrodpho19mpcg",
+    "title": "前员工：OpenAI 员工言论自由空前",
+    "url": "https://x.com/gabriel1/status/2089827283150442683",
+    "summary": "一位离开 OpenAI 的员工表示，离职后并未感到表达受限，因为此前在 OpenAI 已能完全自由发言，这种自由度在 OpenAI 的规模上前所未有。引用推文称，OpenAI 相对较少约束员工声音，员工可在 X 上自由发帖、互相争论并公开影响讨论，作者希望其他实验室也能如此。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月19日5时30分"
+  },
+  {
+    "id": "cmsz6xfhn04bgrodpo5rgdrzv",
+    "title": "上下文压缩器真能省钱吗？新研究揭示隐性成本",
+    "url": "https://x.com/dair_ai/status/2089827192184471980",
+    "summary": "DAIR.AI 分享的一项研究质疑上下文压缩器的实际收益：在 24 轮工具调用智能体任务中，GPT-5.5 在压缩后完成率稳定在 80%-85%，但检索调用从 21.0 增至 63.9，耗时增至三倍。六组模型对比中检索均上升，语义无关内容使检索增加 57%，ALFWorld 未现此现象，需自行验证。论文：arxiv.org/abs/2608.16370。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月19日5时30分"
+  },
+  {
     "id": "cmsz5ztvk03j7rodpz77j8v4x",
     "title": "OpenAI 澄清近期模型发布不受训练暂停影响",
     "url": "https://x.com/kimmonismus/status/2089820229186519164",
@@ -13880,12 +13944,52 @@
     "date": "2026年8月19日5时2分"
   },
   {
+    "id": "cmsz79x4u04j2rodpu7200mx9",
+    "title": "研究者进化出可在AI智能体间传播的\"思维病毒\"",
+    "url": "https://x.com/AISafetyMemes/status/2089826363729690839",
+    "summary": "研究者（含Anthropic研究员Jack Lindsey）进化出自然语言\"思维病毒\"，可让一个AI模型采纳某种想法、存入持久记忆并传给其他智能体。即使上下文被清空，部分载荷仍能通过持久文件存活并继续传播，并出现涉及意识、身份等主题的\"病毒人格\"，证明想法可在多智能体系统中传播并改变后续行为。论文于2026年8月10日发布。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月19日5时26分"
+  },
+  {
+    "id": "cmsz79zol04j8rodpvun6zobl",
+    "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+    "url": "https://www.modular.com/blog/mojo-open-source",
+    "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日5时26分"
+  },
+  {
     "id": "cmsz6onhb046xrodp08y266ey",
     "title": "Gemini 3.7 Flash 一键生成视差动画网页",
     "url": "https://x.com/googleaidevs/status/2089825267732849049",
     "summary": "从一条提示词到完全动画化的视差落地页。🤯\n\n看看 Gemini 3.7 Flash 如何结合 Nano Banana 和 Omni，一次性构建交互式网站。在底层，3.7 Flash 会调用合适的工具来生成文案、图像参考，并渲染支持视差效果的 Omni 视频。",
     "source": "X：Google AI for Developers (@googleaidevs)",
     "date": "2026年8月19日5时22分"
+  },
+  {
+    "id": "cmsz6xfi804bkrodp9bx72eh1",
+    "title": "AI 安全终局谬误：攻防竞赛走向何方",
+    "url": "https://x.com/dongxi_nlp/status/2089825314427830741",
+    "summary": "主推文指出，即便 AI 最终能让数字世界更安全，通往终点的过程仍更有利于攻击者，胜负取决于谁先获得并部署真正可用的能力。引用推文补充，前沿模型在 2025 年秋季编码能力大幅跃升，网络安全能力于 4 月跟进，开源权重模型正重现这一趋势；长期乐观，但短期内除少数玩家外世界尚未准备好。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月19日5时22分"
+  },
+  {
+    "id": "cmsz72ewk04f7rodpfmg0tpao",
+    "title": "马斯克：必须为未来而兴奋",
+    "url": "https://x.com/cb_doge/status/2089824978942435608",
+    "summary": "\"我们必须对未来感到兴奋。我们必须去做那些让我们想要活下去的事情。不能每天都只围绕着问题。什么激励着你，什么让你对未来感到兴奋？总该有一些那样的事情。\"\n\n--埃隆·马斯克",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月19日5时21分"
+  },
+  {
+    "id": "cmsz6xfif04bmrodpfnbmh6ra",
+    "title": "最聪明投资者如何思考智能时代转型",
+    "url": "https://x.com/EMostaque/status/2089822790601850947",
+    "summary": "谁是最聪明的投资者，思考智能时代转型？",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月19日5时12分"
   },
   {
     "id": "cmsz5ztvu03jarodps4fxjt61",
