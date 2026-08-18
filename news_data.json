@@ -14752,6 +14752,54 @@
     "date": "2026年8月18日1时14分"
   },
   {
+    "id": "cmsy3meg00izrroz0g9nrch7y",
+    "title": "Stripe 总裁谈 AI 如何改变产品构建方式",
+    "url": "https://x.com/rohanpaul_ai/status/2089549855542939751",
+    "summary": "Stripe 正在见证一种杰文斯悖论：工程师能用更少时间构建更多东西，然而值得构建的软件积压量似乎也随之增长。\n\nStripe 产品与业务总裁 Will Gaybrick 探讨 AI 如何改变 Stripe 构建产品的方式\n\n----\n\n来自 a16z YouTube 频道（完整视频链接见评论）",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日11时8分"
+  },
+  {
+    "id": "cmsy3kawp0itlroz02a6rxctz",
+    "title": "雷鸟 iO 系列官宣 8 月 21 日发布：首款\"人类增强 AI 眼镜\"亮相",
+    "url": "https://www.ithome.com/0/991/016.htm",
+    "summary": "雷鸟创新（RayNeo）宣布全新 iO 系列，首款雷鸟 iO AI 眼镜将于 8 月 21 日 14：30 发布，定位\"人类增强 AI 眼镜\"。该产品采用自研光波导显示技术，将显示模组压缩进皇冠镜框，搭配钛金属镜腿，外观接近日常眼镜。AI 能力聚焦知识、表达和记忆三个维度，目前产品已开启预约。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日11时6分"
+  },
+  {
+    "id": "cmsy4nu1q0jj9roz0t0xyb22d",
+    "title": "Ask HN：GitHub 员工们，到底怎么回事？为什么？",
+    "url": "https://news.ycombinator.com/item?id=49332495",
+    "summary": "有用户在 Hacker News 发帖，直接向 GitHub 员工提问，希望了解平台持续出现问题的真实内幕，而非基于公开数据的猜测。有评论指出，AI 辅助编程使过去一年 GitHub 的提交量增长了 14 倍，2025 年提交总数达 10 亿，三个月前每周提交量已达 2.75 亿。另有观点认为问题根源在于 GitHub 基于 Azure 的架构，或建议对免费无限私有仓库模式进行调整。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日11时33分"
+  },
+  {
+    "id": "cmsy4p26x0jmproz0b4ouo4sp",
+    "title": "AI 编码智能体缺乏时间感知，评测需直接测时长",
+    "url": "https://x.com/rohanpaul_ai/status/2089555999019663485",
+    "summary": "Rohan Paul 指出，AI 编码智能体可能连续工作数小时却对时间流逝缺乏校准感知。因此，长时程评测或需直接衡量智能体对时长的遵循能力，而非将持续的任务表现视为其知道何时停止的证据。该观点源自 Maksym Andriushchenko 等人关于 LLM 智能体时间感知能力的研究，涉及 ProgramBench、PaperBench、DeepSWE 等长时程任务。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日11时32分"
+  },
+  {
+    "id": "cmsy4p0hz0jmnroz0pyzgd5g6",
+    "title": "ChatGPT Finance 实测：30 分钟搞定订阅与税务提醒",
+    "url": "https://x.com/sherwinwu/status/2089555643237830881",
+    "summary": "Sherwin Wu 实测 ChatGPT Finance，30 分钟内识别出未使用的 Google One 订阅（年费 $100）、发现 Roth IRA 资金闲置在货币市场账户，并仅凭提及便纳入即将到来的税务支付。引用推文称其表现优于任何付费人类 CPA 和财务顾问。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年8月18日11时31分"
+  },
+  {
+    "id": "cmsy3rag00j22roz0kglh7m6v",
+    "title": "阿里云Wan3.0创作者直播活动公布嘉宾阵容",
+    "url": "https://x.com/alibaba_cloud/status/2089551429245780256",
+    "summary": "阿里云公布Wan3.0创作者直播活动嘉宾阵容，包括Wan模型团队研究员Haoyu Chen及多位来自Magnific、Fal、OpenArt等平台的创作者。活动将于8月19日15：00 UTC举行，探讨Wan3.0最新模型升级及实际创作工作流。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月18日11时14分"
+  },
+  {
     "id": "cmsy1h96v0h32roz0bi3djsik",
     "title": "Nous Research 为 Hermes Agent 推出 Bot Mode，将智能体档案变为命名机器人名册",
     "url": "https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode",
