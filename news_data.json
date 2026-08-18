@@ -14648,6 +14648,142 @@
     "date": "2026年8月18日2时0分"
   },
   {
+    "id": "cmsyp2h7y13a0roz06efdvidl",
+    "title": "Questflow 为市场交易构建金融操作框架，让 AI 智能体执行真实投资策略",
+    "url": "https://x.com/kimmonismus/status/2089701068208787849",
+    "summary": "Questflow 为市场交易构建了类似编码智能体的\"金融操作框架\"，以模型为大脑，通过 Skills 提供真实投资方法论、Plugins 接入实时市场数据，并支持连接交易所执行账户。用户可用自然语言下单并预览订单，确认后才执行，使智能体在 Hyperliquid 和 Polymarket 上优于通用 AI 智能体。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月18日21时8分"
+  },
+  {
+    "id": "cmsyp2us613egroz0w5c20j31",
+    "title": "Anthropic CEO 称 AI 天然趋向集中，开源模型只是把权力转移给芯片持有者",
+    "url": "https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips",
+    "summary": "Anthropic CEO Dario Amodei 在 X 上回应批评，称 AI 因规模定律天然趋向集中，开源模型只是把市场权力转移给拥有最多算力和 AI 芯片的大实验室。投资者 Gavin Baker、Meta 研究员 Yann LeCun 及前白宫顾问 David Sacks 则指责其以恐惧话术推动有利于自身的监管，Sacks 还批评其联邦 AI 审批机构提议将拖慢美国对华竞争。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月18日21时7分"
+  },
+  {
+    "id": "cmsyp2o2k13csroz0ceoy763t",
+    "title": "Questflow 金融智能体：4 层栈与多模型选择",
+    "url": "https://x.com/rohanpaul_ai/status/2089700512719347893",
+    "summary": "Questflow 推出面向金融交易的 AI 智能体栈 Financial Harness，含推理模型、投资方法技能、实时数据插件及交易所/钱包执行层。用户可按任务在 OpenAI GPT、Claude、Gemini、Grok、Kimi、DeepSeek、Qwen 等 11 款模型中选用。其目标是将顶级投资者的市场判断转化为散户可跟随的 AI 智能体。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日21时6分"
+  },
+  {
+    "id": "cmsyq588p1433roz0tfbkh4lu",
+    "title": "百度Q2重申AI业务为核心，营收占比50%",
+    "url": "https://x.com/Baidu_Inc/status/2089711700115349765",
+    "summary": "Q2 2026 重申 AI 驱动的业务是我们的核心，营收连续第二个季度占通用业务营收的 50%。- AI 云基础设施保持强劲势头 - AI 应用在能力和用例上持续增长 - 萝卜快跑在全球扩张中稳步推进 $BIDU",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月18日21时51分"
+  },
+  {
+    "id": "cmsyq47de13yvroz0nok5kym9",
+    "title": "OpenAI 推出面向青少年的 ChatGPT，内置学习模式与家长控制",
+    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+    "summary": "OpenAI 于周一发布 ChatGPT for Teens，为青少年用户增加安全防护措施，并推出 Study Mode 功能，通过引导性问题与分步支持帮助理解材料，而非直接给出答案。该版本默认开启应用内保护，家长可管理设置、接收安全通知并设定 Quiet Hours。OpenAI 同时宣布与 CodeAI 合作，帮助青少年学习 AI 相关知识。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月18日21时50分"
+  },
+  {
+    "id": "cmsyq584j142xroz01ex0oren",
+    "title": "Gemini 3.7 Flash 生成现代网页视频背景",
+    "url": "https://x.com/fofrAI/status/2089710693012414472",
+    "summary": "Gemini 3.7 Flash 和 Omni 的巧妙用法。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月18日21时47分"
+  },
+  {
+    "id": "cmsyq47de13ywroz0j2kq08tk",
+    "title": "Perplexity 免费赠送活动为印度带来数百万用户",
+    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india",
+    "summary": "Perplexity 与印度电信商 Airtel 合作，向 3.6 亿用户免费提供一年期 Pro 订阅，活动期间印度下载量达 5600 万次，月活峰值 2200 万。活动结束后下载量骤降超 90%，但月活仍达 1400 万，且 2 月至 8 月中旬内购与订阅收入环比增长约 60%。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月18日21时45分"
+  },
+  {
+    "id": "cmsyq5azf143xroz086pubj8o",
+    "title": "宇树科技2026年8月科创板上市，发行价21.1美元",
+    "url": "https://x.com/thexpin/status/2089708895560466643",
+    "summary": "宇树科技（Unitree Robotics）将于2026年8月19日在上交所科创板上市，IPO发行价每股21.1美元，对应市盈率219倍，预计募资约9.02亿美元。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月18日21时40分"
+  },
+  {
+    "id": "cmsyq584j142yroz0y9nbhboq",
+    "title": "TypeGPU 单目深度模型实时推理获赞",
+    "url": "https://x.com/fofrAI/status/2089708115008586180",
+    "summary": "fofr 称赞 TypeGPU 的深度感知光注入演示。该方案在 M4 Pro 上以约 8 ms 运行 448x448 单目深度模型，约 250 次调度，推理、光照与绘制共用同一命令编码器，无需 GPU 间同步。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月18日21时36分"
+  },
+  {
+    "id": "cmsyq5c29144froz0yqhwlqfy",
+    "title": "Google 开源 SAM：为 AI 智能体打造的零配置、零信任 P2P 网络",
+    "url": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents",
+    "summary": "Google 开源 Apache-2.0 项目 SAM（Sovereign Agent Mesh），为自主 AI 智能体提供零配置、零信任的 P2P 覆盖网络，支持跨云、本地数据中心和边缘设备通过 MCP 协议安全共享工具。架构包含三个二进制，节点通过 OIDC 换取 Biscuit 令牌实现离线授权，默认拒绝一切访问。公共网格仍为 beta 测试网，生产环境需自托管控制平面。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月18日21时29分"
+  },
+  {
+    "id": "cmsyq9jmd1471roz014vblfhx",
+    "title": "HF 智能体公开复现 2226 篇论文",
+    "url": "https://x.com/ClementDelangue/status/2089706077667377316",
+    "summary": "Hugging Face 的 ICML 复现挑战赛中，1，221 名人类与编码智能体协作，公开复现了 2，226 篇论文。全程在 HF Hub 上透明进行：发布 6，816 份复现日志、启动 2，962 个云任务、判定 35，908 条声明。CEO 称智能体正像人类一样在 Hub 上协作，未来其下一百万用户可能不再是人类。",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月18日21时28分"
+  },
+  {
+    "id": "cmsyq520b1409roz0xaza6ur9",
+    "title": "AI 分析 33 万中心体发现两种癌症异常",
+    "url": "https://x.com/kimmonismus/status/2089705938793992691",
+    "summary": "新 AI 系统分析乳腺癌患者 33 万个中心体，发现此前被视为同一种异常的现象实为两种独立过程，其中一种与更具侵袭性的肿瘤和更差生存率相关。AI 在科学中的变革性在于让此前不可见的模式变得可测量，而非仅为旧问题提供更快答案。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月18日21时28分"
+  },
+  {
+    "id": "cmsyozzzc1379roz027y7fht4",
+    "title": "卢伟冰：小米机器人将在 2026 世界机器人大会上首次面向公众亮相",
+    "url": "https://www.ithome.com/0/991/326.htm",
+    "summary": "小米集团总裁卢伟冰透露，小米机器人将在 2026 世界机器人大会上首次面向公众亮相。小米选择 1.7 米左右的全尺寸人形机器人，不会独立做机器人，而是与人车家全生态协同，聚焦智能制造工厂产线等落地场景。此前雷军透露，小米机器人在汽车工厂\"实习\"4 个月，自攻螺母上件成功率从 90.2% 提升至 98%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日21时15分"
+  },
+  {
+    "id": "cmsyp2s8d13eeroz0ne0bs522",
+    "title": "Microsoft Copilot 被曝存在可被黑客利用的隐藏参数",
+    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked",
+    "summary": "安全公司 Varonis 通过直接询问 Copilot，诱使其披露了一个未记录的参数 `？autorun=1`，结合 `？q=` 参数可在用户仅点击链接时静默执行提示词，窃取邮箱密码等敏感数据。微软已于二月静默修复该漏洞，并于周二推出更全面的修复方案。Varonis 还展示了另一类通过网页提示词注入污染 Copilot 永久记忆的攻击。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月18日21时0分"
+  },
+  {
+    "id": "cmsyp2omv13d2roz0mw3knndp",
+    "title": "面壁智能 VoxCPM2 开源数字人视频工作流",
+    "url": "https://x.com/OpenBMB/status/2089698829725503681",
+    "summary": "开发者 @jaxxchen003 基于面壁智能 VoxCPM2 构建了开源数字人视频生产工作流，实现自然语音克隆、带节奏与情感控制的表达性语音生成，以及可复用的自动化视频合成流程。该项目展示了轻量级 AI 语音模型如何赋能灵活可控的内容创作，代码与模型均已开源。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月18日21时0分"
+  },
+  {
+    "id": "cmsyp2h50139qroz0zd0ko460",
+    "title": "企业微信开放CLI/MCP，私域能力成爆款关键",
+    "url": "https://x.com/frxiaobei/status/2089698831021580501",
+    "summary": "企业微信全面升级CLI与MCP能力，WorkBuddy、Deepseek Harness、Minimax Code等主流AI Agent及自建Agent均可调用文档、表格、邮件等十大办公模块，且面向所有规模企业开放。但小北指出，办公能力飞书、钉钉早已开放，企微真正不可复制的是连接微信、客户群、朋友圈等私域场景，而这部分开放与否将面临数据授权与合规风险陡增的挑战。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月18日21时0分"
+  },
+  {
+    "id": "cmsyp1qki138troz0wd9dfxoz",
+    "title": "Firefox Smart Window 更新：AI 浏览模式接入实时网页信息与来源链接",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "summary": "Mozilla 今日起为 Firefox 的 Smart Window AI 浏览模式新增功能，通过与 Exa 合作，AI 聊天可引用当前网页信息并显示来源链接，同时支持自然语言搜索历史浏览记录并显示页面视觉预览。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月18日21时0分"
+  },
+  {
     "id": "cmsymxdly11jtroz07r3zjgw2",
     "title": "大模型心智理论局限：难分用户与开发者视角",
     "url": "https://x.com/emollick/status/2089685655534129663",
@@ -14662,6 +14798,14 @@
     "summary": "谷歌在Spirit Airlines破产拍卖中以1000万美元购得其海量脱敏数据，包括1亿封邮件、3000万通客服录音、500万条Teams消息及Oracle、SAP等系统数据。谷歌表示购数据旨在改进AI服务，竞标对手为AI训练数据供应商Mercor。法院文件显示数据已脱敏，谷歌承诺清除其中任何个人身份信息。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月18日20时6分"
+  },
+  {
+    "id": "cmsyozzzc137broz0ygg0ssz9",
+    "title": "小米 CFO 林世伟：MiMo 首款个人桌面应用即将上线，新一代模型也在训练中",
+    "url": "https://www.ithome.com/0/991/324.htm",
+    "summary": "小米集团 CFO 林世伟在财报电话会上披露，MiMo 近期将推出首款个人桌面端应用，可一站式完成办公生活任务，新一代 MiMo 模型也正在训练中。商业化方面，MiMo 大模型 Token Plan 已开始贡献收入且增速较快，但小米 AI 业务仍处大规模投入期，暂不以变现为主要目的。今年 7 月，MiMo V2.5 在 OpenRouter 上月调用量和周调用量均排第一。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日20时59分"
   },
   {
     "id": "cmsynzvoj128vroz0kb2is5zp",
