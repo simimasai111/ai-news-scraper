@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsz5qniu03d0rodpj4mih8qq",
+    "title": "Grok @Bot 获赞：最酷 AI 产品",
+    "url": "https://x.com/elonmusk/status/2089821351091798283",
+    "summary": "Grok @Bot 超级有趣。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月19日5时6分"
+  },
+  {
     "id": "cmsz4scya02mirodpp9n7imf6",
     "title": "ZHO谈《牛来》观影体验印证AI共生感悟",
     "url": "https://x.com/ZHO_ZHO_ZHO/status/2089806750618988755",
@@ -13870,6 +13878,94 @@
     "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
     "source": "X：Claude (@claudeai)",
     "date": "2026年8月19日4时6分"
+  },
+  {
+    "id": "cmsz5qniu03d1rodp5ifieuhr",
+    "title": "马斯克点赞Grok Bot最强AI智能体",
+    "url": "https://x.com/elonmusk/status/2089818449912746244",
+    "summary": "酷\n\n【引用 @milesdeutscher】：Grok Bot 是我用过的最强大的 AI 智能体。\n\n学会正确使用它，你就能拥有全天候为你工作的智能体集群。\n\n这份大师指南教你关于新 Grok Bot（by @SpaceXAI）的一切：",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月19日4时55分"
+  },
+  {
+    "id": "cmsz59za50317rodp1ys1v9xc",
+    "title": "Google 在 AI 上最大的失误是什么？",
+    "url": "https://garymarcus.substack.com/p/googles-biggest-mistake",
+    "summary": "Gary Marcus 撰文分析 Google 在 AI 竞争中掉队的原因，认为并非资源不足，而是可追溯至 2023 年的一项关键决策。若该理论成立，这或将成为 Alphabet CEO Sundar Pichai 代价最昂贵的失误。文章同时提出关于未来走向的若干开放性问题。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月19日4时48分"
+  },
+  {
+    "id": "cmsz5j5i8038grodp4ifzu5vi",
+    "title": "GLM-5.3 API 上线，定价与 5.2 持平",
+    "url": "https://x.com/Zai_org/status/2089816129011098048",
+    "summary": "GLM-5.3 API 现已上线。\n\n- 专为编程、防御性网络安全及长周期智能体任务打造\n- 定价与 GLM-5.2 相同\n- 可通过官方 API 及合作伙伴模型网关使用\n\n开始使用：https://docs.z.ai/guides/llm/glm-5.3",
+    "source": "X：智谱 Z.ai (@Zai_org)",
+    "date": "2026年8月19日4时46分"
+  },
+  {
+    "id": "cmsz4x8ud02s6rodpxpyz7aow",
+    "title": "MAI-Image-2.6 登顶图像竞技场第三",
+    "url": "https://x.com/testingcatalog/status/2089815499676713216",
+    "summary": "MAI-Image-2.6 在 Image Arena 上位列第三，现已在 MAI Playground 和 Microsoft Foundry 上以私有预览形式提供。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月19日4时43分"
+  },
+  {
+    "id": "cmsz59wqz030rrodpajpbzfzd",
+    "title": "Claude Code v2.1.235 发布：新增拼写检查与多项修复",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.235",
+    "summary": "Claude Code v2.1.235 新增可选拼写检查设置，可在输入提示词时使用 aspell、hunspell 或 ispell 为拼写错误的单词添加下划线。该版本修复了整段提示词缓存失效、嵌套列表错位、权限弹窗快捷键误触等问题，并优化了 /ultrareview 等云会话后台运行时的内存与 CPU 占用。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月19日4时38分"
+  },
+  {
+    "id": "cmsz4x8t602rwrodpmrwe4myx",
+    "title": "不看数据，就不算在做 AI",
+    "url": "https://x.com/omarsar0/status/2089811733351219458",
+    "summary": "主推文强调，不审视数据就不算真正在做 AI。引用推文中，@abacaj 用 Fable 训练 LFM 2.6B 模型时因未检查数据，多次尝试均使模型变差；检查后发现约 1/3 数据使用了错误的聊天模板，且导入了与任务不符的 HuggingFace 数据集。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月19日4时28分"
+  },
+  {
+    "id": "cmsz4x8u502s4rodp7f6t79ys",
+    "title": "OpenAI 暂停前沿模型强化学习训练两周",
+    "url": "https://x.com/rohanpaul_ai/status/2089811449996783814",
+    "summary": "OpenAI 因即将推出的 Astra 模型网络安全能力达到\"严重\"级别，暂停前沿 AI 模型的强化学习训练两周。同期，Bloomberg 报道 OpenAI 年化收入已超 $40B，约为此前运行率的两倍。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日4时27分"
+  },
+  {
+    "id": "cmsz4x8t602rxrodpft7wtqr3",
+    "title": "AI 智能体助力研究的黄金时代",
+    "url": "https://x.com/omarsar0/status/2089811064288432465",
+    "summary": "Elvis Saravia 认同当前是机器学习研究的最佳时期，认为借助 AI 智能体可探索大量研究问题、运行实验并积累知识。他强调研究是进行\"tokenmaxxing\"最多的领域，技术进步与工具、算力的空前可用性让人难以置身事外。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月19日4时25分"
+  },
+  {
+    "id": "cmsz54st802wxrodp9jk243hd",
+    "title": "挪威应该收购OpenAI",
+    "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+    "summary": "挪威主权财富基金GPF-G（规模超2万亿美元）应收购估值约8000亿美元的OpenAI，将其管理权移交国际多边机构，以阻止AI财富集中于少数股东之手。文章认为，大模型基于人类集体数据与公共资金建成，属被圈占的公共资源，而OpenAI已放弃非营利承诺转为营利公司。作者呼吁左翼提出超越常规的政策选项，确保AI转型惠及全体人类而非加剧技术性失业与权力集中。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日4时22分"
+  },
+  {
+    "id": "cmsz4x8tx02s2rodpkjodfl9j",
+    "title": "Anthropic 承压，Claude Code 限额上调延至8月底",
+    "url": "https://x.com/kimmonismus/status/2089809993037984203",
+    "summary": "Anthropic 日益处于守势。\n\n我们将每周 Claude Code 限额的 50% 上调延长至 8 月 31 日。\n\n我们希望将此变为套餐的永久变更，但模型的强劲需求意味着未来几周容量可能紧张。如有进展我们会及时告知。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日4时21分"
+  },
+  {
+    "id": "cmsz4x8ue02s7rodpkntizf54",
+    "title": "Claude Cowork 登陆移动端，全付费计划可用",
+    "url": "https://x.com/testingcatalog/status/2089809595619311630",
+    "summary": "Claude Cowork 现已面向所有付费计划开放，可在 Claude 移动端使用。\n\n移动端测试时间到 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月19日4时20分"
   },
   {
     "id": "cmsz4scxr02mgrodprwvq1gy4",
