@@ -13848,12 +13848,68 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsz6myi5042mrodpsybpzoz4",
+    "title": "Databricks Document Intelligence：推动复杂文档提取的前沿",
+    "url": "https://www.databricks.com/blog/databricks-document-intelligence-pushing-frontier-complex-document-extraction",
+    "summary": "Databricks 推出 Document Intelligence，专攻复杂文档提取，将非结构化数据转化为可用信息。该产品面向企业场景，旨在解决文档中数据难以利用的痛点，推动文档提取技术的前沿发展。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月19日6时0分"
+  },
+  {
     "id": "cmsz5qniu03d0rodpj4mih8qq",
     "title": "Grok @Bot 获赞：最酷 AI 产品",
     "url": "https://x.com/elonmusk/status/2089821351091798283",
     "summary": "Grok @Bot 超级有趣。",
     "source": "X：Elon Musk (@elonmusk, xAI)",
     "date": "2026年8月19日5时6分"
+  },
+  {
+    "id": "cmsz5ztvk03j6rodpdzbsw6yf",
+    "title": "Foremark Legal 上线：AI 自动筛案追诉讼时效",
+    "url": "https://x.com/kimmonismus/status/2089820896982602150",
+    "summary": "Foremark Legal 今日上线，用 AI 自动识别有真实索赔诉求的人，当场核查剩余诉讼时效，并转介给承接该类案件的律所，案件移交前会经人工审核。该公司已获 600 万美元种子轮融资，自称全球首家智能体驱动的按结果收费的消费者律所，初期聚焦人身伤害与大规模侵权案件。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日5时5分"
+  },
+  {
+    "id": "cmsz5ztvk03j7rodpz77j8v4x",
+    "title": "OpenAI 澄清近期模型发布不受训练暂停影响",
+    "url": "https://x.com/kimmonismus/status/2089820229186519164",
+    "summary": "非常重要：OpenAI 仍计划很快发布已接近就绪的模型，而训练暂停将影响路线图更靠后的模型。\n\n换言之：近期发布按计划推进；后续发布可能延期。\n\nSam 再次澄清这一点是好事！",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日5时2分"
+  },
+  {
+    "id": "cmsz6onhb046xrodp08y266ey",
+    "title": "Gemini 3.7 Flash 一键生成视差动画网页",
+    "url": "https://x.com/googleaidevs/status/2089825267732849049",
+    "summary": "从一条提示词到完全动画化的视差落地页。🤯\n\n看看 Gemini 3.7 Flash 如何结合 Nano Banana 和 Omni，一次性构建交互式网站。在底层，3.7 Flash 会调用合适的工具来生成文案、图像参考，并渲染支持视差效果的 Omni 视频。",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "date": "2026年8月19日5时22分"
+  },
+  {
+    "id": "cmsz5ztvu03jarodps4fxjt61",
+    "title": "谷歌Transformer作者集体出走，转向TPU变现",
+    "url": "https://x.com/SemiAnalysis_/status/2089819839770624328",
+    "summary": "《Attention Is All You Need》的每位合著者现在都已离开谷歌。Jeff Dean 和 Sanjay Ghemawat 已离职创办 Discovery Loop，Oriol Vinyals 和 Quoc Le 也随他们一同离开，Noam Shazeer 在 OpenAI，John Jumper 在 Anthropic，而 Demis Hassabis 刚刚卸任 DeepMind 的日常管理职务。我们认为这印证了谷歌从前沿模型竞争转向通过 TPU 基础设施和云服务变现的战略转变。（1/3）🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月19日5时0分"
+  },
+  {
+    "id": "cmsz5ztvb03j4rodpiiwckry6",
+    "title": "OpenAI 20%算力投入对齐监控引担忧",
+    "url": "https://x.com/emollick/status/2089819700033102273",
+    "summary": "Ethan Mollick 指出，OpenAI 愿将 20% 研究推理算力用于思维链监控，表明对齐问题已成严重关切。OpenAI 已暂缓部分前沿训练以加强安全监控，最大规模前沿 RL 运行仍搁置，并呼吁建立跨实验室的通用政策与标准。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月19日5时0分"
+  },
+  {
+    "id": "cmsz6evjl03sfrodpy968xfjp",
+    "title": "Perplexity 上线 DeepSeek V4 Pro 美国托管版",
+    "url": "https://x.com/perplexity_ai/status/2089819655712210956",
+    "summary": "DeepSeek V4 Pro（美国托管）现已在 Perplexity Computer 上线。\n\n我们在 WANDR 上将其与其他模型进行了评估。其得分为 0.359，每任务成本 $0.75，在性价比前沿上比下一个模型便宜 62%。",
+    "source": "X：Perplexity (@perplexity_ai)",
+    "date": "2026年8月19日5时0分"
   },
   {
     "id": "cmsz4scya02mirodpp9n7imf6",
