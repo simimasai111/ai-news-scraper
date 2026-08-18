@@ -14752,6 +14752,30 @@
     "date": "2026年8月18日1时14分"
   },
   {
+    "id": "cmsyerja30td7roz0bmtmu7ab",
+    "title": "Databricks 举办首届 Grounded Reasoning Cup 现场评测 AI 智能体",
+    "url": "https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup",
+    "summary": "Databricks 举办首届 Grounded Reasoning Cup，以现场方式评测 AI 智能体的落地推理能力。赛事为同类首创，聚焦智能体在真实场景中的表现，而非静态基准测试。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月18日16时36分"
+  },
+  {
+    "id": "cmsyffezb0tr0roz0s2855x1h",
+    "title": "宾州州立大学研究：AI 上下文压缩平均仅保留 17% 用户指令，Qwen3.5-9B 插件可修复",
+    "url": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context",
+    "summary": "宾州州立大学研究显示，AI 系统压缩上下文时平均仅 17% 的会话约束指令能幸存，压缩后规则遵从率大幅下降，多数压缩方案甚至不如不压缩。研究推出 COMPINT 评测套件，并发现基于 Qwen3.5-9B 的附加模块无需训练即可将指令保留率提升至 90% 以上，该模块与评测套件已开源至 GitHub。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月18日16时22分"
+  },
+  {
+    "id": "cmsyea5ai0svbroz0sozjtiwb",
+    "title": "阿里千问办公接入企业微信，已覆盖钉钉、飞书等国内主流办公平台",
+    "url": "https://www.ithome.com/0/991/128.htm",
+    "summary": "阿里千问办公今日起正式接入企业微信，此前已接入钉钉和飞书，至此实现国内三大主流协同办公平台的全面支持。用户可通过网页在千问办公连接器中完成企业微信授权，以对话方式调用读取智能表格、新建文档、发送通知、查询日程、预约会议或创建待办等能力，客户端版本即将上线。千问办公于8月3日开启公测，定位企业级办公场景，并已接入海外平台Slack。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日15时56分"
+  },
+  {
     "id": "cmsyd9oce0rt1roz0hbvkuwoi",
     "title": "与Codex相比Anthropic界面体验欠佳",
     "url": "https://x.com/kimmonismus/status/2089621198665621527",
