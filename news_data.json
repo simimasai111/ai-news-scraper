@@ -14752,6 +14752,46 @@
     "date": "2026年8月18日1时14分"
   },
   {
+    "id": "cmsy5pggs0kq6roz0ltpufmsw",
+    "title": "赛昉科技推出服务器级 RISC-V HPC CPU IP 昉 · 天枢-100",
+    "url": "https://www.ithome.com/0/991/045.htm",
+    "summary": "赛昉科技正式推出服务器级 RISC-V HPC CPU 内核设计昉 · 天枢-100，已被希奥端计算选为智能边缘服务器 CPU 基础。该 IP 性能对标 Arm Cortex-A78，整数 IPC 达 SPECint2006 15/GHz，采用深度乱序执行架构，支持单核至四核集群，单裸片可扩展至 256 核。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日12时4分"
+  },
+  {
+    "id": "cmsy6q5v00ldjroz0lplatl93",
+    "title": "Mureka V9.5 重磅上线：让 AI 音乐，终于有了\"活人味儿\"",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510039&idx=1&sn=e0a585845e6ce1edca38a68c1753b958",
+    "summary": "昆仑万维发布新一代 AI 音乐生成模型 Mureka V9.5，基于 MusiCoT 框架，强调编配留白、人声自然与意图精准执行，人声表现良品率升至 61.0%，控制良品率达 97.0%，曲风完全体现比例 95.7%。V9.5 大幅优化中文国风作品咬字与和声编排，并基于超 2.5 万份用户反馈迭代，现已全平台陆续开放。",
+    "source": "公众号：昆仑万维（天工）",
+    "date": "2026年8月18日12时43分"
+  },
+  {
+    "id": "cmsy6u59r0lhsroz0d0cug237",
+    "title": "OpenAI Finance 胜过人类财务顾问",
+    "url": "https://x.com/ericmitchellai/status/2089571233130336309",
+    "summary": "他们以每月 20 美元的价格出售数百美元的服务\n\n我求求你试试\n\n必要时哪怕负债也要用\n\n【引用 @antoniogm】：把一切上传并登录到 OpenAI Finance，它比我花钱请过的任何人类注册会计师和财务顾问都更出色。\n\n合同和律师同理，检查结果和医生也一样。\n\n你之所以还和真人打交道，只是因为线下世界的遗留束缚和惯性。",
+    "source": "X：Eric Mitchell (@ericmitchellai)",
+    "date": "2026年8月18日12时32分"
+  },
+  {
+    "id": "cmsy5rlt90kworoz0sjcmzqe9",
+    "title": "哈佛芝加哥研究：LLM 服务一年负载分析",
+    "url": "https://x.com/rohanpaul_ai/status/2089567463721795772",
+    "summary": "哈佛与芝加哥团队分析 9，174 个模型、6.12B 次请求的一年生产数据，发现高效 LLM 服务更依赖理解流量变化与重复模式，而非单一调度器。99% 的缓存复用来自 15 分钟内的重复请求，均匀负载均衡会削弱该优势。研究建议路由、缓存与容量规划应基于真实流量历史，而非短时或合成基准。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日12时18分"
+  },
+  {
+    "id": "cmsy5rkpo0kw8roz0ips0fo3z",
+    "title": "Qwen3.8-27B本地模型达前沿性能",
+    "url": "https://x.com/Alibaba_Qwen/status/2089566892117860844",
+    "summary": "一款本地27B模型达到前沿性能！非常感谢@cline的提及。🥳 这仅仅是开始--Qwen3.8-27B将继续在更多领域发挥作用。🌱",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月18日12时15分"
+  },
+  {
     "id": "cmsy3meg00izrroz0g9nrch7y",
     "title": "Stripe 总裁谈 AI 如何改变产品构建方式",
     "url": "https://x.com/rohanpaul_ai/status/2089549855542939751",
@@ -14790,6 +14830,14 @@
     "summary": "Sherwin Wu 实测 ChatGPT Finance，30 分钟内识别出未使用的 Google One 订阅（年费 $100）、发现 Roth IRA 资金闲置在货币市场账户，并仅凭提及便纳入即将到来的税务支付。引用推文称其表现优于任何付费人类 CPA 和财务顾问。",
     "source": "X：Sherwin Wu（@sherwinwu）",
     "date": "2026年8月18日11时31分"
+  },
+  {
+    "id": "cmsy5pggs0kqcroz0s7s9h5ez",
+    "title": "Meta 专利探索智能眼镜未来：可识别人脸自动梳理、AI 提取精彩片段",
+    "url": "https://www.ithome.com/0/991/025.htm",
+    "summary": "Meta 申请新专利，探索让智能眼镜借助内置人脸识别技术，识别视频画面中的人物及其与佩戴者的关系，并自动生成带人物标签的集锦片段。专利构想的一个应用场景是，用户在晚宴或聚会上佩戴眼镜录制视频后，AI 可询问用户是否想查看活动精彩片段。Meta 眼镜当前只能录制 3 分钟或 5 分钟的视频，相关设计也可能加剧隐私争议。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日11时23分"
   },
   {
     "id": "cmsy3rag00j22roz0kglh7m6v",
