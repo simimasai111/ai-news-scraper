@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmszaa5fp07t4rodpywqg56mn",
+    "title": "Claude 自主设计蛋白结合剂命中率翻倍",
+    "url": "https://x.com/kimmonismus/status/2089852014331117694",
+    "summary": "Claude 在自主蛋白结合剂设计中命中率达 27%，约为传统人工流程 10-15% 的两倍。基于专家编写的方案，Claude 针对 15 个靶点中的 14 个成功设计结合剂，独立实验室确认 1，320 个设计中 354 个结合成功。不同设置下命中率在 22.6%-35.1% 之间，排名最高的设计在 49% 的实验中成功结合。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日7时8分"
+  },
+  {
+    "id": "cmszaa5g207t6rodpogl70yd5",
+    "title": "Anthropic 发布迄今最雄心勃勃的科学实验：Claude 自主完成计算蛋白质设计全流程",
+    "url": "https://x.com/rohanpaul_ai/status/2089850167302500483",
+    "summary": "Anthropic 让 Claude 自主完成计算蛋白质设计全流程，无需人类专家逐项决策。在 1，320 个设计中，354 个成功结合靶标（命中率 26.8%），并为 15 个靶标中的 14 个找到结合剂；在 6 个可比竞赛靶标中，Claude 在 4 个上命中率更高。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日7时1分"
+  },
+  {
+    "id": "cmszah5od07v3rodpiiduevtm",
+    "title": "苹果 tvOS 27 应用列表新增 Siri 条目，Apple TV 4K 将整合 Siri AI",
+    "url": "https://www.ithome.com/0/991/385.htm",
+    "summary": "9to5Mac 通过挖掘 tvOS 27 Beta 6 代码发现，苹果在系统应用列表中新增 Siri 条目，并关联内部代号\"com.apple.campo\"的字符串。该组件目前尚未开放，尝试打开时系统返回\"已停用\"错误，但已留下对应入口或识别信息，预示 Apple TV 4K 等设备将整合 Siri AI。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日7时19分"
+  },
+  {
+    "id": "cmszah5od07v4rodpw6z7sg0f",
+    "title": "Anthropic 推出 AI 文本水印后，各类去水印工具开始涌现",
+    "url": "https://www.ithome.com/0/991/384.htm",
+    "summary": "Anthropic 为部分 Claude 模型生成的文本添加\"不可感知的水印\"，以履行欧盟《人工智能法案》相关承诺，但此举引发用户担忧并催生去水印工具。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日7时18分"
+  },
+  {
+    "id": "cmszah5od07v5rodpamsm98iz",
+    "title": "泄露代码暗示：苹果 Home Hub 家庭中枢将搭载小组件库",
+    "url": "https://www.ithome.com/0/991/383.htm",
+    "summary": "苹果正在开发搭载 Siri AI 的家庭中枢设备 Home Hub，最早有望今年发布。macOS Tahoe 26.7 系统文件中的代码显示，该设备将配备\"Widget Gallery（小组件图库）\"，支持 Smart Stack 智能叠放、Face Gallery 表盘图库，并可能支持第三方应用小组件。设备预计采用约 7 英寸方形显示屏，可放置底座或安装上墙，不配备独立 App Store。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日7时11分"
+  },
+  {
     "id": "cmsz84zj1069urodpnhgoebro",
     "title": "3D编码测试：DeepSeek-V4-Pro 耗token达Muse 48倍",
     "url": "https://x.com/rohanpaul_ai/status/2089837124988350722",
