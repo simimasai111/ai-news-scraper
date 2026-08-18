@@ -14648,6 +14648,46 @@
     "date": "2026年8月18日2时0分"
   },
   {
+    "id": "cmsymxdly11jtroz07r3zjgw2",
+    "title": "大模型心智理论局限：难分用户与开发者视角",
+    "url": "https://x.com/emollick/status/2089685655534129663",
+    "summary": "大语言模型具备心智理论这一事实本身就意义重大（且这一发现在当时颇具争议），但当模型需要考虑多个受众时，其局限性依然可见--例如在编程时，它们难以区分终端用户与创作者的需求/视角。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月18日20时7分"
+  },
+  {
+    "id": "cmsymwrw811hzroz0ay2fxgpm",
+    "title": "谷歌以1000万美元拍下破产航司Spirit数据，用于AI训练",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "summary": "谷歌在Spirit Airlines破产拍卖中以1000万美元购得其海量脱敏数据，包括1亿封邮件、3000万通客服录音、500万条Teams消息及Oracle、SAP等系统数据。谷歌表示购数据旨在改进AI服务，竞标对手为AI训练数据供应商Mercor。法院文件显示数据已脱敏，谷歌承诺清除其中任何个人身份信息。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日20时6分"
+  },
+  {
+    "id": "cmsymwkyv11hdroz0enzw76ox",
+    "title": "Google Pet Memory 认不出我的猫：Gemini for Home 宠物识别功能实测失败",
+    "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+    "summary": "Google 的 Pet Memory 功能承诺让 Nest 摄像头按名字识别宠物，但实测两周仍无法区分三只猫，将所有猫都标记为第一只录入的 Smokey。该功能需每月 20 美元的 Google Home Advanced Plan，仅支持室内 Nest Cam，且无法上传照片或纠正错误。Google 尚未回应为何系统未按预期工作。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月18日20时1分"
+  },
+  {
+    "id": "cmsymutj711fyroz05ligjjcf",
+    "title": "用上下文文件把AI变成个人CFO",
+    "url": "https://x.com/AYi_AInotes/status/2089687935759131059",
+    "summary": "阿易AI Notes指出，AI给不出靠谱投资建议是因为缺少个人上下文。他引用@milesdeutscher的方法：用五个Markdown文件加实时数据搭一套Context Layer，半小时可建可用版本，把投资目标、回撤承受力、规则和性格缺陷写进去，让模型按你的红线审账而非空谈。核心是判断外置--规则写下来，模型才能在你承认的框架里找偏差，否则再贵的模型也只是个更会说话的陌生人。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月18日20时16分"
+  },
+  {
+    "id": "cmsymc5x111cdroz0rw1idyhi",
+    "title": "Alvys 推出面向货运 TMS 工作流的 AI 智能体平台 Alvys Foundry",
+    "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms",
+    "summary": "货运软件商 Alvys 推出智能体 AI 平台 Alvys Foundry，让承运商和经纪商可直接在其运输管理系统（TMS）内自动化运营任务。该平台支持预置及自定义 AI 智能体，可与 TMS 中已有的货运数据和工作流协同，并包含 20 多个预置智能体。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月18日20时0分"
+  },
+  {
     "id": "cmsxi6ljs02tproswie6yj4cm",
     "title": "Menlo 旗下 Wispr Flow 与 Higgsfield 双双完成巨额融资",
     "url": "https://x.com/deedydas/status/2089398673230938591",
@@ -14752,6 +14792,38 @@
     "date": "2026年8月18日1时14分"
   },
   {
+    "id": "cmsylv1qw0zg2roz01an93zi6",
+    "title": "JAMA 评论文章：AI 超越医生时，监管者不应强制人类介入",
+    "url": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says",
+    "summary": "《JAMA》发表评论文章预测，自主 AI 在医学推理上将超越任何医生与 AI 的组合，并呼吁监管者不要将人类介入写入规则。作者援引研究称，ChatGPT o3 在 377 个复杂病例中 60% 首先给出正确诊断，而 20 名内科医生仅为 15.9%；GPT-4 单独诊断推理得分 92%，使用同一模型的医生仅 76%。文章预计到 2030 年自主 AI 可胜任部分认知类医疗工作流。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月18日19时43分"
+  },
+  {
+    "id": "cmsyluxwj0zf0roz0zo88binv",
+    "title": "字节跳动与MPA签约强化AI版权保护",
+    "url": "https://x.com/thexpin/status/2089678585191907637",
+    "summary": "字节跳动已与美国电影协会（MPA）签署协议，为其AI视频和图像模型Seedance、Seedream加强版权保护，这些模型支撑着TikTok、CapCut和Dreamina等产品。此前好莱坞对AI版权风险表示担忧，MPA今年早些时候也发出警告。字节跳动称新版Seedance和Seedream包含更强的知识产权保护措施，或为其AI生成工具在美国更广泛采用铺平道路。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月18日19时39分"
+  },
+  {
+    "id": "cmsylv1qx0zg3roz0ruddezsg",
+    "title": "美国司法部调查 Andreessen Horowitz 合伙人兼任竞争AI公司董事",
+    "url": "https://the-decoder.com/doj-probes-andreessen-horowitz-over-partners-sitting-on-competing-ai-boards",
+    "summary": "美国司法部正对风投公司 Andreessen Horowitz 展开反垄断调查，因其合伙人同时担任直接竞争的 Databricks 和 Fivetran 董事，涉嫌违反1914年禁止连锁董事的法律。该调查已持续近一年，罕见地直接针对公司本身而非仅个人。该公司管理约900亿美元资产，持有 OpenAI、SpaceX 和 ElevenLabs 股份。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月18日19时35分"
+  },
+  {
+    "id": "cmsylv1qx0zg4roz0audxf4zf",
+    "title": "OpenAI 推出面向青少年的 ChatGPT 版本",
+    "url": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens",
+    "summary": "OpenAI 推出面向 13 至 17 岁用户的 ChatGPT 版本，针对自杀、自残、饮食失调和性内容等话题设置更严格的安全防护，并禁止聊天机器人假装拥有情感。在作业场景中，该版本不会直接给出答案，而是通过追问引导学生自行解决问题。OpenAI 不直接核验年龄，而是通过评估 2000 多个行为信号（如典型登录时间）来标记 18 岁以下用户并自动启用青少年版。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月18日19时27分"
+  },
+  {
     "id": "cmsykpo7a0yj4roz0ritb23nm",
     "title": "OpenAI 与 CodeAI 合作推出 ChatGPT 青少年版，内置学习模式与家长控制",
     "url": "https://www.ithome.com/0/991/297.htm",
@@ -14773,6 +14845,14 @@
     "url": "https://openai.com/index/partnering-with-codeai",
     "summary": "OpenAI 与 CodeAI 宣布建立合作，为学生和教育工作者提供 AI 学习工具与资源，并同步推出以学习为中心的 ChatGPT for Teens 体验，内置健康使用功能和家长控制。双方计划通过联合咨询委员会、Hour of AI、Builders Challenge 等项目，在未来一年帮助高中生建立 AI 素养。CodeAI 调查显示，75% 的高中生认为理解 AI 对未来比现在更重要。",
     "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "date": "2026年8月18日19时0分"
+  },
+  {
+    "id": "cmsyltziv0zacroz0rkmuqhzt",
+    "title": "ChatGPT 推出青少年专用模式",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+    "summary": "OpenAI 推出 ChatGPT for Teens 青少年模式，自动适用于 13-17 岁及系统判定未满 18 岁的用户，默认启用内容限制、家长控制与安全提醒。新功能包括敏感图片上传提醒、青少年专属引导、学习时段设置及\"负责任作业提醒\"，可识别试图\"走捷径\"完成作业的行为并引导至学习模式。多数保护措施此前已存在，此次主要整合现有功能并新增少量调整。",
+    "source": "The Verge：AI（RSS）",
     "date": "2026年8月18日19时0分"
   },
   {
