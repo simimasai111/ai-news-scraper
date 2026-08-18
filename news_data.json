@@ -14752,6 +14752,30 @@
     "date": "2026年8月18日1时14分"
   },
   {
+    "id": "cmsy7umqu0mgdroz08du1s9pk",
+    "title": "DeepSeek V4 Flash自验证逆袭Claude Fable 5",
+    "url": "https://x.com/AYi_AInotes/status/2089578957293125797",
+    "summary": "Stanford团队用DeepSeek V4 Flash采样5个答案并让同一模型自评打分，在Terminal-Bench 2.1上准确率从79%提升至88%，超越Claude Fable 5且成本仅为对方1/11。该方法验证了test-time scaling的潜力，框架已开源，可复现。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月18日13时3分"
+  },
+  {
+    "id": "cmsy7ws5q0mm3roz0ew5ohan2",
+    "title": "Meta FAIR 提出研究偏好模型（RPM），用预测替代 GPU 实验筛选候选方案",
+    "url": "https://x.com/rohanpaul_ai/status/2089583569618587738",
+    "summary": "Meta FAIR 提出研究偏好模型（RPM），在 GPU 实验前预测候选方案价值，解决 AI 研究智能体\"想法多、算力少\"的瓶颈。AIRA-dojo 每步生成 15 个候选，RPM 仅筛选 1 个进入完整运行；智能体版 RPM 可先用 5 分钟预算做试点实验。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日13时22分"
+  },
+  {
+    "id": "cmsy7wpmi0mk9roz0u6ezzu9u",
+    "title": "Grok @Bot 个人 AI 智能体教程发布",
+    "url": "https://x.com/elonmusk/status/2089578400734167260",
+    "summary": "xAI 的 Grok @Bot 被视为个人 AI 智能体的未来雏形。新教程演示如何搭建 5 个实用机器人，涵盖机器人管理、YouTube 研究、X 平台内容挖掘、收件箱清理及旅行省钱，并测试其运行经典游戏的能力，同时探讨其能否取代 ChatGPT 成为日常工具。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月18日13时1分"
+  },
+  {
     "id": "cmsy5pggs0kq6roz0ltpufmsw",
     "title": "赛昉科技推出服务器级 RISC-V HPC CPU IP 昉 · 天枢-100",
     "url": "https://www.ithome.com/0/991/045.htm",
@@ -14760,12 +14784,44 @@
     "date": "2026年8月18日12时4分"
   },
   {
+    "id": "cmsy7un910mgmroz0hbdm0wwl",
+    "title": "硅谷开始清理AI垃圾内容：谷歌删除5万账号集群，Spotify删7500万条曲目",
+    "url": "https://www.ithome.com/0/991/058.htm",
+    "summary": "硅谷科技公司开始大规模清理AI生成的垃圾内容。Spotify去年删除7500万条批量上传和重复曲目，谷歌在YouTube上清除13万个低质量频道及5万个账号集群，TikTok已自动标记超30亿条AI生成视频。这些垃圾内容多由科技公司自己的AI工具催生，已污染搜索、社交和音乐平台的信息生态。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日12时46分"
+  },
+  {
+    "id": "cmsy78x9c0manroz0h1bty3ri",
+    "title": "DeepSeek 高峰定价机制详解",
+    "url": "https://x.com/OpenRouter/status/2089574460047155298",
+    "summary": "模型定价正随时间推移变得越来越复杂。\n\n以下是以你的本地时区显示的 DeepSeek 高峰时段定价方式：https://openrouter.ai/deepseek/deepseek-v4-flash-0731?endpoint=354f2e34-3024-4b72-816d-617193b784d0\n\nOpenRouter 在为你们寻找最优价格时会充分考虑所有这些因素。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月18日12时45分"
+  },
+  {
     "id": "cmsy6q5v00ldjroz0lplatl93",
     "title": "Mureka V9.5 重磅上线：让 AI 音乐，终于有了\"活人味儿\"",
     "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510039&idx=1&sn=e0a585845e6ce1edca38a68c1753b958",
     "summary": "昆仑万维发布新一代 AI 音乐生成模型 Mureka V9.5，基于 MusiCoT 框架，强调编配留白、人声自然与意图精准执行，人声表现良品率升至 61.0%，控制良品率达 97.0%，曲风完全体现比例 95.7%。V9.5 大幅优化中文国风作品咬字与和声编排，并基于超 2.5 万份用户反馈迭代，现已全平台陆续开放。",
     "source": "公众号：昆仑万维（天工）",
     "date": "2026年8月18日12时43分"
+  },
+  {
+    "id": "cmsy7umqu0mgeroz0cl3u2hcb",
+    "title": "GPT-5.6 Sol 半价，价格战将至",
+    "url": "https://x.com/AYi_AInotes/status/2089572854316539974",
+    "summary": "@OpenAI GPT-5.6 Sol 今天起5折半价，持续一个月！！！ 梁圣的含金量还在上升，感觉大模型的价格战要来了，\n\n被@stripe 70亿美元收购以后也是有钱任性了哈哈哈，\n\n@claudeai 跟不跟？？？\n\n【引用 @OpenRouter】：OpenAI 的 GPT-5.6 Sol 在 OpenRouter 上现已半价！\n\n这也适用于 batch API、flex 和 priority（fast）层级，flex 层级最低可低至 $1.25 输入和 $7.50 输出。\n\n折扣自动生效，直接使用 openai/gpt-5.6-sol 即可。https://openrouter.ai/openai/gpt-5.6-sol",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月18日12时39分"
+  },
+  {
+    "id": "cmsy7un910mgnroz03f9ldqrg",
+    "title": "共生知行发布人形机器人驾驶卡丁车 Demo，展示直接感知-控制模型",
+    "url": "https://www.ithome.com/0/991/055.htm",
+    "summary": "共生知行（Symbiosis Robotics）8 月 17 日发布双足人形机器人驾驶卡丁车 Demo，并上线官网，首次系统展示其在\"全身智能\"方向的阶段性进展。其直接感知-控制模型移除中间运动表征，将视觉、语言、身体状态等直接映射为可执行动作，使宇树人形机器人实现手-眼-脚协同驾驶。该公司表示，赛车只是第一项公开测试，未来将围绕移动操作、高精度视觉对准等推出更多案例。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日12时33分"
   },
   {
     "id": "cmsy6u59r0lhsroz0d0cug237",
