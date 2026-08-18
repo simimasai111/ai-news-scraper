@@ -13848,6 +13848,38 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsz84zj1069urodpnhgoebro",
+    "title": "3D编码测试：DeepSeek-V4-Pro 耗token达Muse 48倍",
+    "url": "https://x.com/rohanpaul_ai/status/2089837124988350722",
+    "summary": "3D编码测试显示，DeepSeek-V4-Pro-0813 在构建三个体素城市场景时消耗 20，957，568 tokens，是 Muse Spark 1.2（440，279）的 48 倍，总耗时 91 分 25 秒，费用 $4.57。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日6时9分"
+  },
+  {
+    "id": "cmsz84ziq069srodpokn92cd6",
+    "title": "Vercel 开源轻量编码智能体 fx",
+    "url": "https://x.com/omarsar0/status/2089835269021135025",
+    "summary": "Vercel Labs 开源 fx，一个用 Zig 编写的极简编码智能体 harness 与 CLI，主打模型基准测试、沙箱、评估与 gym。其 6.3MiB 单二进制冷启动仅 10μs，基线内存占用个位数 MB，支持 Apache-2.0 协议与 MCP 扩展，并强调本地隐私。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月19日6时2分"
+  },
+  {
+    "id": "cmsz8gh3n06e4rodpl8l2syek",
+    "title": "Claude 如何加速蛋白质设计与分析化学研究",
+    "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+    "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "date": "2026年8月19日6时27分"
+  },
+  {
+    "id": "cmsz8c8b906c1rodp0ud6wbmn",
+    "title": "Cursor 借 GitHub 服务不稳之机推出代码托管平台 Origin",
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
+    "summary": "Cursor 本周推出代码托管平台 Origin，支持协作开发、浏览编辑、处理 pull-requests 及仓库存储，并可与 GitHub 互操作、双向同步代码。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月19日6时14分"
+  },
+  {
     "id": "cmsz6myi5042mrodpsybpzoz4",
     "title": "Databricks Document Intelligence：推动复杂文档提取的前沿",
     "url": "https://www.databricks.com/blog/databricks-document-intelligence-pushing-frontier-complex-document-extraction",
@@ -13872,6 +13904,14 @@
     "date": "2026年8月19日5时5分"
   },
   {
+    "id": "cmsz84zja069yrodpn7e4c8j2",
+    "title": "Claude 新增 Gmail 与 Google Drive 连接器",
+    "url": "https://x.com/testingcatalog/status/2089832813382037634",
+    "summary": "Claude 现在可以通过更新的 Google 连接器（含全新 UI 组件）直接在聊天中发送邮件和管理 Google Drive。\n\n超级应用 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月19日5时52分"
+  },
+  {
     "id": "cmsz6xfil04borodpt9eufv5p",
     "title": "Grok 4.6 在 DiligenceBench 金融评测中位列第二，与 Claude Opus 5 持平",
     "url": "https://x.com/karinanguyen/status/2089820713830236327",
@@ -13885,6 +13925,14 @@
     "url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands",
     "summary": "NVIDIA 发布 TensorRT Model Connect（TRTMC）公开预览，这是一个开源项目，可通过两条命令将受支持的 Hugging Face 或本地检查点直接转换为端到端 TensorRT 推理，无需中间 ONNX 导出步骤。",
     "source": "MarkTechPost（RSS）",
+    "date": "2026年8月19日5时49分"
+  },
+  {
+    "id": "cmsz84zj1069vrodpmso9qkny",
+    "title": "皮尤调查：过半美国年轻人对AI担忧超期待",
+    "url": "https://x.com/rohanpaul_ai/status/2089832153635082382",
+    "summary": "皮尤最新数据显示，美国30岁以下人群中首次有55%对AI担忧多于期待。73%的年轻人预期AI将在20年内减少美国就业岗位，较2024年的61%上升；仅5%的美国成年人认为AI会创造更多就业。多数年轻人仍使用聊天机器人，但认为其对创造力利弊参半。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月19日5时49分"
   },
   {
