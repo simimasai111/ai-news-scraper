@@ -13856,6 +13856,30 @@
     "date": "2026年8月19日6时9分"
   },
   {
+    "id": "cmsz9we5x07lxrodp67mj54eg",
+    "title": "SaaS 无头化转型：智能体交互按次收费",
+    "url": "https://x.com/trq212/status/2089844723691479333",
+    "summary": "奇怪的是，明明有个\"赚大钱\"的按钮，却没人去按。\n\n（把你的 SaaS 做成无头化，让智能体使用它，按交互次数收费，尤其是面向企业客户。）",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月19日6时39分"
+  },
+  {
+    "id": "cmsz9f2zw075hrodp23tr4h5b",
+    "title": "Deft 新 AI 实验室专注写作，86% 查询通过 AI 检测",
+    "url": "https://x.com/natolambert/status/2089843489248854413",
+    "summary": "Nathan Lambert 对 Deft 新 AI 实验室表示期待，该实验室由 @rosmine 与 @jmrphy 联合创立，专注提升写作能力。目前 Deft 的 86% 用户查询被 pangram 判定为完全人类写作，但仍是小型测试模型，现已开放公测以收集反馈。其目标是更好写作，而非欺骗 AI 检测器。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月19日6时34分"
+  },
+  {
+    "id": "cmsz9kmg307csrodpg1yl1xdu",
+    "title": "Claude 从头设计蛋白结合剂命中 14/15 靶点",
+    "url": "https://x.com/AnthropicAI/status/2089842387845804246",
+    "summary": "Anthropic 测试 Claude 能否从头设计新型蛋白结合剂：在人类专家编写的蛋白设计提示词下，Claude 自主针对 15 个靶点中的 14 个完成了设计。随后 Adaptyv Bio 与 Twist Bioscience 独立构建并测试了这些蛋白，验证了其可行性。",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "date": "2026年8月19日6时30分"
+  },
+  {
     "id": "cmsz84ziq069srodpokn92cd6",
     "title": "Vercel 开源轻量编码智能体 fx",
     "url": "https://x.com/omarsar0/status/2089835269021135025",
