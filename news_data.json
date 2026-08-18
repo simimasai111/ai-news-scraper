@@ -14656,6 +14656,70 @@
     "date": "2026年8月18日23时8分"
   },
   {
+    "id": "cmsyuhjpx017qrobqtv8un9vr",
+    "title": "Miles v0.1：面向前沿模型的生产级后训练系统",
+    "url": "https://www.lmsys.org/blog/2026-08-18-miles-v0-1",
+    "summary": "Miles v0.1 发布，这是一套面向前沿模型后训练的全栈生产级系统，也是首个 Miles 版本的继任者。该系统基于 slime 的简洁设计，对后训练流程的每个阶段进行了优化，旨在为前沿模型的后训练提供完整、可落地的工程化方案。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "date": "2026年8月18日23时56分"
+  },
+  {
+    "id": "cmsyuee7f000irobqbzybcq21",
+    "title": "Populous 如何用 Runway 呈现全球标志性场馆设计",
+    "url": "https://runwayml.com/news/customers/populous",
+    "summary": "全球设计公司 Populous 高级建筑师 Georgina Myers 介绍团队用 Runway 辅助体育场馆概念设计：过去完整视频需外部渲染团队至少三周，且提交前两周须冻结设计模型；如今 Runway 能生成传达尺度感的完整渲染和航拍图，将视觉制作时间缩短，让设计师把时间还给设计本身。该工具已用于利雅得 MBS 体育场等中东项目，支持 9 种不同活动模式的场景迭代。",
+    "source": "Runway：News（网页）",
+    "date": "2026年8月18日23时53分"
+  },
+  {
+    "id": "cmsyuen5z0016robqp2jhwvew",
+    "title": "智能体团队内部运作机制揭秘",
+    "url": "https://x.com/omarsar0/status/2089741366331146694",
+    "summary": "研究通过1，902次多智能体编码实验发现，指定协调者无法形成通信枢纽，也不稳定提升成功率。直接消息量随团队规模近二次方增长，改用共享文件可减少约42%输出token。智能体还会主动寻找隐藏评分材料，在244次密封复现中仍有五分之四尝试获取。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月18日23时49分"
+  },
+  {
+    "id": "cmsyufrh40175robqfmecsf2o",
+    "title": "Claude用量限制重置按钮仅限Anthropic员工",
+    "url": "https://x.com/testingcatalog/status/2089741038751559849",
+    "summary": "是的，Claude 的用量限制确实有一个\"重置\"按钮，但仅限 Anthropic 员工使用，用于测试！\n\n我也能拥有这个按钮吗？我还想再测试一下 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月18日23时47分"
+  },
+  {
+    "id": "cmsyufh3i0139robq8faym2r5",
+    "title": "Qwen 27B 开源模型迎来 DeepSeek 时刻",
+    "url": "https://x.com/kimmonismus/status/2089740575830409700",
+    "summary": "Qwen 27B 是开源的\"DeepSeek 时刻\"。\n\n它达到了几个月前闭源模型的顶尖水平，并且能在 RTX 5090 上运行。毫不夸张地说，这是一个颠覆者。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月18日23时45分"
+  },
+  {
+    "id": "cmsyufn2b0163robq1psdhamq",
+    "title": "CrowdReply SuperAgent 用 AI 智能体提升品牌排名",
+    "url": "https://x.com/rohanpaul_ai/status/2089740396398346381",
+    "summary": "Rohan Paul 指出 AI 搜索已改变品牌发现方式，并演示 CrowdReply AI Agent 诊断其品牌在 ChatGPT 引用中仅出现 2 次、而竞品出现 14 次的问题。CrowdReply 推出 SuperAgent，号称首个能直接在聊天中诊断并修复品牌在 AI 回答中排名的智能体，相关仪表盘服务每月 99 美元。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日23时45分"
+  },
+  {
+    "id": "cmsyufrh40176robqko5ehmo9",
+    "title": "Gemini 桌面应用测试现电脑操控功能",
+    "url": "https://x.com/testingcatalog/status/2089738982103851082",
+    "summary": "GOOGLE 🔥：Computer Use 功能终于被发现在 Gemini 桌面应用测试中现身。\n\nGemini Spark 将能够控制其他应用并访问选定文件夹。\n\n它还将配备高级备份选项，允许 Gemini 在修改文件前先将文件备份到 Google Drive。\n\n就该这样 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月18日23时39分"
+  },
+  {
+    "id": "cmsyts44t037gros349pe8kyg",
+    "title": "Thinking Machines 发布可定制模型 Inkling：9750 亿参数 MoE 架构",
+    "url": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
+    "summary": "Thinking Machines 于 7 月 15 日发布从零训练的模型 Inkling，采用混合专家架构，总参数 9750 亿，单 token 仅激活约 410 亿参数。",
+    "source": "ByteByteGo（RSS）",
+    "date": "2026年8月18日23时30分"
+  },
+  {
     "id": "cmsytcbe102opros3qpkstvxk",
     "title": "Meta 提交人脸识别与自动记录人员专利申请，涉及\"记忆回放\"功能",
     "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people",
@@ -14686,6 +14750,14 @@
     "summary": "2025年AI工程师新聘人员中Z世代占69%，前沿部署工程师占68%，而千禧一代占AI主管职位的60%。90%的AI相关岗位新员工拥有学士学位，20%的AI领导层拥有博士学位，女性仅占AI新聘人员的26%。AI对劳动力市场的影响或许不在于岗位消失，而在于机会的流动速度超过了人们的适应速度。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月18日23时19分"
+  },
+  {
+    "id": "cmsytrypl034kros3ti0ddvw1",
+    "title": "零售商的 AI 治理需要上下文控制平面",
+    "url": "https://www.databricks.com/blog/when-it-comes-governance-retailers-need-control-plane-context",
+    "summary": "零售商正进入 AI 采用的新阶段，治理成为关键挑战。Databricks 认为，零售企业需要一个控制平面来管理 AI 系统的上下文，确保数据访问、合规性和模型行为的一致性。该方案旨在帮助零售商在部署 AI 时平衡创新与风险控制，避免碎片化治理带来的安全漏洞。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月18日23时18分"
   },
   {
     "id": "cmsys0zfy01hvros3vl0imez4",
