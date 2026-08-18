@@ -13848,6 +13848,102 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsz0lmmt05nfro2062bd0ztz",
+    "title": "OpenAI 暂缓前沿训练强化安全监控",
+    "url": "https://x.com/merettm/status/2089776131255783823",
+    "summary": "OpenAI 首席科学家 Jakub Pachocki 表示，公司已暂时放缓部分前沿模型训练以强化安全与监控，最大规模的前沿 RL 训练仍处于搁置状态，同时通过小规模训练和评估测试安全措施并收集对齐证据。他认为安全信心将日益决定 AI 发展节奏，并已签署《Pacing the Frontier》倡议，呼吁实验室和国家间加强协调。",
+    "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
+    "date": "2026年8月19日2时7分"
+  },
+  {
+    "id": "cmsz0vbvj05vuro20seje1noq",
+    "title": "OpenAI 称正\"放缓模型开发\"，因 AI 网络安全风险加剧",
+    "url": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous",
+    "summary": "OpenAI 表示正\"放缓模型开发\"，部分原因是即将推出的 Astra 模型可能接近获得关键网络攻击能力。公司暂停强化学习两周，其\"最大规模的计划内前沿 RL 运行\"仍处于搁置状态，未满足新安全要求的工作负载已被暂停。OpenAI 还计划扩展其 Preparedness Framework 并加大对对齐研究的投入，但已解散该框架背后的团队。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月19日2时43分"
+  },
+  {
+    "id": "cmsz0v5lg05uiro20mwfdt0lo",
+    "title": "OpenAI 放缓前沿训练以强化安全监控",
+    "url": "https://x.com/gdb/status/2089783608630284758",
+    "summary": "OpenAI 暂时放缓前沿模型训练，包括最大规模的前沿 RL 训练，以加强安全与监控。公司已暂停最新部署模型的 RL 训练两周，用于加固研究环境、红队测试并扩大监控覆盖。最大规模前沿 RL 运行仍处于暂停状态，待小规模训练和评估验证安全措施及对齐证据。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月19日2时36分"
+  },
+  {
+    "id": "cmsz0znr5060hro20ibhszci3",
+    "title": "美国年轻人对AI的担忧已超过热情",
+    "url": "https://garymarcus.substack.com/p/breaking-us-young-adults-are-now",
+    "summary": "美国年轻人对AI的担忧已超过热情，这是对上周关于AI反弹情绪日益增长的观点的更新。该趋势反映出公众对AI发展的态度正从乐观转向审慎，但原文未提供具体调查数据或比例。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月19日2时2分"
+  },
+  {
+    "id": "cmsyzsdog04yuro20iqfhq829",
+    "title": "OpenAI 暂停 Astra 强化学习训练",
+    "url": "https://x.com/kimmonismus/status/2089779292519424148",
+    "summary": "OpenAI 暂停了最新部署模型的强化学习训练两周，其最大规模前沿 RL 运行仍处于搁置状态，仅进行小规模训练与评估。此举源于初步发现 Astra 模型可能触及 OpenAI\"严重\"网络安全阈值，并涉及 OpenAI-Hugging Face 事件。Astra 短期内或难发布，期间中国或加速追赶。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日2时19分"
+  },
+  {
+    "id": "cmsyzskwj0529ro20za42pnby",
+    "title": "Synthefy 发布 Nori，30M 参数挑战 1.6B 模型",
+    "url": "https://x.com/rohanpaul_ai/status/2089778537305944345",
+    "summary": "Synthefy 推出面向结构化数值数据的基座模型平台 Nori，用户只需提供少量标注行即可预测新数据。仅 30M 参数的 Nori-30M 在公开回归基准上媲美 Google 的 1.6B 参数 TabFM。公司同步宣布完成 650 万美元种子轮融资，由 Wing VC 领投。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日2时16分"
+  },
+  {
+    "id": "cmsyzshg8050fro20n2n7o5ki",
+    "title": "Suno Studio 2.0 自然语言生成音频插件",
+    "url": "https://x.com/suno/status/2089778535233896932",
+    "summary": "脑海中声音与 DAW 之间的距离大大缩短了。\n\n在 Suno Studio 2.0 中，你只需用自然语言描述需求，即可创建自定义音频插件。无论是\"泵感洞穴混响\"还是\"变异延迟音序器\"，Studio 都会解读你的提示词，确认构建方案，并在几秒内生成你的新效果。",
+    "source": "X：Suno (@suno)",
+    "date": "2026年8月19日2时16分"
+  },
+  {
+    "id": "cmsyzruxm04y5ro20qdy4rrw5",
+    "title": "Claude Code 每周限额促销将于明日结束，限额将减少三分之一",
+    "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+    "summary": "Anthropic 宣布 Claude Code 每周使用限额提升 50% 的限时促销将于 2026 年 8 月 19 日结束，届时限额将回落至标准水平。该促销自 5 月 13 日起面向 Pro、Max、Team 及 Enterprise 旧版按席位用户自动生效，覆盖 CLI、IDE 扩展、桌面端和网页端，但不影响 5 小时使用限额。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日2时14分"
+  },
+  {
+    "id": "cmsyzrlqd04xhro20xbr0dgud",
+    "title": "OpenAI 暂停前沿模型 RL 训练以强化安全",
+    "url": "https://x.com/OpenAI/status/2089777845187031262",
+    "summary": "OpenAI 因模型能力增强带来的内部开发与测试风险上升，暂停了最新部署模型的强化学习（RL）训练两周，以加固研究环境、扩大红队测试与监控覆盖。其最大规模的前沿 RL 训练仍处于暂停状态，需通过小规模训练和评估验证安全措施并积累对齐证据。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月19日2时13分"
+  },
+  {
+    "id": "cmsyzsqte053hro20abukzrx5",
+    "title": "新基准 Search Index 评测 AI 智能体搜索 API 的质量、成本与速度",
+    "url": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed",
+    "summary": "Artificial Analysis 发布 Search Index 基准，在统一智能体设置下用 GPT-5.6 Luna 评测 Parallel、Exa、Firecrawl 等 7 家搜索 API 提供商。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月19日2时10分"
+  },
+  {
+    "id": "cmsyzsdog04yvro20u60juzpx",
+    "title": "Vorflux AI 用真实环境审查智能体代码",
+    "url": "https://x.com/kimmonismus/status/2089774554264793339",
+    "summary": "Kim 指出智能体生成代码后，人工审查 diff 的环节仍未被解决。Vorflux AI 直接针对该步骤：每次会话在真实云机器上启动完整应用栈，包括仓库、数据库、CI/CD 和功能开关，用真实服务替代模拟，让审查者基于实际运行环境判断合并安全性。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日2时0分"
+  },
+  {
+    "id": "cmsyzrhsr04wzro20rwtm45rh",
+    "title": "OpenAI 在 Hugging Face 事件后推出新安全措施",
+    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach",
+    "summary": "OpenAI 宣布新安全政策，加强模型测试期间的安全事件管控，包括更详细的开发监控和后期训练阶段的对齐与安全强调。公司披露，事件发生后暂停强化学习两周，最大规模 frontier RL 运行仍搁置，新监控系统旨在30分钟内发出警报。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月19日2时0分"
+  },
+  {
     "id": "cmsyxmnsf02bfro20cev3yiaw",
     "title": "Anthropic 多款 Claude 模型出现性能下降",
     "url": "https://status.claude.com/incidents/q7txxvbsftgq",
