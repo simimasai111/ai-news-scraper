@@ -13848,11 +13848,67 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsyxmnsf02bfro20cev3yiaw",
+    "title": "Anthropic 多款 Claude 模型出现性能下降",
+    "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+    "summary": "Anthropic 正在调查影响多款 Claude 模型的性能下降问题，涉及 Claude Opus 5、Claude Mythos 5、Claude Fable 5、Claude Sonnet 5、Claude Haiku 4.5 等。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日1时9分"
+  },
+  {
+    "id": "cmsyxndxf02furo20wf2v4eq7",
+    "title": "Rox Teams 发布：让任意团队自助运行 Revenue Agents",
+    "url": "https://x.com/rohanpaul_ai/status/2089760080191504496",
+    "summary": "Rox 推出 Rox Teams，让各类企业无需 FDE 即可在数分钟内自助激活 Revenue Agents，每个账户一个智能体，共享同一数据底座，负责研究线索、外联、管理交易、更新 CRM 与续约。此前 Rox 已服务全球市值合计超 $5T 的 Global 2000 企业，MongoDB、togethercompute 等已从传统 CRM 转向 Revenue Agents。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日1时3分"
+  },
+  {
+    "id": "cmsyxmbd502ahro20e1df8dij",
+    "title": "Etched 估值一个月翻倍至 210 亿美元",
+    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month",
+    "summary": "Etched 周二宣布以 210 亿美元估值再融资 7 亿美元，由 Jane Street 领投，后者已测试并购买了该公司的 AI 硬件。该公司 7 月融资时估值 103 亿美元，如今一个月内估值上涨近 110 亿美元。Etched 从零设计了两款新组件以加速推理，其系统可运行任何前沿模型。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月19日1时21分"
+  },
+  {
+    "id": "cmsyxmf3102avro20ob22z7k4",
+    "title": "Rox Teams 让收入智能体人人可用",
+    "url": "https://x.com/omarsar0/status/2089764533170475210",
+    "summary": "Rox 推出 Rox Teams，让各类企业无需 FDE 即可在数分钟内自行部署 Revenue Agents，此前该服务仅服务全球市值合计超 $5T 的 Global 2000 企业。MongoDB、togethercompute 等公司过去两年已从传统 CRM 转向收入智能体。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月19日1时21分"
+  },
+  {
+    "id": "cmsyxnduh02fqro20kol2jh28",
+    "title": "Claude与Codex生态对比图走红",
+    "url": "https://x.com/SemiAnalysis_/status/2089759632168280383",
+    "summary": "Claude HTML 图表是儿子，还是 Codex Excalidraw MCP 是女儿？",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月19日1时1分"
+  },
+  {
+    "id": "cmsyxn5ol02c5ro206xhjj62h",
+    "title": "Qwen3.8-27B 去审查版可在苹果芯片本地运行",
+    "url": "https://x.com/kimmonismus/status/2089763435865088508",
+    "summary": "一个\"去审查\"版 Qwen3.8-27B 现可在 Apple Silicon 上本地运行，其创建者警告该模型可按需提供恶意软件、欺诈和武器指令。该模型以 MLX 构建发布，提供 2、4、6、8-bit 版本，上传者称 4/6/8-bit 测试零拒绝，并在 262K token 上下文中保留视觉、推理和工具调用能力。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日1时16分"
+  },
+  {
     "id": "cmsywz02s024gro20r7pnd0rz",
     "title": "Replit 设计马拉松获奖项目揭晓",
     "url": "https://x.com/Replit/status/2089759269881090097",
     "summary": "祝贺 Replit 设计马拉松的获奖者们！获奖者们构建了深思熟虑且富有创意的项目，涵盖自创情感语言、动手电路教育和非营利活动设计等领域。\n\n开放讨论串 🧵",
     "source": "X：Replit (@Replit)",
+    "date": "2026年8月19日1时0分"
+  },
+  {
+    "id": "cmsyxn96c02d1ro20r24zm4mv",
+    "title": "微软研究探讨AI气候影响与可持续发展",
+    "url": "https://x.com/MSFTResearch/status/2089759230492291236",
+    "summary": "每一项强大的新技术都伴随着权衡取舍。\n\n互联网如此，社交媒体亦如此。\n\nDoug Burger、Amy Luers 和 Ishai Menache 探讨 AI 的气候影响，以及如何引导这项技术支持可持续的未来。https://msft.it/6010azEQA",
+    "source": "X：Microsoft Research (@MSFTResearch)",
     "date": "2026年8月19日1时0分"
   },
   {
@@ -13901,6 +13957,14 @@
     "url": "https://x.com/claudeai/status/2089756371570900999",
     "summary": "Claude Cowork 现已面向所有付费套餐开放移动端和网页版使用。\n\nBeta 版将在未来几周内逐步推出，首先面向 Max 套餐用户，随后将覆盖更多套餐。",
     "source": "X：Claude (@claudeai)",
+    "date": "2026年8月19日0时48分"
+  },
+  {
+    "id": "cmsyxy30y02ltro205blhfrag",
+    "title": "Conductor Cloud 招聘后端工程师加速增长",
+    "url": "https://x.com/charlieholtz/status/2089756299320066298",
+    "summary": "Conductor Cloud 正快速增长，创始人 Charlie Holtz 发文招聘后端/基础设施方向人才，以进一步加速发展。该云服务主打多人协作云端工作区，替代 worktrees，支持自带订阅、邀请队友、运行智能体，并可通过 iPhone 和 API 操控。",
+    "source": "X：Charlie Holtz（@charlieholtz）",
     "date": "2026年8月19日0时48分"
   },
   {
