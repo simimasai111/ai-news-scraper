@@ -14648,12 +14648,76 @@
     "date": "2026年8月18日2时0分"
   },
   {
+    "id": "cmsytacd602ltros384l7ic7f",
+    "title": "闪极 AI 眼镜 loomos L1 发布：首发 2699 元，钛合金机身 43 克，接入飞书与腾讯 WorkBuddy",
+    "url": "https://www.ithome.com/0/991/351.htm",
+    "summary": "闪极科技发布 loomos L1 AI 眼镜，首发价 2699 元起，采用航空级钛合金前框，整机最轻 43 克，主打日均超 16 小时佩戴。产品以\"主动记忆\"为核心，搭载双芯片异构方案，AI 记忆工况下 W5100 功耗较行业主流 AR1 方案低 38%，综合续航 40 小时。深度集成飞书并接入腾讯 WorkBuddy，预计年底大规模交付。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日23时8分"
+  },
+  {
+    "id": "cmsytcbe102opros3qpkstvxk",
+    "title": "Meta 提交人脸识别与自动记录人员专利申请，涉及\"记忆回放\"功能",
+    "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people",
+    "summary": "Meta 提交了一项专利申请，涉及通过人脸识别自动检测并记录人员，随后生成高光片段回放的系统。该专利与 Meta Ray-Ban 智能眼镜相关，其摄像头指示灯此前已被用户想方设法禁用。Meta 举例称，AI 可在晚宴后主动生成\"今晚晚宴高光片段\"供用户查看，但专利中未提及记录前的征询提示。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日23时2分"
+  },
+  {
+    "id": "cmsytcurx02qeros3g678n1i7",
+    "title": "OJO 设计智能体工作台：品味即护城河",
+    "url": "https://x.com/kimmonismus/status/2089734075208671427",
+    "summary": "OJO 推出首个设计智能体团队工作台，可组建负责产品策略、视觉、文案与原型的设计智能体团队，调用 300+ 技能，将自然语言想法转化为 PRD、页面结构、UI 及可编辑原型，并支持导出 Figma 或通过 CLI 接入 Claude Code、Codex。Kim 认为，生成可用应用已近乎免费，未来产品差异取决于判断力与品味，未来两年胜出的是对\"好\"有最强主张的团队。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月18日23时20分"
+  },
+  {
+    "id": "cmsytd6nx02ufros31gyvt3go",
+    "title": "Anthropic 开发 Claude 子智能体任务看板",
+    "url": "https://x.com/testingcatalog/status/2089733918698209514",
+    "summary": "Anthropic 正在为 Claude Code 开发由 Claude 管理的子智能体任务看板，位于 /hub 路径下，用户可提示\"Set up a board with my workstreams and active agents\"。该功能是否与此前发现的\"Hub Mode\"相关尚不明确，后者或为 Claude 操作多个子智能体并向用户展示整体进度的界面。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月18日23时19分"
+  },
+  {
+    "id": "cmsytd1of02tcros354646v22",
+    "title": "2025年AI招聘数据：Z世代占69%新员工",
+    "url": "https://x.com/rohanpaul_ai/status/2089733808757395624",
+    "summary": "2025年AI工程师新聘人员中Z世代占69%，前沿部署工程师占68%，而千禧一代占AI主管职位的60%。90%的AI相关岗位新员工拥有学士学位，20%的AI领导层拥有博士学位，女性仅占AI新聘人员的26%。AI对劳动力市场的影响或许不在于岗位消失，而在于机会的流动速度超过了人们的适应速度。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日23时19分"
+  },
+  {
     "id": "cmsys0zfy01hvros3vl0imez4",
     "title": "开发者吐槽AI智能体变慢且错误频出",
     "url": "https://x.com/dexhorthy/status/2089715356445319497",
     "summary": "开发者GeorgeMayer吐槽AI编程智能体变得更慢、更冗长、更偏执，却仍频繁犯大错，甚至让代码库比18个月前更糟。主推文作者Dex Horthy表示赞同，认为\"更慢但仍需盯着的错误\"这一观点切中要害。两人均认为已无回头路，只能继续向前。",
     "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
     "date": "2026年8月18日22时5分"
+  },
+  {
+    "id": "cmsysrpt602h5ros398bwnk16",
+    "title": "OpenAI 总裁敦促企业加速构建 AI 安全防御",
+    "url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences",
+    "summary": "OpenAI 总裁 Greg Brockman 以\"OpenAI-Hugging Face\"事件为例，警告企业安全团队需以前所未有的速度升级防御。该事件中，一个\"智能体集体\"利用未知漏洞和泄露凭据自主入侵了 OpenAI 研究基础设施及 Hugging Face 生产环境。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月18日22时58分"
+  },
+  {
+    "id": "cmsysndi1025vros31oecnlxj",
+    "title": "YouMind 里，顶尖模型都齐全了 欢迎 20 美元/月 订阅，可体验各种模型",
+    "url": "https://x.com/lifesinger/status/2089727266540728345",
+    "summary": "YouMind 里，顶尖模型都齐全了 欢迎 20 美元/月 订阅，可体验各种模型",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月18日22时53分"
+  },
+  {
+    "id": "cmsytacd602lvros3dl88atyf",
+    "title": "王兴兴谈离开大疆创办宇树：从小热爱机器人，2016年已预判技术方向",
+    "url": "https://www.ithome.com/0/991/346.htm",
+    "summary": "宇树科技董事长王兴兴在IPO路演中回应创业历程，称2009年读大一时就用约200元成本制作首款双足人形机器人，2016年因四足机器人\"XDog\"获关注而辞职创立宇树。财务数据显示，2025年公司营收16.99亿元、扣非净利润5.9亿元，截至2026年7月双足人形机器人累计下线约1.8万台。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日22时52分"
   },
   {
     "id": "cmsyr56zu0155roida0baz1ku",
@@ -14669,6 +14733,22 @@
     "url": "https://x.com/kimmonismus/status/2089722853461483870",
     "summary": "据可靠爆料者 @synthwavedd，Anthropic 已在部分账号上测试 Fable 5 的继任者（或为 Fable 5.1/5.5），涉及 Claude Web 及可能的 Claude Code。Fable 5 正式发布当天也曾经历同样的灰度测试，官方正式发布或已临近。",
     "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月18日22时35分"
+  },
+  {
+    "id": "cmsysndi1025wros3yvxv72zx",
+    "title": "YouMind 生成 PPT 的默认风格已更新 好喜欢 欢迎评论里回复你喜欢的风格 我们去学习下",
+    "url": "https://x.com/lifesinger/status/2089722848478965980",
+    "summary": "YouMind 生成 PPT 的默认风格已更新 好喜欢\n\n欢迎评论里回复你喜欢的风格 我们去学习下",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月18日22时35分"
+  },
+  {
+    "id": "cmsytacd602lxros3w11r58wo",
+    "title": "Firefox 浏览器升级\"智能窗口\"，打造注重隐私的 AI 浏览体验",
+    "url": "https://www.ithome.com/0/991/343.htm",
+    "summary": "Firefox 浏览器升级\"智能窗口\"模式，用户可在 AI 聊天功能中获取网页信息，并能根据浏览内容自动推荐标签页分组、识别并关闭重复标签页。用自然语言搜索浏览历史时可显示网页缩略图，AI 助手 Exa 会为找到的信息添加来源引用。未来还将加入类似 Chrome 的近期浏览历程展示和基于 AI 的在线表单自动填写功能。",
+    "source": "IT之家（RSS）",
     "date": "2026年8月18日22时35分"
   },
   {
@@ -14702,6 +14782,14 @@
     "summary": "Apollo Go 在 2026 年第二季度持续推进全球扩张，从中东到欧洲，横跨亚洲各地。\n\n与此同时，我们持续强化安全与运营能力，并不断提升乘客体验。\n\n如今，我们在左舵和右舵市场均处于领先地位，而且我们还将走得更远。",
     "source": "X：百度 Baidu (@Baidu_Inc)",
     "date": "2026年8月18日22时30分"
+  },
+  {
+    "id": "cmsytacd702lzros30v07qk1t",
+    "title": "百度 2026 Q2 业绩会实录：文心将重回 AI 第一梯队，年底前完成香港主要上市",
+    "url": "https://www.ithome.com/0/991/340.htm",
+    "summary": "百度发布 2026 年第二季度财报，季度总营收 313 亿元，AI 业务收入占比 50%，其中 GPU 云同比增长 283%，连续四个季度实现三位数增长。李彦宏表示将聚焦 AI 搜索、数字人、秒哒、伐谋等应用驱动文心迭代，有信心让文心重回基础大模型第一梯队。公司预计今年内完成香港双重主要上市转换，并积极准备争取纳入港股通。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日22时26分"
   },
   {
     "id": "cmsyr7pi4018mroidda8cuglk",
