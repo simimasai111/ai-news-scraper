@@ -14752,12 +14752,92 @@
     "date": "2026年8月18日1时14分"
   },
   {
+    "id": "cmsya1yiz0pearoz0etnsr6he",
+    "title": "Qwen3.8-27B 本地可跑，追平 GPT-5.6",
+    "url": "https://x.com/Alibaba_Qwen/status/2089597078385446969",
+    "summary": "强到足以跟上前沿，轻到能在你自己的笔记本上运行。来看看它能做什么吧！⚡",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月18日14时15分"
+  },
+  {
+    "id": "cmsy9ztxd0p8troz0sl8h5wmd",
+    "title": "Anthropic 披露 Model 2 模型，能力略高于公开最强 AI Claude Mythos 5",
+    "url": "https://www.ithome.com/0/991/074.htm",
+    "summary": "Anthropic 于 8 月 15 日披露《2026 年 8 月风险报告》，提及尚未发布的 Model 2 模型，其在多项任务上优于公开最强模型 Claude Mythos 5，但增幅不大，主要提升综合能力。报告还出现 Model 1 名称，用户推测 Model 2 可能是其后继模型，两者或属 Claude Mythos Preview 的迭代版本。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日14时15分"
+  },
+  {
+    "id": "cmsy9ztxd0p8uroz0uepgyu59",
+    "title": "豆包工作任务模式上新：虚拟桌面已在 Windows 版本上线",
+    "url": "https://www.ithome.com/0/991/073.htm",
+    "summary": "豆包虚拟桌面已在 Windows 版本上线，用户可在工作任务模式下选择\"操作电脑\"技能并完成授权，让豆包像人一样查看屏幕、移动鼠标、点击按钮和敲键盘，推进复杂任务。该功能基于通用 GUI 能力，无需 MCP、API、插件和 CLI 即可看懂界面并操作，且不占用用户鼠标键盘，可实时查看、随时暂停或接管。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日14时15分"
+  },
+  {
+    "id": "cmsya1wze0pd0roz0qqpi657m",
+    "title": "Grok 4.6 登顶 MedAgentBench 临床基准",
+    "url": "https://x.com/elonmusk/status/2089592732780032132",
+    "summary": "xAI 的 Grok 4.6 在 MedAgentBench（智能体临床 EHR 任务基准）上登顶，以约 95.9% 的 pass@1（3 次运行均值）超越前榜首 GPT-5.6 Sol（约 94.7%），并较 Grok 4.5 提升约 2.5 个百分点。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月18日13时58分"
+  },
+  {
+    "id": "cmsy9487t0ncsroz0ol3qju85",
+    "title": "阿里云Qoder STAROps实现告警到修复分钟级闭环",
+    "url": "https://x.com/alibaba_cloud/status/2089590982324916708",
+    "summary": "生产告警触发。你在日志、仪表盘和追踪之间来回切换--最后还是得去联系SRE。Qoder中的STAROps改变了这一切：用自然语言提问，直接在IDE中获取根因和修复方案。从告警到修复只需几分钟。零上下文切换。🔗 https://click.alibabacloud.com/m/20000002416/ #AIOps #Qoder #CloudNative #UModel",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月18日13时51分"
+  },
+  {
+    "id": "cmsy9ztxd0p8xroz0fyu09igd",
+    "title": "寒武纪6.9亿元股权激励将解锁，124名核心员工人均账面收益超557万元",
+    "url": "https://www.ithome.com/0/991/068.htm",
+    "summary": "寒武纪首批解锁的59.76万股股权激励股份将于8月20日上市流通，面向124名核心员工，按8月17日收盘价1，156元/股估算价值近6.9亿元，人均账面收益超557万元。公司2026上半年归母净利润23.11亿元，同比增长122.61%。同日发布的2026年限制性股票激励计划以750元/股向944名员工授予400万股，价值约30亿元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日13时51分"
+  },
+  {
+    "id": "cmsy8ze3l0n9hroz0ij1yf3jo",
+    "title": "Agent Skills 为何有效：蒸馏优于记忆库",
+    "url": "https://x.com/rohanpaul_ai/status/2089588099701416425",
+    "summary": "一项研究揭示 Agent Skills 有效的核心原因：将杂乱的过往经验提炼为清晰流程，而非简单存储更多执行细节。实验对比中，使用蒸馏后的 SKILL.md 比保留完整执行细节的 Workflow Memory 性能高出 6.06 个百分点。轨迹分析显示，65.7% 的成功案例依赖程序性锚定，仅 4.5% 靠补充缺失知识，说明技能主要优化执行顺序与工具选择，但误用或僵化遵循反而有害。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日13时40分"
+  },
+  {
     "id": "cmsy7umqu0mgdroz08du1s9pk",
     "title": "DeepSeek V4 Flash自验证逆袭Claude Fable 5",
     "url": "https://x.com/AYi_AInotes/status/2089578957293125797",
     "summary": "Stanford团队用DeepSeek V4 Flash采样5个答案并让同一模型自评打分，在Terminal-Bench 2.1上准确率从79%提升至88%，超越Claude Fable 5且成本仅为对方1/11。该方法验证了test-time scaling的潜力，框架已开源，可复现。",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年8月18日13时3分"
+  },
+  {
+    "id": "cmsy8zefh0n9jroz0lzjmvn47",
+    "title": "GPT-5.6 Sol 在 OpenRouter 降价 50% 或为营销策略",
+    "url": "https://x.com/SemiAnalysis_/status/2089587226027905444",
+    "summary": "OpenAI 宣布 GPT-5.6 Sol 在 OpenRouter 和 Vercel AI Gateway 上降价 50%，此举或为营销策略。OpenRouter 和 Vercel 虽占 OpenAI 总 token 量很小，却是市场估算 AI 实验室份额的主要数据源。若降价使 5.6 Sol 下月 token 量翻倍，投资者可能误读为 OpenAI 对 Anthropic 的重大胜利。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月18日13时36分"
+  },
+  {
+    "id": "cmsy9ztxd0p8zroz0w7pjvjka",
+    "title": "安谋控股 Arm 推进战略转型：从芯片授权转向交付成品，成立 36 年首次自研芯片",
+    "url": "https://www.ithome.com/0/991/066.htm",
+    "summary": "安谋控股（Arm）正推进战略转型，从授权芯片设计转向自主制造并销售成品处理器，并积极寻求收购机会。Arm 于 2026 年 3 月推出其 AGI CPU，这是该公司 36 年历史上首次自主生产芯片，首批客户包括 Meta、OpenAI、Cloudflare 和 SAP。Arm 预计，2027 财年和 2028 财年客户对其 AI 芯片的需求将超过 20 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日13时33分"
+  },
+  {
+    "id": "cmsy9ztxd0p90roz0j6yrf497",
+    "title": "哈佛和麻省理工推出 MatrAIx 系统，生成 83 亿个\"AI 人\"模拟全球人类行为",
+    "url": "https://www.ithome.com/0/991/065.htm",
+    "summary": "哈佛大学和麻省理工学院牵头，OpenAI、谷歌 DeepMind 等参与的团队推出 MatrAIx 系统，可生成 83 亿个 AI 智能体模拟全球人类行为。该系统用 1，290 个维度建模不同人群，智能体可填写问卷、与客服聊天、浏览网页和操作 App，测试一致性达 91.5%。经筛选的百万人格核心集已在 Hugging Face 公开发布。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日13时29分"
   },
   {
     "id": "cmsy7ws5q0mm3roz0ew5ohan2",
@@ -14974,6 +15054,14 @@
     "summary": "你的想象力，无需渲染农场。🎥 Wan3.0 创作者直播专场 - 8 月 19 日（周三）。最新升级、真实创作者工作流、实用技巧。直播链接即将发布。关注以获取通知。欧洲中部时间下午 5 点 / 太平洋时间上午 8 点 / 新加坡时间晚上 11 点 / 海湾时间晚上 7 点，YouTube 直播。观看 →https://www.youtube.com/live/ZNs_JhvlatY #Wan3 #AIVideo",
     "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "date": "2026年8月18日10时18分"
+  },
+  {
+    "id": "cmsy9mpdv0p6hroz09az89c21",
+    "title": "硅谷传奇投资人 Bill Gurley 最新访谈：AI 的狂欢和内心的声音",
+    "url": "https://elsewhere.news/zh/crossing/bill-gurley-ai",
+    "summary": "硅谷传奇投资人 Bill Gurley 在最新访谈中警告，钱在追着创业者跑，这本身就是最危险的信号。他谈及 AI 热潮下的市场情绪与投资逻辑，并分享了在喧嚣中倾听内心声音的重要性。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月18日10时10分"
   },
   {
     "id": "cmsxg0710012oroswihghd2ox",
