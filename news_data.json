@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsz4scya02mirodpp9n7imf6",
+    "title": "ZHO谈《牛来》观影体验印证AI共生感悟",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2089806750618988755",
+    "summary": "ZHO称《牛来》的观影体验印证其6个月前观点：与AI共生越久，越珍视人类笨拙的真诚、物体无所谓的存在与自然肆意的变幻。多视角存在让大脑不被单一形式束缚，回归作为人的纯粹体验。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月19日4时8分"
+  },
+  {
+    "id": "cmsz427u301zdrodp3g4czm3r",
+    "title": "Turbovec：谷歌用 Rust 实现的向量搜索 TurboQuant 库",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "summary": "谷歌开源 Turbovec，一个用 Rust 语言实现的向量搜索量化库，对应其 TurboQuant 技术。该项目已在 GitHub 上发布，旨在通过量化加速向量检索并降低内存占用。相关讨论在 Hacker News 上获得超过 100 点热度。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日4时6分"
+  },
+  {
+    "id": "cmsz49ptt022qrodp5mc1nt1x",
+    "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+    "url": "https://x.com/claudeai/status/2089806039088517356",
+    "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
+    "source": "X：Claude (@claudeai)",
+    "date": "2026年8月19日4时6分"
+  },
+  {
+    "id": "cmsz4scxr02mgrodprwvq1gy4",
+    "title": "Emad Mostaque 称赞 OpenAI 暂停前沿 RL 训练",
+    "url": "https://x.com/EMostaque/status/2089807825883009428",
+    "summary": "Emad Mostaque 公开称赞 Sam Altman 与 OpenAI 暂停部分前沿 RL 训练的决定，认为\"奇怪甚至危险的事情正在发生，我们的系统尚未准备好\"。OpenAI 表示此举是为确保对齐、安全与监控标准能跟上模型能力的快速进步，并称安全信心将日益决定 AI 进展速度。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月19日4时13分"
+  },
+  {
+    "id": "cmsz3uuw401wurodpjtd6hsbi",
+    "title": "OpenAI 暂停 Astra 强化学习训练，发布或推迟",
+    "url": "https://x.com/kimmonismus/status/2089807293760065846",
+    "summary": "OpenAI 已暂停其最新部署模型（含 Astra）的强化学习训练两周，最大规模前沿 RL 运行仍搁置，仅进行小规模训练与评估。此举源于 Astra 可能触及 OpenAI\"Critical\"网络安全阈值，且部分工作负载需迁移至新安全标准。OpenAI 以过去时态表述，暗示暂停期或已结束，但 Astra 短期内恐难发布。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日4时11分"
+  },
+  {
     "id": "cmsz2uhj2001orodpgvphsk7g",
     "title": "OpenAI 因 Astra 网络风险暂停前沿训练",
     "url": "https://x.com/rohanpaul_ai/status/2089791868695671291",
@@ -13870,6 +13910,14 @@
     "summary": "嘘，你会吵醒那些命令行派，他们会给你一堆\"这行不通\"的理由。\n\n在我想明白之前，我也是他们中的一员。\n\n【引用 @mattpocockuk】：就是我\n\n我们终将回看\"一个开发者，多个终端\"的时代，视其为一段尴尬的过渡期。",
     "source": "X：Peter Steinberger (@steipete)",
     "date": "2026年8月19日3时59分"
+  },
+  {
+    "id": "cmsz3litp01rirodpbnhk4uug",
+    "title": "Grok Bot 移动端通知分组优化",
+    "url": "https://x.com/elonmusk/status/2089803729293996295",
+    "summary": "Grok @Bot 改进\n\n我们为 Grok Bot 推送了多项体验优化。\n\n移动端通知现已按 Bot 分组，并使用其专属图标。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月19日3时56分"
   },
   {
     "id": "cmsz36sgd01e7rodpc16lhkr9",
@@ -14006,6 +14054,14 @@
     "summary": "MiniMax 祝贺长期合作伙伴 SGLang/RadixArk 发布开源强化学习框架 Miles v0.1，用于 LLM 和多模态模型训练。过去 9 个月，72 位贡献者提交 1，326 次 commit，并在 Kimi K3、DeepSeek V4、Qwen 3.8、GLM 5.2、MiniMax H3 等前沿开源模型上完成测试。",
     "source": "X：MiniMax (@MiniMax_AI)",
     "date": "2026年8月19日3时11分"
+  },
+  {
+    "id": "cmsz3p3rp01t1rodp1d431n7i",
+    "title": "OpenAI 启动新计划，强化国家安全领域 AI 的民主监督",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "summary": "OpenAI 启动新计划，帮助民主监督机构发展专业能力与工具，以理解和监督政府将 AI 用于国家安全。未来一年，OpenAI 将提供 500 万美元用于培训、技术支持和 OpenAI 积分，并与监督机构试点工具，帮助授权审查员检查 AI 辅助政府决策的相关记录。OpenAI 强调 AI 应增强而非取代人类判断，且不承担对政府的监督角色。",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "date": "2026年8月19日3时0分"
   },
   {
     "id": "cmsz1974l06hbro20gosn5d78",
