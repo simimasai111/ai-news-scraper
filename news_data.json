@@ -14752,6 +14752,14 @@
     "date": "2026年8月18日1时14分"
   },
   {
+    "id": "cmsykpo7a0yj4roz0ritb23nm",
+    "title": "OpenAI 与 CodeAI 合作推出 ChatGPT 青少年版，内置学习模式与家长控制",
+    "url": "https://www.ithome.com/0/991/297.htm",
+    "summary": "OpenAI 今日宣布与教育科技机构 CodeAI 合作，并同步推出面向 13 至 17 岁用户的 ChatGPT for Teens。该产品内置学习模式，通过引导式提问和分步支持帮助青少年理解学习材料，并新增负责任的作业提醒功能，当系统识别到学生试图走捷径时会引导其转向学习模式。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日19时13分"
+  },
+  {
     "id": "cmsykcnkt0yh1roz0a9h404r5",
     "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
     "url": "https://openai.com/index/chatgpt-for-teens",
@@ -14774,6 +14782,14 @@
     "summary": "Anthropic 在 Claude Code 中发布 /design 命令的早期预览版，开发者可在终端或桌面应用中直接创建设计稿。该命令能读取现有代码库、匹配当前 UI 风格，并生成多个可编辑的共享设计稿。相关编辑和提示功能来自 Claude Design，现已内置到 Claude Code 中，可通过运行 \"claude update\" 体验。",
     "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月18日18时6分"
+  },
+  {
+    "id": "cmsykpo7a0yj6roz02t0a3w97",
+    "title": "沃尔玛零售员工的新职责：帮 AI 智能体\"纠错\"",
+    "url": "https://www.ithome.com/0/991/292.htm",
+    "summary": "沃尔玛大举投入 AI，向数千名前线员工提供新工具和培训，但智能体落地暴露挑战：员工需花时间训练软件，补充其缺乏的工作背景和人工判断。Reddit 上员工抱怨任务分配 AI 路线预计时间\"根本不可能达到\"，Spark 配送司机称 Smart Path 功能有时要求提前拿取冷冻商品致其解冻，门店安全监控智能体也频繁发出令人困惑的警报。沃尔玛员工工具副总裁表示，不会因员工未按技术指引行动而处罚他们。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日18时57分"
   },
   {
     "id": "cmsyjphrx0xh3roz0fcyhw8lu",
