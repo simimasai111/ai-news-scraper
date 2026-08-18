@@ -13848,6 +13848,150 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsxz9xrq0f38roz0lzhw3o6u",
+    "title": "OpenAI 前高管 Fidji Simo：相信 AI 能治愈所有疾病，但光靠大模型远远不够",
+    "url": "https://www.ithome.com/0/990/910.htm",
+    "summary": "OpenAI 前高管、ChronicleBio 联合创始人 Fidji Simo 表示，相信 AI 最终能治愈所有疾病，但仅让模型更智能远远不够，关键在于获取\"正确的生物学数据\"这一瓶颈。她认同 Anthropic CEO Dario Amodei 关于 AI 企业需取得具体医疗突破而非空谈承诺的观点，并认为癌症领域因数十年积累的基因组学、病理学等数据集，最可能率先取得进展。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日9时9分"
+  },
+  {
+    "id": "cmsxzbz300f7vroz04ggiynqj",
+    "title": "开源工具 watermarks-remover 可去除 Claude 水印",
+    "url": "https://x.com/frxiaobei/status/2089518999390597342",
+    "summary": "开源社区发布 watermarks-remover，可去除 Claude 生成内容的水印，并覆盖 Gemini/SynthID、OpenAI 的 provenance marks，支持文本、图片、PDF、DOCX 格式。该工具已开源在 GitHub，AI 加水印与去水印的攻防战才刚刚开始。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月18日9时5分"
+  },
+  {
+    "id": "cmsy0dger0fu4roz0arxqw7xr",
+    "title": "Claude Code 推出 /design 命令预览",
+    "url": "https://x.com/trq212/status/2089529798850969805",
+    "summary": "进入 CC，输入 /design <你想设计的东西>\n\n现在就试试\n\n【引用 @nateparrott】：今天我们发布了 Claude Code 中 /design 命令的早期预览！\n\n在 CC Desktop 或 CLI 中，构建前试试类似\"/design a few options for {feature}\"的指令--挑选你喜欢的画板，编辑并实现它。",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月18日9时48分"
+  },
+  {
+    "id": "cmsy0elsp0fwrroz03jtdm1fi",
+    "title": "MiniMax与Vercel联办趣味健身挑战",
+    "url": "https://x.com/MiniMax_AI/status/2089529562531295607",
+    "summary": "和 @vercel 一起玩点有趣的，把\"开放权重\"变成字面意思 🏋️♂️\n\n用 MiniMax 做迷你胸肌极限挑战，用 @v0 做一次性平板支撑。还有肌酸奖励。\n\n这可能是旧金山最\"硬核\"的健身了。😭\n\n在原帖下评论即可获取邀请 👀",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月18日9时47分"
+  },
+  {
+    "id": "cmsy0dg670fu0roz0amtthklk",
+    "title": "GPT-5.6 Sol 价格下调 50%",
+    "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+    "summary": "OpenAI 旗舰模型 GPT-5.6 Sol 价格下调 50%，输入降至 $2.50/1M tokens，输出降至 $15/1M tokens。该模型支持 1M 上下文窗口，擅长复杂推理、编码与智能体工作流，OpenAI 渠道吞吐量达 37 tok/s，可用性 99.81%。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月18日9时42分"
+  },
+  {
+    "id": "cmsxz9xrq0f3broz0skgsbv9r",
+    "title": "谷歌 1000 万美元收购破产廉航精神航空企业数据，用于产品与 AI 改进",
+    "url": "https://www.ithome.com/0/990/906.htm",
+    "summary": "谷歌以 1000 万美元收购破产廉航精神航空（Spirit Airlines）的一批企业数据，击败了出价 750 万美元的 AI 人才招聘公司 Mercor。数据集含 75 亿条乘客交易记录、72 亿条竞争航班定价信息、5 亿条 Teams 聊天记录、1 亿封邮件及 3000 万行代码等，不含个人数据，交付前将由第三方匿名化处理。谷歌发言人表示，这些数据将用于改进其产品与人工智能模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日9时3分"
+  },
+  {
+    "id": "cmsy05r9x0fs1roz09b6uucfs",
+    "title": "乐观更新能否成为AI智能体新范式",
+    "url": "https://x.com/dexhorthy/status/2089527653418295632",
+    "summary": "乐观更新，这算不算个新东西？",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月18日9时39分"
+  },
+  {
+    "id": "cmsxz9xrq0f36roz0av2r814q",
+    "title": "Groq 转型 Neocloud，以 35 亿美元估值完成 3.5 亿美元 A 轮融资",
+    "url": "https://www.ithome.com/0/990/912.htm",
+    "summary": "Groq 以 35 亿美元估值完成 3.5 亿美元 A 轮融资，由 Disruptive 领投，NVIDIA 计划参与。该公司去年 12 月与 NVIDIA 签署 200 亿美元非独家技术许可协议，从 AI 芯片开发者转型为 Neocloud 云服务商。加上今年 6 月的 6.5 亿美元，Groq 近期累计融资 10 亿美元，算力容量有望从 54MW 提升至 2027 年的 200+MW。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日9时19分"
+  },
+  {
+    "id": "cmsxz9xph0f31roz02sxd7jop",
+    "title": "Cursor 发布代码托管平台 Origin 挑战 GitHub",
+    "url": "https://x.com/AYi_AInotes/status/2089521336095740032",
+    "summary": "Cursor 于 8 月 17 日上线代码托管平台 Origin，口号为\"Git hosting at agent scale\"，旨在解决 Agent 时代代码生成速度超过现有基础设施承载能力的问题。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月18日9时14分"
+  },
+  {
+    "id": "cmsxzeix70fbyroz0pj45y6z0",
+    "title": "Gemini 十大反馈进展：Workspace 工具将测试",
+    "url": "https://x.com/joshwoodward/status/2089520767281324112",
+    "summary": "Google Labs VP Josh Woodward 回应 1，400+ 条用户反馈，公布 Gemini 十大改进项进展。其中 #1 改进版 Workspace 工具将在 1-2 周内测试，#2 3.7 Flash 工具调用能力已提升，#4 已支持 49 个连接器，#6-#10 已完成或正在推进。此前 Gemini Spark 已加入 MCP 与自定义技能支持。",
+    "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+    "date": "2026年8月18日9时12分"
+  },
+  {
+    "id": "cmsxzc2sw0fa3roz04i2m33sr",
+    "title": "字节跳动Seed与清华AIR推出CUDA Agent：面向CUDA内核生成的规模化智能体强化学习系统",
+    "url": "https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation",
+    "summary": "字节跳动Seed与清华AIR发布CUDA Agent，一个训练大语言模型编写GPU内核的智能体强化学习系统，使生成内核在KernelBench上以2.11×几何平均速度超越torch.compile，通过率达98.8%，快于编译器的比例为96.8%。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月18日9时10分"
+  },
+  {
+    "id": "cmsxz9xph0f32roz0en3bdrfd",
+    "title": "DeepSeek V4-Pro 配 J-Space 干翻 Fable 5",
+    "url": "https://x.com/AYi_AInotes/status/2089517833386401963",
+    "summary": "DeepSeek V4-Pro 在未改参数情况下，通过 J-Space 智能提示词工作流管理工具，在 Terminal Bench 从 87.9 升至 90.1，DeepSWE 从 62.7 升至 72.0，NL2Repo 从 61.5 升至 73.4，多项超越 Fable 5。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月18日9时0分"
+  },
+  {
+    "id": "cmsxy9ejt0e6croz069n5ib1u",
+    "title": "父亲用 Codex 自助解决新 MacBook 设置难题",
+    "url": "https://x.com/emollick/status/2089512978575950080",
+    "summary": "Ethan Mollick 的父亲多年未用笔记本，新 MacBook 到手后不知如何设置，便按建议安装 Codex 并让其接管解决设置问题、安装所需软件。AI 正取代传统家庭 IT 支持角色。此前 Ethan 曾推荐 Bing 作为家庭 IT 支持工具，因其无需技术术语、支持图片提问，比网页搜索更省心。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月18日8时41分"
+  },
+  {
+    "id": "cmsxz9xrq0f3groz08uvf5hic",
+    "title": "消息称特斯拉筹备推出 Cybercab 自动驾驶出租车服务，最快本月在奥斯汀上线",
+    "url": "https://www.ithome.com/0/990/899.htm",
+    "summary": "特斯拉已通知员工，正准备推出 Cybercab 自动驾驶出租车服务，最快本月率先在得克萨斯州奥斯汀市上线。Cybercab 是专为自动驾驶打造的车型，没有方向盘和踏板。特斯拉计划先让员工在公共道路体验，随后几天内将车辆纳入奥斯汀的 Robotaxi 服务；该车型预计今年晚些时候逐步扩大产量。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日8时41分"
+  },
+  {
+    "id": "cmsxy9gww0e7sroz0emyz4aer",
+    "title": "理论物理正跨越数学曾跨越的门槛",
+    "url": "https://x.com/rohanpaul_ai/status/2089512085722181659",
+    "summary": "理论物理学刚刚跨越了数学曾经跨越的同一道门槛。\n\nAI 将让大量初级理论物理研究的成本大幅降低。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日8时37分"
+  },
+  {
+    "id": "cmsxy84ic0e2zroz0dali706c",
+    "title": "Perplexity CEO：AI 智能体需保留人类控制权",
+    "url": "https://x.com/AravSrinivas/status/2089510005536120885",
+    "summary": "构建 AI 智能体时，重要的是仍赋予人类自主权，让他们掌握方向盘，并在必要时进行干预。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月18日8时29分"
+  },
+  {
+    "id": "cmsxy9gt10e7qroz06d75z2sm",
+    "title": "Claude Code CLI 空闲时回收内存，CPU 占用减半",
+    "url": "https://x.com/ClaudeDevs/status/2089509659090780193",
+    "summary": "今日性能优化：Claude Code CLI 在 p99 下 CPU 使用量减少 2 倍。\n\nBun 的垃圾回收器此前按固定计时器运行，因此会在对话中途启动，恰好在 Claude Code 最繁忙时抢占 CPU。现在它会等到进程空闲时再执行。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月18日8时28分"
+  },
+  {
+    "id": "cmsxy9gww0e7troz02msxb8vo",
+    "title": "人形机器人被美航西南航禁运",
+    "url": "https://x.com/rohanpaul_ai/status/2089508691091525643",
+    "summary": "人形机器人达到了一个奇怪的新里程碑：它们现在被正式禁止乘坐美国航空和西南航空的客运航班。\n\n理由是出于安全考虑，包括大型锂离子电池。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月18日8时24分"
+  },
+  {
     "id": "cmsxv1mja0bpzroz08kiikx4w",
     "title": "马斯克警告成真：ChatGPT涉青少年弑亲案",
     "url": "https://x.com/cb_doge/status/2089489479820292118",
@@ -13872,6 +14016,94 @@
     "date": "2026年8月18日7时5分"
   },
   {
+    "id": "cmsxyiz1a0el2roz05s5gaust",
+    "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+    "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52",
+    "summary": null,
+    "source": "Simon Willison 博客",
+    "date": "2026年8月18日7时58分"
+  },
+  {
+    "id": "cmsxwd7a40coxroz06g25sfaf",
+    "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
+    "summary": "作者基于Reddit上\"让Claude真正开始思考\"的帖子，引入逻辑学中的\"钢人论证\"（steelman）概念，并自创了一个\"双向钢人Prompt\"。该Prompt通过重述真实问题、强化正反双方观点、找出关键变量、逼AI给出明确判断四步，旨在避免模型谄媚，帮助用户找到问题最本质的答案。作者以自己选择公司司庆日的真实案例演示了使用效果。",
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年8月18日7时58分"
+  },
+  {
+    "id": "cmsxx4r8i0d98roz07h1sabcd",
+    "title": "英伟达为 OpenAI 俄亥俄州数据中心提供最高 1050 亿美元担保",
+    "url": "https://www.ithome.com/0/990/890.htm",
+    "summary": "英伟达同意为 OpenAI 在俄亥俄州租赁的大型数据中心提供最高 1，050 亿美元担保，并计划向开发商 SB Energy 投资 15 亿美元。该设施总计算能力最高可达 8 吉瓦，首期 800 兆瓦预计 2028 年投用，OpenAI 将租用 20 年，英伟达为独家芯片供应商。黄仁勋否认交易属\"循环融资\"，称英伟达在利用自身规模锁定长期资源。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日7时57分"
+  },
+  {
+    "id": "cmsxx5nns0dccroz0hqahujgi",
+    "title": "Anthropic 年化收入飙升至 650 亿美元",
+    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b",
+    "summary": "Anthropic 年化收入运行率在 7 月底突破 650 亿美元，高于 5 月的 470 亿美元和去年底的 90 亿美元。投资者预计其 2026 年全年收入将在 1000 亿至 1200 亿美元之间。Anthropic 已秘密提交 IPO 文件，预计最早今秋上市，寻求 2 万亿美元或以上的公开估值。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月18日7时56分"
+  },
+  {
+    "id": "cmsxx6szk0devroz0dcvvinmt",
+    "title": "Grok 4.6 登顶智能体指数，与 Claude Opus 5 Max 并列",
+    "url": "https://x.com/elonmusk/status/2089501024557912315",
+    "summary": "Grok 4.6 在 Artificial Analysis Agentic Index 以 59 分登顶，与 Claude Opus 5 Max 并列第一。该指数衡量工具使用、规划、自主性与复杂问题解决能力。Grok 4.6 平均约 53 轮、0.5bn 输入 token 完成任务，单任务成本 $0.84，处于智能与成本帕累托前沿。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月18日7时53分"
+  },
+  {
+    "id": "cmsxwizo10d3jroz0ci108fjb",
+    "title": "Codex 与 API 的明显待办事项",
+    "url": "https://x.com/thsottiaux/status/2089500941842342287",
+    "summary": "有哪些事情是我们应该用 Codex、API 或我们的模型去做的，显而易见，却至今尚未着手？有哪些是百分之百触手可及，却似乎被我们遗漏的？",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月18日7时53分"
+  },
+  {
+    "id": "cmsxx4r8i0d9broz03d7qzskn",
+    "title": "消息称 Anthropic 年化营收 7 月底突破 650 亿美元，为 IPO 增添看点",
+    "url": "https://www.ithome.com/0/990/887.htm",
+    "summary": "截至 7 月底，Anthropic 年化收入运行率已超过 650 亿美元，较 5 月的 470 亿美元和 2025 年底的约 90 亿美元大幅增长。知情人士称，公司已在向投资者更新财务状况时披露该数据。Anthropic 已秘密提交 IPO 申请，路透社报道其预计 2028 年营收约 1，900 亿至 2，000 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月18日7时53分"
+  },
+  {
+    "id": "cmsxw47br0cc6roz0h1df29ae",
+    "title": "Grok Imagine 荷马史诗创作挑战赛",
+    "url": "https://x.com/elonmusk/status/2089500595224777127",
+    "summary": "用 Grok Imagine 创作\n\n【引用 @grok】：荷马有里拉琴。你有 Grok Imagine。\n\n创作一个荷马《奥德赛》中的精彩场景，展示 Grok @Imagine 的视频和语音能力。我们将为引用本帖提交的前三名视频颁发 $100K、$50K 和 $25K 奖金。🧵",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月18日7时52分"
+  },
+  {
+    "id": "cmsxw4wt70cfhroz0iq00cuuh",
+    "title": "Claude Code 新增 /design 命令预览",
+    "url": "https://x.com/testingcatalog/status/2089499940963643567",
+    "summary": "ANTHROPIC 🔥：Claude Code 新增 /design 命令，处于研究预览阶段！\n\nClaude Code 中的 Design 功能引入了来自 Claude Design 的画板工作流，帮助用户构建可编辑的 UI。\n\nCCD 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月18日7时49分"
+  },
+  {
+    "id": "cmsxwjdln0d52roz0jptr6lf2",
+    "title": "BestBlogs 早报：语义层、智能体商业与 AI 工程精选",
+    "url": "https://x.com/hongming731/status/2089497985810125274",
+    "summary": "BestBlogs 早报精选 10 篇 AI 内容，涵盖语义层实践、Stripe 智能体商业战略、TypeScript 创始人谈编译器提速 10 倍、Deno 智能体安全防火墙、IndexTTS 2.5 跨语言语音合成、GPU 利用率提升 33 个百分点、Cursor 代码托管平台 Origin 上线等。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月18日7时41分"
+  },
+  {
+    "id": "cmsxwjdln0d53roz0f8p16dud",
+    "title": "语义层、智能体支付与TypeScript提速：AI工程化三线进展",
+    "url": "https://x.com/hongming731/status/2089497940641644940",
+    "summary": "大淘宝技术通过语义层将指标、维度与实体关系组织为Agent可消费的业务定义，解决业务与技术间超30%的语义翻译成本。Stripe总裁称智能体商业尚未大规模出现，已与Tempo设计机器支付协议，用HTTP 402响应实现机器可读交易。TypeScript创始人谈编译器移植Go提速10倍，并认为AI无法取代软件工程师。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月18日7时41分"
+  },
+  {
     "id": "cmsxv1lcv0boxroz0kwcqfmpn",
     "title": "DeepSeek V4 Pro 0813 结合 J-Space 提升基准成绩",
     "url": "https://x.com/kimmonismus/status/2089488440089788587",
@@ -13886,6 +14118,14 @@
     "summary": "Cursor 于 8 月 17 日推出内置代码托管平台 Origin，集成在编辑器新增的\"Codebase\"选项卡中，面向所有付费套餐用户开放早期测试版。Origin 支持完整的拉取请求功能，用户无需离开编辑器即可查看代码差异、发表评论和合并代码，并可向 Cursor 询问代码仓库问题、修改代码或创建推送新分支。",
     "source": "IT之家（RSS）",
     "date": "2026年8月18日7时3分"
+  },
+  {
+    "id": "cmsxw485c0cd2roz09c4f539b",
+    "title": "Grok 全功能更新：聊天同步、抠图、语音模式等",
+    "url": "https://x.com/cb_doge/status/2089494122487022042",
+    "summary": "SpaceXAI 宣布 Grok 多项功能改进。聊天历史现可在浏览器标签页间同步，支持从记忆摘要中修正或删除内容，并新增 5：2 Banner 图片比例。Projects 内支持语音模式，Automations 可按产品或客户筛选订阅触发器，Teams 支持从组织目录邀请成员。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月18日7时26分"
   },
   {
     "id": "cmsxv0p3v0bntroz0227a6b3j",
@@ -13910,6 +14150,14 @@
     "summary": "一个人形机器人在北京国家速滑馆的弯道上冲刺，并将剩余动能转化为接地电箱的电能。实现了高效的能量转换。😄",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月18日7时10分"
+  },
+  {
+    "id": "cmsxvvetm0c8jroz0fsg8oveg",
+    "title": "客户发现 /bro 对 CTO 同样有效",
+    "url": "https://x.com/dexhorthy/status/2089486711902626276",
+    "summary": "客户们正在发现，/bro 对 CTO 也同样适用。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月18日6时57分"
   },
   {
     "id": "cmsxtz2j40atfroz0tl9y04od",
