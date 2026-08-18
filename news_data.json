@@ -13848,12 +13848,76 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmsz2efrk01lero3f6n3ofa8o",
+    "title": "Claude Code 周限额上调50%延至8月31日",
+    "url": "https://x.com/ClaudeDevs/status/2089798442306711646",
+    "summary": "我们将每周 Claude Code 限额的 50% 上调延长至 8 月 31 日。\n\n我们希望将此变为套餐的永久变更，但对我们模型的强劲需求意味着未来几周容量可能紧张。如有进展我们会及时告知。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月19日3时35分"
+  },
+  {
+    "id": "cmsz2n3sj01ppro3feunl7aru",
+    "title": "ZHO谈AI共生：更爱人类笨拙真诚",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2089798094733078818",
+    "summary": "ZHO在《牛来》观影体验中重申6个月前观点：与AI共生越久，越发喜欢人类笨拙的真诚、物体无所谓的存在与自然肆意的变幻。他认为多视角存在能让大脑摆脱单一形式束缚，回归作为人的纯粹体验。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月19日3时34分"
+  },
+  {
+    "id": "cmsz22ky40151ro3fcxxm93ba",
+    "title": "Cohere CEO谈数字主权与单点故障风险",
+    "url": "https://x.com/cohere/status/2089796047191118152",
+    "summary": "Aidan Gomez表示，数字主权是\"一件被视作理所当然的事\"：\n\n\"世界基本上已经固化为从极少数科技巨头那里购买全部技术，而这不是一个有韧性的体系。作为计算机科学家或工程师，你学到的第一件事就是不要构建单点故障。\"",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年8月19日3时26分"
+  },
+  {
+    "id": "cmsz1zjiy013pro3f1e0aafra",
+    "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+    "url": "https://claude.com/blog/ai-ci-cd-on-call",
+    "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月19日3时26分"
+  },
+  {
+    "id": "cmsz1x1b2002gro3fd5pn97lb",
+    "title": "Jason Liu 邀开源维护者试用 Codex",
+    "url": "https://x.com/jxnlco/status/2089793401864765744",
+    "summary": "如果你为 NumPy、pandas、pytest、Pydantic、Requests、Django、Git、OpenSSL、rustls、Serde、DuckDB、SQLite、Kafka、Postgres、JAX、Triton、Tokenizers、TypeScript 或 Go 做贡献，并且想试用 Codex，请告诉我！\n\n回复你的 GitHub 主页，我会联系你关于 Codex 开源版的事宜。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月19日3时15分"
+  },
+  {
+    "id": "cmsz1x1bz002iro3fzopllf7l",
+    "title": "MiniMax 祝贺 SGLang/RadixArk 发布开源强化学习框架 Miles v0.1",
+    "url": "https://x.com/MiniMax_AI/status/2089792270879142353",
+    "summary": "MiniMax 祝贺长期合作伙伴 SGLang/RadixArk 发布开源强化学习框架 Miles v0.1，用于 LLM 和多模态模型训练。过去 9 个月，72 位贡献者提交 1，326 次 commit，并在 Kimi K3、DeepSeek V4、Qwen 3.8、GLM 5.2、MiniMax H3 等前沿开源模型上完成测试。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月19日3时11分"
+  },
+  {
+    "id": "cmsz1974l06hbro20gosn5d78",
+    "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年8月19日2时9分"
+  },
+  {
     "id": "cmsz0lmmt05nfro2062bd0ztz",
     "title": "OpenAI 暂缓前沿训练强化安全监控",
     "url": "https://x.com/merettm/status/2089776131255783823",
     "summary": "OpenAI 首席科学家 Jakub Pachocki 表示，公司已暂时放缓部分前沿模型训练以强化安全与监控，最大规模的前沿 RL 训练仍处于搁置状态，同时通过小规模训练和评估测试安全措施并收集对齐证据。他认为安全信心将日益决定 AI 发展节奏，并已签署《Pacing the Frontier》倡议，呼吁实验室和国家间加强协调。",
     "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
     "date": "2026年8月19日2时7分"
+  },
+  {
+    "id": "cmsz19b1r06ipro20968yoj1g",
+    "title": "Sam Altman 宣布暂停前沿 RL 训练以强化安全",
+    "url": "https://x.com/sama/status/2089787807611195475",
+    "summary": "OpenAI CEO Sam Altman 表示，已暂停部分前沿 RL 训练，以确保对齐、安全和监控标准能跟上新能力水平。他称模型进步极快，若能力超越安全与对齐步伐将采取行动，并呼吁整个领域协调共享安全标准，同时承诺继续广泛提供前沿能力。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年8月19日2时53分"
   },
   {
     "id": "cmsz0vbvj05vuro20seje1noq",
