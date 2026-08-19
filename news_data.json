@@ -13920,6 +13920,14 @@
     "date": "2026年8月19日9时44分"
   },
   {
+    "id": "cmszkcgn00goprodp8zno8kfw",
+    "title": "实测豆包工作任务新模式：GUI 能力可替代部分 Codex，200 元套餐值不值",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509788&idx=1&sn=4c423604f2a3374526219456eb13527d",
+    "summary": "豆包专业版 200 元/月加强套餐实测：GUI 能力可取代部分 Codex 工作，支持手机远程控电脑、跨设备联动和百万上下文。五个测试案例中，豆包完成全网插件筛选、Word 格式整理、PPT 生成，并自主操作桌面玩 2048 打到 512。作者称国产已有自己的 Codex，且豆包月活达 3.82 亿。",
+    "source": "公众号：卡尔的AI沃茨",
+    "date": "2026年8月19日9时42分"
+  },
+  {
     "id": "cmszeb2mx0b3srodpef1ub0j0",
     "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
     "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
@@ -14968,12 +14976,44 @@
     "date": "2026年8月19日11时9分"
   },
   {
+    "id": "cmszjjm3u0fy3rodpoc2qf5yq",
+    "title": "Qwen3.8-27B登顶Cline本地模型榜首",
+    "url": "https://x.com/Alibaba_Qwen/status/2089919106522976337",
+    "summary": "距离登顶还有4天。🏆感谢每一位将Qwen3.8-27B推上Cline第一名的开发者！@cline\n\n【引用 @cline】：Qwen3.8-27B在短短4天内成为Cline中排名第一的本地模型。\n\n这终结了此前冠军Qwen2.5-Coder-7B长达*4个月*的连胜纪录，后者自4月以来一直是排名第一的本地模型。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月19日11时35分"
+  },
+  {
+    "id": "cmszjb2xa0fhvrodp68e71nol",
+    "title": "京东 JoyAI 七夕活动：AI 搭子免费送奶茶",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzU0MjU0MDMzMw%3D%3D&mid=2247487424&idx=1&sn=3f0eed4086c5cb042955a27add104fa7",
+    "summary": "京东 JoyAI App 推出\"七夕跨次元投喂\"限时活动，8月18日至20日期间，用户与自己创建的 AI 智能体深度对话，当交互情感浓度达到条件，有机会收到 Ta 主动触发的七夕免费礼品惊喜。活动以\"古人乞巧，今人求己\"为主题，强调科技向善与算法温度。",
+    "source": "公众号：京东JoyAI",
+    "date": "2026年8月19日11时29分"
+  },
+  {
+    "id": "cmszjb3rd0fhzrodppgi66348",
+    "title": "腾讯混元 Hy3 接入讯兔科技 Alpha派，深化 AI 投研应用实践",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498239&idx=1&sn=ca26e2f91e35cb1043dbd05b0a6448b0",
+    "summary": "腾讯混元 Hy3 已接入金融 AI 企业讯兔科技旗下 Alpha派，其 AI 投研工作台 PaiWork 可直接使用 Hy3 模型。Hy3 采用 MoE 架构，总参数 295B、激活参数 21B，支持 256K 上下文长度，发布首周 API 调用量较上一代增长 68 倍。此次接入将 Hy3 的复杂推理与 Agent 任务规划能力带入专业投研工作流，并凭借高性价比降低规模化调用门槛。",
+    "source": "公众号：腾讯混元",
+    "date": "2026年8月19日11时25分"
+  },
+  {
     "id": "cmsziy9xl0f8xrodpre389sz3",
     "title": "千问APP上线七夕送花助手Skill，接入淘宝闪购智能体",
     "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488441&idx=1&sn=f3f3f147a4849132bed29a29905dfae1",
     "summary": "千问APP接入淘宝闪购\"送花助手skill\"，用户说出送花需求后，AI会从花语、潮流、应季、小众等角度解读模糊需求并个性化推荐花束，支持一键下单和AI定制电子贺卡。七夕前夕，千问APP还上线了\"七夕好物推荐测试\"，用户回答5个问题后可获得AI解读、专属好物推荐及默契报告。",
     "source": "公众号：千问APP（阿里）",
     "date": "2026年8月19日11时19分"
+  },
+  {
+    "id": "cmszj2hjw0fearodpp7vhn4po",
+    "title": "Cerebras CS-4 发布：推理速度最高可达 GPU 的 30 倍",
+    "url": "https://www.cerebras.ai/cs4",
+    "summary": "Cerebras 发布全新机架级解决方案 CS-4，基于 WSE-3 Turbo 芯片，推理速度最高可比 GPU 系统快 30 倍，每瓦吞吐量较 CS-3 提升至多 10 倍。该系统面向超大规模数据中心，采用模块化设计，将晶圆间互连延迟降至 2 微秒，可在超过 10 万亿参数的模型上实现每秒 1000 以上 token 的生成速度。首批 CS-4 将于本季度开始出货。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日11时18分"
   },
   {
     "id": "cmsziuslx0f83rodpxekn3uan",
@@ -14998,6 +15038,38 @@
     "summary": "用 Grok Imagine 做了个星链广告 😂",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月19日10时4分"
+  },
+  {
+    "id": "cmszj1tvi0fagrodp38da2g3b",
+    "title": "Anthropic 预告 Claude Code 将整合 /design 命令",
+    "url": "https://www.ithome.com/0/991/488.htm",
+    "summary": "Anthropic 产品设计师 Nate Parrott 预告将在 Claude Code 中整合推出 /design 命令。开发者可在编写代码前于终端或桌面版 Claude Code 中创建设计模型，如输入\"/design a few options for {feature}\"生成多个草稿作为画板，并可选择编辑后构建。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日10时48分"
+  },
+  {
+    "id": "cmszj1tvi0fairodpnkffpiy7",
+    "title": "Kromix 用 AI 生成真人色情\"换脸\"内容引争议：Meta 下架广告、苹果移除应用",
+    "url": "https://www.ithome.com/0/991/482.htm",
+    "summary": "一款名为 Kromix 的 App 在 Meta 平台投放 32 则广告，宣称\"没有限制\"，可生成真实人物（包括知名女性政治人物）的色情\"换脸\"内容。经 WIRED 联系后，Meta 下架相关广告，苹果将 Kromix 从 App Store 移除。苹果称该应用可能通过初始审核后才加入违规内容，并强调持续打击规避审核的应用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日10时46分"
+  },
+  {
+    "id": "cmszj1tvi0fakrodp9ukxcs2d",
+    "title": "OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列模型误删文件问题",
+    "url": "https://www.ithome.com/0/991/469.htm",
+    "summary": "OpenAI Codex 团队负责人回应称，自几周前起有少量用户反馈在 Codex 中调用 GPT-5.6 系列模型后，本应清理临时文件的命令误删了用户文件，原因之一是 Codex 会重用 $HOME 等系统环境变量。团队已添加多层保护措施，包括指示模型执行删除前检查目标、创建新临时目录、避免重用系统环境变量、优先执行可恢复操作，并加强执行检查、审核及针对性评估模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日10时40分"
+  },
+  {
+    "id": "cmszj1tvi0falrodp7xhbps7t",
+    "title": "Handshake AI 每页 6 美元高价收购工作文档，最高报酬 3 万美元",
+    "url": "https://www.ithome.com/0/991/464.htm",
+    "summary": "旧金山 AI 公司 Handshake AI 招聘\"专业文档贡献者\"，为通过审核的高质量书面文档支付每页 6 美元（约合 40.5 元人民币）报酬，最多可提交 50 份文档、每份最多 100 页，最高报酬 3 万美元（约合 20.3 万元人民币）。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日10时38分"
   },
   {
     "id": "cmszgpmou0d8arodpq2uaub9q",
