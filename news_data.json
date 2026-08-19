@@ -13872,6 +13872,102 @@
     "date": "2026年8月20日2时5分"
   },
   {
+    "id": "cmt0g1scw03utro2o882nithw",
+    "title": "An Engineering Team for the Cost of Codex",
+    "url": "https://every.to/context-window/an-engineering-team-for-the-cost-of-codex",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月20日2时47分"
+  },
+  {
+    "id": "cmt0gafls03zqro2oqfj6y0tp",
+    "title": "研究人员称OpenAI撤销其网络安全项目TAC访问权限",
+    "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program",
+    "summary": "多名安全研究人员称OpenAI突然撤销了其TAC（Trusted Access for Cyber）项目访问权限，OpenAI确认系技术错误所致。受影响用户被告知需重新申请并完成验证，TechCrunch采访的五位研究人员均位于美国和欧洲以外地区。OpenAI于8月10日推出的Daybreak Blue层级授予GPT-5.6 Sol等前沿模型访问权，该公司称问题仅影响\"有限数量用户\"。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月20日2时46分"
+  },
+  {
+    "id": "cmt0gatba0404ro2of5ig8i3p",
+    "title": "Opus 5.0 将不连贯性推向了极致",
+    "url": "https://github.com/anthropics/claude-code/issues/77136",
+    "summary": "Opus 5.0 在 GitHub 上引发热议，其输出不连贯性问题被推向极致，获 111 个 HN 点赞。该版本在推理连贯性上出现明显退化，用户反馈其回答逻辑断裂、前后矛盾。目前尚不清楚 Anthropic 是否已针对该问题发布修复更新。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月20日2时46分"
+  },
+  {
+    "id": "cmt0gatba0405ro2o5cov155t",
+    "title": "OpenRouter 宣布加入 Stripe",
+    "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+    "summary": "OpenRouter 宣布与 Stripe 合并，以推动全球下一波 GDP 增长。OpenRouter 目前每天处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，推理量自成立以来每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，路由决策仍以用户利益为唯一标准，交易预计在未来数周内完成。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月20日2时46分"
+  },
+  {
+    "id": "cmt0gatba0406ro2oa14w21ae",
+    "title": "Ornith-1.5：从自我构建到自我优化",
+    "url": "https://ornith.ai/ornith_1_5.html",
+    "summary": "Ornith-1.5 发布，将 Ornith-1.0 的自我构建框架扩展为完整自我优化闭环：模型自主提出任务、生成任务专属脚手架并产出解决方案用于强化学习。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月20日2时46分"
+  },
+  {
+    "id": "cmt0g2s5e03waro2o4lxvoe9j",
+    "title": "IBM 新框架 BenchDrift 揭示措辞致 LLM 分数波动 74.7 个百分点",
+    "url": "https://x.com/rohanpaul_ai/status/2090148040136884303",
+    "summary": "IBM 新论文提出 BenchDrift 审计框架，通过在不改变答案的前提下系统改写同一问题，衡量模型分数因措辞产生的波动。在 8 个模型和 3 个基准测试中，最佳与最差准确率平均差距达 74.7 个百分点，且更强模型受影响更大。即便在最高置信度区间，改写后仍有 18.5% 的正确回答丢失。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日2时45分"
+  },
+  {
+    "id": "cmt0gaa7903zkro2ow2wkn4qc",
+    "title": "RAM 评分：衡量模型下载表现的新指标",
+    "url": "https://x.com/natolambert/status/2090145176832389595",
+    "summary": "Nathan Lambert 与 xeophon 为 ATOM 工作设计了 RAM 评分，用于衡量模型在 HuggingFace 上的下载表现。该指标计算模型在特定时间点（如 30 天）的累计下载量，与其所在参数量级别历史前 10 名模型下载量的比值。得分超过 1 意味着该模型有望成为该级别下载量前 10 的模型，对 50B+ 参数模型最具参考意义。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月20日2时33分"
+  },
+  {
+    "id": "cmt0g2s5e03wbro2o9cc2nyqz",
+    "title": "Booster T2 机器人方阵同步行进引热议",
+    "url": "https://x.com/rohanpaul_ai/status/2090142250789392826",
+    "summary": "比赛开始前，一队 Booster T2 机器人同步行进。\n\n好奇它们如何在那种步速下保持横向间距如此均匀\n\n步频看起来在所有机器人之间锁定在同一个时钟上",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日2时22分"
+  },
+  {
+    "id": "cmt0fxshl03sjro2ozzzlkc0i",
+    "title": "TRACES 基准发布：衡量 AI 发现式智能",
+    "url": "https://x.com/dongxi_nlp/status/2090142217067249860",
+    "summary": "Apodex_AI 发布全球首个衡量\"发现式智能\"的基准 TRACES，由创始人陈天桥提出并定义六项能力，测试 AI 在无答案密钥的问题上通过证据、假设检验得出可验证结论的能力。主推文强调，发现过程可分解为\"雄心→构想→行动→观察→验证→修复\"，这一分解比任何单一基准分数更重要。同日还发布了\"发现式智能\"定义、区分可靠调查与侥幸猜测的评分标准，并公开征集解题者与问题。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月20日2时21分"
+  },
+  {
+    "id": "cmt0fnprn03kjro2o77lcjowb",
+    "title": "a16z 公布首届 Talent Engineer Fellowship 50 人名单",
+    "url": "https://www.a16z.news/p/meet-the-a16z-talent-engineer-fellows",
+    "summary": "a16z 公布首届 Talent Engineer Fellowship 的 50 名入选者，这是一个为期 8 周、面向招聘技术领袖的培训项目。入选者来自 OpenAI、Airbnb、Cursor、Clay、Decagon、Ramp、Notion、Zapier 等公司，许多人正在构建 0-to-1 的 AI 原生人才系统，或开发智能体猎头、职业发展平台与人才匹配系统。",
+    "source": "a16z：News（RSS）",
+    "date": "2026年8月20日2时1分"
+  },
+  {
+    "id": "cmt0f90ar0366ro2ok5k1jfq7",
+    "title": "OpenAI 修复 Codex 未经许可删除用户真实文件的 Bug",
+    "url": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission",
+    "summary": "OpenAI 发布安全更新，修复 Codex 在运行中可能未经许可自动删除用户真实文件的问题。根因是一条用于清理临时文件的命令，因误用 $HOME 等系统变量而指向真实主目录。更新后 Codex 会先验证删除目标、创建全新临时文件夹，并加强了对高风险删除命令的检查，全权限模式也不再会被意外触发。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月20日2时18分"
+  },
+  {
+    "id": "cmt0fnprn03kkro2o3eip88pj",
+    "title": "Stripe 收购 OpenRouter：构建 AI 智能交换网络",
+    "url": "https://www.a16z.news/p/openrouter-and-stripe-the-intelligence",
+    "summary": "Stripe 已签署协议收购 OpenRouter，双方将共同构建全球 AI 公司交换智能的可信、规模化且高性能网络。OpenRouter 已成为模型路由与清算的关键中立层，其工具 Ori Eval 可根据提示词与业务需求动态路由最优模型与供应商。此次收购被视为 AI 经济基础设施的重要支柱，有望让模型公司与应用公司实现双赢。",
+    "source": "a16z：News（RSS）",
+    "date": "2026年8月20日1时57分"
+  },
+  {
     "id": "cmt0e7sxo01eiro2o4l4y9jmh",
     "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
     "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
@@ -13918,6 +14014,14 @@
     "summary": "借助 Codex，@asana 在两周内完成了从 Enzyme 到 React Testing Library 的前端测试迁移--而这一项目原本预计还需五年时间。\n\nhttps://openai.com/index/asana/",
     "source": "X：OpenAI Developers (@OpenAIDevs)",
     "date": "2026年8月20日1时4分"
+  },
+  {
+    "id": "cmt0fxshb03shro2oximvfj9e",
+    "title": "Carl Peterson 融资 1300 万美元解决 GPU 短缺",
+    "url": "https://x.com/charlieholtz/status/2090133586230038844",
+    "summary": "不错 ：）\n\n【引用 @carlpeterson】：今天，我们完成了 1300 万美元的 A 轮融资，以解决 GPU 短缺问题\n\n数万亿美元正投入 GPU 资本支出，而其中 80% 处于闲置状态\n\n产能已经存在，GPU 虚拟化将其释放\n\n由 Matrix、YC 和 CEAS 支持",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月20日1时47分"
   },
   {
     "id": "cmt0er1fq02wtro2oq8aytze9",
