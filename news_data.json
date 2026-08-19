@@ -13848,12 +13848,100 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt0iwrzq060gro2oy8x4ahq3",
+    "title": "OpenAI 推出私有安全处理，兼顾隐私与安全",
+    "url": "https://x.com/gdb/status/2090167683035853120",
+    "summary": "OpenAI 推出 Private Safety Processing（私有安全处理），旨在提升跨交互安全风险识别，同时不让 OpenAI 人员访问底层内容。该功能已投入研发一段时间，并承诺前沿模型继续提供零数据保留（Zero Data Retention）选项，以兼顾企业客户隐私与安全增强。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月20日4时3分"
+  },
+  {
     "id": "cmt0h5d3q04m3ro2o810tt0md",
     "title": "Fabraix 推出 Nyx 自主红队智能体",
     "url": "https://x.com/testingcatalog/status/2090153528182407359",
     "summary": "Fabraix 发布 Nyx，一款自主红队测试智能体，可针对任意 AI 智能体发起攻击，内置 10，000+ 越狱攻击库以暴露安全漏洞。每次测试会输出攻击步骤供智能体定位漏洞，发布后还可重放同一测试验证修复效果。演示中，Nyx 成功诱导 AI 智能体通过看似正常的发票窃取客户银行余额。",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月20日3时6分"
+  },
+  {
+    "id": "cmt0iiky105nwro2oxbgu6r2v",
+    "title": "Slack 如何构建人机智能体团队：对话即知识",
+    "url": "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
+    "summary": "Slack 首席产品官 Jaime DeLanghe 分享了将对话转化为机构知识、构建人机智能体团队的最佳实践。她主张默认使用公开频道，让智能体从可见对话中学习，并建议将会议、邮件、日历等上下文连接起来以减少重复劳动。在 Slack 中由 Claude 驱动的智能体负责起草、总结、监控等生产工作，人类负责审查、决策与交接，形成循环协作。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月20日3时56分"
+  },
+  {
+    "id": "cmt0imzm905t8ro2oakqu50vy",
+    "title": "OpenAI 预览私有安全处理，保留零数据留存",
+    "url": "https://x.com/OpenAI/status/2090165328290701800",
+    "summary": "我们将继续为前沿模型提供零数据留存。\n\n随着AI承担更长、更自主的工作并为企业带来更大价值，安全系统也需要识别跨相关交互的风险。\n\n为帮助应对这些风险，我们正在预览私有安全处理（Private Safety Processing），该功能旨在提升安全性，同时不让OpenAI人员访问底层内容。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月20日3时53分"
+  },
+  {
+    "id": "cmt0il0b605r5ro2ows67tnbt",
+    "title": "Gemini 为大学生提供一年免费订阅",
+    "url": "https://x.com/GeminiApp/status/2090165248196252003",
+    "summary": "返校季来临，从今天起，符合条件的大学生可免费获得一整年的 Gemini 使用权限：\n- 美国学生：免费获得 1 年 Google AI Pro\n- 140 多个国家/地区：免费获得 1 年 Google AI Plus\n\n以下是面向学生的全新内容 👇",
+    "source": "X：Gemini (@GeminiApp)",
+    "date": "2026年8月20日3时53分"
+  },
+  {
+    "id": "cmt0iws03060iro2onncapsub",
+    "title": "OpenAI 为前沿模型提供零数据留存",
+    "url": "https://x.com/sama/status/2090163991234453611",
+    "summary": "我们支持企业隐私！\n\nhttps://openai.com/index/offering-zero-data-retention-for-frontier-models/",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年8月20日3时48分"
+  },
+  {
+    "id": "cmt0immyq05s5ro2ozg9hbcal",
+    "title": "OpenClaw 2026.8.1-beta.2 获赞：响应更快更稳定",
+    "url": "https://x.com/steipete/status/2090162595257102731",
+    "summary": "Peter Steinberger 预告即将展示新成果，并引用 @joncursi 对 OpenClaw 2026.8.1-beta.2 的评测：智能体响应速度显著提升，5.6-Sol 在 codex 订阅下运行流畅，Slack 回复已支持原生图表和组件。该版本稳定性与细节优化出色，为 2026.8.x 正式版奠定良好基础。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月20日3时42分"
+  },
+  {
+    "id": "cmt0i7xfs05hjro2osxwd26cq",
+    "title": "Google AI Studio Build 支持导入 GitHub 仓库",
+    "url": "https://x.com/testingcatalog/status/2090162011308974562",
+    "summary": "Google AI Studio Build 现在允许用户导入 GitHub 仓库，并与应用保持同步。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月20日3时40分"
+  },
+  {
+    "id": "cmt0i2yop05e5ro2ojusmqy4o",
+    "title": "Conductor 与 Paper 协作新工作流演示",
+    "url": "https://x.com/charlieholtz/status/2090161402019536950",
+    "summary": "Conductor 🤝 Paper\n\n【引用 @paper】：Paper × Conductor：超级互补的工具\n\n在这段视频中，@charlieholtz 和 @harcourttt 展示了在 paper 中使用 @conductor_build 进行协作。\n\n这是我们看到越来越多人在使用的新工作流。\n\n完整视频链接在帖子里！你怎么看？",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月20日3时38分"
+  },
+  {
+    "id": "cmt0il0au05r3ro2ooo3z70y3",
+    "title": "Cohere 本地托管 S1-mini 开源模型",
+    "url": "https://x.com/cohere/status/2090160553217982713",
+    "summary": "本地托管 🤝🇨🇦 本地制造",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年8月20日3时34分"
+  },
+  {
+    "id": "cmt0i7xfs05hkro2ook2y7hfu",
+    "title": "Google AI Studio 将推 Plan 模式",
+    "url": "https://x.com/testingcatalog/status/2090159506177028321",
+    "summary": "Google 正在为其 Google AI Studio 中的 Build 部分开发 Plan 模式！\n\n> 在进行更改之前先制定计划 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月20日3时30分"
+  },
+  {
+    "id": "cmt0i7xfj05hhro2o3x6phgzq",
+    "title": "TrueFoundry 开源 TrueForge 智能体框架",
+    "url": "https://x.com/kimmonismus/status/2090159374450974850",
+    "summary": "TrueFoundry 今日在 GitHub 开源其智能体框架 TrueForge，采用 MIT 许可证，支持本地与托管两种运行模式。该框架在 Opus 4.8 上达到与 Claude Managed Agents 相当的准确率，成本降低约 30%，路由至 GLM-5.2 时成本最高可降约 75%。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月20日3时30分"
   },
   {
     "id": "cmt0hk26u04s5ro2oj7wyybkc",
@@ -13920,6 +14008,22 @@
     "date": "2026年8月20日3时0分"
   },
   {
+    "id": "cmt0imow105sdro2o35tu4hrb",
+    "title": "OpenAI 预览 Private Safety Processing，为前沿模型保留零数据留存（ZDR）承诺",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "summary": "OpenAI 预览 Private Safety Processing，在保持零数据留存（ZDR）承诺的同时，跨相关交互识别安全风险模式，且不向 OpenAI 人员暴露客户内容。该处理适用于客户自有基础设施或 OpenAI 提供的加密存储（密钥由客户控制）。目前正与早期客户测试，计划于 9 月推出并发布技术白皮书。",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "date": "2026年8月20日3时0分"
+  },
+  {
+    "id": "cmt0ifrby05lcro2oqab12oj9",
+    "title": "Google Gemini 推出专属学生中心",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "summary": "Google 在 Gemini 中推出专属学生中心，提供收集研究资料、制作闪卡、练习测验等功能，并增强学习笔记对图表和图片的支持，还能根据课程表将考试日期和截止日期添加到 Google Calendar。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月20日3时0分"
+  },
+  {
     "id": "cmt0f070p0322ro2oop2fm4jb",
     "title": "Kim 感谢 Axios 报道 X AI 团队",
     "url": "https://x.com/kimmonismus/status/2090138817780932815",
@@ -13942,6 +14046,14 @@
     "summary": "TrueFoundry 发布开源智能体框架 TrueForge（MIT 许可），可本地一键部署，支持 OpenAI、Anthropic、Google 及 Kimi、GLM、DeepSeek 等开源模型。",
     "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
     "date": "2026年8月20日2时5分"
+  },
+  {
+    "id": "cmt0i2yoc05e3ro2o263wmubh",
+    "title": "Cursor 更新：AI 编程分工转向经理模式",
+    "url": "https://x.com/AYi_AInotes/status/2090151530322182641",
+    "summary": "Cursor 更新 Cloud Agent，引入 always-on agents 模式，让 AI 自动监听 PR、修 CI、并行跑子 agent，用户只需设定目标与验收标准即可离开。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月20日2时58分"
   },
   {
     "id": "cmt0he6dt04q4ro2oya4f6ja8",
