@@ -14968,6 +14968,46 @@
     "date": "2026年8月19日1时0分"
   },
   {
+    "id": "cmszqpqg10nu7rodpgsfxpp37",
+    "title": "OpenAI 的瓦解已经开始：IPO 受阻、信任崩塌、烧钱加剧",
+    "url": "https://garymarcus.substack.com/p/breaking-openais-unraveling-has-begun",
+    "summary": "OpenAI 的瓦解已经开始：计划中的 IPO 面临阻力，外界信任已然蒸发，烧钱速度还在恶化。文章指出该公司正陷入多重困境，但未给出具体数据或时间表。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月19日14时43分"
+  },
+  {
+    "id": "cmszq7wk40ndarodpbznyq8n9",
+    "title": "唐杰谈 Scaling Law：GLM-5.3 后训练实验",
+    "url": "https://x.com/dongxi_nlp/status/2089966251443470710",
+    "summary": "唐杰（@jietang）发文反思 Scaling Law，指出参数量并非唯一关键，需结合数据、算力与推理成本综合考量，并回顾 Kaplan 与 Chinchilla 的演进。智谱 GLM-5.3 作为受控实验发布，与 GLM-5.2 基础、架构及参数量相同，仅通过一个月长程环境与 RL 后训练，带来显著提升，证明缩放不止一个旋钮。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月19日14时42分"
+  },
+  {
+    "id": "cmszqgal40ni8rodpz0mpf4rf",
+    "title": "智谱唐杰谈Scaling Law：GLM-5.3更像一次控制变量实验",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685331&idx=1&sn=7de04d2b464e8f9eec5af238b78e86c5",
+    "summary": "智谱创始人唐杰发帖阐述对Scaling Law的理解，称Scaling不只有参数量，还需结合数据量、算力分配与运行条件。GLM-5.3在AA指数拿到60分，较上代GLM-5.2的53分提升，基座相同，总参数753B、激活40B。唐杰认为，总参数量决定知识容量，激活参数与有效深度决定长程推理，Scaling正从追求更大数字转向寻找最优解。",
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年8月19日14时42分"
+  },
+  {
+    "id": "cmszqkmzs0nkyrodpk0x89zku",
+    "title": "软件团队中人工智能的使用模式",
+    "url": "https://linear.app/data",
+    "summary": "Linear 基于 2026 年上半年 12.7 万付费用户数据发现，AI 功能采用率在各职能、公司规模和最高管理层中均翻倍以上，产品岗从 12% 升至 34%，201 人以上公司 CEO 从 9% 升至 36%。同时，团队在创建、分类和评论上投入的时间增加，工程岗创建与分类耗时增长约 17%。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日14时30分"
+  },
+  {
+    "id": "cmszqcuy90ngnrodp5watb2fe",
+    "title": "OpenAI 暂停前沿 RL 训练以强化安全对齐",
+    "url": "https://x.com/gabriel1/status/2089960210815422519",
+    "summary": "OpenAI 已暂停部分前沿强化学习（RL）训练，以确保对齐、安全与监控标准能跟上新能力水平。模型进步极快，OpenAI 承诺在能力超出安全对齐速度时主动行动，并呼吁全行业协调安全标准，同时将单方面先行推进。安全信心将日益决定 AI 进展节奏。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月19日14时18分"
+  },
+  {
     "id": "cmszo2qji0jtnrodpww6nid44",
     "title": "借王昭君解读 AI 时代的表象与真实",
     "url": "https://x.com/ZHO_ZHO_ZHO/status/2089941796533187060",
@@ -14976,12 +15016,28 @@
     "date": "2026年8月19日13时5分"
   },
   {
+    "id": "cmszphde70mn7rodpjj0ipxfj",
+    "title": "日本公布生成式 AI 开发者指导方针草案，要求披露训练数据",
+    "url": "https://www.ithome.com/0/991/585.htm",
+    "summary": "日本内阁府8月18日公布针对生成式 AI 开发者的指导方针草案，要求开发者披露训练数据及数据收集方式，并明确建议避免从盗版网站收集数据。草案虽不具备法律约束力，但敦促开发者保持透明度，披露训练数据集中是否使用漫画、音乐、电影等受版权保护材料，并要求建立内部通知系统，在训练数据包含与生成内容相似的受版权作品时通知用户。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日13时54分"
+  },
+  {
     "id": "cmszni6yk0j7nrodprkqanjhz",
     "title": "唐杰谈缩放定律：GLM-5.3 后训练实验",
     "url": "https://x.com/jietang/status/2089941544581403107",
     "summary": "唐杰发文反思缩放定律，指出参数规模需与数据、算力、推理成本等维度协同考量，Chinchilla 最优比例并非终点。他宣布 GLM-5.3 作为受控实验：与 GLM-5.2 同架构、同参数，仅通过一个月长程环境与 RL 后训练，带来显著提升，证明缩放不止参数一个旋钮。",
     "source": "X：唐杰（@jietang）",
     "date": "2026年8月19日13时4分"
+  },
+  {
+    "id": "cmszphde70mn9rodpy5uzdo9z",
+    "title": "comma.ai 推出 chestnut eGPU 扩展坞，车载 AI 浮点运算提高约 100 倍",
+    "url": "https://www.ithome.com/0/991/583.htm",
+    "summary": "comma.ai 于 8 月 12 日推出 chestnut 外置 eGPU 扩展坞，售价 249 美元，真机套件（含 AMD Radeon RX 9060 8GB）售价 799 美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日13时45分"
   },
   {
     "id": "cmsznyjab0jr6rodpba5aclk9",
