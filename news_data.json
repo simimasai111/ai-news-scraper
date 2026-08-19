@@ -13848,12 +13848,100 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt0f070p0322ro2oop2fm4jb",
+    "title": "Kim 感谢 Axios 报道 X AI 团队",
+    "url": "https://x.com/kimmonismus/status/2090138817780932815",
+    "summary": "哇，谢谢你，@axios。能被报道我真的很荣幸 <3",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月20日2时8分"
+  },
+  {
+    "id": "cmt0f071b0326ro2oknaya90c",
+    "title": "Etched 芯片首发是否支持 TinyGrad",
+    "url": "https://x.com/SemiAnalysis_/status/2090138774537740409",
+    "summary": "有人知道 @Etched 芯片在正式上市首日是否会开箱即用地支持 @__tinygrad__ 吗？",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月20日2时8分"
+  },
+  {
+    "id": "cmt0f070b031yro2oxfoq45ij",
+    "title": "TrueForge 开源智能体框架实测：成本降75%",
+    "url": "https://x.com/omarsar0/status/2090138030296219973",
+    "summary": "TrueFoundry 发布开源智能体框架 TrueForge（MIT 许可），可本地一键部署，支持 OpenAI、Anthropic、Google 及 Kimi、GLM、DeepSeek 等开源模型。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月20日2时5分"
+  },
+  {
+    "id": "cmt0e7sxo01eiro2o4l4y9jmh",
+    "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+    "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+    "summary": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "date": "2026年8月20日1时56分"
+  },
+  {
+    "id": "cmt0emfsy02uuro2okirwlhq7",
+    "title": "软件工厂承诺解决软件开发难题",
+    "url": "https://x.com/trq212/status/2090134945490678071",
+    "summary": "在其整个存在过程中，软件开发一直是一项极其不可靠的事业\n\n大多数项目延期、超预算，且仍然未能满足用户需求\n\n如果你是一家中小企业，你根本找不到人为你构建好的软件\n\n这就是\"软件工厂\"的承诺",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月20日1时52分"
+  },
+  {
+    "id": "cmt0f07130324ro2oxcklrm93",
+    "title": "Elf Xuan 2.0 亮相 WRC 2026，面部自由度超 30",
+    "url": "https://x.com/rohanpaul_ai/status/2090134744373829780",
+    "summary": "AheadForm 的 Elf Xuan 2.0 在 2026 北京世界机器人大会上展出。其面部在不到半毫米硅胶皮肤下拥有 30+ 自由度，由静音无刷电机驱动，可实时保持眼神接触和微表情；新增手臂关节支持手势，但下半身仍固定于底座，未设计行走功能。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日1时52分"
+  },
+  {
+    "id": "cmt0f070b031zro2ou7onnt6w",
+    "title": "Stripe 收购 OpenRouter，押注 token 流",
+    "url": "https://x.com/omarsar0/status/2090134310988681670",
+    "summary": "Stripe 宣布收购 OpenRouter，后者将成为其旗下产品。OpenRouter 是目前使用新模型和管理多家推理供应商的最佳开发者工具，也是全球领先的 token 市场。随着智能体普及，未来每家企业都需同时管理收入流和 token 流，此次收购有望成为行业最重磅交易之一。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月20日1时50分"
+  },
+  {
+    "id": "cmt0eewgp02noro2otibj5hge",
+    "title": "GitHub Copilot app 初学者教程：用 My work 面板管理你的工作",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+    "summary": "GitHub Copilot app 的 My work 面板将拉取请求和问题集中在一处管理，内置 All、Active、Review requests、Done 四个默认视图，并支持创建自定义视图与过滤器。用户可从问题或拉取请求直接启动新的智能体会话，也可批量选择多个条目创建会话，还能在列表视图和表格视图间切换，并调整仓库范围或新建问题。",
+    "source": "GitHub Blog",
+    "date": "2026年8月20日1时50分"
+  },
+  {
     "id": "cmt0da4a519amrodpeqsm0glq",
     "title": "Asana 借助 Codex 两周完成前端测试迁移",
     "url": "https://x.com/OpenAIDevs/status/2090122836103102482",
     "summary": "借助 Codex，@asana 在两周内完成了从 Enzyme 到 React Testing Library 的前端测试迁移--而这一项目原本预计还需五年时间。\n\nhttps://openai.com/index/asana/",
     "source": "X：OpenAI Developers (@OpenAIDevs)",
     "date": "2026年8月20日1时4分"
+  },
+  {
+    "id": "cmt0er1fq02wtro2oq8aytze9",
+    "title": "Grok Voice Think Fast 2.0 击败 GPT Realtime",
+    "url": "https://x.com/elonmusk/status/2090132472210358351",
+    "summary": "Grok Voice Think Fast 2.0 在 VulcanBench 基准上同时超越 GPT Realtime 的文本与语音表现。在 200 道保留问题上，Grok 文本准确率达 99%，且从打字输入转为语音提问时几乎保持同等性能，同时响应速度显著更快。Grok 正成为能听、能想、能极速回应的实时推理模型。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月20日1时43分"
+  },
+  {
+    "id": "cmt0e45ge01avro2od83ugt7e",
+    "title": "MAI-Image-2.5-Pro登顶图像编辑榜",
+    "url": "https://x.com/mustafasuleyman/status/2090132085562347786",
+    "summary": "微软MAI-Image-2.5-Pro在Artificial Analysis图像编辑排行榜登顶第一，超越Reve 2.1、GPT Image 2及自家MAI-Image-2.5，文生图位列第七。该模型7月23日已在Microsoft Foundry预览，定价为每1M文本输入token $5、图像输入$8、图像输出$106，约合每千张1024x1024图像$108.5。",
+    "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+    "date": "2026年8月20日1时41分"
+  },
+  {
+    "id": "cmt0ecarc01j8ro2od17d3iw9",
+    "title": "opencode Muse Spark 临时下线今日恢复",
+    "url": "https://x.com/opencode/status/2090131613363433526",
+    "summary": "muse spark 今天早些时候在正式公告发布前短暂上线\n\n由于容量尚未完全就绪，我们暂时将其撤下\n\n今天晚些时候会重新上线",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月20日1时39分"
   },
   {
     "id": "cmt0cv11s192yrodpu7ga044i",
@@ -13886,6 +13974,22 @@
     "summary": "智谱唐杰发文回顾缩放定律演进，指出参数量需结合数据、算力与推理成本综合考量，并强调推理成本已主导模型生命周期开销。GLM-5.3 作为受控实验，与 GLM-5.2 采用相同基座、架构及参数规模，仅通过一个月长程环境强化学习（RL）后训练，即带来显著能力提升，证明缩放维度可独立调节，后训练仍有较大优化空间。",
     "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
     "date": "2026年8月20日1时29分"
+  },
+  {
+    "id": "cmt0e45g301atro2oe7e5k9e5",
+    "title": "Perplexity CEO 推邮件版 AI 律师助手",
+    "url": "https://x.com/AravSrinivas/status/2090128620752978065",
+    "summary": "一个以邮件界面呈现的合格律师\n\n【引用 @danielywang4】：邮件中的 Computer 适用于律师。\n\n转发你的需求，即可在收件箱收到一份带修订标记的 Word 文档\n\n今天就试试：发送邮件至 computer@perplexity.com",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月20日1时27分"
+  },
+  {
+    "id": "cmt0e5aqa01c2ro2obnahf8jp",
+    "title": "硅谷数据公司 Steve Hou 做客 Equity 播客：解读追踪 GPU 租赁成本的指数",
+    "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute",
+    "summary": "硅谷数据公司（Silicon Data）的 Steve Hou 做客 Equity 播客，解析其追踪 GPU 租赁成本的指数。该指数旨在帮助华尔街为 AI 算力定价，反映租用 GPU 的市场价格变化。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月20日1时26分"
   },
   {
     "id": "cmt0djvwn19s0rodpiy2xsspk",
