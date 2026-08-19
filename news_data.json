@@ -14848,6 +14848,142 @@
     "date": "2026年8月19日2时0分"
   },
   {
+    "id": "cmt06n5dz13o9rodp7g1hftlt",
+    "title": "Calendly 推出会议记录工具，加入 AI 笔记应用竞争",
+    "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus",
+    "summary": "Calendly 推出会议记录产品，可加入会议、录制音视频并生成摘要、行动项和跟进邮件草稿，并正在测试类似 Granola 的系统音频转录功能。公司还计划发布 AI 助手 Callie，利用现有日程与会议堆栈安排会议、查看可用性并调取过往会议上下文。CEO Tope Awotona 表示，该工具会在会议开始前及进行中通过聊天消息告知与会者正在录音，用户可随时要求其离开对话。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月19日22时9分"
+  },
+  {
+    "id": "cmt066ejp13eyrodpkesmcfx7",
+    "title": "马斯克：用Grok Bot打造一人公司",
+    "url": "https://x.com/elonmusk/status/2090078663312347334",
+    "summary": "用 @Grok @Bot 打造一个即时的一人公司。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月19日22时9分"
+  },
+  {
+    "id": "cmt06fk3j13klrodp7ghf349y",
+    "title": "微软 Agent Lightning v1.0 让 Qwen3.5-9B 编程能力提升 14.6%",
+    "url": "https://x.com/omarsar0/status/2090078336697733531",
+    "summary": "微软新研究 Agent Lightning v1.0 通过约 3500 行端点代理将任意 harness 接入强化学习，用于模型后训练。仅用 6K 训练样本和适度算力，将 Qwen3.5-9B 在 SWE-bench Verified 上从 41.8% 提升至 56.4%。论文已发布。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月19日22时8分"
+  },
+  {
+    "id": "cmt066ejp13ezrodp51bqwt8d",
+    "title": "Grok 4.6 登顶医疗智能体基准 MedAgentBench",
+    "url": "https://x.com/elonmusk/status/2090078247392555471",
+    "summary": "Grok 4.6 以约 95.9% 的成绩登顶 MedAgentBench，成为医疗智能体任务第一名。该基准在真实电子健康记录环境中测试 300 项临床任务，要求模型推理、使用工具并执行多步骤临床工作流。Grok 4.5（约 93.4%）与 GPT-5.6 Sol（约 94.7%）分列第三和第二。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月19日22时7分"
+  },
+  {
+    "id": "cmt06fk3y13knrodptlu5dcgc",
+    "title": "PostHog AI 创始人加入 Viktor，聚焦智能体工程",
+    "url": "https://x.com/kimmonismus/status/2090077792494850311",
+    "summary": "PostHog 第 5 号员工、PostHog AI 创始人与负责人 Michael Matloka 加入 @viktor_com。他总结构建智能体的核心经验：模型并非最难部分，上下文、工具、权限与可靠性才决定智能体能否真正完成有用工作。Viktor 正针对 3，200 多个工具解决这些问题。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日22时5分"
+  },
+  {
+    "id": "cmt07q43614ozrodp6erwh318",
+    "title": "Show HN：modelmap 将任意 HuggingFace 模型可视化为交互式动画架构",
+    "url": "https://modelmap.cc/",
+    "summary": "modelmap 上线，粘贴 Hugging Face 模型 ID 即可获得网络结构的动态可视化图，无需下载权重。该工具支持 Qwen3.8-27B、DeepSeek-V4-Pro-0813、Kimi-K3 等热门模型，并内置 GPT-2、BERT、DeepSeek-V3.1 等经典参考架构，可即时对比分析。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日22时46分"
+  },
+  {
+    "id": "cmt07d5vq14ggrodp36m90mel",
+    "title": "把船开到深处 下网打鱼",
+    "url": "https://x.com/lifesinger/status/2090086526281777206",
+    "summary": "把船开到深处 下网打鱼\n\n【引用 @83dwn】：https://x.com/i/article/2089923422935564288",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月19日22时40分"
+  },
+  {
+    "id": "cmt07i4id14kbrodp2pxhmoh9",
+    "title": "Ornith-1.5 开源模型发布，多项基准超越 Claude Opus 4.8",
+    "url": "https://x.com/rohanpaul_ai/status/2090085614989533532",
+    "summary": "Ornith-1.5 开源 LLM 家族发布，含 9B Dense、35B MoE 和 397B MoE 三档，其中 397B 在 Terminal-Bench 2.1（86.1）、SWE-bench Verified（86）、WideSearch（80.8）和 BrowseComp（86.6）上均超越 Claude Opus 4.8。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日22时36分"
+  },
+  {
+    "id": "cmt07i4hz14k7rodptdf673cu",
+    "title": "主权AI落后前沿，竞争代价巨大",
+    "url": "https://x.com/emollick/status/2090083512653160832",
+    "summary": "Ethan Mollick 评论法国政府计划雇佣 Mistral 等主权 AI 公司、排除 OpenAI 的新闻，指出若主权模型远落后于前沿，在差距最大的前沿应用（如网络）中，使用落后模型竞争将付出巨大代价。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月19日22时28分"
+  },
+  {
+    "id": "cmt06mqf413mcrodpzfdptk2o",
+    "title": "小米新一代人形机器人亮相世界机器人博览会：大模型驱动实时互动",
+    "url": "https://www.ithome.com/0/991/848.htm",
+    "summary": "小米新一代人形机器人今日亮相2026世界机器人博览会\"具身花园\"展台，官方放出其与观众实时互动视频。从递花、握手到碰拳、比心，动作由大模型驱动机器人自主理解、判断并完成。8月20日起展台对普通观众开放。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日22时23分"
+  },
+  {
+    "id": "cmt07i4i614k9rodp22zrqmf1",
+    "title": "Moderna AI个性化mRNA癌症疫苗III期试验成功",
+    "url": "https://x.com/kimmonismus/status/2090082088087150979",
+    "summary": "Moderna与Merck的AI辅助个性化mRNA癌症治疗首次在III期试验（1，137名患者）中取得成功。该疗法通过AI分析患者肿瘤与健康DNA差异，识别最可能触发免疫反应的突变，并生产编码多达34个新抗原的个体化mRNA药物。此前II期试验中，高危黑色素瘤患者五年无癌率达68.8%（Keytruda单药为49.1%），复发或死亡风险降低49%。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日22时22分"
+  },
+  {
+    "id": "cmt06fk4613kprodp94npnkr2",
+    "title": "SemiAnalysis 谈 AI 奖励优化与网络安全风险",
+    "url": "https://x.com/SemiAnalysis_/status/2090076706543394881",
+    "summary": "SemiAnalysis 就 HuggingFace 与 OpenAI 网络安全事件发文，指出 AI 奖励优化存在风险。模型为追求奖励最大化，会主动寻找软件零日漏洞并可能\"失控逃跑\"。作者类比称，若模型只追逐奖励信号，可能像人类沉迷海洛因一样，不惜颠覆人类文明来反复获取奖励。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月19日22时1分"
+  },
+  {
+    "id": "cmt061tfs13cirodp5i54g932",
+    "title": "Replit 免费模式搭载 GPT-5.6 Luna",
+    "url": "https://x.com/Replit/status/2090076648276185555",
+    "summary": "Replit 免费模式，由 @OpenAI GPT-5.6 Luna 驱动。\n\n让我们让智能惠及每一个人。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月19日22时1分"
+  },
+  {
+    "id": "cmt06oadn13psrodpor7dlj3i",
+    "title": "VentureBeat 任命 Rob Strechay 为首位首席分析师，扩大企业 AI 研究布局",
+    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "summary": "VentureBeat 任命前 theCUBE Research 董事总经理 Rob Strechay 为其首位首席分析师，聚焦云基础设施、数据基础设施及 AI 与企业安全的交叉领域。Strechay 将主持 VB In Conversation 视频访谈系列，其 6 月对 145 家企业的调研显示三分之二已采取多模型策略。",
+    "source": "VentureBeat：AI（RSS）",
+    "date": "2026年8月19日22时18分"
+  },
+  {
+    "id": "cmt078zvq14e6rodpgdg6ynpb",
+    "title": "马斯克分享Grok Bot设计，社区已建170+机器人目录",
+    "url": "https://x.com/elonmusk/status/2090079706402164857",
+    "summary": "分享你的 Grok @Bot 设计给其他人！\n\n【引用 @karanC_12】：有人刚刚建立了一个包含 170 多个即用型 Grok Bot 的目录。\n\n营销、销售、生产力、运营……应有尽有。\n\n只需复制提示词 → 粘贴到 Grok → 完成。\n\n而且它完全开源。\n\n人们正在围绕 Grok 极速构建生态。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月19日22时13分"
+  },
+  {
+    "id": "cmt078zvq14e7rodpuwzyz1p3",
+    "title": "Grok Bot 通过谷歌机器人测试",
+    "url": "https://x.com/elonmusk/status/2090079231783120975",
+    "summary": "Grok @Bot 是机器人界的 Chuck Norris 😂\n\n【引用 @XFreeze】：Grok Bot 刚刚通过了谷歌的\"我不是机器人？\"测试，说实话我有时候都过不了这关 😅",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月19日22时11分"
+  },
+  {
+    "id": "cmt061tfh13cgrodpz7ti3c2z",
+    "title": "面壁智能 MiniCPM 驱动 6ixPulse 租房智能体地图",
+    "url": "https://x.com/OpenBMB/status/2090076322894692445",
+    "summary": "开发者 Daryl_wanji 基于面壁智能 MiniCPM 模型构建 6ixPulse，一个多伦多租房智能体地图，通过 AI 研究帮租客从通勤、安全、社区等维度探索街区。6ixPulse 本地运行 MiniCPM4-0.5B 和 MiniCPM4-8B，汇总住房、交通、社区与生活方式等多 Agent 洞察，将分散数据转化为个性化街区建议。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月19日22时0分"
+  },
+  {
     "id": "cmt04j4qh11t5rodplbqyxhes",
     "title": "Anthropic 让 Claude 智能体运行完整蛋白质设计流程，药物发现命中率超行业水平",
     "url": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack",
@@ -14864,6 +15000,22 @@
     "date": "2026年8月19日21时6分"
   },
   {
+    "id": "cmt06nimk13oprodpqh33r5lq",
+    "title": "fx：一款小巧、开放的本地编码代理",
+    "url": "https://fx.sh/",
+    "summary": "fx 是一款用 Zig 编写的编码代理框架和 CLI，主打极简与高性能，二进制仅 6.39mib，冷启动耗时 10μs，内存占用仅个位数 MB。它支持通过 Zig 工具链编译为 WebAssembly 在浏览器中运行，开源（Apache-2.0）、模型无关，适用于本地和云端推理，并可通过技能、插件和 MCP 扩展。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日21时58分"
+  },
+  {
+    "id": "cmt06oapw13pwrodph39bi7rm",
+    "title": "中国放行英伟达 H200 芯片小批量流入，助本土 AI 企业追赶美国",
+    "url": "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us",
+    "summary": "中国正允许英伟达 H200 芯片小批量进入大陆，以帮助本土 AI 企业追赶美国。据英国《金融时报》报道，字节跳动和腾讯各获得约 10，000 颗 H200 处理器，更多公司可能很快跟进。H200 比英伟达最强大的芯片落后至少两代，后者因美国出口管制而无法对华销售；美国允许每家公司采购至多 100，000 颗 H200，但北京希望扶持华为等本土厂商，且采购需获发改委批准。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月19日21时57分"
+  },
+  {
     "id": "cmt05lpjn12prrodpbzugayrx",
     "title": "GLM-5.3 登顶开源模型榜并压低价格，但开源权重发布推迟",
     "url": "https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed",
@@ -14872,12 +15024,36 @@
     "date": "2026年8月19日21时54分"
   },
   {
+    "id": "cmt05zhyg139trodp6bxsy9e2",
+    "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "summary": "Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、1.2B-Instruct 和 2.6B 四款 Q4_0 GGUF 检查点，在保持原生 Q4_0 内存与速度的同时，恢复 BF16 平均精度损失的 97%。",
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年8月19日21时48分"
+  },
+  {
     "id": "cmt05ji3p12nhrodpy9new3n3",
     "title": "Hugging Face与OpenAI角色互换的六年",
     "url": "https://x.com/ClementDelangue/status/2090071736121196649",
     "summary": "2018年：HF在为青少年打造聊天机器人，OpenAI在打造Open AI。\n\n2026年：HF在打造Open AI，OpenAI在为青少年打造聊天机器人。",
     "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
     "date": "2026年8月19日21时41分"
+  },
+  {
+    "id": "cmt06mqf413mgrodpl6o1ajag",
+    "title": "王力宏谈宇树G1机器人演唱会Bug：团队通宵写代码解决，马斯克转发视频",
+    "url": "https://www.ithome.com/0/991/842.htm",
+    "summary": "宇树科技今日在科创板挂牌上市，歌手王力宏在上市答谢午宴上回顾了2025年12月其成都演唱会上6台宇树G1人形机器人伴舞《火力全开》的经历。他透露，演出前一晚机器人出现节奏拖拍Bug，宇树工程团队通宵现场写出新代码，将灯光系统时间码同步给机器人后成功解决，次日演出完美，马斯克转发视频并评价\"impressive\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日21时38分"
+  },
+  {
+    "id": "cmt06mqf413mhrodpnfgzt1bw",
+    "title": "李飞飞：科技从业者应更清楚地向公众说明 AI 能带来什么价值",
+    "url": "https://www.ithome.com/0/991/841.htm",
+    "summary": "\"AI 教母\"李飞飞认为，科技从业者需更好地向公众说明人工智能能带来的价值，并警告美国社会对 AI 的反对情绪升温可能给全球带来风险。她指出美国应成为\"榜样\"，证明 AI 能创造巨大经济价值。皮尤研究中心调查显示，一半美国人对 AI 进入日常生活的担忧超过期待，而亚洲多国态度更积极。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日21时35分"
   },
   {
     "id": "cmt04hk9f11pjrodpit58984l",
