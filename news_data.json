@@ -13848,6 +13848,78 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt0ppzyf0br1ro2oaj3gyjwk",
+    "title": "Grok Build v1.0.7 更新：新增工作流目录与权限选项",
+    "url": "https://x.com/cb_doge/status/2090214274031591830",
+    "summary": "Grok Build v1.0.7 发布，新增 /workflows 命令打开工作流目录、/workflow runs 查看实时运行，并支持在权限提示中默认显示\"始终允许\"和\"永不允许\"选项。修复了非交互会话中 MCP 连接认证、启动超时等问题，可通过 `grok update --alpha` 更新。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月20日7时8分"
+  },
+  {
+    "id": "cmt0ppzza0br9ro2ovt82tzaw",
+    "title": "Meta AI 视频模型 Muse 首批输出曝光",
+    "url": "https://x.com/testingcatalog/status/2090213734484500580",
+    "summary": "独家 🔥：抢先看 Meta AI 的 Muse 视频模型首批输出。\n\n> Muse 视频目前正处于封闭测试阶段。\n> 该模型对受版权保护的内容已相当严格限制。\n> 原生音频支持语音和音乐，开箱即用。\n\n如果该模型最终免费开放到 Meta 各产品中，将是一记重拳。\n\n有什么提示词值得我试试吗？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月20日7时6分"
+  },
+  {
+    "id": "cmt0pxi7k0butro2oz5ou7quq",
+    "title": "MiniMax H3 图像修复演示引热议",
+    "url": "https://x.com/MiniMax_AI/status/2090213667593945549",
+    "summary": "\"让我自己造个工具来搞定这个罐子吧\" 😭\n\n（引用 @8bit_e：使用 MiniMax H3 进行图像修复 😎 https://github.com/drozbay/MaskVidExperiments）",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月20日7时5分"
+  },
+  {
+    "id": "cmt0qeuim0cdxro2omsw9pw9l",
+    "title": "Claude托管智能体三项更新发布",
+    "url": "https://x.com/ClaudeDevs/status/2090218983962390950",
+    "summary": "我们为 Claude 托管智能体发布了三项更新。\n\n首先，我们让在自托管沙箱中使用记忆变得更加容易。在自托管沙箱中完成的任何工作都可以保存到记忆中。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月20日7时26分"
+  },
+  {
+    "id": "cmt0px8kn0bt2ro2ovy9r82dq",
+    "title": "Valve Steam Frame VR 头显官方教学视频泄露：佩戴、登录与配件细节曝光",
+    "url": "https://www.ithome.com/0/991/873.htm",
+    "summary": "Valve 在 ARM 版 Steam 客户端更新中意外发布 8 段 Steam Frame VR 头显教学视频，详细展示了登录流程、佩戴方式与配件。登录可通过手机摄像头扫描头显镜片二维码完成，配件包括腕带、头顶支撑带及加长遮光罩，面部贴合垫与眼睛间距垫片均采用磁吸连接。Steam Frame 配备 16GB RAM，将于今年夏季上市，售价尚未公布。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日7时20分"
+  },
+  {
+    "id": "cmt0py3p70bvaro2osvqlc2uz",
+    "title": "陶哲轩：人工智能时代的数学",
+    "url": "https://arxiv.org/abs/2608.16753",
+    "summary": "数学家陶哲轩在2026年国际数学家大会演讲中提出，数学界应如何回应具备研究级数学能力的AI工具。他主张搁置对AI能力的争论，转而审视数学研究真正的目标与价值，并以问题求解作为案例。他认为当前数学正经历类似20世纪初基础危机的动荡期，需将隐含的数学实践与价值规范显式化。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月20日7时1分"
+  },
+  {
+    "id": "cmt0qeuiv0cdzro2o5w735ynr",
+    "title": "Replit 周五直播详解 Free Mode 与 Routines",
+    "url": "https://x.com/Replit/status/2090216789594567053",
+    "summary": "本周五上午 9 点（太平洋时间）与 Free Mode 团队见面。\n\n加入 Replit 社区团队直播，深入了解 Free Mode 和 Conversations，并抢先预览黑盒渗透测试中的 Routines。\n\n将在 YouTube、LinkedIn 和 X 上直播。报名：https://luma.com/g076onow",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月20日7时18分"
+  },
+  {
+    "id": "cmt0px8kn0bt6ro2ofybl81iq",
+    "title": "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险",
+    "url": "https://www.ithome.com/0/991/868.htm",
+    "summary": "OpenAI 面向符合资格的前沿模型 API 客户扩展\"零数据留存\"服务，请求处理完成后不保留提示词或模型回复，员工无法审阅客户内容。为解决多轮交互后显现的安全风险，OpenAI 推出私密安全处理预览版，利用自动化系统分析关联交互中的风险模式，员工不接触底层内容。该能力计划于 9 月开始推出。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日6时58分"
+  },
+  {
+    "id": "cmt0ppzyy0br6ro2ozt254r4u",
+    "title": "RAG投毒致模型过度自信，注意力崩塌可预警",
+    "url": "https://x.com/rohanpaul_ai/status/2090211533108515281",
+    "summary": "研究发现RAG投毒可使模型token置信度和输出一致性上升，导致基于不确定性的检测器失效。攻击下注意力集中于被投毒文档而非分散于检索证据，作者称之为\"注意力崩塌\"。监控文档级注意力分布或可在答案明显出错前暴露投毒，仅检查最终答案或置信度可能漏报。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日6时57分"
+  },
+  {
     "id": "cmt0p4w7r0be0ro2ow79t4rtd",
     "title": "引用 Jeremy Morrell：LLM 时代可扩展软件的新机遇",
     "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell",
@@ -13869,6 +13941,14 @@
     "url": "https://x.com/natolambert/status/2090208650103001528",
     "summary": "我想这会是我指导的第一期 MATS 学员！我认识了很多优秀的 MATS 校友，很期待能做出贡献。",
     "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月20日6时45分"
+  },
+  {
+    "id": "cmt0px8kn0bt7ro2ol0mkgf8k",
+    "title": "Meta 推出 Meta AI 原生 Mac 应用：支持窗口共享、跨应用听写",
+    "url": "https://www.ithome.com/0/991/866.htm",
+    "summary": "Meta 今日推出 Mac 版 Meta AI 应用测试版，面向企业和内容创作者，与 Facebook、Instagram 集成，内置分析工具可回答账号表现问题，并支持连接 Google Workspace 访问文档（需专业版账号）。",
+    "source": "IT之家（RSS）",
     "date": "2026年8月20日6时45分"
   },
   {
