@@ -14848,6 +14848,94 @@
     "date": "2026年8月19日2时0分"
   },
   {
+    "id": "cmt04aeu411nkrodp2la1vf8i",
+    "title": "fofr 称赞 patloeber 开发环境配置",
+    "url": "https://x.com/fofrAI/status/2090062844846813655",
+    "summary": "这是个不错的配置。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月19日21时6分"
+  },
+  {
+    "id": "cmt03wnwm11fsrodpd6c2xoyj",
+    "title": "面壁智能 StaffDeck 0.4.0 发布：企业数字员工团队平台",
+    "url": "https://x.com/OpenBMB/status/2090061221932490804",
+    "summary": "面壁智能发布 StaffDeck 0.4.0，一个用于构建、管理和部署数字员工团队的企业平台。自 0.1.0 发布一个月以来，项目已达 270+ 代码提交。新版本支持多智能体协作、通过 MCP 和 API 调用外部工具，并可直接在微信、飞书、钉钉和企业微信中使用。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月19日21时0分"
+  },
+  {
+    "id": "cmt03fcdw10vurodpbsu5vlts",
+    "title": "Cursor 解读 Origin 构建与 Git 二十年演进",
+    "url": "https://x.com/ericzakariasson/status/2090059170972369200",
+    "summary": "关于 @vmg 如何构建 Origin 的精彩文章！\n\n可视化也极其出色。\n\n【引用 @cursor_ai】：我们正在让 Git 托管更可靠、更高性能、更具可扩展性。\n\n这篇文章追溯了 20 年的 Git 基础设施历史，并解释了这段历史如何引导我们将 Git 存储 Origin 当作数据库来设计和运营。\n\nhttps://cursor.com/blog/git-at-any-scale",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月19日20时51分"
+  },
+  {
+    "id": "cmt04aetx11nirodpxnlfo0xm",
+    "title": "AI 加剧作弊，但抄袭问题早已存在",
+    "url": "https://x.com/emollick/status/2090059088323375527",
+    "summary": "Ethan Mollick 指出，AI 确实让作弊问题恶化，但此前情况已不容乐观。2008 年，86% 的大学生通过完成作业提升了期末考试成绩，而 2017 年该比例降至 45%，原因是学生从网上抄袭。引用研究显示，在中国，作业成绩好曾预示考试成绩好，如今可能恰恰相反。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月19日20时51分"
+  },
+  {
+    "id": "cmt03fcea10w0rodpvzs02h3k",
+    "title": "Claude被抢先，个性化癌症疫苗引热议",
+    "url": "https://x.com/natolambert/status/2090057860055011660",
+    "summary": "Claude在治愈癌症这件事上被抢先了，ngmi。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月19日20时46分"
+  },
+  {
+    "id": "cmt03gjlj10xgrodplx0pme2d",
+    "title": "Anthropic 营收首超 OpenAI",
+    "url": "https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time",
+    "summary": "Anthropic 在 AI 竞赛中营收首次超过 OpenAI。截至 6 月的季度，Anthropic 营收达 116 亿美元并实现小幅营业利润，而 OpenAI 营收为 67 亿美元，营业利润率进一步下滑。OpenAI 称 GPT-5.6 于 7 月发布后增长回升，但 ChatGPT 增长放缓及 Anthropic 编程工具 Claude Code 的成功正对其构成压力。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月19日20时45分"
+  },
+  {
+    "id": "cmt037t4e10qwrodp8xsrciu3",
+    "title": "新基准测试：检测到人类即判失败",
+    "url": "https://x.com/rohanpaul_ai/status/2090056611868094584",
+    "summary": "下一个基准测试：检测到人类，就选别处。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日20时41分"
+  },
+  {
+    "id": "cmt03fq8310wgrodpg0ga5cdw",
+    "title": "Mojo 语言正式开源，Modular 平台扩展至 Trainium、TPU 等硬件",
+    "url": "https://www.modular.com/blog/modcon-announcements",
+    "summary": "Modular 在 ModCon 2026 上宣布 Mojo 1.0 以 Apache 2.0 许可证完全开源，编译器与工具链全部开放，并将在微软合作下原生支持 Windows。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日20时38分"
+  },
+  {
+    "id": "cmt03kwqe114frodpd54dxgh3",
+    "title": "Odyssey 发布中间态模型预告",
+    "url": "https://x.com/odysseyml/status/2090053455301759350",
+    "summary": "处于中间某个位置。",
+    "source": "X：Odyssey (@odysseyml)",
+    "date": "2026年8月19日20时29分"
+  },
+  {
+    "id": "cmt037t4610qurodpb51xctzo",
+    "title": "OpenAI 暂停前沿模型训练两周防风险",
+    "url": "https://x.com/frxiaobei/status/2090053415762379075",
+    "summary": "OpenAI 披露曾暂停最新一代待部署模型的强化学习训练长达两周，且原计划中规模最大的 frontier RL 训练至今未恢复。暂停期间，团队优先加固内部研究环境，强化工作负载与网络隔离、持续安全测试，并对高风险训练和工具调用推理实施多阶段监控。目前仅恢复更小规模训练以验证防护措施并积累对齐证据，凸显前沿 AI 瓶颈正从模型能力转向组织的安全治理能力。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月19日20时29分"
+  },
+  {
+    "id": "cmt032ukc10n1rodp5h8skdoz",
+    "title": "ZHO：AI 将带人类进入文化\"大垃圾时代\"",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2090051188150673686",
+    "summary": "ZHO 认为，自 2026 年起 AI 发展将带领人类进入文化上的\"大垃圾时代\"，大量垃圾质量的 AI 图/文/视频/应用将铺满物理与网络世界。他进一步指出，系统首先杀死美，因为美需要余裕、安全、时间、注意力与自由，而这些恰是效率社会最不允许的；美不再被创造，只被消费。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月19日20时20分"
+  },
+  {
     "id": "cmt02cego0zvmrodp81xosqdw",
     "title": "京东 WRC 2026 发布机器人战略：到 2028 年投入百亿级资源，助力 100 个品牌销售额破 10 亿元",
     "url": "https://www.ithome.com/0/991/821.htm",
@@ -14861,6 +14949,14 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
     "summary": "英伟达联合Apollo、BlackRock等机构拟筹集5000亿美元，将算力打造为可投资资产类别，黄仁勋称芯片是\"创收资产、寿命长、可互换、灵活\"。但文章质疑该策略，指出去年英伟达与OpenAI签署的1000亿美元谅解备忘录并未落实，且数据中心饱和、中国开源模型降低算力需求等因素可能威胁芯片需求增长。",
     "source": "The Verge：AI（RSS）",
+    "date": "2026年8月19日20时0分"
+  },
+  {
+    "id": "cmt03fdx410w2rodpp9vhoo39",
+    "title": "Vivodyne 用机器人实验室 HIVE 生成因果生物数据，称这是 AI 治愈癌症的关键",
+    "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take",
+    "summary": "生物科技初创公司 Vivodyne 推出模块化机器人实验室 HIVE，可培育 20 种人体组织并自主给药监测，生成现有 AI 模型缺失的因果生物数据。其肝细胞对毒性预测准确率达 94%，气道组织匹配度 96%，骨髓在 20 种化疗药物测试中 100% 一致。该公司已融资近 8000 万美元，在旧金山外开设全球最大\"人类数据中心\"，吞吐量达美国全部动物试验的两倍。",
+    "source": "TechCrunch：AI（RSS）",
     "date": "2026年8月19日20时0分"
   },
   {
