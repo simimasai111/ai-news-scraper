@@ -13848,6 +13848,78 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt0h5d3q04m3ro2o810tt0md",
+    "title": "Fabraix 推出 Nyx 自主红队智能体",
+    "url": "https://x.com/testingcatalog/status/2090153528182407359",
+    "summary": "Fabraix 发布 Nyx，一款自主红队测试智能体，可针对任意 AI 智能体发起攻击，内置 10，000+ 越狱攻击库以暴露安全漏洞。每次测试会输出攻击步骤供智能体定位漏洞，发布后还可重放同一测试验证修复效果。演示中，Nyx 成功诱导 AI 智能体通过看似正常的发票窃取客户银行余额。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月20日3时6分"
+  },
+  {
+    "id": "cmt0hk26u04s5ro2oj7wyybkc",
+    "title": "OpenCode Go 推出 Muse Spark 1.2 Contributor",
+    "url": "https://x.com/opencode/status/2090158371097698394",
+    "summary": "Muse Spark 1.2 Contributor 现已在 OpenCode Go 上可用\n\n该模型将基于你的数据进行训练，因此需要明确选择加入，并在某些地区受到限制\n\n作为交换，你将获得极高的使用额度",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月20日3时26分"
+  },
+  {
+    "id": "cmt0hk26f04s3ro2op7c934oc",
+    "title": "Google AI Studio 支持 GitHub 双向同步",
+    "url": "https://x.com/OfficialLoganK/status/2090156520843657488",
+    "summary": "@GoogleAIStudio 中 GitHub 支持的最新进展：\n\n- 现在支持导入 GitHub 仓库\n- 现在支持 GitHub 双向同步（推送 / 拉取）\n- 全新 UI 支持强制推送、合并等操作\n\n双向推送 / 拉取功能花了些时间才落地，但很高兴它终于来了！",
+    "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+    "date": "2026年8月20日3时18分"
+  },
+  {
+    "id": "cmt0hkeel04t1ro2o1p8sbsg1",
+    "title": "Krea AI 推出 Seedance Studio 创作工具",
+    "url": "https://x.com/krea_ai/status/2090155543566659916",
+    "summary": "隆重推出 Seedance Studio。\n\n这款新工具将使用 Seedance 2.5 创作所需的一切集于一处，包括提示词预设、镜头路径和 3D 场景控制。\n\n你还希望我们添加哪些功能？👇",
+    "source": "X：Krea AI (@krea_ai)",
+    "date": "2026年8月20日3时14分"
+  },
+  {
+    "id": "cmt0h5d3b04m1ro2o9o6wjcrp",
+    "title": "Stripe 约 75 亿美元收购 OpenRouter",
+    "url": "https://x.com/rohanpaul_ai/status/2090154779515510855",
+    "summary": "Stripe 以约 75 亿美元收购 OpenRouter，将同时掌控 AI 应用的支付与推理路由，深度影响其单位经济。OpenRouter 作为领先的 token 市场，可跨供应商动态调度模型，让模型竞争转化为客户优势。Stripe 由此卡住智能成本与收入之间的关键节点。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日3时11分"
+  },
+  {
+    "id": "cmt0hd13r04opro2obp2bz05d",
+    "title": "AI 未能赢得公众信任：负面情绪与商业压力加剧",
+    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt",
+    "summary": "多项民调显示美国公众对 AI 的疑虑加深：52% 的人对 AI 融入日常生活\"担忧多于兴奋\"，高于 2021 年的 37%；超 70% 认为 AI 发展过快。科技公司因数据中心建设面临公关危机，被迫提供就业保障、清洁水投资等地方优惠。Anthropic CEO Dario Amodei 承认负面认知是\"信任危机\"，并指 AI 公司尚未兑现造福世界的重大承诺。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月20日3时11分"
+  },
+  {
+    "id": "cmt0grlo604f8ro2olfe009pz",
+    "title": "Replit 回应品牌重塑呼声",
+    "url": "https://x.com/Replit/status/2090151977237778709",
+    "summary": "ok who told you",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月20日3时0分"
+  },
+  {
+    "id": "cmt0he5pq04q2ro2ojil0908q",
+    "title": "Google 搜索推出 5 项 AI 学习工具",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+    "summary": "Google 在搜索中推出 5 项 AI 学习工具。AI Mode 的生成式 UI 已全球上线英文版，支持交互式可视化与自定义模拟；练习测验现已在 AI Overviews 和 AI Mode 中免费提供英文版，覆盖 ACT、SAT 等标准化考试。",
+    "source": "Google Blog：AI（RSS）",
+    "date": "2026年8月20日3时0分"
+  },
+  {
+    "id": "cmt0hd13r04oqro2owo1mk7st",
+    "title": "Google 为 Search 和 Gemini 推出全新 AI 学习工具",
+    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
+    "summary": "Google 在 Search 和 Gemini 中推出多项 AI 学习工具，包括 AI 生成的交互式可视化、3D 模拟、定制练习测验和专门的学生中心。Search 的 AI Mode 可根据问题生成交互体验，Lens 将支持拍照解题并给出概念讲解与纠错指导。Gemini 新增多步骤研究报告功能，可在后台生成报告后通过语音讨论，并支持生成可旋转缩放的 3D 模拟。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月20日3时0分"
+  },
+  {
     "id": "cmt0f070p0322ro2oop2fm4jb",
     "title": "Kim 感谢 Axios 报道 X AI 团队",
     "url": "https://x.com/kimmonismus/status/2090138817780932815",
@@ -13870,6 +13942,14 @@
     "summary": "TrueFoundry 发布开源智能体框架 TrueForge（MIT 许可），可本地一键部署，支持 OpenAI、Anthropic、Google 及 Kimi、GLM、DeepSeek 等开源模型。",
     "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
     "date": "2026年8月20日2时5分"
+  },
+  {
+    "id": "cmt0he6dt04q4ro2oya4f6ja8",
+    "title": "美国多机构警告：攻击者正用AI构建针对西门子PLC的利用脚本",
+    "url": "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn",
+    "summary": "美国NSA、CISA、FBI等机构联合警告，攻击者正使用AI生成针对西门子S7可编程逻辑控制器的利用脚本，大幅降低了攻击工业控制系统（ICS）所需的技能水平和时间。AI还使对手能快速利用更多攻击向量并适应防御措施，能源、水务、化工和制造业均受影响。英国AI安全研究所的模拟中，模型尚无法独立入侵运营技术（OT）系统，但卡在了其前的IT系统上。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月20日2时55分"
   },
   {
     "id": "cmt0g1scw03utro2o882nithw",
@@ -13917,6 +13997,14 @@
     "url": "https://x.com/rohanpaul_ai/status/2090148040136884303",
     "summary": "IBM 新论文提出 BenchDrift 审计框架，通过在不改变答案的前提下系统改写同一问题，衡量模型分数因措辞产生的波动。在 8 个模型和 3 个基准测试中，最佳与最差准确率平均差距达 74.7 个百分点，且更强模型受影响更大。即便在最高置信度区间，改写后仍有 18.5% 的正确回答丢失。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日2时45分"
+  },
+  {
+    "id": "cmt0ghu4h047gro2oudrsxzao",
+    "title": "OpenAI 就 Daybreak Blue 访问中断致歉",
+    "url": "https://x.com/OpenAIDevs/status/2090148210031612123",
+    "summary": "OpenAI 因技术问题导致部分用户对 Daybreak Blue 的访问权限失效，需重新验证以恢复访问。受影响用户已收到邮件通知，团队正待命协助。所有用户须在 9 月 1 日前启用高级账户安全（Advanced Account Security）以维持访问权限。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
     "date": "2026年8月20日2时45分"
   },
   {
