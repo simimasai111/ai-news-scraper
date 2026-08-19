@@ -14968,12 +14968,124 @@
     "date": "2026年8月19日1时0分"
   },
   {
+    "id": "cmszui6mc0r8krodph7e905vu",
+    "title": "图谱做 Agent 记忆的三大工程坑及解法",
+    "url": "https://x.com/AYi_AInotes/status/2089986509155729767",
+    "summary": "图谱做 Agent 记忆存在三大工程坑：权限逐跳检查致性能非线性下降、seed 选错导致遍历困于错误子图、高并发下 in-place 修改引发一致性噩梦。解法包括 scope 隔离加 URL allowlist/blocklist、向量检索定位 seed 后再图遍历、以及采用 append-only 时序图配合最终一致性与 as-of 快照语义。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月19日16时3分"
+  },
+  {
+    "id": "cmszue0gg0r67rodplrpyqy9z",
+    "title": "Grok 展示 Odyssey 对话场景花絮",
+    "url": "https://x.com/elonmusk/status/2089994188033306741",
+    "summary": "Odyssey 花絮，由 Grok 想象生成",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月19日16时33分"
+  },
+  {
+    "id": "cmszuuqt60rfyrodpirjsc3ek",
+    "title": "Grok 机器人本周八大趣味用例盘点",
+    "url": "https://x.com/ericzakariasson/status/2089993578248618316",
+    "summary": "以下是本周 8 个非常有趣的 Grok 机器人用例！\n\n1） 把它接到扫地机器人上，发短信让 Grok 告诉它该清理哪里",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月19日16时31分"
+  },
+  {
+    "id": "cmszun6i50rc5rodpc1p00j0s",
+    "title": "ChatGPT Ads 下周扩展至 31 个欧洲国家",
+    "url": "https://x.com/kimmonismus/status/2089992904940879998",
+    "summary": "以防你错过：下周，ChatGPT Ads 将扩展至 31 个欧洲国家，包括德国、法国、西班牙、意大利、瑞典、挪威、丹麦、荷兰和奥地利。\n\n看来与欧盟的协议很快就达成了。这意味着任何使用免费版的用户现在都会看到广告。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日16时28分"
+  },
+  {
+    "id": "cmsztrq8q0qfprodplc5xiz66",
+    "title": "小米新一代玄戒芯片即将发布，消息称2025年底回片当天一次点亮成功",
+    "url": "https://www.ithome.com/0/991/685.htm",
+    "summary": "供应链消息称，新一代玄戒芯片2025年底已完成回片，当天一次点亮成功，目前已进入终端实装阶段，即将正式发布。雷军8月18日晚在微博宣布该芯片即将发布，其微博小尾巴已更换为型号未知的神秘新机。此前发布的玄戒O1芯片在三款终端上累计出货量已超百万颗，后续自研芯片还将用于小米汽车。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日16时11分"
+  },
+  {
+    "id": "cmsztrq8q0qfsrodpm561t3pl",
+    "title": "宇树科技科创板上市首日涨 460.34%，庆功宴上沈南鹏与王力宏同席",
+    "url": "https://www.ithome.com/0/991/679.htm",
+    "summary": "8 月 19 日，\"A 股人形机器人第一股\"宇树科技在科创板挂牌上市，当日收盘涨 460.34%，报 845 元 / 股，市值 3417.72 亿元。上市答谢午宴上，董事长王兴兴、红杉中国沈南鹏与歌手王力宏露面，王力宏坐 1 号桌并与沈南鹏相谈甚欢。红杉中国合计持有宇树科技 2589.95 万股，发行后持股比例 6.4%，对应市值约 219 亿元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日16时0分"
+  },
+  {
+    "id": "cmszsyc1p0pt3rodpq65vcg7t",
+    "title": "Vidu S1 助力 360 打造《甄嬛传》数字人新玩法",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489072&idx=1&sn=7133cd05a477edeb31417e6545bae14f",
+    "summary": "Vidu 与 360 达成技术合作，以自研 Vidu S1 实时交互视频生成模型为底层支撑，落地「甄嬛 360 传粉丝见面会」线上 H5 活动，支持用户与甄嬛、华妃等十位剧中角色进行实时对话。该模型支持 1 分钟至 2 小时持续无损渲染、秒级响应及百余种语言与方言，并提供 SaaS、MaaS 两种轻量化接入方案。",
+    "source": "公众号：生数科技（Vidu·视频）",
+    "date": "2026年8月19日15时55分"
+  },
+  {
+    "id": "cmsztrq8q0qftrodpbtaac8py",
+    "title": "全球首项钢铁行业智能制造国际标准发布，我国牵头制定",
+    "url": "https://www.ithome.com/0/991/676.htm",
+    "summary": "我国牵头制定的全球首项钢铁行业智能制造领域国际标准《钢铁行业智能制造指南》近日发布，由我国专家担任项目负责人，日本、荷兰、法国等多国专家联合研制。该标准围绕智能设计、智能装备、智能生产三大方向，覆盖产品研发设计、生产工艺设计两大模块，并细化生产计划、智能质量管控、设备智能运维等六大功能模块的实施指引，为全球钢铁企业智能工厂改造提供统一参考规范。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日15时55分"
+  },
+  {
+    "id": "cmsztrq8q0qfvrodpi8ghf0ud",
+    "title": "奇瑞旗下墨甲机器人筹划独立 IPO，瞄准海外警用、服务市场",
+    "url": "https://www.ithome.com/0/991/667.htm",
+    "summary": "奇瑞旗下墨甲机器人已启动IPO筹备，正与多个潜在上市地点磋商，计划明年全球交付1万台人形机器人。该公司目前累计交付超3000台，其中2000台销往海外，业务覆盖60多个国家和地区。墨甲已推出人形警务机器人，110台在中国多城市投入使用，并计划重点拓展海外警用、服务及陪伴机器人市场。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日15时51分"
+  },
+  {
+    "id": "cmsztkl500qd4rodpfj8c9zun",
+    "title": "ChatGPT 广告平台将扩展至 31 个欧洲国家",
+    "url": "https://x.com/testingcatalog/status/2089983132552343842",
+    "summary": "OpenAI 计划下周将 ChatGPT 广告平台扩展至 31 个欧洲国家，包括德国、法国、西班牙、意大利、瑞典、挪威、丹麦、荷兰和奥地利。广告目前仅向 Free 和 Go 用户展示，以独立组件形式出现在答案下方，广告主也将获得该广告平台的访问权限。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月19日15时49分"
+  },
+  {
+    "id": "cmsztrq8q0qfwrodppi71tkg3",
+    "title": "小米新一代人形机器人预览：双足、1.7 米左右、全身 66 个自由度",
+    "url": "https://www.ithome.com/0/991/662.htm",
+    "summary": "小米新一代人形机器人将在2026世界机器人大会（WRC）上首次面向公众亮相，身高约1.70米、体重66公斤，全身66个自由度，其中一半集中在手部。该机器人已在小米汽车工厂完成为期4个月的产线\"实习\"，螺母上件作业成功率提升至98%，并配套自研Xiaomi-Robotics系列具身基座模型。目前仍为样机阶段，国内首展后将在欧洲展出。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日15时47分"
+  },
+  {
     "id": "cmszslgao0pddrodpc7ksut6w",
     "title": "算法工程师用 MiniCPM-o 4.5 打造全双工陪伴机器人 YRobot",
     "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499031&idx=1&sn=120a58b237d16a7b485baabe3dee84f0",
     "summary": "算法工程师颜鑫基于本地部署的 MiniCPM-o 4.5，打造了能同时看、听、说并在对话重叠区捕捉情绪的全双工桌面陪伴机器人 YRobot。MiniCPM-o 4.5 在 Daily-Omni 全模态理解上获 80.2 分，反超 Gemini 2.5 Flash 的 79.3；INT4 量化后内存占用仅 11GB，实时率 0.20。YRobot 的模型、硬件与代码已全部开源。",
     "source": "公众号：面壁智能（MiniCPM）",
     "date": "2026年8月19日15时43分"
+  },
+  {
+    "id": "cmsztrq8q0qfxrodp4mx5r046",
+    "title": "我国首个AI客服国标9月1日实施：规范人工与智能客服协同流程",
+    "url": "https://www.ithome.com/0/991/661.htm",
+    "summary": "我国首个聚焦人工客服与智能客服协同机制的国家标准《顾客联络服务 人工与智能客户服务协同要求》将于9月1日起实施，明确要求人工客服入口清晰、简单问题交给AI、复杂纠纷及时流转人工，且不得让消费者反复复述问题。该标准为推荐性国标，将作为行业重要判断标准推动企业提升客户服务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日15时41分"
+  },
+  {
+    "id": "cmsztrq8q0qfyrodpnicz99nb",
+    "title": "Momenta 联合新芯航途与 QNX 打造量产级自动驾驶平台",
+    "url": "https://www.ithome.com/0/991/660.htm",
+    "summary": "Momenta 与新芯航途、BlackBerry QNX 达成合作，共同打造面向量产的全球安全标准自动驾驶平台。该方案整合 Momenta 全栈算法、新芯航途车规级 SoC 芯片 X7 及基于 QNX SDP 8.0 的安全操作系统，已通过 ISO 26262 ASIL D 认证，满足欧洲 UN R171 准入要求，将面向全球车企开放。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日15时41分"
+  },
+  {
+    "id": "cmszt2bm40pxurodpsb1q0a24",
+    "title": "Kimi Work 金融分析师教程第二期",
+    "url": "https://x.com/Kimi_Moonshot/status/2089979521412034787",
+    "summary": "Kimi Work 金融分析师教程 - 第二期\n\n用 Kimi Work 完成 3 项常见投研任务：\n- 搭建实时投资者仪表盘\n- 更新电子表格中的财务模型\n- 批量处理并生成报告\n\n敬请期待更多 Kimi Work 工作流！",
+    "source": "X：Kimi.ai (@Kimi_Moonshot)",
+    "date": "2026年8月19日15时35分"
   },
   {
     "id": "cmszsi0e50pbsrodpqi1813tv",
@@ -14990,6 +15102,30 @@
     "summary": "Anthropic 表示，在 95% 的使用场景下，Claude Desktop 的后台启动速度比 1 个月前快了约 2 倍，即使窗口隐藏也能全速启动。此外，在 99% 使用场景下，Claude Code CLI 的 CPU 占用率降至约 1/2，优化归功于调整 Bun 的回收机制，使其在进程空闲时再启动。",
     "source": "IT之家（RSS）",
     "date": "2026年8月19日15时2分"
+  },
+  {
+    "id": "cmsztezac0q8prodp42erfk38",
+    "title": "Y Transformers：当Paper遇见Partner，AI还有多少种Possibility？",
+    "url": "https://elsewhere.news/zh/yunqipartners/paperpartneraipossibility-y-transformers",
+    "summary": "Y Transformers活动汇聚全球青年研究者与AI创业者，围绕技术、资本、产品展开交流，探讨AI时代的选择与可能性。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月19日15时2分"
+  },
+  {
+    "id": "cmsztrq8q0qg0rodp94epk18i",
+    "title": "宇树科技上市首日收涨460%，中一签浮盈近35万元",
+    "url": "https://www.ithome.com/0/991/657.htm",
+    "summary": "宇树科技今日登陆科创板，收盘报845元/股，上涨460.34%，市值超3418亿元，中一签账面浮盈约34.93万元。该公司2025年人形机器人出货量超5500台居全球第一，2026年上半年归母净利润2.74亿元扭亏为盈。创始人王兴兴身家突破千亿元，DeepSeek、顺为资本、美团系等机构合计浮盈逾496亿元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日15时29分"
+  },
+  {
+    "id": "cmsztrq8r0qg2rodpb95nc7ar",
+    "title": "9.8 万元起，国产情感交互人形机器人\"爱湫\"发售",
+    "url": "https://www.ithome.com/0/991/653.htm",
+    "summary": "四川具身人形机器人科技有限公司的情感交互人形机器人\"爱湫\"今日发售，定价 9.8 万元起。该机器人采用龙蜥外形，研发全球首个\"情感-语言-动作\"大模型（ELA），结合自研多模态情感计算引擎构建情绪感知与交互决策能力。爱湫配备 3D 超短焦投影面部，身高 135mm，最高 32 个自由度，可选三指、五指灵巧手，续航 3 小时。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日15时27分"
   },
   {
     "id": "cmszspjah0pfrrodpub9m9tf4",
