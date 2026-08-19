@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt0p4w7r0be0ro2ow79t4rtd",
+    "title": "引用 Jeremy Morrell：LLM 时代可扩展软件的新机遇",
+    "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell",
+    "summary": "Jeremy Morrell 提出，LLM 时代为 Web 可扩展软件带来新机遇：LLM 大幅降低扩展的编写成本，现代沙箱原语降低部署成本并提供良好安全边界。开发者可将应用构建为稳固、可问责的核心，让用户借助 LLM 安全地扩展其功能。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月20日6时56分"
+  },
+  {
+    "id": "cmt0p4w7r0be1ro2oozxy0xss",
+    "title": "概念完整性与代码行数：Simon Willison 谈 AI 如何改变软件开发",
+    "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code",
+    "summary": "Simon Willison 在 Talking Postgres 播客中与 Claire Giordano 讨论 AI 如何改变软件开发。他认为，在智能体辅助下，代码行数仍是衡量生产力的有效指标--工程师日产出可从 50-60 行提升至千行，但真正的瓶颈变为认知容量，因此团队仍需多人分担。他还以\"温彻斯特神秘屋\"比喻智能体编码导致软件\"概念完整性\"丧失的风险，强调纪律的重要性。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月20日6时46分"
+  },
+  {
+    "id": "cmt0ouxcz0b44ro2ooitrq388",
+    "title": "Nathan Lambert 将首次指导 MATS 学员",
+    "url": "https://x.com/natolambert/status/2090208650103001528",
+    "summary": "我想这会是我指导的第一期 MATS 学员！我认识了很多优秀的 MATS 校友，很期待能做出贡献。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月20日6时45分"
+  },
+  {
+    "id": "cmt0ouxcs0b42ro2owrxorjb7",
+    "title": "MiniMax 助力 AI 网红一周百万观看",
+    "url": "https://x.com/MiniMax_AI/status/2090207945221112256",
+    "summary": "一周内观看量达 100 万 🫨\n\n这是 AI 如何重塑内容创作的绝佳例证。很高兴看到 MiniMax 帮助这个 AI 角色活了起来 👩🍳💫",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月20日6时43分"
+  },
+  {
+    "id": "cmt0onezm0b0kro2o029f31rs",
+    "title": "Stripe CEO：2026 Q1 或为\"奇点\"首季",
+    "url": "https://x.com/rohanpaul_ai/status/2090207789176271081",
+    "summary": "Stripe CEO Patrick Collison 称\"奇点\"已开始，AI 正改变长期经济趋势，并预计 2026 Q1 将被视为\"奇点的第一个季度\"。公司自 2026 年 1 月 1 日起以此作为投资与应对不确定性的运营前提。Stripe 上半年营收同比增长 41%，自由现金流增长 43%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日6时42分"
+  },
+  {
     "id": "cmt0oihgc0axbro2ozerbmpox",
     "title": "代码库垃圾代码呈指数增长阈值论",
     "url": "https://x.com/dexhorthy/status/2090206415021572379",
