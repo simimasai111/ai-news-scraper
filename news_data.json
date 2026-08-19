@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt0mpz9z08llro2oxjfiljws",
+    "title": "Cognition CEO否认SpaceX曾试图收购该AI编程初创公司",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup",
+    "summary": "SpaceX据称曾试图收购AI编程初创公司Cognition，以追赶OpenAI、Anthropic和Google。Cognition CEO Scott Wu随即否认，称报道不准确且公司\"不卖\"。此前SpaceX刚以600亿美元收购了另一家AI编程公司Cursor，并与xAI合并后于6月IPO，市值峰值近2.3万亿美元。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月20日5时51分"
+  },
+  {
     "id": "cmt0ln7du07sqro2og7hpux8j",
     "title": "MiniMax 祝贺 TrueFoundry 发布 TrueForge",
     "url": "https://x.com/MiniMax_AI/status/2090183129369833656",
@@ -13856,12 +13864,44 @@
     "date": "2026年8月20日5时4分"
   },
   {
+    "id": "cmt0mqceo08lzro2o6xi3rlk4",
+    "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "summary": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月20日5时42分"
+  },
+  {
     "id": "cmt0ln7df07snro2o5zdhlf9g",
     "title": "OpenAI DevDay Exchange 今秋登陆八城",
     "url": "https://x.com/jxnlco/status/2090182966735454553",
     "summary": "OpenAI DevDay Exchange 今秋将来到 8 座城市：班加罗尔、东京、首尔、柏林、巴黎、伦敦、圣保罗和墨西哥城。\n\n来分享你正在构建的内容，并与 OpenAI 团队一起动手实践。\n\n9 月 4 日前申请：https://events.openai.com/devdayexchange2026",
     "source": "X：Jason Liu (@jxnlco)",
     "date": "2026年8月20日5时3分"
+  },
+  {
+    "id": "cmt0mig1608i1ro2o3ly3jyhq",
+    "title": "Meta AI macOS 桌面应用正式发布",
+    "url": "https://x.com/testingcatalog/status/2090189549494321228",
+    "summary": "META 🔥：一款新的 macOS 桌面应用已在部分地区正式发布。\n\n> Meta AI 桌面应用支持屏幕共享，允许用户将特定应用的屏幕作为上下文附加。> 此外，新的听写功能也已上线。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月20日5时29分"
+  },
+  {
+    "id": "cmt0mprmm08lfro2o1omsc8qu",
+    "title": "MiniMax H3 流式视频 LoRA 适配器引热议",
+    "url": "https://x.com/MiniMax_AI/status/2090189053388108166",
+    "summary": "为 MiniMax H3 打造流式视频 LoRA 适配器？这是个大胆的举措，谢谢！😲 但要实现实时生成，还需进一步加速推理。\n\n有人有兴趣参加我们为 H3 举办的线上黑客松吗？\n\n欢迎任何想法！",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月20日5时27分"
+  },
+  {
+    "id": "cmt0mqceo08m0ro2o9e9803lm",
+    "title": "Unsloth Dynamic 3.0 GGUFs 发布",
+    "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+    "summary": "Unsloth 推出 Dynamic 3.0 GGUFs，在 Hacker News 上获得 103 点热度。该版本为量化模型文件格式，旨在提升本地推理效率与兼容性。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月20日5时26分"
   },
   {
     "id": "cmt0l1xde07iyro2opps4nph9",
