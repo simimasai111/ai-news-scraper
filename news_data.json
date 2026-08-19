@@ -13848,12 +13848,60 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt0bnjl6187wrodp3fyzilxm",
+    "title": "生产级智能体成本剖析：非LLM组件主导延迟",
+    "url": "https://x.com/dair_ai/status/2090117595907383672",
+    "summary": "DAIR.AI 推荐一篇关于生产级智能体成本分析的重要论文。研究发现，在十个被观测的智能体应用中，非 LLM 组件在五个应用中主导了延迟。论文提出任务感知服务可将延迟降低 29-40%，状态卸载可减少 4.6 倍内存，工具结果缓存可消除 35.2% 的冗余搜索调用。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月20日0时44分"
+  },
+  {
+    "id": "cmt0axeln17gsrodp993ckrmw",
+    "title": "独立机构应全程监督前沿模型训练",
+    "url": "https://x.com/natolambert/status/2090107259875434903",
+    "summary": "Nathan Lambert 呼吁建立独立组织，获取前沿模型训练全程细节以进行监督，而非仅在事故发生后介入。他肯定 OpenAI 主动分享信息，但认为安全的关键在于更多信任与更多监督。此前 OpenAI CEO Sam Altman 宣布暂停部分前沿 RL 训练，以确保对齐、安全与监控标准跟上能力快速提升。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月20日0时2分"
+  },
+  {
+    "id": "cmt0bjadv1859rodp4lor4j6d",
+    "title": "马斯克力荐 Grok Build：可独立完成复杂工作流",
+    "url": "https://x.com/elonmusk/status/2090113937127969180",
+    "summary": "马斯克发推推荐 Grok Build 用于严肃工作。引用推文展示其能力：用户用它自动汇总 2026 年迄今全部 100 次 SpaceX 发射，自动整理日期、任务与图片并生成图表，将原本数小时的人工研究编排工作大幅简化。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月20日0时29分"
+  },
+  {
+    "id": "cmt0bsg3o18b8rodpqw6fx8m1",
+    "title": "OpenAI 免费开放 GPT-5.6 Luna 引热议",
+    "url": "https://x.com/kimmonismus/status/2090111297039765703",
+    "summary": "OpenAI 凭借 5.6 Luna 取得重大胜利，不仅是在公关层面，还在于其效率使得像这样向所有人免费提供服务成为可能。\n\nLuna 既便宜，又在多项任务上表现良好（足够好）。我仍然觉得印象深刻的是，这样一个不久前还堪称最先进的模型，如今竟被免费提供。\n\n【引用 @Replit】：Replit 免费模式，由 @OpenAI GPT-5.6 Luna 驱动。\n\n让我们让智能惠及每一个人。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月20日0时19分"
+  },
+  {
+    "id": "cmt0ax2c817frrodp5i1lnewq",
+    "title": "特斯拉 Robotaxi 撞穿路障后继续行驶，此前高管宣称安全记录\"无可挑剔\"",
+    "url": "https://www.ithome.com/0/991/865.htm",
+    "summary": "特斯拉一辆无人驾驶 Robotaxi 在奥斯汀行驶时，系统识别到障碍物后仍撞穿塑料隔离柱并继续行驶，车内乘客拍下全过程，无人员受伤。特斯拉 AI 副总裁 Ashok Elluswamy 7 月 22 日称 Robotaxi 已在两州 6 城完成超 38 万英里无人监督行驶，安全记录\"无可挑剔\"。作为对比，Waymo 累计完成超 2.2 亿英里无安全员载客行驶，特斯拉里程不足其 0.2%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日0时14分"
+  },
+  {
     "id": "cmt0apv7i17d3rodpg57jmeay",
     "title": "Rohan Paul：AI 文本终将无法与人类写作区分",
     "url": "https://x.com/rohanpaul_ai/status/2090109233283096692",
     "summary": "Rohan Paul 认为，随着模型提供商（OpenAI/Anthropic）的水印技术普及，机器写作将逐渐成为统计意义上的普通写作，仅凭文本风格检测将无法可靠识别其来源。他引用新 AI 实验室 Deft 的发布，称其模型写作旨在更好而非欺骗检测器，目前 86% 的用户查询被判定为完全人类写作。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月20日0时10分"
+  },
+  {
+    "id": "cmt0bd90e17xyrodpl457pxr2",
+    "title": "Databricks 如何从单一提示词设计高效的 Genie Agents",
+    "url": "https://www.databricks.com/blog/designing-effective-genie-agents-single-prompt",
+    "summary": "Databricks 发布指南，探讨如何从单一提示词设计高效的 Genie Agents。文章指出，通用智能体在处理收入等查询时，往往只会抓取第一个相关数据表，而 Genie Agents 通过更精准的提示词设计，能更准确地定位和回答用户问题。该指南旨在帮助开发者优化智能体行为，提升查询结果的准确性和相关性。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月20日0时0分"
   },
   {
     "id": "cmszgpmpd0d8frodph5x2ry30",
