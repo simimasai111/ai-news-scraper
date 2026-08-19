@@ -14848,6 +14848,94 @@
     "date": "2026年8月19日2时0分"
   },
   {
+    "id": "cmt08kptp15eorodp5ol377ea",
+    "title": "PostHog 前核心工程师加入 Viktor，AI 人才争夺加剧",
+    "url": "https://x.com/omarsar0/status/2090092567333335296",
+    "summary": "DAIR.AI 创始人 Elvis Saravia 指出，PostHog 不仅营收增长迅猛，还在积极招募顶尖人才。PostHog 第 5 号员工、AI 产品负责人 Michael Matloka 正式加入 Viktor，Saravia 称其为\"超级 hires\"，并认为这印证了 PostHog 的成功。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月19日23时4分"
+  },
+  {
+    "id": "cmt08kptx15eqrodpqab0zmjq",
+    "title": "特拉维斯·卡兰尼克谈\"进步机器\"与\"最终 Boss\"",
+    "url": "https://x.com/rohanpaul_ai/status/2090092001853415788",
+    "summary": "优步创始人特拉维斯·卡兰尼克在 a16z 对谈中提出，公司应打造\"进步机器\"，核心是发现他人不知的有价值真相，从而更快带来改变。他认为进步的\"最终 Boss\"是变革阻力，需以压倒性的进步推动变革。他同时介绍其工业 AI 公司 Atoms，将制造、地产和物流视为物理世界的 CPU、存储与网络。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日23时2分"
+  },
+  {
+    "id": "cmt08zs1015nerodpvt54a2zu",
+    "title": "蚂蚁百灵开源 Ling-3.0 六个基础模型检查点",
+    "url": "https://x.com/AntLingAGI/status/2090097017456590879",
+    "summary": "蚂蚁百灵开源 Ling-3.0-tiny 与 Ling-3.0-flash 的 6 个 Base Model 检查点，覆盖预训练、中期训练及 WSM 合并阶段，均未经过后训练。其用 WSM 替代 LR 衰减进行加权检查点合并，支持持续预训练与离线策略探索；社区可在 tiny-base 上验证策略后扩展至 flash-base。",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月19日23时22分"
+  },
+  {
+    "id": "cmt091q6r15oarodpt43t76f3",
+    "title": "Grok 4.6 登陆 Amazon Bedrock",
+    "url": "https://x.com/milichab/status/2090096415003337028",
+    "summary": "Grok 4.6 现已在 Amazon Bedrock 上可用。",
+    "source": "X：Andrew Milich (@milichab)",
+    "date": "2026年8月19日23时19分"
+  },
+  {
+    "id": "cmt08zs2315ngrodp6xn0g1sy",
+    "title": "Grok 4.6 登陆 Amazon Bedrock",
+    "url": "https://x.com/SpaceXAI/status/2090096322858660260",
+    "summary": "Grok 4.6 已在 Amazon Bedrock 上线\n\nhttps://x.ai/news/grok-4-6-amazon-bedrock",
+    "source": "X：SpaceXAI (@SpaceXAI)",
+    "date": "2026年8月19日23时19分"
+  },
+  {
+    "id": "cmt08kptd15ekrodp1sl8vttt",
+    "title": "Grok 4.6 登陆 Amazon Bedrock",
+    "url": "https://x.com/cb_doge/status/2090095646535754100",
+    "summary": "Grok 4.6 旗舰模型现已上线 Amazon Bedrock，支持 500K-token 上下文窗口、文本与图像输入，以及 Low 至 xHigh 四档可配置推理强度。该模型面向长时运行智能体、编程与知识工作，提供客户端工具调用、结构化输出及流式响应。定价为全球区域每百万 token 输入 $2、输出 $6、缓存读取 $0.50，覆盖所有提供 Bedrock 的 AWS 区域。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月19日23时16分"
+  },
+  {
+    "id": "cmt08rw8v15gvrodpwsnfjfbg",
+    "title": "亚马逊 Alexa+ 免费登陆全美所有受支持 Fire TV，原价 19.99 美元/月",
+    "url": "https://www.ithome.com/0/991/859.htm",
+    "summary": "亚马逊宣布向美国所有兼容的 Fire TV 设备免费提供 Alexa+，不论用户是否订阅 Amazon Prime，兼容设备将自动升级，无需额外下载或订阅。此前未订阅 Prime 的用户需每月支付 19.99 美元，且服务仅限去年秋季发布的新款设备。Alexa+ 在 Fire TV 上提供对话式搜索、智能家居控制和 AI 推荐，用户对话次数已接近原版 Alexa 的两倍。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日23时15分"
+  },
+  {
+    "id": "cmt08rw8v15gxrodpuh89hnqs",
+    "title": "字节跳动调整 Seed 基模团队组织架构，为 5 万亿参数超大模型\"铺路\"",
+    "url": "https://www.ithome.com/0/991/856.htm",
+    "summary": "字节跳动大模型部门 Seed 完成新一轮组织调整，成立 Pretrain Data、Horizon RL、Product Posttrain-Work、Product Posttrain-Chat 四个新一级部门，负责人均向吴永辉汇报。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日23时0分"
+  },
+  {
+    "id": "cmt08xs0x15ltrodpszl1xtai",
+    "title": "Odyssey 推出 CaliBench 评估视频世界模型随机性",
+    "url": "https://x.com/odysseyml/status/2090091652279152972",
+    "summary": "今天，我们推出 CaliBench，用于评估视频世界模型能否再现我们宇宙的真实随机性。\n\n掷骰子或抽张牌，世界模型生成的结果应当与现实相符。来看看它是否做到吧！",
+    "source": "X：Odyssey (@odysseyml)",
+    "date": "2026年8月19日23时0分"
+  },
+  {
+    "id": "cmt08kpsy15eirodptf283a04",
+    "title": "阿里云直播：Qwen3 模型家族发布",
+    "url": "https://x.com/alibaba_cloud/status/2090091496414613566",
+    "summary": "https://x.com/i/broadcasts/1RKjpbDbYZaJw",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月19日23时0分"
+  },
+  {
+    "id": "cmt08sc1h15j7rodpgfkjz5kc",
+    "title": "Amazon 将 AI 助手 Alexa+ 免费推向 Fire TV，无需 Prime 订阅",
+    "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required",
+    "summary": "Amazon 宣布将 AI 助手 Alexa+ 免费推送到美国所有兼容 Fire TV 设备，用户无需 Prime 订阅。此前非 Prime 用户需每月支付 $19.99，现在所有用户将自动升级，无需下载应用或订阅。Alexa+ 支持对话式搜索、智能家居控制及 AI 推荐，Amazon 称其用户与 Alexa 的对话次数已接近原来的两倍。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月19日23时0分"
+  },
+  {
     "id": "cmt06n5dz13o9rodp7g1hftlt",
     "title": "Calendly 推出会议记录工具，加入 AI 笔记应用竞争",
     "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus",
@@ -14888,6 +14976,30 @@
     "date": "2026年8月19日22时5分"
   },
   {
+    "id": "cmt07x7gd1509rodp5565wtn7",
+    "title": "Runway 上线 MiniMax H3 无限量生成",
+    "url": "https://x.com/runwayml/status/2090090516151243063",
+    "summary": "MiniMax H3 现已在 Runway 上无限量使用。\n\n限时活动期间，Max 套餐用户可随心所欲地生成内容，无上限、不计数，尽情使用这款目前最优秀的视频模型之一。点击下方链接立即开始。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月19日22时56分"
+  },
+  {
+    "id": "cmt07wtt614zgrodpz471ivhb",
+    "title": "GPT-5.6 Sol 在 OpenCode Zen 五折促销",
+    "url": "https://x.com/opencode/status/2090090487164117440",
+    "summary": "GPT-5.6 Sol 在 OpenCode Zen 上五折优惠，截至 9 月 18 日。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月19日22时56分"
+  },
+  {
+    "id": "cmt08kpu515esrodpil4l65n3",
+    "title": "Ornith-1.5 开源模型家族发布，对标 Opus 4.8",
+    "url": "https://x.com/testingcatalog/status/2090088727359951152",
+    "summary": "Ornith 发布 Ornith-1.5 开源模型家族，含 397B MoE、35B MoE 和 9B dense 三个版本，性能对标 Claude Opus 4.8 和 GLM 5.2。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月19日22时49分"
+  },
+  {
     "id": "cmt07q43614ozrodp6erwh318",
     "title": "Show HN：modelmap 将任意 HuggingFace 模型可视化为交互式动画架构",
     "url": "https://modelmap.cc/",
@@ -14896,12 +15008,28 @@
     "date": "2026年8月19日22时46分"
   },
   {
+    "id": "cmt08rw8v15gzrodps83lcoku",
+    "title": "皮尤调查：美国 30 岁以下成年人首次过半对 AI 担忧多于期待，近四分之三认为 AI 会减少就业机会",
+    "url": "https://www.ithome.com/0/991/853.htm",
+    "summary": "皮尤研究中心调查显示，自 2021 年开始调查以来，首次有超过半数的美国 30 岁以下成年人对 AI 的担忧多于期待，近四分之三认为 AI 会减少就业机会，高于两年前的 61%。最年轻群体过去最看好 AI，如今却成为最怀疑的人群之一。超过一半美国人对 AI 感到担忧，而经验越丰富的劳动者越可能从 AI 中获益。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日22时43分"
+  },
+  {
     "id": "cmt07d5vq14ggrodp36m90mel",
     "title": "把船开到深处 下网打鱼",
     "url": "https://x.com/lifesinger/status/2090086526281777206",
     "summary": "把船开到深处 下网打鱼\n\n【引用 @83dwn】：https://x.com/i/article/2089923422935564288",
     "source": "X：Frank Wang 玉伯 (@lifesinger)",
     "date": "2026年8月19日22时40分"
+  },
+  {
+    "id": "cmt07wtt614zhrodpwpmqpqpp",
+    "title": "OpenCode Go 订阅 Hy3 额度翻八倍",
+    "url": "https://x.com/opencode/status/2090085655397216526",
+    "summary": "Hy3 在 8 月 30 日前将获得 8 倍于正常额度的使用量\n\n即 10 美元获得 480 美元的使用额度\n\n所有 OpenCode Go 订阅用户均可享受",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月19日22时37分"
   },
   {
     "id": "cmt07i4id14kbrodp2pxhmoh9",
