@@ -13848,6 +13848,150 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmszfukl80cdzrodp87os82gp",
+    "title": "Optima 平台上线：自建模型基准测试",
+    "url": "https://x.com/ArtificialAnlys/status/2089892938360979763",
+    "summary": "上周我们推出了 Optima，一个全新的平台，用于在您自己的工作负载上对模型进行基准测试，并比较性能、速度和成本效率。\n\n观看我们的新视频演示，了解如何使用 Optima 构建和运行您自己的基准测试，并找到最适合您用例的模型。\n\n立即在 https://artificialanalysis.ai/optima 开始构建您的基准测试。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月19日9时51分"
+  },
+  {
+    "id": "cmszflwe80c8mrodpway7bvez",
+    "title": "Introducing Cerebras CS-4： The Fastest AI Just Got Faster. Built for Hyperscale.",
+    "url": "https://www.cerebras.ai/blog/introducing-cerebras-cs-4-the-fastest-ai-just-got-faster-built-for-hyperscale",
+    "summary": null,
+    "source": "Cerebras：Blog（网页）",
+    "date": "2026年8月19日9时47分"
+  },
+  {
+    "id": "cmszflwe80c8lrodpr5jw5zyg",
+    "title": "Introducing CS-4： The Fastest AI Accelerator in the Industry Learn more >>",
+    "url": "https://www.cerebras.ai/blog/introducing-cerebras-cs-4",
+    "summary": null,
+    "source": "Cerebras：Blog（网页）",
+    "date": "2026年8月19日9时47分"
+  },
+  {
+    "id": "cmszgbx6o0czwrodpo70h0kxt",
+    "title": "Codex 修复 GPT-5.6 误删用户文件风险",
+    "url": "https://x.com/thsottiaux/status/2089891927659585918",
+    "summary": "OpenAI 修复了 Codex 中 GPT-5.6 可能执行破坏性操作的问题，最严重的是清理临时文件时误删用户文件。现已增加多层防护：明确指令检查删除目标、强化高风险命令审查、收紧 Full access 权限并更新 Auto-review。回放评估显示改动大幅降低风险，同时保留正常编码能力。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月19日9时47分"
+  },
+  {
+    "id": "cmszfn1qr0ca7rodps9ke0s11",
+    "title": "斯坦福研究：排行榜难测智能体真实可靠性",
+    "url": "https://x.com/rohanpaul_ai/status/2089891096113664090",
+    "summary": "斯坦福新论文发现，企业智能体基准测试中，不到3%的分数差异源于智能体本身，7-23%来自智能体与具体任务的交互。在τ2-bench最难任务上，可靠性从0.752骤降至0.000；50组训练/测试分割中，预测可靠性与实际可靠性相关系数为r=-0.90。排行榜看似精确，却难指导实际工作流选择。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日9时44分"
+  },
+  {
+    "id": "cmszeb2mx0b3srodpef1ub0j0",
+    "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+    "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
+    "source": "公众号：智谱（GLM）",
+    "date": "2026年8月19日9时3分"
+  },
+  {
+    "id": "cmszf6dav0bumrodpdnxpn242",
+    "title": "商汤与沙特机构共建AI校车平台",
+    "url": "https://x.com/SenseTime_AI/status/2089887926767464692",
+    "summary": "商汤与沙特公共投资基金合资企业SenseTimeMEA，携手沙特国家机构开发AI驱动的全国校车数字平台，服务超120万中小学生。平台提供智能调度、安全监控、多方协同及数据驱动决策，契合沙特2030愿景。",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "date": "2026年8月19日9时31分"
+  },
+  {
+    "id": "cmszfn1qr0ca8rodprl2y16sm",
+    "title": "皮尤：美国年轻人AI失业焦虑两年激增12个百分点",
+    "url": "https://x.com/rohanpaul_ai/status/2089886083970654509",
+    "summary": "皮尤研究显示，美国30岁以下人群预期AI导致失业的比例两年内从61%升至73%，涨幅居各年龄段之首，已与30-64岁群体基本持平。该群体中首次有多数人（55%）对AI担忧多于兴奋。仅5%的美国成年人认为AI将创造更多就业。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日9时24分"
+  },
+  {
+    "id": "cmszerhzy0bcsrodpmlaentkx",
+    "title": "微软 Copilot AI 漏洞被披露：恶意链接绕过用户确认窃取隐私数据",
+    "url": "https://www.ithome.com/0/991/423.htm",
+    "summary": "安全公司 Varonis 披露微软 Copilot 存在安全漏洞，攻击者可通过 `？autorun=1` 参数配合 `？q=` 构造恶意链接，绕过用户确认自动执行提示词。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日9时20分"
+  },
+  {
+    "id": "cmszerhzy0bcurodp392pnlld",
+    "title": "Cerebras 推出 WSE-3 Turbo 芯片与 CS-4 系统：10 倍词元容量、2 倍速度",
+    "url": "https://www.ithome.com/0/991/418.htm",
+    "summary": "Cerebras 发布新一代芯片 WSE-3 Turbo 及基于该芯片的 CS-4 系统，与上代 CS-3 相比带来 10 倍词元容量和 2 倍速度。CS-4 在 OpenAI GPT-OSS 模型上词元交付速度达 4465 Token/s，是 GPU 方案的 30 倍，较 CS-3 提升 93%。该硬件基于全新 Nexus 机架式平台，组件数量减少 50%，并原生支持推理负载拆分。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日9时12分"
+  },
+  {
+    "id": "cmszerhzy0bcvrodp5kulzpex",
+    "title": "智谱 GLM-5.3 API 上线，AA 指数 60 分并列开源模型第一，权重下周五开源",
+    "url": "https://www.ithome.com/0/991/417.htm",
+    "summary": "智谱今日宣布 GLM-5.3 API 正式上线，在 Artificial Analysis 综合智能指数中取得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰同级，并与 Kimi K3 并列开源模型第一。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日9时10分"
+  },
+  {
+    "id": "cmszerhzz0bcyrodpr5jjn572",
+    "title": "OpenAI 二季度营收 67 亿美元环比增 18%，被 Anthropic 反超且亏损扩大",
+    "url": "https://www.ithome.com/0/991/414.htm",
+    "summary": "OpenAI 第二季度营收 67 亿美元，环比增长 18%，但营业亏损从 93 亿美元扩大至 123 亿美元。同期 Anthropic 营收翻倍至 116 亿美元，首次超过 OpenAI，并实现小幅营业利润。ChatGPT 用户增长放缓及 Claude Code 的成功令 OpenAI 承压，公司已更换首席营收官并推出整合 Codex 的\"超级应用\"以扭转局面。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日9时0分"
+  },
+  {
+    "id": "cmszdpjhg0aj1rodp7t7y4ctl",
+    "title": "DesktopFly：基于真实FlyWire连接组的macOS桌面3D果蝇模型",
+    "url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "summary": "DesktopFly是一款运行在macOS桌面上的3D果蝇应用，其行为由真实FlyWire连接组的实时脉冲模拟驱动。它使用FlyWire v783中23，210个真实神经元胞体位置渲染大脑窗口，并以1 kHz的LIF模拟运行一个包含668个神经元、约19，000个真实突触连接的电路。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日8时38分"
+  },
+  {
+    "id": "cmszdpjhg0aj2rodpy16534j3",
+    "title": "Claude Code 教 macOS 原生打印到 HP Laser 1008a 打印机",
+    "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+    "summary": "一段（轻度脱敏的）Claude Code 会话成功为无驱动的 HP Laser 1008a 打印机生成了原生 macOS 驱动，并以 Claude Code 界面呈现。该会话展示了 Claude Code 在系统级硬件兼容问题上的实际解决能力。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日8时38分"
+  },
+  {
+    "id": "cmszdwlzw0asqrodpt2uaau8l",
+    "title": "DFlash 2 本地推理加速引期待",
+    "url": "https://x.com/Yuchenj_UW/status/2089874146633338992",
+    "summary": "DFlash 2 太酷了！\n\n投机解码真是项很酷的技术。\n\n我在等有一天能在 iPhone 上以 100 toks/s 的速度本地运行 1T 模型。\n\n【引用 @zhijianliu_】：DFlash 2 来了！Qwen3.8-27B 在 M5 Max MacBook Pro 上达到 70 tok/s。\n\n⚡ 速度最高可达自回归解码的 4.6 倍，输出结果相同。\n\n这是 DFlash 的下一代版本，源自 Z Lab，在 Inco AI 升级。每次解码多接受一个 token，完全免费！\n\nhttps://inco.ai/blog/dflash2/",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月19日8时36分"
+  },
+  {
+    "id": "cmszdcx0o0abgrodpn7usfxf7",
+    "title": "一起来做可爱头像",
+    "url": "https://x.com/lifesinger/status/2089865452864634952",
+    "summary": "一起来做可爱头像",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月19日8时2分"
+  },
+  {
+    "id": "cmszerhzz0bd1rodpxutrwvnz",
+    "title": "外媒用 Codex 开发 macOS 27 菜单栏电池工具，提高电量可读性",
+    "url": "https://www.ithome.com/0/991/407.htm",
+    "summary": "9to5Mac 编辑扎克·霍尔利用 Codex 制作了一款适用于 macOS 27 Golden Gate 的菜单栏电池工具，可持续显示电池状态和百分比，并提供更清晰的视觉呈现。该工具针对苹果重新设计的电池控件在可读性上的不足，用户可免费下载和安装。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日8时29分"
+  },
+  {
+    "id": "cmszdog0u0ahjrodpn4r914q9",
+    "title": "Perplexity CEO 盛赞开源 RL 框架 Miles v0.1",
+    "url": "https://x.com/AravSrinivas/status/2089869320436527591",
+    "summary": "Perplexity CEO 转发推荐开源 RL 框架 Miles v0.1，该框架专为 LLM 和多模态模型设计，旨在解决 RL 训练调试难、硬件利用效率低等问题。项目历经 9 个月，72 位贡献者完成 1，326 次提交，已在 Kimi K3、DeepSeek V4、Qwen 3.8 等前沿开源模型上验证，并被多家公司用于生产环境。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月19日8时17分"
+  },
+  {
     "id": "cmszcmcbv09ihrodpexnkju7l",
     "title": "AI 辅助撰写提案涌入美国国会：充斥细节错误，拖慢审核进度",
     "url": "https://www.ithome.com/0/991/404.htm",
@@ -13880,12 +14024,36 @@
     "date": "2026年8月19日7时8分"
   },
   {
+    "id": "cmszdcx0b0ab9rodpawuodvyz",
+    "title": "BestBlogs 早报：Claude Tag 与 AVDH 等 AI 动态",
+    "url": "https://x.com/hongming731/status/2089863592795590801",
+    "summary": "BestBlogs 8月19日早报：Anthropic 用 Claude Tag 作为 CI/CD 故障第一响应者，中位 14 分钟给出分析、4 分钟内定位根因；Mandiant 的 AVDH 在仓库失窃响应中两天发现超 100 个真实关键漏洞，促成 12 个 CVE。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月19日7时54分"
+  },
+  {
     "id": "cmszbpswd08zprodpquxnq8iy",
     "title": "唐杰称GLM-5.3 API上线，Artificial Analysis Index达60",
     "url": "https://x.com/jietang/status/2089863061276590184",
     "summary": "Artificial Analysis Index = 60\n\n【引用 @Zai_org】：GLM-5.3 API 现已上线。\n\n- 专为编程、防御性网络安全和长周期智能体任务打造\n- 定价与 GLM-5.2 相同\n- 可通过官方 API 及合作伙伴模型网关使用\n\n开始使用：https://docs.z.ai/guides/llm/glm-5.3",
     "source": "X：唐杰（@jietang）",
     "date": "2026年8月19日7时52分"
+  },
+  {
+    "id": "cmszdcx0b0abarodp95067idg",
+    "title": "BestBlogs 早报：Claude Tag 与 AI Coding 新进展",
+    "url": "https://x.com/hongming731/status/2089861708320034878",
+    "summary": "BestBlogs 8月19日早报精选10篇AI文章：Anthropic 让 Claude Tag 担任 CI/CD 故障第一响应者，中位14分钟给出首份证据分析；字节跳动发布多模态表征模型 DME，在 MMEB-v2 基准上 2B/9B 双量级夺得 SOTA，仅增加亚毫秒级延迟。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月19日7时47分"
+  },
+  {
+    "id": "cmszdcx0b0abbrodpen5410an",
+    "title": "Claude Tag 如何成为 Anthropic CI/CD 故障的第一响应者",
+    "url": "https://x.com/hongming731/status/2089861604523516046",
+    "summary": "Anthropic 的 Claude Tag 担任其 CI/CD 故障第一响应者，事故开启后中位 14 分钟发布首份有证据分析，最快 4 分钟指出根因。系统由记忆、独立服务账户访问、日程和 Markdown Skill 指令四部分构成，告警升级后编排 Agent 启动多个执行 Agent 并行调查并汇总态势报告。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月19日7时46分"
   },
   {
     "id": "cmszc1jy9098nrodpczag3x33",
