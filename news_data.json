@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt0oihgc0axbro2ozerbmpox",
+    "title": "代码库垃圾代码呈指数增长阈值论",
+    "url": "https://x.com/dexhorthy/status/2090206415021572379",
+    "summary": "这人懂行。\n\n【引用 @adam__conway】：我的代码库垃圾代码理论是，存在某个阈值，一旦超过，垃圾代码就会呈指数级增长。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月20日6时36分"
+  },
+  {
+    "id": "cmt0nktpa0a9sro2ois0l5ldc",
+    "title": "TPU 与 Mooncake 集成，优化推理性能",
+    "url": "https://x.com/SemiAnalysis_/status/2090197436614557797",
+    "summary": "TPU🚨 正与流行的开源推理优化库 Mooncake 合作，将 TPU 与 Mooncake Store 集成。与 NVL72 类似，KVCache DRAM P2P 池化最初将通过 TENT 在横向扩展网络上进行，而非使用 ICI/NVLink。🔥 Mooncake 从根本上提升了生产推理的每 TCO 性能！",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月20日6时1分"
+  },
+  {
+    "id": "cmt0nskoo0ac4ro2ohkul4dqb",
+    "title": "OpenAI 推出 Private Safety Processing，以隐私保护策略对标 Anthropic",
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
+    "summary": "OpenAI 预览面向特定客户的新服务 Private Safety Processing，通过自动化智能体跨多会话监控滥用行为，同时不保留客户任何数据。该技术扩大了 Zero Data Retention（ZDR）的范围，旨在检测分散在多轮对话中的恶意用途，无需人工审查。此举直接对标 Anthropic 近期对\"covered models\"保留用户数据 30 天的政策。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月20日6时10分"
+  },
+  {
     "id": "cmt0mpz9z08llro2oxjfiljws",
     "title": "Cognition CEO否认SpaceX曾试图收购该AI编程初创公司",
     "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup",
