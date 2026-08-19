@@ -14968,12 +14968,44 @@
     "date": "2026年8月19日1时0分"
   },
   {
+    "id": "cmszo2qji0jtnrodpww6nid44",
+    "title": "借王昭君解读 AI 时代的表象与真实",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2089941796533187060",
+    "summary": "ZHO 借《红楼梦》中王昭君故事，指出\"表象取代真实\"正是 AI 重塑文明的核心。昭君价值由画工决定，如同今天个人价值被算法、社交媒体等媒介定义。他认为 AI 让人真正读懂红楼的现代性，《五美吟》揭示了从古典到现代的审美结构变迁。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月19日13时5分"
+  },
+  {
     "id": "cmszni6yk0j7nrodprkqanjhz",
     "title": "唐杰谈缩放定律：GLM-5.3 后训练实验",
     "url": "https://x.com/jietang/status/2089941544581403107",
     "summary": "唐杰发文反思缩放定律，指出参数规模需与数据、算力、推理成本等维度协同考量，Chinchilla 最优比例并非终点。他宣布 GLM-5.3 作为受控实验：与 GLM-5.2 同架构、同参数，仅通过一个月长程环境与 RL 后训练，带来显著提升，证明缩放不止参数一个旋钮。",
     "source": "X：唐杰（@jietang）",
     "date": "2026年8月19日13时4分"
+  },
+  {
+    "id": "cmsznyjab0jr6rodpba5aclk9",
+    "title": "Grok Bot 清理 Gmail 垃圾邮件获马斯克力挺",
+    "url": "https://x.com/elonmusk/status/2089950078429782061",
+    "summary": "用 @Grok @Bot 清理你的邮箱。\n\n【引用 @mikepat711】：Grok Bot 正在处理我两个 Gmail 账户中的 9 万封邮件，并清除垃圾内容。这是我自己从来不敢做的事。\n\n祝你好运，伙计，放手去做吧。把它彻底清理干净。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月19日13时38分"
+  },
+  {
+    "id": "cmszo7ob20jwsrodp4ah5al30",
+    "title": "DeepSeek V4 Pro 与 GPT-5.6 Sol 路由对比",
+    "url": "https://x.com/frxiaobei/status/2089946009673830894",
+    "summary": "Together AI 在 DeepSWE 上对比 DeepSeek V4 Pro 0813 与 GPT-5.6 Sol：单次执行 Sol 更强（pass@1 72.7% vs 62.8%），但允许重试时 DeepSeek pass@4 达 88.5%，反超 Sol 的 85.8%。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月19日13时22分"
+  },
+  {
+    "id": "cmszo2qiv0jtjrodpyvi04fbx",
+    "title": "Memmy 开源项目实现跨 Agent 共享本地记忆",
+    "url": "https://x.com/AYi_AInotes/status/2089944722882064641",
+    "summary": "开源项目 Memmy 将 Codex、Claude Code、DeepSeek Harness 接入同一份本地 SQLite 记忆，口号\"Switch agents， not context\"，让对话中未落盘的决策也能跨工具传递。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月19日13时17分"
   },
   {
     "id": "cmszl7nvo0hdqrodp1pyrfxvk",
