@@ -13848,12 +13848,52 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt0ln7du07sqro2og7hpux8j",
+    "title": "MiniMax 祝贺 TrueFoundry 发布 TrueForge",
+    "url": "https://x.com/MiniMax_AI/status/2090183129369833656",
+    "summary": "祝贺我们的朋友 @truefoundry 发布 TrueForge！🚀\n\n开放智能体生态系统需要出色的模型选择。很高兴看到 MiniMax 从第一天起就成为该生态系统的一部分。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月20日5时4分"
+  },
+  {
+    "id": "cmt0ln7df07snro2o5zdhlf9g",
+    "title": "OpenAI DevDay Exchange 今秋登陆八城",
+    "url": "https://x.com/jxnlco/status/2090182966735454553",
+    "summary": "OpenAI DevDay Exchange 今秋将来到 8 座城市：班加罗尔、东京、首尔、柏林、巴黎、伦敦、圣保罗和墨西哥城。\n\n来分享你正在构建的内容，并与 OpenAI 团队一起动手实践。\n\n9 月 4 日前申请：https://events.openai.com/devdayexchange2026",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月20日5时3分"
+  },
+  {
     "id": "cmt0l1xde07iyro2opps4nph9",
     "title": "Dartwords 新玩法：AI 驱动的猜词游戏",
     "url": "https://x.com/trq212/status/2090182422415716414",
     "summary": "去年夏天我看到这个演示，当时就告诉 Sam 他得把它发布出来，很高兴现在终于上线了。真的很有趣。\n\n这是首批真正利用 AI 能力解锁全新玩法的游戏之一。",
     "source": "X：Thariq (@trq212)",
     "date": "2026年8月20日5时1分"
+  },
+  {
+    "id": "cmt0lfo4t07qbro2oyo53zsfj",
+    "title": "OpenAI 以零数据留存对抗 Anthropic：前沿模型默认不保留客户数据",
+    "url": "https://x.com/rohanpaul_ai/status/2090182328517857478",
+    "summary": "OpenAI 将零数据留存扩展为前沿模型功能，通过私有安全处理在客户加密基础设施上分析关联交互，员工无法访问底层提示词或响应，仅向 OpenAI 发送类别与严重度信号，以捕捉单条看似无害、串联后暴露危险意图的提示序列。相比之下，Anthropic 对 Claude Fable 5 和 Claude Mythos 5 要求 30 天留存。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日5时1分"
+  },
+  {
+    "id": "cmt0ln7du07spro2ot5ncshy2",
+    "title": "MiniMax H3将亮相GMI夏季峰会",
+    "url": "https://x.com/MiniMax_AI/status/2090186372120445271",
+    "summary": "我们将前往 @gmi_cloud 的 Summer Signal '26 🏖️🎨 🖼️\n\n【引用 @gmi_cloud】：Summer Signal '26 首位视频合作伙伴：@MiniMax_AI\n\n他们将登台解读 MiniMax H3，以及大规模推进视频生成真正需要什么。\n\n报名参会 👇",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月20日5时17分"
+  },
+  {
+    "id": "cmt0lsqx907uyro2oxy1cc55c",
+    "title": "OpenClaw：技能应附数据证明而非空谈",
+    "url": "https://x.com/openclaw/status/2090185671856279924",
+    "summary": "技能应该附带凭证，而不是空谈。",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年8月20日5时14分"
   },
   {
     "id": "cmt0jaij6067ero2ok6t1cy8x",
@@ -13870,6 +13910,14 @@
     "summary": "填空：搜索现在可以帮助准备_________考试。\n\nA. SAT B. ACT C. AP D. ENEM E. GRE F. JEE G. LSAT H. MCAT I. NEET J. 以上全部！",
     "source": "X：Sundar Pichai (@sundarpichai)",
     "date": "2026年8月20日4时5分"
+  },
+  {
+    "id": "cmt0lfo4h07q9ro2ox1g3y8dm",
+    "title": "Codex周活用户达2000万",
+    "url": "https://x.com/kimmonismus/status/2090181733584961841",
+    "summary": "Codex 现在拥有 2000 万周活跃用户。via CNBC\n\n我嗅到又一次重置要来了，对吧 @thsottiaux？",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月20日4时58分"
   },
   {
     "id": "cmt0jjcep06asro2ozwm3dv9m",
