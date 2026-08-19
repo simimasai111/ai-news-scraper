@@ -13848,6 +13848,38 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmszgpmpd0d8frodph5x2ry30",
+    "title": "Deft 发布：AI 检测工具易被愚弄，写作工具应引导正确模式",
+    "url": "https://x.com/omarsar0/status/2089895053560864964",
+    "summary": "Deft 联合创始人 @rosmine 宣布推出新 AI 写作实验室 Deft，其模型生成的文本据称 86% 被 pangram 判定为\"完全人类\"。Elvis Saravia 认为 AI 检测工具极易被规则欺骗、纯属浪费时间，主张开发 Deft 这类工具以鼓励负责任的写作模式，而非依赖检测。Deft 目前为小规模测试版，在分析/论文、创意写作和改写场景表现较好。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月19日9时59分"
+  },
+  {
+    "id": "cmszgpmpo0d8irodprlp8qddt",
+    "title": "Matic 扫地机器人：20 年计算机视觉终成消费产品",
+    "url": "https://x.com/rohanpaul_ai/status/2089894185902203186",
+    "summary": "Matic 家用机器人内置 5 摄像头与 NVIDIA 芯片，约 20 分钟完成全屋 3D 建图，可区分充电线、袜子、污渍与宠物并分别应对，全程无 App，支持语音指令与全黑环境清扫。其视觉技术源于创始人 Navneet Dalal 在 INRIA Grenoble 的人类检测研究（被引超 5 万次），该成果在专利局尘封 20 年才迎来消费市场。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日9时56分"
+  },
+  {
+    "id": "cmszgwntq0db0rodpake5wep9",
+    "title": "因隐私担忧，美国移民与海关执法局禁止员工佩戴 Meta 智能眼镜",
+    "url": "https://www.ithome.com/0/991/437.htm",
+    "summary": "美国移民与海关执法局（ICE）以隐私担忧为由，禁止员工在联邦工作场所佩戴 Meta 智能眼镜，该政策适用于所有员工。ICE 代理局长在备忘录中指出，这类设备可能隐蔽录制视频和音频，无意中捕捉或传输敏感信息。上个月，纽约州已率先禁止在法院建筑内使用 Meta 智能眼镜。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日9时55分"
+  },
+  {
+    "id": "cmszgpmpz0d8krodpw7g0sq1j",
+    "title": "Cerebras CS-4 发布：性能翻倍再提速",
+    "url": "https://x.com/SemiAnalysis_/status/2089893209128280303",
+    "summary": "Cerebras 下一代 CS-4：快上加快--性能翻倍，功耗翻倍，乐趣翻倍\n\nhttps://newsletter.semianalysis.com/p/cerebrass-next-generation-cs-4-fast",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月19日9时52分"
+  },
+  {
     "id": "cmszfukl80cdzrodp87os82gp",
     "title": "Optima 平台上线：自建模型基准测试",
     "url": "https://x.com/ArtificialAnlys/status/2089892938360979763",
@@ -13896,12 +13928,28 @@
     "date": "2026年8月19日9时3分"
   },
   {
+    "id": "cmszgjwqr0d3xrodpr1tv6ic8",
+    "title": "宇树融资故事展",
+    "url": "https://elsewhere.news/zh/elsewhere/unitree-fundraising-story-exhibition",
+    "summary": null,
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月19日9时33分"
+  },
+  {
     "id": "cmszf6dav0bumrodpdnxpn242",
     "title": "商汤与沙特机构共建AI校车平台",
     "url": "https://x.com/SenseTime_AI/status/2089887926767464692",
     "summary": "商汤与沙特公共投资基金合资企业SenseTimeMEA，携手沙特国家机构开发AI驱动的全国校车数字平台，服务超120万中小学生。平台提供智能调度、安全监控、多方协同及数据驱动决策，契合沙特2030愿景。",
     "source": "X：商汤 SenseTime (@SenseTime_AI)",
     "date": "2026年8月19日9时31分"
+  },
+  {
+    "id": "cmszgwntq0db9rodp7tls0qhi",
+    "title": "宇树科技今日A股上市：开盘大涨629.44%，单签收益达47万元",
+    "url": "https://www.ithome.com/0/991/426.htm",
+    "summary": "A股人形机器人第一股宇树科技今日上市，开盘大涨629.44%，股价报1100元，总市值达4449亿元，发行价150.80元/股，单签收益47.46万元。该公司四足机器人、人形机器人两大品类出货量均居全球第一，上半年营收11.52亿元，同比增长48.54%；扣非归母净利润2.44亿元，同比下滑19.34%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日9时30分"
   },
   {
     "id": "cmszfn1qr0ca8rodprl2y16sm",
@@ -14910,6 +14958,54 @@
     "summary": "每一项强大的新技术都伴随着权衡取舍。\n\n互联网如此，社交媒体亦如此。\n\nDoug Burger、Amy Luers 和 Ishai Menache 探讨 AI 的气候影响，以及如何引导这项技术支持可持续的未来。https://msft.it/6010azEQA",
     "source": "X：Microsoft Research (@MSFTResearch)",
     "date": "2026年8月19日1时0分"
+  },
+  {
+    "id": "cmsziuslk0f81rodpdic34497",
+    "title": "阿里云Token Plan新增DeepSeek-V4-Pro等模型",
+    "url": "https://x.com/alibaba_cloud/status/2089912569624461806",
+    "summary": "DeepSeek-V4-Pro-0813 刚刚加入 Token Plan，与 Qwen3.8-Max、GLM-5.2 等模型一起，共享同一额度池。随着个人版计划上线、团队版定价下调，访问高级模型的成本比以往更低。快来找到适合你工作负载的方案：在 Model Studio 上探索：https://click.alibabacloud.com/m/20000002291/ 获取 Token Plan：https://click.qwencloud.com/m/20000002283/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月19日11时9分"
+  },
+  {
+    "id": "cmsziy9xl0f8xrodpre389sz3",
+    "title": "千问APP上线七夕送花助手Skill，接入淘宝闪购智能体",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488441&idx=1&sn=f3f3f147a4849132bed29a29905dfae1",
+    "summary": "千问APP接入淘宝闪购\"送花助手skill\"，用户说出送花需求后，AI会从花语、潮流、应季、小众等角度解读模糊需求并个性化推荐花束，支持一键下单和AI定制电子贺卡。七夕前夕，千问APP还上线了\"七夕好物推荐测试\"，用户回答5个问题后可获得AI解读、专属好物推荐及默契报告。",
+    "source": "公众号：千问APP（阿里）",
+    "date": "2026年8月19日11时19分"
+  },
+  {
+    "id": "cmsziuslx0f83rodpxekn3uan",
+    "title": "Qwen 27B 本地模型远逊于前列",
+    "url": "https://x.com/emollick/status/2089914722464223706",
+    "summary": "Qwen 27B 确实是不错的本地模型，但当你实际使用时，会立刻明显感觉到它在智能体任务上远不如这里列出的其他模型，尤其是在 GDPval-AA 声称要衡量的那类复杂任务上。\n\n请自行跑基准测试！",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月19日11时17分"
+  },
+  {
+    "id": "cmszgwntq0davrodpubq8segt",
+    "title": "宇树科技登陆科创板大涨近500%，王兴兴身家超千亿元成90后新首富",
+    "url": "https://www.ithome.com/0/991/443.htm",
+    "summary": "宇树科技今日登陆科创板，开盘大涨最高629.44%，股价最高报1，100元，截至发文涨近500%，市值超3，600亿元。董事长王兴兴直接及间接合计持股约30%，所持市值超千亿元，成为\"90后\"首富。DeepSeek创始人梁文锋旗下机构获配约119.16万股，最高浮盈超11亿元；顺为资本关联方Astrend IV最高浮盈超152亿元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日10时8分"
+  },
+  {
+    "id": "cmszgpmp50d8crodpaht4imi1",
+    "title": "用Grok Imagine制作星链广告",
+    "url": "https://x.com/cb_doge/status/2089896215421006169",
+    "summary": "用 Grok Imagine 做了个星链广告 😂",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月19日10时4分"
+  },
+  {
+    "id": "cmszgpmou0d8arodpq2uaub9q",
+    "title": "阿里云智能体工作坊将登陆泰国",
+    "url": "https://x.com/alibaba_cloud/status/2089899280798478396",
+    "summary": "阿里云智能体工作坊系列 → 泰国站！📅 9月5日（周六）| 🕐 下午1-6点（GMT+7）两条实操路线：🎬 Wonderclip 工作坊：https://luma.com/1m2dk1c0?utm_source=IG 💻 Qoder 工作坊：https://luma.com/6oawm2tb?utm_source=IG 更智能地构建，更快速地交付，用智能体 AI 创造未来！⚡",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月19日10时16分"
   },
   {
     "id": "cmsyyghik02wvro20h3z8olb7",
