@@ -14968,12 +14968,44 @@
     "date": "2026年8月19日1时0分"
   },
   {
+    "id": "cmszni6yk0j7nrodprkqanjhz",
+    "title": "唐杰谈缩放定律：GLM-5.3 后训练实验",
+    "url": "https://x.com/jietang/status/2089941544581403107",
+    "summary": "唐杰发文反思缩放定律，指出参数规模需与数据、算力、推理成本等维度协同考量，Chinchilla 最优比例并非终点。他宣布 GLM-5.3 作为受控实验：与 GLM-5.2 同架构、同参数，仅通过一个月长程环境与 RL 后训练，带来显著提升，证明缩放不止参数一个旋钮。",
+    "source": "X：唐杰（@jietang）",
+    "date": "2026年8月19日13时4分"
+  },
+  {
     "id": "cmszl7nvo0hdqrodp1pyrfxvk",
     "title": "GLM-5.3 （max） 人工分析基准测试：智能领先、价格合理但输出冗长",
     "url": "https://artificialanalysis.ai/models/glm-5-3",
     "summary": "GLM-5.3 （max） 在 Artificial Analysis Intelligence Index 上得分为 60，远超同类模型中位数（35），智能表现领先。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月19日12时6分"
+  },
+  {
+    "id": "cmsznc7az0j3mrodpt48le44d",
+    "title": "PICO Space Pro 头显定档 9 月 2 日发布，主打\"轻启全新空间体验\"",
+    "url": "https://www.ithome.com/0/991/578.htm",
+    "summary": "PICO Space Pro 头显将于 9 月 2 日 14：30 发布，主打\"轻启全新空间体验\"。该头显搭载 micro-OLED 面板，像素密度达 4000 PPI，采用双芯片架构，其中全新主处理器的 CPU 和 GPU 性能为现有高通骁龙 XR2 Gen 2 的两倍。设备还配备带追踪功能的控制器，并提供类似 Meta Quest 的\"绘制边界区域\"功能。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日12时54分"
+  },
+  {
+    "id": "cmsznc7az0j3nrodpfqd8x0g7",
+    "title": "美国AI数据中心遭遇反对潮，科技巨头砸钱\"灭火\"",
+    "url": "https://www.ithome.com/0/991/577.htm",
+    "summary": "美国科技公司正通过开放日沟通会、就业承诺和巨额投资争取公众支持，以推进AI数据中心建设。OpenAI承诺向佐治亚州项目所在社区投资8000万美元并提供最高7100万美元编程学习额度；Meta设立10亿美元\"未来属于每个人\"基金，今年计划投入最高1450亿美元资本支出。盖洛普调查显示71%美国人反对在本地兴建数据中心，2026年第一季度遭阻止或延期的项目数量创历史新高。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日12时50分"
+  },
+  {
+    "id": "cmsznc7az0j3prodp86vg0rgp",
+    "title": "斯坦福大学研究：X 平台推荐算法优先推送煽动愤怒内容以提高互动率",
+    "url": "https://www.ithome.com/0/991/573.htm",
+    "summary": "斯坦福大学等机构在《美国国家科学院院刊》发表研究，基于715名美国X平台用户数据发现，推荐算法更倾向推送与用户价值观不一致的内容，这类帖子更易促使用户回复互动，形成\"越生气、越互动、越被推荐\"的循环。X前产品负责人Nikita Bier透露，研究结果公布后平台已调整算法，此类内容推荐量降低了一个数量级。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日12时39分"
   },
   {
     "id": "cmszlxk6c0i0erodp05djsuud",
