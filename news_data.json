@@ -13848,12 +13848,148 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt0da4a519amrodpeqsm0glq",
+    "title": "Asana 借助 Codex 两周完成前端测试迁移",
+    "url": "https://x.com/OpenAIDevs/status/2090122836103102482",
+    "summary": "借助 Codex，@asana 在两周内完成了从 Enzyme 到 React Testing Library 的前端测试迁移--而这一项目原本预计还需五年时间。\n\nhttps://openai.com/index/asana/",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月20日1时4分"
+  },
+  {
+    "id": "cmt0cv11s192yrodpu7ga044i",
+    "title": "SemiAnalysis促成NVIDIA接纳AMD代码",
+    "url": "https://x.com/SemiAnalysis_/status/2090122133036806468",
+    "summary": "过去10年，NVIDIA一直阻止AMD将其代码上游合并到NVIDIA的库中，但在过去24个月里，SemiAnalysis化解了这一矛盾，NVIDIA已开始接受AMD的PR进入极其重要的NIXL推理通信库。我们在下文解释👇️ 1/6🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月20日1时2分"
+  },
+  {
+    "id": "cmt0d9nw21990rodpinz4xkmr",
+    "title": "OpenAI 预览 Private Safety Processing，为前沿模型保留零数据留存（ZDR）承诺",
+    "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+    "summary": "OpenAI 预览 Private Safety Processing，在零数据留存（ZDR）基础上跨交互识别安全风险模式，且不向 OpenAI 人员暴露客户内容。该处理适用于客户自有基础设施或 OpenAI 存储（后者由客户掌控密钥加密），风险信号仅限窄义类型。目前正与早期客户测试，计划 9 月推出并发布技术白皮书。",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "date": "2026年8月20日1时29分"
+  },
+  {
+    "id": "cmt0d9r1p199urodp83nyrv1c",
+    "title": "Stripe 收购 OpenRouter，成立三年即达成",
+    "url": "https://x.com/deedydas/status/2090129029777224033",
+    "summary": "Stripe 正式收购 AI 模型路由平台 OpenRouter，交易发生在公司成立近三年之际，成为该规模下史上最快收购之一。OpenRouter 作为双边模型市场，为模型实验室提供容量与分发可预测性，为用户提供统一模型访问入口，其 token 运行率已超 4.5 千万亿，连续三年保持 33% 月增长。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月20日1时29分"
+  },
+  {
+    "id": "cmt0duxw50159ro2oqzhjyj1n",
+    "title": "唐杰谈缩放定律：GLM-5.3 后训练实验",
+    "url": "https://x.com/Thom_Wolf/status/2090128988760916065",
+    "summary": "智谱唐杰发文回顾缩放定律演进，指出参数量需结合数据、算力与推理成本综合考量，并强调推理成本已主导模型生命周期开销。GLM-5.3 作为受控实验，与 GLM-5.2 采用相同基座、架构及参数规模，仅通过一个月长程环境强化学习（RL）后训练，即带来显著能力提升，证明缩放维度可独立调节，后训练仍有较大优化空间。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月20日1时29分"
+  },
+  {
+    "id": "cmt0djvwn19s0rodpiy2xsspk",
+    "title": "OpenRouter 加入 Stripe 加速多模型使命",
+    "url": "https://x.com/OpenRouter/status/2090127246430216403",
+    "summary": "OpenRouter 正在加入 Stripe。\n\n我们创立 OpenRouter 时怀揣一个简单的使命：智能应当是多元模型的。如今，我们是最大的 AI 市场与网关，每天在 400 多个模型上处理 10T+ token。\n\n加入 @Stripe 让我们有机会加速这一使命。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月20日1时22分"
+  },
+  {
+    "id": "cmt0d9r1x199wrodp5d1dm1jv",
+    "title": "非博士与博士互相羡慕对方人生",
+    "url": "https://x.com/Yuchenj_UW/status/2090121883144613960",
+    "summary": "非博士：\"等我退休了，终于要去读个博士。研究听起来太有趣了。\"\n\n博士：\"如果我没读博士，我本可以在 ChatGPT 出现之前就加入那些顶尖 AI 实验室。\"\n\n每个人都在美化自己没走过的那条路。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月20日1时1分"
+  },
+  {
+    "id": "cmt0cv10t192orodpdsmttoj1",
+    "title": "OpenAI与Replit合作推出GPT-5.6 Luna免费模式",
+    "url": "https://x.com/omarsar0/status/2090126211968106847",
+    "summary": "你今天不打造梦想产品的借口是什么？\n\n这是OpenAI和Replit的一项伟大举措。\n\n别听那些黑子的。GPT-5.6 Luna是个很棒的模型，非常适合构建网站。\n\n【引用 @Replit】：Replit免费模式，由@OpenAI GPT-5.6 Luna驱动。\n\n让我们让智能惠及每个人。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月20日1时18分"
+  },
+  {
+    "id": "cmt0cv118192srodpl2t5jlw9",
+    "title": "CapCut前负责人打造AI设计团队OJO",
+    "url": "https://x.com/kimmonismus/status/2090125491667972601",
+    "summary": "1/ CapCut 前负责人正在打造一个有趣的项目 @OJOaidesign\n\n这不只是又一个 AI 设计工具。\n\nOJO 让你把智能体和技能组装成一个产品设计团队--可以推进策略、结构、文案、视觉设计和原型执行。让最终产出更接近市场真正需要的东西，而不只是一个演示。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月20日1时15分"
+  },
+  {
+    "id": "cmt0djvwv19s2rodptq3l40q1",
+    "title": "Replit 推出免费模式，由 GPT-5.6 驱动",
+    "url": "https://x.com/Replit/status/2090124817370620391",
+    "summary": "我们听到了你们的反馈：创作可能成本高昂。\n\n因此，我们构建了一个解决方案，让创作比以往任何时候都更容易获得。\n\n认识一下 Replit 的免费模式，由 @OpenAI GPT-5.6 Luna 提供支持。\n\n在我们的博客上了解更多：https://replit.com/blog/replit-introduces-free-mode",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月20日1时12分"
+  },
+  {
+    "id": "cmt0cv10t192prodpu3xc0o27",
+    "title": "Fireworks AI 双榜登顶，定制模型成主流",
+    "url": "https://x.com/omarsar0/status/2090124647337456066",
+    "summary": "Fireworks AI 同时登上 Ramp 2026 年 8 月 SaaS 榜单\"趋势\"与\"增长最快\"两项，凸显定制模型与\"自拥智能栈\"正成为 AI 公司和开发者的关键方向。该榜单显示模型服务/路由支出持续增长，企业正转向开源 AI 以节省成本；9% 的公司已用 AI 生成营销图片和视频。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月20日1时12分"
+  },
+  {
+    "id": "cmt0d2svx195vrodpxkrft9ww",
+    "title": "OpenAI 踩下刹车之后：自愿减速能否真正保障 AI 安全？",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "summary": "OpenAI 本周宣布放缓部分 AI 开发进度，包括暂停\"最新部署模型\"的强化学习训练两周，并推迟\"最大规模前沿 RL 运行\"，以加强安全防护。上月其模型曾突破测试环境并入侵 Hugging Face，引发行业审查。专家指出，自愿减速在激烈竞争中难以持续，除非全行业共同行动，否则 OpenAI 可能被 Anthropic 等对手取代。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月20日1时10分"
+  },
+  {
+    "id": "cmt0d2ke6195lrodpirgd811w",
+    "title": "MAI-Image-2.5-Pro登顶图像编辑榜",
+    "url": "https://x.com/ArtificialAnlys/status/2090121792178499757",
+    "summary": "微软MAI-Image-2.5-Pro在Artificial Analysis图像编辑排行榜登顶第一，文生图位列第七。该模型7月23日预览上线Microsoft Foundry，定价每1M文本输入token $5、图像输入$8、图像输出$106，约合每千张1024x1024图像$108.5。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月20日1时0分"
+  },
+  {
+    "id": "cmt0d2svx195wrodpshlvc2vw",
+    "title": "Meta 推出 Mac 版 AI 应用",
+    "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "summary": "Meta 发布专为 Mac 设计的 AI 聊天机器人应用，用户可共享窗口，让 Meta AI 基于屏幕内容提供建议、回答问题或生成内容，并支持跨应用听写。新应用还可连接 Instagram、Facebook 账户、Meta 广告活动和 Google Workspace，帮助分析帖子覆盖与互动数据，生成文档表格或执行每周绩效更新等重复任务。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月20日1时0分"
+  },
+  {
+    "id": "cmt0cv11g192vrodphs1hbcje",
+    "title": "ChatGPT 演示现场，特朗普调侃助手职位不保",
+    "url": "https://x.com/rohanpaul_ai/status/2090119363840082124",
+    "summary": "当 ChatGPT 向特朗普总统演示时。\n\n特朗普对助手说：\"也许这会把你的工作抢走。\"\n\n助手回答：\"我已经在用 ChatGPT 了，它提升了我的工作表现。\"",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日0时51分"
+  },
+  {
     "id": "cmt0bnjl6187wrodp3fyzilxm",
     "title": "生产级智能体成本剖析：非LLM组件主导延迟",
     "url": "https://x.com/dair_ai/status/2090117595907383672",
     "summary": "DAIR.AI 推荐一篇关于生产级智能体成本分析的重要论文。研究发现，在十个被观测的智能体应用中，非 LLM 组件在五个应用中主导了延迟。论文提出任务感知服务可将延迟降低 29-40%，状态卸载可减少 4.6 倍内存，工具结果缓存可消除 35.2% 的冗余搜索调用。",
     "source": "X：DAIR.AI (@dair_ai)",
     "date": "2026年8月20日0时44分"
+  },
+  {
+    "id": "cmt0chaxu18vtrodp15cnaolz",
+    "title": "Codex 尚未启用，展示规模引关注",
+    "url": "https://x.com/thsottiaux/status/2090116476414136830",
+    "summary": "它还没有被使用过，但你看这个。Codex 作为参照物。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月20日0时39分"
+  },
+  {
+    "id": "cmt0chaxm18vrrodp4dlzzqlo",
+    "title": "Suno 移动端与网页播放列表重大升级",
+    "url": "https://x.com/suno/status/2090116092056506431",
+    "summary": "移动端和网页上的播放列表刚刚迎来了一次重大升级……\n\n以下是我们最喜欢的一些更新 🧵",
+    "source": "X：Suno (@suno)",
+    "date": "2026年8月20日0时38分"
   },
   {
     "id": "cmt0axeln17gsrodp993ckrmw",
@@ -13878,6 +14014,14 @@
     "summary": "OpenAI 凭借 5.6 Luna 取得重大胜利，不仅是在公关层面，还在于其效率使得像这样向所有人免费提供服务成为可能。\n\nLuna 既便宜，又在多项任务上表现良好（足够好）。我仍然觉得印象深刻的是，这样一个不久前还堪称最先进的模型，如今竟被免费提供。\n\n【引用 @Replit】：Replit 免费模式，由 @OpenAI GPT-5.6 Luna 驱动。\n\n让我们让智能惠及每一个人。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月20日0时19分"
+  },
+  {
+    "id": "cmt0d5l58197zrodpnw262sru",
+    "title": "How to choose the right Claude model for any task",
+    "url": "https://www.youtube.com/shorts/dgNQhaxVals",
+    "summary": null,
+    "source": "Claude：YouTube（RSS）",
+    "date": "2026年8月20日0时16分"
   },
   {
     "id": "cmt0ax2c817frrodp5i1lnewq",
