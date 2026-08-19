@@ -14968,6 +14968,22 @@
     "date": "2026年8月19日1时0分"
   },
   {
+    "id": "cmszyxhlp0v8crodpe83lvacq",
+    "title": "GLM-5.3 证明缩放不止于参数规模",
+    "url": "https://x.com/kimmonismus/status/2090026799916888080",
+    "summary": "智谱（GLM）创始人指出，AI 缩放并未结束，只是行业过度聚焦模型参数量。GLM-5.3 与 GLM-5.2 采用相同基础模型、架构和参数量，仅通过一个月额外强化学习（RL）训练便获得显著性能提升。缩放的关键在于训练数据、推理算力与后训练等多维度潜力，而非单一参数规模。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日18时43分"
+  },
+  {
+    "id": "cmszyxhlb0v8arodp5z9gq4me",
+    "title": "阿里云发布Wan3.0并举办创作者直播",
+    "url": "https://x.com/alibaba_cloud/status/2090022159166882296",
+    "summary": "认识 Wan3.0：简单输入，智能创作。当想象遇见现实。\n\n与 Wan 团队及领先创作者一起参加 Wan3.0 创作者直播活动--了解最新模型升级、真实创作者工作流，以及即刻上手的实用技巧。\n\n更多精彩，敬请观看！https://x.com/i/broadcasts/1RKjpbDbYZaJw",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月19日18时24分"
+  },
+  {
     "id": "cmszw2tjg0shtrodp0bgrce1n",
     "title": "腾讯混元Hyra四项数学新突破",
     "url": "https://x.com/TencentHunyuan/status/2090002485771751690",
@@ -14992,6 +15008,14 @@
     "date": "2026年8月19日17时48分"
   },
   {
+    "id": "cmszy21i00ubarodp1dp8avd3",
+    "title": "宇树科技王兴兴回应入职大疆仅2个月即离职：热爱机器人且产业化机会已出现",
+    "url": "https://www.ithome.com/0/991/770.htm",
+    "summary": "宇树科技创始人王兴兴回应2016年入职大疆仅2个月便离职一事，称选择创业源于对机器人行业的热爱，且当时产业化机会已经出现。他读研期间设计的四足机器人XDog测试视频出圈后吸引投资人，同年8月获天使轮融资创立宇树科技。他还回应\"价格屠夫\"标签，称公司毛利率维持在合理水平，以保持现金流稳健。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日17时48分"
+  },
+  {
     "id": "cmszx062d0tdxrodpax230w5f",
     "title": "帕洛马：经Lean验证的数学定理库开放提交",
     "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics",
@@ -15006,6 +15030,30 @@
     "summary": "据报道，获阿里巴巴集团支持的机器人初创公司LimX Dynamics正准备在香港进行IPO。消息人士称，该公司已提交保密上市申请，目标融资数亿美元。这家专注于人形机器人和具身智能的公司于7月完成了2亿美元的Pre-IPO融资轮，估值约22亿美元。潜在的上市计划为中国日益壮大的机器人IPO浪潮再添重要一员。",
     "source": "X：X.PIN (@thexpin)",
     "date": "2026年8月19日17时39分"
+  },
+  {
+    "id": "cmszy21i10ubdrodpqny9bbmb",
+    "title": "AI 芯片初创企业 Etched 估值飙升至 210 亿美元，首批机架出货",
+    "url": "https://www.ithome.com/0/991/748.htm",
+    "summary": "AI 芯片初创企业 Etched 以 210 亿美元估值完成 7 亿美元融资，并向领投方 Jane Street 出货首批 AI 加速器机架。Jane Street 表示测试结果令人满意，计划在数据中心部署自有机架。该公司估值在不到一个月内从 103 亿美元升至 210 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日17时31分"
+  },
+  {
+    "id": "cmszy21i10ubfrodpcrztgkw9",
+    "title": "小米新一代人形机器人亮相 2026 世界机器人博览会，8 月 20 日起展台对普通观众开放",
+    "url": "https://www.ithome.com/0/991/747.htm",
+    "summary": "小米新一代人形机器人亮相 2026 世界机器人博览会「具身花园」展台，扮演\"花艺师\"可抓取香片撒花、递送、握手和碰拳。该机器人身高约 1.70 米、体重 66 公斤，全身 66 个自由度，其中一半集中在手部，目前仍为样机阶段。8 月 20 日起展台对普通观众开放，国内首展后将在欧洲展出。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日17时28分"
+  },
+  {
+    "id": "cmszy21i10ubgrodpq03hwhdo",
+    "title": "金山云：上半年营收 57.76 亿元，同比增长 33.7%",
+    "url": "https://www.ithome.com/0/991/744.htm",
+    "summary": "金山云发布截至 2026 年 6 月 30 日止六个月的中期业绩，总收入 57.76 亿元，同比增长 33.7%，毛利 8.12 亿元，同比增长 23.6%。除所得税前亏损由 7.61 亿元减至 4.15 亿元，降幅 45.5%，净亏损降幅 43.5%。增长主要得益于 AI 相关客户收入随 AI 基础设施升级持续增长，其中公有云服务收入 43.539 亿元，同比增长 46.2%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日17时27分"
   },
   {
     "id": "cmszvwwhe0sbvrodp4q94zfor",
