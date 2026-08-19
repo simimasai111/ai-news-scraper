@@ -14968,6 +14968,102 @@
     "date": "2026年8月19日1时0分"
   },
   {
+    "id": "cmszslgao0pddrodpc7ksut6w",
+    "title": "算法工程师用 MiniCPM-o 4.5 打造全双工陪伴机器人 YRobot",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499031&idx=1&sn=120a58b237d16a7b485baabe3dee84f0",
+    "summary": "算法工程师颜鑫基于本地部署的 MiniCPM-o 4.5，打造了能同时看、听、说并在对话重叠区捕捉情绪的全双工桌面陪伴机器人 YRobot。MiniCPM-o 4.5 在 Daily-Omni 全模态理解上获 80.2 分，反超 Gemini 2.5 Flash 的 79.3；INT4 量化后内存占用仅 11GB，实时率 0.20。YRobot 的模型、硬件与代码已全部开源。",
+    "source": "公众号：面壁智能（MiniCPM）",
+    "date": "2026年8月19日15时43分"
+  },
+  {
+    "id": "cmszsi0e50pbsrodpqi1813tv",
+    "title": "Tibo再怼Anthropic，Claude Code限额延期",
+    "url": "https://x.com/kimmonismus/status/2089978982817018124",
+    "summary": "Tibo又来了。他从不放过任何让Anthropic难堪的机会。\n\n【引用 @ClaudeDevs】：我们将每周Claude Code限额的50%提升延长至8月31日。\n\n我们希望将此变为永久性变更，但对我们模型的强劲需求意味着未来几周容量可能紧张。我们会随时向大家通报进展。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月19日15时33分"
+  },
+  {
+    "id": "cmszrmjtn0ofxrodpsc43vrwz",
+    "title": "Anthropic 称 Claude Desktop 后台启动速度比 1 个月前快了约 2 倍",
+    "url": "https://www.ithome.com/0/991/635.htm",
+    "summary": "Anthropic 表示，在 95% 的使用场景下，Claude Desktop 的后台启动速度比 1 个月前快了约 2 倍，即使窗口隐藏也能全速启动。此外，在 99% 使用场景下，Claude Code CLI 的 CPU 占用率降至约 1/2，优化归功于调整 Bun 的回收机制，使其在进程空闲时再启动。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日15时2分"
+  },
+  {
+    "id": "cmszspjah0pfrrodpub9m9tf4",
+    "title": "智谱AI推出GLM-5.3 API，聚焦复杂编程与网络安全",
+    "url": "https://x.com/thexpin/status/2089977175693005029",
+    "summary": "智谱AI发布新基础模型GLM-5.3的API，聚焦复杂编程、网络安全防御与长周期任务。该模型在Artificial Analysis Intelligence Index上得分60，进入全球前沿模型梯队，与Anthropic Claude Fable 5、OpenAI GPT-5.6 Sol等闭源模型并列，并与月之暗面Kimi K3持平。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月19日15时26分"
+  },
+  {
+    "id": "cmszrmjtn0ofqrodpbdz3ckc1",
+    "title": "集邦咨询：预估 2026 年中国人形机器人市场规模达 150 亿元",
+    "url": "https://www.ithome.com/0/991/651.htm",
+    "summary": "TrendForce 集邦咨询预估，2026 年中国人形机器人市场规模将达 150 亿元，2027 年至少维持 60% 以上成长。2026 世界机器人大会首次规划\"采购日\"，反映产业重心从技术展示延伸至实际需求。智元机器人累计 15，000 台量产下线，优必选 U1 预订量达 13，361 台，银河通用中标 2.36 亿元采购项目。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日15时21分"
+  },
+  {
+    "id": "cmszrferk0oderodpn88su6u1",
+    "title": "阿里云发布 ANOLISA：为 AI 智能体打造的 Agent 优先操作系统",
+    "url": "https://x.com/alibaba_cloud/status/2089974898353475590",
+    "summary": "阿里云发布 ANOLISA（Alibaba Cloud Linux 4 Agentic Edition），一款面向 AI 智能体的 Agent 优先操作系统。其核心是 Tokenless 上下文效率层，在操作系统层面剥离冗余工具输出，经 Claude Code 测试，可在不改变工作流程的情况下减少 token 消耗。该系统已开源，并支持在阿里云 ECS 上部署。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月19日15时17分"
+  },
+  {
+    "id": "cmszrmjtn0oftrodpc4pj5yfu",
+    "title": "杜罗夫：Telegram 已申请\".gram\"顶级域名，可为十亿用户提供专属二级域名并支持\"一句话让 AI 创建完整网站\"",
+    "url": "https://www.ithome.com/0/991/644.htm",
+    "summary": "Telegram 创始人帕维尔·杜罗夫透露，公司已申请\".gram\"顶级域名。若获批，用户未来可获得基于用户名的专属域名（如\"username.gram\"），并借助 AI 通过一句提示词创建完整网站。目前该功能的具体实现方式与上线时间尚未公布，且申请仍需通过 ICANN 的技术和财务评估等审核流程。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日15时15分"
+  },
+  {
+    "id": "cmszrferk0odfrodp1npn2iag",
+    "title": "阿里云：智能体AI驱动金融迈向AI原生",
+    "url": "https://x.com/alibaba_cloud/status/2089970339828924563",
+    "summary": "阿里云在GCash iGnite 2026大会上表示，金融业的未来不仅是云原生，更是AI原生。其菲律宾首席解决方案架构师Grant Gong分享了智能体AI与全栈云如何帮助金融企业将每个token转化为智能与行动。阿里云通过两个本地可用区将云和数据锚定在菲律宾，致力于为当地金融AI构建坚实基础。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月19日14时58分"
+  },
+  {
+    "id": "cmszrmjto0ofzrodpjbulxz7k",
+    "title": "比亚迪张卓谈辅助驾驶：端到端大模型核心在于数据量，称比华为强没人信",
+    "url": "https://www.ithome.com/0/991/632.htm",
+    "summary": "比亚迪海洋网总经理张卓在2027款海豹06上市后受访时坦言，说比亚迪辅助驾驶比华为强没人相信，并认为端到端大模型的核心逻辑在于数据量。他表示，比亚迪数百万辆车的积累是\"天神之眼B\"今年体验大幅提升的原因。官方数据显示，截至2026年7月31日，搭载天神之眼和华为乾崑智能的车型累计销量达352万辆，天神之眼日均生成数据里程2.2亿公里。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日14时57分"
+  },
+  {
+    "id": "cmszrfesb0odkrodp5ju1j16v",
+    "title": "中国无人卡车采用人机协同编队模式",
+    "url": "https://x.com/rohanpaul_ai/status/2089968783553343665",
+    "summary": "中国正采取人机协同路线，而非等待完全无人驾驶卡车。由人类操作头车，自动驾驶卡车编队跟随。这将在自动驾驶出租车准备好应对开放道路之前，将货运自动化引入物流枢纽。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月19日14时52分"
+  },
+  {
+    "id": "cmszrmjto0og1rodp9budv0o0",
+    "title": "法国政府将引入 AI 工具检测网络安全漏洞，考虑雇用 Mistral",
+    "url": "https://www.ithome.com/0/991/629.htm",
+    "summary": "针对公共财政总局连续遭网络攻击致数据泄露，法国政府将引入 AI 工具检测政府部门网络安全漏洞，并考虑雇用本国供应商 Mistral。6 月攻击致约 70 万纳税人信息泄露，7 月攻击涉及约 20 万个土地登记账户。法国总理勒科尔尼已要求加快加强政府信息系统安全。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日14时48分"
+  },
+  {
+    "id": "cmszrmjto0og2rodpbg4b50nu",
+    "title": "Anthropic 延长 Claude Code 每周使用额度 50% 加成至 8 月 31 日",
+    "url": "https://www.ithome.com/0/991/628.htm",
+    "summary": "Anthropic 将 Claude Code 每周使用额度 50% 提升加成从原定的 8 月 19 日延长至 8 月 31 日，并探索将这项调整固定为配额方案。该加成面向 Pro、Max、Team 及基于席位的 Enterprise 订阅用户，于 7 月 19 日宣布。网页端、桌面端与 Claude Code 共享同一组配额，更换模型无法绕过周额度限制。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日14时47分"
+  },
+  {
     "id": "cmszqpqg10nu7rodpgsfxpp37",
     "title": "OpenAI 的瓦解已经开始：IPO 受阻、信任崩塌、烧钱加剧",
     "url": "https://garymarcus.substack.com/p/breaking-openais-unraveling-has-begun",
@@ -14998,6 +15094,14 @@
     "summary": "Linear 基于 2026 年上半年 12.7 万付费用户数据发现，AI 功能采用率在各职能、公司规模和最高管理层中均翻倍以上，产品岗从 12% 升至 34%，201 人以上公司 CEO 从 9% 升至 36%。同时，团队在创建、分类和评论上投入的时间增加，工程岗创建与分类耗时增长约 17%。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月19日14时30分"
+  },
+  {
+    "id": "cmszrmjto0og5rodpngrcepnu",
+    "title": "图灵奖得主萨顿警告：AI 行业过度依赖合成数据是一个大错误",
+    "url": "https://www.ithome.com/0/991/599.htm",
+    "summary": "图灵奖得主里奇·萨顿在红杉资本播客中警告，AI 行业越来越依赖合成训练数据\"绝对是个大错误\"，人工制造的数据无法充分替代真实数据。他更倾向于让 AI 智能体通过与真实环境互动学习，并已与前学生创办初创公司 Oak Lab，开发持续从自身经历学习的智能体。谷歌本周同意支付 1，000 万美元收购 Spirit Airlines 内部数据，凸显专有真实数据价值上升。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日14时25分"
   },
   {
     "id": "cmszqcuy90ngnrodp5watb2fe",
