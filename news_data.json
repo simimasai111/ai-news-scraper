@@ -14984,6 +14984,30 @@
     "date": "2026年8月19日17时6分"
   },
   {
+    "id": "cmszwzu5s0tdlrodp0bvg1sku",
+    "title": "百度Apollo Go在香港西九龙测试自动驾驶路线",
+    "url": "https://x.com/Baidu_Inc/status/2090013022320492671",
+    "summary": "百度Apollo Go已开始在香港西九龙地区测试首条自动驾驶路线，支持港铁公司与香港机场管理局牵头的创新项目。该测试旨在探索香港西九龙站与机场快线九龙站之间的无缝接驳方案，连接两大铁路站点。百度表示将贡献自动驾驶技术与运营经验，助力香港智慧出行及铁路-航空一体化联通。",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月19日17时48分"
+  },
+  {
+    "id": "cmszx062d0tdxrodpax230w5f",
+    "title": "帕洛马：经Lean验证的数学定理库开放提交",
+    "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics",
+    "summary": "帕洛马（Palomar）注册库现已开放提交，旨在收录经Lean证明助手验证的数学定理，由Lean FRO和ICARM孵化。提交的仓库快照将接受机械检查（证明类型检查且无额外公理）及大语言模型对非正式描述与正式陈述匹配度的核查。该注册库并非同行评审期刊，作者已成功提交Sendov猜想的Lean形式化证明作为测试。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月19日17时41分"
+  },
+  {
+    "id": "cmszwzu660tdnrodplhh3buee",
+    "title": "阿里系LimX Dynamics筹备赴港上市",
+    "url": "https://x.com/thexpin/status/2090010633655763167",
+    "summary": "据报道，获阿里巴巴集团支持的机器人初创公司LimX Dynamics正准备在香港进行IPO。消息人士称，该公司已提交保密上市申请，目标融资数亿美元。这家专注于人形机器人和具身智能的公司于7月完成了2亿美元的Pre-IPO融资轮，估值约22亿美元。潜在的上市计划为中国日益壮大的机器人IPO浪潮再添重要一员。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月19日17时39分"
+  },
+  {
     "id": "cmszvwwhe0sbvrodp4q94zfor",
     "title": "AI 芯片需求激增，消息称三星部分先进制程代工最高涨价 15%",
     "url": "https://www.ithome.com/0/991/736.htm",
