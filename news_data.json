@@ -14968,12 +14968,44 @@
     "date": "2026年8月19日1时0分"
   },
   {
+    "id": "cmt00xplj0wwlrodpa60of6vt",
+    "title": "ZHO：AI 将重塑解释权与记忆",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2090039391351976443",
+    "summary": "ZHO 提出\"注意力战争\"的下一阶段是\"记忆战争/解释权战争\"，认为 AI 将重塑解释权、重写记忆。此前其观点指出，AIGC 带来的内容生产大解放会进一步加剧注意力战争，而 Seedance 2.0 是真正可投入生产使用的时间节点。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月19日19时33分"
+  },
+  {
+    "id": "cmt00xplj0wwmrodpe4oz09um",
+    "title": "大垃圾时代：美为何最先死",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2090031758603669618",
+    "summary": "ZHO 借《红楼梦》七十七回指出，实用主义系统中\"美\"因不够有用而最先被裁掉，晴雯的锋芒、优伶的艺术、大观园的诗意皆无生存价值。其引用推文进一步预言，自 2026 年起 AI 将带领人类进入文化上的\"大垃圾时代\"，生产力提升与物质丰富伴随而来的是大量垃圾的产生及处理问题。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月19日19时2分"
+  },
+  {
+    "id": "cmt0077tp0w4qrodpxlrurxfg",
+    "title": "龙芯胡伟武：3B6600 用 1Xnm 工艺追平 AMD 英特尔 7nm 性能",
+    "url": "https://www.ithome.com/0/991/811.htm",
+    "summary": "龙芯中科董事长胡伟武在公司成立 25 周年大会上表示，已交付流片的 3B6600 处理器使用 1Xnm 高自主工艺，实测性能达到采用 7nm 或更先进工艺的市场主流 X86 CPU 水平。3B6600 集成 8 个 LA864 核心，硅前测试单核性能比上一代 3A6000 提升约 50%。龙芯首款通用 GPU 芯片 9A1000 也已交付流片，AI 算力达数十 TOPS。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日19时22分"
+  },
+  {
     "id": "cmszzjd1h0vrnrodpwzii0h2s",
     "title": "Hugging Face 模型库突破 300 万",
     "url": "https://x.com/SiliconFlowAI/status/2090030656822935811",
     "summary": "@huggingface 重大里程碑！拥抱开放 AI！🤗\n\n我们刚刚在 Hub 上突破了 300 万个模型 🤗\n\n社区正加速迈向一个开放、分布式的未来，让开放 AI 无处不在、人人可用 🚀",
     "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
     "date": "2026年8月19日18时58分"
+  },
+  {
+    "id": "cmt0077tq0w4wrodpzz1hnseb",
+    "title": "中国移动\"天基智算载荷 1.0\"随朱雀三号成功入轨，将启动天基通算智融合试验",
+    "url": "https://www.ithome.com/0/991/802.htm",
+    "summary": "中国移动研究院宣布，\"天基智算载荷 1.0\"搭载\"鸿鹄 03 星\"随朱雀三号遥二运载火箭成功发射入轨。该载荷采用全国产化软硬件体系，内置自研轻量化星载核心网和智能体，是中国移动首个面向分布式边缘计算的天基通算智融合载荷。后续将开展星地核心网智能组网架构、天基通算智融合及星地智能通信业务三项在轨测试。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日18时55分"
   },
   {
     "id": "cmszyxhlp0v8crodpe83lvacq",
