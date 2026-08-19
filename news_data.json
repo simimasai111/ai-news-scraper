@@ -13848,12 +13848,92 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmszcmcbv09ihrodpexnkju7l",
+    "title": "AI 辅助撰写提案涌入美国国会：充斥细节错误，拖慢审核进度",
+    "url": "https://www.ithome.com/0/991/404.htm",
+    "summary": "美国国会大量涌入 AI 辅助撰写的提案，众议院立法顾问办公室收到众多由 ChatGPT 和 Claude 生成的法案草稿。这些文本混淆税收抵免、税收减免等法律细节，并可能错误引用既有法规，反而让律师花费更多时间修订。为减轻负担，立法顾问办公室正开发专用软件，直观展示新提案对现行法律的改变。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日8时16分"
+  },
+  {
+    "id": "cmszcfb6h09gnrodptwvwyvrq",
+    "title": "Grok Bot 成智能体体验分水岭，终端时代将终结",
+    "url": "https://x.com/omarsar0/status/2089868994182344866",
+    "summary": "主推文预测未来数月将涌现大量新型智能体（agent）交互体验，Grok Bot 是智能体领域的重要分水岭。作者认为告别终端界面是明显且必要的趋势，呼吁对新的 AI 界面保持开放心态。引用推文称，@hams 已开源其内部使用率第一的工具 berd，支持自带 harness/模型，可将工作与上下文集中管理。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月19日8时16分"
+  },
+  {
+    "id": "cmszcmcbv09iirodp38j05hu3",
+    "title": "Anthropic 拟授予阿莫迪等创始人额外投票权，阿莫迪目前仅持股约 2%",
+    "url": "https://www.ithome.com/0/991/402.htm",
+    "summary": "Anthropic 正计划向 CEO 达里奥·阿莫迪及其他联合创始人授予一类具有额外投票权的特殊股票，以降低外部股东压力影响。阿莫迪目前仅持有公司约 2% 股份，若计划实施，这将是管理层首次获得额外投票权。公司正为最早可能于今年晚些时候进行的 IPO 做准备。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日8时14分"
+  },
+  {
     "id": "cmszaa5fp07t4rodpywqg56mn",
     "title": "Claude 自主设计蛋白结合剂命中率翻倍",
     "url": "https://x.com/kimmonismus/status/2089852014331117694",
     "summary": "Claude 在自主蛋白结合剂设计中命中率达 27%，约为传统人工流程 10-15% 的两倍。基于专家编写的方案，Claude 针对 15 个靶点中的 14 个成功设计结合剂，独立实验室确认 1，320 个设计中 354 个结合成功。不同设置下命中率在 22.6%-35.1% 之间，排名最高的设计在 49% 的实验中成功结合。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月19日7时8分"
+  },
+  {
+    "id": "cmszbpswd08zprodpquxnq8iy",
+    "title": "唐杰称GLM-5.3 API上线，Artificial Analysis Index达60",
+    "url": "https://x.com/jietang/status/2089863061276590184",
+    "summary": "Artificial Analysis Index = 60\n\n【引用 @Zai_org】：GLM-5.3 API 现已上线。\n\n- 专为编程、防御性网络安全和长周期智能体任务打造\n- 定价与 GLM-5.2 相同\n- 可通过官方 API 及合作伙伴模型网关使用\n\n开始使用：https://docs.z.ai/guides/llm/glm-5.3",
+    "source": "X：唐杰（@jietang）",
+    "date": "2026年8月19日7时52分"
+  },
+  {
+    "id": "cmszc1jy9098nrodpczag3x33",
+    "title": "Claude Desktop 启动速度提升约两倍",
+    "url": "https://x.com/ClaudeDevs/status/2089860955266228548",
+    "summary": "Claude Desktop 现在的启动速度比一个月前快了约 2 倍。\n\n此前，当应用在后台启动时，其定时器会受到节流限制，JS 引擎也会进入省电模式。现在，即使在窗口尚未显示时，我们也会以全速启动，同时还进行了一些较小的性能修复！",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月19日7时44分"
+  },
+  {
+    "id": "cmszbcq6u08njrodphvxnt82c",
+    "title": "RadixArk 发布开源强化学习框架 Miles v0.1",
+    "url": "https://x.com/SemiAnalysis_/status/2089860167282110647",
+    "summary": "RadixArk 发布 Miles v0.1，一个面向 LLM 和多模态模型的开源强化学习框架，旨在解决 RL 训练调试难、硬件利用效率低等问题。过去 9 个月，72 位贡献者提交了 1，326 次 commit，并通过 85 项 GPU E2E CI 测试，已在 Kimi K3、DeepSeek V4、Qwen 3.8、GLM 5.2 等前沿开源模型上验证。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月19日7时41分"
+  },
+  {
+    "id": "cmszbcq6h08nhrodpuvgguhaq",
+    "title": "Deft 新 AI 写作实验室：86% 查询通过检测",
+    "url": "https://x.com/emollick/status/2089859591597142031",
+    "summary": "Ethan Mollick 指出，AI 检测器欺骗初创公司的输出是糟糕的写作。新 AI 实验室 Deft 推出，其模型自写的发布公告显示，目前 86% 的用户查询被 pangram 判定为完全人类。Deft 仍处于小型测试阶段，主要目标是更好的写作，而非欺骗检测器。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月19日7时38分"
+  },
+  {
+    "id": "cmszcmcbv09irrodp51wd8cvg",
+    "title": "欧洲央行警告 AI 投资过热：泡沫一旦破裂或冲击全球经济",
+    "url": "https://www.ithome.com/0/991/390.htm",
+    "summary": "欧洲央行发布博客文章警告，当前\"AI 热潮\"很可能为金融市场大幅调整埋下伏笔，美国股市估值已接近历史高位。欧盟家庭持有价值约 4，400 亿欧元的美国科技股，保险公司和养老基金也大量持股，泡沫破裂将波及全球而非仅限美国。欧洲央行将当前狂热与互联网泡沫等历史技术投资热潮类比，并预计可能经历类似的\"繁荣与破灭\"周期。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日7时33分"
+  },
+  {
+    "id": "cmszcmcbv09itrodplh3yl90u",
+    "title": "苹果 Safari 26.6.1 修复 22 个漏洞，约 41% 由 OpenAI Codex Security 发现",
+    "url": "https://www.ithome.com/0/991/388.htm",
+    "summary": "苹果发布 Safari 26.6.1 更新，修复 22 个涉及 WebKit 的 CVE 安全漏洞，其中 9 个由 OpenAI Codex Security 发现，占比约 41%。该 AI 智能体可自动检测、验证并修复代码安全漏洞。修复内容涵盖恶意网页内容引发的崩溃、内存破坏，以及 1 个可能泄露敏感数据的 WebKit History 漏洞。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日7时31分"
+  },
+  {
+    "id": "cmszcmcbv09iurodp9hm83yuc",
+    "title": "OpenAI 宣布新安全政策，加强模型开发监控与网络隔离",
+    "url": "https://www.ithome.com/0/991/387.htm",
+    "summary": "OpenAI 宣布新安全政策，重点控制模型测试期间的安全事件，包括更细致的开发监控、训练后阶段强化对齐与安全重视，并加强网络隔离。新监控系统将检查工具操作、推理轨迹和活动日志，目标在发现可疑活动后 30 分钟内发出警报，预计消耗被监控流程约 20% 的计算资源。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月19日7时28分"
   },
   {
     "id": "cmszaa5g207t6rodpogl70yd5",
