@@ -13856,12 +13856,84 @@
     "date": "2026年8月21日5时9分"
   },
   {
+    "id": "cmt21y3pn0eicroovmqf8polu",
+    "title": "马斯克谈人形机器人将普及顶级医疗",
+    "url": "https://x.com/cb_doge/status/2090556130120651018",
+    "summary": "埃隆·马斯克：\"如果人形机器人拥有极高的灵活性和惊人的智能，那么地球上的每个人都将获得比当今最富有的人更好的医疗服务。\n\n我不得不做三次颈部手术，因为前两次都做错了。背痛可能是它能消除的问题之一。人类的平均幸福水平将大幅提升。\"",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月21日5时46分"
+  },
+  {
+    "id": "cmt21y3pn0eidroovyx1ti183",
+    "title": "Grok Build 1.0.8 发布：修复与性能更新",
+    "url": "https://x.com/cb_doge/status/2090553095260663986",
+    "summary": "Grok Build 发布 1.0.8 版本更新。修复了单文件文件夹下载、虚构工具调用报错、状态行刷新等问题；新增 MCP 服务器表单输入/URL 授权弹窗、Ctrl+S 暂存提示词草稿及 /workflow 自动补全功能。同时优化了多子代理并发启动性能，避免界面冻结。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月21日5时34分"
+  },
+  {
+    "id": "cmt21y3pn0eieroov6drcc5de",
+    "title": "Grok 4.6 登顶 Simbian 网络防御基准",
+    "url": "https://x.com/cb_doge/status/2090552528203325870",
+    "summary": "Grok 4.6 在 Simbian 网络防御基准上击败 GPT-5.6 Sol、GPT-5.5、Sonnet 4.6、GLM 5.2、DeepSeek 4 Pro、Kimi K3、Opus 4.8 和 Opus 4.7。🔥",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月21日5时32分"
+  },
+  {
     "id": "cmt20hryj0dikroovfjd5gq6y",
     "title": "OpenRouter 上线 Ox Alpha 隐身模型",
     "url": "https://x.com/OpenRouter/status/2090544970923184269",
     "summary": "🥷 新隐身模型：Ox Alpha\n\nOx Alpha 是一款前沿模型，专为高效编码、持续智能体工作及实际生产环境使用而构建。\n\n- 1M token 上下文窗口 - 支持文本、图像和视频输入\n\n立即试用并分享反馈以改进模型！https://openrouter.ai/stealth/ox-alpha",
     "source": "X：OpenRouter (@OpenRouter)",
     "date": "2026年8月21日5时2分"
+  },
+  {
+    "id": "cmt21jahg0e9iroov0bnqluvk",
+    "title": "用 Temporal 构建永不崩溃的 IMAX 抢票应用 IMAXXING：架构解析",
+    "url": "https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58",
+    "summary": "Google Cloud 发布视频解析 IMAXXING 的架构，该服务监控全美 70mm IMAX 场次并在好座位出现时提醒订阅者，已吸引超 9，000 用户。",
+    "source": "Google AI：DEV 作者专属（RSS）",
+    "date": "2026年8月21日5时29分"
+  },
+  {
+    "id": "cmt21y3q20eikroovjrtw2h0q",
+    "title": "研究：ChatGPT 后三成网页疑为 AI 生成",
+    "url": "https://x.com/rohanpaul_ai/status/2090550277447586271",
+    "summary": "自 ChatGPT 推出以来，三分之一的网页显示出由 AI 撰写的迹象。\n\n同一语料库还发现，破折号的使用频率约为 2023 年的两倍，牛津逗号使用率上升 63%，否定平行结构（\"不是 X，而是 Y\"的句式）几乎增加了两倍。\n\n- 皮尤研究中心新研究",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日5时23分"
+  },
+  {
+    "id": "cmt2131em0dtaroov39wgena8",
+    "title": "swyx 专访 Matt Pocock 的 /wayfinder 技能",
+    "url": "https://x.com/swyx/status/2090550020496040266",
+    "summary": "swyx 称 Matt Pocock 已成为 AI Engineer 大会史上观看量最高的演讲者，也是全球顶尖的 skills 专家之一，其 /grill-me 技能甚至被 Satya Nadella 使用过。/wayfinder 是 Matt 为\"战争迷雾\"场景设计的技能，用于在项目目标不明确时规划研究路径，相关独家专访已发布。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月21日5时22分"
+  },
+  {
+    "id": "cmt21y3pn0eifroovww5akm23",
+    "title": "Grok Build Mode 向 X Premium 用户开放",
+    "url": "https://x.com/cb_doge/status/2090549619793301573",
+    "summary": "Grok Build Mode 现已向 X Premium 和 SuperGrok 用户开放。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月21日5时20分"
+  },
+  {
+    "id": "cmt20viz60dqzroovk5705r89",
+    "title": "Grok Build 向 X Premium 与 SuperGrok 用户开放",
+    "url": "https://x.com/cb_doge/status/2090547420476432858",
+    "summary": "Grok Build 现已向 X Premium 和 SuperGrok 用户开放。😎",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月21日5时12分"
+  },
+  {
+    "id": "cmt21422f0dtqroovgxwczr1n",
+    "title": "亚伦·斯沃茨因数据抓取遭起诉，Meta 却逍遥法外",
+    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence",
+    "summary": "亚伦·斯沃茨因从 JSTOR 下载约 70GB 学术文章被过度起诉，面临 35 年监禁和 100 万美元罚款，最终自杀；而 Meta 抓取 80TB 图书训练 AI 模型却几乎未受惩罚。作者认为这暴露了司法双标，并附上自家猫咪 Lilith 的照片表达不满。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日5时10分"
   },
   {
     "id": "cmt20vizp0dr3roovqeh75r9d",
@@ -13878,6 +13950,14 @@
     "summary": "Meta 的 Muse Spark 1.2 在 Design Arena 视频转网站基准测试中位列第一，Elo 评分 1279，并在图像转代码任务中均进入前三。该模型在图像转 HTML 和图像转前端任务中分别以 1252 和 1272 的 Elo 评分位居第二和第三。其定价为每百万输入 token 1.25 美元、每百万输出 token 4.25 美元，在三个类别中均处于价格偏好帕累托前沿。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月21日5时0分"
+  },
+  {
+    "id": "cmt21a83n0dwhroovgychhob3",
+    "title": "Ox Alpha 隐身模型免费开放一周",
+    "url": "https://x.com/opencode/status/2090544355824038300",
+    "summary": "Ox Alpha（隐身模型）接下来一周免费使用\n\n- 1M 上下文 - 多模态 - 零数据留存\n\n慷慨的速率限制，近乎无限使用\n\n我们每天有 100T token 的处理能力，看看你能做到什么",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月21日4时59分"
   },
   {
     "id": "cmt2015bg0d3wroovilom2lq8",
