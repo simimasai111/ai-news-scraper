@@ -14968,12 +14968,68 @@
     "date": "2026年8月20日1时0分"
   },
   {
+    "id": "cmt1cg4di03xqro1qatf5kz8p",
+    "title": "Binance 推出 Agent OS，让 AI 智能体代用户交易",
+    "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users",
+    "summary": "Binance 周四推出 Agent OS 平台，让开发者将 AI 应用和智能体接入其金融基础设施，授权智能体分析市场、查看账户信息并执行交易。平台支持 OpenAI ChatGPT 和 Codex、Anthropic Claude Code 及 Cursor 等工具，并通过专用\"子账户\"进行权限控制，默认阻止提现，用户转入子账户的金额即构成交易上限。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月20日17时30分"
+  },
+  {
+    "id": "cmt1c8c4z03t8ro1qadiskvtv",
+    "title": "Sonnet 5 有人用吗？作者好奇",
+    "url": "https://x.com/kimmonismus/status/2090370200243740877",
+    "summary": "说实话挺好奇的：有人在用 Sonnet 5 吗？",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月20日17时27分"
+  },
+  {
+    "id": "cmt1cghxb03y6ro1qsfs5rp2c",
+    "title": "请不要粘贴AI生成的内容",
+    "url": "https://dontpastetheai.com/",
+    "summary": "当有人向你提问时，应粘贴你自己的回答，而非聊天机器人生成的内容。文章强调，直接转发AI输出会削弱个人表达的真实性与责任，建议以自身理解为基础进行回应。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月20日17时26分"
+  },
+  {
+    "id": "cmt1bepuq02xzro1qxihkr3t7",
+    "title": "宇树科技科创板IPO估值约500亿美元，背后是类似美国AI行业的循环融资模式",
+    "url": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme",
+    "summary": "宇树科技在上海IPO首日股价一度暴涨629%，收盘涨460%，估值约500亿美元，募资61亿元人民币，成为大陆首家上市的人形机器人公司。据英国《金融时报》报道，其需求依赖循环模式：制造商将机器人卖给国资训练中心，再买回训练数据，近四分之三的人形机器人收入来自该生态。分析师质疑估值与数据价值，认为股价飙升缺乏基本面支撑。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月20日17时23分"
+  },
+  {
+    "id": "cmt1b5m0e02rdro1qox4ctsce",
+    "title": "Qwen 集成至 TrueFoundry Agent Harness",
+    "url": "https://x.com/alibaba_cloud/status/2090366685325013473",
+    "summary": "很高兴看到 TrueFoundry 将 Qwen 引入 Agent Harness，构建者无需离开统一控制层即可获得前沿规模的开源权重模型。https://click.alibabacloud.com/m/20000002474/ #BuildWithQwen",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月20日17时13分"
+  },
+  {
+    "id": "cmt1ax2hb02m6ro1qmtkqm5f6",
+    "title": "政府中的智能体 AI 撞上硬骨头：决定机器可替人做哪些决策",
+    "url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification",
+    "summary": "阿联酋在政府场景应用智能体 AI 时面临核心难题：如何划定机器可自主决策的边界。该国自 2017 年 10 月发布国家 AI 战略并设立全球首位 AI 国务部长以来，已先行探索近 9 年，如今正触及\"机器可替人决定什么\"这一关键治理问题。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月20日17时0分"
+  },
+  {
     "id": "cmt18rw990tsaro2oxnx9jr0g",
     "title": "分析显示 ChatGPT 约三分之一广告与对话内容无关",
     "url": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations",
     "summary": "AI 可见性平台 Searchable 分析了 2026 年 7 月 4 日至 8 月 4 日期间 ChatGPT 真实对话中投放的 11，000 多条广告，发现 33% 的广告与对话毫无关联，27% 为直接匹配，40% 为上下文匹配。68% 的广告出现在毫无购买意图的对话中。OpenAI 首席营收官 Denise Dresser 称自 2 月广告业务上线以来用户关闭广告率已下降一半。",
     "source": "Artificial Intelligence News（RSS）",
     "date": "2026年8月20日16时7分"
+  },
+  {
+    "id": "cmt1b5m1002rhro1q6508gr20",
+    "title": "Slack 整合 Claude 后推出 Slack Code",
+    "url": "https://x.com/kimmonismus/status/2090363110867476730",
+    "summary": "有意思的是 Slack 正在如何发展。最近，Slack 宣布将 Claude 深度集成（连 Andrej Karpathy 都写了相关文章），而现在编码功能也正在落地。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月20日16时59分"
   },
   {
     "id": "cmt1ac4t1020kro1q7pe20466",
@@ -14998,6 +15054,14 @@
     "summary": "模型们飞速的进化，benchmark 数字，dgx spark 玩家千篇一律的多少 token/s 太过苍白。\n\n准备开个新坑，系统地写写后训练。",
     "source": "X：马东锡 NLP (@dongxi_nlp)",
     "date": "2026年8月20日16时41分"
+  },
+  {
+    "id": "cmt1bcy7o02tlro1qrg5bvsf9",
+    "title": "宇树科技上市第二天收跌 18.7%，市值较顶峰跌去 1670 亿元",
+    "url": "https://www.ithome.com/0/992/201.htm",
+    "summary": "宇树科技 8 月 19 日登陆科创板，发行价 150.80 元/股，首日收盘报 845 元/股，上涨 460.34%，市值超 3，418 亿元。上市第二天股价大跌 18.7%，总市值跌至 2，779 亿元，较顶峰跌去 1，670 亿元，成交额 90.72 亿元。创始人王兴兴在 2026 世界机器人大会上表示，机器人效率仍低于人类，并预测人形机器人将在两到十年内进入大众市场。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日16时29分"
   },
   {
     "id": "cmt199kx20u3cro2olxo8wmer",
