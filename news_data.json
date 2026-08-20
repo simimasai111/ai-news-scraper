@@ -13848,12 +13848,100 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt1zsxoi0cz9roovitzd81g6",
+    "title": "OpenAI 企业 API 增速反超 Anthropic",
+    "url": "https://x.com/rohanpaul_ai/status/2090539118103294134",
+    "summary": "OpenAI 与 Anthropic 的企业竞争态势逆转：Ramp 数据显示，Q3 至今 OpenAI API 支出环比增长 82%，超过 Anthropic 的 76%，为 Q2 以来首次反超。GPT-5.6 Sol 正成为开发者首选，而 Fable 5 因价格与监管数据留存要求，采用不及预期。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日4时39分"
+  },
+  {
+    "id": "cmt1zf8cd0cqlroovok938e5g",
+    "title": "Anthropic 高级模型数据留存新政今秋落地",
+    "url": "https://x.com/bcherny/status/2090537902912815536",
+    "summary": "Anthropic 针对 Mythos 级模型推出数据留存新政，客户可完全掌控自有数据，Anthropic 不保留任何数据。该政策旨在满足企业隐私与合规要求，将于今年秋季上线。",
+    "source": "X：Boris Cherny (@bcherny)",
+    "date": "2026年8月21日4时34分"
+  },
+  {
+    "id": "cmt1zsxoi0czaroovfdjcl6y0",
+    "title": "OpenAI搜索调整致Reddit引用量骤降86%",
+    "url": "https://x.com/rohanpaul_ai/status/2090537457091821649",
+    "summary": "Reddit 几乎从 ChatGPT 的引用雷达上消失了，原因是 OpenAI 的一次搜索变更。\n\n据 PromptWatch 数据，Reddit 在 ChatGPT 搜索引用中的占比下降了 86%。\n\n同期，Google AI Overviews 和 AI Mode 中 Reddit 的下降速度则慢得多。\n\n试图获得 AI 引用的发布商，当 ChatGPT 的网页搜索方式发生变化时，可能会迅速失去这种可见性。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日4时32分"
+  },
+  {
+    "id": "cmt1zsxov0czfroovpiiwyna4",
+    "title": "Anthropic 推出 Claude Academy 学习资源",
+    "url": "https://x.com/testingcatalog/status/2090537287771705589",
+    "summary": "Anthropic 推出了 Claude Academy，一套全新的学习资源，帮助人们快速上手 AI。\n\n用户对 AI 工具了解得越多，就越会去使用它们。\n\n测试也是一种学习方式 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月21日4时31分"
+  },
+  {
+    "id": "cmt1z1q5n0c93roovlvh40tew",
+    "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+    "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+    "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月21日4时27分"
+  },
+  {
+    "id": "cmt1znys70cvproovlmtntcgg",
+    "title": "CTIFoundry：索引时构建结构提升智能体F1",
+    "url": "https://x.com/dair_ai/status/2090535851612942340",
+    "summary": "Amazon 团队提出 CTIFoundry，在索引时跨四个权威安全知识库构建官方交叉引用为类型化可遍历边，并通过 span 级报告层保留来源。仅替换动作表面，即在四模型面板上将相同 harness 的智能体整体 F1 提升 0.19-0.28；小模型在 CTIFoundry 上以约一半工具调用数超越旗舰模型在平面基座上的表现。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月21日4时26分"
+  },
+  {
+    "id": "cmt1z52kp0casroovn1ae843x",
+    "title": "Meta 开源 Muse Spark 1.2 免费上线 OpenCode",
+    "url": "https://x.com/opencode/status/2090529694210781331",
+    "summary": "来自 @aiatmeta 的 Muse Spark 1.2 贡献者现已在 OpenCode 中免费提供\n\n现已在更多地区上线",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月21日4时1分"
+  },
+  {
+    "id": "cmt1zsxoi0czbroovjms8fp8j",
+    "title": "陶哲轩新论文：AI 将颠覆数学实践与价值",
+    "url": "https://x.com/rohanpaul_ai/status/2090533964557795427",
+    "summary": "陶哲轩新论文指出，AI 可能让数学证明变得充裕，而数学界尚未适应这种充裕。他认为数学正进入类似基础危机的动荡期，但这次被压力测试的是数学的价值与实践框架，而非真理基础。他主张必须将数学中未言明的目标（如何为贡献、何为理解、谁完成了工作）变得更加明确。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日4时18分"
+  },
+  {
+    "id": "cmt1yqd020c56roovvnjrom3j",
+    "title": "智能体框架持续学习新论文：防遗忘机制",
+    "url": "https://x.com/omarsar0/status/2090533587066249514",
+    "summary": "一篇关于智能体框架持续学习的新论文指出，现代智能体在提示词、记忆、工具等框架组件中积累经验，更新任一组件可能导致模型未变但行为失效，即\"框架级遗忘\"。论文提出\"受保护的框架演化\"机制，由持续优化器生成候选框架、持续评估器在确认改进、历史保留和有效性后才提交，在文本推理、多模态感知和开放世界交互中相对提升超10%。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月21日4时17分"
+  },
+  {
+    "id": "cmt1yqd0l0c5aroovjpzrtbfy",
+    "title": "Anthropic Academy 上线，降低 AI 入门门槛",
+    "url": "https://x.com/kimmonismus/status/2090533085108420809",
+    "summary": "Anthropic 推出 Anthropic Academy（Claude Academy），提供免费课程与教程，面向从 AI 新手到日常用户的各类人群，完成课程还可获得证书。评论者认为此举有助于降低 AI 使用门槛，尤其在 Anthropic 筹备 IPO 之际，能帮助用户更好理解其产品组合。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日4时15分"
+  },
+  {
     "id": "cmt1w7h4w0aeqroovbnoi93wg",
     "title": "OpenAI与NVIDIA合作里程碑：Vera Rubin机架上线",
     "url": "https://x.com/gdb/status/2090515992506147198",
     "summary": "我们与NVIDIA的合作迎来了重大里程碑。",
     "source": "X：Greg Brockman (@gdb)",
     "date": "2026年8月21日3时7分"
+  },
+  {
+    "id": "cmt1yqd0s0c5croovgd5lluk6",
+    "title": "PuppyOne 用文件系统做 AI 智能体共享工作区",
+    "url": "https://x.com/rohanpaul_ai/status/2090527148054651201",
+    "summary": "PuppyOne 反其道而行，不为智能体状态发明新存储位置，而是直接使用文件系统作为共享工作区。智能体（如 Claude Code）可读写 Markdown、代码、JSON 等常规文件，人类可查看 diff 和仓库历史，Git 追踪所有变更。它可在 Mac 本地或云端运行，定位是智能体周围的工作区而非智能体本身。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日3时51分"
   },
   {
     "id": "cmt1wl7lb0aljroovlh0ftd30",
