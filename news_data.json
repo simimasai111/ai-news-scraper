@@ -14968,6 +14968,14 @@
     "date": "2026年8月20日1时0分"
   },
   {
+    "id": "cmt0zkr4q0k1dro2ojvqayn4t",
+    "title": "廉价多对多时代，稳固一对一为王",
+    "url": "https://x.com/swyx/status/2090283975105564866",
+    "summary": "在一个廉价的多对多世界里，坚如磐石的一对一才是王道。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月20日11时45分"
+  },
+  {
     "id": "cmt0w5gv30h3ero2ofgwru56h",
     "title": "技术对就业影响随时间演变",
     "url": "https://x.com/emollick/status/2090259024939798658",
@@ -14984,12 +14992,52 @@
     "date": "2026年8月20日10时5分"
   },
   {
+    "id": "cmt0yhxp30j1rro2osrk59mb7",
+    "title": "微软发布 VS Code 1.134 版：新增并排聊天、提示时间线等功能",
+    "url": "https://www.ithome.com/0/991/998.htm",
+    "summary": "微软昨日推出 1.134 版 Visual Studio Code，新增并排聊天、提示时间线、聊天中查找和 HTML 文件预览 4 项功能。并排聊天支持水平/垂直放置聊天窗口并自动恢复分组布局；提示时间线在智能体窗口侧边栏以时间轴标记提示位置；聊天中查找可用 Ctrl+F 搜索完整对话；HTML 文件预览可将集成浏览器设为默认编辑器。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日10时59分"
+  },
+  {
+    "id": "cmt0yan2j0iziro2o4mlduepy",
+    "title": "Stripe 称\"奇点\"已开始，前瞻财报失效",
+    "url": "https://x.com/emollick/status/2090271010452881713",
+    "summary": "Stripe 在致投资者信中宣称\"奇点\"已经开始，并同步披露上半年业绩数据。Ethan Mollick 对此评论称，若奇点真已到来，前瞻性财务报表将失去意义，并质疑\"奇点\"是否已沦为营销术语。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月20日10时53分"
+  },
+  {
+    "id": "cmt0yhxp40j1tro2o102tivbv",
+    "title": "谷歌在搜索和 Gemini 中推出多款全新 AI 学习工具，含交互式可视化内容、3D 模拟等",
+    "url": "https://www.ithome.com/0/991/993.htm",
+    "summary": "谷歌宣布在搜索和 Gemini 中推出一系列 AI 学习工具，包括交互式可视化内容、3D 模拟、定制化练习测验和专门的学生中心。搜索中的 AI Overview 和 AI Mode 可生成 pH 值等主题的交互式学习体验，Lens 未来几周将支持拍照解题指导。Gemini 新增后台多步骤研究报告、可交互 3D 模拟（如旋转放大 DNA 结构）及集中式学习中心。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日10时52分"
+  },
+  {
+    "id": "cmt0yhxp40j1uro2o0bo0zfnz",
+    "title": "Meta Muse Video 生成视频样片曝光，单次 AI 最长生成 10 秒视频",
+    "url": "https://www.ithome.com/0/991/991.htm",
+    "summary": "Meta 即将推出 Muse Video 模型，已邀请部分合作伙伴 Beta 测试，单次可生成最长 10 秒视频。测试样片显示其在细节呈现、场景物体关系理解及时间维度稳定性上潜力较高，但 Meta 承认音频与画面同步不足，高速运动物理准确性有差距。现有 10 秒样本尚不足以验证更长叙事、复杂角色一致性或高强度动作场景表现。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日10时41分"
+  },
+  {
     "id": "cmt0x81va0i07ro2od1ydbhev",
     "title": "AI 私募股权：重塑成本结构的新浪潮",
     "url": "https://x.com/SemiAnalysis_/status/2090267769132728744",
     "summary": "SemiAnalysis 的 Dylan 解释为何新一轮私募股权与以往截然不同。传统 PE 收购公司后\"榨干\"其价值，而新策略是\"AI 私募股权\"--通过 AI 彻底改造公司系统，前期大量投入以换取长期成本效率的显著提升。AI 电话销售、开票、会计等应用虽未达临界规模，但已近在咫尺。",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年8月20日10时40分"
+  },
+  {
+    "id": "cmt0yhxp40j1wro2o7a1djf4n",
+    "title": "苹果回应 OpenAI 驳回诉讼动议，重申对方存在大规模商业秘密窃取行为",
+    "url": "https://www.ithome.com/0/991/990.htm",
+    "summary": "苹果正式提交文件，逐条反驳 OpenAI 要求驳回诉讼的动议，重申两名前员工及 OpenAI、io Products 存在大规模商业秘密窃取行为。苹果称诉状已充分指明被告盗用的具体商业机密，并指出 OpenAI 关于苹果未采取足够保护措施的说法\"站不住脚\"。苹果还直接回应了 OpenAI 公布的删减对话，强调前员工 Liu 离职后利用身份验证漏洞访问苹果网络存储空间并下载数十份机密文件。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日10时38分"
   },
   {
     "id": "cmt0x32wt0hwjro2o70qhvzuj",
@@ -15006,6 +15054,14 @@
     "summary": "非常感谢！\n\n【引用 @mattsgarman】：Grok 4.6 现已上线 Amazon Bedrock。感谢 @elonmusk 和 @SpaceXAI 团队的合作。\n\n期待客户用它构建的成果。",
     "source": "X：Elon Musk (@elonmusk, xAI)",
     "date": "2026年8月20日10时35分"
+  },
+  {
+    "id": "cmt0yhxp40j1yro2o31lx4buv",
+    "title": "Counterpoint：2026 上半年全球人形机器人出货量同比增长近 300%，智元、宇树霸榜",
+    "url": "https://www.ithome.com/0/991/939.htm",
+    "summary": "Counterpoint 报告显示，2026 年上半年全球人形机器人出货量突破 2.2 万台，同比增长近 300%。智元 AGIBOT 以 9，700 台出货量居首，市场份额超 43%，宇树、银河通用、优必选、乐聚分列其后，前五名均为中国厂商，合计占 86%。Counterpoint 预计全年出货量将突破 5 万台，同比增长 210%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日10时25分"
   },
   {
     "id": "cmt0cv11g192vrodphs1hbcje",
