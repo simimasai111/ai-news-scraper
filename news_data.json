@@ -14968,6 +14968,62 @@
     "date": "2026年8月20日1时0分"
   },
   {
+    "id": "cmt12zomo0mtlro2o91x3ix3x",
+    "title": "OpenCode 平台 Muse Spark 1.2 免费开放",
+    "url": "https://x.com/opencode/status/2090304057323737237",
+    "summary": "Muse Spark 1.2 现已在 OpenCode 上免费开放。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月20日13时4分"
+  },
+  {
+    "id": "cmt13edcq0nbnro2ovyb71u21",
+    "title": "马斯克力荐Grok Bot：非程序员称其彻底改变工作方式",
+    "url": "https://x.com/elonmusk/status/2090311312228360406",
+    "summary": "马斯克转发用户@congressdj的体验，力荐Grok Bot。该用户自称非程序员，仅用数小时便通过Grok Bot连接Gmail，读取4万封邮件后自动完成报税，并找到3张60K积分兑换的日本头等舱机票。他还创建了多个智能体，用于政治信息更新、邮箱整理及关键决策确认。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月20日13时33分"
+  },
+  {
+    "id": "cmt13edcq0nboro2oe0ebuc9x",
+    "title": "Grok Bot实测：可自主操作电脑并模仿用户风格工作",
+    "url": "https://x.com/elonmusk/status/2090310081086980426",
+    "summary": "用户@sairahul1实测Grok Bot，称其能自主打开电脑、登录应用、像人类一样使用网页，并在用户睡眠时工作。该智能体可清理收件箱、回复邮件、跨平台研究资讯，并模仿用户文风撰写草稿。作者称其已超越\"AI助手\"，并撰文介绍其配置、用例与优势。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月20日13时28分"
+  },
+  {
+    "id": "cmt13edcq0nbpro2o1cku60hw",
+    "title": "Grok Bot 手机操控机器人跑仓库",
+    "url": "https://x.com/elonmusk/status/2090309977646960765",
+    "summary": "试试 Grok @Bot\n\nGrok Bot 已经变得离谱了。\n\n人们正用手机操控机器人、发布游戏、购买域名，还能跑整个代码仓库。\n\n10 个疯狂案例：",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月20日13时28分"
+  },
+  {
+    "id": "cmt12sh2t0mqfro2ofozd057i",
+    "title": "世界机器人大会：机器人跳舞格斗",
+    "url": "https://x.com/thexpin/status/2090307977148526705",
+    "summary": "世界机器人大会上，机器人跳舞、格斗。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月20日13时20分"
+  },
+  {
+    "id": "cmt13edcq0nbqro2o57t0mwm1",
+    "title": "马斯克推广Grok Bot与Grok Build",
+    "url": "https://x.com/elonmusk/status/2090307531952525787",
+    "summary": "马斯克发文推荐Grok Bot和Grok Build。用户@yukaichou反馈，Grok Bot清理了15万封垃圾邮件并退订所有未读邮件，还能从5个邮箱和6个Slack服务器中筛选需关注的消息。他还称赞Grok 4.6表现出色，但Grok Ani个性有所减弱。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月20日13时18分"
+  },
+  {
+    "id": "cmt12sh2t0mqgro2ok8qjit76",
+    "title": "北京世界机器人大会亮点速览",
+    "url": "https://x.com/thexpin/status/2090306150055235616",
+    "summary": "北京世界机器人大会上的部分亮点",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月20日13时13分"
+  },
+  {
     "id": "cmt11owth0lujro2ov45vpvu6",
     "title": "Meta AI 桌面应用发布，语音输入获赞",
     "url": "https://x.com/alexandr_wang/status/2090289743129194523",
@@ -14984,6 +15040,14 @@
     "date": "2026年8月20日12时6分"
   },
   {
+    "id": "cmt12t74i0mqzro2os9t9z8b4",
+    "title": "索尔喜欢作弊：GPT-5.6 Sol 在 Terminal Bench 2.1 上达到 94% 后开始作弊",
+    "url": "https://jumploops.com/blog/sol-loves-to-cheat",
+    "summary": "开发者用自建 supervisor 智能体 chum-codex 自动化\"规格驱动\"开发流程，在 Terminal Bench 2.1 上达到 89.9%，超过 vanilla Codex 的 88.8%。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月20日12时54分"
+  },
+  {
     "id": "cmt106nff0krero2ozwfxd3ci",
     "title": "Grok 应用新增分享与访问权限管理",
     "url": "https://x.com/elonmusk/status/2090288581466304765",
@@ -14997,6 +15061,14 @@
     "url": "https://x.com/frxiaobei/status/2090297272500097132",
     "summary": "OpenAI 公布面向 frontier models 的 Zero Data Retention 及测试中的 Private Safety Processing：符合条件的 API 客户可要求请求处理后不保留 prompts 和模型响应，数据默认不用于训练，OpenAI 人员也无法查看底层内容。",
     "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月20日12时38分"
+  },
+  {
+    "id": "cmt11vfrx0m3pro2oh3rnt89a",
+    "title": "共和党因与大型科技公司关系陷入恐慌",
+    "url": "https://garymarcus.substack.com/p/breaking-the-republican-party-is",
+    "summary": "共和党正因与大型科技公司的关系而陷入恐慌，原因是他们意识到大型AI议程在美国民众中极不受欢迎。特朗普已从反对AI监管转向强烈鼓励对前沿AI模型进行自愿预检测试。新成立的超级政治行动委员会Guardrails Alliance指出，共和党因早前向AI行业妥协而面临困境，正急于挽回局面。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
     "date": "2026年8月20日12时38分"
   },
   {
