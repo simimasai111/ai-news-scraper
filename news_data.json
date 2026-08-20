@@ -14760,6 +14760,14 @@
     "date": "2026年8月20日2时18分"
   },
   {
+    "id": "cmt1knuob07fqrokx7lt4vhiq",
+    "title": "最近想清楚了一件事： 不是模型即应用 而是应用即模型 然而想清楚了没用。做出来才有用。",
+    "url": "https://x.com/lifesinger/status/2090425985791635663",
+    "summary": "最近想清楚了一件事：\n\n不是模型即应用 而是应用即模型\n\n然而想清楚了没用。做出来才有用。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月20日21时9分"
+  },
+  {
     "id": "cmt1jq93h06k9rokxm74hnpb9",
     "title": "技能库\"恶意演化\"：智能体安全隐患新研究",
     "url": "https://x.com/rohanpaul_ai/status/2090425196868260118",
@@ -14774,6 +14782,38 @@
     "summary": "美国CISA、FBI和NSA等机构警告，黑客正持续入侵关键基础设施使用的西门子S7可编程逻辑控制器，攻击目标涵盖\"所有\"该型号设备，属于针对全美供水和污水处理系统的大范围网络攻击。黑客利用AI生成漏洞利用脚本，再根据公开信息寻找存在漏洞的设备发动攻击，运行旧版软件或安全防护不足的设备尤其容易成为目标。明尼苏达州、密歇根州、阿肯色州、佐治亚州和新泽西州已报告供水设施遭入侵。",
     "source": "IT之家（RSS）",
     "date": "2026年8月20日21时5分"
+  },
+  {
+    "id": "cmt1l0d4207nkrokxhdz36p6n",
+    "title": "Bambu Lab 进军消费级 UV 打印，构建桌面制造生态",
+    "url": "https://x.com/thexpin/status/2090436439570092483",
+    "summary": "Bambu Lab 启动 UV 打印机项目，正招聘硬件、材料、软件等 10 余个岗位。UV 打印不同于 3D 打印，用于为手机壳、标牌等产品添加图形和表面处理。该公司已占据消费级 3D 打印机市场 30% 以上份额，正试图构建桌面制造生态。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月20日21时51分"
+  },
+  {
+    "id": "cmt1kssz107izrokxpp9ivr1c",
+    "title": "AGIBOT A3 真人武术对战视频发布",
+    "url": "https://x.com/rohanpaul_ai/status/2090431032504054098",
+    "summary": "AGIBOT 发布视频，展示其 A3 人形机器人与两位专业武术演员进行无 CGI、无预设编排的实时武侠对打。A3 依靠实时 AI 感知与决策完成闪避、格挡和反击，并呈现后空翻及 450 度空中旋转踢。其控制速度最高 5 m/s，OmniHand 3 Ultra-M 手部拥有 20 个主动自由度，相关技术亦用于新款 A3 Ultra。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日21时29分"
+  },
+  {
+    "id": "cmt1k19bn06qgrokx1p75h1gv",
+    "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
+    "url": "https://claude.com/blog/claude-code-guide-for-startups",
+    "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月20日21时26分"
+  },
+  {
+    "id": "cmt1kzdct07merokxt86mki2k",
+    "title": "Hugging Face CEO：用API和开源模型武装防御方",
+    "url": "https://x.com/ClementDelangue/status/2090428723828772870",
+    "summary": "Hugging Face CEO Clément Delangue赞同@gdb观点，认为需用API和开源模型大幅强化网络防御方。AI真正的网络安全风险在于攻击者与防御者之间权力、能力和资源的不对称。防御者能预见未来，但升级安全实践的窗口期有限，关键在于夯实基础并应用最佳AI工具。",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月20日21时20分"
   },
   {
     "id": "cmt1jci2v06cnrokxvh4n4ei9",
