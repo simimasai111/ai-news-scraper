@@ -13872,12 +13872,116 @@
     "date": "2026年8月21日0时6分"
   },
   {
+    "id": "cmt1rgeyn05r3roovvuk8zz5b",
+    "title": "Ramp 推出自研 AI 模型路由服务 Router",
+    "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
+    "summary": "企业费用管理平台 Ramp 推出自研 AI 模型路由服务 Router，用户和公司可通过 API 使用并切换 OpenAI、Anthropic、DeepSeek、xAI 等多家大模型。该服务目前仅在美国可用，2026 年剩余时间免费（用户仍需支付模型推理费用），并附赠 26 美元启动额度。Router 提供按用户指定基准路由请求、仅将难题分配给昂贵模型等策略，并默认保留输入输出数据一年。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月21日0时46分"
+  },
+  {
+    "id": "cmt1r8b2305miroov42wy5ett",
+    "title": "Humyn Labs 发布物理 AI 第一视角视频库",
+    "url": "https://x.com/testingcatalog/status/2090478960211546299",
+    "summary": "Humyn Labs 推出面向物理 AI 的\"自我中心\"视频库，包含 5 个以上第一人称数据集，按环境和采集类型分类。数据提供 6-DoF 头部姿态、21 点手部关键点、绝对度量深度及逐帧动作标签，以 MCAP、RLDS 和 LeRobot v3 格式交付。该公司旨在将人类经验转化为机器人技能，弥补机器人数据缺乏互联网级捷径的短板。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月21日0时39分"
+  },
+  {
+    "id": "cmt1r8b1b05m8roovn7xruyid",
+    "title": "Lindy 邮件智能体：记忆与自动回复",
+    "url": "https://x.com/omarsar0/status/2090476918403444807",
+    "summary": "那个视频很好笑，但扎心的是它说得太准了。\n\n电子邮件可能是当下 AI 智能体最大的机会。让 Lindy 学习回复风格并自主保持收件箱整洁，确实非常实用。\n\n说实话，Lindy 的记忆功能相当不错。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月21日0时31分"
+  },
+  {
+    "id": "cmt1r8b1b05m9roov5qaanuk4",
+    "title": "Harvey 推出首个法律专用后训练模型 Tenet",
+    "url": "https://x.com/omarsar0/status/2090476536034197871",
+    "summary": "Harvey 推出首个法律专用后训练模型 Tenet，基于 Kimi K3 底座与 FireworksAI 合作训练。相比底座，Tenet 在 LAB 上全通过率提升 82%、LAB Contracts 提升 22%，后者达 SOTA 并位居 LAB 第二，推理成本低于主流基础模型的四分之一。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月21日0时30分"
+  },
+  {
     "id": "cmt1pkwbj04bxroovzkfca5c7",
     "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
     "url": "https://mistral.ai/news/agentic-search",
     "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
     "source": "Mistral AI：News（网页）",
     "date": "2026年8月21日0时2分"
+  },
+  {
+    "id": "cmt1r8b1k05mcroovqby12ryy",
+    "title": "DataCamp 开源与前沿模型实战抉择",
+    "url": "https://x.com/kimmonismus/status/2090476265849434571",
+    "summary": "DataCamp CEO 与首席 AI 官讨论在生产环境中为超 1900 万学习者构建 AI 导师时，开源模型与前沿模型的实际选择。对话涵盖模型生产表现、开源是否真便宜 10 倍、基础设施成本、缓存延迟、幻觉、隐私及供应商锁定等议题。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日0时29分"
+  },
+  {
+    "id": "cmt1r8b1u05meroov3u49izg3",
+    "title": "开源模型崛起与AI未来展望",
+    "url": "https://x.com/rohanpaul_ai/status/2090475128140562763",
+    "summary": "https://x.com/i/broadcasts/1dKrPrkpLVeJX",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日0时24分"
+  },
+  {
+    "id": "cmt1r8b1305m6roovy46t8bpz",
+    "title": "Grok 跨平台评分突破 700 万",
+    "url": "https://x.com/cb_doge/status/2090474576761553144",
+    "summary": "突发：Grok 目前在 Google Play 和 Apple App Store 的合计评分已突破 700 万。🔥",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月21日0时22分"
+  },
+  {
+    "id": "cmt1r8b1u05mfroov8utcxon4",
+    "title": "AI科学家应作为人机协作系统研究",
+    "url": "https://x.com/rohanpaul_ai/status/2090473771631296929",
+    "summary": "一篇立场论文主张，科学智能体应作为\"科学家+智能体\"的人机协作系统来评估，而非孤立优化智能体本身。在10项科学任务中，GPT-5-mini几乎从不主动请求人类帮助，但专家能发现智能体遗漏的错误，而智能体加速执行--增益来自协作而非自主性。论文提出以人机团队是否比任何单独一方产出更好科学为基准。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日0时19分"
+  },
+  {
+    "id": "cmt1qz6jh05foroovn0ifsncm",
+    "title": "Grok 智能体获赞：跨平台管理邮件日历",
+    "url": "https://x.com/elonmusk/status/2090472194946080795",
+    "summary": "Grok @Bot\n\n【引用 @ryancarson】：.@bot 实在太强了。\n\n我多个 Google Workspace 账号都已认证并正常使用。\n\n就是好用。\n\n在我的 Mac 和 iPhone 上也都完美运行。\n\n我现在有两个机器人：\n\n1. 幕僚长--\"R2\"了解我的一切，管理我的日历、邮件和任务\n\n2. CRM--\"Lando\"负责我的对外销售漏斗，并与 R2 协同。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月21日0时13分"
+  },
+  {
+    "id": "cmt1qukfv05dxroovnvna35bf",
+    "title": "Suno 推出离线播放列表功能",
+    "url": "https://x.com/suno/status/2090472164579475506",
+    "summary": "离线播放列表来了。\n\n保存播放列表以供离线收听，这样即使没有网络服务，你也可以流式播放喜爱的歌曲。\n\n试试这个播放列表：\n\nhttps://suno.com/playlist/ef0a42be-7dd1-42bd-871a-307e122a680c",
+    "source": "X：Suno (@suno)",
+    "date": "2026年8月21日0时12分"
+  },
+  {
+    "id": "cmt1qz6jh05fproovu2i7y61w",
+    "title": "Grok Bot 新 AI 助手获赞：可独立处理生活杂务",
+    "url": "https://x.com/elonmusk/status/2090471974313001026",
+    "summary": "用户 @startupstella 实测 Grok Bot，称其为 Cursor + SpaceX 团队（名为 SpaceXai）推出的新 AI 助手，比 Claude 和 ChatGPT 更易用且无需设置。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月21日0时12分"
+  },
+  {
+    "id": "cmt1r7jjh05lgroovc4zwypj6",
+    "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+    "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+    "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
+    "source": "Google Cloud：Databases（RSS）",
+    "date": "2026年8月21日0时0分"
+  },
+  {
+    "id": "cmt1qkszg04xgroovi1nxweu9",
+    "title": "微软 Skala 1.1 更新提升计算化学精度",
+    "url": "https://x.com/MSFTResearch/status/2090468904925532340",
+    "summary": "Skala 1.1，微软研究院更新的深度学习交换关联泛函，提供了更高的精度、在计算化学生态系统中更广泛的可及性，以及一个用于跟踪计算性能的活基准。https://msft.it/6016aMXZn",
+    "source": "X：Microsoft Research (@MSFTResearch)",
+    "date": "2026年8月21日0时0分"
   },
   {
     "id": "cmt0w5gus0h3cro2orpi39w0k",
