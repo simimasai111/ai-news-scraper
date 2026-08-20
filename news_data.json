@@ -13848,6 +13848,102 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt1w7h4w0aeqroovbnoi93wg",
+    "title": "OpenAI与NVIDIA合作里程碑：Vera Rubin机架上线",
+    "url": "https://x.com/gdb/status/2090515992506147198",
+    "summary": "我们与NVIDIA的合作迎来了重大里程碑。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月21日3时7分"
+  },
+  {
+    "id": "cmt1w7h540aesroovcp40iqz5",
+    "title": "Replit 免费模式上线，GPT-5.6 Luna 驱动",
+    "url": "https://x.com/Replit/status/2090514256395419967",
+    "summary": "最大化创造，最小化成本。\n\nReplit 免费模式现已上线，由 @OpenAI GPT-5.6 Luna 提供支持。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月21日3时0分"
+  },
+  {
+    "id": "cmt1vrz9u0a1sroovqxe1gl6f",
+    "title": "Liquid AI 发布 LFM2.5-DSpark 草稿模型，解码速度最高提升 3.18 倍且输出不变",
+    "url": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding",
+    "summary": "Liquid AI 为 LFM2.5 系列三款模型（1.2B-Instruct、2.6B、8B-A1B）发布 DSpark 草稿模型检查点，通过约 300M 参数的草稿模型一次提出 9 个候选 token，由目标模型单次前向验证，在 H100 上解码速度最高提升 3.18 倍，M4 Max MacBook Pro 上最高 2.87 倍。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月21日2时53分"
+  },
+  {
+    "id": "cmt1w7h4k0aeoroova1jqd2o4",
+    "title": "Claude Managed Agents 接入 AG-UI 新指南",
+    "url": "https://x.com/ClaudeDevs/status/2090511582531072265",
+    "summary": "Claude Managed Agents 可以驱动多种不同的用户界面。\n\n我们的新 cookbook 将 Claude Managed Agents 与 @CopilotKit 的开源 Agent-用户交互协议 AG-UI 相结合。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月21日2时49分"
+  },
+  {
+    "id": "cmt1vimf409w0roovr9vjnwhb",
+    "title": "NanoClaw 接入 Slack，一条消息创建多智能体",
+    "url": "https://x.com/rohanpaul_ai/status/2090511171636117948",
+    "summary": "NanoClaw 现已接入 Slack，用户可通过一条消息让一个智能体创建并协调多个持久化、专业化的 AI 智能体（如代码审查、测试、研究等）。新智能体拥有持久指令、上下文、工具、权限及独立 Slack 身份，并出现在侧边栏供人类和其他智能体交互。NanoClaw 保持开源和自托管，其 GitHub 仓库已获 30.6K stars。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日2时47分"
+  },
+  {
+    "id": "cmt1vhx1109v5roovdglj23km",
+    "title": "In Defense of AI Writing",
+    "url": "https://every.to/context-window/in-defense-of-ai-writing",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月21日2时47分"
+  },
+  {
+    "id": "cmt1vimey09vyroov7ojwwo3v",
+    "title": "Gemini 3.7 Flash低成本高分登顶ARC-AGI",
+    "url": "https://x.com/fofrAI/status/2090510629710823470",
+    "summary": "Gemini 3.3 Flash，低成本，高分。\n\n【引用 @arcprize】：来自 @Google 的 Gemini 3.7 Flash 在 ARC-AGI（已验证）上的表现：\n\n- ARC-AGI-2：84.6%，$0.25/任务\n- ARC-AGI-1：95.5%，$0.12/任务\n\nGemini 3.7 Flash 在 ARC-AGI-1 和 ARC-AGI-2 上相较于其他前沿模型，以低成本和高分脱颖而出。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月21日2时45分"
+  },
+  {
+    "id": "cmt1vimfa09w2roov760l0ka9",
+    "title": "Grok Build 向更多 SuperGrok 用户开放",
+    "url": "https://x.com/testingcatalog/status/2090507991841742948",
+    "summary": "Grok Build 正在向更多 Web 和移动端的 SuperGrok 用户推出。\n\n测试时间到了 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月21日2时35分"
+  },
+  {
+    "id": "cmt1vr3lx0a0iroovzy75i0t0",
+    "title": "Vomit：用本地 LLM 把 Claude 的 token 呕吐物翻译成英文",
+    "url": "https://github.com/zachahn/vomit",
+    "summary": "Vomit 通过管道连接本地 LLM，将 Claude 输出的 token 流翻译成可读英文，完全本地运行、无遥测且无外部依赖。该项目仅支持 Mac，速度较慢，且本地 LLM 只能看到 Claude 的通信内容，可能产生幻觉或遗漏信息。可通过 `go install` 安装，兼容 Llama.app、Ollama 及任何 OpenAI API 兼容服务，采用 GNU GPLv3 许可。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日2时30分"
+  },
+  {
+    "id": "cmt1vp5sf09zbroovdbsskgvi",
+    "title": "Meta Muse Spark 1.2 登顶视频转网站评测",
+    "url": "https://x.com/alexandr_wang/status/2090505793993060428",
+    "summary": "酷！\n\n【引用 @DesignArena】：突发：Meta 的 Muse Spark 1.2 以 1279 的 Elo 评分在视频转网站类别中位列第一，并在我们所有多模态代码类别中取得亮眼成绩。\n\nMuse Spark 1.2 还在图片转 HTML 类别中以 1252 的 Elo 评分位列第二，在图片转前端类别中以 1272 的 Elo 评分位列第三。\n\n以 $1.25/1M 输入 token 和 $4.25/1M 输出 token 的价格，它在全部三个类别中均处于价格偏好帕累托前沿。\n\n祝贺 Meta 团队取得这一成就！",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月21日2时26分"
+  },
+  {
+    "id": "cmt1v1x4p09gsroovhe8zt77y",
+    "title": "Meta 发布 WildArtifactBench 评测框架",
+    "url": "https://x.com/AIatMeta/status/2090505413817246050",
+    "summary": "Meta 发布内部评测框架 WildArtifactBench，用于评估多模态智能体在复杂真实任务中的表现。该框架采用人类与智能体偏好评判的胜率和 Elo 评分，替代严格的标准答案评分规则，以覆盖更多实际多模态工作流。Meta 已开源其中 10 个任务。",
+    "source": "X：AI at Meta (@AIatMeta)",
+    "date": "2026年8月21日2时25分"
+  },
+  {
+    "id": "cmt1uohyw094uroovfqmq0bwl",
+    "title": "DiffusionGemma 技术报告：Google DeepMind 开源离散扩散模型，单卡 H100 每秒生成约 1500 token",
+    "url": "https://arxiv.org/abs/2608.00146",
+    "summary": "Google DeepMind 推出 DiffusionGemma，一个基于 Gemma 4 26B A4B MoE 模型微调而来的实验性开放权重文本扩散模型。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日2时14分"
+  },
+  {
     "id": "cmt1swsb006ugroovbdk5fv9y",
     "title": "Meta 发布 Muse Spark 1.2 多模态评测与演示",
     "url": "https://x.com/AIatMeta/status/2090485743034716420",
@@ -13880,6 +13976,14 @@
     "date": "2026年8月21日1时59分"
   },
   {
+    "id": "cmt1uuqig097froovz63dxjwk",
+    "title": "猜想有误，AI生成反例证伪",
+    "url": "https://x.com/fchollet/status/2090499083521904724",
+    "summary": "该猜想是错误的，这里有一个AI生成的反例。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月21日1时59分"
+  },
+  {
     "id": "cmt1tonwa07i9roovrze0ll65",
     "title": "Anthropic 如何开展 AI 教学",
     "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
@@ -13896,12 +14000,28 @@
     "date": "2026年8月21日1时56分"
   },
   {
+    "id": "cmt1unkfh0948roov8qo288f4",
+    "title": "OpenClaw 带动 Mac mini 销量激增",
+    "url": "https://x.com/swyx/status/2090498250168058080",
+    "summary": "嗯，@openclaw 对苹果来说真是好事\n\n这个团队今年仅 Mac mini 销量就保守带动了 5000 万至 1.5 亿美元（大致相当于全球 Mac mini 正常年销量的 50% 以上，仅因 openclaw 2026 所致）哈哈",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月21日1时56分"
+  },
+  {
     "id": "cmt1ug2ao091zroovxmimqyfe",
     "title": "Lindy Chrome 扩展：夜间自动整理 Gmail 收件箱",
     "url": "https://x.com/kimmonismus/status/2090497858604507361",
     "summary": "Lindy 推出 Chrome 扩展，可接入 Gmail 自动运行。用户早上打开邮箱时，扩展已连夜处理完邮件，并在顶部生成一段简报，让人快速了解新邮件和待办事项。该扩展还能高亮重要邮件、基于记忆起草回复，并学习用户的邮件标签习惯。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月21日1时55分"
+  },
+  {
+    "id": "cmt1vdnei09seroovjtrmwt3o",
+    "title": "SPADE：自适应合成环境中的智能体自对弈",
+    "url": "https://x.com/dongxi_nlp/status/2090496608043462929",
+    "summary": "SPADE：\n\n自适应合成可执行环境中的自对弈\n\n【引用 @_AndrewZhao】：我们提出 SPADE，面向通用智能体的自对弈方法，其中环境和任务均由智能体自身生成并持续改进。我们使用带/不带提示的遗憾值来训练环境生成器。随着我们迈向 RSI，决定学习什么将成为最重要的问题。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月21日1时50分"
   },
   {
     "id": "cmt1u2bdc08v3roovaa2416ea",
