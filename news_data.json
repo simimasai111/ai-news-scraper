@@ -14760,6 +14760,94 @@
     "date": "2026年8月20日2时18分"
   },
   {
+    "id": "cmt1m4prd01bzroovu6jtffdq",
+    "title": "Frontier Radar #4：中国AI已追平，西方领先优势还剩什么？",
+    "url": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead",
+    "summary": "Kimi K3、GLM-5.3等中国开源模型已逼近美国顶尖模型，在多数综合评测中跻身前列，西方实验室归咎于知识蒸馏与benchmaxxing，但模型领先已难守。西方剩余优势集中在三个领域：抽象专项测试（ARC-AGI-2上K3为60.4%对Opus 5的89.2%）、可靠性（AA-AnalystAgent的pass^5指标Opus 5以54%领先，K3为39%）和网络安全。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月20日22时8分"
+  },
+  {
+    "id": "cmt1m2tte018jroov2v7jo8at",
+    "title": "阿里 CEO 吴泳铭：平头哥二代芯片预计今年下半年流片、产出",
+    "url": "https://www.ithome.com/0/992/380.htm",
+    "summary": "阿里 CEO 吴泳铭在分析师电话会上透露，平头哥第二代国产芯片预计今年下半年开始流片、产出，该芯片将具备\"非常强\"的算力和互联带宽，内部认为\"完全可以\"替代大规模模型训练。基于新一代平头哥芯片真武 M890 的超节点实例已上线阿里云规模化销售，真武芯片到 8 月初已服务超 650 家客户。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日22时5分"
+  },
+  {
+    "id": "cmt1lmzur089arokxs2t50rje",
+    "title": "Amazon Prime Air 自主无人机将于 2026 年底覆盖美国近 500 个城市",
+    "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities",
+    "summary": "Amazon 计划在 2026 年底前将 Prime Air 无人机配送服务扩展至美国近 500 个城市和城镇，覆盖规模达目前的六倍。据 Amazon 称，此举将为数千万客户所在的社区提供该服务选项。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月20日22时5分"
+  },
+  {
+    "id": "cmt1mxzmx024qroovewmxpbws",
+    "title": "Humyn Labs 为机器人打造物理 AI 数据平台",
+    "url": "https://x.com/kimmonismus/status/2090449163062243365",
+    "summary": "Humyn Labs 正构建机器人训练数据平台，将人类在视觉、音频、动作和触觉四类感官模态下的真实经验转化为模型就绪数据，供 Physical AI 学习。与可从互联网学习的 LLM 不同，机器人缺乏数据捷径，需依赖真实世界经验，该平台或成扩展机器人技术的关键缺失层。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月20日22时41分"
+  },
+  {
+    "id": "cmt1n5is30297roovpliyduav",
+    "title": "小米人形机器人亮相世界机器人大会",
+    "url": "https://x.com/thexpin/status/2090447513027273200",
+    "summary": "说到世界机器人大会，小米的人形机器人正在展台上与参观者实时互动。据该公司称，其动作由一个大型 AI 模型驱动，该模型能够独立理解指令、做出决策并执行动作。如果完全自主运行，那确实令人印象深刻--但在我们了解更多关于远程操作、脚本编程或人工干预的程度之前，我仍会谨慎看待这一说法。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月20日22时35分"
+  },
+  {
+    "id": "cmt1mxzmp024oroovrj3b9e8v",
+    "title": "dots3-note 预览版：长任务自评模型",
+    "url": "https://x.com/omarsar0/status/2090445781484339517",
+    "summary": "dots3-note 预览版是一个开放权重模型，专为运行数小时、有时甚至数天的任务而构建。\n\n→ 280B 总参数 / 16B 激活参数 → 512K 上下文 → 文本、视觉和语音 → 推理、编码和工具使用\n\n但最有趣的部分不是模型规模。\n\n而是模型如何在长任务完成之前学会评估自身进展。🧵",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月20日22时28分"
+  },
+  {
+    "id": "cmt1ma4a401enroovsf4gpctt",
+    "title": "Luma 助 Aperture 广告成本降 75%",
+    "url": "https://x.com/LumaLabsAI/status/2090445629122093191",
+    "summary": "Luma AI 作为生产层，帮助广告代理公司 Aperture 实现 CPA 下降 75%、投放规模扩大 9 倍。其核心并非单一模型，而是围绕\"智能层+人工把关+数据反馈循环\"构建的生产系统，让工作流跨 campaign 持续累积优化。",
+    "source": "X：Luma AI (@LumaLabsAI)",
+    "date": "2026年8月20日22时27分"
+  },
+  {
+    "id": "cmt1m2y0d01a0roovmvm6bol7",
+    "title": "Grok 4.6 现支持 API 调用",
+    "url": "https://x.com/ericzakariasson/status/2090442593255698520",
+    "summary": "如果你喜欢 Grok 4.6，现在也可以在 API 中使用它！它采用 OpenAI 兼容格式，因此你可以直接将其作为替代方案使用。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月20日22时15分"
+  },
+  {
+    "id": "cmt1lveof016iroov2hisvyhl",
+    "title": "OpenAI Astra 数周内发布，Anthropic 观望",
+    "url": "https://x.com/kimmonismus/status/2090441945260670999",
+    "summary": "OpenAI 告知员工计划在\"数周内\"发布 Astra，并同步展示模型执行真实世界任务的演示。更新版检查点主要改进对齐与奖励黑客行为，正通过 Codex 等工具内部试用。Anthropic 则暂缓发布 Fable 5.1，等待 Astra 推出后再行动。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月20日22时12分"
+  },
+  {
+    "id": "cmt1lhobd086lrokxs03wic08",
+    "title": "研究提出表征平等指标，评估LLM跨59国模拟偏差",
+    "url": "https://x.com/OpenBMB/status/2090438716833608053",
+    "summary": "清华NLP等机构在《计算语言学》提出\"表征平等\"概念与指标，检验9个开源模型能否均匀模拟不同国家人群，覆盖59国与2，420个子群体。研究发现模拟不平等具系统性：模型对欧美模拟更准，与人均GDP、互联网普及率等正相关，并倾向将中东国家拉向美国分布。检索增强是最稳健的改进手段（GLM-4-9B的EqCV从0.0486降至0.0255），而偏好对齐无系统性增益。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月20日22时0分"
+  },
+  {
+    "id": "cmt1m3qrt01auroovykgu7foj",
+    "title": "AI 引发的数学危机：顶尖数学家如何应对",
+    "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "summary": "OpenAI 近期发布的一组数学难题解决方案在数学界引发巨大争议，促使多位顶尖数学家反思 AI 对数学领域的冲击。尽管 AI 在基础算术上仍表现糟糕，但在高端抽象数学上却日益擅长，这引发了关于数学家未来角色、学术资助价值以及 AI 实验室是否借数学炒作营销的深层质疑。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月20日22时0分"
+  },
+  {
     "id": "cmt1knuob07fqrokx7lt4vhiq",
     "title": "最近想清楚了一件事： 不是模型即应用 而是应用即模型 然而想清楚了没用。做出来才有用。",
     "url": "https://x.com/lifesinger/status/2090425985791635663",
@@ -14784,12 +14872,28 @@
     "date": "2026年8月20日21时5分"
   },
   {
+    "id": "cmt1m3u8y01azroovj01baumm",
+    "title": "Show HN：我训练了一个1.25亿参数的Transformer，用于在设备端实现钢琴自动补全",
+    "url": "https://simedw.com/2026/08/20/midi-autocomplete",
+    "summary": "一位开发者训练了一个125M参数的Transformer模型，可在iPhone 15上以约每秒108个音符的速度实时自动补全钢琴演奏。项目通过优化MIDI表示、清洗训练数据并加入DPO后训练获得最大提升。最终采用按完整音符推进的表示法，将延音踏板效果融入音符时长，相关应用RollTab已免费提供。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月20日21时58分"
+  },
+  {
     "id": "cmt1l0d4207nkrokxhdz36p6n",
     "title": "Bambu Lab 进军消费级 UV 打印，构建桌面制造生态",
     "url": "https://x.com/thexpin/status/2090436439570092483",
     "summary": "Bambu Lab 启动 UV 打印机项目，正招聘硬件、材料、软件等 10 余个岗位。UV 打印不同于 3D 打印，用于为手机壳、标牌等产品添加图形和表面处理。该公司已占据消费级 3D 打印机市场 30% 以上份额，正试图构建桌面制造生态。",
     "source": "X：X.PIN (@thexpin)",
     "date": "2026年8月20日21时51分"
+  },
+  {
+    "id": "cmt1m2ttf018nroovou9ldew7",
+    "title": "荣耀机器人元气仔练成\"凌波微步\"，将参加第二届人形机器人运动会",
+    "url": "https://www.ithome.com/0/992/362.htm",
+    "summary": "荣耀官方今日发布视频，展示自研人形机器人元气仔的跑步画面，其姿态灵动，摆臂步幅复刻人类姿态。荣耀自研机器人闪电和元气仔将正式参加第二届人形机器人运动会，该赛事设50个赛项，涵盖29项竞技赛和21项场景赛。此前闪电曾在2026北京亦庄半马中以50分26秒净时成绩夺冠。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日21时40分"
   },
   {
     "id": "cmt1kssz107izrokxpp9ivr1c",
@@ -14878,6 +14982,14 @@
     "summary": "Codex 周活跃用户已超 2000 万，增长正以牺牲 Claude 用户为代价，越来越多用户取消 Claude 订阅。作者抱怨 Opus 冗长傲慢、速率限制消耗过快，且 Sonnet 缺乏 OpenAI 中端模型（如 Luna、Terra）的性价比。若持续，Codex 将很快突破 3000 万，Anthropic 或沦为配角。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月20日20时44分"
+  },
+  {
+    "id": "cmt1lrqq0001eroovmz0trflm",
+    "title": "AI for 制药化学合成：今天的AI，能力比肩10年经验的化学家？",
+    "url": "https://elsewhere.news/zh/freesfund/ai-for-ai10",
+    "summary": "AI for Science 正成为一级市场最热方向之一，其在制药化学合成领域的表现已引发关注。文章探讨当前AI在该领域的能力水平，提出其或可媲美拥有10年经验的化学家。这一判断基于AI在合成路线设计、反应预测等任务上的实际表现，但具体评测数据与模型细节尚未披露。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月20日20时40分"
   },
   {
     "id": "cmt1iwvsa05wwrokxeh7lzrap",
