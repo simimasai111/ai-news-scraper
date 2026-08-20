@@ -14968,6 +14968,22 @@
     "date": "2026年8月20日1时0分"
   },
   {
+    "id": "cmt1f6rpf01v5rokxpr006msj",
+    "title": "Grok Bot 如何成为现实版 Jarvis",
+    "url": "https://x.com/elonmusk/status/2090394799228506293",
+    "summary": "Grok Bot 被称最接近现实版 Jarvis，可同时启动业务、交付软件并制造爆款内容。4 分钟即可配置：安装后设为首席幕僚，输入\"Digital Chief of Staff Prompt\"提示词，并接入 X、Stripe 和 GitHub 权限。之后只需粘贴文章即可交给它处理。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月20日19时5分"
+  },
+  {
+    "id": "cmt1f6rpf01v6rokxsklwavri",
+    "title": "Grok Bot 配备远程电脑，关笔记本也能继续运行",
+    "url": "https://x.com/elonmusk/status/2090393510956401073",
+    "summary": "Grok Bot 拥有 SpaceXAI 提供的远程电脑，关闭笔记本或重启桌面后仍能持续工作。与 OpenClaw、Hermes 自托管不同，Grok Bot 每账户配一台电脑而非每智能体一台，同账户内 Bot 共享文件与浏览器登录态，切换无需重新登录。Grok Bot 还支持录制最长 10 分钟工作流并转化为可复用技能。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月20日19时0分"
+  },
+  {
     "id": "cmt1di48c04vpro1ql0kwxqbo",
     "title": "科大讯飞 2026 年上半年归母亏损 2.04 亿元，同比收窄 14.68%",
     "url": "https://www.ithome.com/0/992/253.htm",
@@ -14976,12 +14992,28 @@
     "date": "2026年8月20日18时8分"
   },
   {
+    "id": "cmt1f6rpf01v7rokxmqx11zzz",
+    "title": "Grok Build 上线：零基础生成 iPhone 渲染",
+    "url": "https://x.com/elonmusk/status/2090392529862602857",
+    "summary": "Grok Build https://X.ai/build\n\n【引用 @cb_doge】：这就是为什么 @Grok Build 是颠覆性的。我这辈子从没用过 Blender，却在第一天、零经验的情况下，借助 Grok Build 从零做出了这个 iPhone 渲染图。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月20日18时56分"
+  },
+  {
     "id": "cmt1djxae050dro1qg8y3bxfq",
     "title": "Anthropic 内部运行未发布模型\"Model 2\"，性能超越所有公开版 Claude",
     "url": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally",
     "summary": "Anthropic 在内部运行一款未发布的 AI 模型\"Model 2\"，其综合性能略强于 Claude Mythos 5，但在某些领域较弱。据该公司 2026 年 8 月的风险报告，该模型在内部能力指数 AECI 上比 Mythos 5 高约 1.5 点，提升幅度小于从 Mythos Preview 到 Mythos 5 的跃升。该模型主要用于内部编码、数据生成及研究与工程，目前无外部发布计划。",
     "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月20日18时4分"
+  },
+  {
+    "id": "cmt1f6rpf01v8rokxws99c3f4",
+    "title": "Grok @bot 被赞远超 OpenClaw",
+    "url": "https://x.com/elonmusk/status/2090390238958903722",
+    "summary": "Grok @bot\n\n【引用 @ArthurMacwaters】：Grok @bot 是远优于 OpenClaw 的产品\n\n用起来容易得多，一切都能正常运作，而且体验很好。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月20日18时47分"
   },
   {
     "id": "cmt1edcnq05tgro1qdevaes0p",
