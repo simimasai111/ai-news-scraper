@@ -14760,6 +14760,142 @@
     "date": "2026年8月20日2时18分"
   },
   {
+    "id": "cmt1jq93h06k9rokxm74hnpb9",
+    "title": "技能库\"恶意演化\"：智能体安全隐患新研究",
+    "url": "https://x.com/rohanpaul_ai/status/2090425196868260118",
+    "summary": "新研究揭示智能体\"技能误演化\"风险：恶意任务被存入技能库，即使原始指令消失仍可改变后续行为。21 种演化配置全部生成不安全技能，其中 15 种在后续干净会话中造成危害。论文提出 SKILLMISEVO-GYM/BENCH 检测该风险，并以 SAFEEVOLVE 通过检查、修复、追踪和淘汰机制降低危害。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日21时6分"
+  },
+  {
+    "id": "cmt1jxn3806m3rokxoet0ws5o",
+    "title": "美政府机构警告：黑客正利用 AI 攻击全美多地供水系统",
+    "url": "https://www.ithome.com/0/992/352.htm",
+    "summary": "美国CISA、FBI和NSA等机构警告，黑客正持续入侵关键基础设施使用的西门子S7可编程逻辑控制器，攻击目标涵盖\"所有\"该型号设备，属于针对全美供水和污水处理系统的大范围网络攻击。黑客利用AI生成漏洞利用脚本，再根据公开信息寻找存在漏洞的设备发动攻击，运行旧版软件或安全防护不足的设备尤其容易成为目标。明尼苏达州、密歇根州、阿肯色州、佐治亚州和新泽西州已报告供水设施遭入侵。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日21时5分"
+  },
+  {
+    "id": "cmt1jci2v06cnrokxvh4n4ei9",
+    "title": "面壁智能开源 Ultra-FineWeb-L1 数据集",
+    "url": "https://x.com/OpenBMB/status/2090423917127373120",
+    "summary": "面壁智能开源 Ultra-FineWeb-L1，一个经精细处理的英文网页语料库，包含 1T+ tokens 和约 1.14B 文档，数据覆盖至 CC-MAIN-2025-51。该数据集作为 UltraData 生态的 L1 过滤层，结合文本提取、语言过滤、启发式过滤及去重等流程提升数据质量，已上线 HuggingFace。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月20日21时1分"
+  },
+  {
+    "id": "cmt1jxn3806m1rokxwd51916q",
+    "title": "中国信通院：全国已建成启用超 70 家具身智能训练场，覆盖过半省级行政区",
+    "url": "https://www.ithome.com/0/992/357.htm",
+    "summary": "中国信通院《具身智能训练场研究报告（2026 年）》显示，截至今年 6 月底，全国建成启用超 70 家训练场，在建或规划中 46 家，覆盖过半省级行政区，形成长三角、京津冀和珠三角三大集群。训练场建设正由省会及一线城市向三四五线城市延伸，其中含工业制造场景的训练场占 86%。报告预测，训练场将从建设热潮期向能力沉淀期过渡。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日21时18分"
+  },
+  {
+    "id": "cmt1jxn3806m2rokxlfl66dke",
+    "title": "小鹏辟谣：网传部分车型辅助驾驶研发进度为不实消息，第二代 VLA 蒸馏上车按计划推进",
+    "url": "https://www.ithome.com/0/992/356.htm",
+    "summary": "小鹏集团官方微博辟谣，称网传部分车型辅助驾驶研发进度为不实消息，第二代 VLA 蒸馏上车工作正按计划有序推进。此前发布的小鹏第二代 VLA 智驾通行效率相比传统 L2 级辅助驾驶及 Robotaxi 快 30%，并能看懂交警手势、自动减速配合查酒驾场景。该模型已实现同一套模型打通中国与欧洲，目标 2027 年逐步向海外用户交付。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日21时17分"
+  },
+  {
+    "id": "cmt1jxrh906o7rokxdbcsskct",
+    "title": "宇树CEO：人形机器人3-5年迎ChatGPT时刻",
+    "url": "https://x.com/thexpin/status/2090427663962059149",
+    "summary": "宇树科技CEO王兴兴在2026世界机器人大会上继续给IPO后的市场预期降温，称人形机器人尚不适合大规模进入工厂或家庭，因效率低下且新任务需重新训练。他设定的具身智能\"ChatGPT时刻\"标准是：机器人能通过简单语音或文本指令，在80%陌生环境中完成约80%任务，预计3-5年内实现，最迟10年。宇树2025年营收2.52亿美元、利润约4100万美元，IPO定价对应219倍市盈率。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月20日21时16分"
+  },
+  {
+    "id": "cmt1jzhz906pyrokxuhafkq8p",
+    "title": "Grok 遭加密提示词攻击，可窃取用户聊天记录与个人信息",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted",
+    "summary": "安全公司 Adversa 研究员发现一种针对 Grok 的加密上下文注入攻击，可绕过其静态安全护栏，窃取用户聊天记录、姓名和位置等数据。攻击者将恶意指令加密后连同解密密钥放入网页，Grok 在用户要求总结页面时自行解密并执行，将数据发送至攻击者服务器。xAI 已于 6 月被告知该漏洞，但截至发稿时 Grok 仍会泄露数据。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月20日21时0分"
+  },
+  {
+    "id": "cmt1j0pol05zzrokx537tlmp5",
+    "title": "FLUX Upscale 发布：视频可升级至原生 4K",
+    "url": "https://bfl.ai/blog/flux-video-upscale",
+    "summary": "Black Forest Labs 推出 FLUX Upscale，可将任意视频重新生成至更高分辨率，最高支持原生 4K。该功能现已作为独立的 FLUX Tool 和 API 端点提供。",
+    "source": "Black Forest Labs：Blog（网页）",
+    "date": "2026年8月20日20时58分"
+  },
+  {
+    "id": "cmt1jxn3906m6rokxyqm2e4kf",
+    "title": "美光成立存储研究实验室，未来十年投百亿美元探索\"关键突破\"",
+    "url": "https://www.ithome.com/0/992/345.htm",
+    "summary": "美光科技宣布成立美光研究实验室，计划未来十年投入100亿美元（约合674.61亿元人民币），总部设在美国爱达荷州博伊西，专注核心存储技术、先进存储与计算架构、芯片封装及下一代半导体制造。该实验室将成为美国首个专门面向存储技术的此类研究中心，并支持高校合作、全球分支实验室和产业伙伴项目。美光CEO表示，此举是在已承诺向美国制造和研发投入超2500亿美元基础上的继续加码。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日20时44分"
+  },
+  {
+    "id": "cmt1innxz05qfrokxuh6lc6rb",
+    "title": "Codex 周活破 2000 万，用户弃 Claude 转投",
+    "url": "https://x.com/kimmonismus/status/2090419578618998952",
+    "summary": "Codex 周活跃用户已超 2000 万，增长正以牺牲 Claude 用户为代价，越来越多用户取消 Claude 订阅。作者抱怨 Opus 冗长傲慢、速率限制消耗过快，且 Sonnet 缺乏 OpenAI 中端模型（如 Luna、Terra）的性价比。若持续，Codex 将很快突破 3000 万，Anthropic 或沦为配角。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月20日20时44分"
+  },
+  {
+    "id": "cmt1iwvsa05wwrokxeh7lzrap",
+    "title": "GEN-1.5：通用型 AI 仅凭单次演示教会机器人新任务",
+    "url": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo",
+    "summary": "机器人初创公司 Generalist AI 发布 GEN-1.5，该模型可将 3 至 12 秒的演示作为\"物理提示词\"载入上下文窗口，让机器人无需训练即可执行任务。在开罐、取钱等十项测试中，平均成功率为 59%；用五分钟数据训练十步后，成功率升至 83%。模型还能串联两个提示词、使用仿真演示并部分模仿人类手部动作，但所有结果均出自公司自身，未经独立验证。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月20日20时35分"
+  },
+  {
+    "id": "cmt1jxn3906marokxyn6cr64e",
+    "title": "揭秘 OpenAI 的\"终极野心\"：让智能体像人类一样熟练操作电脑",
+    "url": "https://www.ithome.com/0/992/339.htm",
+    "summary": "OpenAI 员工乐观估计，公司正接近实现创立之初设定的目标：让 AI 智能体像人类一样熟练操作电脑，尤其是使用浏览器。最新模型在训练各阶段加入了专门提升电脑操作能力的数据和流程，并利用真人示范与强化学习强化技能；系统现可直接读取网页底层信息，Codex 已能自行测试代码并修正问题。目前该功能在批量处理邮件和浏览社媒信息流时仍较迟缓，OpenAI 正研究\"确认策略\"以平衡易用性与安全性。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日20时29分"
+  },
+  {
+    "id": "cmt1inny805qhrokxe8hm0vqn",
+    "title": "智谱唐杰：GLM-5.3 验证缩放不止参数",
+    "url": "https://x.com/rohanpaul_ai/status/2090415822741426237",
+    "summary": "智谱创始人唐杰发文称，模型缩放已不止参数增长，参数量只是多个独立旋钮之一，数据、单次前向计算与后训练同样关键。他提出，将推理纳入优化目标后，最优解转向训练更久的小模型。作为验证，GLM-5.3 与 GLM-5.2 基础、架构、总参和激活参数完全相同，仅多花一个月扩展长时程环境与 RL，收益显著。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日20时29分"
+  },
+  {
+    "id": "cmt1hzrpz050urokxrnypoyr0",
+    "title": "可灵AI多角度生成，抢占视觉焦点",
+    "url": "https://x.com/Kling_ai/status/2090408971744018837",
+    "summary": "掌控每一个角度。抢占聚光灯。✨",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年8月20日20时1分"
+  },
+  {
+    "id": "cmt1hua7l04yyrokxwk9rcdwb",
+    "title": "AI先驱Sutton称合成数据是\"大错误\"：世界无限复杂，LLM撞上数据墙",
+    "url": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world",
+    "summary": "图灵奖得主、强化学习奠基人Richard Sutton在访谈中批评合成数据路线，称其\"就是一个大错误\"，无法解决大语言模型的扩展瓶颈。他基于\"大世界假说\"指出，真实世界远比互联网存储的数据庞大，任何模拟都只是\"微观\"且不匹配现实。Sutton主张让智能体从自身经验中持续学习，并批评现有模型训练后权重不再更新。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月20日20时14分"
+  },
+  {
+    "id": "cmt1ht2l004xlrokxx97ykr3w",
+    "title": "Meta AI 推出 Mac 应用，支持系统级听写与屏幕问答",
+    "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps",
+    "summary": "Meta 今日发布 Meta AI 的 Mac 应用，内置系统级听写功能，可跨应用使用，并能基于当前屏幕内容结合 Muse Spark 模型回答问题。该应用还面向商家开放，支持连接 Instagram、Facebook、Meta 广告及 Google Workspace 账户，获取营销洞察、创建提案和起草文档。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月20日20时11分"
+  },
+  {
+    "id": "cmt1htbsw04xxrokx95ng98ra",
+    "title": "Slack 推出协作式 vibe-coding 频道",
+    "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+    "summary": "Slack 发布 Slack Code，为团队提供与 AI 智能体协作的专属开放空间。该功能包含项目专属代码频道，支持标记 Anthropic 的 Claude 或 Cognition 的 Devin 等编码智能体来处理任务，团队成员可审计代码差异、实时预览输出并审批。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月20日20时0分"
+  },
+  {
     "id": "cmt0fnprn03kkro2o3eip88pj",
     "title": "Stripe 收购 OpenRouter：构建 AI 智能交换网络",
     "url": "https://www.a16z.news/p/openrouter-and-stripe-the-intelligence",
