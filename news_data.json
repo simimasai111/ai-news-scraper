@@ -13864,6 +13864,70 @@
     "date": "2026年8月21日1时6分"
   },
   {
+    "id": "cmt1tk0d107d4roovmety1hmy",
+    "title": "Muse Spark 1.2 多模态模型能力解析",
+    "url": "https://x.com/alexandr_wang/status/2090485261629354352",
+    "summary": "1/ Muse Spark 1.2 是一个非常强大的多模态模型--它能够进行视觉编码、机器人规划以及音视频理解，这些能力通过智能体工具整合在一起。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月21日1时5分"
+  },
+  {
+    "id": "cmt1ug2au0921roovc8kmeba7",
+    "title": "GPT-5.5上下文压缩对任务结果影响甚微",
+    "url": "https://x.com/rohanpaul_ai/status/2090499029797044680",
+    "summary": "5倍上下文压缩对GPT-5.5的最终任务结果影响出奇地小。\n\n压缩后的智能体在统计上与完整上下文版本同样成功。\n\n变化的是达成方式：它更重度依赖检索来重建被丢弃的信息。\n\n- arxiv.org/abs/2608.16370\n\n标题：\"上下文压缩让智能体付出什么代价？任务完成指标未揭示的交互成本\"",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日1时59分"
+  },
+  {
+    "id": "cmt1tonwa07i9roovrze0ll65",
+    "title": "Anthropic 如何开展 AI 教学",
+    "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+    "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月21日1时56分"
+  },
+  {
+    "id": "cmt1tnrvi07h4roov529jj7fn",
+    "title": "Mooncake 如何为 Miles 强化学习系统实现高效批量 Rollout 数据传输",
+    "url": "https://www.lmsys.org/blog/2026-08-20-miles-mooncake-rollout-data-transfer",
+    "summary": "大规模 LLM 强化学习采用解耦架构后，rollout 数据从推理侧到训练侧的传输成为瓶颈。Mooncake 针对 Miles 系统中异构、碎片化的 rollout 数据（如 list【np.ndarray】 形式的 tokens、loss_masks、rollout_log_probs），通过批量 I/O 优化实现高效传输，同时满足效率、正确性、可扩展性、灵活性和可预测的交接延迟等要求。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "date": "2026年8月21日1时56分"
+  },
+  {
+    "id": "cmt1ug2ao091zroovxmimqyfe",
+    "title": "Lindy Chrome 扩展：夜间自动整理 Gmail 收件箱",
+    "url": "https://x.com/kimmonismus/status/2090497858604507361",
+    "summary": "Lindy 推出 Chrome 扩展，可接入 Gmail 自动运行。用户早上打开邮箱时，扩展已连夜处理完邮件，并在顶部生成一段简报，让人快速了解新邮件和待办事项。该扩展还能高亮重要邮件、基于记忆起草回复，并学习用户的邮件标签习惯。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日1时55分"
+  },
+  {
+    "id": "cmt1u2bdc08v3roovaa2416ea",
+    "title": "Replit 免费模式搭载 GPT-5.6 Luna 发布",
+    "url": "https://x.com/Replit/status/2090494219513471225",
+    "summary": "Replit 免费模式，由 @OpenAI GPT-5.6 Luna 驱动，让智能比以往任何时候都更易获取。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月21日1时40分"
+  },
+  {
+    "id": "cmt1tkzez07e7roovp6k1osd1",
+    "title": "Grok 机器人升级求推荐实用案例",
+    "url": "https://x.com/ericzakariasson/status/2090493566695113146",
+    "summary": "我想升级我的 Grok 机器人配置！你创建过哪些真正让生活更轻松的机器人？",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月21日1时38分"
+  },
+  {
+    "id": "cmt1tmtdr07giroov3jc5048q",
+    "title": "LLM 本可像人类一样多样写作，但后训练护栏使其文本可被检测",
+    "url": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable",
+    "summary": "Pangram CTO Bradley Emi 发文称，ChatGPT、Claude、Gemini 等系统经后训练与安全护栏约束后，表达范围大幅收窄，产生\"模式坍缩\"效应，使其文本可被检测。未经后训练的基座模型写作更多样，Pangram 检测不会标记；针对特定文本微调的模型及乱码输出同样不被标记。但该结论仅适用于无水印 AI 文本，水印检测预计始终有效。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月21日1时36分"
+  },
+  {
     "id": "cmt1t4au4073zroovx85a9ktc",
     "title": "Grok @Bot 可生成复杂概念讲解视频",
     "url": "https://x.com/elonmusk/status/2090492504223170671",
@@ -13878,6 +13942,14 @@
     "summary": "OpenAI 将 Computer History 与 Record & Replay 功能扩展至欧洲经济区、英国和瑞士。Computer History 现面向 Mac 端 ChatGPT Pro、Business 和 Enterprise 用户开放，可跨应用和网站记住活动，让后续对话更个性化。Record & Replay 同步登陆 macOS 版 ChatGPT 应用。",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月21日1时33分"
+  },
+  {
+    "id": "cmt1tlly607ejroovlw3qtim2",
+    "title": "Grok 持续向用户发送乱码回复",
+    "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
+    "summary": "xAI 的 Grok 聊天机器人出现异常故障，向多名用户输出乱码文本，例如\"match it without and your they and two for planets can practical and often cheese…\"。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月21日1时32分"
   },
   {
     "id": "cmt1tdgrw079uroovvmg78qh2",
@@ -13918,6 +13990,14 @@
     "summary": "皮尤研究中心新研究发现，ChatGPT 发布后发布的网页中，超过三分之一（35%）显示出明显的 AI 创作或编辑痕迹。该结论基于对 Common Crawl 中近 50 万英文网页的分析，其中 2026 年 7 月随机抽样的 1 万网页中约 10% 有显著 AI 痕迹。.com 域名的 AI 创作比例约为 .edu 或 .gov 域名的 10 倍。",
     "source": "TechCrunch：AI（RSS）",
     "date": "2026年8月21日1时18分"
+  },
+  {
+    "id": "cmt1tqvhd07kfroovdo84515n",
+    "title": "Leopold 的愚蠢：一个年轻人如何象征一个时代",
+    "url": "https://garymarcus.substack.com/p/leopolds-folly",
+    "summary": "作者以\"空头支票\"式骗局为类比，指出生成式 AI 行业存在类似循环融资的投机成分，如以 OpenAI 股份为抵押贷款再购入更多股份。文章认为这些债务能否偿付高度不确定，可能最终带来数万亿美元利润，也可能落空，并呼吁需要不同的分析框架。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月21日1时16分"
   },
   {
     "id": "cmt1spxiy06mrroovmstoxb6h",
