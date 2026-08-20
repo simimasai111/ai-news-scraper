@@ -13872,6 +13872,30 @@
     "date": "2026年8月21日3时3分"
   },
   {
+    "id": "cmt1xx5uq0bm7roovh35tvh4a",
+    "title": "UPDF 2.5：为智能体时代打造的轻量级 Adobe 替代品",
+    "url": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era",
+    "summary": "UPDF 2.5 发布，定位为轻量级 Adobe 替代品，主打 PDF 直接编辑、14 种格式转换、38 种语言 OCR，并内置 10 个 AI 智能体。该工具针对 AI 能总结长文档却难以直接改写源文件的痛点，补齐了 PDF 编辑与转换环节。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月21日3时34分"
+  },
+  {
+    "id": "cmt1xvazz0bjiroovntc1a7jt",
+    "title": "ChatGPT 推出 Apple Messages 插件",
+    "url": "https://x.com/jxnlco/status/2090521769916441050",
+    "summary": "我已经用这个来自动化给女朋友发早安短信好几周了！\n\n开玩笑的\n\n【引用 @ChatGPT】：有了新的 Apple Messages 插件，日常对话变得更轻松了。\n\n搜索消息、查看对话、起草并发送回复--全部通过 Mac 上的 ChatGPT 完成。\n\n现已可在桌面端的 ChatGPT Work 和 Codex 中使用。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月21日3时30分"
+  },
+  {
+    "id": "cmt1xx62g0bm9roovx170bbzg",
+    "title": "Adobe Firefly 新增 AI 音频工具并接入 Google Gemini Omni Flash",
+    "url": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash",
+    "summary": "Adobe 在 Firefly 平台正式推出三款 AI 音频工具：Generate Music 生成免版税音乐、Generate Speech 将脚本转为配音、Generate Sound Effects 制作场景音效，均宣称可用于商业用途。Firefly AI Assistant 现提供每日免费生成次数，并新增 Gemini Omni Flash 模型，支持视频、音频、图像及文本输入。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月21日3时29分"
+  },
+  {
     "id": "cmt1x270f0at7roovb0ahg5yy",
     "title": "Grok应用构建功能全面开放",
     "url": "https://x.com/milichab/status/2090519353087213780",
