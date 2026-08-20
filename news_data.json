@@ -13856,6 +13856,70 @@
     "date": "2026年8月21日3时7分"
   },
   {
+    "id": "cmt1wl7lb0aljroovlh0ftd30",
+    "title": "Anthropic 拟 8 月底 IPO，目标史上最大",
+    "url": "https://x.com/kimmonismus/status/2090515309027623177",
+    "summary": "Anthropic 据报道准备最早于 8 月底公开递交 IPO 文件。公司期望募资至少与 SpaceX 创纪录的 750 亿美元持平，估值约 2 万亿美元，有望成为史上最大 IPO。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日3时4分"
+  },
+  {
+    "id": "cmt1x09rz0as5roovtjn2rjl0",
+    "title": "ChatGPT Sites 新增协作者编辑功能",
+    "url": "https://x.com/OpenAIDevs/status/2090515079058108745",
+    "summary": "将团队成员添加为 ChatGPT Sites 的编辑者，即可共同构建和发布内容。\n\n协作者可以推送更改到同一项目，而 Codex 在后台处理 git 管理和 CI。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月21日3时3分"
+  },
+  {
+    "id": "cmt1x270f0at7roovb0ahg5yy",
+    "title": "Grok应用构建功能全面开放",
+    "url": "https://x.com/milichab/status/2090519353087213780",
+    "summary": "从任何 Grok 应用中构建应用，支持完整认证、数据库、私有共享、自定义域名及 SpaceXAI API 使用\n\n【引用 @grok】：在 https://grok.com、iOS 和 Android 上构建应用现已对所有 SuperGrok 和 X Premium 套餐开放\n\n一条提示词即可将创意转化为带独立域名的已发布产品。",
+    "source": "X：Andrew Milich (@milichab)",
+    "date": "2026年8月21日3时20分"
+  },
+  {
+    "id": "cmt1wtdjj0anwroovzyso0xzj",
+    "title": "Google 为出版商提供新按钮，应对 AI 驱动的流量下滑",
+    "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
+    "summary": "Google 推出可嵌入出版商网站的\"Preferred Sources\"按钮，读者点击后可将该网站标记为\"首选来源\"，使其在 Google Search、Discover 和 Google News 中更频繁地突出显示。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月21日3时18分"
+  },
+  {
+    "id": "cmt1x09r50as3roovomoabpif",
+    "title": "Claude Academy 上线，免费课程开放学习",
+    "url": "https://x.com/claudeai/status/2090518650251804742",
+    "summary": "Claude Academy 现已上线。\n\n无论你是刚开始了解 AI，还是每天都在使用 Claude，这里都有一条适合你的学习路径。课程和教程免费开放，任何人都可通过 https://academy.claude.com 访问。",
+    "source": "X：Claude (@claudeai)",
+    "date": "2026年8月21日3时17分"
+  },
+  {
+    "id": "cmt1xa1tx0b6uroovvh8ttno0",
+    "title": "ChatGPT Sites 支持多人协作编辑发布",
+    "url": "https://x.com/thsottiaux/status/2090518287532916854",
+    "summary": "创建一个 ChatGPT Site，分享出去，然后一起创作。我一直在和别人一起做小游戏和网站，乐趣无穷。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月21日3时16分"
+  },
+  {
+    "id": "cmt1wtdjj0anxroovq8pkp9z4",
+    "title": "Runlayer 与 Rippling 互撤诉讼，但这场纷争仍是创始人的警示",
+    "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders",
+    "summary": "Runlayer 与 Rippling 于周三晚互相撤销诉讼，未达成和解、未支付任何款项。Rippling 随即发布了引发争议的 MCP gateway 产品。这场短暂法律纠纷警示创始人：AI 时代新软件构建近乎零成本，下一个竞争对手可能是潜在客户。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月21日3时15分"
+  },
+  {
+    "id": "cmt1xa1tx0b6vroovzw72dg4t",
+    "title": "ChatGPT 苹果信息插件让日常对话更便捷",
+    "url": "https://x.com/thsottiaux/status/2090517433199247741",
+    "summary": "更多上下文，更好的帮助。\n\n【引用 @ChatGPT】：全新的 Apple Messages 插件让日常对话变得更轻松。\n\n搜索消息、跟进对话、起草并发送回复--这一切都可以在你的 Mac 上通过 ChatGPT 完成。\n\n现已于桌面端的 ChatGPT Work 和 Codex 中提供。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月21日3时12分"
+  },
+  {
     "id": "cmt1w7h540aesroovcp40iqz5",
     "title": "Replit 免费模式上线，GPT-5.6 Luna 驱动",
     "url": "https://x.com/Replit/status/2090514256395419967",
