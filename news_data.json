@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt22rjcg0g4broovzcku727f",
+    "title": "Grok Build 上手最简单方式公布",
+    "url": "https://x.com/elonmusk/status/2090560905746473398",
+    "summary": "尝试 Grok Build 的最简单方式。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月21日6时5分"
+  },
+  {
     "id": "cmt20mdbe0dkcroov0mi22j2o",
     "title": "Optimus与Grok将提供全球医疗服务",
     "url": "https://x.com/elonmusk/status/2090546861073449189",
@@ -13856,12 +13864,44 @@
     "date": "2026年8月21日5时9分"
   },
   {
+    "id": "cmt225ml30emfroov15sfxmz0",
+    "title": "MiniMax 与 ComfyUI 联手举办 H3 挑战赛",
+    "url": "https://x.com/MiniMax_AI/status/2090557955070738583",
+    "summary": "MiniMax 与 ComfyUI 联合举办围绕 H3 的社区挑战赛，8/20 开启，9/1 截止提交，9/2 直播公布获奖者。参赛者有机会赢取 RTX 5090 或 5060 Ti 显卡，本地设备或 Comfy Cloud 均可参与，分享作品至社交平台并标注 #ComfyH3 即有机会被官方转发。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月21日5时53分"
+  },
+  {
+    "id": "cmt22d5l50euvroovrm5sqdu1",
+    "title": "Claude 官方分享近期优秀 Claude Code 项目",
+    "url": "https://x.com/claudeai/status/2090557643974693055",
+    "summary": "我们最近看到的一些最喜欢的 Claude Code 项目：\n\nhttps://x.com/mannay/status/2087522034351796728?s=20",
+    "source": "X：Claude (@claudeai)",
+    "date": "2026年8月21日5时52分"
+  },
+  {
     "id": "cmt21y3pn0eicroovmqf8polu",
     "title": "马斯克谈人形机器人将普及顶级医疗",
     "url": "https://x.com/cb_doge/status/2090556130120651018",
     "summary": "埃隆·马斯克：\"如果人形机器人拥有极高的灵活性和惊人的智能，那么地球上的每个人都将获得比当今最富有的人更好的医疗服务。\n\n我不得不做三次颈部手术，因为前两次都做错了。背痛可能是它能消除的问题之一。人类的平均幸福水平将大幅提升。\"",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月21日5时46分"
+  },
+  {
+    "id": "cmt22d5mz0euxroove8fy0jlm",
+    "title": "Codex与ChatGPT共享线程展示构建过程",
+    "url": "https://x.com/OpenAIDevs/status/2090555241343418814",
+    "summary": "Codex 和 ChatGPT Work 中的共享线程可让你通过只读链接展示构建背后的过程，让其他人了解拉取请求、深度探讨或项目交接背后的背景与推理。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月21日5时43分"
+  },
+  {
+    "id": "cmt225mkp0emdroovljnfycib",
+    "title": "阿里 Qwen-Image-3.0-Pro 登顶图像编辑榜第六",
+    "url": "https://x.com/ArtificialAnlys/status/2090553278144860623",
+    "summary": "阿里发布第三代图像模型 Qwen-Image-3.0 系列，旗舰版 Pro 在 Artificial Analysis 图像编辑榜位列第六、文生图榜第九，较上代分别提升 83 和 48 Elo 分。该系列支持 4.5k token 提示词、10 像素级精确文字渲染及 12 种语言，Pro 版定价 $0.04/张（1K 分辨率），已在阿里云 Model Studio 上线。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月21日5时35分"
   },
   {
     "id": "cmt21y3pn0eidroovyx1ti183",
@@ -13894,6 +13934,14 @@
     "summary": "Google Cloud 发布视频解析 IMAXXING 的架构，该服务监控全美 70mm IMAX 场次并在好座位出现时提醒订阅者，已吸引超 9，000 用户。",
     "source": "Google AI：DEV 作者专属（RSS）",
     "date": "2026年8月21日5时29分"
+  },
+  {
+    "id": "cmt226niw0en3roovfvcqsdgx",
+    "title": "Show HN：Huzzah--用持久化伪代码替代长文本提示词的 AI 编程新方法",
+    "url": "https://www.danielvaughn.dev/posts/huzzah",
+    "summary": "开发者推出实验性编辑器 Huzzah，以声明式、持久化的伪代码文件替代长文本、命令式且一次性的提示词来驱动 LLM 生成代码。保存文件时，Huzzah 捕获 diff 并将其作为提示词，自动重新生成受影响的源代码。该项目目前处于实验阶段，源码已公开。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日5时26分"
   },
   {
     "id": "cmt21y3q20eikroovjrtw2h0q",
