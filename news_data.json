@@ -13848,6 +13848,54 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt0s3a420do4ro2o23x3xwj7",
+    "title": "功能请求：支持 AGENTS.md",
+    "url": "https://github.com/anthropics/claude-code/issues/6235",
+    "summary": "Codex、Amp、Cursor 等编码智能体正围绕 AGENTS.md 形成统一标准，该 Markdown 文件可帮助智能体理解代码库。相比之下，CLAUDE.md 过于专属 Claude Code，难以通用。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月20日8时5分"
+  },
+  {
+    "id": "cmt0s2emt0dkzro2ob2oy1xnh",
+    "title": "全国首个中小学鸿蒙智慧校园建设规范团体标准在东莞启动研制",
+    "url": "https://www.ithome.com/0/991/884.htm",
+    "summary": "东莞启动《中小学鸿蒙智慧校园建设规范》团体标准研制，这是国内首个聚焦中小学鸿蒙智慧校园建设的专项标准。该标准定位为\"鸿蒙专项补充型标准\"，重点围绕鸿蒙设备统一互联、跨端协同、终端准入与安全、数据互操作、智慧教室场景五大能力域展开规范。东莞今年3月与华为签署战略合作协议，共同启动\"鸿蒙之城\"建设，3所试点学校已发布鸿蒙AI智慧课室等十大场景需求。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日8时4分"
+  },
+  {
+    "id": "cmt0s2emt0dl0ro2oluwdfty4",
+    "title": "仓颉编程语言进高校：20+ 所院校、34 位教师参加郑州师资培训",
+    "url": "https://www.ithome.com/0/991/883.htm",
+    "summary": "华为仓颉编程语言师资培训郑州场于8月1~2日举办，吸引全国20多所高校的34名教师现场参训，涵盖计算机、软件工程、人工智能等专业。培训围绕仓颉语言理论与实践、AI开发技术及基于仓颉开发鸿蒙应用等方向展开。此前仓颉已开源并发布1.0.0 LTS版本，2026年已有多项进高校成果。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日8时3分"
+  },
+  {
+    "id": "cmt0sh1p80e0lro2o5op3ufqe",
+    "title": "OpenRouter 加入 Stripe，硅基流动祝贺",
+    "url": "https://x.com/SiliconFlowAI/status/2090233634548559992",
+    "summary": "热烈祝贺整个 OpenRouter 团队！这是一个令人振奋的里程碑。作为服务提供商，我们很高兴能成为这段旅程的一部分，并期待接下来的发展！",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "date": "2026年8月20日8时25分"
+  },
+  {
+    "id": "cmt0s2ems0dkxro2oylebzxob",
+    "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+    "url": "https://www.ithome.com/0/991/886.htm",
+    "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日8时17分"
+  },
+  {
+    "id": "cmt0sa6ra0droro2o1mmu33m4",
+    "title": "Codex 开源框架助力团队集成智能体",
+    "url": "https://x.com/OpenAIDevs/status/2090230646497251387",
+    "summary": "团队正在使用开源的 Codex 框架，将智能体引入他们已使用的工具中，从内部应用到运营仪表板。\n\n他们的应用程序控制界面、上下文、工具和审批，而框架则负责智能体的运行循环。\n\nhttps://developers.openai.com/blog/codex-as-a-platform",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月20日8时13分"
+  },
+  {
     "id": "cmt0ppzyf0br1ro2oaj3gyjwk",
     "title": "Grok Build v1.0.7 更新：新增工作流目录与权限选项",
     "url": "https://x.com/cb_doge/status/2090214274031591830",
@@ -13870,6 +13918,22 @@
     "summary": "\"让我自己造个工具来搞定这个罐子吧\" 😭\n\n（引用 @8bit_e：使用 MiniMax H3 进行图像修复 😎 https://github.com/drozbay/MaskVidExperiments）",
     "source": "X：MiniMax (@MiniMax_AI)",
     "date": "2026年8月20日7时5分"
+  },
+  {
+    "id": "cmt0r0c1a0cshro2oc43fy0nr",
+    "title": "Stripe 收购 OpenRouter 并非因为\"奇点\"",
+    "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity",
+    "summary": "Stripe 确认收购 AI 模型路由平台 OpenRouter，据称交易金额达 75 亿美元，远超其 5 月时 13 亿美元的估值。Stripe 创始人称收购基于\"奇点\"开始的判断，但更实际的原因在于：OpenRouter 能帮助 Stripe 切入 AI 时代的支出管理，并掌握开发者 AI 使用动向及对模型供应商的影响力。交易预计数周内完成，OpenRouter 将保持独立运营。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月20日7时32分"
+  },
+  {
+    "id": "cmt0qsk350cnrro2ohkv4jy3z",
+    "title": "上海AI实验室等：智能体风险随推理能力升级",
+    "url": "https://x.com/rohanpaul_ai/status/2090219448330522918",
+    "summary": "上海人工智能实验室与清华大学新论文警告，AI智能体在具备意识前即可威胁人类能动性与自主性。风险并非随智能体变强而简单\"变大\"，而是随其推理范围改变类别：推理外部世界时威胁人类能动性，能建模人类与社会行为时威胁自主性，能表征自身状态与目标时则转向人类控制风险，如对齐造假、抗拒关机。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日7时28分"
   },
   {
     "id": "cmt0qeuim0cdxro2omsw9pw9l",
@@ -13896,12 +13960,28 @@
     "date": "2026年8月20日7时1分"
   },
   {
+    "id": "cmt0qsk350cnsro2o4zq0z1pc",
+    "title": "Stripe 收购 OpenRouter：智能体将成经济主体",
+    "url": "https://x.com/rohanpaul_ai/status/2090217227694080186",
+    "summary": "Stripe 致投资者信披露其收购 OpenRouter 的理由：OpenRouter 的 token 消耗量年初至今以每周 9% 的速度增长。Stripe 认为智能体即将成为独立的经济参与者，并称全球 GDP 有望迈向\"千万亿美元\"时代，其现有业务已覆盖近 2% 的全球 GDP。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月20日7时19分"
+  },
+  {
     "id": "cmt0qeuiv0cdzro2o5w735ynr",
     "title": "Replit 周五直播详解 Free Mode 与 Routines",
     "url": "https://x.com/Replit/status/2090216789594567053",
     "summary": "本周五上午 9 点（太平洋时间）与 Free Mode 团队见面。\n\n加入 Replit 社区团队直播，深入了解 Free Mode 和 Conversations，并抢先预览黑盒渗透测试中的 Routines。\n\n将在 YouTube、LinkedIn 和 X 上直播。报名：https://luma.com/g076onow",
     "source": "X：Replit (@Replit)",
     "date": "2026年8月20日7时18分"
+  },
+  {
+    "id": "cmt0ra22y0d3xro2ouxsabb8c",
+    "title": "smolvm 1.8.3 沙箱实测：适合隔离运行不可信 Python 与 JavaScript",
+    "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox",
+    "summary": "对 smolvm 1.8.3 的测试显示，它适合用硬件隔离 VM 而非共享内核容器来沙箱运行不可信的 Python 和 JavaScript 数据转换任务。离线本地镜像、无网络执行、CPU/内存限制、访客强制超时、存储配额、只读输入挂载、可写输出挂载及 `--unprivileged` 均按预期工作，冷启动约 0.6-1.5 秒，热执行约 50 毫秒。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月20日7时16分"
   },
   {
     "id": "cmt0px8kn0bt6ro2ofybl81iq",
