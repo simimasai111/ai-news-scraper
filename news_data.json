@@ -14968,12 +14968,44 @@
     "date": "2026年8月20日1时0分"
   },
   {
+    "id": "cmt14xgp30q9ero2oz49410qh",
+    "title": "极佳视界发布通用双足人形机器人 Maker L01，曾获华为哈勃投资",
+    "url": "https://www.ithome.com/0/992/082.htm",
+    "summary": "极佳视界今日发布通用双足人形机器人 Maker L01，全身搭载 31 个关节电机，支持奔跑、跳跃、空翻等动作，最高移动速度 4m/s。该机器人重 42kg，配备 518Wh 热插拔电池，宣称全栈开放，从科研到赛事开发均可开箱即用。极佳视界成立于 2023 年，2025 年 11 月完成亿元级 A1 轮融资，据量子位消息投资方包括华为哈勃。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日13时59分"
+  },
+  {
     "id": "cmt12zomo0mtlro2o91x3ix3x",
     "title": "OpenCode 平台 Muse Spark 1.2 免费开放",
     "url": "https://x.com/opencode/status/2090304057323737237",
     "summary": "Muse Spark 1.2 现已在 OpenCode 上免费开放。",
     "source": "X：opencode (@opencode)",
     "date": "2026年8月20日13时4分"
+  },
+  {
+    "id": "cmt13v2gq0nldro2oozcb7sw9",
+    "title": "非技术人看AI：零上下文零推理",
+    "url": "https://x.com/swyx/status/2090314794456785263",
+    "summary": "HAHAHAHAHAHA\n\n非技术人士简直被彻底烤焦了，烧穿了。\n\n你能想象在零上下文、零推理、零内在世界模型的情况下报道AI吗？那一定无比欢乐，一切都那么惊艳，只看表面就够了。\n\n活在这样的时代真好啊\n\n【引用 @OpenAIDevs】：借助 Codex，@asana 在两周内完成了从 Enzyme 到 React Testing Library 的前端测试迁移--这个项目原本预计还要五年。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月20日13时47分"
+  },
+  {
+    "id": "cmt140lha0ntvro2omee06giw",
+    "title": "OpenClaw 新版本功能演示与稳定性说明",
+    "url": "https://x.com/openclaw/status/2090314770893467817",
+    "summary": "现场演示：OpenClaw 的新 Web UI、多人版 OpenClaw 和 Mac 入门指南\n\n@hrudolph、@Pat_Erichsen 和 @jlehman_ 演示了下一个 OpenClaw 版本将带来的功能，并解释了为什么稳定性需要额外的时间。\n\nThe ClawCast 第 8 集：https://openclaw.ai/podcast/episode-8",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年8月20日13时47分"
+  },
+  {
+    "id": "cmt14xgp30q9jro2ouwbyfpwl",
+    "title": "Ornith-1.5 系列开源模型发布：397B 版性能媲美 Claude Opus 4.8，量化版可运行于 iPhone 17",
+    "url": "https://www.ithome.com/0/992/076.htm",
+    "summary": "DeepReinforce 推出 Ornith-1.5 系列开源模型，训练中引入\"自我改进循环\"机制。其中最大 Ornith-1.5-397B 采用 MoE 架构，总参数 3970 亿，性能媲美并在部分测试中超过 Claude Opus 4.8；另有 35B-A3B 与 9B 两个规模，9B 的量化版 Ornith-1.5-9B-Mobile 可在安卓手机及 iPhone 17 上运行。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日13时36分"
   },
   {
     "id": "cmt13edcq0nbnro2ovyb71u21",
