@@ -14968,6 +14968,70 @@
     "date": "2026年8月20日1时0分"
   },
   {
+    "id": "cmt18rw990tsaro2oxnx9jr0g",
+    "title": "分析显示 ChatGPT 约三分之一广告与对话内容无关",
+    "url": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations",
+    "summary": "AI 可见性平台 Searchable 分析了 2026 年 7 月 4 日至 8 月 4 日期间 ChatGPT 真实对话中投放的 11，000 多条广告，发现 33% 的广告与对话毫无关联，27% 为直接匹配，40% 为上下文匹配。68% 的广告出现在毫无购买意图的对话中。OpenAI 首席营收官 Denise Dresser 称自 2 月广告业务上线以来用户关闭广告率已下降一半。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月20日16时7分"
+  },
+  {
+    "id": "cmt1ac4t1020kro1q7pe20466",
+    "title": "使用 TRL 与 LoRA 在 Anthropic HH-RLHF 上审计偏好偏差并微调语言模型",
+    "url": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora",
+    "summary": "本教程基于 Anthropic HH-RLHF 数据集，使用 Direct Preference Optimization（DPO）构建端到端偏好学习流程。流程包括审计数据集的偏好偏差、运行词汇捷径诊断、用 TRL 和可选 LoRA 构建 DPO 训练管线，并微调 Qwen2.5-0.5B-Instruct 模型。最后评估奖励准确率、分析各子集表现并检查长度偏差，保存策略供后续实验。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月20日16时51分"
+  },
+  {
+    "id": "cmt1ac65a020mro1qwfau8cfy",
+    "title": "陶哲轩：AI 可能引发数学自哥德尔以来最大的危机",
+    "url": "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel",
+    "summary": "数学家陶哲轩在 2026 年国际数学家大会论文中警告，AI 可能让数学陷入类似 1900-1930 年基础危机的动荡，核心问题不再是数学真理，而是数学价值观与实践的隐性框架。他提出工作假设：AI 工具将很快能以合理水平完成相当一部分研究级数学任务。其依据是 First-Proof Project 第二轮中，10 个未发表研究问题有 7 个至少获得一个 AI 系统的及格评价，单题成本数十至数百美元。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月20日16时49分"
+  },
+  {
+    "id": "cmt19y1k101poro1qv1gj19c6",
+    "title": "马东锡NLP开坑系统讲解后训练",
+    "url": "https://x.com/dongxi_nlp/status/2090358508826820901",
+    "summary": "模型们飞速的进化，benchmark 数字，dgx spark 玩家千篇一律的多少 token/s 太过苍白。\n\n准备开个新坑，系统地写写后训练。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月20日16时41分"
+  },
+  {
+    "id": "cmt199kx20u3cro2olxo8wmer",
+    "title": "OpenAI 推出 Private Safety Processing 安全系统，可在不存储客户数据的情况下捕捉滥用行为",
+    "url": "https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data",
+    "summary": "OpenAI 推出名为\"Private Safety Processing\"的安全系统，面向企业客户提供最先进 AI 模型的同时，通过跨多次关联交互检测滥用模式，并保持零数据保留（ZDR），仅接收包含活动类型和严重程度的窄安全信号，不查看实际输入或输出。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月20日16时1分"
+  },
+  {
+    "id": "cmt18rw990tsbro2o6u1qxoa3",
+    "title": "宾州AI数据中心监管新模板：无需新立法即可落地",
+    "url": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template",
+    "summary": "宾夕法尼亚州为AI数据中心监管确立新模板，开发商须先签署合同接受固定条件及违约处罚，并说服所在城镇同意，州政府才会受理其开发许可申请。该模式无需新立法即可实施，为AI基础设施建设提供了可复制的监管路径。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月20日16时0分"
+  },
+  {
+    "id": "cmt197t4k0tzkro2otdm4ux0o",
+    "title": "消息称 Anthropic 与 AI 芯片初创 Fractile 达成约 2.5 亿美元初步供应合同",
+    "url": "https://www.ithome.com/0/992/165.htm",
+    "summary": "彭博社报道，AI 芯片初创企业 Fractile 已与 Anthropic 就总价值约 2.5 亿美元（约合 16.87 亿元人民币）的供应合同达成初步协议，计划 2027 年开始交付其 AI ASIC 推理加速器。该芯片采用\"模拟内存计算\"架构，运行头部模型时可实现 25 倍速度、1/10 成本。Fractile 正寻求以 65 亿美元估值完成新一轮融资。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日15时44分"
+  },
+  {
+    "id": "cmt197t4k0tzlro2oi6kufvmx",
+    "title": "北京人形机器人创新中心发布天工 Omni，CEO 熊友军称入局不算晚",
+    "url": "https://www.ithome.com/0/992/157.htm",
+    "summary": "2026 世界机器人大会期间，北京人形机器人创新中心发布轻量化人形机器人天工 Omni，身高 1.35m、整机 39kg，是全球首个兼具感知移动与全身通用控制的 Humanoid Native 开放底座。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日15时38分"
+  },
+  {
     "id": "cmt17pbf90sszro2ox46dl92i",
     "title": "HoneyBook 推出 Claude 连接器 HoneyBook MCP，以智能体 AI 简化小企业运营",
     "url": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector",
