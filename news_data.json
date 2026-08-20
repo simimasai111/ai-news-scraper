@@ -13848,6 +13848,62 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt20mdbe0dkcroov0mi22j2o",
+    "title": "Optimus与Grok将提供全球医疗服务",
+    "url": "https://x.com/elonmusk/status/2090546861073449189",
+    "summary": "总有一天，Optimus + Grok 将为地球上所有人提供不可思议的医疗服务。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月21日5时9分"
+  },
+  {
+    "id": "cmt20hryj0dikroovfjd5gq6y",
+    "title": "OpenRouter 上线 Ox Alpha 隐身模型",
+    "url": "https://x.com/OpenRouter/status/2090544970923184269",
+    "summary": "🥷 新隐身模型：Ox Alpha\n\nOx Alpha 是一款前沿模型，专为高效编码、持续智能体工作及实际生产环境使用而构建。\n\n- 1M token 上下文窗口 - 支持文本、图像和视频输入\n\n立即试用并分享反馈以改进模型！https://openrouter.ai/stealth/ox-alpha",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月21日5时2分"
+  },
+  {
+    "id": "cmt20vizp0dr3roovqeh75r9d",
+    "title": "中国在开源 AI 领域全球第一，毫无对手",
+    "url": "https://x.com/SemiAnalysis_/status/2090544571000189105",
+    "summary": "中国在开源 AI 领域全球第一，毫无对手",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月21日5时0分"
+  },
+  {
+    "id": "cmt20vizi0dr1roovo8srzhpk",
+    "title": "Meta Muse Spark 1.2 登顶视频转网站评测",
+    "url": "https://x.com/rohanpaul_ai/status/2090544401097589109",
+    "summary": "Meta 的 Muse Spark 1.2 在 Design Arena 视频转网站基准测试中位列第一，Elo 评分 1279，并在图像转代码任务中均进入前三。该模型在图像转 HTML 和图像转前端任务中分别以 1252 和 1272 的 Elo 评分位居第二和第三。其定价为每百万输入 token 1.25 美元、每百万输出 token 4.25 美元，在三个类别中均处于价格偏好帕累托前沿。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日5时0分"
+  },
+  {
+    "id": "cmt2015bg0d3wroovilom2lq8",
+    "title": "用尿液冷却数据中心可行吗？Liquid Death 广告背后确有真实技术",
+    "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee",
+    "summary": "Liquid Death 与 Jason Kelce 合作推出恶搞广告，号召人们用尿液冷却 AI 数据中心。专家指出，再生水（经处理的废水和污水）确已被用于数据中心冷却，可部分替代饮用水需求。但该方案依赖大型污水处理设施，弗吉尼亚州劳登县数据中心每日使用约 2 亿加仑再生水，仅占其日用水量的 43%。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月21日4时53分"
+  },
+  {
+    "id": "cmt20hry90diiroovvjnb25gi",
+    "title": "Claude 平台四大功能全面开放",
+    "url": "https://x.com/ClaudeDevs/status/2090540270219567575",
+    "summary": "Computer use、浏览器工具、Skills API 和 Files API 现已在 Claude 平台上全面可用。\n\n通过更少的任务往返次数，在无 API 的应用程序中实现工作自动化，并基于版本化技能和可复用文件构建 Claude 托管智能体。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月21日4时43分"
+  },
+  {
+    "id": "cmt200h0w0d3jroovl3g0w8uj",
+    "title": "Artificial Analysis 发布端点准确率指数：73%-100%",
+    "url": "https://x.com/ArtificialAnlys/status/2090539699735830991",
+    "summary": "Artificial Analysis 在旧金山 Inference， Measured 活动上发布 Endpoint Accuracy Index，自托管发布权重作为 100% 参考，用三项评测衡量各供应商端点，得分区间为 73%-100%。量化、KV-cache 压缩和上下文限制即使未体现在定价页上，也会影响质量。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月21日4时41分"
+  },
+  {
     "id": "cmt1zsxoi0cz9roovitzd81g6",
     "title": "OpenAI 企业 API 增速反超 Anthropic",
     "url": "https://x.com/rohanpaul_ai/status/2090539118103294134",
@@ -13856,12 +13912,28 @@
     "date": "2026年8月21日4时39分"
   },
   {
+    "id": "cmt200h190d3lroovoxta1hrq",
+    "title": "首家为下轮训练大幅裁员的AI实验室",
+    "url": "https://x.com/natolambert/status/2090538438411894955",
+    "summary": "第一家在下一次训练运行前大幅裁减员工的大语言模型实验室。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月21日4时36分"
+  },
+  {
     "id": "cmt1zf8cd0cqlroovok938e5g",
     "title": "Anthropic 高级模型数据留存新政今秋落地",
     "url": "https://x.com/bcherny/status/2090537902912815536",
     "summary": "Anthropic 针对 Mythos 级模型推出数据留存新政，客户可完全掌控自有数据，Anthropic 不保留任何数据。该政策旨在满足企业隐私与合规要求，将于今年秋季上线。",
     "source": "X：Boris Cherny (@bcherny)",
     "date": "2026年8月21日4时34分"
+  },
+  {
+    "id": "cmt206dhq0d95roovjuqm08xj",
+    "title": "Claude Code v2.1.238 发布：新增 readline 键位、插件市场 headersHelper 与多项 Remote Control 修复",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.238",
+    "summary": "Claude Code v2.1.238 发布，新增 keybindingFlavor 设置（可设为 \"readline\" 使 Ctrl+W 删除至前一个空白符），并为插件市场引入 headersHelper 以生成 HTTP 头。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月21日4时33分"
   },
   {
     "id": "cmt1zsxoi0czaroovfdjcl6y0",
@@ -13878,6 +13950,22 @@
     "summary": "Anthropic 推出了 Claude Academy，一套全新的学习资源，帮助人们快速上手 AI。\n\n用户对 AI 工具了解得越多，就越会去使用它们。\n\n测试也是一种学习方式 👀",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月21日4时31分"
+  },
+  {
+    "id": "cmt207zo90dbdroovttyiad1s",
+    "title": "GPT-Image-2 API 新增透明背景预览",
+    "url": "https://x.com/OpenAIDevs/status/2090536933571330440",
+    "summary": "GPT-Image-2 现已在 API 中提供透明背景预览。\n\n生成可复用的素材，可置于任意背景之上--适用于产品图、平面设计、网站原型和营销活动。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月21日4时30分"
+  },
+  {
+    "id": "cmt1zzhly0d2proov0dz4zdoz",
+    "title": "帕兰提尔是主权AI公司吗",
+    "url": "https://x.com/aidangomez/status/2090536692117614861",
+    "summary": "Palantir？主权AI公司？",
+    "source": "X：Aidan Gomez（Cohere CEO，@aidangomez）",
+    "date": "2026年8月21日4时29分"
   },
   {
     "id": "cmt1z1q5n0c93roovlvh40tew",
