@@ -13848,12 +13848,108 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt238w6w0gcoroovztrvkse0",
+    "title": "ChatGPT 推出 Apple Messages 插件，可直接代发短信",
+    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin",
+    "summary": "OpenAI 为 ChatGPT 推出 Apple Messages 插件，用户可将 Messages 收件箱与聊天机器人连接，直接在 ChatGPT 中整理、分析或编辑消息。该插件还支持 Codex 和 ChatGPT Work，可用于专业场景，并能代用户删除、起草和发送消息。OpenAI 称插件在本地运行，不会建立全部消息索引，但建议用户保留发送前审查，避免开启持续批准。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月21日6时9分"
+  },
+  {
+    "id": "cmt230ov00gaaroovyci6pw1v",
+    "title": "Anthropic 30天留存规则保留，企业可自管数据",
+    "url": "https://x.com/rohanpaul_ai/status/2090561676294922749",
+    "summary": "Anthropic 的 Mythos 级模型 30 天留存规则将保留，但企业可改在自有 AWS/GCP 环境内保存日志并自行管控，Anthropic 不留副本。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日6时8分"
+  },
+  {
+    "id": "cmt230ov70gacroov69088ztg",
+    "title": "ChatGPT macOS 新增 Apple 信息插件",
+    "url": "https://x.com/testingcatalog/status/2090561297834197124",
+    "summary": "macOS 版 ChatGPT 现可通过新插件集成 Apple 信息（Messages）。\n\n该插件允许用户搜索对话记录，并撰写和发送回复。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月21日6时7分"
+  },
+  {
     "id": "cmt22rjcg0g4broovzcku727f",
     "title": "Grok Build 上手最简单方式公布",
     "url": "https://x.com/elonmusk/status/2090560905746473398",
     "summary": "尝试 Grok Build 的最简单方式。",
     "source": "X：Elon Musk (@elonmusk, xAI)",
     "date": "2026年8月21日6时5分"
+  },
+  {
+    "id": "cmt243gc40h2oroovqtjz2ot8",
+    "title": "Grok Build 将支持云端智能体任务调度",
+    "url": "https://x.com/testingcatalog/status/2090570233404698995",
+    "summary": "SpaceXAI 一直在预告 Grok Build 即将推出的一项新功能，用户将能够为云端智能体安排任务。\n\n敬请期待 👀 感谢 @Baconbrix",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月21日6时42分"
+  },
+  {
+    "id": "cmt243gbo0h2kroov3phsrcnc",
+    "title": "机器人腰部关节成运动极限",
+    "url": "https://x.com/rohanpaul_ai/status/2090570107588329543",
+    "summary": "那条爆火视频的另一个角度。\n\n残余动能击中了关节的薄弱轴。\n\n腰部连杆成了极限。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日6时42分"
+  },
+  {
+    "id": "cmt243gbo0h2lroovglxyzaew",
+    "title": "苹果反击OpenAI：再诉商业秘密窃取",
+    "url": "https://x.com/rohanpaul_ai/status/2090568414435926416",
+    "summary": "苹果8月19日向美国地区法院提交新回应，反驳OpenAI驳回诉讼的动议，重申其存在大规模商业秘密盗用。苹果指控刘畅（Chang Liu）利用认证漏洞下载数十份机密硬件文件，并称OpenAI人员借招聘套取CAD图纸、原型及供应商细节。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日6时35分"
+  },
+  {
+    "id": "cmt23a3wm0gdwroovh2uyjl96",
+    "title": "Superwhisper 发布 462MB 开源文本规范化模型 S1-mini",
+    "url": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text",
+    "summary": "Superwhisper 推出 S1 系列，其中 S1-mini 以开源权重发布在 Hugging Face 上。这是一款 0.6B 参数的文本规范化模型，基于 Qwen3-0.6B 微调，用于清理语音识别后的转录文本，去除填充词并应用标点与大小写。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月21日6时23分"
+  },
+  {
+    "id": "cmt243gc40h2proovv2m66zdq",
+    "title": "Grok Build 正式上线 SuperGrok 与 X Premium",
+    "url": "https://x.com/testingcatalog/status/2090564482699350254",
+    "summary": "Grok Build 已正式宣布面向 SuperGrok 和 X Premium 用户推出。\n\n此外，一种管理共享应用访问权限的新方式现已在 Web、移动端和 CLI 上可用。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月21日6时19分"
+  },
+  {
+    "id": "cmt2389pf0gckroov9piwjqsi",
+    "title": "独立研究AI无需实验室",
+    "url": "https://x.com/natolambert/status/2090563806799732771",
+    "summary": "这一点真的需要更频繁地重复。似乎真正缺失的，是组织这些信息并指导人们穿越信息海洋的声音，而非信息本身。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月21日6时17分"
+  },
+  {
+    "id": "cmt230out0ga8roovcia34pn1",
+    "title": "苹果AI时代定位：硬件强者而非模型领跑者",
+    "url": "https://x.com/kimmonismus/status/2090563526066594238",
+    "summary": "苹果未参与打造领先独立前沿AI模型的竞争，而是继续展现硬件供应商实力，如同AI热潮中的\"卖铲人\"。作者期待即将到来的发布会及新任CEO John Ternus，并称赞其主导的Apple silicon转型是近年最佳决策之一。若Mac mini搭载M6芯片发布，作者几乎确定会购买。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日6时16分"
+  },
+  {
+    "id": "cmt23ya200gz5roovin9xyu91",
+    "title": "记忆型自我改进智能体增益或为评估噪声",
+    "url": "https://x.com/dair_ai/status/2090559561128407336",
+    "summary": "一项新论文重新评估了基于记忆的自我改进智能体，发现其增益可能源于评估噪声。研究补充了先前工作忽略的两点：多次运行测量方差和随机打乱任务顺序，两者均显著降低性能。默认任务顺序隐含的课程学习是报告增益的主要来源，添加详细评分标准与环境反馈可部分恢复性能，但差距仍明显。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月21日6时0分"
+  },
+  {
+    "id": "cmt23ob6a0graroovhign5es5",
+    "title": "Databricks Inbound Private Link 新增支持账户级 Genie One、账户控制台与自定义 URL",
+    "url": "https://www.databricks.com/blog/inbound-private-link-now-supports-account-level-genie-one-account-console-and-custom-urls",
+    "summary": "Databricks 的 Inbound Private Link 现已支持账户级 Genie One、账户控制台及自定义 URL，让企业能以私有网络连接方式访问这些服务。该更新面向将最敏感数据托管于 Databricks 的企业，进一步扩展了私有连接的应用范围。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月21日6时0分"
   },
   {
     "id": "cmt20mdbe0dkcroov0mi22j2o",
@@ -13869,6 +13965,14 @@
     "url": "https://x.com/MiniMax_AI/status/2090557955070738583",
     "summary": "MiniMax 与 ComfyUI 联合举办围绕 H3 的社区挑战赛，8/20 开启，9/1 截止提交，9/2 直播公布获奖者。参赛者有机会赢取 RTX 5090 或 5060 Ti 显卡，本地设备或 Comfy Cloud 均可参与，分享作品至社交平台并标注 #ComfyH3 即有机会被官方转发。",
     "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月21日5时53分"
+  },
+  {
+    "id": "cmt230oui0ga6roovlvtqw5r6",
+    "title": "马斯克：Optimus将消除贫困超越人类外科医生",
+    "url": "https://x.com/cb_doge/status/2090557749931495789",
+    "summary": "\"Optimus 将真正消除贫困。Optimus 将真正为人们提供不可思议的医疗服务。Optimus 最终将超越最优秀的人类外科医生，其精准度是人类无法企及的。\"\n\n- 埃隆·马斯克",
+    "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月21日5时53分"
   },
   {
