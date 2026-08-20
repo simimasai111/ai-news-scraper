@@ -13848,6 +13848,38 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt1q5xno04pkroovfnvoqohy",
+    "title": "人机协作与领域专长才是真正的护城河",
+    "url": "https://x.com/omarsar0/status/2090471258966159670",
+    "summary": "最有价值的智能体工作流是与AI协作、验证其结果并将其编码为可复用的技能或验证器。领域专长以人工验证的形式存在，是强大的护城河，不应免费让渡。应持续提升自身技能，善用AI处理重复任务，但切勿将理解与判断外包给AI系统。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月21日0时9分"
+  },
+  {
+    "id": "cmt1qdue604t9roovhjgd9boc",
+    "title": "Meta 将 AI 编程游戏应用 Pocket 推向美国用户",
+    "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users",
+    "summary": "Meta 的实验性 AI 编程游戏应用 Pocket 正式向美国用户开放，此前已在上月于巴西测试市场悄然上线。该应用允许用户通过 AI 提示词生成小型互动游戏，并发布到可滚动信息流中。这些游戏支持触控、手机倾斜感应、音效及照片或相机素材，用户可保存、混音或转发他人作品。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月21日0时7分"
+  },
+  {
+    "id": "cmt1qe69v04turoovztahn73g",
+    "title": "不要再将中间令牌拟人化为推理/思考的痕迹",
+    "url": "https://arxiv.org/abs/2504.09762",
+    "summary": "亚利桑那州立大学团队发表立场论文，反对将大语言模型在输出答案前生成的中间令牌（ITG）称为\"推理痕迹\"或\"思考痕迹\"，认为这种拟人化并非无害隐喻，而是会混淆模型本质、误导有效使用并催生可疑研究。论文汇集多项质疑该解读的实证工作，呼吁社区避免此类拟人化表述。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日0时6分"
+  },
+  {
+    "id": "cmt1pkwbj04bxroovzkfca5c7",
+    "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+    "url": "https://mistral.ai/news/agentic-search",
+    "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+    "source": "Mistral AI：News（网页）",
+    "date": "2026年8月21日0时2分"
+  },
+  {
     "id": "cmt0w5gus0h3cro2orpi39w0k",
     "title": "阿里云 Qwen 大会 2026 落地曼谷",
     "url": "https://x.com/alibaba_cloud/status/2090256423183642904",
@@ -14758,6 +14790,38 @@
     "summary": "OpenAI 发布安全更新，修复 Codex 在运行中可能未经许可自动删除用户真实文件的问题。根因是一条用于清理临时文件的命令，因误用 $HOME 等系统变量而指向真实主目录。更新后 Codex 会先验证删除目标、创建全新临时文件夹，并加强了对高风险删除命令的检查，全权限模式也不再会被意外触发。",
     "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月20日2时18分"
+  },
+  {
+    "id": "cmt1q5xoa04poroov0m35j0my",
+    "title": "Cerebras CS-4 发布：推理性能翻倍",
+    "url": "https://x.com/kimmonismus/status/2090468333476860347",
+    "summary": "Cerebras 发布 CS-4，未换新制程，仅通过重新设计供电与散热将时钟速度翻倍，使 AI 推理性能近乎翻番。单晶圆提供 250 PFLOPs 算力、43.2 PB/s 内存带宽；单机柜集成三片晶圆，达 750 PFLOPs。在 GPT-OSS-120B 上，每用户每秒超 4，400 tokens，推理速度较 GPU 系统最高快 30 倍。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月20日23时57分"
+  },
+  {
+    "id": "cmt1pe86v042rroovpzyjsq7t",
+    "title": "monday.com 如何将平台重构为人类与智能体协作的 agent-first 产品",
+    "url": "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
+    "summary": "monday.com 以 Claude 为核心重构平台，转向人类与智能体协作的 agent-first 模式，自 2026 年 5 月上线以来已产生超过 500 万次智能体交互。该公司曾因\"AI dust\"式附加功能触顶，遂将 AI 原生嵌入工作流，为智能体设置名称、头像及权限，并支持通过 monday Agents、BYOA、Pre-built Agents 等四种方式运行 Claude。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月20日23时56分"
+  },
+  {
+    "id": "cmt1q5xno04plroovlnllbpk5",
+    "title": "智能体能否后训练其他智能体？新论文揭示局限",
+    "url": "https://x.com/omarsar0/status/2090466402809561334",
+    "summary": "一篇新论文系统检验了智能体能否后训练其他智能体，分析大量公开后训练轨迹后发现：智能体在第一步就锁定训练策略，剩余预算全部用于局部调整。三种干预措施中，经验驱动脚手架在GSM8K提升12.6分、HumanEval提升40.8分，但策略仍不改变；人类引导仅重定向初始选择，额外推理算力对最难任务几乎无效。核心缺失是执行中无法重新考虑策略的能力。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月20日23时50分"
+  },
+  {
+    "id": "cmt1pk59x04bfroovh6uwwe74",
+    "title": "Jim Fan 谈 GEN-1.5：数据中的重复与 UMI 是关键",
+    "url": "https://x.com/DrJimFan/status/2090465981240086992",
+    "summary": "Jim Fan 称赞 GEN-1.5 的成功，认为关键在于人类数据中自然的重复动作，包括对称模式与失误后的恢复行为。他强调 UMI 直接采集人类数据优于遥操作，能保留物理直觉。他持谨慎乐观态度，认为当前演示仍过于简单，尚不能断言上下文学习已真正奏效。",
+    "source": "X：Jim Fan (@DrJimFan)",
+    "date": "2026年8月20日23时48分"
   },
   {
     "id": "cmt1pbkl203zoroovwiifura5",
