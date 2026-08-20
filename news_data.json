@@ -14968,12 +14968,124 @@
     "date": "2026年8月20日1时0分"
   },
   {
+    "id": "cmt11owth0lujro2ov45vpvu6",
+    "title": "Meta AI 桌面应用发布，语音输入获赞",
+    "url": "https://x.com/alexandr_wang/status/2090289743129194523",
+    "summary": "来看看 Meta AI 桌面应用！\n\n语音输入功能对我个人来说改变了游戏规则。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年8月20日12时8分"
+  },
+  {
+    "id": "cmt10220r0konro2o769h88b4",
+    "title": "通义千问点赞 Unsloth 发布 Qwen3.8-27B 量化版",
+    "url": "https://x.com/Alibaba_Qwen/status/2090289279037821023",
+    "summary": "通义千问官方感谢 Unsloth 发布 Qwen3.8-27B 的 GGUF 量化版，称其\"更小更聪明\"。Unsloth 称 Dynamic V3 量化在 Div-300、KLD 等基准上准确率提升超 10%，并推出保留 77% 准确率的 1-bit 量化版，可在 8GB 内存运行。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月20日12时6分"
+  },
+  {
+    "id": "cmt106nff0krero2ozwfxd3ci",
+    "title": "Grok 应用新增分享与访问权限管理",
+    "url": "https://x.com/elonmusk/status/2090288581466304765",
+    "summary": "Grok 升级\n\n现在，可以管理在 Grok 中构建和部署的应用的分享与访问权限。\n\n应用可设为仅自己可见、与团队共享，或对全世界公开。可在 Grok 网页端、iOS、Android 或 CLI 中开始构建。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月20日12时3分"
+  },
+  {
+    "id": "cmt11id6o0lraro2okhqwyn1x",
+    "title": "OpenAI 推出零数据留存与私有安全处理",
+    "url": "https://x.com/frxiaobei/status/2090297272500097132",
+    "summary": "OpenAI 公布面向 frontier models 的 Zero Data Retention 及测试中的 Private Safety Processing：符合条件的 API 客户可要求请求处理后不保留 prompts 和模型响应，数据默认不用于训练，OpenAI 人员也无法查看底层内容。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月20日12时38分"
+  },
+  {
+    "id": "cmt11id6x0lrcro2om0nbm5a6",
+    "title": "企业采用AI只关心成本质量与衡量",
+    "url": "https://x.com/gabriel1/status/2090296661579018434",
+    "summary": "20B+ 规模的企业只关心 AI 的这三点：1）能否降低成本 2）能否至少保持同等质量 3）能否客观衡量这两者\n\n我谈过的所有 CEO 都说了同样的话\n\n这显而易见，但我从没想过对他们来说衡量这些有多难",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月20日12时35分"
+  },
+  {
+    "id": "cmt11owtt0lulro2ohnf5ytgc",
+    "title": "麦科里：AI 为何尚未推高失业率",
+    "url": "https://x.com/PeterMcCrory/status/2090296251690746231",
+    "summary": "Anthropic 首席经济学家 Peter McCrory 在《The Free Press》发文，提出一个分析框架，解释 AI 迄今为何未推高失业率。他同时承认，未来仍存在不确定性，这一局面可能生变。",
+    "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+    "date": "2026年8月20日12时33分"
+  },
+  {
+    "id": "cmt10uusl0l4cro2ovfl6brij",
+    "title": "OpenAI 私有安全处理预览，企业数据零访问",
+    "url": "https://x.com/sherwinwu/status/2090293889362280739",
+    "summary": "OpenAI 预览 Private Safety Processing，安全处理输出以客户数据不被 OpenAI 人员访问的方式存储，客户保留数据控制权。该功能针对企业采用 AI 的主要障碍--ZDR、滥用监控和人工审查。OpenAI 将继续为前沿模型提供零数据保留（ZDR），并即将推出该功能。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年8月20日12时24分"
+  },
+  {
+    "id": "cmt11id6e0lr8ro2o1hy78q0f",
+    "title": "Claude技能创建器细节处理优于ChatGPT",
+    "url": "https://x.com/emollick/status/2090293321142874168",
+    "summary": "Claude 的技能创建器（直接让它创建一个技能即可）仍然是制作可复用技能的最佳方式，如果你在意细节的话。ChatGPT 倾向于\"变魔术\"，直接替你完成，而 Claude 会做测试并展示结果，反复征求你的输入和反馈。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月20日12时22分"
+  },
+  {
+    "id": "cmt10n40k0kyoro2ovpij094y",
+    "title": "宇树科技推出仿生 7 轴灵巧机械臂 R1，售价 9900 元起",
+    "url": "https://www.ithome.com/0/992/067.htm",
+    "summary": "宇树科技今日推出仿生 7 轴灵巧机械臂 R1，售价 9，900 元起。该产品重复定位精度约 0.1 毫米，各关节最大运动速度超 180°/s，最大臂展 650 毫米，额定负载 2 公斤，整机自重 5.5 公斤。R1 内置力反馈与碰撞检测，支持位置与力矩混合控制，计划陆续开源控制程序及接口，面向科研教育、工业、智能交互与服务机器人四大场景。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日12时13分"
+  },
+  {
+    "id": "cmt10ft7h0kwhro2o8xchduq3",
+    "title": "SemiAnalysis 悬赏 200 美元为 Tinygrad 添加 Etched 支持",
+    "url": "https://x.com/SemiAnalysis_/status/2090287730605355069",
+    "summary": "秉承 @__tinygrad__ 的精神，我们将为在 Tinygrad 中实现 @Etched 支持并提供 100% Python 的 Etched 用户空间驱动程序的人提供 200 美元赏金。代码量必须少于 10k 行才有资格获得赏金。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月20日12时0分"
+  },
+  {
+    "id": "cmt106nff0krfro2o300kgp5j",
+    "title": "Grok Build 让你掌控电脑",
+    "url": "https://x.com/elonmusk/status/2090286832319955414",
+    "summary": "xAI 推出 Grok Build，让用户掌控自己的电脑。新购 Windows 笔记本可先用 Grok Build 审计并清理系统，移除预装试用软件、广告、无用启动项和临时文件，同时保留驱动、安全功能等关键组件，并先展示清理计划再执行。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月20日11时56分"
+  },
+  {
+    "id": "cmt10220r0kooro2o1f3xw8k8",
+    "title": "Qwen3.8-Max登顶前端代码榜第四",
+    "url": "https://x.com/Alibaba_Qwen/status/2090286602153295885",
+    "summary": "优秀的UI始于良好的代码。在Kilo上试试Qwen3.8-Max吧！👀 @kilocode",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月20日11时55分"
+  },
+  {
     "id": "cmt0zkr4q0k1dro2ojvqayn4t",
     "title": "廉价多对多时代，稳固一对一为王",
     "url": "https://x.com/swyx/status/2090283975105564866",
     "summary": "在一个廉价的多对多世界里，坚如磐石的一对一才是王道。",
     "source": "X：swyx (@swyx)",
     "date": "2026年8月20日11时45分"
+  },
+  {
+    "id": "cmt10n40k0kytro2od89qpczq",
+    "title": "京东物流首批快递员完成机器人维修工程师培训并上岗，未来5年将创造超10万个相关岗位",
+    "url": "https://www.ithome.com/0/992/016.htm",
+    "summary": "京东物流组织首批一线员工转型机器人维修工程师，数十名快递员、仓管员、质检员完成培训认证后已正式上岗。培训在涿州技术认证培训中心进行，员工脱产数十天学习机器人构造与维修流程，并与多数头部机器人企业合作提供样机实操。京东称未来5年将创造超10万个机器人维修工程师就业岗位，建设多个技术培训认证中心。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日11时43分"
+  },
+  {
+    "id": "cmt10n40k0kyvro2o7iq8rgtl",
+    "title": "宇树科技王兴兴：人形机器人将在十年内进入\"大众市场\"",
+    "url": "https://www.ithome.com/0/992/011.htm",
+    "summary": "宇树科技创始人王兴兴在2026世界机器人大会上表示，人形机器人将在十年内进入\"大众市场\"，前提是制造商解决当前实用性问题。他预测，一旦机器人能在陌生环境中处理80%通过语音指令交付的任务，市场将迅速起飞，这需要两到十年。宇树科技昨日登陆科创板，首日收涨460%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日11时35分"
   },
   {
     "id": "cmt0w5gv30h3ero2ofgwru56h",
