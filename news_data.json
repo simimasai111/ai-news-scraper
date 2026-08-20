@@ -13848,6 +13848,38 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt25dcg70hvmroovlcq8ovly",
+    "title": "消息称博通拟通过最新 AI 相关债务融资，筹资超 600 亿美元",
+    "url": "https://www.ithome.com/0/992/420.htm",
+    "summary": "博通正与多家贷款机构磋商，计划通过举债筹资超 600 亿美元（约合 4，047.64 亿元人民币），用于一项 AI 芯片融资项目，以支持 Anthropic 及其他相关企业。该方案预计包含约 300 亿美元次级债分档，并为 600 亿至 700 亿美元优先担保债分档提供部分担保，总融资规模可能推升至 1，000 亿美元。黑石与阿波罗全球管理正与博通接洽参与融资，目前仍处于讨论阶段。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日7时24分"
+  },
+  {
+    "id": "cmt25dcg70hvnroovciwnw06y",
+    "title": "云电脑 Windows 365 上线 5 周年，微软规划深度整合 AI 智能体体验",
+    "url": "https://www.ithome.com/0/992/419.htm",
+    "summary": "微软庆祝 Windows 365 云电脑服务推出 5 周年，规划整合 AI 智能体，帮助用户在受管云电脑中操作应用、完成任务。新推出的 Microsoft Scout 智能体可通过 Teams 聊天指令在云电脑上执行查找文件、编辑文档等操作；Windows 365 for Agents 则为代理工作负载配置具有独立身份和权限范围的专用云电脑。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日7时16分"
+  },
+  {
+    "id": "cmt25ddlv0hw8roovebhwprr6",
+    "title": "NVIDIA 6B 美元收购 poolside 模型工厂",
+    "url": "https://x.com/swyx/status/2090577677916807429",
+    "summary": "swyx 在最新一期 Latent Space 播客中与 poolside 创始人 Eisokant 对谈，讨论 NVIDIA 以 6B 美元收购 poolside 的\"模型工厂\"业务。据引用推文，该工厂持续产出超越 Thinky 的模型，大量研究人员获 NVIDIA 录用，创始人留守 poolside，未来或转型为 neocloud 算力提供商。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月21日7时12分"
+  },
+  {
+    "id": "cmt255ukp0htbroovakrq5st5",
+    "title": "OpenAI 推出 AI Futures 研究博客聚焦社会转型",
+    "url": "https://x.com/kimmonismus/status/2090577208037535849",
+    "summary": "OpenAI 推出新研究博客 AI Futures，聚焦自由社会如何在变革性 AI 重塑权力格局时维护个人权利与自主权。Dean Ball 的 Strategic Futures 团队认为，权力集中可能是 AI 最大的长期风险。自主系统、自动化官僚机构及数据中心创造的财富，或使政府减少对人力、税收和民众同意的依赖。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日7时10分"
+  },
+  {
     "id": "cmt238w6w0gcoroovztrvkse0",
     "title": "ChatGPT 推出 Apple Messages 插件，可直接代发短信",
     "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin",
@@ -13878,6 +13910,14 @@
     "summary": "尝试 Grok Build 的最简单方式。",
     "source": "X：Elon Musk (@elonmusk, xAI)",
     "date": "2026年8月21日6时5分"
+  },
+  {
+    "id": "cmt25dcg70hvqroov7kt1h3r0",
+    "title": "蚂蚁百灵开源 Ling-3.0-tiny / flash Base 模型，开放训练过程关键节点",
+    "url": "https://www.ithome.com/0/992/416.htm",
+    "summary": "蚂蚁百灵正式开源 Ling-3.0-tiny-base 与 Ling-3.0-flash-base，除最终 Base checkpoint 外，还同步开放预训练和中期训练的权重 checkpoint，共计 6 个。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日6时54分"
   },
   {
     "id": "cmt243gc40h2oroovqtjz2ot8",
