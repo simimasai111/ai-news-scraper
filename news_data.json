@@ -13848,6 +13848,94 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt1swsb006ugroovbdk5fv9y",
+    "title": "Meta 发布 Muse Spark 1.2 多模态评测与演示",
+    "url": "https://x.com/AIatMeta/status/2090485743034716420",
+    "summary": "Meta 发布 Muse Spark 1.2 新评测与演示，展示其多模态能力广度，涵盖视觉转代码、感知转物理动作及音视频理解。演示中，模型解析多模态观察并调用工具，引导机器人在非结构化环境中导航寻找橡皮鸭。",
+    "source": "X：AI at Meta (@AIatMeta)",
+    "date": "2026年8月21日1时6分"
+  },
+  {
+    "id": "cmt1savt806gfroov9ccwgjbh",
+    "title": "Grok Build 推出官方 Netlify 插件",
+    "url": "https://x.com/cb_doge/status/2090485607470637404",
+    "summary": "Grok Build 现已推出官方 Netlify 插件。\n\n它可帮助你构建和部署网站与应用，支持数据库、文件存储、表单、无服务器函数、图片托管、AI 工具等功能。\n\n安装方法：1. 打开 Grok Build 2. 输入 /plugins（或 /marketplace）3. 进入 Marketplace 标签页 4. 搜索\"netlify\"→ 安装\n\n或通过 CLI：grok plugin install netlify --trust",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月21日1时6分"
+  },
+  {
+    "id": "cmt1t4au4073zroovx85a9ktc",
+    "title": "Grok @Bot 可生成复杂概念讲解视频",
+    "url": "https://x.com/elonmusk/status/2090492504223170671",
+    "summary": "Grok @Bot 可以制作视频，解释复杂概念。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月21日1时33分"
+  },
+  {
+    "id": "cmt1tdgs8079yroov9u15ne0l",
+    "title": "OpenAI 将 Computer History 等功能扩展至欧洲三地",
+    "url": "https://x.com/testingcatalog/status/2090492461059579920",
+    "summary": "OpenAI 将 Computer History 与 Record & Replay 功能扩展至欧洲经济区、英国和瑞士。Computer History 现面向 Mac 端 ChatGPT Pro、Business 和 Enterprise 用户开放，可跨应用和网站记住活动，让后续对话更个性化。Record & Replay 同步登陆 macOS 版 ChatGPT 应用。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月21日1时33分"
+  },
+  {
+    "id": "cmt1tdgrw079uroovvmg78qh2",
+    "title": "多智能体对齐本质是组织设计问题",
+    "url": "https://x.com/emollick/status/2090491832736072155",
+    "summary": "政治哲学家会这么说。\n\n作为一名研究组织设计的经济社会学家，很明显，多智能体对齐是一个带有强烈经济社会学成分的组织设计问题。\n\n（我真的认为许多学科在这里大有可为）",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月21日1时31分"
+  },
+  {
+    "id": "cmt1t4au40740roove12cf91u",
+    "title": "Grok 机器人本周趣味用法盘点",
+    "url": "https://x.com/elonmusk/status/2090489998382375423",
+    "summary": "使用 Grok @Bot 的有趣方式\n\n【引用 @bot】：本周人们使用 Grok Bot 的一些方式：",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月21日1时23分"
+  },
+  {
+    "id": "cmt1tdgrx079vroovisvxpb2y",
+    "title": "AI模式激增致功能边界难辨",
+    "url": "https://x.com/emollick/status/2090489669234405546",
+    "summary": "关于AI模式（ChatGPT Work/Codex/Chat、Claude Cowork/Code/Chat）和模态（电脑应用、网页应用）激增，令人困惑的一点是，我正在失去对各自拥有哪些功能的追踪：插件、技能、记忆、权限、文件等，在每种情况下分别位于何处？🤷♂️",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月21日1时22分"
+  },
+  {
+    "id": "cmt1savtt06glroovpp9f7n9e",
+    "title": "ERCOT数据中心排队审查，SemiAnalysis仍看多",
+    "url": "https://x.com/SemiAnalysis_/status/2090484500102852855",
+    "summary": "Abbott对ERCOT排队中的每个数据中心说：在核查完你们的凭证之前，谁也别想通电。审计结束前，零并网批准。\n\n排队规模约474 GW，是ERCOT历史峰值负荷的5倍，而且几乎全是数据中心，所以那些订了桌的多数都没来吃牛胸肉……\n\n我们依然看多，原因如下👇️ 1/3🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月21日1时1分"
+  },
+  {
+    "id": "cmt1sj0k606j3roovbyba61j7",
+    "title": "皮尤研究：ChatGPT 发布后超三分之一新网页疑似 AI 生成",
+    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds",
+    "summary": "皮尤研究中心新研究发现，ChatGPT 发布后发布的网页中，超过三分之一（35%）显示出明显的 AI 创作或编辑痕迹。该结论基于对 Common Crawl 中近 50 万英文网页的分析，其中 2026 年 7 月随机抽样的 1 万网页中约 10% 有显著 AI 痕迹。.com 域名的 AI 创作比例约为 .edu 或 .gov 域名的 10 倍。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月21日1时18分"
+  },
+  {
+    "id": "cmt1spxiy06mrroovmstoxb6h",
+    "title": "ChatGPT 计算机历史功能登陆欧洲三地",
+    "url": "https://x.com/OpenAIDevs/status/2090487766442512398",
+    "summary": "OpenAI 面向欧洲用户推出 ChatGPT 计算机历史功能，现已覆盖 EEA、英国和瑞士的 Mac 端 Pro、Business 及 Enterprise 用户。该功能可让 ChatGPT 记住用户跨应用和网站的活动，使对话更个性化。开启后，Codex 和 ChatGPT 能理解近期工作上下文，并建议常用技能或定时任务。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月21日1时14分"
+  },
+  {
+    "id": "cmt1savtj06ghroov6umsy5h6",
+    "title": "SenseNova U1.5 Lite 开源：8B 原生统一多模态模型",
+    "url": "https://x.com/rohanpaul_ai/status/2090486590510674284",
+    "summary": "SenseNova 发布 U1.5 Lite，一个 8B 参数的开源轻量级原生统一多模态模型，可同时完成视觉理解、生成与编辑。该模型通过 OPD 将任务专家能力蒸馏进单一模型，推理时无需路由或切换专家，并支持原生 4K 生成、复杂指令遵循及本地编辑。其在指令遵循和编辑保持上超越同尺寸模型，文本渲染与复杂布局上可媲美大型商业模型。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日1时10分"
+  },
+  {
     "id": "cmt1q5xno04pkroovfnvoqohy",
     "title": "人机协作与领域专长才是真正的护城河",
     "url": "https://x.com/omarsar0/status/2090471258966159670",
@@ -13872,11 +13960,75 @@
     "date": "2026年8月21日0时6分"
   },
   {
+    "id": "cmt1sykyh06ymroovs0er7w2f",
+    "title": "Sierra 发布 Release governance：为规模化智能体部署设置护栏",
+    "url": "https://sierra.ai/blog/release-governance-guardrails-for-agents-at-scale",
+    "summary": "Sierra 推出 Release governance，将代码审查、金丝雀发布等软件工程纪律引入智能体部署流程。该机制通过检查、审批和分阶段发布，确保变更从构建者的 Workspace 安全地推向真实客户对话，为规模化智能体上线提供系统化护栏。",
+    "source": "Sierra：Blog（RSS）",
+    "date": "2026年8月21日0时6分"
+  },
+  {
+    "id": "cmt1ru8da065qroovt8s3htoe",
+    "title": "商汤开源 SenseNova U1.5 Lite 轻量多模态模型",
+    "url": "https://x.com/SenseTime_AI/status/2090483079412580442",
+    "summary": "商汤发布开源轻量级原生统一多模态模型 SenseNova U1.5 Lite，仅 8B 参数，支持视觉理解、生成与编辑。该模型主打原生 4K 生成、复杂指令跟随、中英文文本渲染及多图参考编辑，在指令跟随和编辑保持上超越同尺寸模型，文本渲染与复杂布局上比肩大型商业模型。",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "date": "2026年8月21日0时56分"
+  },
+  {
+    "id": "cmt1t8ixj076nroovghx69c94",
+    "title": "Chroma 发布 Foundation 智能体记忆方案",
+    "url": "https://x.com/dexhorthy/status/2090483016246477006",
+    "summary": "Jeff 跟我讲这个的时候我特别兴奋。他们在认证、溯源和 ACL 这些\"字里行间\"的难题上投入了大量思考，我很期待去试用。\n\n引用推文：我等这一天等了三年。今天我们发布 Foundation--Chroma 的智能体记忆解决方案。这项技术的研究预览版能从你的智能体会话中构建自我改进的记忆。欢迎试用：https://trychroma.com/foundation",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月21日0时56分"
+  },
+  {
+    "id": "cmt1rv5n8066iroovaxgoej1b",
+    "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "summary": "Hugging Face 发布 LFM2.5 系列三款模型的 DSpark 草稿模型检查点，通过投机解码在不改变输出质量的前提下，GPU 吞吐最高提升 3.18 倍，端侧最高 2.87 倍。草稿模型约 300M 参数，LFM2.5-2.6B 函数调用延迟平均降低 57%，已开源支持 llama.cpp 和 SGLang。",
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年8月21日0时52分"
+  },
+  {
+    "id": "cmt1savtj06giroovou9kf47i",
+    "title": "Lindy Chrome 扩展将 AI 智能体带入 Gmail",
+    "url": "https://x.com/rohanpaul_ai/status/2090481407495975045",
+    "summary": "Lindy 推出 Chrome 扩展，将 AI 智能体直接集成到 Gmail 中，免去切换独立 AI 界面的麻烦。该扩展可高亮重要邮件、基于 Lindy 积累的用户记忆起草回复，并学习用户的邮件标签习惯，现已上线 lindy.ai。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日0时49分"
+  },
+  {
+    "id": "cmt1s1r6a06boroov31kyx0wt",
+    "title": "Grok 4.6 登顶智能体评测榜",
+    "url": "https://x.com/elonmusk/status/2090481318849106250",
+    "summary": "Grok 4.6 在 Artificial Analysis Agentic Index 上以 59 分与 Claude Opus 5 （max） 并列第一，超越 Claude Fable 5 和 GPT-5.6 Sol。该评测聚焦工具使用、规划、自主性与复杂问题解决。作为 Grok Build 和 Grok Bot 的底层模型，其智能体能力正持续增强。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月21日0时49分"
+  },
+  {
+    "id": "cmt1syh3c06wkroovu6hir326",
+    "title": "LangSmith 预览构建：如何在合并前测试智能体变更",
+    "url": "https://www.langchain.com/blog/langsmith-preview-builds-test-agent-changes-before-production",
+    "summary": "LangSmith 预览构建让团队在合并智能体变更前，于临时的、类生产环境的部署中测试拉取请求分支。该功能旨在降低变更上线风险，使智能体改动验证更贴近真实运行条件。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月21日0时48分"
+  },
+  {
     "id": "cmt1rgeyn05r3roovvuk8zz5b",
     "title": "Ramp 推出自研 AI 模型路由服务 Router",
     "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
     "summary": "企业费用管理平台 Ramp 推出自研 AI 模型路由服务 Router，用户和公司可通过 API 使用并切换 OpenAI、Anthropic、DeepSeek、xAI 等多家大模型。该服务目前仅在美国可用，2026 年剩余时间免费（用户仍需支付模型推理费用），并附赠 26 美元启动额度。Router 提供按用户指定基准路由请求、仅将难题分配给昂贵模型等策略，并默认保留输入输出数据一年。",
     "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月21日0时46分"
+  },
+  {
+    "id": "cmt1rne430613roov34o5ocph",
+    "title": "Exa插件上线ChatGPT与Codex",
+    "url": "https://x.com/OpenAIDevs/status/2090480484107141493",
+    "summary": "通过新的 @ExaAILabs 插件，让 ChatGPT Work 和 Codex 可访问 100B+ 网站、论文、文档等更多内容。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
     "date": "2026年8月21日0时46分"
   },
   {
