@@ -14968,12 +14968,76 @@
     "date": "2026年8月20日1时0分"
   },
   {
+    "id": "cmt17pbf90sszro2ox46dl92i",
+    "title": "HoneyBook 推出 Claude 连接器 HoneyBook MCP，以智能体 AI 简化小企业运营",
+    "url": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector",
+    "summary": "HoneyBook 发布 HoneyBook MCP，作为 Anthropic 旗下 AI 助手 Claude 的连接器，让小企业主能直接通过 Claude 查询客户状态、发票支付情况，并执行更新阶段、发送发票、创建合同等操作。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月20日15时35分"
+  },
+  {
+    "id": "cmt172m7c0s22ro2o5yyxifha",
+    "title": "Waymo 将 Gemini AI 助手整合进 Ojai 自动驾驶出租车，可语音调温度、查周边",
+    "url": "https://www.ithome.com/0/992/108.htm",
+    "summary": "Waymo 宣布将 Gemini 作为车载 AI 助手整合进全新 Ojai 自动驾驶出租车，乘客可通过语音调节车内温度、查找附近咖啡店或了解地标历史。Gemini 与负责车辆控制的 Waymo Driver 系统独立运行，无法访问实时驾驶数据，但可请求靠边停车并转交系统处理。该功能处于 Beta 测试阶段，Ojai 已向洛杉矶、菲尼克斯和旧金山用户开放。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日15时2分"
+  },
+  {
+    "id": "cmt172m7c0s23ro2o66c9ka3y",
+    "title": "高通第六代骁龙 8 至尊版 Pro 芯片曝光，类三星 HBP 散热方案首曝",
+    "url": "https://www.ithome.com/0/992/107.htm",
+    "summary": "高通第六代骁龙 8 至尊版 Pro（SM8975）工程样品现身闲鱼，采用台积电 N2P 节点，封装日期约为 2025 年 12 月下旬。照片首次展示其参考三星 Exynos 2600 的\"HBP 散热导流块\"设计。该芯片需同时支持 LPDDR6 和 LPDDR5X，分别采用 1295 球和 496 球 FBGA 封装。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日15时2分"
+  },
+  {
+    "id": "cmt172m7c0s1xro2o9gn9ri6r",
+    "title": "交通运输部：AI 识别疲劳驾驶、分心驾驶准确率达 95% 以上",
+    "url": "https://www.ithome.com/0/992/127.htm",
+    "summary": "交通运输部今日举行专题发布会，介绍\"人工智能 + 交通运输\"典型应用场景创新行动。AI 已应用于车辆主动安全预警系统，可有效识别驾驶员疲劳驾驶、分心驾驶等行为并及时预警干预，识别准确率达 95% 以上。行动同步推进综合交通运输大模型、行业高质量数据集及专用智能体建设，并推动安全治理从\"事后处置\"转向\"事前预警\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日15时18分"
+  },
+  {
+    "id": "cmt172m7c0s1yro2ojrnq7gtt",
+    "title": "英伟达黄仁勋之女黄敏珊现身 2026 世界机器人大会，参观越疆\"一脑多体\"具身智能平台",
+    "url": "https://www.ithome.com/0/992/126.htm",
+    "summary": "英伟达 CEO 黄仁勋之女黄敏珊于 8 月 19 日现身北京 2026 世界机器人大会现场。她目前担任英伟达 Omniverse 与机器人产品营销高级董事，到访越疆机器人展位，重点参观了\"一脑多体\"具身智能平台解决方案与乒乓球高速人机对抗演示，现场呈现英伟达与越疆在物理 AI 领域的合作成果。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日15时18分"
+  },
+  {
+    "id": "cmt172m7c0s1zro2o0yb5zs0u",
+    "title": "李飞飞谈经营 AI 初创公司 World Labs：我展现出\"虎妈\"的一面",
+    "url": "https://www.ithome.com/0/992/121.htm",
+    "summary": "斯坦福大学教授、ImageNet 创办人李飞飞坦言，经营 AI 初创公司 World Labs 后自己越来越显露出\"虎妈\"一面。她称自己是公司里资历最深的人，对标准要求很高，常觉得像年轻同事的妈妈。World Labs 主要开发\"世界模型\"，今年早些时候宣布获得 10 亿美元新融资，投资方包括 AMD、Autodesk 和英伟达。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日15时10分"
+  },
+  {
+    "id": "cmt172m7c0s20ro2o1qcng635",
+    "title": "DeepSeek Harness 更新多模态支持，剧透 V4 视觉版",
+    "url": "https://www.ithome.com/0/992/120.htm",
+    "summary": "DeepSeek Harness 发布第 7 天迎来版本更新，新增多模态支持，DeepSeek 模型适配器可配置启用原生图片请求，/goal、/plan 等命令现支持带图发送，@引用范围扩展至历史会话。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日15时10分"
+  },
+  {
     "id": "cmt16vanj0rzzro2otmaurss6",
     "title": "Claude Code 新增简洁输出风格",
     "url": "https://x.com/kimmonismus/status/2090331925009363017",
     "summary": "早该如此了。Opus 5 太啰嗦。\n\n至少看起来 Anthropic 开始听取意见了。\n\n【引用 @ClaudeDevs】：你现在可以将 Claude Code 的输出风格设置为 Concise。\n\nClaude 会先给出结果，保持回复简短，并在你追问时仍提供完整细节。\n\n在 /config → Output style 中开启，或在 settings.json 中设置 \"outputStyle\"： \"Concise\"。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月20日14时55分"
+  },
+  {
+    "id": "cmt172m7d0s2aro2oly569gzm",
+    "title": "MiniMax Design 发布，释放 H3 多模态视频模型生产力",
+    "url": "https://www.ithome.com/0/992/095.htm",
+    "summary": "MiniMax 今日发布多模态创作 Agent 工作台 MiniMax Design，旨在释放原生多模态视频模型 H3 的生产力。该工作台可理解创作需求、拆解任务并调用模型与 Skills，完成素材处理、内容生成、编辑和交付，并补充了音视频生成前的分镜规划及生成后的剪辑装配能力。H3 具备多模态理解、视频生成、视频编辑和参考控制等能力，尤其适合视频编辑任务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日14时41分"
   },
   {
     "id": "cmt1607vp0r7hro2oc6ik97sq",
