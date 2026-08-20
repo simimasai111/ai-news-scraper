@@ -14968,12 +14968,76 @@
     "date": "2026年8月20日1时0分"
   },
   {
+    "id": "cmt1di48c04vpro1ql0kwxqbo",
+    "title": "科大讯飞 2026 年上半年归母亏损 2.04 亿元，同比收窄 14.68%",
+    "url": "https://www.ithome.com/0/992/253.htm",
+    "summary": "科大讯飞 2026 年上半年营收 116.23 亿元，同比增长 6.52%；归母净利润亏损 2.04 亿元，同比收窄 14.68%，减亏幅度超市场预期。扣非净利润亏损 6.37 亿元，亏损扩大 74.88%，主要系研发投入超 30 亿元、占营收比重超 25%，并加大智能批阅机、影像云、AI 眼镜等新品推广。上半年合同额同比提升 27%，第二季度单季度经营性现金流已转正。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日18时8分"
+  },
+  {
+    "id": "cmt1djxae050dro1qg8y3bxfq",
+    "title": "Anthropic 内部运行未发布模型\"Model 2\"，性能超越所有公开版 Claude",
+    "url": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally",
+    "summary": "Anthropic 在内部运行一款未发布的 AI 模型\"Model 2\"，其综合性能略强于 Claude Mythos 5，但在某些领域较弱。据该公司 2026 年 8 月的风险报告，该模型在内部能力指数 AECI 上比 Mythos 5 高约 1.5 点，提升幅度小于从 Mythos Preview 到 Mythos 5 的跃升。该模型主要用于内部编码、数据生成及研究与工程，目前无外部发布计划。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月20日18时4分"
+  },
+  {
+    "id": "cmt1darks04tiro1q47ystimo",
+    "title": "Cursor 新增 /goal 命令及云代理更新",
+    "url": "https://x.com/testingcatalog/status/2090382027195326603",
+    "summary": "Cursor 现在支持 /goal 命令，同时带来了云代理、Slack 集成等多项新更新！\n\n> 子代理现在可以在各自的虚拟机上运行，每个虚拟机都有一份独立的项目副本。\n\n> Cursor 现在可以监控你的 PR、关注 Slack 线程，或运行定时任务。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月20日18时14分"
+  },
+  {
+    "id": "cmt1d287g04nmro1qml0b1i9d",
+    "title": "Stripe 同意收购 OpenRouter，AI 模型路由版图再扩张",
+    "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing",
+    "summary": "Stripe 已同意收购 AI 模型路由平台 OpenRouter，后者通过单一接口为开发者提供数百个模型的访问能力。该交易将模型选择与路由功能整合进 Stripe 现有的 AI 使用与基于 token 的计费体系。据 Stripe 称，OpenRouter 支持来自 80 多家提供商的 400 多个模型。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月20日18时0分"
+  },
+  {
+    "id": "cmt1di48c04vrro1qn5ajyon6",
+    "title": "银河通用首款双足机器人 Galbot ET1\"星仔\"亮相，能跳街舞手撑地、倒立",
+    "url": "https://www.ithome.com/0/992/247.htm",
+    "summary": "银河通用首款双足人形机器人 Galbot ET1\"星仔\"在 2026 WRC 世界机器人大会首次公开亮相。该机器人搭载银河星脑，不靠预设脚本，语音动作实时生成，即兴接梗，并宣称是全球首个具备自主学习能力的物理智能体。现场演示中，星仔展示了手撑地、倒立等高难度街舞动作，并能与真人舞者实时同步。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日17时56分"
+  },
+  {
+    "id": "cmt1di48c04vtro1q0thaboo9",
+    "title": "阿里巴巴 2027 财年第一财季归母净利润 105.37 亿元，同比下降 76%",
+    "url": "https://www.ithome.com/0/992/241.htm",
+    "summary": "阿里巴巴 2027 财年第一财季归母净利润 105.37 亿元，同比下降 76%；营收 2689.53 亿元，同比增长 9%。AI 云与算力服务收入达 484.37 亿元，同比增长 45%，AI 相关产品收入 123.76 亿元，连续第十二个季度三位数同比增长。公司发布新一代旗舰模型 Qwen3.8-Max，拥有 2.4 万亿总参数并开放权重，千问 app 已有 2.5 亿用户使用 AI 功能。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日17时50分"
+  },
+  {
+    "id": "cmt1di48c04vuro1q95i06dby",
+    "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+    "url": "https://www.ithome.com/0/992/239.htm",
+    "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月20日17时45分"
+  },
+  {
     "id": "cmt1cg4di03xqro1qatf5kz8p",
     "title": "Binance 推出 Agent OS，让 AI 智能体代用户交易",
     "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users",
     "summary": "Binance 周四推出 Agent OS 平台，让开发者将 AI 应用和智能体接入其金融基础设施，授权智能体分析市场、查看账户信息并执行交易。平台支持 OpenAI ChatGPT 和 Codex、Anthropic Claude Code 及 Cursor 等工具，并通过专用\"子账户\"进行权限控制，默认阻止提现，用户转入子账户的金额即构成交易上限。",
     "source": "TechCrunch：AI（RSS）",
     "date": "2026年8月20日17时30分"
+  },
+  {
+    "id": "cmt1cvlma04jxro1qzb9r034z",
+    "title": "inclusionAI 发布 LLaDA 2.x 研究索引网站",
+    "url": "https://github.com/inclusionAI/LLaDA-Research",
+    "summary": "inclusionAI 推出 LLaDA Research Website，作为 LLaDA 2.x 模型家族的英文优先研究索引，发布模型、论文和技术博客，并部署为静态 GitHub Pages 站点。",
+    "source": "蚂蚁 inclusionAI：GitHub 新仓库",
+    "date": "2026年8月20日17时29分"
   },
   {
     "id": "cmt1c8c4z03t8ro1qadiskvtv",
