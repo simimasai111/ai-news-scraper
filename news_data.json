@@ -14880,12 +14880,44 @@
     "date": "2026年8月21日1时10分"
   },
   {
+    "id": "cmt2sy8ai05xzro6tat2ksqil",
+    "title": "OpenAI 回应 Codex 使用限制：sub2api 转售共享会触发风控",
+    "url": "https://www.ithome.com/0/992/767.htm",
+    "summary": "OpenAI Codex&ChatGPT 团队负责人蒂博·索蒂奥回应 Codex 使用限额差异反馈，称受影响的用户大部分使用了 sub2api。官方不支持将订阅服务转换为 API 流量并向大量用户分享，此类行为会被防欺诈风控系统标记。通过 Sign in With ChatGPT 使用订阅则完全没问题，包括官方客户端及支持 ChatGPT 的第三方开源客户端（如 Pi、OpenCode 等）。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日18时5分"
+  },
+  {
+    "id": "cmt2sqml205v6ro6to0s9bre9",
+    "title": "DeepSeek 发布 V4-Flash-Vision-Exp 多模态模型",
+    "url": "https://x.com/kimmonismus/status/2090738285140173088",
+    "summary": "DeepSeek 推出实验性多模态模型 DeepSeek-V4-Flash-Vision-Exp，面向需要视觉能力的智能体，已在 DeepSeek API 平台上线。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日17时50分"
+  },
+  {
+    "id": "cmt2sqmlc05v8ro6txrgagbz2",
+    "title": "DeepSeek 发布 V4-Flash-Vision-Exp 多模态模型",
+    "url": "https://x.com/testingcatalog/status/2090738074724471203",
+    "summary": "DeepSeek 在 API 平台上线多模态模型 deepseek-v4-flash-vision-exp，文本性能接近 Opus 4.8 并持平 DeepSeek-V4-Flash。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月21日17时49分"
+  },
+  {
     "id": "cmt2qvfnj03zxro6tehwcikx4",
     "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
     "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21",
     "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
     "source": "DeepSeek：API 更新日志",
     "date": "2026年8月21日17时26分"
+  },
+  {
+    "id": "cmt2ry1sl04ywro6t5znttdrs",
+    "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+    "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+    "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日17时25分"
   },
   {
     "id": "cmt2qt2jk03xaro6t5522pdpq",
