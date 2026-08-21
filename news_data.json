@@ -13848,12 +13848,84 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt36j6vh0ilmro6tq2sa04eb",
+    "title": "AI SRE 赛道因过早炒作遭买家质疑",
+    "url": "https://x.com/dexhorthy/status/2090833543991890200",
+    "summary": "Dex Horthy 指出，AI SRE 虽当前杠杆极高，但约 18 个月前大量团队未能兑现承诺，导致买家普遍持怀疑态度。他提醒，过早宣传\"模型将聪明 2 倍\"易损害公司或整个品类的信任，过度超前与落后同样危险，需紧跟实际能力或果断转型。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月22日0时8分"
+  },
+  {
+    "id": "cmt362kzs0i0yro6t5pmf4qsz",
+    "title": "T-Rex：NVIDIA 与伯克利开源触觉机器人方法",
+    "url": "https://x.com/DrJimFan/status/2090832821036470626",
+    "summary": "NVIDIA 与伯克利联合开源触觉机器人方法 T-Rex，将触觉作为模型一等公民，采用双时钟异步架构，以每视觉 tick 4 次触觉 tick 的高频修正实时优化操作。",
+    "source": "X：Jim Fan (@DrJimFan)",
+    "date": "2026年8月22日0时6分"
+  },
+  {
+    "id": "cmt36o5l10iphro6t781nhq5h",
+    "title": "开源模型追赶闭源，差距是否缩小",
+    "url": "https://x.com/SemiAnalysis_/status/2090842316655243463",
+    "summary": "开源模型正在追赶吗？对比前沿模型各时代的开源与闭源模型，差距在缩小吗？https://newsletter.semianalysis.com/p/are-open-models-catching-up",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月22日0时43分"
+  },
+  {
+    "id": "cmt36ybdi0iuqro6t0clldtyx",
+    "title": "我正在变得对人工智能视而不见",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "summary": "作者发现自己越来越难以专注阅读同事发来的文档，并意识到这些文档都带有明显的AI生成痕迹，例如照搬Claude的措辞、冗长且充满\"内部推理\"的技术需求文档。作者认为，尽管研究称人类不擅长识别AI文本，但低质量AI内容其实很容易辨认，其大脑已学会自动忽略这类\"空有文字、缺乏意义\"的内容。这种对AI内容的\"视而不见\"反而让作者在工作中效率下降，如同\"横幅盲视\"一般。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日0时37分"
+  },
+  {
+    "id": "cmt36up9t0isnro6thcwulavj",
+    "title": "构建部署AI应用的最重要技能",
+    "url": "https://x.com/AndrewYNg/status/2090840747738374568",
+    "summary": "构建和部署AI应用最重要的技能。http://x.com/i/article/2090836273036763142",
+    "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+    "date": "2026年8月22日0时37分"
+  },
+  {
+    "id": "cmt36f07u0iisro6tblhq3r9x",
+    "title": "Grok 4.6 登顶 CursorBench 且成本最低",
+    "url": "https://x.com/elonmusk/status/2090840497338425739",
+    "summary": "Grok 4.6 在 Extra High 思考模式下以 70.8% 得分登顶 CursorBench 3.2，单任务成本仅 $2.81。相比 Fable 5 Max（70.5%，$17.32/任务）和 Opus 5 Max（70.0%，$8.23/任务），Grok 得分最高且单任务成本分别低约 6 倍和近 3 倍，凸显其智能体编码效率优势。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月22日0时36分"
+  },
+  {
+    "id": "cmt36f07u0iitro6t1qq9p49q",
+    "title": "Grok Build 1.0.8 发布，优化子代理与多任务",
+    "url": "https://x.com/elonmusk/status/2090839546686767400",
+    "summary": "Grok Build 1.0.8 发布，重点改进子代理、工作流与多任务流畅度。并发子代理启动更快且不再冻结父会话，批量打开子代理时 UI 不再卡顿，Ctrl+S 可暂存提示词草稿，/workflow 支持自动补全，MCP 服务器可通过弹窗请求表单输入或 URL 授权。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月22日0时32分"
+  },
+  {
     "id": "cmt357uvg0hjkro6t1vpfs01w",
     "title": "Replit 免费模式上线，创作效率提升30倍",
     "url": "https://x.com/Replit/status/2090831879377420534",
     "summary": "免费模式来了：创作量提升 30 倍，保持心流状态 https://x.com/i/broadcasts/1NxaroyoaPqKj",
     "source": "X：Replit (@Replit)",
     "date": "2026年8月22日0时2分"
+  },
+  {
+    "id": "cmt360akr0hz7ro6tu2r5ral6",
+    "title": "François Chollet 评 NVIDIA AVO：ARC-AGI-3 满分不等于基准满分",
+    "url": "https://x.com/fchollet/status/2090838046937645398",
+    "summary": "François Chollet 称赞 NVIDIA 的 AVO 系统在 ARC-AGI-3 上表现优异，认为其采用深度学习引导的符号世界模型实时合成路径。但他明确指出，在公开演示集上拿 100% 不等于在 ARC-AGI-3 基准上拿 100%，如同通关教程不等于通关游戏。AVO 通过记忆、工具与执行反馈实现长时程任务持续进展。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月22日0时26分"
+  },
+  {
+    "id": "cmt35t4gv0ht3ro6tfhdpx5gc",
+    "title": "MLCR-AA 榜单发布：Claude Fable 5 居首",
+    "url": "https://x.com/ArtificialAnlys/status/2090836826487734494",
+    "summary": "Artificial Analysis 发布 Wisedocs 医疗长上下文推理基准 MLCR-AA 榜单，Claude Fable 5 以 64.4% 居首，成本 $1/任务，中位模型得分不足 15%。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月22日0时21分"
   },
   {
     "id": "cmt35lmkl0hr4ro6t8uxt1k3h",
@@ -14720,12 +14792,52 @@
     "date": "2026年8月21日23时6分"
   },
   {
+    "id": "cmt35t4h50ht5ro6tygvc6f7w",
+    "title": "北欧极简风技能一键改造任意网站",
+    "url": "https://x.com/ericzakariasson/status/2090831063845380516",
+    "summary": "/scandinavian-design\n\n我构建了一个技能，能把任意网站变成斯堪的纳维亚极简风格！\n\nnpx skills add ericzakariasson/scandinavian-design\n\n试用：https://scandinavian-design.vercel.app",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月21日23时59分"
+  },
+  {
+    "id": "cmt35t4hc0ht7ro6teh6gznmb",
+    "title": "腾讯与阿里：押注中国AI未来的两条路径",
+    "url": "https://x.com/thexpin/status/2090830854306316516",
+    "summary": "腾讯与阿里正以相反路径押注中国AI未来：腾讯季度资本开支达528亿元，同比增长176%，股价次日下跌4.46%；阿里资本开支达677亿元，主要由AI基础设施驱动，两家公司自由现金流均转负。腾讯策略是\"模型、智能体、应用\"三位一体，将AI融入现有业务（如微信、企业软件）；阿里则构建从芯片到应用的完整AI技术栈，更依赖AI热潮持续。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月21日23时58分"
+  },
+  {
+    "id": "cmt36j6w00ilqro6tbtmidbfh",
+    "title": "四模型同题竞答，猜驱动赢会员",
+    "url": "https://x.com/lifesinger/status/2090829897732342057",
+    "summary": "玉伯用同一段故宫亲子游PPT提示词，在YouMind Harness中测试四个不同模型，并公布生成结果供网友竞猜。生图均调用gpt-image-2，其中包含ox和ds-v4-flash-vision-exp模型。猜对驱动模型的用户将获得YouMind会员奖励。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月21日23时54分"
+  },
+  {
     "id": "cmt34izir0gxzro6tb299pmvu",
     "title": "Polsia 用九大自主智能体运营全公司",
     "url": "https://x.com/testingcatalog/status/2090826352748270059",
     "summary": "Polsia 现允许用户通过九个自主智能体组成的网络运营整个公司，每个智能体负责一项独立业务职能，并按错峰时间表全天执行。编排器负责规划流程，智能体分别处理代码、冷外联、广告管理、客户支持与财务跟踪。引用推文中，@Bencera 称其 AI 自行完成大部分融资工作并筹集 3000 万美元，创始人仅出席最终会议与签字。",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月21日23时40分"
+  },
+  {
+    "id": "cmt35t9c40htrro6tl0df2vbf",
+    "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
+    "url": "https://www.ithome.com/0/992/883.htm",
+    "summary": "旧金山机器人大会 Actuate 吸引约 1500 名参会者，但现场机器人数量远少于预期，硬件供应不足、训练数据短缺和供应链限制成为行业关键挑战。大会主办方称今年参会人数较 2025 年增长约 3 倍，全球机器人初创企业 2026 年至今融资额达 188 亿美元。中国企业去年约占全球人形机器人出货量的 90%，宇树科技（Unitree）成为现场少数受关注的硬件厂商。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日23时34分"
+  },
+  {
+    "id": "cmt35t9c40htsro6toq8534zz",
+    "title": "美国年轻人对 AI 抵触情绪上升，硅谷高管就公众信任爆发公开分歧",
+    "url": "https://www.ithome.com/0/992/882.htm",
+    "summary": "《连线》调查显示，超半数 30 岁以下美国人对 AI\"担忧多于兴奋\"，较五年前增加 24%，超 70% 受访者认为 AI 将导致就业岗位减少。硅谷内部对此分歧公开化：Meta CEO 扎克伯格发文批评悲观论调，Anthropic CEO 阿莫代伊则回应称 AI 面临的根本问题是\"信任危机\"。报道指出，公众不安已延伸至人际关系、教育及创作者权益等现实领域，重建信任或比提升 AI 能力更重要。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日23时32分"
   },
   {
     "id": "cmt33rlvt0g5tro6tt1ks85d1",
