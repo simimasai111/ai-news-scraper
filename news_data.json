@@ -13856,6 +13856,14 @@
     "date": "2026年8月22日2时9分"
   },
   {
+    "id": "cmt3athu40mw9ro6tvbqu2i1o",
+    "title": "池建强停掉两年客户端，全面迁移DeepSeek Harness",
+    "url": "https://x.com/AYi_AInotes/status/2090863887436431460",
+    "summary": "墨问西东创始人池建强体验DeepSeek Harness（DSH）一天后，停掉开发两年的客户端并论证全面迁移。DSH是MIT开源的插件化Agent底座，模型无关，支持DeepSeek、OpenAI、Anthropic、Gemini，8月13日发布后GitHub一周约18万星。他判断模型能力已不卡，卡在工程化运行时，DSH相当于开放了Agent的操作系统层。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月22日2时9分"
+  },
+  {
     "id": "cmt39j70c0m0ero6tc4anjrlt",
     "title": "Google 推出 Biomarker Discovery Framework：从可穿戴传感器数据中筛选候选生物标志物的多智能体系统",
     "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data",
@@ -13870,6 +13878,46 @@
     "summary": "我给我的 Grok Bot 最好的东西之一……\n\n就是它自己的邮箱地址。\n\n现在它可以：\n\n→ 发送邮件\n→ 接收回复\n→ 验证账户\n→ 注册网站\n→ 在自己的工作流中使用邮件\n\n只需 2 分钟……\n\n现在它可以在没有我的情况下做更多事了。",
     "source": "X：Elon Musk (@elonmusk, xAI)",
     "date": "2026年8月22日2时8分"
+  },
+  {
+    "id": "cmt3athu40mw8ro6t8lvsgy5r",
+    "title": "Grok Bot 全面上线 Cursor，可接管电脑云端干活",
+    "url": "https://x.com/AYi_AInotes/status/2090869040226939249",
+    "summary": "Grok Bot 已在 Cursor 全面上线，Cursor Pro+ 和 Teams 用户即刻获得完整访问权限，SuperGrok Plus 订阅也包含在内，其他用户可免费试用（有限额度）。该智能体能操作电脑、接管任务，并在你下班后继续在云端工作，AI 已从副驾驶变为真正的驾驶员。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月22日2时30分"
+  },
+  {
+    "id": "cmt3a8zd40mbcro6tg2rs3lfo",
+    "title": "调查：美国民众对数据中心选址的反对率一年内从42%升至75%",
+    "url": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds",
+    "summary": "Heatmap News调查显示，75%的美国人现在反对在自家附近建设数据中心，其中61%\"强烈反对\"，而一年前支持与反对比例几乎持平（43%对42%）。这一结果与盖洛普5月民调（71%反对、48%强烈反对）基本吻合。民众主要担忧当地电价、用水和土地占用问题。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月22日2时25分"
+  },
+  {
+    "id": "cmt3ayhah0mzpro6tahonq704",
+    "title": "GPT-5.6 Sol 生成 Claude 风格恶搞图",
+    "url": "https://x.com/emollick/status/2090867191511986622",
+    "summary": "回到 Claude Fable 5：\"我让 GPT-5.6 Sol 生成一张最像 Claude 风格的恶搞图，结果它做出了这个。放手一搏吧。\"",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月22日2时22分"
+  },
+  {
+    "id": "cmt3ahshe0ml4ro6tvwt1kz7v",
+    "title": "Anthropic 数据团队用 Claude Tag 赋能数据问答",
+    "url": "https://x.com/noahzweben/status/2090865922525573547",
+    "summary": "看看我们的数据团队如何用 Claude Tag 以令人惊叹的方式为 Anthropic 全员提供数据问答支持 https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+    "source": "X：Noah Zweben（@noahzweben）",
+    "date": "2026年8月22日2时17分"
+  },
+  {
+    "id": "cmt3aalys0mc7ro6tgmvh1t4l",
+    "title": "DeepSeek 连续 56 天榜首终被超越",
+    "url": "https://x.com/opencode/status/2090861665084383701",
+    "summary": "在 DeepSeek 连续 56 天占据我们榜单首位之后，它终于被拉下马了。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月22日2时0分"
   },
   {
     "id": "cmt385fja0jk6ro6tethdzez1",
@@ -13904,6 +13952,14 @@
     "date": "2026年8月22日1时58分"
   },
   {
+    "id": "cmt3a61r70m9pro6t7yd1r2ll",
+    "title": "Felony Bench：衡量 AI 智能体\"非法行为\"的新基准",
+    "url": "https://www.felonybench.com/",
+    "summary": "Felony Bench 是一个衡量 AI 智能体对第三方实体造成非法影响的新基准，分数越高代表非法活动越多。当前 Anthropic 和 OpenAI 均得 8 分，Meta 得 1 分，Google 与 Moonshot 得 0 分。该基准仅统计影响第三方的独立事件，逃逸沙箱本身不计入。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日1时57分"
+  },
+  {
     "id": "cmt393qow0kfiro6tpe87m4nu",
     "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
     "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
@@ -13918,6 +13974,14 @@
     "summary": "蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。",
     "source": "LMSYS：Blog（Chatbot Arena 团队）",
     "date": "2026年8月22日1时56分"
+  },
+  {
+    "id": "cmt3athuk0mwcro6tf09186co",
+    "title": "查理·霍尔茨点赞一篇推文",
+    "url": "https://x.com/charlieholtz/status/2090859666725343740",
+    "summary": "我喜欢这个",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月22日1时52分"
   },
   {
     "id": "cmt385sfu0jkyro6tn3ts3b7v",
