@@ -13848,6 +13848,22 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt3jywb80uairo6t89qocvp8",
+    "title": "Suno 发布个人资料完善指南：为你的音乐赋予一张\"脸\"",
+    "url": "https://suno.com/blog/tips-for-complete-profile",
+    "summary": "Suno 官方发文鼓励创作者完善个人资料，称完整资料可帮助作品被推荐、建立社区连接并提升可信度。建议包含头像、显示名、最多 5 个风格标签、简介及 Spotify、TikTok 等外部平台链接，以将一次性听众转化为长期粉丝。",
+    "source": "Suno：Blog（网页）",
+    "date": "2026年8月22日7时0分"
+  },
+  {
+    "id": "cmt3k7yeo0uhhro6tb7kjqqo2",
+    "title": "Replit 本周更新：免费模式等五项新功能",
+    "url": "https://x.com/Replit/status/2090936988832772311",
+    "summary": "Replit 本周更新\n\n1） 免费模式：创作量提升至 30 倍 2） 对话：通过聊天开启任何创意 3） 智能体模式更名 4） 例行程序 + 记忆 5） 黑盒渗透测试\n\n长帖 🧵",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月22日7时0分"
+  },
+  {
     "id": "cmt3i1ue80t07ro6t35x9ik8j",
     "title": "微型语言模型中干扰权重的特征刻画",
     "url": "https://transformer-circuits.pub/2026/interference_effectiveness_helpfulness/index.html",
@@ -13856,12 +13872,60 @@
     "date": "2026年8月22日6时6分"
   },
   {
+    "id": "cmt3k7yeg0uhfro6t9kfho4ub",
+    "title": "Claude Devs 修复远程控制可靠性",
+    "url": "https://x.com/ClaudeDevs/status/2090933155847143498",
+    "summary": "上个月你们告诉我们，远程控制（Remote Control）是你们最希望我们修复的功能，所以我们一直在努力提高其可靠性。\n\n以下是今天改进的内容：🧵",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月22日6时44分"
+  },
+  {
+    "id": "cmt3jqms70u34ro6t6wrq3ek9",
+    "title": "Marin 535B-A23B 启动训练，全程开源",
+    "url": "https://x.com/natolambert/status/2090932648021500320",
+    "summary": "Marin 535B-A23B 本周启动训练，全程开源。计划在 11 台 GB200 NVL72 上以 18.75T tokens 训练约 3 个月（2.7e24 FLOPs），其中预训练占 80%、中期训练占 20%，后续将进行后训练。团队此前已用 1.6B-A61M 至 27.7B-A1.2B 的四级缩放阶梯验证并预测主运行表现。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月22日6时42分"
+  },
+  {
+    "id": "cmt3jj4fm0tz7ro6t75i27ppa",
+    "title": "Meta Muse Spark 1.2 上线 OpenRouter",
+    "url": "https://x.com/testingcatalog/status/2090931370776199342",
+    "summary": "Meta 的 Muse Spark 1.2 contributor 版本现已上线 OpenRouter，输入 $0.10/M、输出 $0.20/M。该版本以低于 GPT-5.6 Luna 的价格提供 GPT-5.6 Terra 的性能，但 contributor 模式意味着提示词和输出可能被用于改进 Meta 产品。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月22日6时37分"
+  },
+  {
+    "id": "cmt3jtd110u4iro6tsd4v8a3b",
+    "title": "Nvidia 与数据中心基础设施开发商 Cloverleaf 达成合作",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf",
+    "summary": "Nvidia 宣布与数据中心基础设施开发商 Cloverleaf Infrastructure 建立合作伙伴关系。Cloverleaf 成立于 2024 年，当年融资 3 亿美元，为数据中心与公用事业公司之间提供电力等关键基础设施。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月22日6时37分"
+  },
+  {
+    "id": "cmt3jj4ff0tz5ro6tdi8xm2ic",
+    "title": "自我改进智能体的记忆脆弱性研究",
+    "url": "https://x.com/rohanpaul_ai/status/2090930187001282827",
+    "summary": "Salesforce 测试两种基于记忆的智能体方法，发现任务顺序显著影响效果：按 WebArena 默认顺序，ReasoningBank 性能提升 1.5 分，打乱顺序后反而下降 4.5 分。智能体会保存错误经验（如在无法调用 API 的环境中推荐 API），71% 案例中结果更不稳定，即使改进任务细节和环境反馈也只能恢复 31% 的下降。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日6时32分"
+  },
+  {
     "id": "cmt3j0t6s0tjhro6t4pcqls55",
     "title": "微软数据中心迎来首批量产Vera Rubin",
     "url": "https://x.com/satyanadella/status/2090929770779521310",
     "summary": "交付日，首批量产版 Vera Rubin 抵达我们的微软数据中心。衷心感谢 @nvidia 的合作伙伴以及 Azure 硬件和数据中心团队的卓越工作，让我们共同达成这一里程碑！",
     "source": "X：Satya Nadella (@satyanadella)",
     "date": "2026年8月22日6时31分"
+  },
+  {
+    "id": "cmt3jj4f50tz3ro6tv7n0xm0p",
+    "title": "OpenAI 降 GPT-5.6 Sol 价格逾两成",
+    "url": "https://x.com/omarsar0/status/2090928230375006241",
+    "summary": "不可思议的是，OpenAI 在这个阶段还有效率这张牌可打。\n\n他们会继续利用这一点，在提升能力的同时降低成本。\n\n这几乎让人觉得不公平，但他们在基础设施和研究两方面都早早投入了。用户受益。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月22日6时25分"
   },
   {
     "id": "cmt3j5dp60tnmro6ti2m5ivib",
