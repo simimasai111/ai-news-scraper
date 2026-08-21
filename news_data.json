@@ -14880,6 +14880,30 @@
     "date": "2026年8月21日1时10分"
   },
   {
+    "id": "cmt2g4cq703a4rolxmk8v8fte",
+    "title": "人工智能公司正在摧毁实体书--Anna's Archive 呼吁趁早扫描珍本",
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "summary": "多家 AI 公司通过中间商大量收购二手书，扫描后销毁，以获取 2022 年前\"未经机器触碰\"的训练数据。Anthropic 的\"Project Panama\"在 15 亿美元版权和解中被曝光，该公司耗资数千万美元购买数百万册纸质书，用于训练 Claude 后全部销毁。Anna's Archive 正呼吁全球志愿者扫描上传书籍，以对抗知识被私有服务器垄断。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日12时5分"
+  },
+  {
+    "id": "cmt2gy8gq03zprolx1rp1w666",
+    "title": "Quick BI 全面 AI 原生，AIPro 上线送 12.5 万额度",
+    "url": "https://x.com/alibaba_cloud/status/2090656454227132862",
+    "summary": "Quick BI 刚刚全面转向 AI 原生。AIPro 围绕 AI 重构了每一层--描述你的目标，即可获得结果、洞察和行动建议，而不仅仅是图表。现已上线，附赠 125K 免费额度。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月21日12时25分"
+  },
+  {
+    "id": "cmt2g38l9037wrolx5yyolpq0",
+    "title": "商汤开源 8B 参数多模态大模型 SenseNova U1.5 Lite，原生支持 4K 图像输出",
+    "url": "https://www.ithome.com/0/992/589.htm",
+    "summary": "商汤科技今日宣布开源轻量级原生统一多模态大模型 SenseNova U1.5 Lite，该模型拥有 8B 参数，原生支持 3-4k 上下文长度和 4K 高分辨率图像输出。模型支持 Bounding Box、Visual Marker 及多图参考等精细视觉控制，在指令遵循与图像编辑保持度上超越同量级模型，文字渲染与复杂布局能力媲美超大规模商业模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日12时20分"
+  },
+  {
     "id": "cmt2dy0l302srroc97q9dlpto",
     "title": "阿里云：GLM-5.3、Deepseek-V4-Pro 等多款模型上线千问 AI 平台",
     "url": "https://www.ithome.com/0/992/511.htm",
@@ -14894,6 +14918,22 @@
     "summary": "Anthropic 将内部员工 AI 培训体系 Claude Academy 完全免费开放，课程与教程面向所有人。核心板块 AI Fluency 含 14 课约 4 小时，教授 4D 框架（Delegation、Description、Discernment、Diligence），另有 3.5 小时课程讲解 AI 能力边界。",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年8月21日11时6分"
+  },
+  {
+    "id": "cmt2g380i037urolxfmdudfvp",
+    "title": "Grok 机器人使用情况可视化提示词",
+    "url": "https://x.com/ericzakariasson/status/2090649600231379113",
+    "summary": "在 grok bot 里试试这个提示词：\n\n考虑到我们拥有的所有机器人，你能可视化它们的使用情况以及哪些被用得最多吗？",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月21日11时58分"
+  },
+  {
+    "id": "cmt2gt98o03w8rolxyqhf8pso",
+    "title": "Claude Code 新增 Concise 简洁输出模式",
+    "url": "https://x.com/charlieholtz/status/2090646711639371799",
+    "summary": "Live in Conductor！\n\n设置 → 默认模型 → Concise",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月21日11时46分"
   },
   {
     "id": "cmt2f1rm8029xrolxidg6qbsb",
