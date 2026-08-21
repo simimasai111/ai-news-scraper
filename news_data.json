@@ -13856,6 +13856,38 @@
     "date": "2026年8月22日6时6分"
   },
   {
+    "id": "cmt3j0t6s0tjhro6t4pcqls55",
+    "title": "微软数据中心迎来首批量产Vera Rubin",
+    "url": "https://x.com/satyanadella/status/2090929770779521310",
+    "summary": "交付日，首批量产版 Vera Rubin 抵达我们的微软数据中心。衷心感谢 @nvidia 的合作伙伴以及 Azure 硬件和数据中心团队的卓越工作，让我们共同达成这一里程碑！",
+    "source": "X：Satya Nadella (@satyanadella)",
+    "date": "2026年8月22日6时31分"
+  },
+  {
+    "id": "cmt3j5dp60tnmro6ti2m5ivib",
+    "title": "OpenRouter 上线 Muse Spark 1.2 低价档",
+    "url": "https://x.com/OpenRouter/status/2090926212701184447",
+    "summary": "我们很高兴将 @AIatMeta 的 Muse Spark 1.2 contributor 档位引入 OpenRouter。\n\n输入 $0.10/M、输出 $0.20/M 的价格，比 Muse Spark 1.2 显著更便宜，在真实成本上优于其他同类模型，提供前沿的每美元智能。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月22日6时17分"
+  },
+  {
+    "id": "cmt3igjk80t8lro6ty9q5pxen",
+    "title": "AI时代将充满矛盾：人人厌恶又人人使用",
+    "url": "https://x.com/emollick/status/2090926132790985153",
+    "summary": "这将是一个充满矛盾的时代。\n\n民调会显示，总体上人人都讨厌AI，但同时人人都会偷偷地一直使用AI。AI公司在舆论中会处于水深火热之中，但与此同时，许多人会对自己钟爱的模型产生强烈的情感依恋，并十分在意它。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月22日6时16分"
+  },
+  {
+    "id": "cmt3itnqc0tcoro6t9et8ujb5",
+    "title": "用 AutoFigure 构建智能体文档智能流水线：从文本描述生成科学图表",
+    "url": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure",
+    "summary": "本教程演示如何用 AutoFigure 工具包将文本描述、论文内容和结构化方法说明直接生成出版级科学图表。教程涵盖环境搭建、依赖修复（如 Pillow 兼容性）、SVG/PNG 渲染配置，以及通过 API 工作流将智能体文档智能流水线转换为示意图。默认使用 google/gemini-3.1-pro-preview 模型，支持离线 SVG 渲染、PDF 导出和画廊归档。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月22日6时0分"
+  },
+  {
     "id": "cmt3giwpm0qr1ro6tjqib1l70",
     "title": "swyx 再宣战：又一款 SaaS 要被我干掉",
     "url": "https://x.com/swyx/status/2090908959590740033",
