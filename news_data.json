@@ -14688,12 +14688,76 @@
     "date": "2026年8月21日2时14分"
   },
   {
+    "id": "cmt34izir0gxzro6tb299pmvu",
+    "title": "Polsia 用九大自主智能体运营全公司",
+    "url": "https://x.com/testingcatalog/status/2090826352748270059",
+    "summary": "Polsia 现允许用户通过九个自主智能体组成的网络运营整个公司，每个智能体负责一项独立业务职能，并按错峰时间表全天执行。编排器负责规划流程，智能体分别处理代码、冷外联、广告管理、客户支持与财务跟踪。引用推文中，@Bencera 称其 AI 自行完成大部分融资工作并筹集 3000 万美元，创始人仅出席最终会议与签字。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月21日23时40分"
+  },
+  {
+    "id": "cmt33rlvt0g5tro6tt1ks85d1",
+    "title": "Runway 谈企业视频生成的下一个阶段：模型许可与自主执行",
+    "url": "https://runwayml.com/news/company-news/the-next-phase-of-enterprise-video-generation",
+    "summary": "Runway 业务今年增长超一倍，NRR 超 300%，一家 Fortune 20 客户对其使用量增长超 17 倍。欧洲占其企业客户超 20%，订阅销量过去十二个月增长 50%。公司推出模型许可模式，提供闭源权重与专有训练，并强调不基于客户数据训练、提供 Day 0 第三方模型接入及 Runway Agent 自主执行能力。",
+    "source": "Runway：News（网页）",
+    "date": "2026年8月21日23时27分"
+  },
+  {
+    "id": "cmt33gexv0g1qro6t8gvxy0b2",
+    "title": "人形机器人融资激增，2026年已达87亿美元",
+    "url": "https://x.com/rohanpaul_ai/status/2090816646474760685",
+    "summary": "人形机器人已成为一场资本竞赛，2026年风险投资额已达87亿美元，且大部分集中在少数几家公司手中。\n\n涌入人形机器人的风险投资总额：87亿美元，几乎是2025年纪录的两倍。\n\nNeura Robotics以14亿美元的C轮融资拿下最大份额。\n\n随着风险投资激增，以及竞赛重心向中国转移，该行业的竞争格局正在两条战线同时发生变化。\n\n图表来自dealroom",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日23时1分"
+  },
+  {
+    "id": "cmt34izi80gxxro6tnxn96xmx",
+    "title": "GLM 5.3 Flash 疑现身 OpenRouter，Kimi K3.1 亦在测试",
+    "url": "https://x.com/kimmonismus/status/2090821143972164061",
+    "summary": "据 @synthwavedd，OpenRouter 上的神秘模型\"Ox Alpha\"实为智谱即将推出的 GLM 5.3 Flash。若属实，该 Flash 模型性能或超越 Fable、GPT Sol 等顶级模型，zAI 的后训练能力将令西方模型相形见绌。此外，Kimi K3.1 也疑似以\"korrine\"代号在 Code Arena 测试。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日23时19分"
+  },
+  {
+    "id": "cmt33tg920g7uro6t6f6dtcxe",
+    "title": "美国拟致函伙伴国，要求其在AI竞赛中选边站队",
+    "url": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race",
+    "summary": "美国正起草致伙伴国的信函，要求其在华盛顿与北京之间的AI对峙中选边站队。据路透社报道，美国国务院草案警告\"参与一切等于一无所获\"，加入中国AI倡议的国家将被排除在美国主导的Pax Silica联盟之外。该联盟去年启动，已有约二十多国及欧盟加入，哈萨克斯坦是目前唯一同时隶属两大阵营的国家。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月21日23时18分"
+  },
+  {
+    "id": "cmt33gexc0g1mro6tj3km1pkx",
+    "title": "Ox Alpha模型确认，前沿多模态智能体竞赛开启",
+    "url": "https://x.com/omarsar0/status/2090820040073322733",
+    "summary": "已确认Ox Alpha模型的相关信息。\n\n目前还不能透露任何细节，但我可以确认这是一款非常出色的模型。\n\n我只能说，我们都需要调整自己的时间表。实现前沿多模态智能体能力，正式成为新的竞赛目标。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月21日23时15分"
+  },
+  {
+    "id": "cmt34e0ni0gugro6tzkpiytus",
+    "title": "HumanLayer 纯键盘 diff 审查流程",
+    "url": "https://x.com/dexhorthy/status/2090819211815977147",
+    "summary": "HumanLayer 中仅用键盘的 diff 审查流程\n\nj、k、v、c 就是你所需要的一切",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月21日23时12分"
+  },
+  {
     "id": "cmt328vg30f5yro6tjr1idb2s",
     "title": "DeepMind 将模型路由形式化为潘多拉之盒",
     "url": "https://x.com/dair_ai/status/2090802358913732867",
     "summary": "Google DeepMind 新论文将模型路由形式化为潘多拉之盒问题，即检查成本高昂时的最优搜索问题。在高斯信号模型下策略有闭式解，可判断每个专家和输入是否值得细化估计。在多 LLM 基准、检索增强专家和可变推理时长的 LLM 上，Pandora's Router 以远低于昂贵估计器的调用频率达到穷举估计质量。",
     "source": "X：DAIR.AI (@dair_ai)",
     "date": "2026年8月21日22时5分"
+  },
+  {
+    "id": "cmt33gexn0g1oro6t9ze2kga4",
+    "title": "NVIDIA AVO 编码智能体 ARC-AGI-3 满分通关",
+    "url": "https://x.com/kimmonismus/status/2090814903133098211",
+    "summary": "NVIDIA 通用编码智能体 AVO 在 ARC-AGI-3 交互推理基准上取得 100% 成绩，完成全部 25 个公开环境中的 183 个关卡。该智能体不依赖规则或目标，通过试错观察学习，并能在上下文重置后长期积累记忆。AVO 由 Claude Opus 5 驱动，此前曾自主运行七天优化 GPU 代码。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日22时54分"
   },
   {
     "id": "cmt32sj7o0fm1ro6tdgd20rpm",
