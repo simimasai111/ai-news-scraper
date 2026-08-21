@@ -14880,12 +14880,92 @@
     "date": "2026年8月21日1时10分"
   },
   {
+    "id": "cmt2qvfnj03zxro6tehwcikx4",
+    "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+    "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21",
+    "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
+    "source": "DeepSeek：API 更新日志",
+    "date": "2026年8月21日17时26分"
+  },
+  {
+    "id": "cmt2qt2jk03xaro6t5522pdpq",
+    "title": "DeepSeek V4-Flash-Vision-Exp 上线，开启多模态 API 服务",
+    "url": "https://www.ithome.com/0/992/755.htm",
+    "summary": "深度求索发布多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，已上线 API 平台。该模型纯文本能力与 V4-Flash 正式版持平，视觉理解 Agent Benchmark 表现大幅跃升，接近 Opus-4.8。API 按 token 计费，单张图片最多占 384 tokens，价格与 V4-Flash 一致，支持三种调用格式及三种图片传入方式。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日17时21分"
+  },
+  {
+    "id": "cmt2qyibi042cro6tkmw3sz8g",
+    "title": "DeepSeek-V4-Flash-Vision-Exp 多模态模型上线",
+    "url": "https://x.com/tianyi/status/2090730841509171466",
+    "summary": "DeepSeek-V4-Flash-Vision-Exp 已上线 DeepSeek API 平台，文本能力与 V4-Flash 持平，多模态智能体性能大幅跃升，接近 Opus-4.8。DeepSeek Harness 0.1.1 同步发布，开箱即支持新模型，可用 model='deepseek-v4-flash-vision-exp' 调用。",
+    "source": "X：Tianyi Cui（@tianyi）",
+    "date": "2026年8月21日17时20分"
+  },
+  {
+    "id": "cmt2rj27104ptro6t8vw5xb6o",
+    "title": "Codex 用量限制疑云：官方回应与用户实测",
+    "url": "https://x.com/dongxi_nlp/status/2090730059992633486",
+    "summary": "用户实测 Codex 间断运行 9 小时仅消耗一周额度的 61%，怀疑是误报。OpenAI 回应称未单方面调整用量限制，但检测到部分用户通过 sub2api 将订阅转为 API 流量并共享，此类行为会被风控系统标记。官方客户端及支持账号登录的开源客户端（Pi、OpenCode 等）正常使用不受影响。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月21日17时17分"
+  },
+  {
+    "id": "cmt2r7c8b04e1ro6tevmtli4y",
+    "title": "DeepSeek 发布 V4-Flash-Vision-Exp 多模态模型",
+    "url": "https://x.com/deepseek_ai/status/2090730032574631962",
+    "summary": "DeepSeek 推出实验性多模态模型 DeepSeek-V4-Flash-Vision-Exp，文本能力与 V4-Flash 持平，涵盖智能体、推理与世界知识。",
+    "source": "X：DeepSeek (@deepseek_ai)",
+    "date": "2026年8月21日17时17分"
+  },
+  {
+    "id": "cmt2qszfn03wwro6tuagudr7g",
+    "title": "中国具身智能机器人销量7月同比增95.1%",
+    "url": "https://x.com/thexpin/status/2090729872939515930",
+    "summary": "中国机器人市场加速增长，商务部数据显示7月具身智能机器人线上销量同比增95.1%，外骨骼设备增39.5%。2026年前7个月工业机器人出口额达10亿美元，同比增13.2%；上半年清洁机器人与智能仿生机器人合计出口180.9亿元人民币，工业机器人已出口至141个国家和地区。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月21日17时17分"
+  },
+  {
+    "id": "cmt2qt2jk03xcro6t1zdrrutf",
+    "title": "软银向 Gravis Robotics 投资 2 亿美元，创建筑机器人领域 A 轮纪录",
+    "url": "https://www.ithome.com/0/992/733.htm",
+    "summary": "软银作为独家投资者向建筑自动化企业 Gravis Robotics 注资 2 亿美元（约合 13.48 亿元人民币），创下建筑机器人领域 A 轮融资历史新高。该公司由瑞士苏黎世联邦理工学院孵化，通过机械制造商无关的物理 AI 软件堆栈提升建筑行业自动化水平。软银后续可能收购 Gravis Robotics，此次融资可视为其掌握股权的一个步骤。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日17时10分"
+  },
+  {
     "id": "cmt2pvz44035nro6t6cmka09j",
     "title": "唐杰谈缩放定律：FLOPs是智能，参数是知识",
     "url": "https://x.com/jietang/status/2090724835496443950",
     "summary": "唐杰引用Liam Fedus对缩放定律历史的回顾：2020年Switch Transformers将每个token路由至2048个专家中的1个，激活参数不足3B但总参数达1.6T。该模型在C4困惑度和TriviaQA上超越T5并创SOTA，但在SuperGLUE等推理任务上表现不佳，表明最优token-参数比高度依赖任务。",
     "source": "X：唐杰（@jietang）",
     "date": "2026年8月21日16时56分"
+  },
+  {
+    "id": "cmt2qt2jk03xero6t5vze044g",
+    "title": "OpenAI 旗下 GPT-Image-2 模型现支持生成透明背景图像",
+    "url": "https://www.ithome.com/0/992/722.htm",
+    "summary": "OpenAI 宣布 GPT-Image-2 现支持生成透明背景的 PNG 格式图像，可用于电商商品页、PPT 插图、贴纸素材等场景。该功能目前仅通过 API 提供，用户需开启 background=transparent 参数启用，官方建议提示词中不要描述背景。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日16时53分"
+  },
+  {
+    "id": "cmt2qlg5z03urro6tib1wj1wd",
+    "title": "神秘新模型疑为GLM-5.4，社区热议",
+    "url": "https://x.com/kimmonismus/status/2090723792167346363",
+    "summary": "社区猜测一周内新出现的模型疑为GLM-5.4/5.5，基于相同tokenizer等证据，@davis7称99%确信其为GLM-5.x。该模型在初步测试中表现优于GPT和Fable，被视为新SOTA。若属实，将证明RL驱动的模型进化速度远超预期，并迫使OpenAI和Anthropic加速发布新模型。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日16时52分"
+  },
+  {
+    "id": "cmt2qdg6c03omro6tdyecv2xl",
+    "title": "AI 编程工具如何助推 JavaScript 语言家族流行",
+    "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript",
+    "summary": "2025 年 8 月 TypeScript 成为 GitHub 上最常用语言，月贡献者达 264 万，同比增长 66%。AI 编程工具因训练数据集中于 JavaScript/TypeScript，导致模型对这类代码生成质量更高，促使团队选型时优先考虑与工具兼容的框架。类型系统成为生成代码的安全护栏，2026 年 78% 专业开发者使用 TypeScript，验证环节取代编码成为新瓶颈。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月21日16时41分"
   },
   {
     "id": "cmt2otcx1023pro6t4wjqvy4t",
