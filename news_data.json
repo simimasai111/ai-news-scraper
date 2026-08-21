@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt3ce5qx0nslro6t2f70xbdi",
+    "title": "DeepSeek 发布实验性视觉模型 V4-Flash-Vision-Exp，智能体基准测试对标 Opus 4.8",
+    "url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks",
+    "summary": "DeepSeek 发布实验性多模态模型 V4-Flash-Vision-Exp，在图像理解基础上保持文本推理能力，其内部智能体基准测试成绩接近 Opus 4.8。该模型兼容 OpenAI 与 Anthropic API，支持 Base64、URL（32 MiB）及免费 Files API（64 MiB）三种传图方式，单图成本最高 384 tokens，单次请求最多 600 张图片。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月22日3时8分"
+  },
+  {
+    "id": "cmt3cqxpd0o8nro6tzgl7u0ju",
+    "title": "移动性如何让语言模型更深入地理解地点",
+    "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place",
+    "summary": "Google Research 推出 Mobility-Embedded POIs（ME-POIs）框架，将聚合匿名移动模式与文本描述结合，为地点构建融合身份与动态功能的嵌入向量。在未见地点上，该框架使访问意图预测相对提升 81.9%，价格等级分类提升 75.1%，繁忙度估算准确率提升 24.7%。",
+    "source": "Google Research：Blog（网页）",
+    "date": "2026年8月22日3时38分"
+  },
+  {
+    "id": "cmt3cpvwn0o3zro6tnieipe4a",
+    "title": "Anthropic 内部流行 ELI5 技能",
+    "url": "https://x.com/trq212/status/2090884854590382515",
+    "summary": "Anthropic 的人最近经常使用的一个技能：ELI5\n\n/eli5 <你想被解释的内容>\n\n\"请像对完全不懂这个话题的人解释一样，用带大图和少量文字的 HTML 页面来讲解\"",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月22日3时32分"
+  },
+  {
+    "id": "cmt3cpvwe0o3xro6t7lqzvcbx",
+    "title": "Suno新节目展示现场和弦与生成弦乐",
+    "url": "https://x.com/suno/status/2090880487317221414",
+    "summary": "在本周的 In The Cut 节目中，观看 Keyon Harrold 和 Christian Rich 在 Westlake Studios 现场叠加和弦与生成弦乐。",
+    "source": "X：Suno (@suno)",
+    "date": "2026年8月22日3时15分"
+  },
+  {
+    "id": "cmt3c120b0noaro6tvc4f1drw",
+    "title": "Grok 4.6 登陆 Google Cloud Vertex AI",
+    "url": "https://x.com/cb_doge/status/2090880063432765638",
+    "summary": "突发：Grok 4.6 现已在 Google Cloud 的 Vertex AI 上可用。\n\n开发者和企业可通过 Google Cloud 访问 xAI 最强大的模型，用于编码、智能体任务和知识工作，并享有企业级安全、治理和统一计费。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月22日3时13分"
+  },
+  {
     "id": "cmt39w2s60m73ro6tzkgq0h3s",
     "title": "TARS 发布 AWE 3.5 具身原生基础模型",
     "url": "https://x.com/rohanpaul_ai/status/2090863856507863219",
@@ -13878,6 +13918,22 @@
     "summary": "我给我的 Grok Bot 最好的东西之一……\n\n就是它自己的邮箱地址。\n\n现在它可以：\n\n→ 发送邮件\n→ 接收回复\n→ 验证账户\n→ 注册网站\n→ 在自己的工作流中使用邮件\n\n只需 2 分钟……\n\n现在它可以在没有我的情况下做更多事了。",
     "source": "X：Elon Musk (@elonmusk, xAI)",
     "date": "2026年8月22日2时8分"
+  },
+  {
+    "id": "cmt3bnc0u0nh6ro6tt1w1915t",
+    "title": "OpenRouter 送 $5 优惠券，周末畅玩 Ori Harness",
+    "url": "https://x.com/OpenRouter/status/2090873866650603807",
+    "summary": "周五快乐！\n\n我们送你一张 $5 优惠券，本周末可在 Ori Harness 上构建应用\n\n在 OpenRouter 的 500+ 模型上运行你最喜欢的智能体 CLI--Claude Code、Codex、DeepSeek 等\n\n在 OpenAI 5.6 Sol 和 DeepSeek Flash 3.7 上节省 50% 至 75%\n\n在下方兑换：",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月22日2时49分"
+  },
+  {
+    "id": "cmt3c120t0nogro6tjhhgxpa0",
+    "title": "GLM 5.3 Flash 疑现身，加速竞赛开启",
+    "url": "https://x.com/kimmonismus/status/2090873679106191808",
+    "summary": "据 @synthwavedd 爆料，OpenRouter 上的神秘模型 \"Ox Alpha\" 疑为即将推出的 GLM 5.3 Flash。若属实，这款 Flash 模型性能将超越 Fable 和 GPT Sol 等顶级模型，zAI 的后训练能力令西方模型相形见绌。Kimi k3.1 或也将发布，行业加速竞赛一触即发。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月22日2时48分"
   },
   {
     "id": "cmt3athu40mw8ro6t8lvsgy5r",
