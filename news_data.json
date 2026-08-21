@@ -13848,12 +13848,76 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt3edr4s0pa9ro6tw9mxv03g",
+    "title": "MiniMax M3 即将登陆 SambaNova",
+    "url": "https://x.com/MiniMax_AI/status/2090893535860211970",
+    "summary": "是时候下注了--你觉得 M3 在 @SambaNovaAI 上跑起来会有多快 🚀",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月22日4时7分"
+  },
+  {
+    "id": "cmt3e67tr0p8ero6tggmdjl42",
+    "title": "Codex 上线 Atomic Bot，云端后台运行任务",
+    "url": "https://x.com/testingcatalog/status/2090892633568608563",
+    "summary": "合上你的笔记本电脑吧。Codex 现已登陆 Atomic Bot，用户可合上电脑，让任务在云端持续运行。\n\n用户可以将代码仓库交给智能体，以持续改进代码、发现并修复漏洞，以及更多功能！",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月22日4时3分"
+  },
+  {
+    "id": "cmt3ekx5d0pd7ro6trxrk2y53",
+    "title": "Peter Steinberger谈智能体AI峰会演讲",
+    "url": "https://x.com/steipete/status/2090898421108605078",
+    "summary": "Peter Steinberger在伯克利Agentic AI Summit发表题为\"No Doors for Agents\"的演讲。该峰会吸引约5000名现场与会者、10万线上观众及200位演讲者。他提出\"文本框是AI的广播式电视阶段，每种新媒介都始于模仿旧媒介\"。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月22日4时26分"
+  },
+  {
+    "id": "cmt3edr560pabro6trzvlx3qm",
+    "title": "纳特·兰伯特征集开源模型与中美AI佳作",
+    "url": "https://x.com/natolambert/status/2090896762470822067",
+    "summary": "你读过哪些关于开源模型、中美AI对比、知识蒸馏或相关主题的最佳内容？博客、论文、视频、播客均可推荐。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月22日4时20分"
+  },
+  {
+    "id": "cmt3e67tg0p8aro6tpdkwwv40",
+    "title": "人形机器人步频与储能引热议",
+    "url": "https://x.com/rohanpaul_ai/status/2090895715644186658",
+    "summary": "想知道那些执行器里有多少能量储存\n\n还有那恒定的脚步频率\n\n人类虽然努力了，但一旦它启动，就再无机会。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日4时16分"
+  },
+  {
+    "id": "cmt3e67sy0p86ro6tnhf0n6fw",
+    "title": "Viktor 推出 OpenAI 兼容 API 与托管 MCP 服务器",
+    "url": "https://x.com/omarsar0/status/2090894380080971825",
+    "summary": "Viktor 现已推出 OpenAI 兼容 API 和托管 MCP 服务器，进入公开测试阶段。用户可将 OpenAI SDK 指向该 API，或在团队客户端中将其添加为 MCP 服务器，设置仅需从设置中复制一段代码。演示中，Viktor 在 76 秒内从 opencode 构建并发布了一款品牌贪吃蛇游戏，且已通过 Slack 学习品牌指南。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月22日4时10分"
+  },
+  {
     "id": "cmt3ce5qx0nslro6t2f70xbdi",
     "title": "DeepSeek 发布实验性视觉模型 V4-Flash-Vision-Exp，智能体基准测试对标 Opus 4.8",
     "url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks",
     "summary": "DeepSeek 发布实验性多模态模型 V4-Flash-Vision-Exp，在图像理解基础上保持文本推理能力，其内部智能体基准测试成绩接近 Opus 4.8。该模型兼容 OpenAI 与 Anthropic API，支持 Base64、URL（32 MiB）及免费 Files API（64 MiB）三种传图方式，单图成本最高 384 tokens，单次请求最多 600 张图片。",
     "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月22日3时8分"
+  },
+  {
+    "id": "cmt3e67tg0p8bro6tlutt07so",
+    "title": "OpenAI 下调 GPT-5.6 Sol 价格逾两成",
+    "url": "https://x.com/rohanpaul_ai/status/2090891370663989566",
+    "summary": "不错。OpenAI 正在将 GPT-5.6 Sol API 和 Work/Codex 积分价格下调逾 20%，为期 3 个月。\n\nPro、Plus 和 Business 订阅用户的使用价格保持不变。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日3时58分"
+  },
+  {
+    "id": "cmt3e67t90p88ro6tsa3aisl9",
+    "title": "GPT-5.6 降价 20%，OpenAI 施压 Anthropic",
+    "url": "https://x.com/kimmonismus/status/2090890956287492564",
+    "summary": "OpenAI 将 GPT-5.6 Sol 的 API 和额度价格下调超 20%，为期三个月，被视为对 Anthropic 的施压信号。此举也得益于其算力基建投资和效率优化，同时面临 DeepSeek 4 Flash 等低价中国模型的竞争压力。推理成本逐年下降，SOTA 模型正被推向更低价格，最终受益的是用户。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月22日3时57分"
   },
   {
     "id": "cmt3dh9qd0oqmro6tekeyn7iu",
