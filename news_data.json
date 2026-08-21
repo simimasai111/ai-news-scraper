@@ -13960,6 +13960,14 @@
     "date": "2026年8月21日8时13分"
   },
   {
+    "id": "cmt2e5z4o0150rolxr9qhnvd3",
+    "title": "Grok Bot 当 CTO：AI 智能体团队工作流",
+    "url": "https://x.com/poteto/status/2090589832401891490",
+    "summary": "开发者将 Grok Bot 设为 CTO，让其接管 GitHub 仓库、启动云端智能体并跟踪 PR，任务复杂时启用 poteto-mode。通过第二段提示词，主智能体可招募子智能体分工处理 PR、Convex 后端和认证，开发者仅以只读方式查看线程。该工作流 token 消耗极高，单日可超 20 亿，需将 pstack 插件仅用于困难任务；它不替代工程师，只是让开发者脱离协调角色。",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年8月21日8时0分"
+  },
+  {
     "id": "cmt27b09o0jferoov8tzq08zs",
     "title": "初创公司发现Grok Bot后的反应",
     "url": "https://x.com/cb_doge/status/2090589395791622411",
@@ -14878,6 +14886,30 @@
     "summary": "阿里云MaaS扩充模型服务矩阵，GLM-5.3和DeepSeek-V4-Pro正式版接入千问AI平台，API同步开放。GLM-5.3强化编程、长程任务处理和网络安全能力；DeepSeek-V4-Pro增强智能体能力。平台已接入Qwen3.8-Max、Wan3.0、Kimi K3等模型，覆盖文本、代码、语音、图像及视频生成。",
     "source": "IT之家（RSS）",
     "date": "2026年8月21日11时6分"
+  },
+  {
+    "id": "cmt2eo3kv01ydrolxs7ha5h41",
+    "title": "Anthropic 免费开放内部 AI 培训体系 Claude Academy",
+    "url": "https://x.com/AYi_AInotes/status/2090636539533378005",
+    "summary": "Anthropic 将内部员工 AI 培训体系 Claude Academy 完全免费开放，课程与教程面向所有人。核心板块 AI Fluency 含 14 课约 4 小时，教授 4D 框架（Delegation、Description、Discernment、Diligence），另有 3.5 小时课程讲解 AI 能力边界。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月21日11时6分"
+  },
+  {
+    "id": "cmt2f1rm8029xrolxidg6qbsb",
+    "title": "亚马逊将购书切毁扫描用于AI训练数据，却被称作\"合理使用\"",
+    "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+    "summary": "404 Media 调查披露，亚马逊大量购入珍稀书籍，切断装订后快速扫描用于训练其 Nova 系列AI模型，书籍在过程中被销毁。调查人员通过追踪器发现书籍最终抵达拉斯维加斯亚马逊仓库 VGT3，员工称该团队只负责接收大批量书籍并切毁扫描。与此同时，互联网档案馆以逐页扫描方式数字化书籍，不破坏实体书，与亚马逊形成鲜明对比。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日11时33分"
+  },
+  {
+    "id": "cmt2e57ef0141rolxgnjaqu5n",
+    "title": "氛围编程已成常态，手写代码才是真氛围",
+    "url": "https://x.com/Yuchenj_UW/status/2090640117778235859",
+    "summary": "氛围编程（Vibe coding）现在就是普通的编程了。\n\n手写代码才是真正的氛围编程。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月21日11时20分"
   },
   {
     "id": "cmt2d9ryi02clroc9fi2vefee",
