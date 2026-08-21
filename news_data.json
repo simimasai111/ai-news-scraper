@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt3giwpm0qr1ro6tjqib1l70",
+    "title": "swyx 再宣战：又一款 SaaS 要被我干掉",
+    "url": "https://x.com/swyx/status/2090908959590740033",
+    "summary": "我又有一个 SaaS 要干掉。\n\n（下周分享\"干掉我的 SaaS 1\"的结果！！）",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月22日5时8分"
+  },
+  {
+    "id": "cmt3gohwy0qtoro6tvdyi7fw7",
+    "title": "Anthropic 将 Claude Mythos 5 引入 Claude Security：企业团队无需直接访问模型即可获得前沿漏洞扫描",
+    "url": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security",
+    "summary": "Anthropic 已将 Claude Mythos 5 接入 Claude Security，企业客户可自助启用该扫描功能，无需直接访问模型。该功能处于公开测试阶段，扫描按现有计划的常规 token 用量计费，无单独模型附加费用。Anthropic 同时推出 3500 万美元的开源安全信用基金，并计划扩大 Cyber Verification Program 覆盖范围。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月22日5时15分"
+  },
+  {
+    "id": "cmt3gbdq40qp9ro6tdksyvd6s",
+    "title": "晶圆代工行业Q2营收创纪录545亿美元",
+    "url": "https://x.com/SemiAnalysis_/status/2090907000469070332",
+    "summary": "晶圆代工行业2Q26营收达545亿美元，同比增长28%，连续第十个季度增长，但新增产能仅增6%，增长主要来自涨价和产品组合优化。台积电HPC营收占比达66%创纪录，智能手机降至22%，产能利用率从85%升至90%。3Q26E预计达614亿美元，同比增长34%，为周期内最快增速。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月22日5时0分"
+  },
+  {
     "id": "cmt3edr4s0pa9ro6tw9mxv03g",
     "title": "MiniMax M3 即将登陆 SambaNova",
     "url": "https://x.com/MiniMax_AI/status/2090893535860211970",
