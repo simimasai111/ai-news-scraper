@@ -13848,12 +13848,100 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt27jlru0jk6roov5jy42ofy",
+    "title": "反AI字体既无用又有害",
+    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
+    "summary": "反AI字体试图通过混淆或打乱文本来阻止AI抓取，但这类方案既损害可访问性，又注定失败。屏幕阅读器等辅助工具解析的正是被打乱的文本，这直接切断了部分残障用户的访问路径。作者认为，任何人类可读的信息都必然能被解析，这类字体只会沦为新的抓取障碍，并最终推动网站走向集中式身份验证和内容封锁，与万维网自由开放的精神背道而驰。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日8时5分"
+  },
+  {
+    "id": "cmt26x9ru0j87roovygewdhh0",
+    "title": "OpenRouter 上线 FLUX 视频高清放大",
+    "url": "https://x.com/OpenRouter/status/2090591152445796839",
+    "summary": "@bfl_ai 的 FLUX Video Upscale 现已在 OpenRouter 上线。\n\n可将任意视频放大至 2K 或 4K 分辨率，面部更清晰、纹理更干净、背景细节更丰富，同时保持自然的动态与真实感。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月21日8时5分"
+  },
+  {
+    "id": "cmt27iizz0ji1roovfoz7vkf9",
+    "title": "苹果收紧 Apple Music 服务，AI 生成音乐年底将强制标注",
+    "url": "https://www.ithome.com/0/992/428.htm",
+    "summary": "苹果计划在 2026 年年底调整 Apple Music 规则，强制要求内容供应商和唱片公司为\"大部分\"由 AI 创作生成的音乐添加 AI Transparency Tags（AI 透明度标签）。该标签于 2026 年 3 月推出时属自愿机制，新要求生效后标注将不再有选择权，但苹果尚未披露具体执行方式和违规处理措施。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日8时1分"
+  },
+  {
+    "id": "cmt27b0a30jfiroovaju1212n",
+    "title": "AI实验室CEO曾公开讨论取代人类劳动与存在风险，公关转向是后续变化",
+    "url": "https://x.com/emollick/status/2090593783779860928",
+    "summary": "AI实验室CEO们曾公开讨论构建取代所有劳动、可能带来存在风险的AI，且他们早在公司价值提升前就相信这一点。停止谈论风险才是公关部分。相比Altman和Amodei的坦诚，更应警惕扎克伯格政治圆滑的AI安抚言论。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月21日8时16分"
+  },
+  {
+    "id": "cmt27j8u60jjqroovg6v95ht0",
+    "title": "AI 数据初创公司 Micro1 年化总收入达 5 亿美元，受益于 AI 训练热潮",
+    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
+    "summary": "AI 数据初创公司 Micro1 在过去八个月将年度总营收从 1 亿美元扩大至 5 亿美元，净年化收入约 1.5 亿至 2 亿美元。该公司通过雇佣医生、律师等专家提供训练数据，并越来越多地生成无需人工参与的合成数据，部分\"现成\"数据毛利率高达 80% 至 90%。创始人 Ali Ansari 上月表示，与部分竞争对手不同，Micro1 不向中国模型厂商出售数据。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月21日8时13分"
+  },
+  {
+    "id": "cmt27b09o0jferoov8tzq08zs",
+    "title": "初创公司发现Grok Bot后的反应",
+    "url": "https://x.com/cb_doge/status/2090589395791622411",
+    "summary": "每家初创公司在发现Grok @Bot之后的样子",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月21日7时58分"
+  },
+  {
+    "id": "cmt268fnb0im6roov4bxglhna",
+    "title": "OpenAI 举报前高盛分析师威胁",
+    "url": "https://x.com/rohanpaul_ai/status/2090586554943344674",
+    "summary": "👀 一名前高盛分析师因威胁行为被 OpenAI 向 FBI 举报。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日7时47分"
+  },
+  {
+    "id": "cmt27iizz0ji2roov55aij8ev",
+    "title": "Mac 版 ChatGPT 可控制苹果\"信息\"应用，古尔曼称恐触及 Siri AI 设备优势",
+    "url": "https://www.ithome.com/0/992/426.htm",
+    "summary": "OpenAI 升级 macOS 版 ChatGPT，新增控制苹果\"信息\"应用的能力，可读取、撰写、发送短信，并支持搜索消息和生成对话摘要。该功能需用户明确授权，不会基于全部消息建立索引，并需在系统设置中启用\"完全磁盘访问权限\"等选项。彭博社古尔曼认为，此举可能涉及隐私安全，并与苹果即将推出的 Siri AI 形成竞争。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日7时46分"
+  },
+  {
+    "id": "cmt268fn10im4roov1svi24gb",
+    "title": "大语言模型文风单一问题亟待研究",
+    "url": "https://x.com/emollick/status/2090584263196328113",
+    "summary": "即使大语言模型写得很好，风格的缺乏多样性也是致命的。在指令、社交媒体、广告、软件和演示文稿中读到同样的文风，最终会让人感到不适。\n\n提示词能带来的改进有限。真正的多样性是必要的（且研究不足）。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月21日7时38分"
+  },
+  {
+    "id": "cmt26lvn60ixproovre6365hq",
+    "title": "OpenAI 正在变成一家监控公司",
+    "url": "https://garymarcus.substack.com/p/openai-is-becoming-a-surveillance",
+    "summary": "Gary Marcus 警告，OpenAI 正走向监控公司路线：据报道其正在构建 24x7 全天候监控设备，并将用户语音上传云端进行 AI 分析；同时通过含糊的法律措辞拒绝退出为美国政府监控美国公民。作者强烈建议用户不要同意此类监控行为。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月21日7时31分"
+  },
+  {
     "id": "cmt25dcg70hvmroovlcq8ovly",
     "title": "消息称博通拟通过最新 AI 相关债务融资，筹资超 600 亿美元",
     "url": "https://www.ithome.com/0/992/420.htm",
     "summary": "博通正与多家贷款机构磋商，计划通过举债筹资超 600 亿美元（约合 4，047.64 亿元人民币），用于一项 AI 芯片融资项目，以支持 Anthropic 及其他相关企业。该方案预计包含约 300 亿美元次级债分档，并为 600 亿至 700 亿美元优先担保债分档提供部分担保，总融资规模可能推升至 1，000 亿美元。黑石与阿波罗全球管理正与博通接洽参与融资，目前仍处于讨论阶段。",
     "source": "IT之家（RSS）",
     "date": "2026年8月21日7时24分"
+  },
+  {
+    "id": "cmt268fmr0im1roovgwu3h9k9",
+    "title": "Grok Bot 新增创建频道功能",
+    "url": "https://x.com/cb_doge/status/2090580447248187813",
+    "summary": "Grok Bot 现在支持创建新频道。\n\n将应用更新至 v0.23.0。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月21日7时23分"
   },
   {
     "id": "cmt25dcg70hvnroovciwnw06y",
@@ -13877,6 +13965,14 @@
     "url": "https://x.com/kimmonismus/status/2090577208037535849",
     "summary": "OpenAI 推出新研究博客 AI Futures，聚焦自由社会如何在变革性 AI 重塑权力格局时维护个人权利与自主权。Dean Ball 的 Strategic Futures 团队认为，权力集中可能是 AI 最大的长期风险。自主系统、自动化官僚机构及数据中心创造的财富，或使政府减少对人力、税收和民众同意的依赖。",
     "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日7时10分"
+  },
+  {
+    "id": "cmt26eyop0iparoov5uaxwv82",
+    "title": "Perplexity Agent API 开放 41 个前沿模型",
+    "url": "https://x.com/AravSrinivas/status/2090577299838267739",
+    "summary": "Perplexity Agent API 正式上线，开发者可通过单一端点访问来自 9 家提供商的 41 个前沿模型。该 API 内置网页搜索、金融搜索、抓取及沙盒代码执行等工具，支持构建多模型智能体工作流，面向生产级部署场景。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
     "date": "2026年8月21日7时10分"
   },
   {
