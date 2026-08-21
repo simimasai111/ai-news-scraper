@@ -14888,6 +14888,54 @@
     "date": "2026年8月21日18时5分"
   },
   {
+    "id": "cmt2tt70g06utro6tcd1318jn",
+    "title": "DeepSeek-V4-Flash-Vision-Exp 上线，网友喊话降价",
+    "url": "https://x.com/frxiaobei/status/2090751203013804051",
+    "summary": "DeepSeek 发布实验性多模态模型 V4-Flash-Vision-Exp，文本能力对标 V4-Flash，多模态智能体基准大幅跃升，性能接近 Opus-4.8。模型已上线 API 平台，可用 model='deepseek-v4-flash-vision-exp' 调用，同日发布 DeepSeek Harness 0.1.1 支持新模型。网友 @梁子 借新模型上线之际，呼吁官方降价。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月21日18时41分"
+  },
+  {
+    "id": "cmt2tt70g06uuro6t2gxqitd4",
+    "title": "Stripe 收购 OpenRouter，押注模型路由层",
+    "url": "https://x.com/frxiaobei/status/2090748735966040441",
+    "summary": "Stripe 宣布收购 OpenRouter，后者是连接企业与 400 多个模型的 AI 路由层，目前每天处理超 10 万亿 token。作者认为支付与模型调用本质相似：都需路径选择、失败重试与计费结算。Stripe 称 token 正成为 AI 公司核心货币，模型路由或成未来智能调用的清算层，模型本身将变为可替换的原材料。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月21日18时31分"
+  },
+  {
+    "id": "cmt2to8ae06qtro6tqenkgy86",
+    "title": "平台争夺注意力，智能体代你关注",
+    "url": "https://x.com/EMostaque/status/2090747712773784016",
+    "summary": "平台曾争相吸引你的注意力\n\n智能体则替你关注",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月21日18时27分"
+  },
+  {
+    "id": "cmt2to8a406qrro6thnkbu67r",
+    "title": "DeepSeek多模态模型上线，百张图成本不足20美分",
+    "url": "https://x.com/AYi_AInotes/status/2090744882499395685",
+    "summary": "DeepSeek 发布实验性多模态模型 deepseek-v4-flash-vision-exp，文本能力对齐 V4-Flash，多模态 Agent 性能逼近 Opus-4.8，Agents Last Exam 27.3 对 25.7、ZeroBench 35.0 对 34.0。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月21日18时16分"
+  },
+  {
+    "id": "cmt2t3k7t062oro6teex3az22",
+    "title": "Anthropic 调整数据保留政策以回应企业客户反对",
+    "url": "https://the-decoder.com/anthropic-changes-data-retention-policy-after-enterprise-pushback",
+    "summary": "Anthropic 放宽其数据存储政策，允许企业客户自行保留数据。此前自 6 月起，Anthropic 将 Mythos 和 Fable 模型及未来旗舰模型的所有客户数据在其服务器上存储 30 天以检测新型网络攻击。新方案下 30 天窗口不变，但数据将存于客户云中而非 Anthropic 处，公司已与 100 多家受监管行业客户合作建设新系统，变更将于今年秋季推出。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月21日17时59分"
+  },
+  {
+    "id": "cmt2to8al06qvro6tf4032avc",
+    "title": "AI时代创作与制作的分野：谁在假装创作",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2090740025558217178",
+    "summary": "推文区分\"制作\"与\"创作\"：制作是把已存在的可能性实现出来，创作是让此前不存在的可能性出现。真正危险的状态是制作开始假装自己就是创作--技术更复杂、画面更漂亮、prompt更长、模型更强，却没有新问题、新判断、新可能性。引用安迪·沃霍尔将创作降级为机械复制的观点，正好承接60年后的AI。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月21日17时57分"
+  },
+  {
     "id": "cmt2sqml205v6ro6to0s9bre9",
     "title": "DeepSeek 发布 V4-Flash-Vision-Exp 多模态模型",
     "url": "https://x.com/kimmonismus/status/2090738285140173088",
@@ -14902,6 +14950,14 @@
     "summary": "DeepSeek 在 API 平台上线多模态模型 deepseek-v4-flash-vision-exp，文本性能接近 Opus 4.8 并持平 DeepSeek-V4-Flash。",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月21日17时49分"
+  },
+  {
+    "id": "cmt2sy8ai05y3ro6t8mf4niaz",
+    "title": "市场监管总局将具身智能机器人、固态动力电池等纳入质量强链二期攻关方向",
+    "url": "https://www.ithome.com/0/992/759.htm",
+    "summary": "市场监管总局在\"推进实施质量强链\"专题新闻发布会上宣布，已系统谋划质量强链二期十大标志性项目。二期在延续高端仪器仪表、新能源、工业机器人等领域基础上，拓展具身智能机器人、固态动力电池等新方向，并新增工业母机、无人机、先进合成生物制造等重点领域。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日17时44分"
   },
   {
     "id": "cmt2qvfnj03zxro6tehwcikx4",
