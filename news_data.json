@@ -13848,6 +13848,38 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt3kvy390us3ro6t336tgcx4",
+    "title": "Anthropic 的 Opus 4.6 被曝可轻易生成露骨色情内容",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine",
+    "summary": "TechCrunch 测试发现，Anthropic 的 Claude Opus 4.6 在 10 次直接请求中全部立即生成露骨色情内容，无需复杂诱导。一名匿名英国研究员开发的多轮越狱技巧可突破 Opus 4.6、Opus 3 和 Haiku 4.5 的限制，但对 Opus 4.7 至 Opus 5 无效。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月22日7时7分"
+  },
+  {
+    "id": "cmt3kyugv0uu1ro6tft97ljgz",
+    "title": "2026 年最佳 GPU Neocloud 排名：CoreWeave、Nebius、Lambda、Crusoe 与 Groq 按公开定价和签约电力对比",
+    "url": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026",
+    "summary": "五家最大 GPU neocloud 商业模式各异：CoreWeave 与 Nebius 向 SEC 报告，Lambda 和 Crusoe 私有化并筹备 IPO，Groq 在将 LPU 技术授权给 NVIDIA 后转型为推理云。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月22日7时20分"
+  },
+  {
+    "id": "cmt3ljayq0veiro6tcgnxxbsw",
+    "title": "本周最佳两篇：EnvHarness 与 SPADE",
+    "url": "https://x.com/dongxi_nlp/status/2090939841718448407",
+    "summary": "本周最佳两篇，Week 34\n\nEnvHarness： Awakening Static Worlds for Agent Learning https://arxiv.org/pdf/2608.19880\n\nSPADE： Self-Play in Adaptive Synthetic Executable Environments https://arxiv.org/pdf/2608.19197",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月22日7时11分"
+  },
+  {
+    "id": "cmt3ktgrh0uqqro6t2qz0z7fi",
+    "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 的办公类 AI 产品",
+    "url": "https://www.ithome.com/0/992/890.htm",
+    "summary": "字节豆包团队最快将于下周发布一款对标腾讯 WorkBuddy 的办公类产品，相当于将豆包 App 内\"工作任务\"模式拆分独立成应用。豆包网页端已出现独立\"新工作任务\"入口，近期该模式密集更新了手机远程操作电脑、虚拟桌面操作 Windows、侧边工作栏等功能。此前飞书产品团队已与豆包产品团队整合，成立新的豆包产品团队。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日7时11分"
+  },
+  {
     "id": "cmt3jywb80uairo6t89qocvp8",
     "title": "Suno 发布个人资料完善指南：为你的音乐赋予一张\"脸\"",
     "url": "https://suno.com/blog/tips-for-complete-profile",
@@ -13861,6 +13893,14 @@
     "url": "https://x.com/Replit/status/2090936988832772311",
     "summary": "Replit 本周更新\n\n1） 免费模式：创作量提升至 30 倍 2） 对话：通过聊天开启任何创意 3） 智能体模式更名 4） 例行程序 + 记忆 5） 黑盒渗透测试\n\n长帖 🧵",
     "source": "X：Replit (@Replit)",
+    "date": "2026年8月22日7时0分"
+  },
+  {
+    "id": "cmt3klouv0uojro6t0yx9vot5",
+    "title": "Azure 首批生产级 NVIDIA Vera Rubin 交付",
+    "url": "https://x.com/rohanpaul_ai/status/2090937073834578094",
+    "summary": "这些场景如此静谧而美丽。\n\n微软 Azure 基础设施已接收首批生产级 NVIDIA Vera Rubin 系统。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月22日7时0分"
   },
   {
@@ -13982,6 +14022,14 @@
     "summary": "Grok 4.6 在 CursorBench 3.2 上以 70.8% 得分登顶，单任务成本仅 $2.81，比 Fable 5 Max（70.5%，$17.32/任务）便宜约 6 倍，比 Opus 5 Max（70.0%，$8.23/任务）便宜近 3 倍。Elon Musk 推荐通过 Grok Build 或 Cursor 应用使用 Grok 4.6 以获得最佳效果。",
     "source": "X：Elon Musk (@elonmusk, xAI)",
     "date": "2026年8月22日5时33分"
+  },
+  {
+    "id": "cmt3kvxrr0urzro6tzhufoxs8",
+    "title": "LinkedIn\"AI 垃圾内容\"按钮点击量已超 100 万",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "summary": "LinkedIn 首席产品官 Hari Srinivasan 周四发文称，自 7 月 30 日推出\"Seems like AI slop\"按钮以来，已有\"超过 100 万人\"点击使用。该按钮位于帖子三点菜单中，旨在标记疑似 AI 生成内容。Srinivasan 还表示，用户目前看到的被归类为 AI 垃圾内容的浏览量较几周前减少了 40%。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月22日5时25分"
   },
   {
     "id": "cmt3hdy4o0ri0ro6twwu8ylff",
