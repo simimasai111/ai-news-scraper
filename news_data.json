@@ -14880,6 +14880,46 @@
     "date": "2026年8月21日1时10分"
   },
   {
+    "id": "cmt2pvz44035nro6t6cmka09j",
+    "title": "唐杰谈缩放定律：FLOPs是智能，参数是知识",
+    "url": "https://x.com/jietang/status/2090724835496443950",
+    "summary": "唐杰引用Liam Fedus对缩放定律历史的回顾：2020年Switch Transformers将每个token路由至2048个专家中的1个，激活参数不足3B但总参数达1.6T。该模型在C4困惑度和TriviaQA上超越T5并创SOTA，但在SuperGLUE等推理任务上表现不佳，表明最优token-参数比高度依赖任务。",
+    "source": "X：唐杰（@jietang）",
+    "date": "2026年8月21日16时56分"
+  },
+  {
+    "id": "cmt2otcx1023pro6t4wjqvy4t",
+    "title": "腾讯混元翻译模型上线OpenRouter",
+    "url": "https://x.com/TencentHunyuan/status/2090711479809183943",
+    "summary": "我们的翻译模型现已上线 @OpenRouterAI 🌐\n\n• Hy-MT2-1.8B • Hy-MT2-30B-A3B\n\n专为覆盖 33 种语言的真实场景翻译而构建，具备强大的多语言指令跟随能力，适用于结构化、上下文相关及风格引导型任务。\n\n快来试试吧 ↓ https://openrouter.ai/tencent",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "date": "2026年8月21日16时3分"
+  },
+  {
+    "id": "cmt2piva302xgro6ta4zz4fgh",
+    "title": "神秘模型DeepSWE得分超80%引热议",
+    "url": "https://x.com/kimmonismus/status/2090718270202528215",
+    "summary": "Wtf！Ben 让这个神秘模型跑了 10 个 DeepSWE 任务，得分超过 80%，而 Fable 是 65%，GPT-5.6-sol 只有 52%！\n\n这太疯狂了。可能是家中国公司。我猜要么是新版 GLM，要么是 Kimi 模型。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日16时30分"
+  },
+  {
+    "id": "cmt2ot7lw022tro6tple1eqp1",
+    "title": "Nvidia 以 60 亿美元收购 Poolside 的\"Model Factory\"及 109 名员工",
+    "url": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion",
+    "summary": "Nvidia 将支付 60 亿美元，获得 Poolside 用于构建 AI 模型的\"Model Factory\"系统许可，并向参与 Laguna 模型开发的 109 名员工发出录用通知。此外，Nvidia 还以 120 亿美元投前估值向 Poolside 投资 10 亿美元，三位创始人留任。该交易并非收购或人才收购，Poolside 计划在明年年底前将 60 亿美元分配给投资者。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月21日16时27分"
+  },
+  {
+    "id": "cmt2ot7lw022uro6tirwoluvm",
+    "title": "GPT-5.6 Sol 带动 OpenAI 营收增长 35%，重新追赶 Anthropic",
+    "url": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic",
+    "summary": "GPT-5.6 Sol 自 7 月 9 日发布后，OpenAI 本季度营收增长 35%，企业营收增长超 50%。Ramp 数据显示，OpenAI 在 Q3 企业 API 支出增速达 82%，超过 Anthropic 的 76%。此前 Anthropic 曾以 116 亿美元季度营收首次超越 OpenAI 的 67 亿美元，OpenAI 下一代模型 Astra 将在未来数周发布。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月21日16时26分"
+  },
+  {
     "id": "cmt2onwp501zuro6twbyycsgw",
     "title": "韩国 IT 巨头 Kakao 计划年内完成分拆，新实体将聚焦 AI 智能体",
     "url": "https://www.ithome.com/0/992/712.htm",
@@ -14918,6 +14958,14 @@
     "summary": "新鲜配方刚出炉！⚡ Qwen3.8-27B 的 NVFP4 + DFlash2 现已收录进 SGLang cookbook。感谢支持！@sgl_project",
     "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "date": "2026年8月21日15时58分"
+  },
+  {
+    "id": "cmt2pdwhk02sjro6thcxdxg0q",
+    "title": "Anthropic 估值预期 2 万亿，创始人持股仅 2%",
+    "url": "https://x.com/foxshuo/status/2090709526001631343",
+    "summary": "Anthropic 临近上市，市值预期已达 2 万亿美元，远超 6 月最后一轮融资时 9650 亿美元的估值。创始人 Dario Amodei 持股仅约 2%，7 位联合创始人合计持股 14%，因公司估值暴涨且连续融资至 H 轮，创始团队无力跟投、股权被同步稀释。最大外部股东为 Google（约 14%）和 Amazon（或近 19%），后者因 AWS 筹码及无自研模型获 15% 持股上限豁免权。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月21日15时56分"
   },
   {
     "id": "cmt2onwp501zxro6t2x12e24b",
