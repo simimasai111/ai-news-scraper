@@ -14880,6 +14880,86 @@
     "date": "2026年8月21日1时10分"
   },
   {
+    "id": "cmt2onwp501zuro6twbyycsgw",
+    "title": "韩国 IT 巨头 Kakao 计划年内完成分拆，新实体将聚焦 AI 智能体",
+    "url": "https://www.ithome.com/0/992/712.htm",
+    "summary": "韩国 IT 巨头 Kakao 宣布通过人事分割方式拆分为 Kakao AI 和 Kakao X，拆分比例为 Kakao AI 36%、Kakao X 64%。Kakao AI 将以 KakaoTalk 和 Kanana 为核心开发 AI 智能体，目标将用户停留时间提高 50% 以上，力争 2030 年实现约 6 万亿韩元营收。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日16时18分"
+  },
+  {
+    "id": "cmt2ogb3z01x8ro6tc5bhf39h",
+    "title": "神秘新模型Ox Alpha现身：1M上下文免费一周",
+    "url": "https://x.com/kimmonismus/status/2090714694826787229",
+    "summary": "神秘新AI模型Ox Alpha悄然上线，提供1M上下文窗口、多模态能力、零数据保留，并在一周内近乎无限量免费使用。OpenCode称其每日可处理100万亿token（约每秒11.6亿token），但该模型的开发公司身份尚未公开。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日16时16分"
+  },
+  {
+    "id": "cmt2ontrq01zmro6tc2sfzsq6",
+    "title": "阿里平头哥二代AI芯片2026下半年流片量产",
+    "url": "https://x.com/thexpin/status/2090714522042691850",
+    "summary": "阿里巴巴CEO吴泳铭称，平头哥第二代国产AI芯片预计2026年下半年流片并量产，计算能力和互联带宽显著提升，可支撑大规模AI模型训练。阿里云已推出贞武M890 AI超级节点，服务超650家客户；平头哥AI芯片累计出货56万颗，覆盖20多个行业。阿里正整合云与平头哥成立新的AI云与计算服务部门。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月21日16时16分"
+  },
+  {
+    "id": "cmt2onwp501zvro6tljzuv85c",
+    "title": "消息称 NVIDIA 与韩国 AI 芯片企业 Rebellions 展开合作初步讨论",
+    "url": "https://www.ithome.com/0/992/711.htm",
+    "summary": "NVIDIA 已就潜在合作与韩国 AI 芯片企业 Rebellions 展开初步讨论，双方领导人本周在 NVIDIA 圣克拉拉总部会面。洽谈尚属初步阶段，可能最终达成技术合作、投资乃至收购，交易落空也是潜在情况。Rebellions 主打 NPU 架构推理加速器，最新产品 Rebel100 拥有 2 PFLOPS FP8 算力、523MB SRAM 缓存和 144GB HBM3E 内存。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日16时13分"
+  },
+  {
+    "id": "cmt2o2kcv01noro6ts1fm6wh4",
+    "title": "Qwen3.8-27B新配方上线SGLang",
+    "url": "https://x.com/Alibaba_Qwen/status/2090709994761339190",
+    "summary": "新鲜配方刚出炉！⚡ Qwen3.8-27B 的 NVFP4 + DFlash2 现已收录进 SGLang cookbook。感谢支持！@sgl_project",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月21日15时58分"
+  },
+  {
+    "id": "cmt2onwp501zxro6t2x12e24b",
+    "title": "雷鸟 iO AI 眼镜图赏：好看，也好戴",
+    "url": "https://www.ithome.com/0/992/690.htm",
+    "summary": "雷鸟创新发布首款\"人类增强 AI 眼镜\"雷鸟 iO，IT之家带来开箱图赏。该眼镜采用 0.085 立方厘米萤火光引擎 Nano 与厚度不足 0.6 mm 蓝湖光波导，非显示区透过率超 98%，官标重量仅 34 克。设计上采用皇冠框型与前后平衡配重，支持 Smart Crown 旋钮及头势交互，并配备 2000 mAh 充电盒。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日15时55分"
+  },
+  {
+    "id": "cmt2nqlhw015tro6t5kpme56m",
+    "title": "OpenAI 为 GPT-Image-2 预览透明背景生成功能",
+    "url": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background",
+    "summary": "OpenAI 通过 API 为 GPT-Image-2 预览透明背景支持，用户可生成无背景的 PNG 图片。该功能覆盖电商产品图、PPT 图表、图标贴纸等设计元素及周边商品图四种用例。官方称生成时直接烘焙 alpha 通道优于传统抠图，尤其在透明玻璃或细纤维等复杂区域；用户通过 `background=transparent` 参数启用，并建议提示词中不描述背景。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月21日15时53分"
+  },
+  {
+    "id": "cmt2onwp801zyro6ticyxy6kw",
+    "title": "众擎 CEO 回应被 T800 机器人\"一脚踹翻\"：非摆拍，真进化到这个程度",
+    "url": "https://www.ithome.com/0/992/665.htm",
+    "summary": "众擎机器人 CEO 赵同阳回应此前被 T800 机器人\"一脚踹翻\"的视频，称并非摆拍，当时机器人确已具备将其踹飞的力量。T800 为众擎面向高端商用与科研的旗舰机型，售价 18 万起，全身 29 个自由度关节，瞬间峰值功率 14000W，最大力矩 450Nm，可完成回旋踢等大力量动作。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日15时43分"
+  },
+  {
+    "id": "cmt2n8r6d06dmroy5r6zwcn7x",
+    "title": "Anthropic估值逼近SpaceX，AI泡沫引热议",
+    "url": "https://x.com/AYi_AInotes/status/2090706124806803711",
+    "summary": "Anthropic估值预计将追平甚至超越SpaceX，尽管其每月向SpaceX支付12.5亿美元租用GPU，数据中心几乎全靠租赁。金融圈按SaaS的ARR倍数给AI公司定价，但前沿模型训练是资本密集生意，算力、电力等物理层才是真护城河。Anthropic算力合同有90天终止条款，且SpaceX通过xAI构成直接竞争，纯模型公司估值泡沫在资本开支周期中易被戳破。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月21日15时42分"
+  },
+  {
+    "id": "cmt2nnnvc001uro6teambb9og",
+    "title": "百度Famou Agent助力林业AI4S松材线虫早检",
+    "url": "https://x.com/Baidu_Inc/status/2090704703701287337",
+    "summary": "Famou Agent 正在推进林业领域的 AI4S，帮助南京林业大学的研究人员在松材线虫病最早、最可治疗的阶段进行检测。🌲\n\n观看完整故事 ↓",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月21日15时36分"
+  },
+  {
     "id": "cmt2mjx2s05poroy5n0ooijmd",
     "title": "Codex 在 AWS Bedrock 上存在一个导致费用增加 10 倍的漏洞",
     "url": "https://github.com/openai/codex/issues/37674",
@@ -14894,6 +14974,14 @@
     "summary": "Ox Alpha 是一款面向编码、持续性智能体工作和生产负载的推理模型，现已免费开放使用。该模型支持 1，048，576 token 的上下文窗口，最大输出 131，072 token。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月21日15时1分"
+  },
+  {
+    "id": "cmt2ndpgu06hgroy5dueiy7y1",
+    "title": "马斯克：机器人医生将超越人类医生",
+    "url": "https://x.com/cb_doge/status/2090700304555901401",
+    "summary": "埃隆·马斯克：机器人医生可能会变得极其能干，提供的医疗服务将如此先进，以至于地球上的每个人都能获得比当今最优秀的人类医生更好的治疗。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月21日15时19分"
   },
   {
     "id": "cmt2mir7y05mcroy5exa21fm9",
@@ -14934,6 +15022,14 @@
     "summary": "美光 CEO 桑杰·梅赫罗特拉称，AI 已彻底改变内存行业的周期性格局，AI 系统需要更多高性能内存，正在创造更持久的需求。他认为这种需求不仅来自数据中心，未来自动驾驶汽车、机器人和 AI 消费电子设备也将需要更多内存。美光位于爱达荷州博伊西的基地正建设两座晶圆厂，预计 2027 年中投产，目前数据中心客户希望获得的供应量比美光能承诺的高出一半。",
     "source": "IT之家（RSS）",
     "date": "2026年8月21日15时0分"
+  },
+  {
+    "id": "cmt2n8r6o06doroy58vi2gj6z",
+    "title": "安迪·沃霍尔60年前机械艺术观回应AI争议",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2090693002792735149",
+    "summary": "博主借1962年安迪·沃霍尔采访回应当下AI创作争议。沃霍尔主张\"我支持机械艺术\"，反问\"为何我必须原创？为何不能非原创？\"，并称\"我未做任何改动，这是精确复制\"。其观点与60年后AI生成内容的原创性讨论形成呼应。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月21日14时50分"
   },
   {
     "id": "cmt2k5zyz03skroy5he9w2kxo",
