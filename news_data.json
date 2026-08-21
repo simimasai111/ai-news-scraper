@@ -13856,6 +13856,78 @@
     "date": "2026年8月22日3时8分"
   },
   {
+    "id": "cmt3dh9qd0oqmro6tekeyn7iu",
+    "title": "Claude Code v2.1.239 发布：修复多项 Bug 并新增成本估算与 /claude-api 升级功能",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.239",
+    "summary": "Claude Code v2.1.239 发布，成本估算（/cost、状态栏、--max-budget-usd）现包含数据驻留工作区 1.1 倍美国专属推理溢价，并为 Bedrock、Vertex、Foundry 等新增全屏渲染器。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月22日3时54分"
+  },
+  {
+    "id": "cmt3dshn70p0aro6tk67pt85a",
+    "title": "Inkling 系列模型上线 OpenRouter 免费供智能体使用",
+    "url": "https://x.com/OpenRouter/status/2090890180379165160",
+    "summary": "Inkling 和 Inkling Small 现已由 @thinkymachines 直接在 OpenRouter 上提供，仅限在智能体框架内免费使用。\n\n将它们接入 Claude Code、Codex、Hermes Agent 等工具即可解锁免费访问。\n\n开放权重 MoE 推理模型，原生支持文本、图像和音频输入，上下文窗口达 1M。更多详情见下文 🧵\n\nhttps://openrouter.ai/provider/thinkingmachines",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月22日3时54分"
+  },
+  {
+    "id": "cmt3ddu020omrro6t451gm8lr",
+    "title": "克劳黛特：让 Claude 别再像 BuzzFeed 文章那样说话",
+    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "summary": "开发者与 Claude 合作构建了一个 Claude Code 技能 /debuzz，将 Claude 的回复通过 Gemini CLI 翻译成简洁直白的英文，避免其\"千禧年点击诱饵\"式表达。该技能支持同事、经理、高管三种模式，分别输出不同详略程度的版本，并承诺逐字打印 Gemini 的翻译结果。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日3时49分"
+  },
+  {
+    "id": "cmt3d36og0oghro6tlcygucaa",
+    "title": "The Healthcare Company That Built the AI Tool It Couldn't Buy",
+    "url": "https://every.to/p/the-healthcare-company-that-built-the-ai-tool-it-couldn-t-buy",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月22日3时47分"
+  },
+  {
+    "id": "cmt3dzoiu0p3uro6t8x3wof6p",
+    "title": "Inkling 免费开放 OpenRouter 智能体测试",
+    "url": "https://x.com/thinkymachines/status/2090888586849878374",
+    "summary": "我们希望提升 Inkling 的智能体性能。为了解其真实世界表现，即日起数周内，我们将在 OpenRouter 上免费提供该模型（仅限智能体框架使用）。我们将利用这些与账户解耦的数据来改进模型。",
+    "source": "X：Thinking Machines (@thinkymachines)",
+    "date": "2026年8月22日3时47分"
+  },
+  {
+    "id": "cmt3dioub0oszro6t7gtx01xs",
+    "title": "GPT-5.6 Sol API价格下调超20%",
+    "url": "https://x.com/OpenAIDevs/status/2090888116014137718",
+    "summary": "如果你正在使用 GPT-5.6 Sol 进行开发，我们将在未来 3 个月内将 API 价格下调超过 20%，以提升运行效率；同时，你在 Codex 基于 token 的套餐中购买的额度将更耐用，而订阅中包含的使用量保持不变。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月22日3时45分"
+  },
+  {
+    "id": "cmt3d3mos0ohero6t4z4xnxgd",
+    "title": "Arcads Mark 入驻 Slack，广告生成融入对话上下文",
+    "url": "https://x.com/rohanpaul_ai/status/2090887690762047904",
+    "summary": "Arcads 推出 AI 智能体 Mark，可直接在 Slack 工作区内根据对话上下文生成广告。Mark 能读取产品定位、活动反馈、竞品参考等对话信息，并将其直接输入生成层，实现从单点任务执行到跨工作流上下文保持的转变。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日3时44分"
+  },
+  {
+    "id": "cmt3ddts40ompro6tyw2hetls",
+    "title": "Nvidia 研究显示：智能体\"缰绳\"（harness）比 AI 模型本身更关键，Claude Opus 5 在 ARC-AGI-3 上达 100% 满分",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+    "summary": "Nvidia 新研究指出，在长时程任务中，模型外的\"缰绳\"（harness）比底层模型更重要。研究人员通过定制 harness 并加入\"监督者\"组件，让 Claude Opus 5 在交互推理基准 ARC-AGI-3 上取得 100% 满分，而无 harness 时仅得 30%。该研究还表明，OpenAI 上月通过调整 harness 设置使模型分数提升三倍，但均未达满分。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月22日3时43分"
+  },
+  {
+    "id": "cmt3dshnj0p0cro6tas5g666s",
+    "title": "GPT-5.6 Sol 降价超20%为期三月",
+    "url": "https://x.com/thsottiaux/status/2090887457915232269",
+    "summary": "Sol 今日更加耀眼。效率、可靠性与性能才是关键所在。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月22日3时43分"
+  },
+  {
     "id": "cmt3cqxpd0o8nro6tzgl7u0ju",
     "title": "移动性如何让语言模型更深入地理解地点",
     "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place",
@@ -13864,12 +13936,76 @@
     "date": "2026年8月22日3时38分"
   },
   {
+    "id": "cmt3diour0ot1ro6tnfne7nwz",
+    "title": "Grok 4.6 登陆 Google Vertex AI",
+    "url": "https://x.com/SpaceXAI/status/2090885694407250418",
+    "summary": "Grok 4.6 现已上线 Google Vertex AI https://x.ai/news/grok-4-6-vertex-ai",
+    "source": "X：SpaceXAI (@SpaceXAI)",
+    "date": "2026年8月22日3时36分"
+  },
+  {
+    "id": "cmt3dgqsy0oporo6tfub7cyh3",
+    "title": "Anthropic 将最强模型 Claude Mythos 5 投入网络防御",
+    "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense",
+    "summary": "Anthropic 已将其最强模型 Claude Mythos 5 接入安全扫描器 Claude Security，用于扫描代码库漏洞并建议补丁，现已面向企业客户开放公开测试版，扫描计入正常 token 用量，每项发现包含 CWE 分类、严重性评级和修复建议，且补丁仍需人工审批。Anthropic 还将 Mythos 5 接入保护医院、公用事业和银行的合作伙伴安全产品，安全厂商可申请合作接入。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月22日3时35分"
+  },
+  {
+    "id": "cmt3d3mos0ohfro6tududlwgh",
+    "title": "OpenAI美洲销售负责人上任5月即离职",
+    "url": "https://x.com/rohanpaul_ai/status/2090885514392195485",
+    "summary": "OpenAI美洲销售负责人Kaylin Voss上任5个月后辞职，此时距Denise Dresser离职仅1周。\n\n- The Information",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日3时35分"
+  },
+  {
+    "id": "cmt3diosv0osxro6trqh9a5yh",
+    "title": "OpenAI 下调 GPT-5.6 Sol API 价格逾两成",
+    "url": "https://x.com/OpenAI/status/2090885187634905500",
+    "summary": "在我们持续推动能力前沿、同时提升效率之际，我们将在未来 3 个月内将 GPT-5.6 Sol 的 API 和积分价格下调超过 20%。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月22日3时34分"
+  },
+  {
     "id": "cmt3cpvwn0o3zro6tnieipe4a",
     "title": "Anthropic 内部流行 ELI5 技能",
     "url": "https://x.com/trq212/status/2090884854590382515",
     "summary": "Anthropic 的人最近经常使用的一个技能：ELI5\n\n/eli5 <你想被解释的内容>\n\n\"请像对完全不懂这个话题的人解释一样，用带大图和少量文字的 HTML 页面来讲解\"",
     "source": "X：Thariq (@trq212)",
     "date": "2026年8月22日3时32分"
+  },
+  {
+    "id": "cmt3d3mog0oharo6tuhcdyu50",
+    "title": "SpaceXAI 孟菲斯基地将用全球最大电池组供电",
+    "url": "https://x.com/cb_doge/status/2090884359796687294",
+    "summary": "突发：SpaceXAI 的孟菲斯和绍斯海文站点将由全球最大的并网电池组供电。\n\n这将有助于降低当地社区的电力成本，同时提高其电力系统的可靠性。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月22日3时30分"
+  },
+  {
+    "id": "cmt3d3mos0ohgro6txghy9ajs",
+    "title": "阿里字节新论文：AI智能体服务需新架构",
+    "url": "https://x.com/rohanpaul_ai/status/2090884141101482407",
+    "summary": "阿里与字节新论文指出，AI智能体性能瓶颈已从模型推理转向工具、内存、环境与模型的协同。基于10个智能体应用的AgentSysBench测试显示，任务感知调度降低延迟29-40%，通信感知放置提速4.5倍，状态卸载节省内存4.6倍，缓存消除35.2%冗余搜索调用。单纯优化token/秒已不够，需将模型、工具、内存与通信统一调度。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日3时30分"
+  },
+  {
+    "id": "cmt3d3mp30ohkro6tafa1b9pb",
+    "title": "Grok Bot 上线 SuperGrok 与 Cursor 用户",
+    "url": "https://x.com/testingcatalog/status/2090883240449937620",
+    "summary": "SPACEXAI 🔥：Grok Bot 现已面向 SuperGrok Plus、Cursor Pro+ 及 Cursor Teams 用户开放。\n\n不错，但我们仍需要更广泛的发布 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月22日3时26分"
+  },
+  {
+    "id": "cmt3d3mog0ohbro6t3m6pn540",
+    "title": "Grok 4.6 登陆谷歌云 Vertex AI",
+    "url": "https://x.com/cb_doge/status/2090881795210584272",
+    "summary": "突发：Grok 4.6 现已上线 Google Cloud 的 Vertex AI。开发者可通过 Vertex Model Garden 访问。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月22日3时20分"
   },
   {
     "id": "cmt3cpvwe0o3xro6t7lqzvcbx",
