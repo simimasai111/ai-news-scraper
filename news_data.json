@@ -14880,12 +14880,68 @@
     "date": "2026年8月21日1时10分"
   },
   {
+    "id": "cmt2xazrr0auiro6tt0tpg93r",
+    "title": "Google DeepMind 携手游戏工作室，基于 15 年游戏 AI 研究打造原型玩法",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+    "summary": "Google DeepMind 与多家游戏工作室合作，将 15 年游戏 AI 研究成果应用于原型玩法开发。合作覆盖从 Atari 到 EVE Online 等经典与大型游戏场景，旨在探索 AI 在游戏交互中的新可能。",
+    "source": "Google DeepMind：Blog（RSS）",
+    "date": "2026年8月21日19时59分"
+  },
+  {
+    "id": "cmt2x0y3x0aq9ro6tug9pekdm",
+    "title": "Codex 用户破 2000 万，Ox Alpha 免费 6 天",
+    "url": "https://x.com/kimmonismus/status/2090770341727527201",
+    "summary": "Codex 本周活跃用户突破 2000 万，所有 Codex 与 ChatGPT Work 用户将获赠一个可随时使用的\"banked reset\"额度。此外，新模型 Ox Alpha 未来 6 天免费开放使用。官方同时表示正调查用量上限消耗加速问题，目前未见异常。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日19时57分"
+  },
+  {
     "id": "cmt2v8ptk07zrro6t100a5qi0",
     "title": "Waymo 自研自动驾驶芯片，减少对 Nvidia 依赖",
     "url": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia",
     "summary": "Waymo 已为其自动驾驶出租车开发自研芯片，并已在新一代车辆中运行，以减少对 Nvidia 和 AMD 芯片的依赖。该芯片算力超过 1，000 TOPS，由台积电以 5 纳米工艺制造，与 Nvidia 当前自动驾驶系统相当。此举旨在降低成本，新芯片将搭载于 Waymo 与极氪合作打造的新款 Robotaxi。",
     "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月21日19时4分"
+  },
+  {
+    "id": "cmt2w8f1408x7ro6t9mrn6zjp",
+    "title": "DeepSeek-v4-flash-vision-exp 发布：支持图像与文本多模态输入",
+    "url": "https://api-docs.deepseek.com/guides/vision",
+    "summary": "DeepSeek 推出 DeepSeek-v4-flash-vision-exp 模型，可同时接受图像与文本输入。用户能要求模型描述图片、从截图中读取文字、分析图表等。该实验版本扩展了 DeepSeek 的多模态能力。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日19时49分"
+  },
+  {
+    "id": "cmt2w8f1408x8ro6tltee7uj7",
+    "title": "用 Claude 给 27 美元的 PineTime 智能手表做表盘",
+    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+    "summary": "开发者用 Claude 配合开源模型，为 27 美元的 PineTime 智能手表（运行开源固件 InfiniTime）打造了一款仿卡西欧风格的自定义表盘。项目基于 InfiniSim 模拟器快速迭代，并采用全屏背景图方案减少编程量，但真机安装需约 10 分钟传输 240x240 图片，滑动刷新耗时 1-2 秒。代码已开源至 GitHub，并附有 AGENTS.md 经验总结。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日19时49分"
+  },
+  {
+    "id": "cmt2x0y440aqbro6tgrcq74mq",
+    "title": "Codex 周活跃用户破 2000 万，OpenAI 送重置额度",
+    "url": "https://x.com/testingcatalog/status/2090768050026877118",
+    "summary": "OpenAI 宣布 Codex 本周活跃用户突破 2000 万。为庆祝这一里程碑，所有 Codex 和 ChatGPT Work 用户当天将获得一次可自行使用的 Banked 重置额度。针对部分用户反馈的用量额度消耗过快问题，OpenAI 称未发现异常，但已展开调查。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月21日19时48分"
+  },
+  {
+    "id": "cmt2wn8290agpro6tf4jcvt3f",
+    "title": "Codex 周活破 2000 万，赠送重置额度",
+    "url": "https://x.com/thsottiaux/status/2090766694897619318",
+    "summary": "Codex 本周活跃用户突破 2000 万，官方将向所有 Codex 和 ChatGPT Work 用户赠送一次可自行使用的 BANKED 重置额度。针对用量限制异常反馈，调查发现多为用户通过 sub2api 将订阅转为 API 流量并共享所致，此类行为会被反欺诈系统标记；通过官方客户端或支持账号登录的开源客户端正常使用则不受影响。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月21日19时43分"
+  },
+  {
+    "id": "cmt2vyk1y08rvro6t76lpjifb",
+    "title": "Codex 用量限制争议：OpenAI 回应封禁原因",
+    "url": "https://x.com/kimmonismus/status/2090760403512950875",
+    "summary": "OpenAI 回应 Codex 用量限制变化，称未在未与社区沟通的情况下调整。调查发现受影响用户多使用 sub2api 将订阅转为 API 流量并共享，此类行为会被反欺诈系统标记。通过 Sign in With ChatGPT 在官方或 OSS 客户端（如 Pi、OpenCode）正常使用订阅则不受影响。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日19时18分"
   },
   {
     "id": "cmt2v3f6m07vhro6tk1fp1e3j",
