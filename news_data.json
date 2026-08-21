@@ -13856,6 +13856,22 @@
     "date": "2026年8月21日9时6分"
   },
   {
+    "id": "cmt2cixwr01o2roc9idk70y6k",
+    "title": "模型指令遵循差到需每轮提醒闭嘴",
+    "url": "https://x.com/dexhorthy/status/2090616877626404935",
+    "summary": "我还没核实过，但如果属实，这简直离谱。他们到底把模型 RL 烤到什么程度，才需要这样？",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月21日9时48分"
+  },
+  {
+    "id": "cmt2bsui00mysroovfbyj73by",
+    "title": "Waymo 首次揭开计算系统面纱：配备 5nm 自研 ASIC",
+    "url": "https://www.ithome.com/0/992/451.htm",
+    "summary": "Waymo 首次公开驱动其 Robotaxi 的计算系统，该系统原始计算性能 8 年间提升 20 倍，并通过双计算引擎并行冗余备份增强可靠性。Waymo 还介绍了专门定制的 5nm ASIC 芯片，专为实时处理、传感器数据融合与高级神经网络设计，单芯片可提供超过 1000 TOPS 的机器学习算力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日9时41分"
+  },
+  {
     "id": "cmt2aiqdx0ly1roovwazhcug1",
     "title": "宇树Elf-Xuan 2.0机器人现场演唱引关注",
     "url": "https://x.com/rohanpaul_ai/status/2090615024519970917",
@@ -14854,6 +14870,70 @@
     "summary": "SenseNova 发布 U1.5 Lite，一个 8B 参数的开源轻量级原生统一多模态模型，可同时完成视觉理解、生成与编辑。该模型通过 OPD 将任务专家能力蒸馏进单一模型，推理时无需路由或切换专家，并支持原生 4K 生成、复杂指令遵循及本地编辑。其在指令遵循和编辑保持上超越同尺寸模型，文本渲染与复杂布局上可媲美大型商业模型。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月21日1时10分"
+  },
+  {
+    "id": "cmt2dy0l302srroc97q9dlpto",
+    "title": "阿里云：GLM-5.3、Deepseek-V4-Pro 等多款模型上线千问 AI 平台",
+    "url": "https://www.ithome.com/0/992/511.htm",
+    "summary": "阿里云MaaS扩充模型服务矩阵，GLM-5.3和DeepSeek-V4-Pro正式版接入千问AI平台，API同步开放。GLM-5.3强化编程、长程任务处理和网络安全能力；DeepSeek-V4-Pro增强智能体能力。平台已接入Qwen3.8-Max、Wan3.0、Kimi K3等模型，覆盖文本、代码、语音、图像及视频生成。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日11时6分"
+  },
+  {
+    "id": "cmt2d9ryi02clroc9fi2vefee",
+    "title": "美团LongCat-2.0免费试用延长两周",
+    "url": "https://x.com/Meituan_LongCat/status/2090635115919777896",
+    "summary": "好消息！LongCat-2.0 搭配 Hermes Agent 的免费访问已延长两周 🐱\n\n欢迎在 @NousResearch Portal 上有更多时间试用！",
+    "source": "X：美团 LongCat (@Meituan_LongCat)",
+    "date": "2026年8月21日11时0分"
+  },
+  {
+    "id": "cmt2bsuhz0mymroovl18ahmvq",
+    "title": "消息称 Anthropic 计划调整数据留存策略：企业客户可选择在自有设施保存",
+    "url": "https://www.ithome.com/0/992/462.htm",
+    "summary": "Anthropic 计划调整数据留存策略，企业客户将可选择在自有云计算基础设施而非 Anthropic 设施上保留 30 天内的数据，该安全系统预计今年晚些时候上线。此前 Anthropic 于今年 6 月宣布企业客户所有前沿模型数据流量将留存 30 天以追查网络攻击，且不会将留存数据用于自身 AI 训练，但该模式引发客户异议并可能导致客户转投\"零留存\"策略的竞争对手。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日10时7分"
+  },
+  {
+    "id": "cmt2d109k0205roc9dn453e01",
+    "title": "OpenCode Hy3 限时 8 倍用量优惠",
+    "url": "https://x.com/TencentHunyuan/status/2090633555122745760",
+    "summary": "OpenCode 上用量达正常水平的 8 倍👌\n\n【引用 @opencode】：Hy3 在 8 月 30 日前将获得 8 倍于正常的用量\n\n即 10 美元获得 480 美元的使用量\n\n所有 OpenCode Go 订阅用户均可享受",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "date": "2026年8月21日10时54分"
+  },
+  {
+    "id": "cmt2dy0l302svroc9bovab93s",
+    "title": "前摩托罗拉设备总裁 Sergio Buniac 将领导高通移动、计算、个人 AI 业务",
+    "url": "https://www.ithome.com/0/992/495.htm",
+    "summary": "高通宣布，自 2018 年起担任联想旗下摩托罗拉设备总裁的 Sergio Buniac 将于 9 月 2 日正式加入，出任执行副总裁及移动、计算、个人人工智能业务集团总经理。他将负责包括新一代 AI 设备的智能手机、个人计算、智能可穿戴设备和扩展现实业务，直接向高通总裁兼 CEO 安蒙汇报。安蒙称其拥有超 30 年移动行业经验，将在代理式人工智能时代拓展骁龙平台驱动的用户体验。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日10时53分"
+  },
+  {
+    "id": "cmt2dcr4r02gqroc951bxplat",
+    "title": "GPT-Image-2 支持透明背景图像生成",
+    "url": "https://x.com/thsottiaux/status/2090631723302469995",
+    "summary": "太棒了，现在你可以在 ChatGPT 中以及通过 API 使用 GPT-Image-2 生成透明背景图像了。这是我即将打印并贴到笔记本电脑上的仙人掌图片。\n\n【引用 @OpenAIDevs】：GPT-Image-2 的透明背景功能现已在 API 中提供预览。\n\n生成可放置于任何背景上的可复用素材--适用于产品图像、平面设计、网站模型和营销活动。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月21日10时46分"
+  },
+  {
+    "id": "cmt2dy0l402syroc9w3qkfdt0",
+    "title": "井芯微 RapidIO 交换芯片 SR1820、RapidIO-PCIe 桥接芯片 ST0420 成功点亮",
+    "url": "https://www.ithome.com/0/992/489.htm",
+    "summary": "井芯微电子宣布，其自主研制的 RapidIO 3.2 交换芯片 SR1820 与 RapidIO 3.2-PCIe 4.0 桥接芯片 ST0420 于 8 月 18 日回片并成功点亮，用时不到 1hr 打通全部主功能用例。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日10时34分"
+  },
+  {
+    "id": "cmt2btz4a0n23roov1m3o8xdf",
+    "title": "在欧盟，版权不保护由人工智能生成的内容",
+    "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+    "summary": "欧盟法律明确，由人工智能生成的内容不受版权保护。这一裁定意味着AI生成作品进入公共领域，任何人都可自由使用，无需授权或付费。该立场对依赖AI创作的个人与企业影响深远，可能重塑内容创作与版权归属的边界。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日10时13分"
   },
   {
     "id": "cmt1q5xno04pkroovfnvoqohy",
