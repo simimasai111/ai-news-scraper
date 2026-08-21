@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt3i1ue80t07ro6t35x9ik8j",
+    "title": "微型语言模型中干扰权重的特征刻画",
+    "url": "https://transformer-circuits.pub/2026/interference_effectiveness_helpfulness/index.html",
+    "summary": "Anthropic 训练了一个单层 transformer，通过将模型分解为 token、位置、特征和 logits 间的虚拟权重，首次在训练过的 transformer 内直接演示了干扰权重的存在及其对训练损失的影响。",
+    "source": "Anthropic：Transformer Circuits（可解释性研究）",
+    "date": "2026年8月22日6时6分"
+  },
+  {
     "id": "cmt3giwpm0qr1ro6tjqib1l70",
     "title": "swyx 再宣战：又一款 SaaS 要被我干掉",
     "url": "https://x.com/swyx/status/2090908959590740033",
@@ -13856,11 +13864,67 @@
     "date": "2026年8月22日5时8分"
   },
   {
+    "id": "cmt3hdy4w0ri2ro6ttmz16tn3",
+    "title": "GPT-5.6 Sol API 降价 20% 持续三个月",
+    "url": "https://x.com/testingcatalog/status/2090917119781154974",
+    "summary": "OPENAI 🔥：GPT-5.6 Sol 的 API 价格在未来 3 个月内下调 20%。\n\n符合条件的套餐在 ChatGPT Work 和 Codex 积分上也将获得 20% 的折扣。\n\nPro、Plus 和 Business 用户不适用 💀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月22日5时41分"
+  },
+  {
+    "id": "cmt3hlgzj0rlsro6tw3yas99j",
+    "title": "Grok Bot 免费试用，向更多用户开放",
+    "url": "https://x.com/ericzakariasson/status/2090915879835889802",
+    "summary": "grok bot 免费试用\n\n是时候向不懂技术的父母和朋友展示 AGI 的样子了",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月22日5时36分"
+  },
+  {
+    "id": "cmt3h4thb0rbxro6ttsovhnrg",
+    "title": "Grok 4.6 登顶 CursorBench 3.2 且成本更低",
+    "url": "https://x.com/elonmusk/status/2090915155987272119",
+    "summary": "Grok 4.6 在 CursorBench 3.2 上以 70.8% 得分登顶，单任务成本仅 $2.81，比 Fable 5 Max（70.5%，$17.32/任务）便宜约 6 倍，比 Opus 5 Max（70.0%，$8.23/任务）便宜近 3 倍。Elon Musk 推荐通过 Grok Build 或 Cursor 应用使用 Grok 4.6 以获得最佳效果。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月22日5时33分"
+  },
+  {
+    "id": "cmt3hdy4o0ri0ro6twwu8ylff",
+    "title": "Ox Alpha疑为GLM-5.3，美中差距缩小",
+    "url": "https://x.com/kimmonismus/status/2090912736012054829",
+    "summary": "现在看来相当确定，Ox Alpha 模型就是 GLM-5.3。Flash 模型大概也是如此，正如 Leo 等人广泛报道的那样。\n\n这给美国前沿实验室带来了巨大压力，与中国之间的差距正在缩小。\n\n下周我们将看到美国实验室如何应对。这将比以往任何时候都更令人兴奋。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月22日5时23分"
+  },
+  {
+    "id": "cmt3h4thb0rbyro6trwuwrqon",
+    "title": "X Ads 推出 MCP，AI 智能体可管理广告",
+    "url": "https://x.com/elonmusk/status/2090911702879772854",
+    "summary": "X Ads 通过新 MCP 接口实现 agent-native，Grok、Claude Code 等 AI 智能体可直接连接广告账户，用自然语言管理广告系列。该 MCP 提供 23 个工具，支持创建与管理广告、定向设置、推广帖子等全流程操作。新广告系列默认以暂停状态创建，需用户明确激活后才会开始花钱，防止 AI 擅自消耗预算。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月22日5时19分"
+  },
+  {
+    "id": "cmt3hrm6a0rqfro6ts02jft6f",
+    "title": "数据中心狂热：AI 行业的经济账与政治反噬",
+    "url": "https://garymarcus.substack.com/p/data-center-madness",
+    "summary": "两套估算均显示，AI 数据中心当前收入仅数百亿至低千亿美元量级，而资本开支已达数万亿美元，收支严重失衡。与此同时，美国共和党人正加速抛弃数据中心，民调专家 Adam Carlson 收集的四个新案例显示其政治毒性加剧。文章认为，贪婪、愚蠢与傲慢已让 2023 年的行业英雄沦为 2026 年的反派，大科技公司处境或比预期更糟。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月22日5时19分"
+  },
+  {
     "id": "cmt3gohwy0qtoro6tvdyi7fw7",
     "title": "Anthropic 将 Claude Mythos 5 引入 Claude Security：企业团队无需直接访问模型即可获得前沿漏洞扫描",
     "url": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security",
     "summary": "Anthropic 已将 Claude Mythos 5 接入 Claude Security，企业客户可自助启用该扫描功能，无需直接访问模型。该功能处于公开测试阶段，扫描按现有计划的常规 token 用量计费，无单独模型附加费用。Anthropic 同时推出 3500 万美元的开源安全信用基金，并计划扩大 Cyber Verification Program 覆盖范围。",
     "source": "MarkTechPost（RSS）",
+    "date": "2026年8月22日5时15分"
+  },
+  {
+    "id": "cmt3h4thb0rbzro6txuwperwv",
+    "title": "马斯克盛赞Grok Bot：一人团队AI代理运营公司",
+    "url": "https://x.com/elonmusk/status/2090910588428013811",
+    "summary": "马斯克转发Greg Eisenberg观点，称Grok Bot可能是首个让非技术人员通过AI代理团队运营整个业务的工具。Eisenberg分享其朋友Billy用Grok Bot代理运营整个newsletter业务，并预测将出现超10万家类似企业。他给出最佳实践：每套配置聚焦单一任务、先建Chief of Staff代理、用约束保持专注、决策权在人而非代理。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
     "date": "2026年8月22日5时15分"
   },
   {
