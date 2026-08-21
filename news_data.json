@@ -14880,6 +14880,38 @@
     "date": "2026年8月21日1时10分"
   },
   {
+    "id": "cmt2v8ptk07zrro6t100a5qi0",
+    "title": "Waymo 自研自动驾驶芯片，减少对 Nvidia 依赖",
+    "url": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia",
+    "summary": "Waymo 已为其自动驾驶出租车开发自研芯片，并已在新一代车辆中运行，以减少对 Nvidia 和 AMD 芯片的依赖。该芯片算力超过 1，000 TOPS，由台积电以 5 纳米工艺制造，与 Nvidia 当前自动驾驶系统相当。此举旨在降低成本，新芯片将搭载于 Waymo 与极氪合作打造的新款 Robotaxi。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月21日19时4分"
+  },
+  {
+    "id": "cmt2v3f6m07vhro6tk1fp1e3j",
+    "title": "青少年开发者借助 Claude Code 为惠普冷门打印机开发出 macOS 原生驱动",
+    "url": "https://www.ithome.com/0/992/832.htm",
+    "summary": "青少年开发者 Kuber Mehta 利用 Anthropic 的 Claude Code，为缺乏官方 macOS 支持的惠普激光打印机 HP Laser 1008a 开发出原生驱动，耗时 4 小时。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日19时14分"
+  },
+  {
+    "id": "cmt2vah45081hro6tp0akijk5",
+    "title": "OpenCode Go 上线 Ox Alpha 免费试用",
+    "url": "https://x.com/opencode/status/2090758645499728234",
+    "summary": "Ox Alpha 现在也可在 OpenCode Go 上使用\n\n接下来 6 天，使用量近乎无限且完全免费\n\n不会计入你的 Go 使用量",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月21日19时11分"
+  },
+  {
+    "id": "cmt2v8pu807ztro6t36fgx1pu",
+    "title": "Meta AI 眼镜需求激增，更难避免被偷偷录像",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect",
+    "summary": "随着每年数百万人购入智能眼镜，Meta AI 眼镜成为最受欢迎的型号，但用户在日常生活中被秘密录制的几率也随之上升。部分学校、法院、餐厅和娱乐场所已开始禁止此类设备，DEF CON 2026 黑客大会也明确禁止智能眼镜入场，连处方眼镜佩戴者也需自备合规眼镜。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月21日19时0分"
+  },
+  {
     "id": "cmt2sy8ai05xzro6tat2ksqil",
     "title": "OpenAI 回应 Codex 使用限制：sub2api 转售共享会触发风控",
     "url": "https://www.ithome.com/0/992/767.htm",
