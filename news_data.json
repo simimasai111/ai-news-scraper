@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt357uvg0hjkro6t1vpfs01w",
+    "title": "Replit 免费模式上线，创作效率提升30倍",
+    "url": "https://x.com/Replit/status/2090831879377420534",
+    "summary": "免费模式来了：创作量提升 30 倍，保持心流状态 https://x.com/i/broadcasts/1NxaroyoaPqKj",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月22日0时2分"
+  },
+  {
+    "id": "cmt35lmkl0hr4ro6t8uxt1k3h",
+    "title": "X Square Robot 的 WALL-B 具身智能模型完成 10，000 件包裹分拣",
+    "url": "https://x.com/rohanpaul_ai/status/2090831586828959769",
+    "summary": "X Square Robot 的 WALL-B 具身智能模型以 1，911 件/小时的速度完成 10，000 件包裹分拣，全程耗时 5 小时 14 分钟。该任务需实时识别包裹朝向、翻转至标签朝上并滑上传送带，软玩具等异形物单独分流。相比 Figure 报告的 2.88 秒/件周期，WALL-B 在更长时长下实现更高吞吐。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日0时1分"
+  },
+  {
+    "id": "cmt354vsd0hgdro6t6wzywywp",
+    "title": "智谱 ZCode 送 5 万新用户 1 亿 GLM-5.3 token",
+    "url": "https://x.com/Zai_org/status/2090831300915556515",
+    "summary": "智谱将 Build Week 转为长期系列活动，为答谢社区支持，向 5 万名新 ZCode 用户每人赠送 1 亿免费 GLM-5.3 tokens。活动持续至 8 月 23 日下午 6 点（PT），新用户首次登录 ZCode 即可自动领取，先到先得，未使用 token 将在活动结束时失效。",
+    "source": "X：智谱 Z.ai (@Zai_org)",
+    "date": "2026年8月22日0时0分"
+  },
+  {
     "id": "cmt29noel0l6iroovtz5e6as7",
     "title": "谷歌开源端侧模型家族 Gemma 总下载量破 10 亿次，派生超 10 万个变体",
     "url": "https://www.ithome.com/0/992/441.htm",
@@ -14688,6 +14712,14 @@
     "date": "2026年8月21日2时14分"
   },
   {
+    "id": "cmt350xq40hd8ro6tsjk94rkp",
+    "title": "Matt Webb：用 ChatGPT 当互动导师，我学会了四元数",
+    "url": "https://simonwillison.net/2026/Aug/21/matt-webb",
+    "summary": "Matt Webb 在发布 Galactic Compass 2 后，借助 ChatGPT 作为耐心的互动导师，学会了使用四元数来完成应用开发。他认为，即使将大量思考外包给 AI，学习并不会停止，反而会推动他学习更多。这一体验凸显了生成式 AI 在教育场景中的潜力。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月21日23时6分"
+  },
+  {
     "id": "cmt34izir0gxzro6tb299pmvu",
     "title": "Polsia 用九大自主智能体运营全公司",
     "url": "https://x.com/testingcatalog/status/2090826352748270059",
@@ -14876,6 +14908,14 @@
     "title": "Starcloud 为轨道数据中心追加融资 2.5 亿美元，估值达 23 亿美元",
     "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
     "summary": "轨道 AI 推理卫星初创公司 Starcloud 在 3 月 1.7 亿美元 A 轮融资基础上追加 2.5 亿美元，估值达 23 亿美元。新资金将用于扩大制造设施并推进其最大的轨道数据中心航天器 Starcloud-3，该航天器计划搭载 SpaceX 的 Starship 火箭。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月21日22时0分"
+  },
+  {
+    "id": "cmt34t4130h38ro6tttnjum48",
+    "title": "美国司法部调查 a16z，这对风险投资意味着什么？",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
+    "summary": "美国司法部正在对 Andreessen Horowitz（a16z）展开反垄断调查。本期 Equity 播客深入探讨了这一调查的来龙去脉，并分析了非 Anthropic、OpenAI 或 Nvidia 阵营的 AI 初创公司可能面临的处境，同时回顾了本周其他交易动态。",
     "source": "TechCrunch：AI（RSS）",
     "date": "2026年8月21日22时0分"
   },
