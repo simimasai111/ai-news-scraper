@@ -14880,6 +14880,62 @@
     "date": "2026年8月21日1时10分"
   },
   {
+    "id": "cmt2mjx2s05poroy5n0ooijmd",
+    "title": "Codex 在 AWS Bedrock 上存在一个导致费用增加 10 倍的漏洞",
+    "url": "https://github.com/openai/codex/issues/37674",
+    "summary": "开发者在 GitHub 上报告，Codex 在 AWS Bedrock 上存在一个漏洞，导致使用费用增加 10 倍。该问题已引发 Hacker News 社区广泛关注，获得 100 个 HN 点赞。目前尚不清楚漏洞的具体成因及是否已修复。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日15时1分"
+  },
+  {
+    "id": "cmt2mjx2s05pproy5kfrq3ur4",
+    "title": "Ox Alpha 发布：面向编码与智能体任务的免费推理模型",
+    "url": "https://openrouter.ai/stealth/ox-alpha",
+    "summary": "Ox Alpha 是一款面向编码、持续性智能体工作和生产负载的推理模型，现已免费开放使用。该模型支持 1，048，576 token 的上下文窗口，最大输出 131，072 token。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月21日15时1分"
+  },
+  {
+    "id": "cmt2mir7y05mcroy5exa21fm9",
+    "title": "OpenAI 全面开源 Codex Harness",
+    "url": "https://www.ithome.com/0/992/656.htm",
+    "summary": "OpenAI 正式将 Codex 底层核心框架 Harness 全面开源，在 Apache-2.0 许可下发布 CLI 工具 codex exec、官方 Codex SDK（支持 TypeScript/Python）和 Codex app-server 三大组件，开发者可将智能体循环嵌入自有产品。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日15时18分"
+  },
+  {
+    "id": "cmt2mir7y05mdroy5hb1d5ed8",
+    "title": "马斯克：在 AI 领域，中国是迄今最强竞争对手",
+    "url": "https://www.ithome.com/0/992/654.htm",
+    "summary": "马斯克8月20日在X平台发文称，在AI领域中国是迄今最强大的竞争对手。此前网友罗梅尔转发马斯克2011年推文，后者当时预测火箭技术终局之战将与中国巅峰较量，马斯克转发时表示AI领域同样如此。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日15时15分"
+  },
+  {
+    "id": "cmt2mb5fe05j6roy5xo6fa8s5",
+    "title": "OpenAI 为 GPT-Image-2 API 推出透明背景",
+    "url": "https://x.com/testingcatalog/status/2090699152220999950",
+    "summary": "ICYMI 👀： OpenAI 已支持通过 API 为 GPT-Image-2 生成透明背景图像。\n\n正需要 🤖\n\n【引用 @OpenAIDevs】：GPT-Image-2 的透明背景功能现已在 API 中提供预览。\n\n可生成可复用的素材，放置于任意背景之上--适用于产品图像、平面设计、网站模型和营销活动。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月21日15时14分"
+  },
+  {
+    "id": "cmt2mir7y05meroy5a55mcnhp",
+    "title": "雷鸟 iO AI 眼镜发布：支持实时提示、全天智记功能，首发价 2349 元",
+    "url": "https://www.ithome.com/0/992/653.htm",
+    "summary": "雷鸟 iO AI 眼镜今日发布，限时首发价 2349 元，国补价 1996.7 元。整机重 34g，采用双层钛合金结构，支持 0-1000 度近视适配，投射等效 33 英寸大屏。产品接入 DeepSeek 和千问大模型，支持实时提示、全天智记、55 种语言翻译，续航最长 2 天。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日15时14分"
+  },
+  {
+    "id": "cmt2mir7z05mhroy53ufn0r4k",
+    "title": "美光 CEO 桑杰·梅赫罗特拉：AI 已彻底改变内存行业周期性格局",
+    "url": "https://www.ithome.com/0/992/645.htm",
+    "summary": "美光 CEO 桑杰·梅赫罗特拉称，AI 已彻底改变内存行业的周期性格局，AI 系统需要更多高性能内存，正在创造更持久的需求。他认为这种需求不仅来自数据中心，未来自动驾驶汽车、机器人和 AI 消费电子设备也将需要更多内存。美光位于爱达荷州博伊西的基地正建设两座晶圆厂，预计 2027 年中投产，目前数据中心客户希望获得的供应量比美光能承诺的高出一半。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日15时0分"
+  },
+  {
     "id": "cmt2k5zyz03skroy5he9w2kxo",
     "title": "GPT-5.6 Sol 生成 Claude 风格恶搞图",
     "url": "https://x.com/emollick/status/2090683545068978254",
