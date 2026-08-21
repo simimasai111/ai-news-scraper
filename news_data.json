@@ -13856,6 +13856,14 @@
     "date": "2026年8月22日0时8分"
   },
   {
+    "id": "cmt3763ol0j39ro6tuju3idxi",
+    "title": "别再写 TUI 了：Thomas Ptacek 呼吁用原生 UI 替代命令行工具",
+    "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis",
+    "summary": "Thomas Ptacek 主张即便是最小的个人工具也应构建真正的原生用户界面，因为编码智能体已将打造可用 GUI 的成本降至几乎为零。Simon Willison 回应称，他此前用 vibe-coding 开发的 macOS 任务栏带宽与 GPU 监控应用至今仍每日使用，并坦言\"快没有借口不这么做了\"。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月22日0时7分"
+  },
+  {
     "id": "cmt362kzs0i0yro6t5pmf4qsz",
     "title": "T-Rex：NVIDIA 与伯克利开源触觉机器人方法",
     "url": "https://x.com/DrJimFan/status/2090832821036470626",
@@ -13864,12 +13872,28 @@
     "date": "2026年8月22日0时6分"
   },
   {
+    "id": "cmt375qcs0j2xro6tj5crn6zj",
+    "title": "Midjourney alpha 网站更新日志：8/20/26 修复与改进",
+    "url": "https://updates.midjourney.com/changelog-8-20-26",
+    "summary": "Midjourney 发布 alpha.midjourney.com 两周内第二轮更新，修复大量 UX 问题并新增文件夹分组功能。用户可在侧边栏将项目整理为可折叠树状分组，支持双击重命名；Upscale、Zoom、Vary 功能回归，Vary 现在遵循用户设置而非静默运行 HD。设置项不再自动重置，站点卡顿、编辑器遮挡、提示词粘贴损坏等问题均已修复。",
+    "source": "Midjourney：Updates（RSS）",
+    "date": "2026年8月22日0时48分"
+  },
+  {
     "id": "cmt36o5l10iphro6t781nhq5h",
     "title": "开源模型追赶闭源，差距是否缩小",
     "url": "https://x.com/SemiAnalysis_/status/2090842316655243463",
     "summary": "开源模型正在追赶吗？对比前沿模型各时代的开源与闭源模型，差距在缩小吗？https://newsletter.semianalysis.com/p/are-open-models-catching-up",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年8月22日0时43分"
+  },
+  {
+    "id": "cmt37d1a00j8vro6tc68or8yx",
+    "title": "OpenRouter 活动面板 API 升级，支持按智能体查询",
+    "url": "https://x.com/OpenRouter/status/2090841622506266727",
+    "summary": "为活动面板提供支持的 API 迎来重大升级。现在可以按智能体、按模型、按请求查看和查询你的 AI 使用情况。\n\n支出、token、缓存命中率、延迟，以及每 token 的混合成本，均可从任意图表下钻查看。功能如下 👇",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月22日0时41分"
   },
   {
     "id": "cmt36ybdi0iuqro6t0clldtyx",
