@@ -13848,6 +13848,182 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt39w2s60m73ro6tzkgq0h3s",
+    "title": "TARS 发布 AWE 3.5 具身原生基础模型",
+    "url": "https://x.com/rohanpaul_ai/status/2090863856507863219",
+    "summary": "TARS 推出具身原生基础模型 AWE 3.5，采用\"Born as One\"架构，将动作、感知、几何与触觉整合进单一模型，而非后期拼接。该模型支持数分钟长时程闭环推理，任务执行效率约为 PI0.5 的 2 倍，并通过预训练双先验与后训练世界引擎滚动预测来优化决策。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日2时9分"
+  },
+  {
+    "id": "cmt39j70c0m0ero6tc4anjrlt",
+    "title": "Google 推出 Biomarker Discovery Framework：从可穿戴传感器数据中筛选候选生物标志物的多智能体系统",
+    "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data",
+    "summary": "Google 推出 Biomarker Discovery Framework，一个多智能体系统，通过迭代假设生成、统计分析与文献推理，从可穿戴传感器数据中筛选候选生物标志物。该系统在三个队列（共 9，279 人次观测）中恢复了已知临床信号，识别出跨独立数据集的一致生物标志物，并在结合人口统计特征后提升了下游预测性能。流程包含六阶段闭环架构与 11 项对抗性验证检查，并保留人工监督。",
+    "source": "Google Research：Blog（网页）",
+    "date": "2026年8月22日2时8分"
+  },
+  {
+    "id": "cmt39mqlo0m29ro6tgbr49h6z",
+    "title": "Grok Bot 配置专属邮箱后可自主收发邮件",
+    "url": "https://x.com/elonmusk/status/2090863544036397082",
+    "summary": "我给我的 Grok Bot 最好的东西之一……\n\n就是它自己的邮箱地址。\n\n现在它可以：\n\n→ 发送邮件\n→ 接收回复\n→ 验证账户\n→ 注册网站\n→ 在自己的工作流中使用邮件\n\n只需 2 分钟……\n\n现在它可以在没有我的情况下做更多事了。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月22日2时8分"
+  },
+  {
+    "id": "cmt385fja0jk6ro6tethdzez1",
+    "title": "跟随惊喜的梯度：探索未知",
+    "url": "https://x.com/fchollet/status/2090848832146047155",
+    "summary": "跟随惊喜的梯度",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月22日1时9分"
+  },
+  {
+    "id": "cmt39w2rr0m71ro6thfm1purt",
+    "title": "AI 主动建议跟进微软 VC 邮件",
+    "url": "https://x.com/gabriel1/status/2090861412616904965",
+    "summary": "AI 正变得如此主动\n\nEnergy 看到了我关于需要 Windows 应用签名的 X 帖子，并建议回复微软 VC 的入站邮件，询问联系人。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月22日1时59分"
+  },
+  {
+    "id": "cmt396dpw0kj0ro6tdktqkp8s",
+    "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月22日1时58分"
+  },
+  {
+    "id": "cmt398dhu0knbro6tvf8546it",
+    "title": "Runway Ruby 上线，支持 16-bit EXR 输出",
+    "url": "https://x.com/runwayml/status/2090861012488774008",
+    "summary": "Runway Ruby 现已面向 Max 套餐和企业版用户开放。可将任意视频生成或转换为 16-bit EXR 序列，或 10/12-bit ProRes 与 HEVC，支持 BT.2020 色彩空间及 PQ 或 HLG。\n\n点击下方链接立即体验。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月22日1时58分"
+  },
+  {
+    "id": "cmt393qow0kfiro6tpe87m4nu",
+    "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+    "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+    "summary": "SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "date": "2026年8月22日1时56分"
+  },
+  {
+    "id": "cmt393qov0kfhro6tuwhxhubl",
+    "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+    "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+    "summary": "蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "date": "2026年8月22日1时56分"
+  },
+  {
+    "id": "cmt385sfu0jkyro6tn3ts3b7v",
+    "title": "蚂蚁百灵开源Ling-3.0-flash-dspark草稿模型",
+    "url": "https://x.com/AntLingAGI/status/2090847436755648939",
+    "summary": "今天我们开源了 Ling-3.0-flash-dspark，这是一个专为 Ling-3.0-flash 构建的 DSpark 草稿模型。在 4 块 NVIDIA Blackwell GPU 上，batch 为 1 时，它在 1，000 个请求中实现了 1，120 tok/s 的吞吐量、0.78 ms 的平均 TPOT，以及 9.95 的接受长度。🧵",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月22日1时4分"
+  },
+  {
+    "id": "cmt390tfn0kd4ro6t358p74px",
+    "title": "DeepSeek-V4-Flash-Vision-Exp 视频输入教程",
+    "url": "https://x.com/karminski3/status/2090858863679750280",
+    "summary": "DeepSeek 发布首个多模态大模型 deepseek-v4-flash-vision-exp，具备 v4-flash 能力级别，但不支持音频输入，官网和 API 默认不支持视频输入。作者提供处理视频的教程：直接对视频抽帧，而非转换为 GIF，因为模型虽支持 GIF 输入但只识别第一帧。",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月22日1时49分"
+  },
+  {
+    "id": "cmt38tb270k8zro6t9uk7zxyo",
+    "title": "Grok @Bot 大幅降价并全面开放",
+    "url": "https://x.com/cb_doge/status/2090858203097731350",
+    "summary": "Grok @Bot 刚刚变得更加实惠且广泛可用。\n\nCursor • Pro+：每月 60 美元 • Ultra：每月 200 美元\n\nSuperGrok • Plus：每月 100 美元 • Heavy：每月 300 美元\n\nCursor Teams • Standard：每用户每月 40 美元 • Premium：每用户每月 120 美元\n\n其他用户可使用有限次数的免费试用。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月22日1时46分"
+  },
+  {
+    "id": "cmt3980dt0kmkro6tsayhomw6",
+    "title": "UC Berkeley 开源 FreeToken，本地推理提速 2-4 倍",
+    "url": "https://x.com/Yuchenj_UW/status/2090857982385066474",
+    "summary": "UC Berkeley 开源 FreeToken，单张 RTX PRO 6000 可运行 753B 的 GLM-5.2，速度达 14.9 tok/s；8GB 显存的 RTX 4060 笔记本可运行 Qwen3.6-35B，速度 39.3 tok/s。FreeToken 在消费级 GPU 上比 Ollama 快 2-4 倍，无需极端量化即可用官方权重运行前沿模型。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月22日1时46分"
+  },
+  {
+    "id": "cmt38tb2k0k93ro6t9obzn9mx",
+    "title": "Claude Mythos 5 接入 Claude Security 扫描",
+    "url": "https://x.com/rohanpaul_ai/status/2090857159198474487",
+    "summary": "Anthropic 将 Claude Mythos 5 接入代码仓库漏洞扫描器 Claude Security，现已面向所有 Claude Enterprise 客户开放公开测试版。用户可将 GitHub 仓库交给 Mythos 5 扫描，获得漏洞发现、严重性、置信度及修复建议，但无法在该界面自由提示模型。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日1时42分"
+  },
+  {
+    "id": "cmt393gr20keiro6t0ezbgq6g",
+    "title": "当智能成本下降100倍时会发生什么",
+    "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x",
+    "summary": "大语言模型同等能力水平的成本正急剧下降：2月每任务1.22美元的智能水平如今仅需0.022美元，不到六个月下降56倍，且降速还在加快。按当前速度，特定能力水平的价格每约一年下降100倍。作者以DANDI Archive数据集复用分析为例，说明成本下降让原本只能抽样进行的项目变得可行。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日1时41分"
+  },
+  {
+    "id": "cmt38k6220k2sro6tclzsublb",
+    "title": "Grok Bot 扩大开放范围",
+    "url": "https://x.com/elonmusk/status/2090853842552578523",
+    "summary": "Grok @Bot 更广泛开放。\n\n我们正在让 Grok Bot 更广泛地可用。\n\n所有 SuperGrok Plus、Cursor Pro+ 和 Cursor Teams 订阅用户现在均可使用。\n\n我们还将为所有其他用户提供有限次数的免费试用。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月22日1时29分"
+  },
+  {
+    "id": "cmt38oc4b0k5hro6tbyk9vrt5",
+    "title": "预测：Bob 将在 2026 年底前放弃\"不看代码\"",
+    "url": "https://x.com/dexhorthy/status/2090853608669749728",
+    "summary": "Dex Horthy 预测，到 2026 年底，Bob 将收回\"完全不读代码\"的立场。尽管 Bob 称 AI 智能体\"生产力惊人\"，但驾驭它们仍需大量专注工作，且离不开软件工程技能，说明确定性 linting 和 AI 代码审查无法让彻底不读代码变得可行。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月22日1时28分"
+  },
+  {
+    "id": "cmt38rxdk0k74ro6ttv3ivyx4",
+    "title": "Cursor 推免费 Pro+ 吸引用户转投",
+    "url": "https://x.com/poteto/status/2090853599517794763",
+    "summary": "我的私信已经爆了，但我们太爱 @bot 社区了，所以决定再来一次！如果你还在犹豫要不要退订其他订阅，私信我，接下来 24 小时我们会尽可能多地送出免费 Pro+。",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年8月22日1时28分"
+  },
+  {
+    "id": "cmt393gr30kekro6tx0fjd2tn",
+    "title": "我们正生活在一个宛如J·G·巴拉德或威廉·吉布森笔下的未来世界中",
+    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds",
+    "summary": "现实正以赛博朋克式的方式逼近科幻预言：商场出现首家静脉滴注诊所、机器人狗巡逻引发争议、AI歌手走红、机器人主题公园开业、Meta智能眼镜内置人脸识别功能。这些技术进展看似平常却令人不安，而科幻作家们错判的只是数字化的对象--香烟、滑板车和LED取代了霓虹灯。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日1时25分"
+  },
+  {
+    "id": "cmt385sg60jl0ro6tpm0auf13",
+    "title": "Claude Security扫描迁移至Mythos 5公测",
+    "url": "https://x.com/claudeai/status/2090852314319880425",
+    "summary": "Claude Security 扫描现已在 Claude Mythos 5 上运行，今日起面向所有 Claude Enterprise 客户开放公开测试版。\n\n无需单独获取模型访问权限，即可让我们最强大的安全模型处理你的代码库。",
+    "source": "X：Claude (@claudeai)",
+    "date": "2026年8月22日1时23分"
+  },
+  {
+    "id": "cmt38g8910jx0ro6tcm6d3m9w",
+    "title": "Databricks 如何打通零售需求计划与营销及门店执行",
+    "url": "https://www.databricks.com/blog/connecting-retail-demand-planning-campaign-and-store-execution",
+    "summary": "Databricks 提出将零售需求计划与营销活动、门店执行相连接的方法，以应对零售和消费品团队在复杂运营周期中的决策挑战。文章聚焦于通过统一数据平台整合需求预测、营销活动与门店执行环节，帮助团队在关联但复杂的运营周期中做出更协调的决策。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月22日1时20分"
+  },
+  {
+    "id": "cmt385fji0jk8ro6tr9i80291",
+    "title": "Luma Agents 亮相 Summer Signal 大会",
+    "url": "https://x.com/LumaLabsAI/status/2090848952195137979",
+    "summary": "为创意专业人士打造的创意智能体。9 月 14 日，与 GMI Cloud 一同登上 Summer Signal 舞台。",
+    "source": "X：Luma AI (@LumaLabsAI)",
+    "date": "2026年8月22日1时10分"
+  },
+  {
     "id": "cmt36j6vh0ilmro6tq2sa04eb",
     "title": "AI SRE 赛道因过早炒作遭买家质疑",
     "url": "https://x.com/dexhorthy/status/2090833543991890200",
