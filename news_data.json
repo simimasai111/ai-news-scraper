@@ -14688,6 +14688,86 @@
     "date": "2026年8月21日2时14分"
   },
   {
+    "id": "cmt2yscvm0ca8ro6t0u6vtfnt",
+    "title": "面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
+    "url": "https://x.com/OpenBMB/status/2090786300194590816",
+    "summary": "面壁智能 OpenBMB 推出 MathForm，一个面向 Lean 4 数学自动形式化的开源框架、数据集与模型。其 FormalVerse 数据集含 367K+ 已验证示例；在匹配 100K 预算下，基于其训练的模型 Consistency Check 达 60.32%，优于 FineLeanCorpus（46.53%）与 NuminaMath-LEAN（41.49%）。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月21日21时1分"
+  },
+  {
+    "id": "cmt2xe07l0ax4ro6tex1qf9ci",
+    "title": "DeepMind 联手 Fenris 探索 AI 游戏新挑战",
+    "url": "https://x.com/GoogleDeepMind/status/2090772922818286080",
+    "summary": "Google DeepMind 宣布与 Fenris Creations 合作，探索 AI 在游戏领域的开放挑战，包括持续学习、深度记忆系统、长期规划及多智能体动态。其长期目标是与游戏开发者合作，利用 AI 发现全新游戏体验，并将成果应用于现实世界与科学发现。",
+    "source": "X：Google DeepMind (@GoogleDeepMind)",
+    "date": "2026年8月21日20时8分"
+  },
+  {
+    "id": "cmt2z63r00cj0ro6tyzsjfsjh",
+    "title": "Claude Academy 仍在教授已过时功能",
+    "url": "https://x.com/kimmonismus/status/2090785740905136455",
+    "summary": "奇怪的发现（仍在研究 Anthropic 的新\"学院\"）：Anthropic 自家的新 Claude Academy 仍在教你选择\"Use style\"预设，而该功能如今已被并入 Skills。\n\n奇怪的是，他们仍在教授已过时的功能。（已与 Claude 双重确认）",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月21日20时59分"
+  },
+  {
+    "id": "cmt2yscvu0caaro6trs8ojazx",
+    "title": "OpenRouter 征求模型实验室改进建议",
+    "url": "https://x.com/OpenRouter/status/2090783219645866488",
+    "summary": "那么，大家怎么看？？？\n\n模型实验室应该做些什么来改进模型？它的真正亮点在哪里？",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月21日20时48分"
+  },
+  {
+    "id": "cmt2y3hvx0bo8ro6txlp72uld",
+    "title": "皮尤：AI写作在商业网站蔓延远超教育政府网站",
+    "url": "https://x.com/rohanpaul_ai/status/2090781896171237515",
+    "summary": "皮尤研究中心数据显示，AI辅助写作在网络上的分布极不均衡：到2026年，9.4%的.com网页呈现明显AI编辑或创作痕迹，而.edu和.gov网页仅分别为1%和0.8%。商业出版商可从更快草拟中直接获益以产出更多页面，公共机构则因流程较慢且缺乏数量激励而使用较少。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日20时43分"
+  },
+  {
+    "id": "cmt2yscvu0cabro6tdv440482",
+    "title": "DeepSeek V4 Flash Vision 上线 OpenRouter",
+    "url": "https://x.com/OpenRouter/status/2090781624015393010",
+    "summary": "DeepSeek V4 Flash Vision Exp 已在 OpenRouter 上线！\n\n@deepseek_ai 的新模型支持图像输入，定价与 V4 Flash 相同，在文本智能体基准测试中与 V4 Flash 0731 持平，并在 Agents' Last Exam 和 ZeroBench 上超越 Opus-4.8。\n\n立即使用：https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月21日20时42分"
+  },
+  {
+    "id": "cmt2xyjke0bkiro6t6ldmiwy7",
+    "title": "OpenAI 发 Codex 额度重置安抚用户",
+    "url": "https://x.com/AYi_AInotes/status/2090779129360609577",
+    "summary": "OpenAI 宣布 Codex 活跃用户本周突破 2000 万，并向所有 Codex 和 ChatGPT Work 用户发放可自行择时触发的 BANKED 额度重置。此前官方曾将额度缩水归因于 sub2api 特定模式，称调查仍在进行。此举被解读为以增长数据和实际福利安抚用户，但未正式道歉，高成本 Agent 与固定订阅的根本矛盾仍未解决。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月21日20时32分"
+  },
+  {
+    "id": "cmt2xyjke0bkjro6t7voxmh6j",
+    "title": "Codex额度缩水风波：OpenAI沟通失当引众怒",
+    "url": "https://x.com/AYi_AInotes/status/2090775707349643706",
+    "summary": "OpenAI的Codex订阅额度大幅缩水引发用户强烈不满。官方负责人Tibo回应称未调限额，而是用户使用sub2api工具将订阅转售触发风控；Jun Song则反驳称数万纯官方客户端用户也被误伤。事件暴露订阅制与重型Agent高token消耗间的根本矛盾，核心付费用户或转向Claude Code、Cursor等竞品。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月21日20时19分"
+  },
+  {
+    "id": "cmt2xe07s0ax6ro6tf1vgn7us",
+    "title": "腾讯混元发布HyCreator长视频智能体",
+    "url": "https://x.com/TencentHunyuan/status/2090773519571484996",
+    "summary": "Hy Agent Harness 用于视频生成。\n\nHyCreator：一个用于长视频生成的智能体框架\n\n🚀 端到端自动模式\n⏲️ 零人工干预生成10分钟级影片\n👨🦰 随时切换至实时交互式编辑\n\n申请抢先体验：https://hycreator.tencent.com/",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "date": "2026年8月21日20时10分"
+  },
+  {
+    "id": "cmt2xfmnv0aynro6tp4f1su6m",
+    "title": "可灵AI趣味视频：兄弟选错猫",
+    "url": "https://x.com/Kling_ai/status/2090770894000144430",
+    "summary": "兄弟选错猫了 😼",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年8月21日20时0分"
+  },
+  {
     "id": "cmt1swsb006ugroovbdk5fv9y",
     "title": "Meta 发布 Muse Spark 1.2 多模态评测与演示",
     "url": "https://x.com/AIatMeta/status/2090485743034716420",
