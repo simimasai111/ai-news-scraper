@@ -13848,6 +13848,38 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt29noel0l6iroovtz5e6as7",
+    "title": "谷歌开源端侧模型家族 Gemma 总下载量破 10 亿次，派生超 10 万个变体",
+    "url": "https://www.ithome.com/0/992/441.htm",
+    "summary": "谷歌宣布开源端侧模型家族 Gemma 总下载量突破 10 亿次，开发者在过去两年间发布了超过 10 万个模型变体，构成被谷歌称为\"Gemmaverse\"的创新生态系统。应用场景涵盖太空本地图像分析、医疗报告标准化、癌症治疗方案及动物语言识别等。谷歌将在 GitHub 推出 Awesome Gemma 代码库，收录社区项目、微调、教程与开发者工具。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日9时6分"
+  },
+  {
+    "id": "cmt2aiqdx0ly1roovwazhcug1",
+    "title": "宇树Elf-Xuan 2.0机器人现场演唱引关注",
+    "url": "https://x.com/rohanpaul_ai/status/2090615024519970917",
+    "summary": "她在舞台上的表现比预期更出色。\n\n在世界机器人大会上，来自宇树（AheadForm）的 Elf-Xuan 2.0 进行了现场演唱，实现了实时嘴唇与表情同步，并伴有手臂动作。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月21日9时40分"
+  },
+  {
+    "id": "cmt2adrxa0lumroov2x547ki1",
+    "title": "HumanLayer 多智能体提示任意 Claude 会话",
+    "url": "https://x.com/dexhorthy/status/2090613783177945343",
+    "summary": "使用 @humanlayer_dev 对任何位置的 Claude 会话进行多人协作提示（这次，我们来试试新的 @DoorDash CLI）",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月21日9时35分"
+  },
+  {
+    "id": "cmt29v7ue0lbrroovhe61bg99",
+    "title": "Codex 迁移仅花 1.2 万美元",
+    "url": "https://x.com/sherwinwu/status/2090609778192154843",
+    "summary": "隐藏的亮点：这次迁移的 token 成本只有 1.2 万美元！\n\n你不需要过度堆 token / 花大价钱，也能用 Codex 做出 impactful 的事。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年8月21日9时19分"
+  },
+  {
     "id": "cmt27jlru0jk6roov5jy42ofy",
     "title": "反AI字体既无用又有害",
     "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
@@ -13862,6 +13894,30 @@
     "summary": "@bfl_ai 的 FLUX Video Upscale 现已在 OpenRouter 上线。\n\n可将任意视频放大至 2K 或 4K 分辨率，面部更清晰、纹理更干净、背景细节更丰富，同时保持自然的动态与真实感。",
     "source": "X：OpenRouter (@OpenRouter)",
     "date": "2026年8月21日8时5分"
+  },
+  {
+    "id": "cmt288m210k7croovxj4cmn1h",
+    "title": "美团搜索 3.0 精讲：LLM 语义表征在排序模型的探索与应用",
+    "url": "https://x.com/hongming731/status/2090591034891989314",
+    "summary": "美团搜索团队分享 LLM 语义表征在排序模型的探索，强调难负样本决定判别力、Embedding Prompt 应做减法。同日，OpenAI 推出 AI Futures 研究项目，MiniMax 发布基于自研多模态视频模型 H3 的 Agent 驱动创作工具 MiniMax Design。其余内容涵盖 Agent 可观测性、Token 效率、具身智能瓶颈等话题。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月21日8时5分"
+  },
+  {
+    "id": "cmt288m210k7droovxpvuz1id",
+    "title": "美团搜索3.0：LLM语义表征排序实践",
+    "url": "https://x.com/hongming731/status/2090590991900393557",
+    "summary": "美团搜索团队将LLM语义向量引入排序模型，一期验证可行性后，二期重构Query、POI与Deal联合表征，三期迁移至下挂精排链路。直接复用向量时Query覆盖率仅81.24%，重新圈选后升至98.92%；离线点击NDCG提升9bp，下单NDCG提升13bp，三期均已全量上线。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月21日8时5分"
+  },
+  {
+    "id": "cmt29noel0l6jroovl4zo6k88",
+    "title": "Adobe Firefly 扩充 AI 音频服务，可生成音乐、配音和音效",
+    "url": "https://www.ithome.com/0/992/439.htm",
+    "summary": "Adobe 宣布 Firefly 新增生成音乐、配音和音效三项音频功能，已面向所有用户开放。生成音乐由 Firefly Music Model 驱动，可按视频时长和氛围创作原创曲目；生成配音可将文本转为可调节语速和情绪的配音；生成音效可按动作、节奏和氛围定制。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月21日8时57分"
   },
   {
     "id": "cmt27iizz0ji1roovfoz7vkf9",
@@ -13894,6 +13950,14 @@
     "summary": "每家初创公司在发现Grok @Bot之后的样子",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月21日7时58分"
+  },
+  {
+    "id": "cmt28vbde0kq4roovisgam2kw",
+    "title": "ChatGPT 搜索大规模启用 site： 运算符",
+    "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale",
+    "summary": "Promptwatch 追踪数据显示，ChatGPT 搜索中带 site： 运算符的查询占比从长期 0.3%-0.5% 跃升至 8 月 8 日的 16%-17%，与 GPT-5.6 本月早些时候的发布相吻合。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月21日7时57分"
   },
   {
     "id": "cmt268fnb0im6roov4bxglhna",
