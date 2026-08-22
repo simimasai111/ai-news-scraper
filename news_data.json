@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt4xweev1yi7ro6t9hvhivjg",
+    "title": "斯坦福研究：AI智能体辩论提升确定性",
+    "url": "https://x.com/rohanpaul_ai/status/2091287137199239185",
+    "summary": "斯坦福大学新研究发现，让AI智能体相互辩论能提升其确定性。团队运行超1万个由32个不同人格智能体组成的小型社区，经8轮信息交流后，数学问题上错误多数派转向正确答案的频率高于正确派转向错误；政治议题上，4个模型中3个出现右倾趋势。研究建议，若系统采用智能体辩论机制，应追踪群体漂移方向，而非仅看分数提升。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日6时11分"
+  },
+  {
     "id": "cmt4w1xlp1w74ro6tr38yr2vz",
     "title": "Anthropic 正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
     "url": "https://twitter.com/argofowl/status/2091150597374537729",
