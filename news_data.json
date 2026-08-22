@@ -13848,6 +13848,22 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt4yyzrt01kuro73kkurb2mo",
+    "title": "Ox Alpha 模型 DeepSWE 测试接近 GPT-5.6 Sol mid",
+    "url": "https://x.com/kimmonismus/status/2091293109673926879",
+    "summary": "神秘模型 Ox Alpha 在 DeepSWE 测试中取得约 63% 成绩，表现与 GPT-5.6 Sol mid 相当。若该模型确为 GLM-5.3 Flash，能在 DGX Spark 上本地运行，将极具性价比。用户评价其代码质量好、处理复杂任务能力强，但速度偏慢且偶尔遗留死代码。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月23日6时35分"
+  },
+  {
+    "id": "cmt4z9pjz01qtro73svsmcil0",
+    "title": "为什么你身边的LLM看起来比实际更\"笨\"",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "summary": "用户常因下载量化版模型而误判LLM真实能力，导致体验远低于社区评价。量化压缩会损失精度与推理质量，尤其在复杂任务上表现明显。实际性能差异源于部署方式而非模型本身缺陷。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月23日6时29分"
+  },
+  {
     "id": "cmt4xweev1yi7ro6t9hvhivjg",
     "title": "斯坦福研究：AI智能体辩论提升确定性",
     "url": "https://x.com/rohanpaul_ai/status/2091287137199239185",
