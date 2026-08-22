@@ -14776,6 +14776,38 @@
     "date": "2026年8月22日1时10分"
   },
   {
+    "id": "cmt3ztbwo17huro6tmzvr8o3l",
+    "title": "预测下一个token到底有多难",
+    "url": "https://x.com/ericmitchellai/status/2091046356894863682",
+    "summary": "预测下一个 token 能有多难？",
+    "source": "X：Eric Mitchell (@ericmitchellai)",
+    "date": "2026年8月22日14时14分"
+  },
+  {
+    "id": "cmt3ztp3f17ihro6tmcpxysb3",
+    "title": "新石器 CEO 余恩源：目标构建由 1000 万辆无人车和 1 亿个机器人组成的无人物流网络",
+    "url": "https://www.ithome.com/0/992/985.htm",
+    "summary": "新石器创始人兼 CEO 余恩源在 2026 世界机器人大会论坛上首次系统阐释公司定位从\"自动驾驶\"向\"机器人公司\"转变。截至 8 月 20 日，其无人车累计运营里程突破 2.2 亿公里，车队超 2.7 万辆居全球同类首位，今年底将突破 5 万辆。公司计划将无人车技术延伸至室内小机器人，构建由 1000 万辆无人车和 1 亿个机器人组成的无人物流网络。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日13时57分"
+  },
+  {
+    "id": "cmt3zw8de17k4ro6tiye0vzs0",
+    "title": "Rust Glancer：内存占用仅为普通 Rust LSP 的百分之一",
+    "url": "https://rust-glancer.github.io/blog/hello-world",
+    "summary": "Rust Glancer 是一款主打低内存占用的 Rust LSP 替代实现，目标将内存使用降至 rust-analyzer 的百分之一，并已作为作者日常驱动约 1.5 个月。项目重度使用 LLM 辅助开发但非 vibe coding，作者逐 PR 审查代码。未来计划包括性能优化、代码操作及 proc macro 支持，但暂不支持构建脚本等不可信代码执行。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日13时57分"
+  },
+  {
+    "id": "cmt3ztp3g17ikro6tq2z5jb00",
+    "title": "荣耀机器人\"闪电\"百米跑出 9 秒 32，打破人类记录",
+    "url": "https://www.ithome.com/0/992/981.htm",
+    "summary": "8 月 22 日，荣耀战队机器人\"闪电\"在第二届世界人形机器人运动会竞速项目备赛环节完成百米测试，录得 9 秒 32、峰值速度 14.5 米/秒，刷新此前 9 秒 58 的人类百米世界纪录。其有效腿长加长至 1.05 米，并采用轻量化拓扑结构与升级的关节模组。闪电将参加 100 米、400 米和 1500 米三个竞速项目，预赛从 8 月 22 日晚持续至 8 月 26 日决赛。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日13时34分"
+  },
+  {
     "id": "cmt3ye9wz14y3ro6tw5xtc4n7",
     "title": "Anthropic 内部 /eli5 技能：HTML 大图解释复杂系统",
     "url": "https://x.com/AYi_AInotes/status/2091034488285417844",
