@@ -13856,6 +13856,22 @@
     "date": "2026年8月22日9时9分"
   },
   {
+    "id": "cmt3r16fw0zilro6tb1f39iw4",
+    "title": "唐杰谈规模法则：万亿参数大模型是行业弯路，后训练是关键",
+    "url": "https://x.com/rohanpaul_ai/status/2090980766394253666",
+    "summary": "唐杰指出，万亿参数大模型是行业走过的弯路，下一步关键在于后训练。该观点收录于Rohan Paul当日新闻通讯，该期还涵盖ChatGPT发布后1/3网页疑似AI生成、OpenAI与Anthropic企业竞争转向等议题。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日9时53分"
+  },
+  {
+    "id": "cmt3ryup4106tro6t6eu61t0b",
+    "title": "Laper.ai 视频故事编排画布升级，带线性故事轨道",
+    "url": "https://x.com/chunxiangai/status/2090978559036920078",
+    "summary": "Laper.ai 升级为最符合人类直觉的视频故事编排画布，新增线性故事轨道。用户可将一句核心设定放入\"生产级短剧创作\"拆解人物、冲突与每集节拍，卡壳时交给\"剧本医生\"诊断钩子、冲突时机或人物动机问题，节拍也可手动调整。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月22日9时45分"
+  },
+  {
     "id": "cmt3q8wti0yu7ro6tfizdz7mi",
     "title": "当 GPU 读取内存时会发生什么：RTX 4090 全局加载路径逆向工程",
     "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
@@ -14758,6 +14774,38 @@
     "summary": "为创意专业人士打造的创意智能体。9 月 14 日，与 GMI Cloud 一同登上 Summer Signal 舞台。",
     "source": "X：Luma AI (@LumaLabsAI)",
     "date": "2026年8月22日1时10分"
+  },
+  {
+    "id": "cmt3sit2410ojro6t5vndj3lk",
+    "title": "GPT-5.6 Sol降价至$4/$20，创最便宜纪录",
+    "url": "https://x.com/sherwinwu/status/2090995896872018212",
+    "summary": "GPT-5.6 Sol 现在每 1M tokens 仅需 $4/$20--是目前最便宜的前沿模型。\n\n纯粹出于好玩，我翻出了 GPT-4 在 2023 年的原始 API 定价。当时是每 1M tokens $30/$60！！而且只有 8k 上下文。我们一路走来，进步有多大。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年8月22日10时54分"
+  },
+  {
+    "id": "cmt3s3r5k10a0ro6tttsyobna",
+    "title": "传Anthropic拟IPO估值2万亿美元",
+    "url": "https://x.com/rohanpaul_ai/status/2090990679740850546",
+    "summary": "纽约时报：银行家称，Anthropic 可能通过 IPO 募资超 1000 亿美元，估值约 2 万亿美元。\n\n若达成，将超过 SpaceX 6 月 857 亿美元的募资额，成为史上最大 IPO。\n\n年化经常性收入已达 650 亿美元，而 2025 年底时约为 90 亿美元。Anthropic 据报预计 2028 年营收约 1900 亿至 2000 亿美元。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日10时33分"
+  },
+  {
+    "id": "cmt3rg87z0zpiro6teesqzzsy",
+    "title": "ChatGPT 拖拽照片快速附加快捷操作",
+    "url": "https://x.com/sherwinwu/status/2090986908805685730",
+    "summary": "太棒了，现在就给我来 14 个\n\n【引用 @kedia_naman】：我最近在 @ChatGPT 上最喜欢玩的一个交互：长按 + 号，拖到最近的照片上，松手即可瞬间附加\n\n你甚至可以在照片还在飞出来的时候选中一张，它会直接变形进入输入框\n\n大家觉得怎么样！",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年8月22日10时18分"
+  },
+  {
+    "id": "cmt3r16fw0zikro6ti260ruwe",
+    "title": "EnvHarness：让智能体训练环境动态适应",
+    "url": "https://x.com/rohanpaul_ai/status/2090985245348975082",
+    "summary": "Google 新论文提出 EnvHarness，通过重塑现有环境来针对智能体弱点进行训练，同时保持原任务和验证器不变。EnvRigger 自动发现弱点并生成包装器，仅在验证有效后保留。在 SWE-bench Verified 上，同等 300 环境预算下，智能体解决率达 54.79%，优于原始环境的 52.13% 和生成环境的 50.37%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日10时11分"
   },
   {
     "id": "cmt36j6vh0ilmro6tq2sa04eb",
