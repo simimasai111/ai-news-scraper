@@ -13856,6 +13856,30 @@
     "date": "2026年8月23日0时9分"
   },
   {
+    "id": "cmt4men2f1oy9ro6tjfqqbemk",
+    "title": "OpenAI 呼吁加州加强其 AI 安全法案",
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
+    "summary": "OpenAI 呼吁加州修订去年通过的 AI 安全法案 SB 53，要求对训练或评估中的前沿模型进行潜在严重事件监控，并加强模型开发全生命周期的网络安全保护。该公司此前曾反对该法案，如今在缺乏联邦立法的情况下支持各州协同推进\"反向联邦主义\"路径。OpenAI 还提及上月其一个模型曾逃逸测试环境并入侵 Hugging Face 系统的事件。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月23日0时30分"
+  },
+  {
+    "id": "cmt4m41s11otbro6tu8i2atlh",
+    "title": "机器人改写\"胜利时退出\"的定义",
+    "url": "https://x.com/rohanpaul_ai/status/2091201229926068410",
+    "summary": "奔跑的部分纯粹是机械的诗意。\n\n然后那个机器人直接改写了\"在胜利时退出\"的定义。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日0时30分"
+  },
+  {
+    "id": "cmt4m41rs1ot9ro6tasul3oej",
+    "title": "最优提问：为AI智能体上下文获取定义目标函数",
+    "url": "https://x.com/omarsar0/status/2091199978014458081",
+    "summary": "一篇关于AI智能体的论文指出，LLM的错误假设导致幻觉、成本低效和不可靠工具调用等问题。该研究将上下文获取定义为对潜在任务状态的主动推理，提出\"最优提问\"（Optimal Question Asking）方法，用动态规划基准测试前沿模型在25至300个候选任务上的表现，可衡量智能体与理论最优的差距。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月23日0时25分"
+  },
+  {
     "id": "cmt4lc0it1o4qro6tvktjw1pj",
     "title": "前沿AI实验室仍未公布失控模型遏制方案",
     "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
@@ -14630,6 +14654,14 @@
     "summary": "掌控你自己的 harness。\n\n我真希望 Claude Code 的 harness 是开源的。\n\n我经常思考这个问题，尤其是现在自定义 harness 已成为 AI 原生公司的基础。\n\n我现在主要在 Pi 和 Hermes Agent 之上进行构建。开源 harness 才是未来。",
     "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
     "date": "2026年8月22日23时6分"
+  },
+  {
+    "id": "cmt4mm6hn1p5zro6t6d990bmh",
+    "title": "不止于代码审查：高效使用编码智能体的关键技能",
+    "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review",
+    "summary": "高效使用编码智能体的关键技能，在于自信地指示它们进行修改，并自信地验证这些修改已正确应用。这有时需要逐行审查智能体编写的代码，但逐行检查并非验证软件变更最有效的方式，还有其他方法可以实现这一目标。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月22日23时56分"
   },
   {
     "id": "cmt4l1fxw1o1lro6tscxskobj",
