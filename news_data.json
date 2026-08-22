@@ -14608,6 +14608,46 @@
     "date": "2026年8月22日2时0分"
   },
   {
+    "id": "cmt4iwagl1mhhro6tsevgahid",
+    "title": "开源harness是AI原生公司的未来",
+    "url": "https://x.com/omarsar0/status/2091180120610312573",
+    "summary": "掌控你自己的 harness。\n\n我真希望 Claude Code 的 harness 是开源的。\n\n我经常思考这个问题，尤其是现在自定义 harness 已成为 AI 原生公司的基础。\n\n我现在主要在 Pi 和 Hermes Agent 之上进行构建。开源 harness 才是未来。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月22日23时6分"
+  },
+  {
+    "id": "cmt4iwahe1mhnro6tm1xr8e44",
+    "title": "DeepMind 潘多拉路由器：按需付费的模型路由新思路",
+    "url": "https://x.com/rohanpaul_ai/status/2091179083669573797",
+    "summary": "Google DeepMind 提出 Pandora's Router，将模型路由决策建模为潘多拉魔盒问题：先给每个专家模型一个廉价粗略评分，仅当额外信息的预期价值高于成本时，才付费运行更强评估器。在 MATH、RAG 和 EmbedLLM 基准上，其综合路由遗憾与检查成本最低或并列最低；EmbedLLM 上平均检查成本从 1.986 降至 0.075，路由遗憾从 0.370 降至 0.311。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日23时2分"
+  },
+  {
+    "id": "cmt4jazgj1mniro6tetcpu0zr",
+    "title": "opencode 修复推理服务部分请求降级问题",
+    "url": "https://x.com/opencode/status/2091185868530721070",
+    "summary": "我们刚刚部署了一个修复，该问题导致我们推理服务的一小部分请求出现性能降级。\n\n响应速度应该会有所改善。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月22日23时28分"
+  },
+  {
+    "id": "cmt4iwahk1mhpro6t7gywabi7",
+    "title": "Gemini 网页新增学生标签页",
+    "url": "https://x.com/testingcatalog/status/2091182749117722938",
+    "summary": "ICYMI 👀：Google 在 Gemini 网页上新增了一个\"学生\"标签页。\n\n> 为你量身定制的学习体验--设置学习笔记本，获取定制课程并跟踪你的学习进度。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月22日23时16分"
+  },
+  {
+    "id": "cmt4iwah01mhjro6to6o7hugh",
+    "title": "Anthropic 内部流行 ELI5 技能：用 HTML 图文解释",
+    "url": "https://x.com/emollick/status/2091182096605696341",
+    "summary": "Ethan Mollick 认为 LLM 应充当跨领域\"通用翻译器\"，比起笼统的\"简化解释\"，更应要求\"基于我已懂的知识来讲解\"。他引用 Anthropic 员工 @trq212 的推文：Anthropic 内部近期常用 ELI5 技能，通过 `/eli5 <主题>` 指令，以\"大图少字\"的 HTML artifact 向零基础者解释。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月22日23时13分"
+  },
+  {
     "id": "cmt4gr4eu1kz3ro6thnmbi4fz",
     "title": "中国救援机器人自主飞行营救溺水者",
     "url": "https://x.com/rohanpaul_ai/status/2091164739145539700",
@@ -14616,12 +14656,28 @@
     "date": "2026年8月22日22时5分"
   },
   {
+    "id": "cmt4iwah61mhlro6t5qbzc4w4",
+    "title": "Claude Code 被指悄悄调低推理强度",
+    "url": "https://x.com/kimmonismus/status/2091178321669198014",
+    "summary": "用户发现 Claude Code 自 2.1.237 起将\"high\"推理强度实际按 10/100 执行，与原先\"low\"档相同，导致 Fable 等模型表现明显变笨。该变更未出现在更新日志中，引发社区质疑。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月22日22时58分"
+  },
+  {
     "id": "cmt4i7jfu1m07ro6t91ya6hs3",
     "title": "Claude Code v2.1.240 发布",
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.240",
     "summary": "Anthropic 发布 Claude Code v2.1.240。该智能体编码工具运行于终端，能理解代码库，通过自然语言指令执行日常任务、解释复杂代码并处理 git 工作流，帮助开发者更快编码。",
     "source": "Claude Code：GitHub Releases（RSS）",
     "date": "2026年8月22日22时45分"
+  },
+  {
+    "id": "cmt4j49df1mk7ro6todhgqclu",
+    "title": "利用 AI 合成虚假影像骚扰他人，四川一男子被行拘",
+    "url": "https://www.ithome.com/0/993/110.htm",
+    "summary": "四川眉山仁寿县警方近日查获一起利用 AI 合成虚假影像骚扰他人的案件，嫌疑人徐某某被依法行政拘留五天。徐某某为达成线下见面目的，用 AI 合成虚假私密照片并通过微信多次发送给小张，频繁骚扰恐吓；受害者保存聊天记录与截图后报警，警方一小时内将其抓获并固定完整证据链。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日22时44分"
   },
   {
     "id": "cmt4htp1b1lr9ro6t46870jxz",
@@ -14638,6 +14694,14 @@
     "summary": "一项针对 LLM 作为合成调查受访者的心理测量学审计发现，LLM 能复现人类调查结果的大致方向，但无法还原真实的人类回答分布。用 LLM 生成数据训练的模型在预测真实人类时平均 R2 为 -0.18，而用人类数据训练的模型为 0.28。论文认为 LLM 仅适用于低成本试点调查，不能替代真实受访者。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月22日22时37分"
+  },
+  {
+    "id": "cmt4j49df1mk9ro6tmg4s39rg",
+    "title": "中诚华隆 HL200 推理芯片发布：能效比 5.12 TFLOPS/W、集群最高可扩展至万卡",
+    "url": "https://www.ithome.com/0/993/108.htm",
+    "summary": "中诚华隆推出 HL200 推理芯片，单卡 FP4 算力 4P、FP8 算力 2P、FP16/BF16 算力 0.5P，能效比达 5.12 TFLOPS/W，原生支持 FP4、FP8 低精度推理。配套超节点智算集群方案单机柜支持 64 张 GPU 互联，单节点最高 1024 卡纵向堆叠，横向可扩展至 10240 卡规模。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日22时32分"
   },
   {
     "id": "cmt4gr4el1kz1ro6tbxb82u5b",
