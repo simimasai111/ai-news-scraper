@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt4t5dxf1ugzro6t5t9kerlq",
+    "title": "Grok Bot 本周末向部分企业开放",
+    "url": "https://x.com/mntruell/status/2091255294521459015",
+    "summary": "本周末，我们将向一小部分企业开放 Grok Bot 的访问权限。\n\n如果您希望我们明天或周一前往您在旧金山的办公室，为您的团队完成接入，请回复我们。",
+    "source": "X：Michael Truell (@mntruell)",
+    "date": "2026年8月23日4时4分"
+  },
+  {
+    "id": "cmt4sybxi1ubiro6th7rasevq",
+    "title": "OpenCode 优化后错误率趋近于零",
+    "url": "https://x.com/opencode/status/2091253632414982382",
+    "summary": "经过更多优化并分配更多资源后，错误率已回落至接近零。\n\n感谢 @Cloudflare 团队及时介入并启用相关支持。\n\n推理是一种特殊的工作负载，面临一些独特的挑战--相关文章即将发布。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月23日3时58分"
+  },
+  {
+    "id": "cmt4sxd3d1u9yro6tokzmnjr6",
+    "title": "ARR 与 ARR：警惕同一缩写背后的两种含义",
+    "url": "https://garymarcus.substack.com/p/arr-vs-arr-watch-out-for-this-one",
+    "summary": "Anthropic 支持者正庆祝其 ARR，但 ARR 可指年度经常性收入或年化运行率，两者含义截然不同。前者代表订阅等可重复收入，后者可能只是将最佳月份乘以 12 的推算，未必能持续。Anthropic 今年第二季度的收入规模明年未必能重现，尤其在 tokenmaxxing 崩溃后，ATT 等公司为节省成本正转向其他厂商的开源模型。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月23日3时47分"
+  },
+  {
+    "id": "cmt4sjhn01u20ro6t1yysc819",
+    "title": "Claude Code\"high=10\"非降级，Anthropic澄清",
+    "url": "https://x.com/kimmonismus/status/2091248589494251664",
+    "summary": "Anthropic的Thariq回应称，Claude Code中\"high=10\"的输出是数值映射问题，并非性能降级，\"high\"仍代表高推理强度，内部评测确认无性能回退。用户仍反馈多数模型（尤其Opus）使用体验明显变笨，Anthropic建议遇到明显回退时通过/feedback反馈并附ID，将提供积分补偿。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月23日3时38分"
+  },
+  {
+    "id": "cmt4sjhmo1u1yro6tf2beid6q",
+    "title": "Inkling 模型上线 DAIR.AI 免费体验",
+    "url": "https://x.com/omarsar0/status/2091243634309915116",
+    "summary": "DAIR.AI 已将 Thinking Machines 的 Inkling 模型上线其 harness playground，用户可免费搭配 Pi 或 Hermes Agent 试用。该模型为开放权重 MoE 推理模型，支持文本、图像和音频输入，拥有 1M 上下文窗口，并已在 OpenRouter 上供 Claude Code、Codex 等智能体框架免费调用。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月23日3时18分"
+  },
+  {
     "id": "cmt4rh1s01tc5ro6t5tn1oytn",
     "title": "Ox Alpha 表现平平，未达开源前沿",
     "url": "https://x.com/emollick/status/2091238983724343543",
