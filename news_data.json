@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt4rh1s01tc5ro6t5tn1oytn",
+    "title": "Ox Alpha 表现平平，未达开源前沿",
+    "url": "https://x.com/emollick/status/2091238983724343543",
+    "summary": "Ethan Mollick 实测神秘模型 Ox Alpha，认为其表现尚可但未达开源权重模型的前沿水平。在其新哥特城市 twigl shader 测试中，Ox Alpha 逊于引用推文中同样开源的 Kimi K3，后者被评价为\"非常好的模型\"。Mollick 表示仍在继续测试。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月23日3时0分"
+  },
+  {
+    "id": "cmt4rrke61tevro6tdaz6t9kj",
+    "title": "DeepMind 校友创立的 Inherent 称其 AI\"队友\"在复现研究上超越 Anthropic 和 OpenAI",
+    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
+    "summary": "伦敦 AI 实验室 Inherent 称其新发布的智能体 Faraday 在独立复现已发表科学论文结论的任务上，超越了 Anthropic 的 Claude Opus 4.8 和 OpenAI 的 GPT-5.5。Faraday 基于仅 270 亿参数的 Qwen 3.6 模型，并借助强化学习训练\"研究品味\"。该公司刚以 5000 万美元种子轮融资走出隐身模式。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月23日3时0分"
+  },
+  {
+    "id": "cmt4rh1se1tc7ro6t4wt6p8r7",
+    "title": "庆幸自己热爱提示词工程",
+    "url": "https://x.com/fofrAI/status/2091237801761128484",
+    "summary": "我真的很庆幸自己热爱提示词工程。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月23日2时55分"
+  },
+  {
     "id": "cmt4q0lca1sd3ro6tzdf8nx24",
     "title": "智能体采用速度惊人，周处理超百亿token",
     "url": "https://x.com/gdb/status/2091233235355496810",
