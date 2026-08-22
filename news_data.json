@@ -14800,6 +14800,14 @@
     "date": "2026年8月22日12时43分"
   },
   {
+    "id": "cmt3wt4qm13utro6t0hb6ga3y",
+    "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
+    "url": "https://x.com/AntLingAGI/status/2091021795373855124",
+    "summary": "今天，我们为 SGLang 推出 Weight Cache Daemon。🚀 在 Ling-2.6-1T FP8 上，它将权重加载时间缩短至约 0.63 秒，比磁盘加载快约 780 倍，并将引擎总启动时间从 8.8 分钟缩短至约 0.53 分钟。其工作原理如下。",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月22日12时36分"
+  },
+  {
     "id": "cmt3wllwi13n2ro6tzhjh9pbi",
     "title": "AI安全研究或成免费为实验室打工",
     "url": "https://x.com/AISafetyMemes/status/2091019495074853357",
