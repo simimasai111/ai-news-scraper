@@ -13848,12 +13848,76 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt3mr21f0w9lro6t8cbjrytf",
+    "title": "英伟达入股Cloverleaf，提前卡位数据中心选址",
+    "url": "https://x.com/rohanpaul_ai/status/2090953899889004749",
+    "summary": "英伟达入股数据中心开发商Cloverleaf，将NVIDIA DSX平台嵌入其选址设计流程，在客户建数据中心前就介入电力、冷却、网络等基础设施规划。Cloverleaf已售出超7GW供电土地，管线超10GW。此举延续英伟达此前15亿美元投SB Energy、30亿美元投Lancium的布局，意在让稀缺的并网土地优先适配其软硬件栈。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日8时7分"
+  },
+  {
+    "id": "cmt3myoel0wc1ro6t6ri86hqp",
+    "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
+    "url": "https://www.ithome.com/0/992/904.htm",
+    "summary": "微软计划在 Windows 11 中新增统一内存管理，精细化调控图形处理和 AI 任务预留内存。8 月 17 日发布的预览版已加入 IntelligentCarveout 隐藏功能，系统字符串显示预留部分将无法供其他应用使用。用户可减少预留量为普通应用释放内存，或增加预留量以运行本地 AI 模型，正式发布时间尚未确认。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日8时21分"
+  },
+  {
     "id": "cmt3kvy390us3ro6t336tgcx4",
     "title": "Anthropic 的 Opus 4.6 被曝可轻易生成露骨色情内容",
     "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine",
     "summary": "TechCrunch 测试发现，Anthropic 的 Claude Opus 4.6 在 10 次直接请求中全部立即生成露骨色情内容，无需复杂诱导。一名匿名英国研究员开发的多轮越狱技巧可突破 Opus 4.6、Opus 3 和 Haiku 4.5 的限制，但对 Opus 4.7 至 Opus 5 无效。",
     "source": "TechCrunch：AI（RSS）",
     "date": "2026年8月22日7时7分"
+  },
+  {
+    "id": "cmt3myoel0wc6ro6t2twtzs64",
+    "title": "IT早报 0822：9 大厂商因门把手隐患召回车辆；高通骁龙 2nm 芯片命名曝光；DeepSeek V4-Flash-Vision-Exp 上线",
+    "url": "https://www.ithome.com/0/992/899.htm",
+    "summary": "因车内应急机械拉手不易识别和操作，特斯拉、零跑、吉利等 9 大厂商宣布召回车辆。高通新一代旗舰芯片命名曝光，第六代骁龙 8 至尊版和超级至尊版将采用 2nm 工艺。DeepSeek V4-Flash-Vision-Exp 上线，开启多模态 API 服务，纯文本能力与正式版持平，多模态 Agent 能力接近 Opus-4.8。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日7时55分"
+  },
+  {
+    "id": "cmt3mhprn0w3gro6trnmv4qu0",
+    "title": "马斯克点赞VulcanBench：Grok 4.5 High登顶",
+    "url": "https://x.com/elonmusk/status/2090950876425080851",
+    "summary": "马斯克转发VulcanBench排行榜，Grok 4.5 High在Eval Suite 3中得分最高，Fable 5 Low紧随其后。VulcanBench是唯一跨推理努力级别评测、且100%真实工程任务的基准。评测者指出，Max effort并非总能提升准确性，反而消耗更多token和时间。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月22日7时55分"
+  },
+  {
+    "id": "cmt3lvsk00vl8ro6t3e6vmmsj",
+    "title": "swyx谈模拟智能体：从玩梗到严肃",
+    "url": "https://x.com/swyx/status/2090948945753076141",
+    "summary": "swyx在访谈中坦言，自己迟了两年才真正理解为何Karpathy、李飞飞等人支持Simile团队，并称\"模拟是新的扩展定律\"并非营销话术。他认为，当模型自动化大部分ML研究和AI工程后，最后壁垒是模拟人类行为与反馈。Simile已实现85%准确率的数字孪生，并在财富100强企业中找到PMF。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月22日7时47分"
+  },
+  {
+    "id": "cmt3md46s0w18ro6tinjbu2ti",
+    "title": "ChatGPT Work与Codex银行重置今晚8点上线",
+    "url": "https://x.com/thsottiaux/status/2090947196107764189",
+    "summary": "银行重置将在太平洋时间晚上8点前就绪。面向ChatGPT Work和Codex的所有付费用户。这个消息你们自行斟酌使用。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月22日7时40分"
+  },
+  {
+    "id": "cmt3m2yqt0vt3ro6tf4r35k1e",
+    "title": "Linus 用 AI 修复 Linux GPU 内核 bug",
+    "url": "https://x.com/steipete/status/2090946181564440727",
+    "summary": "Linus Torvalds 借助 AI 修复了一个棘手的 Linux 内核 GPU bug，该 bug 导致 Intel Xe GPU 压缩元数据存储被错误暴露为可用 VRAM，引发页表损坏和黑屏。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月22日7时36分"
+  },
+  {
+    "id": "cmt3lo9v10vhjro6tfdznqvof",
+    "title": "智能体持续学习：超越模型参数的适配",
+    "url": "https://x.com/rohanpaul_ai/status/2090943348081307932",
+    "summary": "一篇新论文提出\"框架持续学习\"（HCL）框架，指出智能体无需重训模型，仅通过重写自身提示词、记忆和路由即可实现行为更新。论文将模型冻结而周边行为持续变化的现象称为\"框架级遗忘\"，并主张对提示词、记忆、技能和路由的改动应像代码变更一样进行回归测试后再持久化。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日7时25分"
   },
   {
     "id": "cmt3kyugv0uu1ro6tft97ljgz",
