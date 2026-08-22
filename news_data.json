@@ -14776,6 +14776,86 @@
     "date": "2026年8月22日1时10分"
   },
   {
+    "id": "cmt3u3xq911ttro6tm35rba8a",
+    "title": "AI订阅20倍额度迷雾：无基准的定价游戏",
+    "url": "https://x.com/AYi_AInotes/status/2090999373136007400",
+    "summary": "主推文质疑AI巨头订阅制中\"20倍额度\"缺乏明确基准，指出无公开token数、消息上限或推理时长，平台可随时调整路由或模型消耗，导致用户实际额度缩水。引用推文补充：OpenAI在Codex用户达2000万后发放可自选时机的额度重置作为安抚，但未解决高成本Agent与固定订阅间的根本冲突。作者认为行业需转向明码标价的按量计费或开源本地部署。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月22日11时7分"
+  },
+  {
+    "id": "cmt3ugg7e120qro6tjsjzwyap",
+    "title": "数据中心环保担忧实为人类集体恐惧",
+    "url": "https://x.com/AISafetyMemes/status/2091009972490715266",
+    "summary": "推文认为反数据中心运动是人类\"超有机体\"在正确感知到正在建造自身继任者后，为恐惧虚构的局部理由。比特币挖矿已证明人们并不真正在意抽象层面的巨大耗电，关于用水和电费的批评只是实现细节，水电问题实为恐惧的表现。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月22日11时50分"
+  },
+  {
+    "id": "cmt3t6bru114mro6tzvsh6y56",
+    "title": "评估岗如何更关注用户体验而非虚荣指标",
+    "url": "https://x.com/gabriel1/status/2090998638025793912",
+    "summary": "有没有给做评估的人的建议？比起虚荣的基准测试，更关心用户的行为和体验。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月22日11时4分"
+  },
+  {
+    "id": "cmt3unm8312a0ro6ti4dljlix",
+    "title": "Gemini 3.7 成增长最快模型发布",
+    "url": "https://x.com/OfficialLoganK/status/2091007303285887091",
+    "summary": "Gemini 3.7 是我们迄今为止增长最快的模型发布，看到大家的反响真是太棒了！！！",
+    "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+    "date": "2026年8月22日11时39分"
+  },
+  {
+    "id": "cmt3ulz8q123yro6tldtme2e5",
+    "title": "Gemini 3.7 Flash首周破增长纪录",
+    "url": "https://x.com/sundarpichai/status/2091006815295373717",
+    "summary": "Gemini 3.7 Flash 在发布首周便打破了此前 Gemini 的增长纪录，成为我们迄今增长最快的模型。很高兴看到开发者社区的热情！现在它也已在 Search 和 @Geminiapp 中运行。",
+    "source": "X：Sundar Pichai (@sundarpichai)",
+    "date": "2026年8月22日11时37分"
+  },
+  {
+    "id": "cmt3tzrul11r8ro6tn3ptqoe2",
+    "title": "马斯克：用 Grok 机器人就这么简单",
+    "url": "https://x.com/elonmusk/status/2091006071884451959",
+    "summary": "马斯克转发称，用 Grok 机器人\"就这么简单\"。引用推文展示了 24 小时实战：给 Grok Bot 分配 3 项任务，让它扫描 X 与网页数据、筛选信号并生成简报，用户只需定义目标、授予工具，AI 即可自主执行，工作流从\"提示→回答→复制\"转向\"分配→执行→验证\"。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月22日11时34分"
+  },
+  {
+    "id": "cmt3uj8vx121xro6t8hwf7p32",
+    "title": "软件再也没有理由运行缓慢了",
+    "url": "https://danluu.com/perf-opt",
+    "summary": "作者认为LLM大幅降低了性能优化的门槛，使过去需要专业团队才能完成的优化工作变得人人可为。以FRE正则引擎为例，通过AI辅助编写原生AOT编译器，在长查询上实现2x-4x性能提升，代表性查询约7%加速。作者还探讨了构建全盘索引等更激进的优化可能性。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日11时33分"
+  },
+  {
+    "id": "cmt3tgodj118vro6tob1mwcl8",
+    "title": "Waymo 首次公开自动驾驶计算系统：自研 5nm ASIC 与冗余架构",
+    "url": "https://waymo.com/blog/2026/08/look-under-our-trunk",
+    "summary": "Waymo 首次公开其自动驾驶计算系统设计，强调为确定性、低延迟性能而打造的物理 AI 架构。该系统基于自研 5nm ASIC，提供超过 1，000 TOPS 的 ML 性能，并在八年内将算力扩展 20 倍。计算采用双独立引擎冗余设计，支持毫秒级实时决策，并与 AMD、NVIDIA、TSMC 等伙伴合作。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日11时1分"
+  },
+  {
+    "id": "cmt3t6brj114kro6tl1dm55bd",
+    "title": "Fable 用数学生成《黄衣王》卡科萨着色器",
+    "url": "https://x.com/emollick/status/2091001394534707474",
+    "summary": "Fable：\"我想要一个能渲染《黄衣王》中失落卡科萨的 twigl 着色器。\"\n\n（着色器完全通过数学程序化生成）https://twigl.app?ol=true&ss=-P-bSSQZADUyG4yjrpbB\n\n湖畔云波拍岸，双日沉入湖面，阴影渐长，在卡科萨。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月22日11时15分"
+  },
+  {
+    "id": "cmt3tdv8h116nro6tj6ib1sb1",
+    "title": "AI创企转型增值Neocloud成趋势",
+    "url": "https://x.com/swyx/status/2091000431996473688",
+    "summary": "🌍🔫👩🚀\n\n【引用 @dylan522p】：天哪，我那些真正有收入的AI创始人朋友，现在一个个都在转型成带增值服务的neocloud。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月22日11时12分"
+  },
+  {
     "id": "cmt3sit2410ojro6t5vndj3lk",
     "title": "GPT-5.6 Sol降价至$4/$20，创最便宜纪录",
     "url": "https://x.com/sherwinwu/status/2090995896872018212",
@@ -14784,12 +14864,28 @@
     "date": "2026年8月22日10时54分"
   },
   {
+    "id": "cmt3te5t91177ro6t5244o5jv",
+    "title": "豆包输入法鸿蒙版上架尝鲜，版本号 0.9.1",
+    "url": "https://www.ithome.com/0/992/930.htm",
+    "summary": "豆包输入法鸿蒙版现已在 App Gallery 开启尝鲜，版本号 0.9.1（901），尝鲜期为 8 月 22 日至 9 月 21 日。其语音输入采用豆包同款语音大模型，支持多方言、英语及中英混输，无网弱网环境下也能流畅使用；键盘输入提供 9 键、26 键，并具备纠错和简拼能力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日10时39分"
+  },
+  {
     "id": "cmt3s3r5k10a0ro6tttsyobna",
     "title": "传Anthropic拟IPO估值2万亿美元",
     "url": "https://x.com/rohanpaul_ai/status/2090990679740850546",
     "summary": "纽约时报：银行家称，Anthropic 可能通过 IPO 募资超 1000 亿美元，估值约 2 万亿美元。\n\n若达成，将超过 SpaceX 6 月 857 亿美元的募资额，成为史上最大 IPO。\n\n年化经常性收入已达 650 亿美元，而 2025 年底时约为 90 亿美元。Anthropic 据报预计 2028 年营收约 1900 亿至 2000 亿美元。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月22日10时33分"
+  },
+  {
+    "id": "cmt3te5t91179ro6tlhq1e67o",
+    "title": "第二届世界人形机器人运动会今天开幕，新增拔河、乒乓球等项目",
+    "url": "https://www.ithome.com/0/992/928.htm",
+    "summary": "第二届世界人形机器人运动会今天在北京开幕，将持续至26日，共设51个项目、1301场比赛，吸引来自六大洲16个国家的666支队伍携2056台机器人参赛，队伍数量较首届增长138%，机器人数量翻了两番。竞技赛新增跳远、举重、拔河、乒乓球等高强度对抗项目，场景赛覆盖工业、酒店、家庭、物流等领域，并专门设置含夹豆子、拧螺丝等8个\"微操\"赛项的灵巧手比赛。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日10时29分"
   },
   {
     "id": "cmt3rg87z0zpiro6teesqzzsy",
