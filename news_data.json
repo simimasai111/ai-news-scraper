@@ -13856,6 +13856,62 @@
     "date": "2026年8月23日5时9分"
   },
   {
+    "id": "cmt4xc1ct1y5iro6tf3xktj54",
+    "title": "Linus Torvalds 谈 AI 调试：虽多次想放弃，但忠实执行调试代码",
+    "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds",
+    "summary": "Linus Torvalds 在 drm/xe 内核补丁提交说明中评价 AI 调试助手：它承担了大量基础工作，但多次断言问题\"不可能解决\"，建议直接写报告。Torvalds 怀疑其训练数据来自不如自己固执的人，不过在他推动下，AI 仍持续添加调试代码并忠实分析，因此他让 AI 撰写了提交信息。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月23日5时4分"
+  },
+  {
+    "id": "cmt4x4ivz1wznro6tbkyeubpv",
+    "title": "哈佛商学院699美元创业训练营用AI虚拟形象提供个性化反馈",
+    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors",
+    "summary": "哈佛商学院在为期八周、售价699美元的HBS Foundry创业训练营中，引入由HeyGen创建的AI虚拟形象，为学员的练习路演和董事会会议提供反馈。项目总监Katharina Rings称，试运行后学生希望获得更具引导性的体验，而参与者对虚拟形象反响积极。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月23日5时46分"
+  },
+  {
+    "id": "cmt4x0cqv1wx9ro6ts3bg5sz6",
+    "title": "开源模型将主导AI工作负载",
+    "url": "https://x.com/ClementDelangue/status/2091280015069483306",
+    "summary": "最终，绝大多数AI工作负载将基于开源模型！\n\n【引用 @rauchg】：今天是Vercel AI Gateway上开源权重token占比创纪录的一天。\n\n8月22日（今天）🟦 开源：62% 🟨 闭源：38%\n\n6月24日（约两个月前）🟦 开源：28.4% 🟨 闭源：71.6%\n\n这可能只是开始，因为企业采用仍处于早期阶段，而harnesses、CLIs、IDEs、SDKs等还需要适配为模型无关。",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月23日5时43分"
+  },
+  {
+    "id": "cmt4wtstp1wu7ro6t4qagfhov",
+    "title": "北京人形机器人百米9.39秒超越博尔特",
+    "url": "https://x.com/rohanpaul_ai/status/2091278376149655667",
+    "summary": "这不仅仅是机器人竞赛。历史刚刚被改写。来自北京的人形机器人以9.39秒跑完100米，快于博尔特2009年9.58秒的纪录。\n\n而且今年的百米赛是纯自主模式，即机器人必须在不经人类操控的情况下完成比赛。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日5时36分"
+  },
+  {
+    "id": "cmt4wtstg1wu5ro6t48j2m621",
+    "title": "智能体自我训练为何陷入局部最优",
+    "url": "https://x.com/omarsar0/status/2091276740815638911",
+    "summary": "一篇新论文分析大量公开的后训练轨迹，发现智能体在第一步就锁定训练策略，剩余预算全用于局部调整，无法真正实现递归自我改进。研究者尝试三种升级方案：经验驱动脚手架在GSM8K提升12.6分、HumanEval提升40.8分，但策略仍冻结；人类引导和额外推理算力均未解决根本问题。核心缺失是智能体在执行中缺乏重新考虑策略的能力。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月23日5时30分"
+  },
+  {
+    "id": "cmt4wouo11wqlro6thc1j7uqk",
+    "title": "TRACES基准：不信任正确答案的评测",
+    "url": "https://x.com/dongxi_nlp/status/2091275531853410587",
+    "summary": "TRACES\n\n一个不信任正确答案的基准。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月23日5时25分"
+  },
+  {
+    "id": "cmt4x0cqv1wxaro6t6pffitdt",
+    "title": "英伟达自研编码框架满分通过ARC-AGI-3",
+    "url": "https://x.com/ClementDelangue/status/2091273855415492806",
+    "summary": "NVIDIA 构建了自己的编码框架来优化 CUDA GPU 内核，并在 ARC-AGI-3 的 25 个公开游戏中取得了 100% 的分数，解决了全部 183 个关卡。\n\n借助智能体，我们将从一个运行、优化、后训练自己的 AI 模型和内核相当困难的世界，迈向一个几乎人人都能做到的世界。\n\n1 亿 AI 构建者何时到来？",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月23日5时18分"
+  },
+  {
     "id": "cmt4vr87v1w4fro6tno3rth57",
     "title": "Anthropic 回应 Opus 5 批评，承诺改进",
     "url": "https://x.com/kimmonismus/status/2091272577939329358",
@@ -13870,6 +13926,14 @@
     "summary": "东京大学新论文指出，多数AI智能体评测测试浪费资金--所有版本都能通过或都无法通过的任务占测试集超70%，却与其他测试成本相同。新方法Task-CoEvolve仅保留过往版本有分歧的测试，每轮重新选取，并调整评分以跨轮比较。在Terminal-Bench 2.1上，仅用89项任务中20%进行评测，结果与全量评测相差约一项任务，成本降低67%-80%，时间减半。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月23日5时10分"
+  },
+  {
+    "id": "cmt4wounp1wqjro6tsoflnwnr",
+    "title": "Task Model Induction：将录屏转为可复用技能",
+    "url": "https://x.com/dair_ai/status/2091269221225554394",
+    "summary": "Task Model Induction（TMI）能从原始屏幕录制与鼠标键盘事件中提取符号化任务模型，任务分组与真实标注一致性达 0.974。该方法重建 74.9% 的执行步骤，基于任务模型提炼的技能在保留任务上较最强工作流归纳基线提升 30.0% 准确率。论文：arxiv.org/abs/2608.20319。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月23日5时0分"
   },
   {
     "id": "cmt4t5dxf1ugzro6t5t9kerlq",
