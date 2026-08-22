@@ -14776,6 +14776,22 @@
     "date": "2026年8月22日1时10分"
   },
   {
+    "id": "cmt3ye9wz14y3ro6tw5xtc4n7",
+    "title": "Anthropic 内部 /eli5 技能：HTML 大图解释复杂系统",
+    "url": "https://x.com/AYi_AInotes/status/2091034488285417844",
+    "summary": "Anthropic 工程师 @trq212 分享团队常用的极简 Skill：/eli5，在终端输入 `/eli5 <任何问题>`，Claude 即强制生成大图少字的交互式 HTML 页面，核心 Prompt 仅一句话。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月22日13时27分"
+  },
+  {
+    "id": "cmt3y5hhz14q4ro6taqex36s5",
+    "title": "Codex 速率限制更新：缓存命中率下降调查中",
+    "url": "https://x.com/thsottiaux/status/2091033630147854385",
+    "summary": "Codex 速率限制更新。我们确实看到，部分用户本周的缓存命中率比之前几周的稳定状态有所下降。这或许可以解释为什么这些用户的用量消耗稍快--持续命中缓存是高效使用的重要因素。\n\n我们正在调查，明天将发布更新。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月22日13时24分"
+  },
+  {
     "id": "cmt3uxsch12irro6tbv88pvq4",
     "title": "用户用ChatGPT Sites生成音乐应用分享专辑",
     "url": "https://x.com/thsottiaux/status/2091014197144596734",
@@ -14790,6 +14806,14 @@
     "summary": "神秘模型Ox Alpha在OpenRouter上击败Fable和Sol登顶编程榜，却无人知晓其开发者。该模型拥有1M token上下文窗口，支持文本、图像和视频输入，免费一周，日处理能力达100万亿token，在DeepSWE子集上得分80%。",
     "source": "X：AI Safety Memes (@AISafetyMemes)",
     "date": "2026年8月22日12时50分"
+  },
+  {
+    "id": "cmt3xoil814cgro6tbzgl9jr3",
+    "title": "国内首台抽蓄项目长斜井智能掘锚一体化装备成功应用",
+    "url": "https://www.ithome.com/0/992/975.htm",
+    "summary": "中国电建在河南辉县九峰山抽水蓄能电站成功应用国内首台抽蓄项目长斜井智能掘锚一体化装备。该电站总装机容量210万千瓦，斜井累计总长2617米，最大倾角58度，为国内抽蓄电站斜井总长最长项目。装备由水电十一局牵头研制，已完成3号引水上斜井扩挖进尺超60米，实现常态化应用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日12时45分"
   },
   {
     "id": "cmt3w93gr13ffro6t3fqb0vt7",
