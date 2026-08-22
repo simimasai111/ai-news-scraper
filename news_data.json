@@ -14608,6 +14608,30 @@
     "date": "2026年8月22日2时0分"
   },
   {
+    "id": "cmt4djil11in2ro6t7yqsowfw",
+    "title": "清华等发现AI训练智能体难改策略",
+    "url": "https://x.com/rohanpaul_ai/status/2091143851088265419",
+    "summary": "清华等高校论文发现，AI智能体可优化训练计划数小时，却很少意识到计划本身有误。在1，338条后训练轨迹中，3，557个相邻实验仅74个（2.1%）改变了高层策略，多数迭代停留在同一方法内调整数据、超参数等。加入实验日志、技能库和评估器虽使GSM8K提升12.6分、HumanEval提升40.8分，但仍未触发策略变更；2-8倍推理token也几乎未带来AIME 2025可靠增益。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日20时42分"
+  },
+  {
+    "id": "cmt4djilb1in4ro6tf91nhdg4",
+    "title": "Instant 团队宣布加入 OpenAI",
+    "url": "https://x.com/testingcatalog/status/2091138925607661797",
+    "summary": "Instant ♥️ OpenAI\n\nInstant 团队即将加入 OpenAI！\n\n> Instant 是一个完整的后端解决方案，提供数据库、认证、权限和存储服务，专为支持 AI 驱动的应用而构建。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月22日20时22分"
+  },
+  {
+    "id": "cmt4cu8691hzsro6trkb5x8s0",
+    "title": "普林斯顿与 UCSD 研究揭示 AI 智能体为何受益于\"技能\"及其失效场景",
+    "url": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail",
+    "summary": "普林斯顿大学与加州大学圣迭戈分校的研究人员通过 8，135 次测试运行发现，技能主要通过程序性引导提升 AI 智能体表现，而非补充事实知识，该机制在约 65.7% 的案例中奏效。技能库从 5 条增至 100 条时，检索命中率从 29.6% 降至 3.3%。研究者认为，更可靠的技能创建、检索与应用方法比单纯积累经验更重要。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月22日20时15分"
+  },
+  {
     "id": "cmt385fja0jk6ro6tethdzez1",
     "title": "跟随惊喜的梯度：探索未知",
     "url": "https://x.com/fchollet/status/2090848832146047155",
@@ -14790,6 +14814,14 @@
     "summary": "哈佛与斯坦福新论文建议，勿用LLM替代嵌入模型做首轮检索，仅在需要推理时引入LLM。同等质量下LLM成本最高达嵌入模型的1，431倍：Gemini 3.1 Pro在37项任务中得分77.6，与Octen-8B的77.2统计持平，但成本为$154.14对$0.11。LLM在检索任务领先8.5分，嵌入模型在分类任务领先5.6分，建议嵌入模型负责候选检索，LLM仅处理需推理的短名单。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月22日19时55分"
+  },
+  {
+    "id": "cmt4copjz1hxdro6tm3oudusd",
+    "title": "宇树多款人形机器人将参加第二届世界人形机器人运动会，因精力侧重量产缩减部分参赛项目",
+    "url": "https://www.ithome.com/0/993/083.htm",
+    "summary": "宇树科技今日发文，预祝第二届世界人形机器人运动会圆满成功，多款宇树人形机器人将亮相，部分由自有团队参赛，其余由客户或合作伙伴基于宇树平台二次开发后参赛。因时间精力和新款机器人测试工作限制，公司缩减了几项已报名的参赛项目，过往精力主要放在量产产品上。本届赛事持续至26日，设51个项目、1300多场比赛，吸引666支队伍、2056台机器人参赛。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日19时27分"
   },
   {
     "id": "cmt4abn7k1fbkro6txp2nwpxa",
