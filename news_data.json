@@ -14776,12 +14776,44 @@
     "date": "2026年8月22日1时10分"
   },
   {
+    "id": "cmt44yqzw1be9ro6t97jc9sgh",
+    "title": "ChatGPT Work与Codex用户获重置",
+    "url": "https://x.com/kimmonismus/status/2091080584017633712",
+    "summary": "他兑现了承诺。为我们所有人带来了银行级重置。\n\n【引用 @thsottiaux】：银行级重置将于太平洋时间晚上8点前到位。适用于ChatGPT Work和Codex的所有付费用户。这个消息你们自己看着办吧。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月22日16时30分"
+  },
+  {
+    "id": "cmt449izp1aqhro6tm0ij7ld0",
+    "title": "RayNeo 推出无摄像头无扬声器的 AI 眼镜，专注文本叠加",
+    "url": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays",
+    "summary": "RayNeo 发布无摄像头、无扬声器的 AI 眼镜 iO，通过绿色波导显示屏在视野中叠加文本，透明度 97%，亮度约 1，300 尼特。眼镜可聆听对话、生成摘要、提取待办事项并建议日历条目，支持点头确认，还提供提词器模式和 40 种语言语音转文字翻译。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月22日16时0分"
+  },
+  {
+    "id": "cmt4441l71anero6t4zk4aqn3",
+    "title": "宇树机器人\"入职\"理想汽车，担任讲解员、向导等职位",
+    "url": "https://www.ithome.com/0/993/022.htm",
+    "summary": "宇树科技人形机器人\"笨笨\"近日\"入职\"理想汽车，担任讲解员、向导等职位。8 月 23 日，它将在北京汽车博物馆迎宾、讲解理想 L9 Livis，并在电影散场时献舞；8 月 30 日-31 日现身珠海长隆海洋王国参与特技表演和巡游。9 月 5 日-6 日，它还将赴理想汽车郑州东站 IP 体验中心担任讲解员，展示底盘与运动控制能力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日15时56分"
+  },
+  {
     "id": "cmt4340nz19xvro6ts39i85ig",
     "title": "别再开发TUI了",
     "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis",
     "summary": "作者用Claude等前沿模型快速构建了多个原生Mac应用，包括Markdown查看器MDV.app、SageMath计算器前端、Apple Music播放器DJ Roomba、自驱Wiki和菜单栏Apple TV遥控器。这些应用几乎不手写UI代码，而是通过提示词生成SwiftUI界面，并嵌入LLM智能体处理自然语言指令。作者认为，在LLM时代，终端界面已无必要，原生UI开发门槛大幅降低。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月22日15时49分"
+  },
+  {
+    "id": "cmt4441l71anjro6tfav19afd",
+    "title": "上纬新材彭文正：行业已不在\"能不能造机器人\"时代，而在\"敢不敢进消费级\"时代",
+    "url": "https://www.ithome.com/0/993/016.htm",
+    "summary": "上纬新材启元 Q1 研发负责人彭文正判断，具身智能领域\"本体已经不是比较大的一个瓶颈\"，更大痛点在于\"本体强、智能弱\"及生态内容匮乏，行业已进入\"敢不敢进消费级\"的时代。他提出机器人进入消费级的三条曲线，终局在真实应用场景探索与实用价值实现。启元 Q1 以小巧体积和全身柔顺力控保障消费级安全，全身 95% 以上外壳可改造，团队计划将整机图纸全部开源。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日15时31分"
   },
   {
     "id": "cmt436wrv1a0uro6tzfrjlykf",
