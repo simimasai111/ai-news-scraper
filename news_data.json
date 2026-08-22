@@ -14616,6 +14616,30 @@
     "date": "2026年8月22日23时6分"
   },
   {
+    "id": "cmt4ksadu1nwwro6tefi2c69f",
+    "title": "Grok Bot 从屏幕录像学会用户工作方式",
+    "url": "https://x.com/elonmusk/status/2091191054439682373",
+    "summary": "Elon Musk 转发用户实测：Grok Bot 通过带语音的屏幕录像学会用户整理桌面的方式与原因，并自动压缩大视频文件以便观看。该智能体还能就如何录制第二部分给出改进反馈，并主动提问验证理解程度。用户称这将是许多人接触 AI 智能体的入口，并已为妻子开通使用。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月22日23时49分"
+  },
+  {
+    "id": "cmt4kdkn01nmqro6to1mq2edk",
+    "title": "opencode 修复推理服务降级问题",
+    "url": "https://x.com/opencode/status/2091187842579910849",
+    "summary": "我们刚刚部署了一个修复，该问题导致我们推理服务的一小部分请求出现性能降级。\n\n响应速度应会有所改善。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月22日23时36分"
+  },
+  {
+    "id": "cmt4jm6ub1n2pro6t5ex2gx2e",
+    "title": "Ollama vs vLLM vs SGLang：三大开源模型推理引擎对比",
+    "url": "https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang",
+    "summary": "Ollama、vLLM 和 SGLang 是运行开源权重模型的三种主流推理引擎，各自针对不同场景优化。",
+    "source": "ByteByteGo（RSS）",
+    "date": "2026年8月22日23时31分"
+  },
+  {
     "id": "cmt4iwahe1mhnro6tm1xr8e44",
     "title": "DeepMind 潘多拉路由器：按需付费的模型路由新思路",
     "url": "https://x.com/rohanpaul_ai/status/2091179083669573797",
@@ -14630,6 +14654,30 @@
     "summary": "我们刚刚部署了一个修复，该问题导致我们推理服务的一小部分请求出现性能降级。\n\n响应速度应该会有所改善。",
     "source": "X：opencode (@opencode)",
     "date": "2026年8月22日23时28分"
+  },
+  {
+    "id": "cmt4k9geq1nfqro6ttfcf7b4z",
+    "title": "蒙德·迪夫林--用克隆人智能体管理办公室的开源多智能体工具",
+    "url": "https://munderdiffl.in/",
+    "summary": "蒙德·迪夫林是一款免费、开源且高性能的多智能体工具，可配合现有订阅（按小时限额）使用。它封装了Claude Code、Codex、Copilot等11款CLI智能体，在本地机器上运行一个由你的克隆人组成的\"办公室\"来管理任务。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日23时25分"
+  },
+  {
+    "id": "cmt4k9geq1nfsro6t34uo2fhd",
+    "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂",
+    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+    "summary": "作者用一条提示词让AI智能体自主完成从创建代码库、编写应用与测试、通过CI、配置Postgres到部署上线HTTPS应用的完整软件开发生命周期。整套环境基于Coolify自托管在本地服务器上，通过Tailscale、Pi-hole和DNS-01证书验证实现无公网入口的沙箱化隔离，唯一持续成本是每月£20的Codex订阅。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日23时25分"
+  },
+  {
+    "id": "cmt4jyuam1na4ro6t3u1owpqs",
+    "title": "完整对话体验出乎意料地自然",
+    "url": "https://x.com/rohanpaul_ai/status/2091184619865403853",
+    "summary": "整个交流过程感觉出奇地自然。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日23时24分"
   },
   {
     "id": "cmt4iwahk1mhpro6t7gywabi7",
