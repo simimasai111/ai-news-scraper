@@ -14776,6 +14776,22 @@
     "date": "2026年8月22日1时10分"
   },
   {
+    "id": "cmt4cgt6r1huwro6tkt4vxuqv",
+    "title": "DeepMind 将 EVE Online 作为 AI 长期试验场",
+    "url": "https://x.com/frxiaobei/status/2091132357206307134",
+    "summary": "Google DeepMind 正与 CCP Games（FenrisCreations）合作，将运行 20 多年的 EVE Online 作为 AI 长期试验场，探索持续学习、超越上下文窗口的深度记忆、按周月年规划的长周期决策及多智能体协作等开放挑战。其长期目标是与游戏开发者共同用 AI 发现全新玩法，并将成果应用于现实世界与科学发现。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月22日19时56分"
+  },
+  {
+    "id": "cmt4cgt711huyro6tkgi5m8so",
+    "title": "哈佛斯坦福：嵌入模型仍是检索首选",
+    "url": "https://x.com/rohanpaul_ai/status/2091132022047830212",
+    "summary": "哈佛与斯坦福新论文建议，勿用LLM替代嵌入模型做首轮检索，仅在需要推理时引入LLM。同等质量下LLM成本最高达嵌入模型的1，431倍：Gemini 3.1 Pro在37项任务中得分77.6，与Octen-8B的77.2统计持平，但成本为$154.14对$0.11。LLM在检索任务领先8.5分，嵌入模型在分类任务领先5.6分，建议嵌入模型负责候选检索，LLM仅处理需推理的短名单。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日19时55分"
+  },
+  {
     "id": "cmt4abn7k1fbkro6txp2nwpxa",
     "title": "Claude 说话冗长绕口毫无乐趣",
     "url": "https://x.com/kimmonismus/status/2091122540617846878",
