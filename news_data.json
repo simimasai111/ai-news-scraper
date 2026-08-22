@@ -14776,6 +14776,22 @@
     "date": "2026年8月22日1时10分"
   },
   {
+    "id": "cmt4340nz19xvro6ts39i85ig",
+    "title": "别再开发TUI了",
+    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis",
+    "summary": "作者用Claude等前沿模型快速构建了多个原生Mac应用，包括Markdown查看器MDV.app、SageMath计算器前端、Apple Music播放器DJ Roomba、自驱Wiki和菜单栏Apple TV遥控器。这些应用几乎不手写UI代码，而是通过提示词生成SwiftUI界面，并嵌入LLM智能体处理自然语言指令。作者认为，在LLM时代，终端界面已无必要，原生UI开发门槛大幅降低。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日15时49分"
+  },
+  {
+    "id": "cmt436wrv1a0uro6tzfrjlykf",
+    "title": "Netflix 测试语言模型 GenRec，替代手工构建的推荐逻辑",
+    "url": "https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic",
+    "summary": "Netflix 自研的基于语言模型的推荐系统 GenRec 在离线测试和约 10% 流量的四周 A/B 实验中均优于现有生产系统，排名质量离线提升约 1.6%，第二阶段训练所需标注数据减少约 40 倍。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月22日15时30分"
+  },
+  {
     "id": "cmt424bff196bro6ttn1ir2nr",
     "title": "心理学方法揭示AI安全测试的重大缺陷",
     "url": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing",
