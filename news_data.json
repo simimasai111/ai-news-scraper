@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt4w1xlp1w74ro6tr38yr2vz",
+    "title": "Anthropic 正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+    "url": "https://twitter.com/argofowl/status/2091150597374537729",
+    "summary": "Anthropic 将 Claude Code 2.1.236+ 上的部分会话纳入一项实验，缩小工作量（effort）档位的规模，旧版本和 Opus 5 不受影响。这很可能是一次 A/B 测试，并非所有用户都会看到变化。如果你感觉\"high\"档位像\"low\"档位，说明你已被分入测试组。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月23日5时9分"
+  },
+  {
+    "id": "cmt4vr87v1w4fro6tno3rth57",
+    "title": "Anthropic 回应 Opus 5 批评，承诺改进",
+    "url": "https://x.com/kimmonismus/status/2091272577939329358",
+    "summary": "Kim 对 Anthropic 认真对待批评表示认可，并指出 Opus 5 表现不佳已是共识。Anthropic 的 Thariq 承认 Opus 5 是\"尖刺型\"模型，与 Claude 一贯的稳定温和风格不符，并称改进是当前最高优先级。Kim 对 Opus 5.1 抱有希望，认为社区反馈能推动实质改善。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月23日5时13分"
+  },
+  {
+    "id": "cmt4vr8861w4hro6ty1smh045",
+    "title": "Task-CoEvolve：用自适应测试选择优化AI智能体评测成本",
+    "url": "https://x.com/rohanpaul_ai/status/2091271715422912844",
+    "summary": "东京大学新论文指出，多数AI智能体评测测试浪费资金--所有版本都能通过或都无法通过的任务占测试集超70%，却与其他测试成本相同。新方法Task-CoEvolve仅保留过往版本有分歧的测试，每轮重新选取，并调整评分以跨轮比较。在Terminal-Bench 2.1上，仅用89项任务中20%进行评测，结果与全量评测相差约一项任务，成本降低67%-80%，时间减半。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日5时10分"
+  },
+  {
     "id": "cmt4t5dxf1ugzro6t5t9kerlq",
     "title": "Grok Bot 本周末向部分企业开放",
     "url": "https://x.com/mntruell/status/2091255294521459015",
