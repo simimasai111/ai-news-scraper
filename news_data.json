@@ -13848,6 +13848,22 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt4lz38w1optro6tl6gt0hvn",
+    "title": "TRACES 基准：评估 AI 可审计的探索性研究过程",
+    "url": "https://x.com/dongxi_nlp/status/2091195990904537311",
+    "summary": "TRACES 是 Apodex Discovery 框架下的现实基准，评估 AI 系统能否通过有证据支撑、可审计且可修复的调查研究得出正确结果。在临床试验复现案例中，修复后的过程评分从 0.83 升至 0.95，而数字未变。该基准区别于仅测最终答案的传统基准，将评估对象从答案扩展至完整调查链：目标→规划→行动→观察→验证→修复。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月23日0时9分"
+  },
+  {
+    "id": "cmt4lc0it1o4qro6tvktjw1pj",
+    "title": "前沿AI实验室仍未公布失控模型遏制方案",
+    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
+    "summary": "Guidelight AI Standards最新研究显示，OpenAI、Anthropic、Google、Meta和xAI等五大前沿AI实验室大多未公开或展示遏制响应计划，其中OpenAI评分最高，Anthropic和Meta最低。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月23日0时0分"
+  },
+  {
     "id": "cmt3p6afm0y0fro6t5f5a6yqd",
     "title": "Nari Labs 如何让文本转语音模型在 50 毫秒内做出响应",
     "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier",
@@ -14614,6 +14630,14 @@
     "summary": "掌控你自己的 harness。\n\n我真希望 Claude Code 的 harness 是开源的。\n\n我经常思考这个问题，尤其是现在自定义 harness 已成为 AI 原生公司的基础。\n\n我现在主要在 Pi 和 Hermes Agent 之上进行构建。开源 harness 才是未来。",
     "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
     "date": "2026年8月22日23时6分"
+  },
+  {
+    "id": "cmt4l1fxw1o1lro6tscxskobj",
+    "title": "机器人导盲犬引领记者穿越机场",
+    "url": "https://x.com/rohanpaul_ai/status/2091191162434711812",
+    "summary": "一个价格亲民的版本可能会改变许多老年人的日常生活\n\n在北京2026世界机器人大会上，一只机器人导盲犬带领一名记者穿过了模拟的繁忙机场航站楼，成功找到值机柜台和正确的登机口。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日23时50分"
   },
   {
     "id": "cmt4ksadu1nwwro6tefi2c69f",
