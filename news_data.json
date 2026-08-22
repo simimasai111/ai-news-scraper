@@ -14776,6 +14776,22 @@
     "date": "2026年8月22日1时10分"
   },
   {
+    "id": "cmt46eooq1caxro6tzp0odehw",
+    "title": "新研究：忽略人类信念的世界模型会预测错误行为",
+    "url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows",
+    "summary": "一项新研究指出，Sora、Genie 3 等现有世界模型仅建模物理层，忽略人类信念、意图等心理状态，导致预测错误。研究者提出\"Mental World Modeling\"（MWM）框架及免训练实现 MENTIS，并构建含 448 个场景的 Menti-Bench 评测集。在八款模型测试中，完整 MWM 流程将 F1 分数从直接回答的 63.3 提升至 87.9，人类基准为 98.5。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月22日17时0分"
+  },
+  {
+    "id": "cmt46971p1c82ro6tz99xd4l6",
+    "title": "英伟达否认年底前推出中国特供 AI 芯片：路线图中无此产品",
+    "url": "https://www.ithome.com/0/993/033.htm",
+    "summary": "英伟达否认 The Information 关于其计划年底前向中国客户出货定制 AI 芯片 LPU 的报道，称该报道不实，目前在中国市场没有 LPU 销售，产品路线图中也没有针对中国市场的 LPU 产品。The Information 称该芯片是 Groq 3 LPU 的衍生版本，采用 Groq 授权技术开发，旨在与 GPU 协同加速 AI 聊天机器人响应，已有数家中国客户下单。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日16时55分"
+  },
+  {
     "id": "cmt44yqzw1be9ro6t97jc9sgh",
     "title": "ChatGPT Work与Codex用户获重置",
     "url": "https://x.com/kimmonismus/status/2091080584017633712",
