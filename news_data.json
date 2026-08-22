@@ -13848,12 +13848,52 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt4nh7ig1pltro6tr1lsvdtb",
+    "title": "MCP 发布新路线图：聚焦智能体消息原语、HTTP 原生传输与企业级安全",
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+    "summary": "MCP 核心维护者发布更新路线图，为下一版规范及后续工作设定方向，涵盖五大优先领域。其中包括推进 Tasks 扩展（SEP-2663）进入规范、统一 HTTP 原生传输以覆盖本地服务器，以及通过 DPoP 和 Workload Identity Federation 实现智能体身份识别与授权。此外，路线图还涉及标准化工具调用结果契约、渐进式工具发现，并改善 SDK 开发者体验。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月23日1时9分"
+  },
+  {
+    "id": "cmt4nlbmh1po7ro6tjq2rwpjj",
+    "title": "AI不是均衡器，而是放大器",
+    "url": "https://x.com/Yuchenj_UW/status/2091215363052896611",
+    "summary": "AI不会消除人与人之间的差距。\n\nYouTube、Coursera 和互联网让世界级的知识变得免费。但大多数人还是选择了 TikTok。\n\nAI 也没什么不同。每个人都能用上 Claude Code、Codex 和 ChatGPT。但最优秀的人会更好地使用它们，并以更快的速度复利增长。\n\nAI 不是均衡器，而是放大器。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月23日1时26分"
+  },
+  {
+    "id": "cmt4n6m3q1pj8ro6trujhbqvv",
+    "title": "评估LLM推理的新指标：tok/s/MW",
+    "url": "https://x.com/SemiAnalysis_/status/2091208991271420076",
+    "summary": "评估LLM推理的一个有用指标是tok/s/MW：系统每消耗一兆瓦总配置功率，每秒能生成多少token。\n\n在单并发用户下，下方B300配置在DeepSeek V4上每GPU可生成约14个输出tok/s。SemiAnalysis数据中心行业模型估算每块B300的配置功率为1.9 kW（0.0019 MW）。\n\n14 tok/s ÷ 0.0019 MW = 7，368 tok/s/MW\n\n即每配置兆瓦约7，400个输出tok/s。（1/4）🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月23日1时0分"
+  },
+  {
     "id": "cmt4lz38w1optro6tl6gt0hvn",
     "title": "TRACES 基准：评估 AI 可审计的探索性研究过程",
     "url": "https://x.com/dongxi_nlp/status/2091195990904537311",
     "summary": "TRACES 是 Apodex Discovery 框架下的现实基准，评估 AI 系统能否通过有证据支撑、可审计且可修复的调查研究得出正确结果。在临床试验复现案例中，修复后的过程评分从 0.83 升至 0.95，而数字未变。该基准区别于仅测最终答案的传统基准，将评估对象从答案扩展至完整调查链：目标→规划→行动→观察→验证→修复。",
     "source": "X：马东锡 NLP (@dongxi_nlp)",
     "date": "2026年8月23日0时9分"
+  },
+  {
+    "id": "cmt4n6m3j1pj6ro6tar25vfre",
+    "title": "Codex与Claude Code可自动填表省时",
+    "url": "https://x.com/emollick/status/2091207070951395337",
+    "summary": "在日常实用性和节省时间方面，Codex 和 Claude Code 非常擅长处理这类任务：你让它们\"把我邮件里收到的那些表格填好\"，它们就能很好地完成，无需你再进一步干预。对于低风险但耗时的琐事来说，真的非常方便。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月23日0时53分"
+  },
+  {
+    "id": "cmt4n6m371pj4ro6trl8057kv",
+    "title": "DAIR.AI 推荐 /eli5 技能：可视化深奥技术概念",
+    "url": "https://x.com/omarsar0/status/2091206127417507972",
+    "summary": "DAIR.AI 推荐 agent 技能 /eli5，可将深奥技术概念可视化，加速思考并改善与 agent 的协作。该技能源自 Anthropic 内部常用做法，通过 HTML 大图少字方式向零基础者解释。用户可在其 harness playground 中搭配 Pi 和 Ox Alpha 试用。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月23日0时49分"
   },
   {
     "id": "cmt4men2f1oy9ro6tjfqqbemk",
