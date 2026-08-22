@@ -13856,6 +13856,14 @@
     "date": "2026年8月23日4时4分"
   },
   {
+    "id": "cmt4v3crp1vprro6tb0a5pzag",
+    "title": "如何信任Bot自主操作？设计思路解析",
+    "url": "https://x.com/leerob/status/2091265397056016677",
+    "summary": "Lee Robinson 分享如何信任 Bot 自主操作：先用 LLM 自动审查每个动作，异常时请求批准；再配可自定义规则允许或拒绝操作，如明确阻止写入/破坏性动作并要求先批准。这是 YOLO 模式与全手动审查间的平衡，但也支持 YOLO 模式。",
+    "source": "X：Lee Robinson (@leerob)",
+    "date": "2026年8月23日4时44分"
+  },
+  {
     "id": "cmt4sybxi1ubiro6th7rasevq",
     "title": "OpenCode 优化后错误率趋近于零",
     "url": "https://x.com/opencode/status/2091253632414982382",
