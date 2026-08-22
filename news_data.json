@@ -13856,12 +13856,36 @@
     "date": "2026年8月23日1时9分"
   },
   {
+    "id": "cmt4o47ft1q6wro6tmve0fwkf",
+    "title": "微软发布Thinkingbox：智能体可靠性基准",
+    "url": "https://x.com/dair_ai/status/2091209556122808532",
+    "summary": "微软发布Thinkingbox，一个用于真实业务流程中智能体可靠性的沙盒环境，配备MCP兼容工具会话，以及涵盖零售、酒店、汽车保险等领域的507个策略条件工作流基准。每项尝试根据智能体留下的后端状态评分，最强模型pass@1达65.36%，pass^20为25.25%。许多失败尝试以有效的状态变更工具调用干净终止，仅观察响应或工具调用难以判断任务是否真正完成。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月23日1时3分"
+  },
+  {
+    "id": "cmt4o96by1qa5ro6tlbjik16k",
+    "title": "2026 智能体元年：token 消耗超人类 5 倍",
+    "url": "https://x.com/kimmonismus/status/2091218446163800556",
+    "summary": "如果你还需要最后一个证据证明 2026 年是智能体之年，这就是了。\n\n2025 年是推理 AI 之年，2026 年是智能体之年。\n\n【引用 @a16z】：人类已成为 AI 的少数用户\n\n智能体消耗的 token 量约为人类的 5 倍，自 2 月以来增长 14 倍\n\n本周图表：https://www.a16z.news/p/charts-of-the-week-winds-of-thematic",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月23日1时38分"
+  },
+  {
     "id": "cmt4nlbmh1po7ro6tjq2rwpjj",
     "title": "AI不是均衡器，而是放大器",
     "url": "https://x.com/Yuchenj_UW/status/2091215363052896611",
     "summary": "AI不会消除人与人之间的差距。\n\nYouTube、Coursera 和互联网让世界级的知识变得免费。但大多数人还是选择了 TikTok。\n\nAI 也没什么不同。每个人都能用上 Claude Code、Codex 和 ChatGPT。但最优秀的人会更好地使用它们，并以更快的速度复利增长。\n\nAI 不是均衡器，而是放大器。",
     "source": "X：Yuchen Jin (@Yuchenj_UW)",
     "date": "2026年8月23日1时26分"
+  },
+  {
+    "id": "cmt4orcfy1rkzro6twbrlca58",
+    "title": "llm 0.33 发布：升级 OpenAI 库并新增多项功能",
+    "url": "https://simonwillison.net/2026/Aug/22/llm",
+    "summary": "llm 0.33 发布，升级至 OpenAI Python 库 3.x，并将 HTTP 客户端依赖从 httpx 切换为 httpx2。llm embed 及 embed-multi 现支持 --key 参数，Python 方法也可传递 key=。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月23日1时1分"
   },
   {
     "id": "cmt4n6m3q1pj8ro6trujhbqvv",
