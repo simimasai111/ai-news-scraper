@@ -13848,6 +13848,22 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt50cazk02czro732i0fgcxh",
+    "title": "使用 Codex 一周后的印象：与 Claude 的对比",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
+    "summary": "开发者分享了一周内更多使用 Codex 而非 Claude 的个人印象。Codex 生成的代码注释更少、架构更简洁，但完成 PR 耗时并无优势；Claude 则更主动，常超出要求猜测意图，而 Codex 更倾向于只执行明确指令。在 Jira 集成和 MCP 登录流程上，Codex 的 CLI 方式更顺畅。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月23日7时17分"
+  },
+  {
+    "id": "cmt501jp5029fro73s3b58fbo",
+    "title": "OpenAI创始人与洪都拉斯自由城创始人是表亲",
+    "url": "https://x.com/gabriel1/status/2091302308097536009",
+    "summary": "今天瑞典媒体爆出大新闻：\n\nOpenAI 那位老兄，和正在洪都拉斯筹建自由意志主义城市的那位老兄，是表兄弟。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月23日7时11分"
+  },
+  {
     "id": "cmt4yyzrt01kuro73kkurb2mo",
     "title": "Ox Alpha 模型 DeepSWE 测试接近 GPT-5.6 Sol mid",
     "url": "https://x.com/kimmonismus/status/2091293109673926879",
