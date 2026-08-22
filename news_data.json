@@ -14608,6 +14608,54 @@
     "date": "2026年8月22日2时0分"
   },
   {
+    "id": "cmt4foj571k7jro6tbcwzf51d",
+    "title": "Agent Lightning v1.0：微软提出在真实部署环境中训练智能体",
+    "url": "https://x.com/rohanpaul_ai/status/2091156685574619433",
+    "summary": "微软新论文主张智能体训练应在实际部署环境中进行，否则训练出的模型与上线版本不一致。为此推出 Agent Lightning v1.0，一个轻量级受控智能体强化学习框架，通过真实部署的 harness 训练现有智能体，而非在 RL 训练器中重建智能体循环。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日21时33分"
+  },
+  {
+    "id": "cmt4foj4v1k7hro6tti8yils7",
+    "title": "神秘模型Ox Alpha疑为GLM 5.3 Flash",
+    "url": "https://x.com/kimmonismus/status/2091155462863343941",
+    "summary": "Kim 推测 OpenRouter 上的神秘模型 Ox Alpha 实为即将发布的 GLM 5.3 Flash。zAI 创始人 Jietang 曾于 6 月表示年底前将推出\"Fable\"级别 GLM 模型，且 GLM-5.2 到 5.3 的跃升已展示其纯后训练能力。若属实，该 Flash 模型性能将超越 Fable 和 GPT Sol 等顶级模型。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月22日21时28分"
+  },
+  {
+    "id": "cmt4foj581k7kro6tyd69e6ax",
+    "title": "优必选超仿生人形机器人亮相世界机器人大会",
+    "url": "https://x.com/rohanpaul_ai/status/2091155196269449320",
+    "summary": "\"不可触碰\"规则突然变得在技术上完全合理了😄\n\n2026年北京世界机器人大会展示了一款优必选超仿生人形机器人（半躯干型号），配备高度逼真的硅胶皮肤\n\n约1.7万美元，用于陪伴用途。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日21时27分"
+  },
+  {
+    "id": "cmt4foj5h1k7nro6tht7hty28",
+    "title": "Google Antigravity 推出远程控制功能",
+    "url": "https://x.com/testingcatalog/status/2091154278526202052",
+    "summary": "Google Antigravity 新增 Remote Control 功能，用户可在电脑上启动任务后，通过手机或其他设备上的浏览器继续与智能体协作。该功能无需安装移动应用，通过移动网页即可使用，即日起向所有用户（先面向 Ultra 订阅者）逐步推送。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月22日21时23分"
+  },
+  {
+    "id": "cmt4elz7w1jfnro6tgiacsrkc",
+    "title": "共和党视AI数据中心为选举负担",
+    "url": "https://x.com/rohanpaul_ai/status/2091147888038658516",
+    "summary": "共和党参议院竞选部门私下警告AI公司，公众对数据中心的愤怒正威胁其保住俄亥俄州关键席位的选情，民主党已将此作为攻击重点且策略奏效。与此同时，得州州长Greg Abbott下令监管机构在新建数据中心接入电网前进行审计，评估其对电力、水源、账单及社区的影响。共和党担忧数据中心反弹可能从俄亥俄州蔓延为全国性AI基础设施制约。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日20时58分"
+  },
+  {
+    "id": "cmt4etw0y1ji0ro6tood9roco",
+    "title": "DeepSeek 调整 API 周末计费：周六日全天统一按低谷价收费",
+    "url": "https://www.ithome.com/0/993/095.htm",
+    "summary": "DeepSeek 宣布自北京时间 2026 年 8 月 23 日 00：00 起，周六、周日全天不再区分峰谷时段，统一按低谷时段价格收取 API 调用费用。此次调整距 8 月 17 日实施的峰谷定价机制仅相隔不到一周，进一步简化了周末计费逻辑。以旗舰模型 DeepSeek-V4-Pro 为例，高峰时段每百万 tokens 输出价格为 27 元，空闲时段为 13.5 元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日20时51分"
+  },
+  {
     "id": "cmt4djil11in2ro6t7yqsowfw",
     "title": "清华等发现AI训练智能体难改策略",
     "url": "https://x.com/rohanpaul_ai/status/2091143851088265419",
