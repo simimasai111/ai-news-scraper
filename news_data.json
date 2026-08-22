@@ -14776,6 +14776,30 @@
     "date": "2026年8月22日1时10分"
   },
   {
+    "id": "cmt424bff196bro6ttn1ir2nr",
+    "title": "心理学方法揭示AI安全测试的重大缺陷",
+    "url": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing",
+    "summary": "包括英国AI安全研究所在内的团队分析了192个模型、5000多个测试问题，发现聚合安全分数具有误导性：模型可通过全面拒绝请求虚增分数，却降低日常实用性。研究还发现不到2%的测试问题真正有效，约10个自适应选择题即可接近完整评测结果，成本降低97%至99%。新统计方法能识别\"沙袋效应\"，在测试中捕获80%至100%的过度谨慎行为，并可通过响应模式识别API背后实际运行的模型。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月22日15时0分"
+  },
+  {
+    "id": "cmt41yv7k192gro6ttevl43mm",
+    "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱",
+    "url": "https://www.ithome.com/0/993/003.htm",
+    "summary": "OpenRouter 于 8 月 20 日上线匿名 AI 模型 Ox Alpha，免费开放 1 周。该模型在 DeepSWE 十项测试任务中得分约 80%，超过 Claude Fable 5 的 65% 和 GPT-5.6 Sol 的 52%。其上下文窗口达 1，048，576 个 token，支持文本、图像和视频多模态输入，分词器指纹与 GLM-5.3 高度吻合，线索指向智谱。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日14时54分"
+  },
+  {
+    "id": "cmt42om3n19pmro6twudgu2as",
+    "title": "Gemini 3.7 Flash 发布：DeepSWE 评分大幅提升，价格减半",
+    "url": "https://x.com/AYi_AInotes/status/2091054525972983999",
+    "summary": "Google 发布 Gemini 3.7 Flash，定位\"迄今最智能的工作马模型\"，距 3.6 发版仅 3 周。其 DeepSWE 评分从 48.6% 升至 65.3%，WebDev Arena 达 1588 分，入门价降至 0.75 美元/百万输入 token，输出 3.75 美元，支持 1M 上下文与 340+ tok/s 吞吐。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月22日14时47分"
+  },
+  {
     "id": "cmt3ztbwo17huro6tmzvr8o3l",
     "title": "预测下一个token到底有多难",
     "url": "https://x.com/ericmitchellai/status/2091046356894863682",
