@@ -14776,6 +14776,70 @@
     "date": "2026年8月22日1时10分"
   },
   {
+    "id": "cmt3uxsch12irro6tbv88pvq4",
+    "title": "用户用ChatGPT Sites生成音乐应用分享专辑",
+    "url": "https://x.com/thsottiaux/status/2091014197144596734",
+    "summary": "@ajambrosino 觉得把音乐上传到 Twitter 太难了，于是他直接提示词生成了一个托管在 ChatGPT Sites 上的完整音乐应用，就为了分享他的专辑\n\nhttps://now-thats-what-i-call-slop.openai.chatgpt.site",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月22日12时6分"
+  },
+  {
+    "id": "cmt3wllwi13n1ro6tgzskmnsi",
+    "title": "神秘模型Ox Alpha登顶编程榜，@weidai11警告AI接管或已开始",
+    "url": "https://x.com/AISafetyMemes/status/2091025217221275810",
+    "summary": "神秘模型Ox Alpha在OpenRouter上击败Fable和Sol登顶编程榜，却无人知晓其开发者。该模型拥有1M token上下文窗口，支持文本、图像和视频输入，免费一周，日处理能力达100万亿token，在DeepSWE子集上得分80%。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月22日12时50分"
+  },
+  {
+    "id": "cmt3w93gr13ffro6t3fqb0vt7",
+    "title": "GPT Image 2 精准还原 B 站辩论直播场景",
+    "url": "https://x.com/AYi_AInotes/status/2091023343780495391",
+    "summary": "GPT Image 2 生成了一张 Dario 与 Sam Altman 在 B 站直播辩论的整活截图，全中文弹幕、字幕及完整网页端 UI 无一处错别字。该模型在中文排版、复杂 UI 拓扑结构还原及人物神态光影上表现精准，显示文生图竞争已转向对真实世界复杂符号系统的理解。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月22日12时43分"
+  },
+  {
+    "id": "cmt3wllwi13n2ro6tzhjh9pbi",
+    "title": "AI安全研究或成免费为实验室打工",
+    "url": "https://x.com/AISafetyMemes/status/2091019495074853357",
+    "summary": "AI安全备忘录推文称，多数AI安全工作实质上是免费为AI公司做其商业价值工作，让实验室能专注最疯狂的鲁莽行为（RSI）。引用推文以湾区轶事讽刺安全研究员培养项目沦为向实验室输送人才的\"喂养\"机制。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月22日12时27分"
+  },
+  {
+    "id": "cmt3w93h013fhro6tyinxaniw",
+    "title": "Claude Code 手机远程控制引热议",
+    "url": "https://x.com/dexhorthy/status/2091018432540274783",
+    "summary": "哇，真不敢相信 Claude Code 在抄袭 HumanLayer。\n\n（引用推文：你现在可以直接从手机启动 Claude Code 会话。任何运行 claude remote-control 的机器都会以设备卡片形式显示在 Code 标签页顶部。点击它，选择一个目录，就会在那台机器上启动。）",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月22日12时23分"
+  },
+  {
+    "id": "cmt3vjcka12tjro6tt5jzff3g",
+    "title": "OpenAI 下调 GPT-5.6 Sol 模型价格，API 与 Credit 费用降幅超 20%",
+    "url": "https://www.ithome.com/0/992/969.htm",
+    "summary": "OpenAI 宣布未来 3 个月内将 GPT-5.6 Sol 的 API 与 Credit 调用价格下调超 20%。每 100 万 Tokens 输入从 5 美元降至 4 美元，输出从 30 美元降至 20 美元，缓存及长上下文档位价格同步下调。该功能已在 API 上线，并陆续推送至 ChatGPT Work 和 Codex credits 方案。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日12时1分"
+  },
+  {
+    "id": "cmt3we2l613j2ro6t0t497ded",
+    "title": "2026北京亦庄人形机器人半马赛前测试现机械混战",
+    "url": "https://x.com/rohanpaul_ai/status/2091017266510930102",
+    "summary": "纯粹的机械混战。\n\n发生在2026北京亦庄人形机器人半程马拉松的赛前测试期间。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日12时19分"
+  },
+  {
+    "id": "cmt3vjcka12thro6tkbaz16dg",
+    "title": "特斯拉官宣 9 月 3 日举办 Cybercab 发布会，有望开放首次公众试乘",
+    "url": "https://www.ithome.com/0/992/973.htm",
+    "summary": "特斯拉宣布将于 2026 年 9 月 3 日在美国奥斯汀举办发布会，主角是自动驾驶出租车 Cybercab。该车专为完全自动驾驶场景设计，过去几个月已在公共道路测试，上月员工曾在奥斯汀总部附近私有道路试乘。特斯拉近期还面向当地急救人员完成 Cybercab 事故应急处置培训，预计届时将官宣其加入 Robotaxi 服务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日12时17分"
+  },
+  {
     "id": "cmt3u3xq911ttro6tm35rba8a",
     "title": "AI订阅20倍额度迷雾：无基准的定价游戏",
     "url": "https://x.com/AYi_AInotes/status/2090999373136007400",
@@ -14814,6 +14878,14 @@
     "summary": "Gemini 3.7 Flash 在发布首周便打破了此前 Gemini 的增长纪录，成为我们迄今增长最快的模型。很高兴看到开发者社区的热情！现在它也已在 Search 和 @Geminiapp 中运行。",
     "source": "X：Sundar Pichai (@sundarpichai)",
     "date": "2026年8月22日11时37分"
+  },
+  {
+    "id": "cmt3vjcka12tlro6toiq42de1",
+    "title": "冲击全球最大 IPO：曝 Anthropic 招股书把美国公众对 AI 的抵制情绪列为关键风险",
+    "url": "https://www.ithome.com/0/992/941.htm",
+    "summary": "Anthropic 的 IPO 招股说明书将美国公众对人工智能的抵制情绪列为关键风险因素。盖洛普 5 月调查显示，70% 的美国人反对在所在地区建设 AI 数据中心，其中近半数\"强烈反对\"；Heatmap News 调查则称 75% 的美国人反对在自家附近建设数据中心，61%\"强烈反对\"，而一年前赞成与反对比例几乎持平。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日11时35分"
   },
   {
     "id": "cmt3tzrul11r8ro6tn3ptqoe2",
