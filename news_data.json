@@ -13848,12 +13848,36 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt4q0lca1sd3ro6tzdf8nx24",
+    "title": "智能体采用速度惊人，周处理超百亿token",
+    "url": "https://x.com/gdb/status/2091233235355496810",
+    "summary": "智能体的采用速度非常快，很容易忘记这个领域已经走了多远。\n\n【引用 @xeophon】：不到一年前，一年处理 10B token 还是一项重大成就，能让你获得一块奖牌。\n\n现在我一周就能处理超过 10B token。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月23日2时37分"
+  },
+  {
+    "id": "cmt4qcyr51smoro6t0534gsnj",
+    "title": "编程是否已解决？Lauren Tan：远未完成",
+    "url": "https://x.com/poteto/status/2091229896907595821",
+    "summary": "Lauren Tan 认为，若编程仅指敲代码，AI 智能体确实已解决；但编程本质是用代码解决问题，智能体缺乏约束反而制造更多问题。她强调人类工程师仍需主导方向，智能体降低了工程门槛，英语正成为新的编程语言。",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年8月23日2时23分"
+  },
+  {
     "id": "cmt4nh7ig1pltro6tr1lsvdtb",
     "title": "MCP 发布新路线图：聚焦智能体消息原语、HTTP 原生传输与企业级安全",
     "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
     "summary": "MCP 核心维护者发布更新路线图，为下一版规范及后续工作设定方向，涵盖五大优先领域。其中包括推进 Tasks 扩展（SEP-2663）进入规范、统一 HTTP 原生传输以覆盖本地服务器，以及通过 DPoP 和 Workload Identity Federation 实现智能体身份识别与授权。此外，路线图还涉及标准化工具调用结果契约、渐进式工具发现，并改善 SDK 开发者体验。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月23日1时9分"
+  },
+  {
+    "id": "cmt4pmdxs1s08ro6tie2j8eb7",
+    "title": "从 ElevenLabs 到 ThirteenLabs：数字加 Labs 的 AI 公司命名潮",
+    "url": "https://quantumi.sh/public/labs.html",
+    "summary": "一位网友从 ElevenLabs 出发，顺藤摸瓜搜索 TwelveLabs、ThirteenLabs 乃至 FourteenLabs，发现数字加 Labs 的 AI 公司命名已成风潮，并制作了 0-99 数字对应的 Labs 公司索引图。其中七十年代数字段公司密度异常高，还意外发现 seventyonelab.com 保留着 Netscape 4/0+ 时代的复古网页风格。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月23日1时57分"
   },
   {
     "id": "cmt4o47ft1q6wro6tmve0fwkf",
