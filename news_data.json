@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt3p6afm0y0fro6t5f5a6yqd",
+    "title": "Nari Labs 如何让文本转语音模型在 50 毫秒内做出响应",
+    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier",
+    "summary": "Nari Labs 推出低延迟实时多模态模型服务，首发语音能力，首次音频输出时间（time to first audio）达到 50 毫秒。该服务面向实时交互场景，将文本转语音的响应延迟压缩至毫秒级，为语音助手等应用提供更自然的对话体验。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日9时9分"
+  },
+  {
+    "id": "cmt3q8wti0yu7ro6tfizdz7mi",
+    "title": "当 GPU 读取内存时会发生什么：RTX 4090 全局加载路径逆向工程",
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "summary": "本文通过时序实验逆向工程 RTX 4090 上全局加载指令的硬件路径，揭示 L1/L2 缓存的切片函数与组索引均为地址位奇偶校验函数，并包含非线性 （a >> 15） mod 9 项。L2 为 16 路组相联，按物理地址索引和标记；L1 则使用虚拟地址。作者还给出了 36 切片（4090）与 48 切片（L40S）的切片预测函数代码。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月22日9时41分"
+  },
+  {
+    "id": "cmt3p3u2s0xykro6tstcjbea0",
+    "title": "小米官方\"龙虾\"Xiaomi miclaw 将于 9 月 21 日结束封测",
+    "url": "https://www.ithome.com/0/992/911.htm",
+    "summary": "小米宣布官方\"龙虾\"Xiaomi miclaw 将于 2026 年 9 月 21 日结束封测并停止服务。该产品是基于小米 MiMo 大模型构建的 AI 交互测试产品，今年 3 月开启封测。为感谢用户，小米邀请封测用户无需再次报名即可升级小米澎湃 OS 4 Beta 版，并限时赠送超级小爱专家模式加强档位（原价 149 元/月，当前 99 元/月）。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日9时1分"
+  },
+  {
+    "id": "cmt3pkup20yeero6t10axp5tq",
+    "title": "GPT-5.6 Sol 降价超20%持续三个月",
+    "url": "https://x.com/gdb/status/2090969732568772909",
+    "summary": "致力于为客户提供市场上任何任务的最低价格，以及最高的能力上限。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月22日9时10分"
+  },
+  {
+    "id": "cmt3ow0sp0xvyro6thgx6o7fc",
+    "title": "Ox Alpha 单次生成完整 Three.js 3D 世界",
+    "url": "https://x.com/rohanpaul_ai/status/2090967376879870462",
+    "summary": "Ox Alpha 在一次提示下生成 64，745 个输出 token，单次响应产出完整 Three.js dreamcore 3D 场景的全部程序化代码，无需外部素材。该模型支持 1M 上下文窗口、约 131k 最大输出 token，可处理文本+图像+视频输入并输出文本，定位为面向编码、长程智能体软件工程及生产负载的推理模型。aimlapi 正免费提供 Ox Alpha。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日9时0分"
+  },
+  {
     "id": "cmt3mr21f0w9lro6t8cbjrytf",
     "title": "英伟达入股Cloverleaf，提前卡位数据中心选址",
     "url": "https://x.com/rohanpaul_ai/status/2090953899889004749",
@@ -13856,12 +13896,76 @@
     "date": "2026年8月22日8时7分"
   },
   {
+    "id": "cmt3p3u2s0xylro6tyttjotii",
+    "title": "曝 Anthropic 募资 1000 亿美元冲击全球最大 IPO，目标估值 2 万亿美元",
+    "url": "https://www.ithome.com/0/992/910.htm",
+    "summary": "Anthropic 最早可能于本月底公开提交 IPO 申请，计划募资超 1000 亿美元，目标估值达 2 万亿美元，有望超越 SpaceX 创下的史上最大 IPO 纪录。SpaceX 今年 6 月上市初期募资 750 亿美元，加上超额配售选择权后总额增至 862 亿美元。Anthropic 已提前向潜在投资者开展路演，介绍经营状况并摸底认购意愿。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日8时59分"
+  },
+  {
+    "id": "cmt3oiab00xo2ro6tjqazpv2a",
+    "title": "OpenAI 银行级重置上线，付费用户可用",
+    "url": "https://x.com/thsottiaux/status/2090964822422949999",
+    "summary": "银行级重置已上线，再说一遍，银行级重置已上线。祝周末愉快。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月22日8时50分"
+  },
+  {
+    "id": "cmt3p3u2s0xymro6t1bd0mqra",
+    "title": "Anthropic 发力自研芯片，聘请前谷歌 TPU 负责人阿米尔·萨莱克",
+    "url": "https://www.ithome.com/0/992/909.htm",
+    "summary": "Anthropic 聘请前谷歌 TPU 项目创始高管阿米尔·萨莱克加入算力团队，他曾主导交付前七代 TPU 芯片。该公司近期已释放打造内部自研芯片业务的信号，并启动相关岗位招聘，以缓解供应链压力并更好匹配自身算法需求。其竞争对手 OpenAI 也已公布与博通联合研发的自研芯片\"Jalapeño\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月22日8时50分"
+  },
+  {
+    "id": "cmt3omumz0xq7ro6t6z6ierjv",
+    "title": "Grok Voice 登顶语音智能体评测",
+    "url": "https://x.com/elonmusk/status/2090962975587000493",
+    "summary": "Grok Voice Think Fast 2.0 在 Artificial Analysis 新推出的 Speech Agent Arena 中任务成功率排名第一。该基准由真人跨实际场景与隐藏语音智能体对话，衡量 AI 理解请求、调用工具并完成任务的能力，而非仅语音自然度。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月22日8时43分"
+  },
+  {
+    "id": "cmt3ns1gy0x1zro6t6f8hc3gj",
+    "title": "Grok @bot 周末用途征集",
+    "url": "https://x.com/poteto/status/2090962170469363803",
+    "summary": "这个周末你打算用 Grok @bot 做什么？",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年8月22日8时40分"
+  },
+  {
+    "id": "cmt3ntf4e0x40ro6tqmd0npmj",
+    "title": "优必选机器人世界机器人大会现场跳舞",
+    "url": "https://x.com/rohanpaul_ai/status/2090962099166195975",
+    "summary": "穿西装的那个人看起来更紧张\n\n优必选机器人在2026年世界机器人大会（北京）现场表演交谊舞。\n\n实时脚踝微调让机器人在面对不可预测的人类舞伴时，双脚保持均匀受力。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月22日8时39分"
+  },
+  {
     "id": "cmt3myoel0wc1ro6t6ri86hqp",
     "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
     "url": "https://www.ithome.com/0/992/904.htm",
     "summary": "微软计划在 Windows 11 中新增统一内存管理，精细化调控图形处理和 AI 任务预留内存。8 月 17 日发布的预览版已加入 IntelligentCarveout 隐藏功能，系统字符串显示预留部分将无法供其他应用使用。用户可减少预留量为普通应用释放内存，或增加预留量以运行本地 AI 模型，正式发布时间尚未确认。",
     "source": "IT之家（RSS）",
     "date": "2026年8月22日8时21分"
+  },
+  {
+    "id": "cmt3noghc0x07ro6tb3mnw6mn",
+    "title": "BestBlogs 早报：DeepSeek 多模态模型上线",
+    "url": "https://x.com/hongming731/status/2090956922812014878",
+    "summary": "BestBlogs 早报汇总 AI 领域要闻：DeepSeek 实验模型 V4-Flash-Vision-Exp 上线 API，文本能力与正式版持平，视觉 Agent 接近 Opus-4.8，单张图片最多计 384 tokens。Anthropic 发布 AI 原生软件交付生命周期手册，将 SDLC 重组为六个非线性阶段。另有多篇关于智能体设计品味、Uber 软件工厂及语音识别基准优化的文章。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月22日8时19分"
+  },
+  {
+    "id": "cmt3noghc0x08ro6ts1pqxne6",
+    "title": "Anthropic 发布 AI 原生 SDLC 手册，DeepSeek 开放视觉 API",
+    "url": "https://x.com/hongming731/status/2090956857682903102",
+    "summary": "Anthropic 发布覆盖 Plan 至 Maintain 六阶段的 AI 原生 SDLC 手册，以版本化工件串联各环节，并区分建议性与强制性控制。DeepSeek 上线实验模型 deepseek-v4-flash-vision-exp API，支持图文混合输入，单张图片最多占 384 tokens，价格与 V4-Flash 相同，Files API 免费开放。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月22日8时18分"
   },
   {
     "id": "cmt3kvy390us3ro6t336tgcx4",
