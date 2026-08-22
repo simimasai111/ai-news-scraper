@@ -14776,6 +14776,14 @@
     "date": "2026年8月22日1时10分"
   },
   {
+    "id": "cmt473vzi1czlro6tg9qb6rtf",
+    "title": "Grok 4.6登顶CursorBench，4.7将更强",
+    "url": "https://x.com/kimmonismus/status/2091096733371470321",
+    "summary": "Grok 4.6 以 70.8% 登顶 CursorBench 3.2，单任务成本仅 $2.81，比 Fable 5 Max（70.5%，$17.32）便宜约 6 倍，比 Opus 5 Max（70.0%，$8.23）便宜近 3 倍。xAI 称完整版 Grok 4.7 为 2.1T 参数模型，将在数周后发布，各方面优于 4.6（1.5T），仅服务速度略慢但 token 效率更高。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月22日17时34分"
+  },
+  {
     "id": "cmt46eooq1caxro6tzp0odehw",
     "title": "新研究：忽略人类信念的世界模型会预测错误行为",
     "url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows",
