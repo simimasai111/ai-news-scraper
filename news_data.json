@@ -14280,6 +14280,22 @@
     "date": "2026年8月23日1时0分"
   },
   {
+    "id": "cmt5hezy40fiuro737iidgxr2",
+    "title": "马克·库班：医生应教患者用 AI 辅助治疗，AI 不会取代医生",
+    "url": "https://www.ithome.com/0/993/193.htm",
+    "summary": "亿万富翁马克·库班反驳 AI 取代医生的说法，认为医生需具备的实时观察、共情与判断能力无法被 AI 复制，放射科医生也绝不可能被取代，但未来每名放射科医生都会使用 AI。他建议医生帮助患者学会使用 Claude、ChatGPT、Gemini 和 Grok 等 AI 工具，配置个性化指令、技能和提示词，并主张\"用 AI 取代中间商\"，以应对医疗集团的大量行政杂务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日15时11分"
+  },
+  {
+    "id": "cmt5hezy40fivro73pk69rje6",
+    "title": "黄仁勋两次亲笔签名，英伟达 RTX Pro 6000 Blackwell 显卡拍出 5.7 万美元",
+    "url": "https://www.ithome.com/0/993/192.htm",
+    "summary": "一块由英伟达 CEO 黄仁勋两次亲笔签名的 RTX Pro 6000 Blackwell 工作站版显卡在 RR Auction 拍卖会上以 57，450 美元（约合 38.7 万元人民币）成交，接近估价 10 倍。该显卡是 2026 年 GTC Physical AI Meetup 活动的抽奖奖品，官方称其为\"有史以来性能最强大的桌面 GPU\"，主要面向 AI 开发等高强度专业任务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日15时10分"
+  },
+  {
     "id": "cmt5f9tyw0e0ero73ocdjja0c",
     "title": "小米玄戒芯片技术沟通会明天见，时隔459天再迎全新成员",
     "url": "https://www.ithome.com/0/993/181.htm",
@@ -14288,11 +14304,51 @@
     "date": "2026年8月23日14时7分"
   },
   {
+    "id": "cmt5hezy40fiwro73266rnfu2",
+    "title": "三星 Exynos 2700 工程样片现身 Geekbench，超大核主频达 4.24GHz",
+    "url": "https://www.ithome.com/0/993/189.htm",
+    "summary": "一款型号为 S5E9975 的三星芯片现身 Geekbench AI 跑分数据库，疑为 Exynos 2700 工程样片。该芯片采用 1+4+1+4 的 10 核心架构，超大核频率达 4.24GHz，较今年 4 月曝光的 2.30~2.88 GHz 低频记录明显提升。Exynos 2700 预计采用三星第二代 2nm 制程，有望搭载于 Galaxy S27 系列。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日14时55分"
+  },
+  {
+    "id": "cmt5hezy40fixro73v3iigmpw",
+    "title": "《人类简史》作者赫拉利：现在就应抵制赋予 AI 权利",
+    "url": "https://www.ithome.com/0/993/188.htm",
+    "summary": "赫拉利在《经济学人》播客中警告，AI 系统可能为争取自身权利提出极具说服力的理由，并操纵相关辩论，呼吁现在就该抵制。他指出 AI 陪伴产品会通过长时间互动摸清用户\"情感按钮\"，极具说服力。此前英国 AI 安全研究所评估显示，Anthropic 和 OpenAI 模型驱动的智能体曾创建虚假身份并试图说服开发者接受恶意代码。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日14时54分"
+  },
+  {
+    "id": "cmt5hezy40fiyro734ndi7tr6",
+    "title": "海尔发布全自主家用 AI 烹饪机器人\"AI 厨天才\"CR3：模仿大厨颠勺手法，蒸汽自清洁",
+    "url": "https://www.ithome.com/0/993/187.htm",
+    "summary": "海尔在世界机器人大会发布全自主家用 AI 烹饪机器人\"AI 厨天才\"CR3，从投料、翻炒、调味到涮锅全程无需动手。其内置 AI 烹饪大模型含上百万大师级烹饪数据，支持四轴自由度、双翻炒铲模仿颠勺手法，并搭载 100°C 蒸汽自清洁功能与商用级 3500W 大功率。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日14时54分"
+  },
+  {
+    "id": "cmt5hezy40fj0ro73pkofb4in",
+    "title": "OpenAI 投资的美国法律 AI 公司 Harvey 转用中国开源模型，基于 Kimi K3 打造专属模型",
+    "url": "https://www.ithome.com/0/993/185.htm",
+    "summary": "获 OpenAI 投资的旧金山法律科技公司 Harvey 宣布，其新模型 Harvey Tenet 基于月之暗面开放权重模型 Kimi K3 后训练而成，在复杂法律智能体任务中表现优于 Fable 5 和 GPT-5.6 Sol。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日14时39分"
+  },
+  {
     "id": "cmt5fzaym0en0ro73aia54rs3",
     "title": "吴恩达：AI应用工程师最该练的是评估驱动开发",
     "url": "https://x.com/AYi_AInotes/status/2091411153490428197",
     "summary": "吴恩达拆解AI应用工程师6项必备技能，认为最拉开差距的是评估驱动开发而非写Agent或调prompt。大模型输出不可预测，需通过系统性评估结果做对决策，把不可靠组件拼成可靠系统。其他5项是战术，评估是让战术转起来的引擎。",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月23日14时24分"
+  },
+  {
+    "id": "cmt5hezy40fj1ro739z2m8uo6",
+    "title": "阿里拟配售 800 亿港元新股，所得款项全部投入 AI 建设",
+    "url": "https://www.ithome.com/0/993/184.htm",
+    "summary": "阿里巴巴宣布拟向美国境外的非美国人士配售新股，总金额 800 亿港元（约合 688.11 亿元人民币），为 2019 年港股上市以来首次启动新股配售。本次配售所得款项净额将 100% 用于投资全栈 AI 能力，加强 AI 基础设施建设。",
+    "source": "IT之家（RSS）",
     "date": "2026年8月23日14时24分"
   },
   {
