@@ -13864,6 +13864,22 @@
     "date": "2026年8月24日0时5分"
   },
   {
+    "id": "cmt61jw490wewro730vp6it8q",
+    "title": "模型评测需标准化测试框架",
+    "url": "https://x.com/omarsar0/status/2091565973098676670",
+    "summary": "用特定测试框架评测模型的方式已失效，应转向Pi、Hermes Agent等最小化标准框架，并保持长期稳定。模型未来或能按任务动态生成测试框架，使框架如同系统提示词般可调，评测将愈发复杂。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月24日0时39分"
+  },
+  {
+    "id": "cmt61jw4h0weyro73bjrcr64i",
+    "title": "用旧模型做AI影响研究需谨慎",
+    "url": "https://x.com/emollick/status/2091562657623265727",
+    "summary": "Ethan Mollick指出，用GPT-4等旧模型做AI影响研究并非不可，但需谨慎讨论。若结论是AI已具备某能力或达到人类水平，这类正面结论依然成立；但若结论是AI在某任务上表现差或有偏见，则不能断言AI不行，因为新模型可能已解决。他建议可明确限定\"GPT-4不能做X\"、对比多代模型趋势、论证AI固有缺陷、聚焦调节因素或人类反应等替代框架。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月24日0时26分"
+  },
+  {
     "id": "cmt56h0w306toro73rgokhb6z",
     "title": "速度问题已解，停止才是难题",
     "url": "https://x.com/rohanpaul_ai/status/2091343300704051429",
