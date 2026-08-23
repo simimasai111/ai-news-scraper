@@ -14280,6 +14280,30 @@
     "date": "2026年8月23日1时0分"
   },
   {
+    "id": "cmt5p30800leyro73zkt5jfas",
+    "title": "FreeToken：单工作站 GPU 运行 753B GLM-5.2 的边缘原生 MoE 推理引擎",
+    "url": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu",
+    "summary": "UC Berkeley 与 UT Austin 团队提出 FreeToken，将个人电脑视为统一弹性推理平台，在 8 GB 笔记本 GPU 上以交互速度运行 35B 模型，在单张工作站显卡上运行 753B GLM-5.2。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月23日18时44分"
+  },
+  {
+    "id": "cmt5ojxpn0l1gro73qoecjnnv",
+    "title": "起点收紧AI文政策，月票榜前1000涉事约100本",
+    "url": "https://x.com/foxshuo/status/2091474824116019619",
+    "summary": "起点中文网近期收紧AI文政策，部分作品被撤下推荐位和榜单，月票榜前1000本书中涉事作品约100本，斩杀率约10%，包括《山河鉴》等均订破万的头部小说。这些作品并非完全AI生成，不少作者仅用AI进行部分润色。阅文2023年推出「妙笔」大模型，去年宣布接入DeepSeek，主打文章润色，但AI产能提升远超预期，引发行业争议。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月23日18时37分"
+  },
+  {
+    "id": "cmt5ojxp90l1cro73m61ps29s",
+    "title": "阿易 AI Notes 按实用性重排 AI 做 PPT 的 Skill 榜单，ppt-master 居首",
+    "url": "https://x.com/AYi_AInotes/status/2091474085502955610",
+    "summary": "阿易 AI Notes 按真实可编辑性、审美上限与 GitHub 热度重排 AI 做 PPT 的 Skill 榜单，共 10 个。榜首 ppt-master（48.7k⭐）直接输出带完整图层、文字框的原生 .pptx 文件，适合正式交付；frontend-slides（28k⭐）与 guizang-ppt-skill（24.7k⭐）分列二三名。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月23日18时34分"
+  },
+  {
     "id": "cmt5o0ek80kgkro73qhimi4i4",
     "title": "AI 正成为 AI 最大客户：OpenRouter 上智能体 token 用量激增 14 倍",
     "url": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter",
@@ -14302,6 +14326,14 @@
     "summary": "NanoGPT 速通榜单显示，Fable 5 在 2，726 秒内以 81.7% 的通过率位居第一，超越人类基线 2，600 秒。Opus 5 和 Kimi K3 分别以 53.6% 和 52.2% 的通过率位列二、三名。榜单涵盖 GPT-5.6、Grok 4.5、Qwen3.8 Max 等 20 款模型，并开放 41 条完整智能体轨迹供探索。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月23日18时13分"
+  },
+  {
+    "id": "cmt5ojxp90l1dro73xyqwhj5m",
+    "title": "OpenRouter 数据：Agent 已成 AI 最大消费者",
+    "url": "https://x.com/AYi_AInotes/status/2091464685711196493",
+    "summary": "OpenRouter 最新数据显示，AI 智能体的 Token 消耗量已反超人类，自 2 月以来暴涨 14 倍，目前约为人类日常用量的近 5 倍，其中 85% 以上为缓存 Token。人类与 Agent 交互模式不同，后者目标驱动、可 24 小时并发运行，效率提升反而推动用量爆炸，AI 经济正脱离人类注意力上限。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月23日17时56分"
   },
   {
     "id": "cmt5nmbsf0kbfro73yodwxzzy",
