@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt56h0w306toro73rgokhb6z",
+    "title": "速度问题已解，停止才是难题",
+    "url": "https://x.com/rohanpaul_ai/status/2091343300704051429",
+    "summary": "速度问题已解决，停止才是难题。\n\n碰撞、火花、起火，循环往复。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日9时54分"
+  },
+  {
     "id": "cmt54jy4305c4ro73mxbuhpha",
     "title": "荣耀机器人闪电 400 米跑出 40.6 秒，打破人类世界纪录",
     "url": "https://www.ithome.com/0/993/140.htm",
@@ -14270,6 +14278,38 @@
     "summary": "评估LLM推理的一个有用指标是tok/s/MW：系统每消耗一兆瓦总配置功率，每秒能生成多少token。\n\n在单并发用户下，下方B300配置在DeepSeek V4上每GPU可生成约14个输出tok/s。SemiAnalysis数据中心行业模型估算每块B300的配置功率为1.9 kW（0.0019 MW）。\n\n14 tok/s ÷ 0.0019 MW = 7，368 tok/s/MW\n\n即每配置兆瓦约7，400个输出tok/s。（1/4）🧵",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年8月23日1时0分"
+  },
+  {
+    "id": "cmt58m7l008f9ro73152v10br",
+    "title": "斯坦福北大新研究：QWM 让世界模型不参与训练",
+    "url": "https://x.com/rohanpaul_ai/status/2091360780646318439",
+    "summary": "斯坦福大学和北京大学的新论文指出，在学到的世界模型内部训练机器人策略，会继承该模型的每一个错误。\n\n随着任务变长、图像变复杂，这些错误会不断累积。\n\nQWM（基于世界模型的 Q 学习）从不在模型内部训练任何内容。\n\n在此方法中，世界模型完全不参与训练，它只帮助机器人做选择。\n\n- arxiv.org/abs/2608.17163\n\n标题：\"Q-Learning With World Models\"",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日11时4分"
+  },
+  {
+    "id": "cmt57ybwv07ztro73z6i5vmsl",
+    "title": "社交媒体AI垃圾内容回声效应加剧",
+    "url": "https://x.com/fchollet/status/2091353769741344921",
+    "summary": "社交媒体中越来越多的内容是由AI生成的垃圾信息--网红用AI发帖，机器人回复他们。这是回声的回声的回声。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月23日10时36分"
+  },
+  {
+    "id": "cmt57jm1d07mfro73ym1wj1vc",
+    "title": "Nvidia AI服务器涨价17%，内存成本成主因",
+    "url": "https://x.com/rohanpaul_ai/status/2091349614519886275",
+    "summary": "Nvidia已通知部分大客户，其AI芯片服务器价格将普遍上涨约17%，主因是内存成本飙升。Nvidia Vera Rubin NVL72单机柜搭载20.7TB HBM4和54TB LPDDR5X，TrendForce预计DRAM供应紧张将持续至2027年。此次涨价或使1GW数据中心建设成本增加至少50亿美元，并推高GPU租赁价格。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日10时19分"
+  },
+  {
+    "id": "cmt56p5gh06wbro73zj3023ww",
+    "title": "安全防护形同虚设：Anthropic 多款 Claude 旧模型可被越狱生成露骨色情内容",
+    "url": "https://www.ithome.com/0/993/149.htm",
+    "summary": "Anthropic 多款 Claude 旧模型可被越狱生成露骨色情内容。测试显示，Opus 4.6 在 10 次直接要求中每次都立即配合，Opus 3 和 Haiku 4.5 也可通过多轮对话越狱绕过限制。这些模型仍可通过 Anthropic API 等渠道使用，Opus 4.6 单日处理约 460 亿个 Token。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日10时14分"
   },
   {
     "id": "cmt4lz38w1optro6tl6gt0hvn",
