@@ -13848,6 +13848,94 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt526pcc03qmro73gmapvkfm",
+    "title": "清华康奈尔研究：ACID-Agent 防记忆污染",
+    "url": "https://x.com/rohanpaul_ai/status/2091315481906917664",
+    "summary": "清华与康奈尔新研究指出，智能体记忆可能将可恢复错误固化为持续错误。论文借鉴数据库事务思想提出 ACID-Agent，将探索-执行-验证循环视为事务，仅提交验证通过的结果，失败尝试不进入记忆与工作区。验证失败时智能体重试且不携带失败状态，长期运行可靠性更取决于控制提交与重试而非单纯提升推理能力。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日8时4分"
+  },
+  {
+    "id": "cmt52ercm03sxro739i68rkf1",
+    "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
+    "url": "https://www.ithome.com/0/993/133.htm",
+    "summary": "伦敦 AI 实验室 Inherent 推出智能体 Faraday，能在未知答案情况下自主复现已发表科学论文的研究结果，表现超越 GPT-5.5 与 Claude Opus 4.8。Faraday 仅基于 270 亿参数的 Qwen 3.6 模型，并采用强化学习训练以培养\"研究品味\"。Inherent 刚完成 5000 万美元种子轮融资，计划年底前将团队扩至约 20-25 人。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日8时15分"
+  },
+  {
+    "id": "cmt50z64402wcro732ax0zg8m",
+    "title": "TRACES：面向发现式智能的基准",
+    "url": "https://x.com/dongxi_nlp/status/2091301189031698463",
+    "summary": "检验结果，审计过程。\n\n面向发现式智能的 benchmark：TRACES",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月23日7时7分"
+  },
+  {
+    "id": "cmt50z64402wdro73ah454vnt",
+    "title": "TRACES 基准：评估 AI 调查过程而非只看答案",
+    "url": "https://x.com/dongxi_nlp/status/2091300897502445818",
+    "summary": "Apodex Discovery 推出 TRACES 基准，评估 AI 系统能否通过证据充分、可审计、可修复的调查得到正确结果。它同时检查最终答案与外部可见轨迹，用 HDS6 盲评六种过程能力（工具、修复、备选解释、连贯性、证据、适用边界）。在 434 条缺陷轨迹上，加入修复说明使环境结果得分平均提高 0.155，但实验缺少匹配对照组。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月23日7时6分"
+  },
+  {
+    "id": "cmt52ercn03syro73ngk0ye5n",
+    "title": "哈佛商学院推出 699 美元创业训练营，AI 数字分身提供路演反馈",
+    "url": "https://www.ithome.com/0/993/131.htm",
+    "summary": "哈佛商学院（HBS）推出为期 8 周、收费 699 美元的 HBS Foundry 创业训练营，借助 HeyGen 打造的 AI 虚拟形象在模拟路演和董事会会议中向学员提供反馈。项目负责人 Katharina Rings 称，学生反馈希望获得引导性更强、更具互动性的体验，参与者表示很喜欢这些 AI 虚拟形象。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日7时58分"
+  },
+  {
+    "id": "cmt51hzzj0396ro73l0mzp9n3",
+    "title": "面向企业 AI 安全的 NeMo Guardrails 开发者指南",
+    "url": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety",
+    "summary": "本教程讲解如何用 NeMo Guardrails 框架为基于 LLM 的应用构建生产级安全防护，超越简单提示词过滤，实现分层架构，包括确定性 PII 脱敏、检索过滤、输出掩码和基于策略的工具门控。通过集成有状态多轮评估与详细激活追踪，可构建可审计、安全且经济高效的 AI 助手，用于管理敏感金融交互并满足严格合规标准。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月23日7时49分"
+  },
+  {
+    "id": "cmt52ercn03t0ro73te2j21fc",
+    "title": "IT早报 0823：特斯拉监督版 FSD 移除中国支持地区；DeepSeek 周末统一按低谷价计费；Anthropic 曝募资 1000 亿美元冲击全球最大 IPO",
+    "url": "https://www.ithome.com/0/993/129.htm",
+    "summary": "特斯拉官网更新，监督版 FSD 支持地区不再包含中国。DeepSeek 自 8 月 23 日起调整 API 计费，周末全天统一按低谷价收费。Anthropic 最早或于本月提交 IPO 申请，募资 1000 亿美元，目标估值 2 万亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日7时46分"
+  },
+  {
+    "id": "cmt52ercn03t1ro73h9qv4xy4",
+    "title": "特斯拉正有意放缓 Model Y 加入 Robotaxi 车队，押注 Cybercab",
+    "url": "https://www.ithome.com/0/993/128.htm",
+    "summary": "特斯拉正有意放缓将 Model Y 纳入 Robotaxi 车队的速度，因其相信专为无人出租车设计的 Cybercab 能在短期内快速规模化部署。支撑这一调整的是 FSD V15，特斯拉称其性能提升幅度可与 V13 升级至 V14 时相提并论，该版本引入七项核心技术，其中约 40% 已在 Robotaxi 车队中测试。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日7时45分"
+  },
+  {
+    "id": "cmt51440i02zyro73tffwkck3",
+    "title": "中国开源AI为何可能更强大",
+    "url": "https://x.com/rohanpaul_ai/status/2091308338617393628",
+    "summary": "Aravind Srinivas 认为，出口管制是开源与前沿模型存在12个月差距的唯一原因，但这也可能促使中国在物理层面积累实力。中国在建设数据中心方面速度更快，电力、许可、人力、专业能力均不成问题，反而可能因此成为更强大的竞争对手。Anthropic 曾大力游说支持出口管制。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日7时35分"
+  },
+  {
+    "id": "cmt52ercn03t4ro73xrpk229o",
+    "title": "特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi",
+    "url": "https://www.ithome.com/0/993/125.htm",
+    "summary": "内华达州运输管理局批准特斯拉完整\"自动驾驶汽车网络公司\"运营许可证，未来 12 个月可在克拉克县部署最多 5000 辆无人驾驶汽车，取代此前仅限拉斯维加斯大道 10 辆的临时许可。商业化载客服务预计未来 30 天内启动，但仍需完成车辆检查、保险备案及票价审批。实际部署数量将取决于 FSD v15 的推进速度。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日7时26分"
+  },
+  {
+    "id": "cmt52ercn03t5ro73p2ihow3l",
+    "title": "航天自研半人马机器人\"小橙\"首次公开亮相，未来有望奔赴太空作业",
+    "url": "https://www.ithome.com/0/993/124.htm",
+    "summary": "在2026世界机器人大会上，航天自研半人马重载智能机器人\"小橙\"首次公开亮相。该机器人将轮足底盘与人形双臂灵巧手合二为一，面向应急抢险及危险场景作业，时速近20公里，支持跨楼层自主导航，可执行寻找幸存者等任务，未来有望奔赴太空开展作业。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日7时25分"
+  },
+  {
     "id": "cmt50cazk02czro732i0fgcxh",
     "title": "使用 Codex 一周后的印象：与 Claude 的对比",
     "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
