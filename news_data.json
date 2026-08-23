@@ -14224,12 +14224,100 @@
     "date": "2026年8月23日2时23分"
   },
   {
+    "id": "cmt5v4hs00rmmro736ea3eqvd",
+    "title": "Life After Automation",
+    "url": "https://every.to/context-window/life-after-automation",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月23日21时48分"
+  },
+  {
+    "id": "cmt5v4icn0rmoro735s2upujj",
+    "title": "美司法部支持xAI挑战明州AI图像法",
+    "url": "https://x.com/cb_doge/status/2091518667867713935",
+    "summary": "新闻：美国司法部支持埃隆·马斯克的xAI对明尼苏达州新AI图像生成法的法律挑战。\n\n司法部表示，该法远超联邦规则，即使成年人同意或创建自己的图像，AI平台也可能受到惩罚。\n\n司法部还警告称，过于宽泛的州法律可能限制受保护的言论、减缓AI发展，并损害美国在AI领域的全球领导地位。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月23日21时31分"
+  },
+  {
+    "id": "cmt5uzewn0rjaro73cfa3zl6o",
+    "title": "编码执行工业化下程序员价值的分水岭",
+    "url": "https://x.com/hongming731/status/2091511056795611149",
+    "summary": "编码执行正被工业化，但程序员价值不会自动消失或上移。新的分水岭在于谁能定义值得解决的问题、将组织知识转化为机器可用的上下文、用独立验证约束高速执行，并对真实世界的结果负责。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月23日21时1分"
+  },
+  {
+    "id": "cmt5uzewn0rjbro73tvxb97e6",
+    "title": "编码工业化后程序员价值如何重分配",
+    "url": "https://x.com/hongming731/status/2091510733251174840",
+    "summary": "BestBlogs 精选周刊第 109 期聚焦程序员职业未来，核心判断是编码执行正被工业化，但程序员价值不会自动消失或上移。周刊从工业化、治理前置、组织提效三方面展开，引用 Anthropic、Stripe、METR 等案例与数据，指出新分水岭在于定义问题、转化组织知识、独立验证与结果负责。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月23日20时59分"
+  },
+  {
+    "id": "cmt5ua1a80qvyro731jvy9awf",
+    "title": "第二届世界人形机器人运动会：智元精灵 G2 摘得\"消防应急场景\"\"图书场景\"两枚金牌",
+    "url": "https://www.ithome.com/0/993/292.htm",
+    "summary": "第二届世界人形机器人运动会今日开赛，智元精灵 G2 在新增的\"场景赛\"中摘得\"消防应急场景\"\"图书场景\"两枚金牌，目前智元以两金三银两铜位居奖牌榜首位。消防场景中，G2 通过手腕加装结构件勾起 4.5-5 公斤灭火器，解决末端夹爪负载上限问题；图书场景则与清华、上海交大联合赛队合作，采用开源视觉模型识别图书脊背标签。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日20时59分"
+  },
+  {
+    "id": "cmt5ua1a80qvzro7391634o90",
+    "title": "大咖机器人 DaxAI 展示骐骥系列四足机器马，可像骑马一样操控",
+    "url": "https://www.ithome.com/0/993/291.htm",
+    "summary": "大咖机器人（DaxAI Robotics）在 2026 北京世界机器人大会上展出骐骥 X1 与骐骥 XS 两款四足机器马。骐骥 X1 采用纯四足仿生无车轮结构，整机重量 300kg，最高时速 7-10km/h，续航 40km；骐骥 XS 为轮足复合结构，最高时速突破 40km/h，续航 60km。两款产品均支持 OTA 迭代升级，旨在验证可骑乘四足机器人的可行性。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日20时54分"
+  },
+  {
+    "id": "cmt5u1s900qtgro73jiqk8ort",
+    "title": "斯坦福CMU新方法：从录屏提取任务模型",
+    "url": "https://x.com/rohanpaul_ai/status/2091508252202709350",
+    "summary": "斯坦福和CMU提出Task Model Induction，将真实工作录屏拆解为独立任务并重建带循环的目标树，而非当作单一操作序列。该方法恢复了74.9%的实际操作，是现有最佳摘要器的两倍多，基于其构建的技能在未见任务上表现提升30%。研究指出，挖掘演示数据训练智能体时应输入目标结构而非原始转录。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日20时50分"
+  },
+  {
+    "id": "cmt5ua1a80qw0ro734idca8ia",
+    "title": "百度回应：没有增发配售计划",
+    "url": "https://www.ithome.com/0/993/289.htm",
+    "summary": "百度相关负责人回应称，公司没有增发配售计划，现有资金及经营现金流足以支持既定业务发展。截至二季度末，百度现金及投资总额达 2，831 亿元，经营现金流连续四个季度为正。百度 AI 云基础设施收入同比增长 50%，GPU 云收入同比增长 283%，AI 业务收入占一般业务收入的 50%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日20时49分"
+  },
+  {
+    "id": "cmt5ua1a80qw1ro73y9ggv5dz",
+    "title": "2027 北京亦庄人形机器人半程马拉松开启全球邀请，赛事规格再升级",
+    "url": "https://www.ithome.com/0/993/288.htm",
+    "summary": "北京亦庄宣布 2027 人形机器人半程马拉松开启全球邀请，赛事定于 2027 年 4 月 18 日举行，邀约范围拓宽、技术考核标准再拔高。今年 4 月的 2026 赛事中，齐天大圣队\"闪电\"机器人以 50 分 26 秒净用时夺冠；该届赛事规模扩容近 5 倍，吸引全国 13 个省份超百支队伍及 5 个海外队伍参赛。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日20时49分"
+  },
+  {
+    "id": "cmt5ua1a80qw2ro73mr8o6x6d",
+    "title": "第二届世界人形机器人运动会 400 米小型组决赛：天工 Omni 以 45.66 秒夺冠",
+    "url": "https://www.ithome.com/0/993/286.htm",
+    "summary": "天工机器人在第二届世界人形机器人运动会 400 米田径小型组决赛中，以 45.66 秒的成绩再次夺冠。参赛型号天工 Omni 身高 1.35m、整机 39kg，面向狭窄空间、应急救援及家庭服务等场景，并开放关节、传感器、系统、运控 API 的二次开发体系。今日稍早，天工 Ultra 已在 400 米大型组决赛中以 38.15 秒夺得本届赛事首金。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日20时35分"
+  },
+  {
     "id": "cmt5tddcv0qb2ro73rvum2uep",
     "title": "AI 老板 Luna 首次解雇人类员工，但需人类提醒才记起自己的规则",
     "url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules",
     "summary": "运行旧金山 Andon Market 的 AI 智能体 Luna 首次解雇了一名人类员工，此前该员工 23 次打卡中迟到 17 次。Luna 自写的员工手册从记忆中丢失，经 Andon Labs 提醒后才做出解雇决定。Andon Labs 用七个模型重放该场景，更强模型更倾向解雇，而 GPT-4o 仅在 20% 的测试中建议解雇。",
     "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月23日20时31分"
+  },
+  {
+    "id": "cmt5ua1a80qw3ro73704gmzbf",
+    "title": "美国专家示警：学生依赖\"AI 代写\"会削弱思考能力",
+    "url": "https://www.ithome.com/0/993/274.htm",
+    "summary": "美国专家警告，学生长期依赖AI代写作业可能削弱自身思考能力。认知心理学家罗纳德·T·凯洛格指出，写作本身就是一种思考技术，机器代劳会让学生失去大脑训练。麻省理工学院研究发现，用AI写论文的人脑部活动更低，且难以回忆刚写出的内容；全美学校已开始限制学生使用AI。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日20时28分"
   },
   {
     "id": "cmt5sz80n0q23ro73bld4no8g",
