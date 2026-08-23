@@ -13848,12 +13848,52 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt6fheup177nro73mewak244",
+    "title": "Vercel AI Gateway开放权重占比升至62%",
+    "url": "https://x.com/rohanpaul_ai/status/2091663847744811008",
+    "summary": "封闭模型已成为较小的一部分。\n\n开放权重模型在Vercel AI Gateway的token占比于8月达到62%，高于6月的28.4%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日7时8分"
+  },
+  {
+    "id": "cmt6fheup177oro73svda00ff",
+    "title": "主动推理让AI智能体按需获取上下文",
+    "url": "https://x.com/rohanpaul_ai/status/2091662518921883836",
+    "summary": "一篇论文提出用主动推理让AI智能体显式决策每次澄清、检索或工具调用是否值得其token与延迟成本。受控测试中，定向澄清将验证器合规率从0.0417提升至0.375，平均token使用从约112增至219。建议为智能体增加显式上下文获取层，而非将其视为自动行为。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日7时3分"
+  },
+  {
+    "id": "cmt6fppq117a5ro73hs4z1e5h",
+    "title": "Twitch 因使用主播内容训练亚马逊 AI 面临集体诉讼",
+    "url": "https://www.ithome.com/0/993/326.htm",
+    "summary": "Twitch 及其母公司亚马逊因未经同意使用主播内容训练生成式 AI 模型而面临集体诉讼。原告 Warren Pandiscia 在加州北区法院提交 37 页诉状，指控平台违反默示协议及州不公平竞争法。Twitch 于 8 月 12 日承认使用直播、剪辑、聊天记录和照片训练亚马逊 AI，且退出选项不具追溯力、与频道而非账号绑定。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日7时19分"
+  },
+  {
+    "id": "cmt6fheuy177rro73mb52om9e",
+    "title": "反AI内容获利与隐秘资金引关注",
+    "url": "https://x.com/SemiAnalysis_/status/2091661896642642218",
+    "summary": "对即将加入OpenAI的团队成员，有什么关于如何最好地与俄亥俄州社区互动的建议吗？@TaylorLorenz",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月24日7时0分"
+  },
+  {
     "id": "cmt6dc8bf15saro732s43pn05",
     "title": "Grok Build 让用户用手势实时操控视觉",
     "url": "https://x.com/cb_doge/status/2091648818362359907",
     "summary": "Grok Build 太不可思议了 🔥\n\n我刚刚构建了这个可以用双手控制的交互式视觉画面。我的笔记本电脑摄像头追踪我的手掌动作，让我能实时改变视觉效果。\n\nGrok Build 正在改变每个人能创造的东西。",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月24日6时8分"
+  },
+  {
+    "id": "cmt6fheub177lro73stvrh7te",
+    "title": "开源AI在Vercel的token份额两月升至62%",
+    "url": "https://x.com/kimmonismus/status/2091659039562219818",
+    "summary": "开源AI在Vercel平台上的token份额两个月内从28%飙升至62%，正从OpenAI和Anthropic手中夺取份额。FT报道称Fable 5因成本过高使用量下滑，而开源模型性价比持续提升。作者认为用户对本地自主控制AI的需求日益增长，开源推理成本与前沿模型相当，并非\"免费\"。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月24日6时49分"
   },
   {
     "id": "cmt6dc8c515sgro73dkxpmhq2",
