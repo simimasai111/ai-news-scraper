@@ -14240,6 +14240,46 @@
     "date": "2026年8月23日23时7分"
   },
   {
+    "id": "cmt5z9q9l0us3ro73m7gw6q18",
+    "title": "Sam Altman 访谈：AI 风险与小企业繁荣",
+    "url": "https://x.com/dongxi_nlp/status/2091551572559818829",
+    "summary": "OpenAI CEO Sam Altman 在访谈中探讨 AI 两大风险：失控与权力集中，并预测将迎来小企业繁荣。他谈及 AI 采用缓慢、模型与算力规模定律，以及 OpenAI 无客户、无产品、无剧本的创业历程。访谈还涉及迭代部署、上下文记忆与未来人机协作方式。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月23日23时42分"
+  },
+  {
+    "id": "cmt5zsrzu0v61ro73hihkbxbh",
+    "title": "前沿AI公司迎来更多坏消息：更便宜的工具正在崛起",
+    "url": "https://garymarcus.substack.com/p/breaking-more-bad-news-for-the-frontier",
+    "summary": "更便宜的工具正在蓬勃发展，这对即将进行的IPO意味着什么？文章指出，低成本AI工具的兴起正在给前沿AI公司带来压力，可能影响其市场估值和上市前景。这一趋势表明，行业竞争格局正在向性价比方向倾斜，高价前沿模型的商业可持续性面临挑战。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月23日23时39分"
+  },
+  {
+    "id": "cmt5zer8q0uvfro73it37ymdr",
+    "title": "Google DeepMind 推免训练递归架构新论文",
+    "url": "https://x.com/omarsar0/status/2091548272968245466",
+    "summary": "Google DeepMind 提出一种免训练方法，通过让模型自身指导架构修改来进化模型架构，或可启发更稳健的递归自我改进。该方法在推理时引入\"再循环\"机制，将激活反馈回模型自身，无需重新训练即可追踪信念状态，生成成本保持平稳。在 Gemma3 系列上，自适应变体将困惑度降低 23%，GSM8k 准确率提升 21%，且原始权重冻结。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月23日23时29分"
+  },
+  {
+    "id": "cmt5zer9b0uvjro73de75mo3f",
+    "title": "微软 SocialRL 让 4B 模型谈判胜过 GPT-4.1",
+    "url": "https://x.com/rohanpaul_ai/status/2091547762898690225",
+    "summary": "微软新论文发现，AI 智能体因被训练得过于顺从，替用户谈判时通常会吃亏，甚至会泄露预算并在对方施压时让步。为此提出 SocialRL 训练方法，让模型在六个谈判与调度游戏中以交易结果为导向学习。一个 4B 模型在全部游戏中平均得分 0.627，追平 GPT-4.1 的 0.625，但仅靠提示词反而会恶化表现。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日23时27分"
+  },
+  {
+    "id": "cmt5zer940uvhro7335dvw9nk",
+    "title": "Ox Alpha 在 DGX Spark 上运行的畅想",
+    "url": "https://x.com/kimmonismus/status/2091546117825560907",
+    "summary": "想象一下 Ox Alpha 在 DGX Spark 上运行的样子。人总得有点梦想，对吧？",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月23日23时20分"
+  },
+  {
     "id": "cmt5ykde90u4wro73tv1lohvu",
     "title": "联影医疗、天津大学发布全球首个磁共振脑机接口全栈式解决方案 uMR 神观",
     "url": "https://www.ithome.com/0/993/315.htm",
@@ -14262,6 +14302,14 @@
     "summary": "用受版权保护的书籍训练AI模型是否合法，美国法律尚无定论。法官William Alsup裁定Anthropic因从非法影子图书馆获取书籍而需支付15亿美元和解金，但认定其AI训练本身合法，类比为\"阅读\"而非\"复制\"。现行版权法自1976年未更新，案件多围绕\"合理使用\"展开，Thomson Reuters诉Ross Intelligence案则因直接竞争用途被判不构成合理使用。",
     "source": "TechCrunch：AI（RSS）",
     "date": "2026年8月23日23时0分"
+  },
+  {
+    "id": "cmt5zdbuo0utvro73uuwqpbvq",
+    "title": "17岁少年独立预训练模型论文被ICML收录",
+    "url": "https://x.com/zhang_benita/status/2091538456942149780",
+    "summary": "Jonathan 在 17 岁时独立预训练了模型，他的论文已被 ICML 接收。这是一期非常可爱的短播客，打开了一扇了解高中生 AI 世界的窗户。感觉非常温暖和触动人心：） https://youtu.be/UTDalAEU274?si=4oyGf6YGoJlI1Mcr",
+    "source": "X：張小珺 Xiaojùn (@zhang_benita)",
+    "date": "2026年8月23日22时50分"
   },
   {
     "id": "cmt5x9j9p0t9iro73fitap313",
