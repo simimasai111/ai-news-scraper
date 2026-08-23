@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt6b72uz13qpro732tvg1sfm",
+    "title": "Hugging Face 或超 130 亿美元出售",
+    "url": "https://x.com/rohanpaul_ai/status/2091635718007464352",
+    "summary": "Hugging Face 正探索以超 130 亿美元价格出售，约为其 2023 年 45 亿美元估值的近 3 倍。该平台现托管超 200 万模型、150 万数据集和 150 万 AI 应用，其协调层在模型碎片化趋势下难以替代。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日5时16分"
+  },
+  {
+    "id": "cmt6b72v713qrro73uzel0wgo",
+    "title": "实测Claude与OpenAI高价套餐收益",
+    "url": "https://x.com/SemiAnalysis_/status/2091631658973671900",
+    "summary": "我们测试了Anthropic每月200美元的Claude套餐，其最高可产生每月8000美元💰️💰️的收益，而OpenAI每月200美元的套餐，若在长周期任务中耗尽全部每周限额，则可产生价值高达每月14000美元的token。该测试于6月进行。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月24日5时0分"
+  },
+  {
+    "id": "cmt6b72ur13qnro73th6fj44v",
+    "title": "对抗式评审：三个智能体胜过五个",
+    "url": "https://x.com/omarsar0/status/2091631620025647184",
+    "summary": "新研究提出对抗式评审（Adversarial Review）多智能体代码审查方法，用主编码智能体、评审智能体和批评智能体三个角色替代盲目堆叠智能体。在LiveCodeBench上，三智能体方案超越五智能体基线；在SWE-PRBench上，显式要求分歧可恢复最高F1分数，而合作式评审仅在分歧小且有证据支撑时有效。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月24日5时0分"
+  },
+  {
     "id": "cmt6a4ht0132gro73s6fpnn7m",
     "title": "Perplexity 开发新粒度努力程度选择器",
     "url": "https://x.com/testingcatalog/status/2091626197490798616",
