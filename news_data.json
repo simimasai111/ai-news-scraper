@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt69d50h12f1ro73t74dx3mo",
+    "title": "神秘\"隐身模型\"Ox Alpha 背后是谁？",
+    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha",
+    "summary": "名为 Ox Alpha 的神秘新 AI 模型在 OpenRouter 上线，被描述为面向编程、持续智能体工作和生产负载的推理模型，Stripe CEO Patrick Collison 称其\"非常出色\"。该模型由匿名第三方提供，引发关于其背后开发者的广泛猜测，焦点集中在中国的 Z.ai（GLM 模型）或微软未发布的 MAI 版本上。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月24日4时1分"
+  },
+  {
     "id": "cmt68hsxx1202ro73vgwjsp2d",
     "title": "引用 Drew Breunig：AI 智能体不眠不休，Teleport 以隔离临时可信运行时保障安全部署",
     "url": "https://simonwillison.net/2026/Aug/23/drew-breunig",
