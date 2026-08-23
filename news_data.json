@@ -14280,12 +14280,44 @@
     "date": "2026年8月23日1时0分"
   },
   {
+    "id": "cmt5jk5id0h4cro7376qizpew",
+    "title": "英伟达砸 60 亿美元投资 Poolside，意图打造中国开源 AI 竞争对手",
+    "url": "https://www.ithome.com/0/993/226.htm",
+    "summary": "英伟达同意向 AI 初创企业 Poolside 支付 60 亿美元换取其 AI 模型软件授权，并向其 109 名员工提供工作机会，旨在开发一款能与 DeepSeek 和 Kimi K3 竞争的模型。英伟达还将追加投资 10 亿美元，对应 Poolside 120 亿美元估值；此次为非独家授权，Poolside 将保持独立运营。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日16时5分"
+  },
+  {
+    "id": "cmt5kekjz0hxnro732jyr7xg6",
+    "title": "Codex 额度将重置，OpenAI 社区协作引热议",
+    "url": "https://x.com/kimmonismus/status/2091443177571979651",
+    "summary": "OpenAI Codex 额度因长会话图像处理低效、Computer History 使用量异常高及资源密集的对话标题功能而加速耗尽，官方确认将于明日 PST 14 点左右重置。作者称赞 OpenAI 与 @thsottiaux 的社区协作，并希望 Anthropic 能从中学习。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月23日16时31分"
+  },
+  {
     "id": "cmt5jc0xj0h0xro73c3il0taj",
     "title": "英伟达60亿美元打造最强开源AI模型",
     "url": "https://x.com/kimmonismus/status/2091439473603035444",
     "summary": "英伟达据报将投入60亿美元打造全球最强大的开源权重AI模型，并计划授权Poolside技术、吸纳其超100名员工加入Nemotron项目。英伟达还将以120亿美元投前估值向Poolside追加投资10亿美元。此举旨在挑战DeepSeek、Kimi等中国开源模型，并与OpenAI、Anthropic等美国前沿实验室直接竞争。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月23日16时16分"
+  },
+  {
+    "id": "cmt5jk5id0h4aro73icm34gaj",
+    "title": "38.15s 跑完 400 米再破人类纪录：北京人形天工 Ultra 夺得人形机器人运动会首金",
+    "url": "https://www.ithome.com/0/993/228.htm",
+    "summary": "天工队以 38.15 秒夺得第二届世界人形机器人运动会 400 米大型组决赛冠军，拿下本届首金。天工 Ultra 昨晚预赛已跑出 39.70 秒打破人类 400 米纪录（43.03 秒），昨日百米预赛又以 9.39 秒率先冲线，打破博尔特 9.58 秒的人类百米世界纪录。该机器人身高 180cm、体重 52kg，具备带视觉感知的泛化移动能力，可应对斜坡、楼梯、碎石等复杂地形。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日16时16分"
+  },
+  {
+    "id": "cmt5jq11w0h6zro73hc9ue2nc",
+    "title": "内存短缺据报推动英伟达AI服务器价格涨约15%",
+    "url": "https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent",
+    "summary": "彭博社报道，受内存短缺影响，搭载英伟达AI芯片的服务器价格在许多情况下将上涨超15%，波及Vera Rubin和Grace Blackwell系统。涨价主因是三星、SK海力士和美光的DRAM成本上升，适用于明年初发货的产品。为微软、谷歌和甲骨文代工的服务器制造商已通知客户，英伟达未予置评。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月23日16时15分"
   },
   {
     "id": "cmt5infsp0gixro73q2kluypy",
