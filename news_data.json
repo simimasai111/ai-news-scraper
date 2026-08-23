@@ -14224,6 +14224,14 @@
     "date": "2026年8月23日2时23分"
   },
   {
+    "id": "cmt5rwnny0p86ro73v4xseh8m",
+    "title": "用户批评Opus 5懒惰冗长，Anthropic回应失当",
+    "url": "https://x.com/kimmonismus/status/2091499987297255734",
+    "summary": "Kim 批评 Anthropic 对 Opus 5 用户反馈的回应方式，称其将问题归咎于用户未理解正确用例，而非认真对待。用户普遍反映 Opus 5 懒惰、草率且冗长，与 Kim 自身体验一致。此前 Boris Cherny 曾建议用 Opus 做 hill climbing 优化任务，但 Kim 认为此类回应回避了核心问题。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月23日20时17分"
+  },
+  {
     "id": "cmt4nh7ig1pltro6tr1lsvdtb",
     "title": "MCP 发布新路线图：聚焦智能体消息原语、HTTP 原生传输与企业级安全",
     "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
@@ -14278,6 +14286,14 @@
     "summary": "评估LLM推理的一个有用指标是tok/s/MW：系统每消耗一兆瓦总配置功率，每秒能生成多少token。\n\n在单并发用户下，下方B300配置在DeepSeek V4上每GPU可生成约14个输出tok/s。SemiAnalysis数据中心行业模型估算每块B300的配置功率为1.9 kW（0.0019 MW）。\n\n14 tok/s ÷ 0.0019 MW = 7，368 tok/s/MW\n\n即每配置兆瓦约7，400个输出tok/s。（1/4）🧵",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年8月23日1时0分"
+  },
+  {
+    "id": "cmt5rwnoa0p88ro73ef8rsxtd",
+    "title": "多智能体协作研究：8个智能体时任务全失败",
+    "url": "https://x.com/rohanpaul_ai/status/2091493725637857664",
+    "summary": "一项对1，902次AI编码智能体运行的研究发现，任务在2个和4个智能体时10次通过9次，但在8个智能体时全部失败。失败源于一个关于取整的规则落在两个智能体之间的决策空隙中，无人负责。研究提醒，添加智能体前应明确哪些决策会被推入协作间隙。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日19时52分"
   },
   {
     "id": "cmt5pzn8n0lz3ro7346e47mof",
