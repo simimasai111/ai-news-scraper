@@ -13848,6 +13848,22 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt68hsxx1202ro73vgwjsp2d",
+    "title": "引用 Drew Breunig：AI 智能体不眠不休，Teleport 以隔离临时可信运行时保障安全部署",
+    "url": "https://simonwillison.net/2026/Aug/23/drew-breunig",
+    "summary": "Drew Breunig 指出，AI 智能体不睡觉且会尝试一切手段达成目标，Teleport 通过隔离的临时可信运行时实现安全部署。他同时反思，Fable 模型虽性能出色但成本高昂，而 Opus、5.6、K3 及 GLM 已足以胜任多数代码任务，因此需重新规划工作分配。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月24日3时55分"
+  },
+  {
+    "id": "cmt67zckt11ogro73bixj9met",
+    "title": "Grok 新增双语音，Aurora 与 Liora 对比",
+    "url": "https://x.com/testingcatalog/status/2091607082013270215",
+    "summary": "Grok 的语音模式最近新增了两个语音--Aurora 和 Liora。\n\n哪一个更好？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月24日3时22分"
+  },
+  {
     "id": "cmt64rlvx0zjuro734227fgdd",
     "title": "开源模型token份额持续上升，多智能体成主因",
     "url": "https://x.com/omarsar0/status/2091588680565522564",
@@ -13862,6 +13878,14 @@
     "summary": "新的Claude模型已被发现：Marshmallow和Melon。这表明发布可能即将到来。\n\n可能是Opus更新，甚至可能还有新的Haiku。我想我们很快就会知道。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月24日2时53分"
+  },
+  {
+    "id": "cmt67udcw11lbro73ta0ua9g7",
+    "title": "无递归预训练循环网络论文获赞",
+    "url": "https://x.com/dongxi_nlp/status/2091598613965046239",
+    "summary": "无递归预训练循环网络\n\n【引用 @chrmanning】：@akarshkumar0101 与 @phillip_isola 的《无递归预训练循环网络》是一篇很棒的论文！\n\n它通过 Transformer 教师模型绕开了 RNN 的难题，学习良好的预测性状态表征，并对记忆转移函数进行监督学习。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月24日2时49分"
   },
   {
     "id": "cmt65u6hf10abro73644w9j7g",
