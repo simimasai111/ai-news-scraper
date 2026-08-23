@@ -13848,6 +13848,38 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt6439ul0y4uro73nl0aecd4",
+    "title": "Harvey 推出基于 Kimi K3 的后训练模型 Harvey Tenet",
+    "url": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model",
+    "summary": "Harvey 发布其首个后训练模型 Tenet 研究预览版，基于 Kimi K3 基座，针对长时程法律工作训练。相比基座，Tenet 在 LAB 上完成近两倍保留任务，在 LAB： Contracts 上多 20%，全通过率分别提升 9 和 2 个百分点。目前未公开权重或 API，仅限企业通过 Harvey 平台使用。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月24日1时51分"
+  },
+  {
+    "id": "cmt64dudr0zc9ro73j564ac8b",
+    "title": "2026年企业将重视模型效率与可靠性",
+    "url": "https://x.com/thsottiaux/status/2091581575108653374",
+    "summary": "2026年，随着模型成为关键基础设施，企业将开始认真关注模型效率和可靠性。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月24日1时41分"
+  },
+  {
+    "id": "cmt63p1730xvzro73356f9c21",
+    "title": "DeepSeek 周末 API 将取消峰谷定价",
+    "url": "https://x.com/kimmonismus/status/2091578220084691058",
+    "summary": "快速提醒：DeepSeek 将从 8 月 23 日起，在周末不再区分 API 高峰与低谷定价。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月24日1时28分"
+  },
+  {
+    "id": "cmt63p17a0xw1ro734btlqs9f",
+    "title": "Grok Imagine 更新发现页，可探索测试新功能",
+    "url": "https://x.com/testingcatalog/status/2091577642340278360",
+    "summary": "Grok Imagine 更新了发现页面。用户可以探索和测试照片编辑、图像调整大小等不同功能！",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月24日1时25分"
+  },
+  {
     "id": "cmt63157v0xajro73k1wo4qbt",
     "title": "游戏PC本地运行大模型速度三年提升12倍",
     "url": "https://x.com/Yuchenj_UW/status/2091577203335307450",
@@ -13886,6 +13918,14 @@
     "summary": "它们在那条轨道上看起来完全如鱼得水。\n\n重量不到 20 公斤，高度适合登机箱，这些 Booster K1 非常便携。更小的体积和更轻的质量使其在人群周围更安全。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月24日0时53分"
+  },
+  {
+    "id": "cmt63nmbq0xucro73istaccar",
+    "title": "Grok 支持多语言，征求翻译反馈",
+    "url": "https://x.com/poteto/status/2091567946481164651",
+    "summary": "你知道吗，grok @bot 支持多种语言？如果任何翻译看起来奇怪，请告诉我，以及我们接下来应该添加哪些语言！",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年8月24日0时47分"
   },
   {
     "id": "cmt61jw490wewro730vp6it8q",
