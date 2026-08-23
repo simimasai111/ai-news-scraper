@@ -14240,6 +14240,22 @@
     "date": "2026年8月23日21时31分"
   },
   {
+    "id": "cmt5vfho50rt1ro73ogjss1k9",
+    "title": "pgrust 如何用 AI 在 5 微秒内完成代码的 JIT 编译",
+    "url": "https://malisper.me/jit-compiling-code-in-5-us",
+    "summary": "pgrust 的 JIT 编译器可在约 5μs 内完成代码编译，使其能够对每条 SQL 查询进行 JIT 编译，而非仅限子集。作者表示，借助 AI 辅助直接生成汇编代码，实现快速 JIT 编译比预期容易得多，这也是 pgrust 性能出色的原因之一。文章以构建一个支持字面量和重复（*）的简易正则表达式引擎为例，演示如何实现自己的快速 JIT 编译器。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月23日21时25分"
+  },
+  {
+    "id": "cmt5v4id60rmqro73x7y7kpoy",
+    "title": "北京世界机器人大会：全尺寸人形机器人主打情感陪伴",
+    "url": "https://x.com/rohanpaul_ai/status/2091515864415907996",
+    "summary": "北京世界机器人大会上展出的全尺寸人形机器人，主打情感陪伴与老年人护理，可复现约90%的人类基础动作（坐、躺、拥抱、室内平地行走），并支持超30种复杂微表情。其医用级铂金硅胶仿生皮肤可模拟毛孔、纹理、皮下血管与指纹，全身电子皮肤配备多维触觉传感器，拥有88个自由度，行走速度约4 km/h、最高约5 km/h。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日21时20分"
+  },
+  {
     "id": "cmt5uzewn0rjaro73cfa3zl6o",
     "title": "编码执行工业化下程序员价值的分水岭",
     "url": "https://x.com/hongming731/status/2091511056795611149",
