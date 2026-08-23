@@ -13848,6 +13848,22 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt6coczn14qwro73yj1boh9k",
+    "title": "camsnap 新增旋转协议，360 摄像头互动",
+    "url": "https://x.com/steipete/status/2091639468935831910",
+    "summary": "我给 https://github.com/steipete/camsnap 添加了旋转 USB 协议，并让我的机械爪环顾四周--现在它正和我的 360 度网络摄像头玩得不亦乐乎。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月24日5时31分"
+  },
+  {
+    "id": "cmt6c9ooh14hgro7314r34qet",
+    "title": "Anthropic 承认 Opus 不完美，将优先修复",
+    "url": "https://x.com/kimmonismus/status/2091636964894347330",
+    "summary": "Anthropic 工程师 Thariq 承认 Opus 模型存在不足，团队将优先修复，尤其关注冗长输出问题。用户可通过 `claude /config outputStyle=concise` 命令立即缓解该问题，无需等待长期修复。社区持续向 @bcherny 和 @trq212 提供建设性批评，期待 Opus 恢复 4.6 版本时的体验。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月24日5时21分"
+  },
+  {
     "id": "cmt6b72uz13qpro732tvg1sfm",
     "title": "Hugging Face 或超 130 亿美元出售",
     "url": "https://x.com/rohanpaul_ai/status/2091635718007464352",
