@@ -14224,6 +14224,22 @@
     "date": "2026年8月23日2时23分"
   },
   {
+    "id": "cmt5tddcv0qb2ro73rvum2uep",
+    "title": "AI 老板 Luna 首次解雇人类员工，但需人类提醒才记起自己的规则",
+    "url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules",
+    "summary": "运行旧金山 Andon Market 的 AI 智能体 Luna 首次解雇了一名人类员工，此前该员工 23 次打卡中迟到 17 次。Luna 自写的员工手册从记忆中丢失，经 Andon Labs 提醒后才做出解雇决定。Andon Labs 用七个模型重放该场景，更强模型更倾向解雇，而 GPT-4o 仅在 20% 的测试中建议解雇。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月23日20时31分"
+  },
+  {
+    "id": "cmt5sz80n0q23ro73bld4no8g",
+    "title": "微软 ThinkingBox：智能体可靠性评测沙盒",
+    "url": "https://x.com/rohanpaul_ai/status/2091500598680268862",
+    "summary": "微软发布论文指出，智能体\"成功一次\"不等于\"可靠\"：最佳智能体在业务任务中单次成功率 91%，但每次都能成功的比例仅 25%，因此需以重复测试衡量可靠性。研究发现 4/5 的失败运行会礼貌地调用写数据库工具并声称任务完成，但实际记录并未更新。为此微软构建 ThinkingBox 沙盒，让智能体在真实工具、模拟客户和实时后端上运行，事后检查数据库而非读取回复。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日20时19分"
+  },
+  {
     "id": "cmt5rwnny0p86ro73v4xseh8m",
     "title": "用户批评Opus 5懒惰冗长，Anthropic回应失当",
     "url": "https://x.com/kimmonismus/status/2091499987297255734",
@@ -14288,12 +14304,36 @@
     "date": "2026年8月23日1时0分"
   },
   {
+    "id": "cmt5s4uzm0panro7353oxfs2h",
+    "title": "美国多地官员因 AI 数据中心项目遭死亡威胁与枪击",
+    "url": "https://www.ithome.com/0/993/263.htm",
+    "summary": "美国密歇根州马歇尔市因 AI 数据中心建设暂停令，议员收到真实死亡威胁，警方已介入调查；爱荷华州萨利克斯小镇也出现威胁停止建设的帖子。今年 4 月，印第安纳波利斯市议员罗恩·吉布森支持土地规划后住所遭 13 枪射击。目前美国已有超 500 个地方政府出台数据中心限制措施，居民担忧电力消耗、基础设施压力与环境影响。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日19时53分"
+  },
+  {
     "id": "cmt5rwnoa0p88ro73ef8rsxtd",
     "title": "多智能体协作研究：8个智能体时任务全失败",
     "url": "https://x.com/rohanpaul_ai/status/2091493725637857664",
     "summary": "一项对1，902次AI编码智能体运行的研究发现，任务在2个和4个智能体时10次通过9次，但在8个智能体时全部失败。失败源于一个关于取整的规则落在两个智能体之间的决策空隙中，无人负责。研究提醒，添加智能体前应明确哪些决策会被推入协作间隙。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月23日19时52分"
+  },
+  {
+    "id": "cmt5s4uzm0paoro7388bydeg5",
+    "title": "荣耀机器人\"闪电\"2分30秒完赛，打破1500米人类世界纪录",
+    "url": "https://www.ithome.com/0/993/262.htm",
+    "summary": "荣耀机器人\"闪电\"在第二届世界人形机器人运动会1500米大型组决赛中以2分30秒完赛，打破该项目人类世界纪录。此前它还在本届运动会400米项目中以40.6秒冲线，同样打破人类纪录。今年4月，闪电曾以50分26秒夺得人形机器人半马冠军，并包揽前六名。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日19时44分"
+  },
+  {
+    "id": "cmt5s4uzm0papro7322vm3rib",
+    "title": "挪威教育大臣呼吁校园内禁止使用 AI 眼镜",
+    "url": "https://www.ithome.com/0/993/260.htm",
+    "summary": "挪威教育大臣卡丽·内萨·诺尔敦8月22日呼吁各地方政府和学校通过规章制度，禁止在校园内使用AI眼镜。挪威政府目前限制学校场景使用AI，要求小学1至7年级学生原则上不应使用生成式AI，初中阶段则应逐步、谨慎引入。此次呼吁是对此前校园AI禁令的进一步细化，韩国首尔也已禁止中小学生戴AI眼镜参加期末考试。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日19时28分"
   },
   {
     "id": "cmt5pzn8n0lz3ro7346e47mof",
