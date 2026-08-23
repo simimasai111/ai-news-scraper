@@ -14280,6 +14280,30 @@
     "date": "2026年8月23日1时0分"
   },
   {
+    "id": "cmt5pzn8n0lz3ro7346e47mof",
+    "title": "诺亦腾机器人发布 HiPHI，开源 617.5 小时高精度人体运动数据",
+    "url": "https://www.ithome.com/0/993/258.htm",
+    "summary": "诺亦腾机器人在 2026 世界机器人大会期间发布高精度光学动作捕捉数据集 HiPHI，总长 617.5 小时，含 371.8 小时全身运动数据与 245.7 小时人-物交互数据，数据来自 132 名动捕演员，以 90 Hz 频率、亚毫米级精度采集。该数据集已在 Hugging Face 公开上线，基于 HiPHI 训练的模型已在宇树 G1 人形机器人上实现跑步、坐下、爬行、搬运箱子等动作。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日19时18分"
+  },
+  {
+    "id": "cmt5prh8b0lwnro73qumiqbqv",
+    "title": "美国AI数据中心争议升级：官员遭死亡威胁",
+    "url": "https://x.com/rohanpaul_ai/status/2091483754414182549",
+    "summary": "美国AI数据中心建设争议激化，地方官员因决策收到死亡威胁，堪萨斯州Emporia和伊利诺伊州Grayslake被迫调整会议安排以保安全。截至8月初，全美活跃的地方性数据中心禁令超500项，较6月底的300余项大幅增加。共和党参议院竞选机构私下警告，公众对数据中心的不满正威胁其保住俄亥俄州席位的选情，并可能演变为全国性AI基础设施制约。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日19时12分"
+  },
+  {
+    "id": "cmt5pzn8n0lz4ro734ffm09fi",
+    "title": "因预约人数远超预期，《莱莎的炼金工房》衍生 AI 聊天游戏延期上线",
+    "url": "https://www.ithome.com/0/993/257.htm",
+    "summary": "由光荣特库摩授权、SpiralAI 开发的 AI 聊天游戏《RyzaChat》延期上线，原定 8 月 18 日开服，因预约人数远超预期，官方决定加强服务器环境，目标下周开服。游戏以《莱莎的炼金工房》为世界观，玩家通过与莱莎聊天推进战斗、旅行和建设。莱莎插画由人工绘制，语音采用野口百合录制素材并经语音合成，文本由 SpiralLLM 生成。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日18时56分"
+  },
+  {
     "id": "cmt5p30800leyro73zkt5jfas",
     "title": "FreeToken：单工作站 GPU 运行 753B GLM-5.2 的边缘原生 MoE 推理引擎",
     "url": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu",
