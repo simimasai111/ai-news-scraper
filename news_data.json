@@ -13848,6 +13848,30 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt6a4ht0132gro73s6fpnn7m",
+    "title": "Perplexity 开发新粒度努力程度选择器",
+    "url": "https://x.com/testingcatalog/status/2091626197490798616",
+    "summary": "Perplexity 正在为 Perplexity Computer 开发一个新的粒度化努力程度选择器。\n\n能够在低努力程度下运行 Computer，应该会对积分消耗产生积极影响。\n\n这看起来似曾相识👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月24日4时38分"
+  },
+  {
+    "id": "cmt6a4hst132ero733g8yfe7n",
+    "title": "MerchantBench：评测 LLM 智能体长期经营连贯性",
+    "url": "https://x.com/rohanpaul_ai/status/2091624630830473490",
+    "summary": "MerchantBench 让 LLM 智能体模拟经营网店一整年，涵盖选品、定价与现金流管理，并额外追踪智能体是否持续行动。最佳智能体全年营收仅约为人类水平的四分之一，且常以\"沉默\"方式达成，提示最终高分可能掩盖数月前就已停止运作的智能体。该基准强调按窗口记录行动频率并观察曲线，以识别长期连贯性缺陷。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日4时32分"
+  },
+  {
+    "id": "cmt6amywi13e0ro73ppqspmhu",
+    "title": "Anthropic 最强 AI 模型 Fable 5 用户增长乏力，更便宜工具更受青睐",
+    "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+    "summary": "Anthropic 7 月年化收入达 650 亿美元，高于 5 月的 470 亿美元，并预计 Q3 实现盈利。Ramp AI 指数显示，7 月 Anthropic 模型支出中 Opus 4.8 占 28.0%，而 7 月 24 日发布的旗舰模型 Fable 5 仅占 3.5%，其高昂成本使其吸引力不及更便宜的模型。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月24日4时24分"
+  },
+  {
     "id": "cmt69d50h12f1ro73t74dx3mo",
     "title": "神秘\"隐身模型\"Ox Alpha 背后是谁？",
     "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha",
