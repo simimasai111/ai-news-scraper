@@ -14280,6 +14280,46 @@
     "date": "2026年8月23日1时0分"
   },
   {
+    "id": "cmt5o0ek80kgkro73qhimi4i4",
+    "title": "AI 正成为 AI 最大客户：OpenRouter 上智能体 token 用量激增 14 倍",
+    "url": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter",
+    "summary": "OpenRouter 分析师 Peter Walker 称，2026 年 2 月 6 日可能是人类消耗 token 量最后一次超过 AI 智能体。此后智能体 token 用量增长 14 倍，从 0.51 万亿增至 7.3 万亿，而人类用量仅增长 2.8 倍。近 70% 的智能体 token 消耗来自缓存提示词，计费费率更低，实际成本增速低于原始数字。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月23日18时2分"
+  },
+  {
+    "id": "cmt5nuibo0kdtro73l3wfq1lu",
+    "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+    "url": "https://www.ithome.com/0/993/248.htm",
+    "summary": "橡鹿机器人在2026世界机器人大会首发三款新品：多模态烹饪AI基座CookingMuse厨启、3K视觉AI炒菜机器人和具身烹饪机器人\"现炒方舟\"。3K配备三颗4000万像素工业相机，以30 FPS捕捉锅内画面，由AI大模型实时判断食材状态并毫秒级调整加热功率与炒制时长。现炒方舟是可移动微型无人后厨，跑通净菜储存、烹饪、出餐、油烟处理到设备自清洁的全流程无人化闭环。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日18时1分"
+  },
+  {
+    "id": "cmt5nxceo0kexro73znivpib1",
+    "title": "NanoGPT 速通前沿：Fable 5 以 81.7% 通过率登顶",
+    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+    "summary": "NanoGPT 速通榜单显示，Fable 5 在 2，726 秒内以 81.7% 的通过率位居第一，超越人类基线 2，600 秒。Opus 5 和 Kimi K3 分别以 53.6% 和 52.2% 的通过率位列二、三名。榜单涵盖 GPT-5.6、Grok 4.5、Qwen3.8 Max 等 20 款模型，并开放 41 条完整智能体轨迹供探索。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月23日18时13分"
+  },
+  {
+    "id": "cmt5nmbsf0kbfro73yodwxzzy",
+    "title": "Anthropic Fable 5 因价高失势于开源模型",
+    "url": "https://x.com/kimmonismus/status/2091463220359741709",
+    "summary": "对他们来说情况不妙：Anthropic 的 Fable 5 正在输给更便宜的开源模型：\n\n据英国《金融时报》报道，Anthropic 最强大的模型仅占 Ramp 平台上企业 AI 支出的 11%。\n\n原因很简单：Fable 5 太贵了，而更便宜的模型对大多数任务来说已经足够好。\n\n时机也不太好，围绕 Anthropic 的市场情绪本就在恶化。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月23日17时51分"
+  },
+  {
+    "id": "cmt5nuibo0kduro73ol0jzxlg",
+    "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
+    "url": "https://www.ithome.com/0/993/242.htm",
+    "summary": "微软计划在英国利兹斯凯尔顿农庄建设的超大规模 AI 数据中心园区遭当地居民反对，请愿已收集 4 万个签名。该项目含 3 栋建筑、总建筑面积 4.65 万平方米，利兹规划委员会仅条件性批准，最终需首席规划官签字。居民担忧 29°C 时运营耗水量大及额外电力需求推高本已高昂的能源价格。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日17时49分"
+  },
+  {
     "id": "cmt5lpctp0isbro73wxajstjx",
     "title": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹",
     "url": "https://www.ithome.com/0/993/234.htm",
