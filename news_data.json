@@ -13848,6 +13848,38 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt64rlvx0zjuro734227fgdd",
+    "title": "开源模型token份额持续上升，多智能体成主因",
+    "url": "https://x.com/omarsar0/status/2091588680565522564",
+    "summary": "开源AI的token份额正持续上升，近两月已从28%增至62%，正从OpenAI和Anthropic手中夺取份额。Elvis Saravia认为，监督者主导多执行子智能体的模式正被广泛采用，子智能体消耗大量token，而开源前沿模型在价格和效率上更具优势。他预测最终闭源前沿模型将占60-90%的经济价值，但仅占15-25%的token量。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月24日2时9分"
+  },
+  {
+    "id": "cmt65u6hf10abro73644w9j7g",
+    "title": "AI 智能\"桶\"价格战：从 26 美元到 0.5 美元",
+    "url": "https://x.com/rohanpaul_ai/status/2091595399127880116",
+    "summary": null,
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日2时36分"
+  },
+  {
+    "id": "cmt65l1hb104kro738ffloj40",
+    "title": "Grok Bot 能力惊艳，三个月进步显著",
+    "url": "https://x.com/elonmusk/status/2091591712833753456",
+    "summary": "Grok Bot 可以做到令人惊叹的事情！\n\n三个月后，Grok 的进步令人惊叹，@bot 让它更强大、更易用。\n\n这是使用相同提示词时的保真度：\"解释纳维-斯托克斯方程及其如何通过实际流体动力学模拟与翼型设计相关联。\"",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月24日2时21分"
+  },
+  {
+    "id": "cmt64rlvm0zjsro738pehtsl6",
+    "title": "Grok Imagine 功能发布预告",
+    "url": "https://x.com/cb_doge/status/2091590707920470509",
+    "summary": "Grok Imagine 💫",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月24日2时17分"
+  },
+  {
     "id": "cmt6439ul0y4uro73nl0aecd4",
     "title": "Harvey 推出基于 Kimi K3 的后训练模型 Harvey Tenet",
     "url": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model",
