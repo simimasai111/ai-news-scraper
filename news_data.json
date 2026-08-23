@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt63157v0xajro73k1wo4qbt",
+    "title": "游戏PC本地运行大模型速度三年提升12倍",
+    "url": "https://x.com/Yuchenj_UW/status/2091577203335307450",
+    "summary": "2024年：一台搭载RTX 4090的游戏PC以4-bit量化运行Llama 3 70B，速度约为2 tok/s。\n\n2026年：一台搭载RTX 5090的游戏PC以原生mxfp4格式运行DeepSeek-V4-Flash 284B，速度约为24 tok/s。\n\n预测：到2027年底，一台游戏PC将以可观的速度在本地运行Fable 5级别的智能。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月24日1时23分"
+  },
+  {
     "id": "cmt60haly0vo1ro73p00bk9fk",
     "title": "AI芯片架构全景：RSI或重塑算力格局",
     "url": "https://x.com/omarsar0/status/2091558158439182738",
@@ -13862,6 +13870,22 @@
     "summary": "AutoDesign 系统通过智能体在真实任务上运行、分析失误并自动重写提示词、工具、验证检查或重试规则，实现脚手架自动优化。在论文转会议海报任务中，七个智能体得分提升 5 至 19.6 点，最便宜模型获益最大，并发布 PosterBench 基准。研究表明，弱模型配良好脚手架可弥合与前沿模型的大部分差距，升级模型前应先优化现有代码。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月24日0时5分"
+  },
+  {
+    "id": "cmt62mfnb0x5zro73aukirdu0",
+    "title": "OpenAI 平台战略：Sam Altman 详解定位",
+    "url": "https://x.com/rohanpaul_ai/status/2091571126329917508",
+    "summary": "Sam Altman 在 David Senra 播客中表示，OpenAI 不想只做 AI 应用层，而要成为其他应用公司构建的平台。他称将提供个人或公司的 AGI 统一接口，并通过 API 支持上层开发，同时覆盖成本-性能曲线上从高端科研到廉价大规模任务的全部需求。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日0时59分"
+  },
+  {
+    "id": "cmt62mfnb0x60ro73lngv2n1k",
+    "title": "Booster K1 机器人轻便便携更安全",
+    "url": "https://x.com/rohanpaul_ai/status/2091569455931465764",
+    "summary": "它们在那条轨道上看起来完全如鱼得水。\n\n重量不到 20 公斤，高度适合登机箱，这些 Booster K1 非常便携。更小的体积和更轻的质量使其在人群周围更安全。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日0时53分"
   },
   {
     "id": "cmt61jw490wewro730vp6it8q",
