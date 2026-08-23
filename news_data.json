@@ -14224,6 +14224,54 @@
     "date": "2026年8月23日2时23分"
   },
   {
+    "id": "cmt5w6z5o0sekro73v4hcrikj",
+    "title": "阿里拟募资102亿美元加码AI基建",
+    "url": "https://x.com/rohanpaul_ai/status/2091530183807504538",
+    "summary": "阿里巴巴拟通过配售新股募资102亿美元，为AI基础设施建设提供资金，这将成为港股史上最大规模后续发行。公司上一财年回购股票耗资119亿美元，如今转向发行新股融资，凸显资本优先级的快速转变。凭借通义千问、云基础设施和自研AI芯片，阿里有多条路径从AI需求中获益。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日22时17分"
+  },
+  {
+    "id": "cmt5wf8hm0shgro737h9vww1k",
+    "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+    "url": "https://www.ithome.com/0/993/305.htm",
+    "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日22时13分"
+  },
+  {
+    "id": "cmt5w6z5o0selro7367o1yjr4",
+    "title": "智能体技能常驻成本：50-280 token/技能",
+    "url": "https://x.com/rohanpaul_ai/status/2091525999339139578",
+    "summary": "论文指出，智能体安装技能后其描述会永久占用系统提示词，每个技能带来50至280 token的固定成本。研究认为单个智能体可靠触发技能数不足百个，而当前已发布技能达56，804个。建议仅将少数必须自动触发的技能常驻提示词，其余按需调用。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月23日22时0分"
+  },
+  {
+    "id": "cmt5wi3ir0sjlro73xh505c7l",
+    "title": "Qwen 3.8 27B 仅用 30 分钟完成一项逆向工程任务",
+    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model",
+    "summary": "一位开发者将一项逆向工程任务交给 Qwen 3.8 27B，模型仅用 30 分钟便完成。该案例展示了 Qwen 3.8 27B 在复杂技术任务上的处理效率，相关讨论在 Hacker News 上获得 104 个点赞。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月23日21时57分"
+  },
+  {
+    "id": "cmt5wf8hm0shjro738exk20wk",
+    "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
+    "url": "https://www.ithome.com/0/993/301.htm",
+    "summary": "OpenAI 本周推出面向年轻用户的 ChatGPT 青少年版，通过年龄识别机制限制部分功能。多名儿童安全专家在接受 Engadget 采访时质疑其安全机制透明度，认为自动年龄识别系统的误报率和漏报率未公布，且所有被标记内容由全职员工审核并在一小时内通知家长的承诺缺乏硬数据支撑。专家建议默认开启最严格保护设置，而非依赖家长主动绑定账户。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日21时53分"
+  },
+  {
+    "id": "cmt5w6z5a0sehro73wrjmf095",
+    "title": "Neuralink 与 Neko Health 合作筛选患者",
+    "url": "https://x.com/cb_doge/status/2091523106158653560",
+    "summary": "突发：埃隆·马斯克的 Neuralink 正与 Neko Health 合作，为即将开展的一轮患者招募筛选潜在候选人。\n\n在获得明确同意后，Neuralink 专门的资格调查可利用 Neko 的扫描和医疗数据来简化其筛选流程。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月23日21时49分"
+  },
+  {
     "id": "cmt5v4hs00rmmro736ea3eqvd",
     "title": "Life After Automation",
     "url": "https://every.to/context-window/life-after-automation",
@@ -14232,12 +14280,28 @@
     "date": "2026年8月23日21时48分"
   },
   {
+    "id": "cmt5wf8hm0shmro73bhjw51we",
+    "title": "荣耀自研人形机器人\"闪电\"打破半马、百米等 5 项人类世界纪录",
+    "url": "https://www.ithome.com/0/993/297.htm",
+    "summary": "荣耀官微宣布，旗下自研人形机器人\"闪电\"打破五项人类世界纪录：半马成绩 50 分 26 秒、1500 米 2 分 30 秒、400 米 39.45 秒、100 米 9.32 秒，峰值速度达 14.5 米/秒。该机器人身高 169cm，搭载自研一体化关节模组（峰值扭矩 400 牛米）与液冷散热系统。荣耀机器人研发团队成立约 1 年、规模超 200 人，将聚焦商场、工厂、家庭三大消费场景。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日21时32分"
+  },
+  {
     "id": "cmt5v4icn0rmoro735s2upujj",
     "title": "美司法部支持xAI挑战明州AI图像法",
     "url": "https://x.com/cb_doge/status/2091518667867713935",
     "summary": "新闻：美国司法部支持埃隆·马斯克的xAI对明尼苏达州新AI图像生成法的法律挑战。\n\n司法部表示，该法远超联邦规则，即使成年人同意或创建自己的图像，AI平台也可能受到惩罚。\n\n司法部还警告称，过于宽泛的州法律可能限制受保护的言论、减缓AI发展，并损害美国在AI领域的全球领导地位。",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月23日21时31分"
+  },
+  {
+    "id": "cmt5wf8hm0shnro736rxatoj7",
+    "title": "众擎 CEO 赵同阳：通用人形机器人单台成本已降至十万元以下",
+    "url": "https://www.ithome.com/0/993/296.htm",
+    "summary": "众擎创始人兼 CEO 赵同阳在 2026 年世界机器人大会上表示，可落地作业的通用人形机器人单台成本已从三年前的超百万元降至十万元以下，并强调非千元级玩具类产品。目前国内人形机器人供应链日趋完善，滚珠丝杠单价三年降幅达十倍，减速机等核心零部件价格普遍腰斩；受限于尚未规模化量产，后续成本仍有较大下降空间。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日21时30分"
   },
   {
     "id": "cmt5vfho50rt1ro73ogjss1k9",
