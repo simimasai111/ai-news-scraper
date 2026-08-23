@@ -14280,6 +14280,38 @@
     "date": "2026年8月23日1时0分"
   },
   {
+    "id": "cmt5lpctp0isbro73wxajstjx",
+    "title": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹",
+    "url": "https://www.ithome.com/0/993/234.htm",
+    "summary": "皮尤研究中心研究显示，自 2022 年 11 月 ChatGPT 问世后发布的网页中，35% 存在 AI 创作迹象。该研究基于 Common Crawl 存档中近 50 万个英文网页，利用 Open Pangram 技术检测，其中 2026 年 7 月随机抽取的 1 万个网页样本里约 10% 有明显 AI 痕迹。.com 网站出现 AI 迹象的比例约为 .edu 和 .gov 网站的 10 倍。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日17时2分"
+  },
+  {
+    "id": "cmt5lv8d40ivfro731mfd3xqj",
+    "title": "研究认为AI可能让科学家做得更多但做得更差，而非更少但更好",
+    "url": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues",
+    "summary": "普林斯顿、华盛顿大学等机构的一项理论经济学研究认为，即便大语言模型完美无缺，也可能让科研质量下降而非提升。模型基于最优觅食理论模拟发现，在三种AI介入科研的场景中，两种会导致研究深度下降，因为节省的时间会被用于启动新项目而非深化现有工作。作者指出，LLM提高了时间的机会成本，促使人们\"做得更多、但做得更差\"。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月23日17时1分"
+  },
+  {
+    "id": "cmt5loogv0irsro73uoh8y3mk",
+    "title": "DeepSeek-V4-Flash-Vision 与 OX-Alpha 多模态实测",
+    "url": "https://x.com/karminski3/status/2091454694094971311",
+    "summary": "博主实测 DeepSeek-V4-Flash-Vision-Exp 与 OpenRouter 匿名模型 OX-Alpha 的多模态能力，用 AI 电竞教练框架对 CS2 游戏录像抽帧测试，考察两模型识别战局、分析优劣势并提出改进建议的能力。因 DeepSeek 多模态不支持视频输入，两模型均采用视频抽帧方式公平对比，并额外测出各自最佳输入图片配比。",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月23日17时17分"
+  },
+  {
+    "id": "cmt5lpctp0isaro73knptqrrz",
+    "title": "OpenAI Codex 明天重置额度，并修复近期用量消耗过快问题",
+    "url": "https://www.ithome.com/0/993/235.htm",
+    "summary": "OpenAI Codex 团队负责人蒂博·索蒂奥回应近期用户反馈的用量消耗过快问题，并宣布明天为所有 Codex 订阅用户重置额度。团队已定位三个影响用量计算的问题，包括长会话中图片多次上下文压缩的效率问题、计算机历史记录高百分位使用量偏高，以及标题生成功能消耗略超预期。OpenAI 已组建专项团队排查，计划明天推出修复措施，并将在下周开发一种提升使用效率的全新方案。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月23日17时11分"
+  },
+  {
     "id": "cmt5jk5id0h4cro7376qizpew",
     "title": "英伟达砸 60 亿美元投资 Poolside，意图打造中国开源 AI 竞争对手",
     "url": "https://www.ithome.com/0/993/226.htm",
