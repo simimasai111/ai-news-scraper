@@ -14224,6 +14224,22 @@
     "date": "2026年8月24日2时17分"
   },
   {
+    "id": "cmt77ky1c1xntro73b82abin9",
+    "title": "IBM 发布首款双架构大型机处理器：2nm 工艺，11 核心 5.7GHz",
+    "url": "https://www.ithome.com/0/993/720.htm",
+    "summary": "IBM 在 Hot Chips 2026 大会上发布首款双架构大型机处理器，基于 2nm 工艺，整合 11 个频率超 5.7GHz 的核心，并配备 AI 推理加速器、片上 DPU 和大容量缓存。该处理器可原生执行 IBM Z / LinuxONE 与 Arm 指令，使基于它的 Z 和 LinuxONE 系统能同时运行 IBM 和 Arm 平台的操作系统与应用，可扩展至数百核心和数十 TB 内存。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日20时21分"
+  },
+  {
+    "id": "cmt77cieb1xl1ro734arhv1ng",
+    "title": "AI Agent 事故启示：模型输出不等于系统状态",
+    "url": "https://x.com/frxiaobei/status/2091862083528765552",
+    "summary": "两个 AI Agent 事故暴露同一根因：把模型输出当成了系统状态。X 抓取 25/25 全失败，日报却写「新增 0 条」；待办「今天」未转标准日期，提醒直接消失。LLM 负责判断，确定性代码负责日期、状态、重试和告警--「没有结果」不等于「没有发生」。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月24日20时16分"
+  },
+  {
     "id": "cmt6439ul0y4uro73nl0aecd4",
     "title": "Harvey 推出基于 Kimi K3 的后训练模型 Harvey Tenet",
     "url": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model",
@@ -14262,6 +14278,22 @@
     "summary": "2024年：一台搭载RTX 4090的游戏PC以4-bit量化运行Llama 3 70B，速度约为2 tok/s。\n\n2026年：一台搭载RTX 5090的游戏PC以原生mxfp4格式运行DeepSeek-V4-Flash 284B，速度约为24 tok/s。\n\n预测：到2027年底，一台游戏PC将以可观的速度在本地运行Fable 5级别的智能。",
     "source": "X：Yuchen Jin (@Yuchenj_UW)",
     "date": "2026年8月24日1时23分"
+  },
+  {
+    "id": "cmt77ciei1xl3ro73lrqafdc3",
+    "title": "ContinualSkillBench：LLM 智能体能否真正进化能力？",
+    "url": "https://x.com/rohanpaul_ai/status/2091855138483032462",
+    "summary": "ContinualSkillBench 在 5 个领域各设 100 个关联任务，对比智能体保留反馈、更新技能与从零求解的效果。顺序执行在 15 组模型-领域设置中 14 组提升归一化奖励，整体相对提升 16.9%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日19时48分"
+  },
+  {
+    "id": "cmt77ky1c1xnzro731bbxcs1u",
+    "title": "燧原科技 9 月 2 日科创板申购，拟募资 60 亿元研发第五代和第六代 AI 芯片",
+    "url": "https://www.ithome.com/0/993/711.htm",
+    "summary": "燧原科技首次公开发行股票并在科创板上市，拟发行 4303.5173 万股，占发行后总股本 10%，网上网下申购日为 9 月 2 日。公司尚未盈利，此次拟募资 60 亿元，用于第五代和第六代 AI 芯片系列产品的研发及产业化等项目。燧原科技创立于 2018 年 3 月，与摩尔线程、沐曦股份和壁仞科技合称\"国产 GPU 四小龙\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日19时33分"
   },
   {
     "id": "cmt75frc91u3yro73502stbe9",
@@ -14310,6 +14342,14 @@
     "summary": "Wan 3.0 现已登陆 @LeonardoAi！更清晰。更可控。更强大。现已在 Leonardo 上线。更多 API 接入：\n• Model Studio： https://click.alibabacloud.com/m/20000002017/\n• Qwen Cloud： https://click.qwencloud.com/m/20000002025/",
     "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "date": "2026年8月24日18时3分"
+  },
+  {
+    "id": "cmt779tbl1xi8ro73ki81g5e9",
+    "title": "2026年AI应用全国统一期中考试",
+    "url": "https://elsewhere.news/zh/elsewhere/midterm-exam",
+    "summary": null,
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月24日18时34分"
   },
   {
     "id": "cmt73zrkh1sy7ro7325ri5vne",
