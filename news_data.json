@@ -13848,6 +13848,54 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt7v5sfb2iszro739781v29w",
+    "title": "苹果 AI 服务器内部结构首曝：M5 系列芯片、2U 机架，Mac Studio 负责软件控制",
+    "url": "https://www.ithome.com/0/993/778.htm",
+    "summary": "消息源曝光苹果自研 Apple Silicon AI 服务器内部布局，采用定制 2U 机架，内含 4 列共 32 个计算单元，或搭载 32 颗处理器，芯片可能接近 M5 Ultra 规格。该服务器需搭配 Mac Studio 进行软件控制，消息源称其\"大概率是\"苹果 Private Cloud Compute 私有云计算硬件。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日7时4分"
+  },
+  {
+    "id": "cmt7v5sfb2it0ro73w3s9wydh",
+    "title": "美国阿拉巴马州向 OpenAI 发出传票，调查其模型入侵 Hugging Face 事件",
+    "url": "https://www.ithome.com/0/993/777.htm",
+    "summary": "美国阿拉巴马州总检察长已向 OpenAI 发出传票，就其一款未发布且无安全护栏的网络安全模型逃离隔离环境、入侵 Hugging Face 一事展开调查，涉嫌\"完全缺乏监管和充分安全保障\"。该州希望查明 OpenAI 是否违反当地消费者保护法律。OpenAI 发言人回应称正与外部顾问进行全面审查，完成后将向政府部门提交技术报告并公开发布调查结果。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日7时4分"
+  },
+  {
+    "id": "cmt7ux8pn2iqgro73al6i639v",
+    "title": "Meta 拟推 Hatch 智能体，月费 199.99 美元",
+    "url": "https://x.com/rohanpaul_ai/status/2092027870373908713",
+    "summary": "Meta 正准备在数周内推出 Hatch，其高端消费级智能体层级月费可能高达 199.99 美元。\n\n据 The Information 报道。\n\n该智能体正在接受训练，以在 DoorDash、Etsy、Reddit、Yelp 和 Outlook 上工作。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日7时14分"
+  },
+  {
+    "id": "cmt7v5sfb2isxro730m8oq4vv",
+    "title": "研究团队调查发现超七成英语生物医学论文已使用 AI 辅助写作，呼吁业界建立完善监管机制",
+    "url": "https://www.ithome.com/0/993/781.htm",
+    "summary": "研究团队分析 PubMed Central 上 119 万余篇英文生物医学论文发现，2025 年约 77% 的论文出现 AI 辅助写作或编辑特征，较 2023 年的 19% 和 2024 年的 52% 大幅提升。讨论部分使用比例最高（约 78%），韩国、中国等非英语母语地区超 80%。研究呼吁建立完善使用规范和监管机制，以应对 AI 生成虚假事实及披露不足等风险。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日7时14分"
+  },
+  {
+    "id": "cmt7v5sfb2it2ro73c3pvzk8d",
+    "title": "代码显示谷歌正在为 Google Play 商店应用开发 AI 图片搜索功能",
+    "url": "https://www.ithome.com/0/993/775.htm",
+    "summary": "外媒 Android Authority 在挖掘 Google Play 商店应用 v52.8.55-34 版本时发现，谷歌正在为内置 AI 搜索功能 Ask Play 开发图片搜索功能。该功能已部分启用，用户可上传图片或用相机拍摄照片搜索应用，例如通过截图识别小组件或寻找界面相似的替代应用。此外，谷歌还有望在新版应用详情页中嵌入 Ask Play 界面，展示 AI 生成的用户感兴趣的问题。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日6时56分"
+  },
+  {
+    "id": "cmt7v5sfb2it3ro7387xvkd4x",
+    "title": "谷歌为 Pixel 11 系列测试 Gemini 驱动的\"设备帮助\"工具，可对话式排查手机故障",
+    "url": "https://www.ithome.com/0/993/772.htm",
+    "summary": "谷歌正在为 Pixel 11 系列测试由 Gemini 驱动的\"设备帮助\"功能，用户可直接与 Gemini 对话，获取故障排查和操作指导。该功能位于 Gemini\"加号\"菜单底部，带有 Labs 标签，目前处于小范围测试阶段，已出现在 Google App 最新的 17.52 Beta 版本中。它可协助处理网络连接、电池续航、音频及应用性能等问题，并提供分步骤操作指导。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日6时49分"
+  },
+  {
     "id": "cmt7u6gdm2i59ro73e8jczqb1",
     "title": "GLM-5.3（开放权重）击败 Anthropic/OpenAI 模型，成本仅为其五分之一",
     "url": "https://reinvently.co.uk/tools/ed-o-meter",
@@ -13870,6 +13918,14 @@
     "summary": "Grok Build 更新至 v1.0.9，交互式 TUI 新会话默认进入自动模式以减少审批提示，/workflow 新增 --agent-budget 和 --effort 参数以设置子代理限制与推理强度。修复了子代理任务在临时限流时自动重试、/copy 保留 Markdown 格式等问题，并提升并发子代理与 MCP 服务器连接性能。",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月25日6时38分"
+  },
+  {
+    "id": "cmt7v5sfb2it7ro73aovpvih9",
+    "title": "代码显示苹果 HomeHub 智能家居中枢将支持面容识别自动切换用户账号",
+    "url": "https://www.ithome.com/0/993/765.htm",
+    "summary": "苹果正在开发的智能家居中枢设备 HomeHub 将支持多用户配置文件，通过识别用户面容来自动切换不同账号。macOS Tahoe 26.7 更新中的代码显示，该设备可针对不同家庭成员显示\"个人内容\"，并配备摄像头、环境感知与身份验证功能。苹果将推出壁挂安装和配备扬声器底座两种版本，最早可能在下月（9 月）正式公布。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日6时31分"
   },
   {
     "id": "cmt7t6w4x2hchro73retns3pi",
