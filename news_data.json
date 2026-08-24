@@ -14240,11 +14240,155 @@
     "date": "2026年8月24日23时6分"
   },
   {
+    "id": "cmt7f13es243iro73s2sx1w2m",
+    "title": "马斯克引用爱因斯坦名言谈技术责任",
+    "url": "https://x.com/mustafasuleyman/status/2091915181576081575",
+    "summary": "有史以来最重要、最鼓舞人心的名言之一：\"对人的关怀及其命运，必须始终成为一切技术努力的首要关切……唯此，我们心智的创造才能成为人类的福祉，而非祸害。\"（阿尔伯特·爱因斯坦，1931年）",
+    "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+    "date": "2026年8月24日23时46分"
+  },
+  {
+    "id": "cmt7epkun23ulro73s2xknllw",
+    "title": "为了体验 Claude Tag，最近团队协作迁移回了 Slack。一股熟悉的感觉扑面而来。开心。 为了联系一个老友，最近重新安装了飞书。发现豆包已入住飞书太子位。一股莫名的伤感。",
+    "url": "https://x.com/lifesinger/status/2091913564688945181",
+    "summary": "为了体验 Claude Tag，最近团队协作迁移回了 Slack。一股熟悉的感觉扑面而来。开心。\n\n为了联系一个老友，最近重新安装了飞书。发现豆包已入住飞书太子位。一股莫名的伤感。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月24日23时40分"
+  },
+  {
+    "id": "cmt7eul9423xiro733yq8tw19",
+    "title": "NVIDIA 与 SpaceXAI 合作将 AI 算力送入轨道",
+    "url": "https://x.com/cb_doge/status/2091913538109669393",
+    "summary": "NVIDIA 宣布与 SpaceXAI 合作，将其 AI 计算基础设施从地面扩展至轨道。SpaceXAI 首代 Starmind AI 卫星将基于 NVIDIA Vera Rubin NVL72 机架级系统，在太空部署 AI 工厂。双方将共同适配轨道环境下的功耗、散热与带宽约束，同时保留统一 NVIDIA 架构与软件生态。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月24日23时40分"
+  },
+  {
+    "id": "cmt7epkug23ujro73g6gsqgek",
+    "title": "Apodex 1.1 发布，扩展复杂工作智能体能力",
+    "url": "https://x.com/dongxi_nlp/status/2091913523852874079",
+    "summary": "恭喜 @Apodex_AI 的出色工作！\n\nApodex 1.1：扩展面向复杂工作的智能体智能",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月24日23时40分"
+  },
+  {
+    "id": "cmt7f22q82449ro73g8vm4hwy",
+    "title": "腾讯阿里AI路线分歧，GLM-5.3跻身第一梯队",
+    "url": "https://x.com/thexpin/status/2091913407499018373",
+    "summary": "腾讯与阿里在AI战略上押注相反路径：腾讯依托混元、微信智能体与WorkBuddy等工具将AI融入现有生态，阿里则围绕芯片、云计算和基础模型重建AI基础设施。宇树CEO王兴兴称人形机器人尚不成熟，预计3-5年内实现\"ChatGPT时刻\"。小米H1 2026营收同比降8.4%至289亿美元，受内存芯片价格挤压利润。GLM-5.3已加入Claude和GPT所在的第一梯队。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月24日23时39分"
+  },
+  {
+    "id": "cmt7f98tt24bzro73eqczmnoi",
+    "title": "InfinityEdit：轻量适配器实现无限视频编辑",
+    "url": "https://x.com/_akhaliq/status/2091913229437915495",
+    "summary": "InfinityEdit\n\n通过轻量级编辑点火适配器实现无限视频编辑\n\n论文：https://huggingface.co/papers/2608.20910",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月24日23时39分"
+  },
+  {
+    "id": "cmt7egtuz23ksro734gs276al",
+    "title": "OpenRouter谈AI经济学：智能降价百倍",
+    "url": "https://x.com/OpenRouter/status/2091912561310757350",
+    "summary": "当智能变得便宜100倍时会发生什么？\n\n@shashankgoyal95 与 @MenloVentures 的 @deedydas 坐下来探讨关于AI经济学的几个真相：\n\n- Token价格下降了40%，而使用量增长了4倍。\n- 过早优化成本可能是错误之举。\n- 最好的AI产品将越来越多地跨多个模型构建。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月24日23时36分"
+  },
+  {
+    "id": "cmt7epku223uhro73v9hwii3r",
+    "title": "小米玄戒AI盒子：三芯异构本地跑120B大模型",
+    "url": "https://x.com/AYi_AInotes/status/2091912459862827021",
+    "summary": "小米玄戒AI盒子在150W迷你主机内集成三颗自研芯片，本地运行120B大模型，近存带宽达1.22TB/s。核心是O100芯片通过Wafer-on-Wafer将内存叠于计算层，28，672根数据线直连，带宽为传统旗舰手机16倍，官方宣称速度330 tokens/s。该三芯异构方案复用至手机、汽车、桌面平台，工程样机计划2027年商用。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月24日23时36分"
+  },
+  {
+    "id": "cmt7f97g724btro734k5yy2v7",
+    "title": "阿里 Wan3.0 视频生成模型开放测试，支持文本、图片、文档生成最长 30 秒视频",
+    "url": "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents",
+    "summary": "阿里巴巴视频生成模型 Wan3.0 现已开放测试，可基于文本、PDF、网页和 PowerPoint 输入生成最长 30 秒的视频，时长较前代 Wan2.5 翻倍。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月24日23时35分"
+  },
+  {
+    "id": "cmt7egtuz23ktro73n2u5qsc0",
+    "title": "Ox Alpha 日处理量将达近 6 万亿 token",
+    "url": "https://x.com/OpenRouter/status/2091912024922177562",
+    "summary": "Ox Alpha 今日处理量有望接近 6 万亿 token。\n\n现在即可通过 ori 在你的编码智能体中使用：$ ori 【你喜欢的 harness】 --model stealth/ox-alpha",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月24日23时34分"
+  },
+  {
+    "id": "cmt7et6q223wsro739yjfhmyu",
+    "title": "群聊即大模型，发言即提示词",
+    "url": "https://x.com/lijigang/status/2091911806252171555",
+    "summary": "把「群」视作一个「大模型」，每个人的发言都是一条Prompt。",
+    "source": "X：李继刚 (@lijigang)",
+    "date": "2026年8月24日23时33分"
+  },
+  {
+    "id": "cmt7eul9423xjro73uzgn1hh8",
+    "title": "SpaceXAI将AI架构扩展至太空计算",
+    "url": "https://x.com/cb_doge/status/2091911656012124258",
+    "summary": "\"SpaceXAI正将这一架构从大规模AI工厂带向轨道计算的下一个前沿。\"\n\n--Ian Buck，NVIDIA",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月24日23时32分"
+  },
+  {
+    "id": "cmt7e978k238lro73cr8tyjhv",
+    "title": "Anthropic 市场人员如何用 Claude Code 每周为每位销售代表发送个性化更新",
+    "url": "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
+    "summary": "Anthropic 市场团队成员 Adam Ward 分享如何用 Claude Code 将每周销售报告转化为每位客户经理的个性化周一简报。他通过 MCP 连接 BigQuery 和 CRM 数据，并依据销售与经理反馈迭代提示词，加入\"绝不编造 URL\"等九条内容规则。该简报现已推广至所有销售团队，每周一自动发送三条优先行动项及账户相关活动。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月24日23时31分"
+  },
+  {
+    "id": "cmt7eul9h23xoro73kmk6g4qh",
+    "title": "医疗AI使用建议：患者主动医生强制",
+    "url": "https://x.com/kimmonismus/status/2091911293082947773",
+    "summary": "现阶段，应鼓励患者在就诊前使用AI，以更好地了解自身病情和治疗选择；而对医生而言，应强制要求使用AI来复核其治疗方案。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月24日23时31分"
+  },
+  {
+    "id": "cmt7eic5t23pmro73186u4off",
+    "title": "为什么在 AI 时代代码验证比以往任何时候都更重要",
+    "url": "https://blog.bytebytego.com/p/why-code-verification-matters-more",
+    "summary": "AI 生成代码的兴起给代码验证带来更大压力，本文剖析其工作原理及未来走向。Andrea 就代码验证的未来形态提供了极具价值的见解，指出随着 AI 编码普及，验证环节的重要性正持续上升。",
+    "source": "ByteByteGo（RSS）",
+    "date": "2026年8月24日23时31分"
+  },
+  {
+    "id": "cmt7f8tpk249zro738uhr0fpj",
+    "title": "AI 泡沫可能以两种方式崩溃：先是逐渐，然后突然",
+    "url": "https://garymarcus.substack.com/p/two-ways-it-might-all-fall-apart",
+    "summary": "作者借海明威《太阳照常升起》中\"先是逐渐，然后突然\"的破产比喻，指出当前 AI 市场终将崩溃，路径有两条且并不互斥：一是心理层面的信心崩塌，二是与未付账单相关的财务现实。作者称自己此前多关注前者，今晨读到一篇详述后者如何展开的文章。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月24日23时27分"
+  },
+  {
+    "id": "cmt7f13ej243gro731gdpbecb",
+    "title": "Perplexity 聘请 Andrew Wilson 任研究负责人",
+    "url": "https://x.com/AravSrinivas/status/2091909869796520394",
+    "summary": "Perplexity CEO Aravind Srinivas 宣布，Andrew Gordon Wilson 加入其研究团队并出任研究负责人，向 Denis 汇报。Wilson 将领导持续学习、合成数据、长程 RL 环境与架构等新研究方向，并正招募人才加入。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月24日23时25分"
+  },
+  {
     "id": "cmt7e3m7h234fro73gerq1o6g",
     "title": "General Intuition 洽谈 60 亿美元估值融资，Valor、Point72 参投，AI 初创进军机器人领域",
     "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
     "summary": "总部位于纽约的 General Intuition 正洽谈以 60 亿美元投前估值融资，新投资者包括 Valor Equity Partners、Point72 Ventures 和 Seven Seven Six，现有投资者 Khosla Ventures 与 General Catalyst 亦参与。",
     "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月24日23时24分"
+  },
+  {
+    "id": "cmt7eul9423xkro73nj3rzsfg",
+    "title": "NVIDIA Vera CPU 将驱动下一代 Grok",
+    "url": "https://x.com/cb_doge/status/2091909481211031622",
+    "summary": "突发：NVIDIA 刚刚宣布其 Vera CPU 将为下一代 Grok 提供算力。\n\nSpaceXAI 将在 Vera Rubin 上构建 Grok 的 AI 基础设施，帮助其智能体在向吉瓦级算力扩展的过程中，更快地使用工具、执行代码、处理数据并应对复杂任务。",
+    "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月24日23时24分"
   },
   {
