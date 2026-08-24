@@ -13848,12 +13848,76 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt7keywg2934ro73d3apqmia",
+    "title": "MiniMax M3/M2.7 限时免费体验",
+    "url": "https://x.com/MiniMax_AI/status/2091948930124947941",
+    "summary": "14 天，无限构建。⚡\n\n8 月 24 日至 9 月 6 日期间，可在 @gmi_cloud 上无限使用 MiniMax M3 和 M2.7--外加 Speech 2.8 和 Music 3.0。\n\n立即在 GMI Cloud 上开始构建。你将创造什么？👇",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月25日2时1分"
+  },
+  {
+    "id": "cmt7k7g0r290tro73dy86hgj4",
+    "title": "AgentSky 推出 Agent Playground 对比主流智能体",
+    "url": "https://x.com/omarsar0/status/2091951905291284614",
+    "summary": "AgentSky 推出 Agent Playground，可在同一浏览器中让 Claude Code、Codex、DeepSeek 执行相同任务，并排对比耗时、成本与 token 消耗。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月25日2时12分"
+  },
+  {
+    "id": "cmt7k7g1c290zro73xsp8p129",
+    "title": "Qwen 3.8 27B 量化精度测试：Q4 不输 Q8",
+    "url": "https://x.com/rohanpaul_ai/status/2091951894969373034",
+    "summary": "Rohan Paul 分享 @atomic_chat_hq 的测试：更高量化精度并不自动带来更好结果，Qwen 3.8 27B 的 Q8 版在体素任务上有时被 Q4 版追平或超越。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日2时12分"
+  },
+  {
     "id": "cmt7i29x426hwro732p7rh97x",
     "title": "北京世界人形机器人运动会醉酒机器人",
     "url": "https://x.com/rohanpaul_ai/status/2091935964633719041",
     "summary": "醉酒的机器人。\n\n在北京世界人形机器人运动会上",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月25日1时9分"
+  },
+  {
+    "id": "cmt7k7g15290xro73jz4ee2yb",
+    "title": "Ox Alpha 大更新引期待",
+    "url": "https://x.com/kimmonismus/status/2091948497796813236",
+    "summary": "Ox Alpha 似乎已经收到了一次重大更新。\n\n你无法想象我对正式发布和模型技术细节有多期待。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日1时59分"
+  },
+  {
+    "id": "cmt7k7g0z290vro734kpel8dp",
+    "title": "批量审阅时AI痕迹难以隐藏",
+    "url": "https://x.com/emollick/status/2091947166545674368",
+    "summary": "提醒所有提交申请、论文或任何由一人审阅多份材料的人：是的，他们能看出来。\n\n在大多数情况下，即使语言被改写，使用AI的痕迹依然显而易见--当你阅读大量材料时，其中的观点和概念开始变得雷同。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月25日1时54分"
+  },
+  {
+    "id": "cmt7jjl5827mlro73w43mpbwv",
+    "title": "Ox Alpha 四天处理 26T tokens",
+    "url": "https://x.com/opencode/status/2091946582790766899",
+    "summary": "4 天内处理了 26T tokens 的 Ox Alpha",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月25日1时51分"
+  },
+  {
+    "id": "cmt7jfq8b27ifro73rq5ao3ro",
+    "title": "MTIA 300：Meta 首款内置 NIC 与通信卸载引擎的训练芯片",
+    "url": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics",
+    "summary": "Meta 发布 MTIA 300，这是其自研加速器家族中首款针对推荐与排序模型训练优化的芯片。芯片封装内集成 12 个 800 Gbps RDMA NIC，提供 1.2 TB/s 总 I/O 带宽，并通过 16 个专用消息引擎卸载通信，使大规模 GEMM 与集合通信并发时计算吞吐损耗低于 0.5%。",
+    "source": "Meta Engineering Blog（RSS）",
+    "date": "2026年8月25日1时45分"
+  },
+  {
+    "id": "cmt7jjl5m27mnro73j5j1u7m5",
+    "title": "前沿模型各有专长，难有全能者",
+    "url": "https://x.com/Yuchenj_UW/status/2091942473681781077",
+    "summary": "我越是使用前沿模型，就越不相信存在一个模型能统治一切。\n\n- Opus 5：最擅长用生成的 HTML 教我东西，但冗长且潦草。\n- GPT-5.6 Sol：后端很强，前端较弱。\n- Kimi K3 / GLM-5.2：日常编码中 90% 的场景便宜又高效，但在写内核这类 AI 研究任务上较弱。\n\n每个实验室都在为 AGI 而训练。但今天的 LLM 仍然是专才。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月25日1时35分"
   },
   {
     "id": "cmt7isn5p2736ro734wkey82o",
@@ -13918,6 +13982,14 @@
     "summary": "OpenRouter 从 2024 年 1 月约 100 亿 token/周，增长到 2026 年 8 月超过 90 万亿/周，增长了 9000 倍。\n\n如果这一速度持续下去，不知道未来 2.5 年会是什么情况。\n\n而智能体工作流才刚刚开始。智能体可以消耗极其庞大的 token 量。\n\nOpenRouter 表示，智能体工作负载约在 2 月超过了人类 token 使用量，而一次智能体请求消耗的 token 约为正常人类使用的 15 倍。\n\n图表来自 Menlo Ventures。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月25日0时5分"
+  },
+  {
+    "id": "cmt7jjdg027kzro73qdjbvkjm",
+    "title": "Fences， not Sandboxes：AI 应由法律而非沙箱程序治理",
+    "url": "https://steve-yegge.medium.com/fences-not-sandboxes-5719cd9b04bd",
+    "summary": "Steve Yegge 认为，AI 的未来应由法律治理，而非依赖试图限制和控制它们的程序。他透露自己每月花费约 12.2 万美元 API token 费用，使用 21 个 Claude Max 账户构建游戏 Wyvern，并组建了由 50-60 个智能体组成的组织，其中仅 Claude Fable 5 被允许通过 Slack 和邮件与约 10 名人类交互。",
+    "source": "Steve Yegge：Medium（RSS）",
+    "date": "2026年8月25日0时57分"
   },
   {
     "id": "cmt7hefqh260vro73xhlc279l",
