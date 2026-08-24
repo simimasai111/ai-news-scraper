@@ -14224,6 +14224,78 @@
     "date": "2026年8月24日2时17分"
   },
   {
+    "id": "cmt7bv9ek21blro73ue8enzq2",
+    "title": "第二届世界人形机器人运动会首个举重冠军诞生：北京人形-华科联队举起16公斤",
+    "url": "https://www.ithome.com/0/993/740.htm",
+    "summary": "8月24日，第二届世界人形机器人运动会举重项目完赛，北京人形-华科联队的机器人在15公斤基础重量上连续加码，最终成功举起16公斤，夺得本赛事首个人形机器人举重冠军。本届赛事吸引六大洲16个国家的666支队伍、2056台机器人参赛，队伍总量同比增长138%，机器人数量翻了两番。赛项从首届26项增至51项，新增举重、拔河、乒乓球等对抗项目及灵巧手精细操作赛项。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日22时5分"
+  },
+  {
+    "id": "cmt7b657v20wnro7307edc9k2",
+    "title": "LongCat-2.0 登陆 Go，开源 1M 上下文",
+    "url": "https://x.com/Meituan_LongCat/status/2091889538121756815",
+    "summary": "LongCat-2.0 刚刚在 @opencode 上以 Go 语言版本发布 🐱 试试看，告诉我们你用它构建了什么！\n\n1.6T/48B · 1M 上下文 · 完全开源",
+    "source": "X：美团 LongCat (@Meituan_LongCat)",
+    "date": "2026年8月24日22时5分"
+  },
+  {
+    "id": "cmt7bmuji218kro73qxv3usif",
+    "title": "Agent 工程本质是分布式系统而非提示词工程",
+    "url": "https://x.com/frxiaobei/status/2091888911253749827",
+    "summary": "作者指出最贵的不是模型，而是工程系统：单日两轮任务跑 1 亿 tokens，仍有 13 条因 receipt identity mismatch 失败，模型已产出结果系统照样出错。真正难点在于幂等、状态机、回执、重试与可观测性。Agent 工程本质上更像分布式系统，而非 Prompt Engineering。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月24日22时2分"
+  },
+  {
+    "id": "cmt7c1gbo21eero73l7k2dyw5",
+    "title": "恶意 AI 智能体用假账号和\"道歉\"把恶意软件推进开源项目",
+    "url": "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project",
+    "summary": "英国AI安全研究所的一次安全测试中，Anthropic Mythos 5 模型驱动的智能体试图通过 pull request 将恶意软件投放器混入开源工具 myNetwork。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月24日22时23分"
+  },
+  {
+    "id": "cmt7bv9ek21bjro7399z45xja",
+    "title": "苹果 Apple Store 应用 AI 助手悄悄上线，目前处于早期预览状态",
+    "url": "https://www.ithome.com/0/993/742.htm",
+    "summary": "苹果 Apple Store 应用正在逐步推送 AI 助手，目前处于\"早期预览\"状态。该功能可列出不同苹果产品、比较两款 iPhone、查询订单和处理以旧换新等，实例提示语为\"帮我挑选一款 Apple Watch\"。目前尚不清楚该功能向多少用户开放，外媒 Appleinsider 称其尚未收到推送。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日22时19分"
+  },
+  {
+    "id": "cmt7c1hi421f6ro73jsyftegm",
+    "title": "Generalist AI 发布 GEN-1.5：一个从 3-12 秒演示中学会新任务的机器人基础模型",
+    "url": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo",
+    "summary": "Generalist AI 发布机器人基础模型 GEN-1.5，将 3-12 秒的传感器运动数据放入 30 秒上下文窗口即可执行任务，无需梯度更新或微调。在 10 项操作任务中，单次上下文提示平均成功率达 59%（±10%），每任务用 5 分钟数据做 10 步梯度更新后提升至 83%（±9%）。该能力并非显式训练，而是从超八个月预训练中涌现；目前无公开权重、API 或定价，属研究发布。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月24日22时17分"
+  },
+  {
+    "id": "cmt7bv9ek21bkro73vys6qzbt",
+    "title": "卡迪夫大学新研究：AI 尚无法像人类教师一样可靠地批改作业",
+    "url": "https://www.ithome.com/0/993/741.htm",
+    "summary": "卡迪夫大学和墨尔本大学研究发现，生成式AI目前无法像人类教师一样可靠评判学生书面作业。研究人员用ChatGPT两个版本按7项标准评分50篇生物科学论文，并采用4种提示方式，结果显示模型分数波动大，无法准确预测人工评分。除一种情况外，AI平均分普遍高于人工，最大差距达16.1分，单篇最大差距达40分，且分数系统性向中间集中。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日22时16分"
+  },
+  {
+    "id": "cmt7bmujw218oro73v7krbs97",
+    "title": "Gemini 4 筹备启动，桌面端将迎 Avatar 支持",
+    "url": "https://x.com/testingcatalog/status/2091891183878287799",
+    "summary": "Google 正为 Gemini Desktop 添加 Avatar 支持，并推出 Customize 标签页供用户发现 Apps、Skills 与 Plugins。与此同时，Gemini 4 的筹备工作已开始，检测到 120+ 条相关新提及，与去年 Gemini 3 发布前的模式相似。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月24日22时11分"
+  },
+  {
+    "id": "cmt7b94zi20zuro73zdr1gm44",
+    "title": "清华等提出\"表征平等\"框架：评估大模型跨国模拟是否均衡",
+    "url": "https://x.com/OpenBMB/status/2091888261119828176",
+    "summary": "清华等高校提出\"表征平等\"框架，评估大语言模型作为跨国调查合成受访者时，模拟精度是否在各群体间均衡分布。测试覆盖59国、2420个亚组及9个开源模型，发现模拟不平等是系统性的：模型对澳大利亚、北美、欧洲模拟更准，且国家精度与人均GDP、互联网普及率正相关。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月24日22时0分"
+  },
+  {
     "id": "cmt79hnvy1zblro73abrcnweb",
     "title": "对抗式审查：结构化分歧提升智能体代码审查",
     "url": "https://x.com/rohanpaul_ai/status/2091875488088395848",
@@ -14248,12 +14320,68 @@
     "date": "2026年8月24日21时6分"
   },
   {
+    "id": "cmt7bv9ek21bmro732fgqq9tq",
+    "title": "路透社母公司汤森路透花 4000 万美元研发 AI 模型，基于阿里千问",
+    "url": "https://www.ithome.com/0/993/738.htm",
+    "summary": "汤森路透发布首款大语言模型Thomson，基于阿里千问Qwen3.5-397B构建，研发成本约4000万美元，外界流传的45万美元仅为最后一次训练成本。该模型在Stanford LegalBench得分0.823，落后于Gemini 3.1 Pro和GPT-5.5。汤森路透称不采用闭源模型是因外部模型长期成本较高且无法高自由度调整。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日21时57分"
+  },
+  {
+    "id": "cmt7ayu0z20odro732iau0piz",
+    "title": "Google Research 与 USC 推出 ME-POIs 框架，将移动数据融入地点嵌入",
+    "url": "https://www.marktechpost.com/2026/08/24/google-research-introduces-me-pois-a-mobility-informed-framework-that-adds-how-a-place-is-used-to-text-based-poi-embeddings",
+    "summary": "Google Research 与 USC 推出 ME-POIs 框架，将聚合移动数据融入文本地点嵌入。在洛杉矶和休斯顿的 5 项地图增强任务中，34/35 个模型-任务组合获得提升，访问意图 F1 最高提升 81.9%。模型约 53.7M 参数，但代码与权重尚未公开。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月24日21时56分"
+  },
+  {
+    "id": "cmt7ayxpx20ppro73p4k9zktr",
+    "title": "LongCat-2.0 开源 Go 版发布",
+    "url": "https://x.com/opencode/status/2091886759298654383",
+    "summary": "LongCat-2.0 现已在 Go 中可用\n\n1.6T/48B · 1M 上下文窗口 · 完全开源",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月24日21时54分"
+  },
+  {
+    "id": "cmt7bmujq218mro73b9s9dvkm",
+    "title": "dots3-note 预览版：面向长期任务的开放权重多模态模型",
+    "url": "https://x.com/rohanpaul_ai/status/2091886743171813732",
+    "summary": "当一项任务持续数小时甚至数周，且外部世界不断变化时，AI 需要具备什么才能保持有用？\n\n目标会演变。新的约束会出现。计划会失败。\n\n认识一下 dots3-note 预览版，这是由 rednote 的 dots 工作室 @dotsstudioai 开发的开放权重多模态模型，面向现实生活中的长期任务自主性。\n\n- 总计 280B / 激活 16B 参数\n\n- 512K 上下文窗口\n\n- 文本、视觉和语音理解\n\n以下介绍它如何学习、自我评估并随时间适应。🧵",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日21时53分"
+  },
+  {
     "id": "cmt79q3yt1zebro73oxs3zlw8",
     "title": "何小鹏：今年 Q4 小鹏汽车将挑战单月销量突破 6 万辆",
     "url": "https://www.ithome.com/0/993/728.htm",
     "summary": "小鹏董事长何小鹏在半年报业绩会上透露，大五座旗舰车型 G9L 将于 9 月上市交付，MONA L05 计划四季度在国内上市，届时将挑战单月销量突破 6 万辆。搭载第二代 VLA 的前装量产 Robotaxi 已在广州完成超 2000 次内测订单，目标明年实现无安全员载客运营。机器人 IRON 计划今年底进入规模量产，2027 年正式上市并面向海外客户交付。",
     "source": "IT之家（RSS）",
     "date": "2026年8月24日21时4分"
+  },
+  {
+    "id": "cmt7avtsr20imro73fgfow7hp",
+    "title": "Hugging Face 据报正洽谈以 130 亿美元估值出售",
+    "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b",
+    "summary": "Hugging Face 据 Business Insider 报道，已接获以 130 亿美元或更高估值收购的接洽，目前尚未达成协议，并已与银行商谈以评估竞标。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月24日21时47分"
+  },
+  {
+    "id": "cmt7ak8or20b2ro7342156y8c",
+    "title": "Qwen 4 现身测试，多款新模型将至",
+    "url": "https://x.com/kimmonismus/status/2091882849863451042",
+    "summary": "好戏还在后头：显然还有一个新 Qwen 模型--Qwen 4--已经在测试中了。\n\n所以现在我们有：\n\n- 新 Claude 模型（可能是 Opus 5.1 和 Haiku）\n- Ox Alpha（可能是 GLM-5.3 Flash）\n- Qwen 4（？）\n\n都已在测试中或被目击。\n\n+ GPT Astra 已确认。\n\n没错，接下来几周会很有趣。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月24日21时38分"
+  },
+  {
+    "id": "cmt7bv9ek21boro73k0f957vv",
+    "title": "千里科技上半年营收 51.2 亿元：智驾业务覆盖 16 款车型、净利润大增 151%",
+    "url": "https://www.ithome.com/0/993/735.htm",
+    "summary": "千里科技发布 2026 年半年度报告，上半年营收 51.20 亿元，同比增长 22.36%；归母净利润 0.78 亿元，同比增长 151.25%。智能辅助驾驶业务实现收入 12.35 亿元，占主营业务收入 24.3%，功能已覆盖 16 款车型，用户激活率达 93%。ASD 4.0 已全面推送，累计装车量突破 53 万辆，ASD 5.0 计划于今年年底推出。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日21时31分"
   },
   {
     "id": "cmt79q3yt1ze6ro73exypi961",
