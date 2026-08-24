@@ -13856,12 +13856,52 @@
     "date": "2026年8月25日5时6分"
   },
   {
+    "id": "cmt7r1zkk2e0iro73uxzwr9ci",
+    "title": "OpenAI 直播演示 Codex 语音智能体免提操作",
+    "url": "https://x.com/OpenAIDevs/status/2091995301397893501",
+    "summary": "🔴 我们正与 @AlexFinn 直播连线\n\n欢迎收看，和我们一起即兴互动，看看他如何在桌面端和移动端，通过 Codex 中的语音智能体实现免提工作流操作。\n\nhttps://x.com/i/broadcasts/1OGwbnWnBRrKB",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月25日5时5分"
+  },
+  {
+    "id": "cmt7rbrv02ealro73yvhpn81b",
+    "title": "阿里万相3.0上线OpenRouter",
+    "url": "https://x.com/OpenRouter/status/2092001924203807202",
+    "summary": "阿里巴巴的 Wan 3.0（来自 @Alibaba_Wan 和 @alibaba_cloud）现已上线 OpenRouter。\n\n支持从文本、图像或参考内容生成 2-30 秒视频，分辨率可选 480p、720p 或 1080p。\n\n发布定价：$0.05/$0.10/$0.20 每秒，所有分辨率限时 15% 折扣。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月25日5时31分"
+  },
+  {
     "id": "cmt7qmxx72duiro73kc0h5ers",
     "title": "SpaceXAI 披露 Grok Voice 规模化应用",
     "url": "https://x.com/cb_doge/status/2091994551993135434",
     "summary": "SpaceXAI 刚刚揭示了 Starlink 如何大规模使用 Grok Voice。它每天处理超过 15，000 通客户支持电话，每周完成 3，000 多笔订单。\n\nElon Musk 此前已确认 SpaceX 和 Tesla 使用 Grok 处理客户服务。\n\n\"Grok 在 SpaceX 和 Tesla 已经做得相当不错。我们看到 Grok 在客户服务等方面非常有用，而且这个 AI 极其有耐心，你可以对它大喊大叫，它依然会非常友善。\"",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年8月25日5时2分"
+  },
+  {
+    "id": "cmt7rpi8o2elyro73xlcmv4hf",
+    "title": "Tibo谈AI未来：750 token/秒将成常态",
+    "url": "https://x.com/kimmonismus/status/2092000780983406798",
+    "summary": "Kim 盛赞 Tibo 做客 Matthew Berman 的访谈为年度最佳之一。Tibo 在访谈中表示，可预见的未来里，750 tokens/秒的推理速度将成为默认而非例外。Kim 认为，随着我们花大量时间观看智能体工作，速度将变得愈发重要，未来关键问题不仅是 AI 多聪明，更是其运行多快。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日5时27分"
+  },
+  {
+    "id": "cmt7rkjgk2eivro73j4e0gzir",
+    "title": "从用户身上学到的经验教训",
+    "url": "https://x.com/charlieholtz/status/2091998753893085620",
+    "summary": "我从用户身上学到的东西",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月25日5时19分"
+  },
+  {
+    "id": "cmt7rgcus2egcro735tyxq75a",
+    "title": "Grok Voice 规模化服务 Starlink 客服与销售",
+    "url": "https://x.com/elonmusk/status/2091996794419060905",
+    "summary": "Grok Voice 正被 Starlink 大规模用于支持与销售。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月25日5时11分"
   },
   {
     "id": "cmt7qmxy12duqro73c8inmqhw",
@@ -13877,6 +13917,14 @@
     "url": "https://x.com/omarsar0/status/2091994045962911949",
     "summary": "一篇关于终端智能体的不错综述。\n\n它很好地介绍了终端智能体究竟是什么，以及为什么各种工具（harness）对比的结果总是相互矛盾？\n\n论文：https://arxiv.org/abs/2608.20485\n\n在我们的学院中追踪更多热门 AI 论文：https://academy.dair.ai/",
     "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月25日5时0分"
+  },
+  {
+    "id": "cmt7rkjgz2eizro7325fdho91",
+    "title": "加权记忆树：为长时运行智能体引入可恢复记忆",
+    "url": "https://x.com/dair_ai/status/2091994046948655506",
+    "summary": "DAIR.AI 介绍一种名为加权记忆树的新方法，为长时运行智能体实现可恢复记忆。它将执行组织为任务、子任务和动作，并为每条记忆赋予动态保留分数，事件更新提升分数、选择衰减降低分数。在 GAIA-Text 上，该方法搭配 Qwen3-8B、Gemma 4 E4B 和 Llama-3.1-8B，平均比线性记忆高出 9.97 分，同时提示词 token 使用量减少 32.8%。",
+    "source": "X：DAIR.AI (@dair_ai)",
     "date": "2026年8月25日5时0分"
   },
   {
@@ -13910,6 +13958,14 @@
     "summary": "WebAIM Million报告显示，主流网页中16.2%的图片缺少alt文本，另有10.8%的alt文本模糊或重复。GitHub为Accessibility Scanner构建了alt文本插件，采用五条确定性规则检测缺失、文件名、占位符、泛化词及相邻重复，并引入基于布局的重复检测和可选视觉模型审查，以平衡误报率与实用性。",
     "source": "GitHub Blog",
     "date": "2026年8月25日4时56分"
+  },
+  {
+    "id": "cmt7rkjgk2eiwro738xu06wv8",
+    "title": "Conductor MCP 发布，AI 智能体可协同管理云会话",
+    "url": "https://x.com/charlieholtz/status/2091991799619629083",
+    "summary": "推出 Conductor MCP！\n\n你的 Claude、Codex、Cursor 智能体现在可以与人类一起使用 Conductor。\n\n它配备了你的智能体创建和管理云会话所需的全部工具。\n\n```get-started.txt 在 https://api.conductor.build/mcp 添加 Conductor MCP，并通过 OAuth 进行身份验证。```",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月25日4时51分"
   },
   {
     "id": "cmt7o0j0d2c2fro73v4d7k8nz",
