@@ -13848,12 +13848,68 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt7qmxxu2duoro73pa9m9y7k",
+    "title": "实验室模糊宣传应配独角兽测试",
+    "url": "https://x.com/emollick/status/2091995606516441405",
+    "summary": "数学没问题，但实验室关于新模型的模糊发文，只应被允许当帖子内容完全由 Sparks of AGI 论文中那个提示词的输出构成：\"用 TiKZ 画一只独角兽。\"",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月25日5时6分"
+  },
+  {
+    "id": "cmt7qmxx72duiro73kc0h5ers",
+    "title": "SpaceXAI 披露 Grok Voice 规模化应用",
+    "url": "https://x.com/cb_doge/status/2091994551993135434",
+    "summary": "SpaceXAI 刚刚揭示了 Starlink 如何大规模使用 Grok Voice。它每天处理超过 15，000 通客户支持电话，每周完成 3，000 多笔订单。\n\nElon Musk 此前已确认 SpaceX 和 Tesla 使用 Grok 处理客户服务。\n\n\"Grok 在 SpaceX 和 Tesla 已经做得相当不错。我们看到 Grok 在客户服务等方面非常有用，而且这个 AI 极其有耐心，你可以对它大喊大叫，它依然会非常友善。\"",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月25日5时2分"
+  },
+  {
+    "id": "cmt7qmxy12duqro73c8inmqhw",
+    "title": "Nvidia Rubin Ultra HBM4 容量大幅缩水至192GB",
+    "url": "https://x.com/SemiAnalysis_/status/2091994110911557679",
+    "summary": "Nvidia Rubin Ultra 将搭载 192GB HBM4 8-hi，较最初预览的 1TB HBM 大幅缩水，甚至低于常规 Rubin 的 288GB。容量削减主因：4 die 方案取消致 cube 数降至 8、堆叠高度从 16-hi 降至 8-hi、改用 24Gb die 的 HBM4（而非 HBM4E 的 32Gb），未来或可升级至 8-hi HBM4E。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月25日5时0分"
+  },
+  {
+    "id": "cmt7qmxxn2dumro73o2li7p3i",
+    "title": "终端智能体综述：对比为何矛盾",
+    "url": "https://x.com/omarsar0/status/2091994045962911949",
+    "summary": "一篇关于终端智能体的不错综述。\n\n它很好地介绍了终端智能体究竟是什么，以及为什么各种工具（harness）对比的结果总是相互矛盾？\n\n论文：https://arxiv.org/abs/2608.20485\n\n在我们的学院中追踪更多热门 AI 论文：https://academy.dair.ai/",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月25日5时0分"
+  },
+  {
     "id": "cmt7owtnh2ciuro73jgf7hvtm",
     "title": "OpenAI Codex 语音智能体演示直播",
     "url": "https://x.com/OpenAIDevs/status/2091980673808728184",
     "summary": "我们将在 1 小时后与 @AlexFinn 一起直播。\n\n看看他如何在 Codex 中通过语音智能体完成工作--在桌面端和移动端上。\n\n键盘可选。",
     "source": "X：OpenAI Developers (@OpenAIDevs)",
     "date": "2026年8月25日4时7分"
+  },
+  {
+    "id": "cmt7qmxx72dujro73ru8ir534",
+    "title": "Grok Voice Think Fast 2.0登顶语音指数",
+    "url": "https://x.com/cb_doge/status/2091993421754032580",
+    "summary": "Grok Voice Think Fast 2.0 现已在 Artificial Analysis 更新的语音到语音指数中位列第一，超越 OpenAI、Google 及其他厂商。\n\nGrok 在语音推理中得分 97.2%，智能体性能 56.5%，任务成功率 94.7%。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月25日4时57分"
+  },
+  {
+    "id": "cmt7qdrvk2dplro738ehsc5ol",
+    "title": "Grok Voice 2获马斯克盛赞",
+    "url": "https://x.com/elonmusk/status/2091993370055115129",
+    "summary": "Grok Voice 2 很棒\n\n【引用 @SpaceXAI】：Grok Voice Think Fast 2.0 现已在 Artificial Analysis 语音到语音指数中排名第一。\n\n该指数衡量语音智能体能否对所听到的语音进行推理、解决真实客户问题，并使用智能体工具正确完成任务。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月25日4时57分"
+  },
+  {
+    "id": "cmt7q32662diiro73mypfdhil",
+    "title": "你的alt文本能通过自动化检查，不代表它真的合格",
+    "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good",
+    "summary": "WebAIM Million报告显示，主流网页中16.2%的图片缺少alt文本，另有10.8%的alt文本模糊或重复。GitHub为Accessibility Scanner构建了alt文本插件，采用五条确定性规则检测缺失、文件名、占位符、泛化词及相邻重复，并引入基于布局的重复检测和可选视觉模型审查，以平衡误报率与实用性。",
+    "source": "GitHub Blog",
+    "date": "2026年8月25日4时56分"
   },
   {
     "id": "cmt7o0j0d2c2fro73v4d7k8nz",
@@ -13870,6 +13926,14 @@
     "summary": null,
     "source": "Every：最新文章（网页）",
     "date": "2026年8月25日4时48分"
+  },
+  {
+    "id": "cmt7pxf1v2dcpro73tgnsnusn",
+    "title": "Cohere 成 Superwhisper 默认本地模型",
+    "url": "https://x.com/cohere/status/2091990248188248414",
+    "summary": "Supertranscribe = S 级。\n\nCohere 现已成为 @superwhisper 新用户引导流程中的默认本地模型。即刻口述你的想法，一切尽在你的设备上--无需 Wi-Fi。\n\n享受 Transcribe 与 @Nativ_AI 的组合，@RayFernando1337 🤝",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年8月25日4时45分"
   },
   {
     "id": "cmt7pkk7i2d5sro73b7xueazc",
@@ -13902,6 +13966,14 @@
     "summary": "今天，我们推出 Tinker 资助计划，为开放权重模型的安全研究提供最高 50，000 美元的额度。我们在下方分享了一些令我们兴奋的项目想法；如果你正在从事一个可以通过额外 Tinker 额度加速的安全项目，我们期待你的来信！",
     "source": "X：Thinking Machines (@thinkymachines)",
     "date": "2026年8月25日4时3分"
+  },
+  {
+    "id": "cmt7pzeny2dfxro73wboz0jhv",
+    "title": "Grok Voice Think Fast 2.0登顶语音指数榜首",
+    "url": "https://x.com/SpaceXAI/status/2091987538999197752",
+    "summary": "Grok Voice Think Fast 2.0 现已在 Artificial Analysis 语音到语音指数中排名第一。\n\n该指数衡量语音智能体能否对所听到的语音进行推理、解决真实客户问题，并使用智能体工具正确完成任务。",
+    "source": "X：SpaceXAI (@SpaceXAI)",
+    "date": "2026年8月25日4时34分"
   },
   {
     "id": "cmt7ohrno2cdbro7346el52xg",
