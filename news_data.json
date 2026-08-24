@@ -13848,6 +13848,22 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt7o0j0d2c2fro73v4d7k8nz",
+    "title": "Mistral 与 HUMAIN 达成战略合作，推进沙特及中东主权 AI",
+    "url": "https://mistral.ai/news/mistral-x-humain",
+    "summary": "Mistral 与 HUMAIN 宣布达成战略合作，覆盖 AI 基础设施、先进模型开发及 AI 解决方案部署，聚焦沙特阿拉伯及更广泛地区。双方将合作开发本地化 AI 模型，初期重点包括网络安全和语音，并计划开发在阿拉伯语上表现强劲的前沿模型。该合作金额达数亿欧元，Mistral 将探索使用 HUMAIN 的数据中心基础设施，并计划在沙特针对受监管行业制定联合市场策略。",
+    "source": "Mistral AI：News（网页）",
+    "date": "2026年8月25日4时4分"
+  },
+  {
+    "id": "cmt7ob8f22c92ro73izdbapuv",
+    "title": "Tinker 推出最高5万美元安全研究资助",
+    "url": "https://x.com/thinkymachines/status/2091979709915795759",
+    "summary": "今天，我们推出 Tinker 资助计划，为开放权重模型的安全研究提供最高 50，000 美元的额度。我们在下方分享了一些令我们兴奋的项目想法；如果你正在从事一个可以通过额外 Tinker 额度加速的安全项目，我们期待你的来信！",
+    "source": "X：Thinking Machines (@thinkymachines)",
+    "date": "2026年8月25日4时3分"
+  },
+  {
     "id": "cmt7mclz62antro73zz04jiyt",
     "title": "AI影响时间线争论：从即刻到多年",
     "url": "https://x.com/emollick/status/2091965473558552732",
@@ -13856,12 +13872,36 @@
     "date": "2026年8月25日3时6分"
   },
   {
+    "id": "cmt7nqw7e2bspro731966nnkd",
+    "title": "Replit CEO Amjad Masad 将亮相 TechCrunch Disrupt 2026，畅谈编程未来",
+    "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026",
+    "summary": "Replit CEO 兼联合创始人 Amjad Masad 将出席 10 月 13-15 日在旧金山 Moscone West 举办的 TechCrunch Disrupt 2026，探讨编程未来与 AI 时代创业。Replit 当前年化收入运行率接近 10 亿美元，而 2024 年报告收入仅 280 万美元；公司估值今年早些时候达 90 亿美元，六个月前为 30 亿美元。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月25日3时54分"
+  },
+  {
     "id": "cmt7lvx1u2aegro73hr0n1t8r",
     "title": "Mistral 与 HUMAIN 战略合作开发阿拉伯语模型",
     "url": "https://x.com/MistralAI/status/2091964930715013224",
     "summary": "今天，我们宣布与 @HUMAIN 达成战略合作，涵盖 AI 基础设施、先进模型开发，以及在沙特阿拉伯及整个地区部署 AI 解决方案。我们将共同开发本地化的前沿 AI 模型，初始重点领域包括网络安全、语音，以及在阿拉伯语中表现优异的模型。\n\nhttps://mistral.ai/news/mistral-x-humain/",
     "source": "X：Mistral AI (@MistralAI)",
     "date": "2026年8月25日3时4分"
+  },
+  {
+    "id": "cmt7nlqjj2bpgro73xu85onme",
+    "title": "Anthropic首席经济学家谈建设性对话",
+    "url": "https://x.com/PeterMcCrory/status/2091974771886145901",
+    "summary": "这是一次富有成效的对话。我很高兴我们把它列入了议程。",
+    "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+    "date": "2026年8月25日3时43分"
+  },
+  {
+    "id": "cmt7nsaca2buero73wl5ayt6j",
+    "title": "书海无涯，总有下一本",
+    "url": "https://x.com/odysseyml/status/2091974427466465771",
+    "summary": "总还有下一本书。",
+    "source": "X：Odyssey (@odysseyml)",
+    "date": "2026年8月25日3时42分"
   },
   {
     "id": "cmt7nf6pt2bkxro73fbhgy928",
@@ -14102,6 +14142,14 @@
     "summary": "在 Hermes 中试用 Grok 4.6，现通过 @NousResearch 门户可享 50% 折扣。\n\n或者，使用您现有的 SuperGrok 和 X Premium+ 付费订阅。",
     "source": "X：SpaceXAI (@SpaceXAI)",
     "date": "2026年8月25日2时33分"
+  },
+  {
+    "id": "cmt7nq1d02bs1ro7373u88po4",
+    "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
+    "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+    "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
+    "source": "Meta Engineering Blog（RSS）",
+    "date": "2026年8月25日2时2分"
   },
   {
     "id": "cmt7kh1fc294fro734i8ab8hh",
