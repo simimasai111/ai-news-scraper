@@ -13848,12 +13848,52 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt7owtnh2ciuro73jgf7hvtm",
+    "title": "OpenAI Codex 语音智能体演示直播",
+    "url": "https://x.com/OpenAIDevs/status/2091980673808728184",
+    "summary": "我们将在 1 小时后与 @AlexFinn 一起直播。\n\n看看他如何在 Codex 中通过语音智能体完成工作--在桌面端和移动端上。\n\n键盘可选。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月25日4时7分"
+  },
+  {
     "id": "cmt7o0j0d2c2fro73v4d7k8nz",
     "title": "Mistral 与 HUMAIN 达成战略合作，推进沙特及中东主权 AI",
     "url": "https://mistral.ai/news/mistral-x-humain",
     "summary": "Mistral 与 HUMAIN 宣布达成战略合作，覆盖 AI 基础设施、先进模型开发及 AI 解决方案部署，聚焦沙特阿拉伯及更广泛地区。双方将合作开发本地化 AI 模型，初期重点包括网络安全和语音，并计划开发在阿拉伯语上表现强劲的前沿模型。该合作金额达数亿欧元，Mistral 将探索使用 HUMAIN 的数据中心基础设施，并计划在沙特针对受监管行业制定联合市场策略。",
     "source": "Mistral AI：News（网页）",
     "date": "2026年8月25日4时4分"
+  },
+  {
+    "id": "cmt7pkmqj2d5yro73ikvrxe5i",
+    "title": "I Tried the AI Model Built to Fix AI Writing",
+    "url": "https://every.to/working-overtime/i-tried-the-ai-model-built-to-fix-ai-writing",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月25日4时48分"
+  },
+  {
+    "id": "cmt7pkk7i2d5sro73b7xueazc",
+    "title": "Starlink 用 Grok Voice 日处理超 1.5 万客服电话",
+    "url": "https://x.com/cb_doge/status/2091989822932189308",
+    "summary": "突发：Starlink 正使用 Grok Voice 每天处理超过 15，000 通客户支持与销售电话。\n\nGrok 通过语音通话和聊天诊断硬件问题、寄送替换件，并每周完成超过 3，000 笔订单。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月25日4时43分"
+  },
+  {
+    "id": "cmt7pkk7z2d5wro73s5ftr3l7",
+    "title": "sPTC：推测式工具调用加速智能体推理",
+    "url": "https://x.com/omarsar0/status/2091989634783862906",
+    "summary": "来自RLM作者的sPTC（Speculative Programmatic Tool Calling）技术，在代码生成时提前推测并排队工具调用，使工具延迟与token生成重叠，而非叠加。该方法在harness层实现，当前带来1至1.2倍加速，前景可观。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月25日4时42分"
+  },
+  {
+    "id": "cmt7pfeb52d2iro73w3we673s",
+    "title": "Grove Research 新公司亮相，deepfates 现身",
+    "url": "https://x.com/charlieholtz/status/2091989469763420440",
+    "summary": "我一直很期待听到尊敬的 @deepfates 的最新动向。\n\n也很期待一个新的\"GROVE MENTIONED\"梗图能进入大众视野。",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月25日4时42分"
   },
   {
     "id": "cmt7ob8f22c92ro73izdbapuv",
@@ -13864,12 +13904,28 @@
     "date": "2026年8月25日4时3分"
   },
   {
+    "id": "cmt7ohrno2cdbro7346el52xg",
+    "title": "SpaceX 与 NVIDIA 合作将 Vera Rubin 系统送入轨道",
+    "url": "https://x.com/testingcatalog/status/2091979175426940986",
+    "summary": "SpaceX 与 NVIDIA 合作设计了太空优化的 Vera Rubin NVL72 系统，计划于今年晚些时候发射入轨。SpaceXAI 将部署 NVIDIA Vera CPU 加速其下一代智能体 AI 工作负载，并扩展基于 Vera Rubin 平台的 Grok AI 基础设施，向吉瓦级算力迈进。首代 Starmind AI 卫星将基于该优化系统，马斯克称 Q4 发射、2028 年显著扩展。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月25日4时1分"
+  },
+  {
     "id": "cmt7mclz62antro73zz04jiyt",
     "title": "AI影响时间线争论：从即刻到多年",
     "url": "https://x.com/emollick/status/2091965473558552732",
     "summary": "我认为当前的讨论过于偏向\"AI的影响需要很多年才能显现\"，正如不久前过于偏向\"AI将立即改变经济\"一样。",
     "source": "X：Ethan Mollick (@emollick)",
     "date": "2026年8月25日3时6分"
+  },
+  {
+    "id": "cmt7p84yy2cx7ro73lj3ijkod",
+    "title": "Google Antigravity 智能体技能进阶（一）：交互式 UI 工作流",
+    "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-1-interactive-ui-workflows-6l2",
+    "summary": "Google Antigravity 通过将原生聊天 UI 组件嵌入 SKILL.md 指令，让智能体从被动文本解析器转变为主动技术面试官。本文详解交互式 UI 技能架构：使用 ask_question 工具渲染原生模态框，通过 user_prefs.json 实现跨会话状态水合与持久化，并介绍内置 /grill-me 命令及 making-forms-demo 参考实现。",
+    "source": "Google AI：DEV 作者专属（RSS）",
+    "date": "2026年8月25日3时55分"
   },
   {
     "id": "cmt7nqw7e2bspro731966nnkd",
