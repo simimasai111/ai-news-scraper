@@ -14264,6 +14264,38 @@
     "date": "2026年8月24日1时23分"
   },
   {
+    "id": "cmt6z08z51o32ro73zsnkmd25",
+    "title": "数据中心建设热潮吸走建筑工人，美国住房建设用工荒加剧",
+    "url": "https://www.ithome.com/0/993/599.htm",
+    "summary": "美国成屋签约销售量跌至三年最低，7月新屋建设创三年半新低，房地产市场承压。AI数据中心建设热潮正争夺建筑业熟练技工，部分住宅建设工人转向数据中心项目。美国住宅建筑商学会CEO埃德·布雷迪称，全美约缺30万名熟练技工，且短期内难以扭转。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日16时6分"
+  },
+  {
+    "id": "cmt6z08z51o2zro7344f1f2yl",
+    "title": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌\"豆包工作\"",
+    "url": "https://www.ithome.com/0/993/604.htm",
+    "summary": "字节跳动对旗下办公 AI 产品完成团队整合，TRAE、扣子（Coze）团队整体并入豆包体系，其中 TRAE Work、扣子将与豆包整合工作场景产品能力，TRAE IDE 及 CLI 作为豆包品牌下编程产品线发展。调整后相关团队向豆包产品负责人赵祺汇报，豆包最快本周内推出独立 AI 办公产品\"豆包工作\"。字节回应称旨在协同资源，现有用户权益不受影响。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日16时12分"
+  },
+  {
+    "id": "cmt6z08z51o30ro73fhyxb676",
+    "title": "小米玄戒三芯齐发，央视新闻称\"中国芯片产业再突破\"",
+    "url": "https://www.ithome.com/0/993/602.htm",
+    "summary": "小米发布玄戒 O3、O100、D100 三款自研芯片，分别面向个人智能终端、端侧 AI 加速与 AI 智驾场景。玄戒 O3 采用自研 3nm 制程，安兔兔跑分首破 500 万，预计今年 9 月搭载于新折叠旗舰小米 18Fold。雷军透露，小米大芯片研发已投入超 210 亿元，团队近 3000 人。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日16时10分"
+  },
+  {
+    "id": "cmt6z08z41o2vro73god5x268",
+    "title": "AI 大模型周榜：智谱 glm-5.3-max 首秀闯入综合榜前 15，月之暗面 kimi-k3-max 冲进前十",
+    "url": "https://www.ithome.com/0/993/601.htm",
+    "summary": "Arena 平台发布第 34 周 AI 大模型盲测排名，智谱新发布的 glm-5.3-max 首次入榜即位列综合榜第 13 名（ELO 1487 分），月之暗面 kimi-k3-max 升至第 10 名，首次进入前十。代码榜中 glm-5.3-max 同样首秀即杀入前十（第 10 名，ELO 1531 分）。综合榜头部由 claude-fable-5 以 1508 分蝉联第一。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日16时10分"
+  },
+  {
     "id": "cmt6wv3171m3sro73q1sibhbe",
     "title": "消息称阿里 800 亿港元配售获近 3 倍超额认购，所得款项将全部用于投资全栈 AI 能力",
     "url": "https://www.ithome.com/0/993/561.htm",
@@ -14272,12 +14304,148 @@
     "date": "2026年8月24日15时7分"
   },
   {
+    "id": "cmt6z08z51o33ro73yp1js4nb",
+    "title": "雷军曝光小米玄戒 O3 隐藏彩蛋：芯片内刻 60 微米 OK 手势寓意\"万事 OK\"",
+    "url": "https://www.ithome.com/0/993/595.htm",
+    "summary": "雷军在 b 站视频中曝光，小米工程师在玄戒 O3 芯片内部用显微镜才能看到的 60 微米\"OK\"手势表情符，寓意\"万事 OK\"。玄戒 O3 为小米 AI 旗舰 SoC，安兔兔跑分 522 万，为首个突破 500 万分的旗舰 SoC，CPU 多核跑分首次破 15000，GPU 性能提升 85%、功耗降低 64%，并全球首发支持 LPDDR6。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日15时59分"
+  },
+  {
+    "id": "cmt6yrz6l1nzsro736cofpd1d",
+    "title": "阿里云万相3.0上线Venice平台",
+    "url": "https://x.com/alibaba_cloud/status/2091796665506439400",
+    "summary": "Wan3.0 现已在 @AskVenice 上线。你的创意始终属于你。去创作吧 ↓ 更多 API 接入：\n• Model Studio： https://click.alibabacloud.com/m/20000002017/\n• Qwen Cloud： https://click.qwencloud.com/m/20000002025/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月24日15时56分"
+  },
+  {
+    "id": "cmt6yrz6l1nztro73bz4rstd9",
+    "title": "阿里云 Wan3.0 上线 NadouPro，支持 30 秒原生视频",
+    "url": "https://x.com/alibaba_cloud/status/2091796012205756629",
+    "summary": "阿里云 Wan3.0 已上线 NadouPro，升级视频生成的长度、多模态参考与真实感，并开放 Model Studio 与 Qwen Cloud 的 API 接入。新版本支持原生 30 秒视频生成、现实级渲染，以及 Omni-Reference 多模态参考，除文本、图像、音频、视频外，还可输入文档、表格、幻灯片和网页等。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月24日15时53分"
+  },
+  {
+    "id": "cmt6yrz6l1nzuro73h1m8czo0",
+    "title": "阿里云 Wan3.0 上线 Segmind，原生生成 30 秒视频",
+    "url": "https://x.com/alibaba_cloud/status/2091795688187392432",
+    "summary": "阿里云 Wan3.0 视频生成模型已在 Segmind 平台上线，支持单次生成 2 至 30 秒视频，无需拼接。该模型具备 Omni-Reference 多模态参考能力，可输入文本、图像、音频、视频及文档等素材，并支持最高 1080p 分辨率与精细面部渲染。用户可通过 PixelFlow 或 API 调用，也可在 Model Studio 和 Qwen Cloud 获取更多访问权限。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月24日15时52分"
+  },
+  {
+    "id": "cmt6z08z51o35ro73d2r6tzhe",
+    "title": "三星新愿景：让 HBM 不只是内存",
+    "url": "https://www.ithome.com/0/993/592.htm",
+    "summary": "三星技术负责人 Han Sang-wook 在 Hot Chips 2026 提出 HBM 远期愿景，计划将内存控制器从处理器转移到 HBM 基底芯片中，以释放 SoC 面积并增加计算晶体管。内存控制器当前约占 SoC 面积的 5%-10%。三星还在研究 aHBM（Advanced HBM）方案，让 HBM 从高速内存向内存 + 计算演进，承担部分 AI 计算任务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日15时50分"
+  },
+  {
+    "id": "cmt6z08z51o36ro73j0aqfk6h",
+    "title": "宇树科技股价收跌 10.31%，市值被 Figure AI 反超跌至全球人形机器人榜第二",
+    "url": "https://www.ithome.com/0/993/591.htm",
+    "summary": "截至 8 月 24 日收盘，宇树科技下跌 10.31%，报 603.08 元/股，总市值 2439 亿元，被 Figure AI 约 2691 亿元（390 亿美元）投后估值反超，跌至全球人形机器人市值榜第二。该公司 8 月 19 日上市，发行价 150.80 元，首日市值一度站上 4449 亿元，此后连续三日下挫，市值蒸发超 2000 亿元，但较发行价仍上涨约 300%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日15时49分"
+  },
+  {
+    "id": "cmt6z08z51o37ro73n2diwv5j",
+    "title": "2026世界机器人大会在京闭幕：首发新品311件，下一届官宣2027年8月18日开幕",
+    "url": "https://www.ithome.com/0/993/589.htm",
+    "summary": "2026世界机器人大会于8月23日在北京闭幕，373家企业展示3000余件产品，其中首发新品311件，现场参会人次达55.7万。大会发布44项新技术新方案及《2026年人形机器人产业发展报告》，上半年我国人形机器人出货量超4万台、全球占比97%。2027世界机器人大会定于2027年8月18日开幕。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日15时47分"
+  },
+  {
+    "id": "cmt6xp9vi1my3ro73e9lt444y",
+    "title": "阿里云 Wan 3.0 上线 Envato AI 视频工具",
+    "url": "https://x.com/alibaba_cloud/status/2091793675529617765",
+    "summary": "阿里云 Wan 3.0 现已集成至 Envato 的 AI 视频工具，带来更强的参考一致性、更丰富的视觉细节和更多创意可能性。同时开放更多 API 接入渠道，包括 Model Studio 和 Qwen Cloud。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月24日15时44分"
+  },
+  {
+    "id": "cmt6z08z51o38ro73bfb2v5ju",
+    "title": "雷军：玄戒不只是小米的芯片战略，更是小米 AI 战略的物理基础",
+    "url": "https://www.ithome.com/0/993/587.htm",
+    "summary": "小米今日发布新一代玄戒芯片，包括玄戒 O3、玄戒 O100 和玄戒 D100，三颗芯片均完成回片验证。雷军称玄戒已成为小米全生态的 AI 算力底座，贯穿人车家全场景端侧 AI 算力需求。其中玄戒 O3 将首次亮相于旗舰折叠新品小米 18 Fold，O100 和 D100 将于明年正式商用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日15时43分"
+  },
+  {
+    "id": "cmt6xp9vi1my4ro73qwrko4br",
+    "title": "阿里云 Wan 3.0 正式发布，原生 30 秒视频生成",
+    "url": "https://x.com/alibaba_cloud/status/2091793311887663494",
+    "summary": "阿里云 Wan 3.0 在 SousakuAI 正式发布，支持原生 30 秒长视频生成，具备高一致性与高真实感，并支持从文档和网页生成视频。发布期间 Wan 系列限时 50% OFF，生成速度与等待时间也进一步优化。API 已上线 Model Studio 与 Qwen Cloud。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月24日15时42分"
+  },
+  {
+    "id": "cmt6xp9vi1my5ro73jok0pkez",
+    "title": "通义万相 Wan 3.0 上线 FlovaAI 限时优惠",
+    "url": "https://x.com/alibaba_cloud/status/2091792947515982247",
+    "summary": "阿里云 Wan 3.0 视频生成模型正式上线 FlovaAI，480P 版本限时低至 $0.013/秒。该版本支持音画同步与自然节奏过渡，带来更沉浸的内容呈现。用户还可通过 Model Studio 和 Qwen Cloud 获取 API 访问。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月24日15时41分"
+  },
+  {
+    "id": "cmt6xp9vi1my6ro73j8fjeweu",
+    "title": "阿里云Wan3.0上线Magnific支持多模态生成",
+    "url": "https://x.com/alibaba_cloud/status/2091792537287807040",
+    "summary": "Wan3.0 现已上线 @magnific。输入文本、图片、网页内容--输出 30 秒电影感视频。更多 API 接入：\n• Model Studio： https://click.alibabacloud.com/m/20000002017/\n• Qwen Cloud： https://click.qwencloud.com/m/20000002025/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月24日15时39分"
+  },
+  {
+    "id": "cmt6z08z51o3aro73efo5jwlb",
+    "title": "新一代玄戒芯片正式发布，雷军透露小米重启大芯片研发累计投入超 210 亿",
+    "url": "https://www.ithome.com/0/993/583.htm",
+    "summary": "小米在今日玄戒芯片技术沟通会上发布新一代玄戒芯片，包括「AI 旗舰 SoC」玄戒 O3、「高带宽 AI 加速芯片」玄戒 O100 和「国内首款 3nm 智驾高算力 AI 芯片」玄戒 D100。雷军透露，小米重启大芯片研发五年多，累计投入研发经费超 210 亿，芯片团队近 3000 人。玄戒 O3 已开启规模量产，O100 和 D100 研发完成，明年正式商用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日15时35分"
+  },
+  {
+    "id": "cmt6z08z51o3bro73vnmrluka",
+    "title": "韩国通过《个人信息保护法》修正案，允许 AI 开发使用个人数据",
+    "url": "https://www.ithome.com/0/993/581.htm",
+    "summary": "韩国国会全体通过《个人信息保护法》修正案，允许 AI 开发商在经个人信息保护委员会审查后，使用限定范围内的个人数据。现行法律原则上要求个人信息仅用于收集时明确之目的，用于 AI 开发需获数据主体同意或具备法律依据。修正案将在国务会议批准和正式批准后 6 个月生效，委员会将制定具体指南和下位法。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日15时31分"
+  },
+  {
+    "id": "cmt6z08z51o3cro73fv20x9ks",
+    "title": "雅虎拟借 AI 工具重振雄风，CEO 兰佐内称\"复古\"就是最大优势",
+    "url": "https://www.ithome.com/0/993/580.htm",
+    "summary": "雅虎 CEO 吉姆·兰佐内称，公司悠久历史在年轻用户眼中形成\"复古\"魅力，是 AI 浪潮中的信任优势。雅虎计划今年晚些时候全面推出 AI 问答引擎 Scout，结合自有内容档案、用户数据和 30 年搜索历史及多家 AI 公司授权技术，并通过广告变现。兰佐内未披露财务数据，但称业务\"非常健康\"，华尔街银行家已将雅虎视为最快明年可能 IPO 或出售的公司之一。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日15时30分"
+  },
+  {
     "id": "cmt6wv3171m3nro73833v44sm",
     "title": "小米 18 Fold 折叠旗舰机开启百元预约，首发搭载自研玄戒 O3 AI 处理器",
     "url": "https://www.ithome.com/0/993/576.htm",
     "summary": "小米 18 Fold 全新折叠旗舰机今日开启百元预约，确认首发搭载自研玄戒 O3 AI 旗舰芯片，安兔兔跑分高达 522 万分，将于 9 月正式上市。小米总裁卢伟冰已换用该机（微博机型小尾巴显示\"Xiaomi 18 Fold\"），并预告\"新手机，非常棒，9 月见\"。",
     "source": "IT之家（RSS）",
     "date": "2026年8月24日15时23分"
+  },
+  {
+    "id": "cmt6xp9vi1my7ro73qnpf3bev",
+    "title": "阿里云 Wan3.0 上线 TapNow，支持多格式参考",
+    "url": "https://x.com/alibaba_cloud/status/2091787580954304776",
+    "summary": "阿里云 Wan3.0 多模态视频生成模型上线 TapNow，支持一次生成最长 30 秒视频，并接受多种参考格式输入。模型在场景中保持运动、光照和物理细节的一致性，现可通过 Model Studio 和 Qwen Cloud 获取 API 访问。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月24日15时19分"
+  },
+  {
+    "id": "cmt6xp9vi1my8ro731egsdr1x",
+    "title": "阿里云 Wan3.0 上线 fal，单次生成 30 秒视频",
+    "url": "https://x.com/alibaba_cloud/status/2091787253274329304",
+    "summary": "阿里云 Wan3.0 已上线 fal 平台，单次生成原生 30 秒视频，无需拼接。支持文本、图像、音频、视频、网页和文档等多模态输入，并提升真实世界运动渲染效果。更多 API 接入可通过 Model Studio 和 Qwen Cloud 获取。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月24日15时18分"
   },
   {
     "id": "cmt6wmpgf1m07ro73ydv2dpf6",
