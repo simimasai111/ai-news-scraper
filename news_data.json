@@ -13848,12 +13848,116 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt6k01xn1agaro73tppx3usb",
+    "title": "联想集团与海尔集团签署战略合作协议，推动联想 AI PC 与海尔智慧家庭场景融合",
+    "url": "https://www.ithome.com/0/993/353.htm",
+    "summary": "联想集团与海尔集团签署战略合作协议，围绕算力基础设施共建、核心技术联合攻关、产业场景共创等领域展开合作。双方将推动联想 AI PC 等智能终端与海尔智慧家庭场景融合，共建数据中心与算力基础设施，并整合海尔卡奥斯工业互联网平台与联想算力基础设施，打造\"算力 + 平台 + 场景\"一体化方案。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日9时8分"
+  },
+  {
+    "id": "cmt6kpbgs1b4xro73jcnw9uxd",
+    "title": "缓存命中率96%成本降3.2倍",
+    "url": "https://x.com/chunxiangai/status/2091693845566329237",
+    "summary": "经三天优化，缓存命中率提升至96%，输出/输入比例提升2.5倍，在请求数与输出数不变的情况下成本降低3.2倍。优化核心是采用 Observational Memory（OM）概念，参考 Mastra 文档。此举源于被梁文峰谷+大涨价倒逼出的极限优化。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月24日9时7分"
+  },
+  {
+    "id": "cmt6jrqm81adqro73dy4tmy08",
+    "title": "Claude Code 远程控制大幅节省时间",
+    "url": "https://x.com/rohanpaul_ai/status/2091693220644454707",
+    "summary": "Claude Code 新增的\"远程控制\"功能将节省大量时间。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日9时5分"
+  },
+  {
+    "id": "cmt6kpbge1b4tro739ir370nb",
+    "title": "a16z 数据：律师用 Codex 增速暴涨 108 倍",
+    "url": "https://x.com/AYi_AInotes/status/2091701694065168587",
+    "summary": "a16z 最新图表显示，OpenAI Codex 在企业中的周活增长呈极端分化：律师增速高达 108 倍，销售、招聘各 41 倍，营销 26 倍，医疗 24 倍，而工程师仅 5 倍垫底。Codex 已从代码补全进化为能自主拆解任务、运行数小时的数字同事，律师正用它处理海量长文本与合同比对。这标志着知识工作\"编程化\"，AI 爆发点正从技术圈转向高价值白领岗位。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月24日9时38分"
+  },
+  {
+    "id": "cmt6k01xn1agdro730u6krvtu",
+    "title": "澜起 PCIe 6.x / CXL 3.x 重定时器列入 PCI-SIG 供应商名录",
+    "url": "https://www.ithome.com/0/993/350.htm",
+    "summary": "澜起科技（Montage）宣布其 PCIe 6.x / CXL 3.x 重定时器（Retimer）通过 PCI-SIG 系列认证，正式列入该组织官方供应商名录。该芯片采用自适应均衡技术补偿信道损耗，兼具业界领先的能效表现。澜起总裁 Stephen Tai 称，这一里程碑将为下一代 AI 平台大规模部署其 Retimer 芯片提供保障。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日9时2分"
+  },
+  {
+    "id": "cmt6k01xn1agero737oza01t1",
+    "title": "天骄队人形机器人跳出 7.97 米，夺世界人形机器人运动会跳远冠军",
+    "url": "https://www.ithome.com/0/993/348.htm",
+    "summary": "8 月 23 日晚，第二届世界人形机器人运动会跳远决赛中，天骄队机器人跳出 7.97 米，夺得金牌。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日9时1分"
+  },
+  {
+    "id": "cmt6k01xn1ag8ro73vwiycrr3",
+    "title": "香橙派预热 OrangePi Zero 4 单板计算机：基于全志 A733 处理器",
+    "url": "https://www.ithome.com/0/993/356.htm",
+    "summary": "香橙派宣布将推出基于全志 A733 处理器的 OrangePi Zero 4 单板计算机，尺寸 50×55×1.2mm，与 Zero 3 一致。该 12nm SoC 集成 2 个 Cortex-A76、8 个 Cortex-A55 及 1 个 RISC-V 协处理器，配备 3TOPS NPU，支持 LPDDR4（X）/LPDDR5 内存、Wi-Fi 6 与蓝牙 5.4。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日9时17分"
+  },
+  {
+    "id": "cmt6jrqlv1adoro73xj23flhm",
+    "title": "Netflix 如何用 LLM 评判器优化推荐解释",
+    "url": "https://x.com/omarsar0/status/2091691980552388634",
+    "summary": "Netflix 每周运行数十万次节目级推荐解释的 LLM 评判器，服务数百万移动端会员，并将其视为包含诞生、训练、部署、监控四阶段的完整生命周期。训练阶段采用推理对齐的规则调优，以元评判器输出为学习信号；部署时同一评判器承担质量门控与反思生成双重角色。五周 A/B 测试显示，相比无解释对照组，浏览到播放的转化率提升，且未出现质量相关问题。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月24日9时0分"
+  },
+  {
     "id": "cmt6huw2m18uhro73l93zc8qa",
     "title": "美国得州州长阿博特：AI 数据中心遭民众反对实属咎由自取",
     "url": "https://www.ithome.com/0/993/336.htm",
     "summary": "得克萨斯州州长阿博特在 ABC《本周》节目中表示，科技公司围绕 AI 数据中心的宣传未奏效，遭民众抵制是\"咎由自取\"。盖洛普调查显示，七成美国人反对在本地建设 AI 数据中心，其中 48% 强烈反对。阿博特已叫停该州约 1800 个 AI 数据中心项目，并引入新标准保护居民免受基础设施成本影响。",
     "source": "IT之家（RSS）",
     "date": "2026年8月24日8时7分"
+  },
+  {
+    "id": "cmt6k01xn1aggro733fxh8vjh",
+    "title": "SK 海力士披露下一代 HBM 内存先进封装技术，引入英特尔 EMIB",
+    "url": "https://www.ithome.com/0/993/345.htm",
+    "summary": "SK 海力士在 Hot Chips 2026 大会上披露下一代 HBM 封装路线图，计划借助英特尔 EMIB 等先进封装技术，未来进入 3D 封装阶段。其 HBM4 带宽超 2TB/s，功耗效率较 HBM3E 提升 40% 以上，容量最高 48GB，并正研发混合键合与 I-HBM 局部热点缓解技术以应对散热挑战。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日8时54分"
+  },
+  {
+    "id": "cmt6k01xn1aghro73orqen5um",
+    "title": "天工团队回应机器人捂脸跑夺冠：非人为模仿，是它自己迭代出来的",
+    "url": "https://www.ithome.com/0/993/344.htm",
+    "summary": "天工 Omni 在第二届世界人形机器人运动会 400 米（小型组）决赛中以 45.66 秒夺冠，其\"捂脸跑\"跑姿引发关注。研发团队负责人韩刚回应称，并未找人模仿该跑姿，而是机器人在仿真中通过数据迭代自行\"思考\"出来的方式。天工 Omni 身高 1.35m、整机 39kg，并开放了关节、传感器、系统及运控 API 的二次开发体系。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日8时51分"
+  },
+  {
+    "id": "cmt6jdz2v1a5fro73nsvu5xo9",
+    "title": "Codex 修复用量问题并重置所有付费订阅用量",
+    "url": "https://x.com/thsottiaux/status/2091688655828246890",
+    "summary": "Codex 已向所有账户推送用量重置，并修复了此前发现的多项问题，用户应能感受到明显改善。修复包括长会话多压缩场景下图片使用低效、Computer History 高 p95+ 用量，以及对话标题生成功能消耗超预期。团队还发现一种全新的效率提升方法，将于下周推进。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月24日8时46分"
+  },
+  {
+    "id": "cmt6ivok619o7ro73g91dyux2",
+    "title": "Marin 项目成为 AI 开放训练的典范，全程公开代码、数据与实验结果",
+    "url": "https://x.com/AndrewYNg/status/2091688153048645650",
+    "summary": "Andrew Ng 称赞 Marin 项目是 AI 开放训练的典范，代码、数据、配方及实验结果全程公开。该项目本周启动 535B-A23B 模型训练，计划在 11 台 GB200 NVL72 上处理 18.75T tokens，预训练占 80%、中期训练占 20%，总计算量约 2.7e24 FLOPs，为期约 3 个月。",
+    "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+    "date": "2026年8月24日8时44分"
+  },
+  {
+    "id": "cmt6ip58q19koro732zd5p1uk",
+    "title": "AgentX 推理基准：CUDA 护城河能否守住智能体推理",
+    "url": "https://x.com/SemiAnalysis_/status/2091687226291708116",
+    "summary": "AgentX - InferenceXv3：CUDA 护城河在智能体推理中能否守住？开源 300 万美元数据集，100 万+上下文长度，多轮对话，子智能体 95%+ KVCache 命中率，GB300 NVL72，MI355，B200\n\nhttps://newsletter.semianalysis.com/p/agentx-inferencexv3-does-cuda-moat",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月24日8时41分"
   },
   {
     "id": "cmt6huw2m18uiro73iix4a4vl",
