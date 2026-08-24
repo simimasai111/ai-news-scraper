@@ -13864,6 +13864,38 @@
     "date": "2026年8月25日5时5分"
   },
   {
+    "id": "cmt7secit2gzfro73t1l6vjx6",
+    "title": "Claude 网页与桌面端长回复流式渲染提速 4 倍",
+    "url": "https://x.com/ClaudeDevs/status/2092006814804214163",
+    "summary": "Claude 网页版和桌面版的长回复现在流式输出流畅度提升约 4 倍。\n\n我们重构了流式渲染器，使其只更新仍在变化的部分，因此在较慢的笔记本电脑上，长回复的卡顿次数减少 9 倍，最长冻结时间缩短 4.5 倍；在 120Hz MacBook 上，全程可保持 120fps。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月25日5时51分"
+  },
+  {
+    "id": "cmt7s4b3s2ewpro73j68qepy1",
+    "title": "斯坦福研究：AI 对入门级岗位冲击最大",
+    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+    "summary": "斯坦福大学经济学家最新研究显示，AI 正导致部分领域年轻员工的入门级岗位显著流失，而年长员工迄今基本未受影响。在 AI 暴露度最高的职业中，22 至 25 岁员工的就业水平已比低暴露领域同龄人低 19%，高于去年的 13%。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月25日5时45分"
+  },
+  {
+    "id": "cmt7secj62gzhro73rg5byik6",
+    "title": "Ox Alpha 上线 5 天日处理 8 万亿 token",
+    "url": "https://x.com/OpenRouter/status/2092004452287058377",
+    "summary": "Ox Alpha 作为低调前沿模型在 OpenRouter 上线 5 天，日处理量已达 8 万亿 token，引发全网热议。OpenRouter 社区在 Discord 上累计讨论超 16.6 万亿 token，官方整理了 3000 多条消息呈现社区观点。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月25日5时41分"
+  },
+  {
+    "id": "cmt7rx6nl2eqnro73mx3cwpbg",
+    "title": "韩国主权AI竞赛第二轮：三队晋级获B200算力",
+    "url": "https://x.com/ArtificialAnlys/status/2092004258266992684",
+    "summary": "韩国主权AI基础模型项目第二轮评测结束，Upstage（Solar Open 250B，37分）、SK Telecom（A.X K2，35分）、LG AI Research（K-EXAONE 2.0，31分）三队晋级。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月25日5时40分"
+  },
+  {
     "id": "cmt7rbrv02ealro73yvhpn81b",
     "title": "阿里万相3.0上线OpenRouter",
     "url": "https://x.com/OpenRouter/status/2092001924203807202",
