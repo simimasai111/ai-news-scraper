@@ -13848,6 +13848,22 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt6huw2m18uhro73l93zc8qa",
+    "title": "美国得州州长阿博特：AI 数据中心遭民众反对实属咎由自取",
+    "url": "https://www.ithome.com/0/993/336.htm",
+    "summary": "得克萨斯州州长阿博特在 ABC《本周》节目中表示，科技公司围绕 AI 数据中心的宣传未奏效，遭民众抵制是\"咎由自取\"。盖洛普调查显示，七成美国人反对在本地建设 AI 数据中心，其中 48% 强烈反对。阿博特已叫停该州约 1800 个 AI 数据中心项目，并引入新标准保护居民免受基础设施成本影响。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日8时7分"
+  },
+  {
+    "id": "cmt6huw2m18uiro73iix4a4vl",
+    "title": "OpenAI CEO 奥尔特曼：担心人工智能会被少数强势主体掌控",
+    "url": "https://www.ithome.com/0/993/333.htm",
+    "summary": "OpenAI CEO 萨姆·奥尔特曼在 David Senra 播客中表示，担心 AI 终有一天会被少数公司、模型或个人控制，让绝大多数消费者在技术塑造世界问题上没有发言权。他同时担心 AI 挣脱人类控制，并认为对后者的恐惧可能导致前者实现。奥尔特曼还称，美国 AI 领导者未能向公众展示技术如何赋予人们更大自主权，并预测将见证有史以来最大规模的小企业创业热潮。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日8时1分"
+  },
+  {
     "id": "cmt6fheup177nro73mewak244",
     "title": "Vercel AI Gateway开放权重占比升至62%",
     "url": "https://x.com/rohanpaul_ai/status/2091663847744811008",
@@ -13856,12 +13872,44 @@
     "date": "2026年8月24日7时8分"
   },
   {
+    "id": "cmt6hmkck18s1ro73wub7kcnn",
+    "title": "Claude 助数学家破解 1948 年难题",
+    "url": "https://x.com/rohanpaul_ai/status/2091674275027767595",
+    "summary": "又是一周，又一个开放数学难题被 AI 攻克。\n\nAnthropic 的一位数学家与 Claude 合作，声称解决了一个自 1948 年以来悬而未决的著名数学问题。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日7时49分"
+  },
+  {
     "id": "cmt6fheup177oro73svda00ff",
     "title": "主动推理让AI智能体按需获取上下文",
     "url": "https://x.com/rohanpaul_ai/status/2091662518921883836",
     "summary": "一篇论文提出用主动推理让AI智能体显式决策每次澄清、检索或工具调用是否值得其token与延迟成本。受控测试中，定向澄清将验证器合规率从0.0417提升至0.375，平均token使用从约112增至219。建议为智能体增加显式上下文获取层，而非将其视为自动行为。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月24日7时3分"
+  },
+  {
+    "id": "cmt6gjz9617zqro73r9ru5u5p",
+    "title": "Fable 5 仅占 Anthropic 付费 token 使用量 6%，定价为 Opus 5 两倍",
+    "url": "https://x.com/rohanpaul_ai/status/2091670641451950127",
+    "summary": "Anthropic 旗舰模型 Fable 5 仅占其付费 token 使用量的 6%，API 定价为 Claude Opus 5 的两倍，价差正促使企业按任务难度匹配模型。Opus 5 成本仅为 Fable 5 一半，且最大努力模式下在 CursorBench 3.2 上仅落后 0.5%。6 月被迫下架可能永久削弱了 Fable 5 的定价权，并推动客户转向多模型采购。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日7时35分"
+  },
+  {
+    "id": "cmt6gz1j418c8ro73zjnhwcys",
+    "title": "Codex 语音免提编程演示预告",
+    "url": "https://x.com/OpenAIDevs/status/2091669454971343021",
+    "summary": "如果你能减少坐在办公桌前的时间，却完成更多工作，会怎样？\n\n提示：你其实已经可以做到\n\n@AlexFinn 明天将来到我们的演播室，展示他如何通过 Codex 中的语音功能实现免手操作--在桌面端和移动端皆可。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月24日7时30分"
+  },
+  {
+    "id": "cmt6huw2m18ulro73c2cvq6lk",
+    "title": "消息称 AI 初创公司 Hugging Face 探索出售，估值或达 130 亿美元",
+    "url": "https://www.ithome.com/0/993/329.htm",
+    "summary": "据 Business Insider 援引知情人士消息，AI 初创公司 Hugging Face 一直在探索出售事宜，交易估值可能达 130 亿美元或更高。这家总部位于纽约的公司托管开源大语言模型和数据集，已与一家银行合作评估竞购者兴趣。该公司 2023 年融资时估值 45 亿美元，上个月曾因一个 OpenAI 模型失控引发黑客攻击，导致其基础设施受损。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日7时28分"
   },
   {
     "id": "cmt6fppq117a5ro73hs4z1e5h",
@@ -13877,6 +13925,14 @@
     "url": "https://x.com/SemiAnalysis_/status/2091661896642642218",
     "summary": "对即将加入OpenAI的团队成员，有什么关于如何最好地与俄亥俄州社区互动的建议吗？@TaylorLorenz",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月24日7时0分"
+  },
+  {
+    "id": "cmt6gf09x17wmro73uot49yva",
+    "title": "智能体编码会话中指令文件占读取量六成",
+    "url": "https://x.com/dair_ai/status/2091661799737446864",
+    "summary": "一项研究追踪557次智能体编码会话的94K个开发事件及33K个智能体PR的690K条文件变更记录，发现指令文件与工作笔记占智能体读取内容的60.5%，技术文档仅占10.6%，API参考占1.3%。读取文档与即时测试减少相关（调整后比值比0.39），且咨询70.2%为主动发起而非失败驱动。",
+    "source": "X：DAIR.AI (@dair_ai)",
     "date": "2026年8月24日7时0分"
   },
   {
