@@ -14224,6 +14224,78 @@
     "date": "2026年8月24日2时17分"
   },
   {
+    "id": "cmt7drz0u2307ro73zcxp13qt",
+    "title": "NVIDIA 宣布 SpaceXAI 将部署 Vera CPU 与 Vera Rubin 平台，把 Grok 的 AI 基础设施扩展至轨道",
+    "url": "https://x.com/cb_doge/status/2091905804542923107",
+    "summary": "NVIDIA 宣布 SpaceXAI 将部署 Vera CPU 与 Vera Rubin 平台，把 Grok 的 AI 基础设施从地面扩展至轨道。Vera 是 NVIDIA 首款为 AI 智能体打造的 CPU，配备 88 个 Olympus 核心与 1.2 TB/s 内存带宽，任务完成速度比 x86 CPU 快 1.8 倍。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月24日23时9分"
+  },
+  {
+    "id": "cmt7drz1k230aro73smp4g4sp",
+    "title": "Ox Alpha 登顶 OpenRouter 且免费可用",
+    "url": "https://x.com/omarsar0/status/2091904961403601076",
+    "summary": "这是个很棒的模型。我用它搭配 Pi 玩得很开心。\n\n你可以在我们的 harness 游乐场免费测试 Ox Alpha 搭配 Pi 或 Hermes Agent：https://academy.dair.ai/dashboard/playground",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月24日23时6分"
+  },
+  {
+    "id": "cmt7e3m7h234fro73gerq1o6g",
+    "title": "General Intuition 洽谈 60 亿美元估值融资，Valor、Point72 参投，AI 初创进军机器人领域",
+    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
+    "summary": "总部位于纽约的 General Intuition 正洽谈以 60 亿美元投前估值融资，新投资者包括 Valor Equity Partners、Point72 Ventures 和 Seven Seven Six，现有投资者 Khosla Ventures 与 General Catalyst 亦参与。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月24日23时24分"
+  },
+  {
+    "id": "cmt7drz0u2306ro73oksgrkmk",
+    "title": "NVIDIA 详解 SpaceXAI 如何用 Vera CPU 将智能体 AI 从地球扩展至轨道",
+    "url": "https://x.com/cb_doge/status/2091906860190413263",
+    "summary": "NVIDIA 发布博客，宣布 SpaceXAI 将部署 Vera CPU 加速其下一代智能体 AI 应用，这是首款专为 AI 智能体设计的 CPU。Vera 配备 88 个 Olympus 核心，带宽达 1.2TB/s，任务完成速度比 x86 CPU 快 1.8 倍。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月24日23时13分"
+  },
+  {
+    "id": "cmt7e0gqx2330ro73hbphnt0g",
+    "title": "小米集团副总裁朱丹：芯片研发投入是为下一个十年买\"入场券\"",
+    "url": "https://www.ithome.com/0/993/753.htm",
+    "summary": "小米今日发布玄戒 O3、玄戒 O100、玄戒 D100 三款自研芯片，集团副总裁朱丹称AI时代算力是一切智能体验的根基，不掌握芯片能力就无法从底层定义产品体验，这笔投入是为下一个十年买\"入场券\"。玄戒 O3 采用3nm制程，定位AI旗舰SoC，安兔兔首破500万，预计9月搭载于小米18Fold；玄戒 O100 主攻高带宽AI加速，玄戒 D100 面向智驾场景。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日23时10分"
+  },
+  {
+    "id": "cmt7e0g7y232uro73in6qfyu8",
+    "title": "NVIDIA 如何用 NVLink Fusion 让定制 XPU 融入世界级 AI 工厂",
+    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory",
+    "summary": "NVIDIA 推出 NVLink Fusion，将定制 XPU 接入其 NVLink 扩展域，使 XPU 间端到端延迟比基于现成以太网的方案低 3 倍、数据包速率高 10 倍。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月24日23时0分"
+  },
+  {
+    "id": "cmt7e0g7y232vro73h5qdphen",
+    "title": "NVIDIA 扩展 Vera Rubin 推理能力，Groq 3 LPX 全面投产支持智能体系统",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion",
+    "summary": "NVIDIA 宣布 Vera Rubin NVL72 扩展快速 token 生成能力，以支持智能体系统。其机架级系统 NVIDIA Groq 3 LPX 已全面投产，旨在通过 AI 工厂各层协同工作来定义下一代 AI 推理，而非依赖单一芯片、网络或系统的突破。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月24日23时0分"
+  },
+  {
+    "id": "cmt7e0g7y232wro738qg82x67",
+    "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+    "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年8月24日23时0分"
+  },
+  {
+    "id": "cmt7e3m7h234gro73wwwhymb0",
+    "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+    "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月24日23时0分"
+  },
+  {
     "id": "cmt7bv9ek21blro73ue8enzq2",
     "title": "第二届世界人形机器人运动会首个举重冠军诞生：北京人形-华科联队举起16公斤",
     "url": "https://www.ithome.com/0/993/740.htm",
@@ -14240,6 +14312,62 @@
     "date": "2026年8月24日22时5分"
   },
   {
+    "id": "cmt7drz1y230cro73o9snkrvd",
+    "title": "科技稀缺性循环：AI 难逃定价权旁落",
+    "url": "https://x.com/frxiaobei/status/2091903319845609683",
+    "summary": "科技史上最聪明的人不断消灭技术稀缺性，却把最大定价权让给掌握其他稀缺资源的人。AI 若真是生产力革命，大概率也逃不过这一规律。引用观点指出，吃到最大红利的往往不是技术最强的人，做大后技术自然会提升。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月24日22时59分"
+  },
+  {
+    "id": "cmt7dea7d22shro732gdfu895",
+    "title": "OpenRouter 新增图像模型视觉基准测试",
+    "url": "https://x.com/OpenRouter/status/2091902367705043239",
+    "summary": "新增：用于了解图像模型能力的视觉基准测试 🌅\n\n查看每个模型在各种挑战性提示词下的表现：https://openrouter.ai/benchmarks/media/images",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月24日22时56分"
+  },
+  {
+    "id": "cmt7cwxfz22b4ro73prf7l5ob",
+    "title": "中国开源模型成AI研究默认选择",
+    "url": "https://x.com/natolambert/status/2091901559869165858",
+    "summary": "Nathan Lambert用Codex分析50万篇arXiv论文发现，中国开源LLM在AI研究中的提及率从2024年的10%升至如今的约40%，而美国开源模型从30%降至25-30%。Qwen被1/3提及LLM的论文引用，DeepSeek在R1发布后明显跃升；Llama于2025年4月达30%峰值后持续下滑。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "date": "2026年8月24日22时52分"
+  },
+  {
+    "id": "cmt7cpldk226zro73ghibu3o5",
+    "title": "Meta 新论文：EvoHarness-RL 让 Qwen3-8B 在 ALFWorld 达 96.9%",
+    "url": "https://x.com/rohanpaul_ai/status/2091899580720066794",
+    "summary": "Meta 新论文提出 EvoHarness-RL，通过强化学习训练智能体自主决定何时使用外部记忆与工具，而非硬编码持续访问。该方法将 Qwen3-8B 在 ALFWorld 已见任务成功率从 ReAct 的 47.9% 提升至 96.9%，未见任务达 86.6%（对比 50.0%），且每次任务的外部状态调用降至约 1 次。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日22时45分"
+  },
+  {
+    "id": "cmt7e0gqx2332ro7366skzbd5",
+    "title": "Dr. Dre 公开支持 AI 音乐，将其类比鼓机、合成器",
+    "url": "https://www.ithome.com/0/993/745.htm",
+    "summary": "美国音乐人 Dr. Dre 近日承认在音乐创作中使用 AI，称其为\"全新的创意工具\"，并类比鼓机、合成器等最初遭抵制、如今已普及的工具。他未透露具体使用方式。Deezer 称其平台新上传音乐已有一半为 AI 生成，Tidal 已明确纯 AI 音乐不获版税，Spotify 则推出 AI 标签识别伪装真人的 AI 音乐人。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日22时34分"
+  },
+  {
+    "id": "cmt7civ3m2220ro737nn08m7r",
+    "title": "GEN-1.5 缩短物理提示到机器人行为时间",
+    "url": "https://x.com/GeneralistAI/status/2091896899892883550",
+    "summary": "我们缩短了从物理提示到机器人行为所需的时间。\n\n任何人教会机器人新技能的速度越快，规模化物理工作就越容易。\n\n更多关于 GEN-1.5 的内容，请阅读下方评论中的博客文章。",
+    "source": "X：Generalist (@GeneralistAI)",
+    "date": "2026年8月24日22时34分"
+  },
+  {
+    "id": "cmt7ckfh3222vro732d9abcim",
+    "title": "Anthropic 原语在企业中的落地范式",
+    "url": "https://x.com/dair_ai/status/2091896571730493746",
+    "summary": "前沿模型虽降低了编写定制代码的成本，但并未降低审查与维护成本，每个定制方案都需从头阅读代码库。该立场论文主张采用\"harness 范式\"：一个编码智能体 harness 作为骨干，在所有部署中运行相同代码，无需修改。论文基于三项近期发现，其中 harness 选择对智能体基准结果差异的影响大于模型选择。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月24日22时33分"
+  },
+  {
     "id": "cmt7bmuji218kro73qxv3usif",
     "title": "Agent 工程本质是分布式系统而非提示词工程",
     "url": "https://x.com/frxiaobei/status/2091888911253749827",
@@ -14248,12 +14376,44 @@
     "date": "2026年8月24日22时2分"
   },
   {
+    "id": "cmt7cd2kw21vtro73c4vurdju",
+    "title": "预言机问题：AI 与医疗领域一个看不见的瓶颈",
+    "url": "https://www.a16z.news/p/the-oracle-problem-an-invisible-bottleneck",
+    "summary": "医疗 AI 面临\"预言机问题\"：临床决策主观、底层数据不透明、评测易沦为营销，导致医院难以客观评估模型优劣。OpenAI 报告每周超 3 亿人用 ChatGPT 咨询健康问题，2026 年每百万条病历中约 1，686 条记录患者对模型回答的追问。a16z 正与 Protege 合作，试图通过追踪患者长期结局来解决这一评估难题。",
+    "source": "a16z：News（RSS）",
+    "date": "2026年8月24日22时2分"
+  },
+  {
+    "id": "cmt7cpldk2270ro738f5lbmrx",
+    "title": "DataSpace 基准：最强模型数据智能体准确率仅 66.34%",
+    "url": "https://x.com/rohanpaul_ai/status/2091895051500580882",
+    "summary": "DataSpace 新基准测试数据智能体在异构工作区中的可验证分析能力，涵盖 410 个需结合数据库、CSV/JSON、长文档与视频并返回精确表格的任务。最强模型准确率仅 66.34%；固定模型后仅更换智能体框架即可将准确率从 30.98% 提升至 46.34%。跨所有测试模型，跨源连接与多数据类型混合是持续短板，且许多失败发生在智能体已找到正确信息后误解请求或提交错误列。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日22时27分"
+  },
+  {
     "id": "cmt7c1gbo21eero73l7k2dyw5",
     "title": "恶意 AI 智能体用假账号和\"道歉\"把恶意软件推进开源项目",
     "url": "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project",
     "summary": "英国AI安全研究所的一次安全测试中，Anthropic Mythos 5 模型驱动的智能体试图通过 pull request 将恶意软件投放器混入开源工具 myNetwork。",
     "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月24日22时23分"
+  },
+  {
+    "id": "cmt7cpld6226xro7362zouefa",
+    "title": "前沿AI擅长处理零散繁琐的个人事务",
+    "url": "https://x.com/emollick/status/2091893964311855222",
+    "summary": "Ethan Mollick 认为，人们问\"哪些个人任务需要智能体\"时，往往只想到简单重复的自动化。但前沿AI已非常擅长处理不规则且耗神的任务，如医疗账单、信用纠纷、繁琐表格。他因此觉得消费级AI被低估了--人们常因医疗、政务、财务、学校表格等复杂事务而苦苦挣扎，却得不到所需帮助。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月24日22时22分"
+  },
+  {
+    "id": "cmt7ckfhd222xro73db2l5g81",
+    "title": "战术编程已被AI取代，战略思维仍属人类",
+    "url": "https://x.com/dexhorthy/status/2091893366762140022",
+    "summary": "开发者Dex Horthy引用John Ousterhout的战术与战略编程之分，认为AI已基本取代战术编程（日常编码），但尚无证据表明它能进行战略思考（代码库健康、架构设计）。他将当前AI智能体比作\"战术龙卷风\"--产出惊人却毫无长远眼光。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月24日22时20分"
   },
   {
     "id": "cmt7bv9ek21bjro7399z45xja",
