@@ -14264,6 +14264,30 @@
     "date": "2026年8月24日1时23分"
   },
   {
+    "id": "cmt6qflbf1fwmro73l3ilzaya",
+    "title": "《使命召唤：现代战争 4》测试版被指含 AI 生成美术素材，引发玩家争议",
+    "url": "https://www.ithome.com/0/993/477.htm",
+    "summary": "《使命召唤：现代战争 4》抢先体验多人测试期间，玩家发现多幅疑似由生成式 AI 创建的游戏内美术作品，引发批评。动视已披露使用生成式 AI 工具帮助制作部分游戏内资产，但尚未确认这些具体作品是否由 AI 生成。玩家反应出现分歧，批评者认为该系列应付费聘请艺术家创作环境细节，也有人担忧 AI 内容在成品资产中愈发明显。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日12时5分"
+  },
+  {
+    "id": "cmt6qw2cf1gd2ro731s9biqk6",
+    "title": "OpenAI 长期研究押注的底气何在",
+    "url": "https://x.com/gdb/status/2091745169221787681",
+    "summary": "OpenAI 已建立起长期研究押注的能力。员工 @kundan2510 称，领导层全力支持全双工模型（gpt-live 系列），即便其成功看似渺茫；这种支持并非特例，而是 OpenAI 研究项目的普遍规则。他确信世界上很少有环境能支撑并坚持这样的赌注。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月24日12时31分"
+  },
+  {
+    "id": "cmt6qflbf1fwlro73g78aj1ja",
+    "title": "阿里巴巴达摩院推出肝癌 AI 模型 DAMO LiON，可精准识别 1 厘米微小肿瘤",
+    "url": "https://www.ithome.com/0/993/478.htm",
+    "summary": "阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断 AI 模型 DAMO LiON，可通过 CT 影像识别微小肝脏癌变病灶。两个月真实世界前瞻临床试验中，该模型发现 15 例原本被遗漏的恶性肿瘤，绝大部分为 1 厘米左右病灶；AI 协助阅片用时减少 27%，对恶性肿瘤敏感性提高 11.5%，相关论文登上《自然·医学》。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日12时16分"
+  },
+  {
     "id": "cmt6q77lj1ftwro73aafx51kc",
     "title": "Claude 证明 S6 复结构引热议",
     "url": "https://x.com/emollick/status/2091734781935456365",
@@ -14278,6 +14302,22 @@
     "summary": "Kimi-K3 已上线，拥有 2.8T 参数，原生 1M-token 上下文。它专为仓库级工程、视觉创作和自主规划下一步的智能体而构建。现提供 1M-token 免费试用，立即探索：Model Studio：https://click.alibabacloud.com/m/20000002576/ Qwen Cloud：https://click.qwencloud.com/m/20000002584/ #KimiK3 #AlibabaCloud #QwenCloud #ModelStudio",
     "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "date": "2026年8月24日11时37分"
+  },
+  {
+    "id": "cmt6qflbf1fwpro73gliqvkrp",
+    "title": "Anthropic 最强大模型 Fable 5 遇冷，企业用户转向更便宜 AI 产品",
+    "url": "https://www.ithome.com/0/993/426.htm",
+    "summary": "Anthropic 最贵模型 Fable 5 发布两个多月后，在 Ramp 统计的 7 万家公司支出中仅占约 11% 且趋于平稳，企业用户正转向更便宜的替代品。高价格及旧模型足以处理多数业务需求是主因，Anthropic 自家更小更便宜的 Opus 5 自 7 月底推出后业务支出已超过 Fable。该公司 7 月年化收入达 650 亿美元，较 5 月 470 亿美元增长，但低于投资者最乐观预期。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日11时34分"
+  },
+  {
+    "id": "cmt6qflbf1fwqro73y6iy45o1",
+    "title": "消息称 NVIDIA 考虑向 Perplexity AI 投资\"数十亿美元\"",
+    "url": "https://www.ithome.com/0/993/418.htm",
+    "summary": "NVIDIA 正考虑在 Perplexity AI 最新融资轮中向其投资\"数十亿美元\"，双方还在磋商技术授权协议。Perplexity AI 计划以超 300 亿美元估值融资，较去年 7 月的 180 亿美元上涨超六成，其年化营收已从 2026 年初的不到 2.5 亿美元增至 7.5 亿美元以上。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日11时30分"
   },
   {
     "id": "cmt6oaejb1dzyro73jsejfygu",
