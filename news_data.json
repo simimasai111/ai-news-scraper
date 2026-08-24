@@ -13848,12 +13848,148 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt7lvx1u2aegro73hr0n1t8r",
+    "title": "Mistral 与 HUMAIN 战略合作开发阿拉伯语模型",
+    "url": "https://x.com/MistralAI/status/2091964930715013224",
+    "summary": "今天，我们宣布与 @HUMAIN 达成战略合作，涵盖 AI 基础设施、先进模型开发，以及在沙特阿拉伯及整个地区部署 AI 解决方案。我们将共同开发本地化的前沿 AI 模型，初始重点领域包括网络安全、语音，以及在阿拉伯语中表现优异的模型。\n\nhttps://mistral.ai/news/mistral-x-humain/",
+    "source": "X：Mistral AI (@MistralAI)",
+    "date": "2026年8月25日3时4分"
+  },
+  {
+    "id": "cmt7llq5b2a1fro73uokhcy0v",
+    "title": "对人工智能的依赖将导致编程专业技能的崩溃",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "summary": "过度依赖AI编程工具会削弱开发者的专业技能，尤其是缺乏经验的新手。JetBrains引用的研究显示，重度使用AI辅助的参与者常跳过关键规划阶段，以\"能力错觉\"而非真正理解收场；而限制或忽略AI辅助的新手表现最佳。LLM的\"倒置学习\"模式要求使用者具备足够经验才能有效驾驭，否则易被误导。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日2时45分"
+  },
+  {
+    "id": "cmt7llq5b2a1hro73ev68bs8v",
+    "title": "逆向工程发现 MS Paint 和\"照片\"为本地 AI 生成图片添加不可见 GUID 水印",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main",
+    "summary": "逆向工程显示，MS Paint 和\"照片\"应用会将服务器下发的 GUID 以不可见方式嵌入本地生成的 AI 图像像素中。该水印由服务器签发，用于追踪图片来源，但用户无法直接察觉其存在。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日2时45分"
+  },
+  {
+    "id": "cmt7llq5b2a1iro73za9b204q",
+    "title": "OpenAI 下调 GPT 5.6 Sol 价格，至少持续至 11 月 21 日",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "summary": "OpenAI 宣布下调 GPT 5.6 Sol 的价格，该优惠至少持续至 11 月 21 日。此次降价面向开发者，具体幅度与适用计费方式以官方公告为准。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日2时45分"
+  },
+  {
+    "id": "cmt7llq5b2a1kro73vj0sb5uh",
+    "title": "小米新CPU Xring O3单线程媲美苹果，多线程性能大幅领先",
+    "url": "https://twitter.com/lemire/status/2091894299289874926",
+    "summary": "小米新款CPU Xring O3在单线程性能上大致与苹果处理器相当，多线程执行速度则快得多。该芯片总缓存达44 MB，超过多数笔记本CPU；其最强核心C1-Ultra支持SME2与SVE2，拥有21个执行端口，其中6个支持128位SIMD操作，执行单元数量超过Intel/AMD处理器。这一趋势显示核心正朝着大规模并行执行单元与更大缓存方向发展。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日2时45分"
+  },
+  {
+    "id": "cmt7llq5c2a1oro73nr6utlqx",
+    "title": "如果我17岁，我会从零开始学习如何构建大型语言模型",
+    "url": "https://twitter.com/paulg/status/2091544343589060625",
+    "summary": "一位开发者分享，若回到17岁，会选择从零开始学习构建大型语言模型（LLM）。文章以推特帖子形式呈现，获得426个Hacker News点赞，强调通过亲手搭建理解LLM底层原理的价值。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日2时45分"
+  },
+  {
+    "id": "cmt7llq5c2a1pro73jcvs1v8l",
+    "title": "Anthropic 最优秀 AI 模型难以吸引用户，更便宜工具蓬勃发展",
+    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+    "summary": "Anthropic 最优秀的 AI 模型在用户吸引力上不及更便宜的工具，后者正蓬勃发展。这一现象反映出价格敏感的市场中，性价比正成为用户选择的关键因素。Anthropic 的高端模型面临来自低成本替代品的激烈竞争。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日2时45分"
+  },
+  {
+    "id": "cmt7llq5c2a1qro735yy5pegw",
+    "title": "My agent.md：用项目级提示文件提升大语言模型辅助的代码质量",
+    "url": "https://fabiensanglard.net/agent.md/index.html",
+    "summary": "一位开发者分享通过项目根目录的 agent.md 文件注入编码风格偏好，显著改善 LLM 生成代码的质量。该文件包含避免魔法数字、缩短函数名、减少缩进、严格分层等规则，并附完整示例。作者提醒这并非万能，仍需人工审查，同时指出上下文稀释问题可通过保持短上下文和显式重载 agent.md 缓解。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日2时45分"
+  },
+  {
+    "id": "cmt7loqnv2a7uro738s63m730",
+    "title": "美国GDP统计漏算英伟达经济贡献",
+    "url": "https://x.com/EpochAIResearch/status/2091959069980688660",
+    "summary": "我们发现，美国GDP统计遗漏了英伟达为美国经济增加的大部分价值。\n\n因此，过去一年GDP增长被低估了约0.3个百分点。",
+    "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年8月25日2时41分"
+  },
+  {
+    "id": "cmt7kj4mu294vro731iy7qc0h",
+    "title": "Instinct 强大 AI 助手引发隐私与安全担忧",
+    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
+    "summary": "由前 Sierra 研究员 Noah Shinn 团队打造的 AI 个人助理 Instinct 虽仍处于内测阶段，但其服务条款授予公司对用户数据的\"永久且不可撤销\"许可，包括屏幕截图、光标移动和键盘输入，并可代表用户签订具有约束力的协议。测试者还发现该智能体在断开连接后仍会总结邮件、拒绝删除 Gmail 记录，且易被钓鱼攻击，引发对其安全模型的质疑。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月25日2时3分"
+  },
+  {
+    "id": "cmt7la1ho29uiro7381gfdbes",
+    "title": "AgentSky 推出\"智能体版 OpenRouter\"统一 API",
+    "url": "https://x.com/kimmonismus/status/2091958321888502141",
+    "summary": "AgentSky.dev 发布\"OpenRouter for Agents\"，以统一 API 接入 Claude Code、Codex、DeepSeek、Kimi、OpenCode 等主流智能体，并附带 Agent Playground 供用户在浏览器中并排对比各智能体的耗时、成本与 token 消耗。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日2时38分"
+  },
+  {
+    "id": "cmt7loqnm2a7qro73x6ycsxkw",
+    "title": "潜态推理视频世界模型如何学习世界演化",
+    "url": "https://x.com/_akhaliq/status/2091958146596041142",
+    "summary": "学习世界如何演化\n\n通过潜态动力学推理实现的外推式视频世界模型\n\n论文：https://huggingface.co/papers/2608.09926",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月25日2时37分"
+  },
+  {
+    "id": "cmt7lp2t52a8lro73squzsboa",
+    "title": "Grok 4.6 在 Hermes 五折促销",
+    "url": "https://x.com/SpaceXAI/status/2091957125941543034",
+    "summary": "在 Hermes 中试用 Grok 4.6，现通过 @NousResearch 门户可享 50% 折扣。\n\n或者，使用您现有的 SuperGrok 和 X Premium+ 付费订阅。",
+    "source": "X：SpaceXAI (@SpaceXAI)",
+    "date": "2026年8月25日2时33分"
+  },
+  {
+    "id": "cmt7kh1fc294fro734i8ab8hh",
+    "title": "ADK 如何评估实时语音智能体",
+    "url": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk",
+    "summary": "Google 为 ADK 带来原生实时评估能力，可用模拟用户以音频驱动实时语音智能体、对语音回复打分，并在与文本智能体相同的评估循环中完成。示例采用三个基于 gemini-live-2.5-flash-native-audio 的智能体组成工作流，支持对话场景与固定对话两种测试用例，内置 NOVICE 等用户人设，并以 max_allowed_invocations 限制总轮数。",
+    "source": "Google Developers Blog（RSS）",
+    "date": "2026年8月25日2时24分"
+  },
+  {
+    "id": "cmt7km6da296vro7317eqmm9t",
+    "title": "皮尤研究：ChatGPT 发布后网络 AI 生成文本激增",
+    "url": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022",
+    "summary": "皮尤研究中心分析近 50 万个英文网页发现，ChatGPT 发布后发布的页面中超过三分之一带有 AI 生成文本痕迹。商业 .com 域名出现 AI 文本的比例约为 .edu 或 .gov 网站的十倍。分析工具 Open Pangram 难以区分完全自动生成与部分 AI 辅助的文本，且\"delve\"等 AI 常用词及破折号、牛津逗号的使用频率自 2023 年以来显著上升。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月25日2时22分"
+  },
+  {
     "id": "cmt7keywg2934ro73d3apqmia",
     "title": "MiniMax M3/M2.7 限时免费体验",
     "url": "https://x.com/MiniMax_AI/status/2091948930124947941",
     "summary": "14 天，无限构建。⚡\n\n8 月 24 日至 9 月 6 日期间，可在 @gmi_cloud 上无限使用 MiniMax M3 和 M2.7--外加 Speech 2.8 和 Music 3.0。\n\n立即在 GMI Cloud 上开始构建。你将创造什么？👇",
     "source": "X：MiniMax (@MiniMax_AI)",
     "date": "2026年8月25日2时1分"
+  },
+  {
+    "id": "cmt7l525729rvro73e0m9oe5e",
+    "title": "AI软件工厂设计模式播客预告",
+    "url": "https://x.com/dexhorthy/status/2091949017932665038",
+    "summary": "明天与 @vaibcode 的 🦄 AI that works 播客会很特别，我们将讨论软件工厂设计模式\n\n构建模块长什么样，哪些可以买、哪些可以自己造，harness 等式的两个层面，以及作为构建者你绝对想自己掌控哪些部分",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月25日2时1分"
+  },
+  {
+    "id": "cmt7kwac429j1ro730fm3d5xx",
+    "title": "Claude 企业版 MCP 连接器托管认证正式可用",
+    "url": "https://x.com/ClaudeDevs/status/2091953609185657251",
+    "summary": "面向 MCP 连接器的企业托管认证现已全面可用。\n\n对于 Claude Team 和企业版管理员，授权通过你的身份提供商集中管理。\n\n对于用户，工具和数据自动连接，无需单独进行 OAuth。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月25日2时19分"
   },
   {
     "id": "cmt7k7g0r290tro73dy86hgj4",
@@ -13886,6 +14022,14 @@
     "summary": "Ox Alpha 似乎已经收到了一次重大更新。\n\n你无法想象我对正式发布和模型技术细节有多期待。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月25日1时59分"
+  },
+  {
+    "id": "cmt7kxoay29laro73gn4kt0gy",
+    "title": "丰田北美如何用 Deep Agents 和 LangSmith 规模化企业 AI",
+    "url": "https://www.langchain.com/blog/how-toyota-north-america-put-enterprise-ai-on-the-balance-sheet-with-deep-agents-and-langsmith",
+    "summary": "丰田北美借助 Deep Agents 和 LangSmith 运行 50 多个生产环境 AI 智能体，将交付周期从 6 个月缩短至 4 天。文章展示了其如何通过 LangSmith 追踪 AI 投资回报率（ROI），并以此支撑企业级 AI 的规模化落地。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月25日1时58分"
   },
   {
     "id": "cmt7k7g0z290vro734kpel8dp",
