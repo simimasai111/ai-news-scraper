@@ -13848,6 +13848,62 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt7fx4i024trro73zkf8wgod",
+    "title": "OpenRouter 周 token 量两年激增 9000 倍",
+    "url": "https://x.com/rohanpaul_ai/status/2091919775664611661",
+    "summary": "OpenRouter 从 2024 年 1 月约 100 亿 token/周，增长到 2026 年 8 月超过 90 万亿/周，增长了 9000 倍。\n\n如果这一速度持续下去，不知道未来 2.5 年会是什么情况。\n\n而智能体工作流才刚刚开始。智能体可以消耗极其庞大的 token 量。\n\nOpenRouter 表示，智能体工作负载约在 2 月超过了人类 token 使用量，而一次智能体请求消耗的 token 约为正常人类使用的 15 倍。\n\n图表来自 Menlo Ventures。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日0时5分"
+  },
+  {
+    "id": "cmt7hefqh260vro73xhlc279l",
+    "title": "台湾起诉九人涉嫌伪造文件向中国走私AI服务器，据称涉Nvidia高级经理",
+    "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china",
+    "summary": "台湾基隆检方起诉九人，涉嫌伪造文件掩盖向中国非法出口高端AI服务器、违反美国出口管制，据称包括一名Nvidia高级经理和两名Supermicro在台员工。嫌疑人被控\"背信与伪造文件\"，另有一名相关案件嫌疑人仍在逃。此前美国于3月逮捕Supermicro联合创始人Wally Liaw，指控其自2024年起向中国输送价值25亿美元受限AI服务器。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月25日0时41分"
+  },
+  {
+    "id": "cmt7gzpyb25nyro73ocfbvdfs",
+    "title": "NVIDIA Groq 3 LPX 全面投产，输出速度破纪录",
+    "url": "https://x.com/kimmonismus/status/2091926070085759448",
+    "summary": "NVIDIA Groq 3 LPX 已全面投产，为 Vera Rubin 平台新增专用 token 生成加速器。在 Artificial Analysis 基准测试中，运行 Gemma 4 31B（10 万 token 上下文）达到每秒 3400 输出 token，为该模型最快纪录。Nebius 将率先通过其 Token Factory 部署，Groq 紧随其后。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日0时30分"
+  },
+  {
+    "id": "cmt7gbuyc24znro730d0691dd",
+    "title": "软件应能通过提示词改变",
+    "url": "https://x.com/steipete/status/2091923535513928015",
+    "summary": "我们需要摆脱那些无法用提示词改变的软件。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月25日0时20分"
+  },
+  {
+    "id": "cmt7g4np224w6ro73ujcb2izc",
+    "title": "Artificial Analysis 联合 Liquid AI 发布手机端小模型评测",
+    "url": "https://x.com/ArtificialAnlys/status/2091922042459406560",
+    "summary": "Artificial Analysis 与 Liquid AI 合作，在 iPhone 17 Pro 和 Galaxy S26 Ultra 上对 4-bit 或更低精度的小模型进行端到端推理性能与智能水平独立评测。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月25日0时14分"
+  },
+  {
+    "id": "cmt7gbuxx24zlro73d5ajw571",
+    "title": "深度学习Python第15-16章教你从零构建LLM",
+    "url": "https://x.com/fchollet/status/2091921787978445119",
+    "summary": "如果你17岁（或任何年龄），想学习从零构建大语言模型，请阅读《Deep Learning with Python》第15-16章，在线可读：https://deeplearningwithpython.io/chapters/chapter16_text-generation/\n\n特别是第15章，包含了你能找到的关于点积注意力为何有效的极佳解释之一。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月25日0时13分"
+  },
+  {
+    "id": "cmt7gc76b250dro7316efynyk",
+    "title": "微软 Skala 1.1 更新提升计算化学精度",
+    "url": "https://x.com/MSFTResearch/status/2091918455301628355",
+    "summary": "Skala 1.1，微软研究院更新的深度学习交换关联泛函，提供了更高的精度、在计算化学生态系统中更广泛的可及性，以及一个用于跟踪计算性能的动态基准。https://msft.it/6011aOXe5",
+    "source": "X：Microsoft Research (@MSFTResearch)",
+    "date": "2026年8月25日0时0分"
+  },
+  {
     "id": "cmt6k01xn1agaro73tppx3usb",
     "title": "联想集团与海尔集团签署战略合作协议，推动联想 AI PC 与海尔智慧家庭场景融合",
     "url": "https://www.ithome.com/0/993/353.htm",
@@ -14240,12 +14296,52 @@
     "date": "2026年8月24日23时6分"
   },
   {
+    "id": "cmt7fre7a24pbro73luzui159",
+    "title": "XPENG IRON 人形机器人获创纪录物理 AI 融资",
+    "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding",
+    "summary": "小鹏汽车（XPENG）旗下物理 AI 部门通过多份股份购买协议完成超 9 亿美元融资，估值达 63 亿美元，用于扩大 IRON 人形机器人平台规模。该公司称，这是物理 AI 领域单轮私募融资中规模最大的一笔。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月24日23时53分"
+  },
+  {
+    "id": "cmt7fx4ia24turo73pw3vx8b5",
+    "title": "Grok Bot 将新增模板与多账户支持",
+    "url": "https://x.com/testingcatalog/status/2091916457831535085",
+    "summary": "SPACEXAI 🔥：Grok Bot 即将获得模板、多账户支持、出口隧道和 Chrome 配置文件导入功能。\n\n目前尚不清楚模板将位于任务层级还是机器人层级，但设置中将设有专门的发现标签页。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月24日23时52分"
+  },
+  {
+    "id": "cmt7guqdh25l9ro733uu5eutu",
+    "title": "exo 开源智能体框架如何实现递归自我改进",
+    "url": "https://x.com/dair_ai/status/2091916336192479279",
+    "summary": "exo 是专为递归自我改进（RSI）设计的新开源智能体框架，将智能体拆为三层：exoharness 以追加式事件日志存储不可篡改的持久状态，executor 负责组装提示词、调用模型与调度工具，sandbox 在可快照回滚的隔离环境中执行任务。支持从任意事件分叉对话、回滚至出错前检查点、数周后恢复完整会话，并可通过 tool_requested 与 tool_result 查看实际执行的命令。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月24日23时51分"
+  },
+  {
+    "id": "cmt7fx4hs24toro73fgmol40p",
+    "title": "exo 开源智能体框架如何解决递归自我改进",
+    "url": "https://x.com/omarsar0/status/2091915906305704015",
+    "summary": "exo 是一个新的开源智能体框架，专为解决递归自我改进（RSI）而设计，将智能体分为三层：exoharness 存储不可篡改的追加式事件日志、executor 负责组装提示词与调用模型、sandbox 提供可快照回滚的隔离执行环境。该框架支持从任意事件分叉对话、回滚到破坏前状态、数周后恢复完整上下文，并读取实际执行的命令。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月24日23时49分"
+  },
+  {
     "id": "cmt7f13es243iro73s2sx1w2m",
     "title": "马斯克引用爱因斯坦名言谈技术责任",
     "url": "https://x.com/mustafasuleyman/status/2091915181576081575",
     "summary": "有史以来最重要、最鼓舞人心的名言之一：\"对人的关怀及其命运，必须始终成为一切技术努力的首要关切……唯此，我们心智的创造才能成为人类的福祉，而非祸害。\"（阿尔伯特·爱因斯坦，1931年）",
     "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
     "date": "2026年8月24日23时46分"
+  },
+  {
+    "id": "cmt7g5m3k24wlro73bg81wav2",
+    "title": "ACEMAGIC 推出 F2A 迷你主机：酷睿 Ultra X7 358H 处理器、32GB 内存",
+    "url": "https://www.ithome.com/0/993/758.htm",
+    "summary": "ACEMAGIC 推出新一代迷你主机 F2A，搭载酷睿 Ultra X7 358H 处理器（16 核 16 线程），NPU AI 算力最高 50 TOPS，整机 AI 性能最高 180 TOPS。标配 32GB LPDDR5X 内存和 1TB 固态硬盘，配备 USB4、双 2.5G 网口等接口，最多可连接 4 台显示器，预装 Windows 11 专业版。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日23时41分"
   },
   {
     "id": "cmt7epkun23ulro73s2xknllw",
@@ -14325,6 +14421,14 @@
     "url": "https://x.com/lijigang/status/2091911806252171555",
     "summary": "把「群」视作一个「大模型」，每个人的发言都是一条Prompt。",
     "source": "X：李继刚 (@lijigang)",
+    "date": "2026年8月24日23时33分"
+  },
+  {
+    "id": "cmt7g5m3k24wnro73mwjm7buf",
+    "title": "Anthropic 面试流程曝光：直接问求职者\"使命与金钱冲突时如何选择\"",
+    "url": "https://www.ithome.com/0/993/756.htm",
+    "summary": "外媒 Axios 报道，Anthropic 在招聘中会询问求职者一个直接问题：公司使命与金钱发生冲突时如何选择。所有求职者需参与文化面试，有人被问\"若公司为安全放弃 AI 业务导致股价归零你有何感想\"。面试官有提问模板但不严格照读，薪酬为最终报价、不接受谈判。",
+    "source": "IT之家（RSS）",
     "date": "2026年8月24日23时33分"
   },
   {
