@@ -14224,6 +14224,134 @@
     "date": "2026年8月24日2时17分"
   },
   {
+    "id": "cmt79hnvy1zblro73abrcnweb",
+    "title": "对抗式审查：结构化分歧提升智能体代码审查",
+    "url": "https://x.com/rohanpaul_ai/status/2091875488088395848",
+    "summary": "一篇论文提出用\"对抗式审查\"规则提升AI智能体代码审查：审查者与批评者需用代码证据回应分歧，而非简单互相认同。在LiveCodeBench上，3个智能体达87%准确率，优于5智能体版本的82%；在真实PR审查中，该规则将F1分数从0.457提升至0.533，跃居首位。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月24日21时9分"
+  },
+  {
+    "id": "cmt79q3yt1ze9ro730udfjm11",
+    "title": "何小鹏：目标明年实现 Robotaxi 无安全员载客运营",
+    "url": "https://www.ithome.com/0/993/730.htm",
+    "summary": "小鹏集团董事长何小鹏今日透露，搭载第二代 VLA 的前装量产 Robotaxi 已在广州完成超 2000 次内测订单，跑通载人示范运营全流程，公司已完成云端接管平台开发，目标明年实现无安全员载客运营。小鹏近期组建集团级 BD 团队，正与海内外伙伴洽谈，推动图灵 AI 芯片、第二代 VLA 模型、Robotaxi 和人形机器人技术走向全球市场。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日21时7分"
+  },
+  {
+    "id": "cmt79q3yt1zearo733ijyqnuv",
+    "title": "雷军官宣 9 月为小米\"科技大月\"，澎程系列新车与 Xiaomi 18 Pro/Fold 同月发布",
+    "url": "https://www.ithome.com/0/993/729.htm",
+    "summary": "雷军宣布 9 月为小米\"科技大月\"，月初澎程系列新车上市并同场发布 Xiaomi 18 Fold，月底推出 Xiaomi 18 Pro 系列。小米 18 Fold 与小米平板 9 Pro Max 首发搭载玄戒 O3 AI 旗舰 SoC，安兔兔跑分 522 万，CPU 多核首破 15000 分，GPU 性能提升 85%、功耗降低 64%，并全球首发支持 LPDDR6。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日21时6分"
+  },
+  {
+    "id": "cmt79q3yt1zebro73oxs3zlw8",
+    "title": "何小鹏：今年 Q4 小鹏汽车将挑战单月销量突破 6 万辆",
+    "url": "https://www.ithome.com/0/993/728.htm",
+    "summary": "小鹏董事长何小鹏在半年报业绩会上透露，大五座旗舰车型 G9L 将于 9 月上市交付，MONA L05 计划四季度在国内上市，届时将挑战单月销量突破 6 万辆。搭载第二代 VLA 的前装量产 Robotaxi 已在广州完成超 2000 次内测订单，目标明年实现无安全员载客运营。机器人 IRON 计划今年底进入规模量产，2027 年正式上市并面向海外客户交付。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日21时4分"
+  },
+  {
+    "id": "cmt79q3yt1ze6ro73exypi961",
+    "title": "小米玄戒 O3 行业首发支持 LPDDR6，长鑫存储为核心合作伙伴",
+    "url": "https://www.ithome.com/0/993/733.htm",
+    "summary": "小米首款 AI 旗舰 SoC 玄戒 O3 今日发布，行业首发支持 LPDDR6，速率达 10667Mbps、4×24 bit 位宽、113.8GB/s 带宽，相比前代玄戒 O1 内存带宽提升 48%。据供应链消息，长鑫存储是该 LPDDR6 内存核心合作伙伴，这也是国产 LPDDR6 芯片首次在旗舰级处理器芯片上实现应用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日21时23分"
+  },
+  {
+    "id": "cmt798hw01z5qro73g6hfgwen",
+    "title": "Grok 4.6 能否整夜自主跑通真实任务",
+    "url": "https://x.com/elonmusk/status/2091873571031372003",
+    "summary": "前苹果工程师让 Grok 4.6 在 Cursor 中执行两项任务后睡觉，次日直播验收成果，全程无需人工干预。SpaceXAI 围绕长时运行智能体任务构建 Grok 4.6，测试其能否在无人监督下持续工作，并对比了 Grok 4.6 与 Opus 5 的表现。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月24日21时1分"
+  },
+  {
+    "id": "cmt793xh21z33ro73asos3wli",
+    "title": "面壁智能公布 13 位 MiniCPM 大使名单",
+    "url": "https://x.com/OpenBMB/status/2091873168046616810",
+    "summary": "面壁智能 OpenBMB 公布 MiniCPM 大使计划首批 13 位入选开发者，其中 6 位来自中国、7 位来自海外社区。入选者基于技术专长、AI 项目经验及开源探索热情选出。该大使计划仍在开放申请中。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月24日21时0分"
+  },
+  {
+    "id": "cmt79w92h1zhwro732ubg5iic",
+    "title": "Thomson Reuters 斥资 4000 万美元自研法律大模型\"Thomson\"",
+    "url": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic",
+    "summary": "Thomson Reuters 基于阿里 Qwen 推出自研法律大模型\"Thomson\"，投入约 4000 万美元，训练数据来自 Westlaw 等自有内容。在 Stanford LegalBench 上 Thomson（0.823）落后于 Gemini 3.1 Pro 和 GPT-5.5，仅在接入独家内容时以 0.83 对 0.82 微弱胜过 GPT 5.4。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月24日20时59分"
+  },
+  {
+    "id": "cmt78u4rr1ytiro73apml2osj",
+    "title": "Runway Ruby 支持多模型直出专业格式",
+    "url": "https://x.com/runwayml/status/2091872521318814183",
+    "summary": "在 Runway 上用任意模型生成，然后通过 Ruby 将其提升至交付规格。无论你使用 Seedance 2.5、Gen-4.5 还是 MiniMax H3，都可直接转换为 16-bit EXR 或 10 位和 12 位 ProRes 及 HEVC。\n\n点击下方链接立即体验。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月24日20时57分"
+  },
+  {
+    "id": "cmt79hnvr1zbjro737cmls1r6",
+    "title": "抱抱脸考虑130亿美元估值出售",
+    "url": "https://x.com/frxiaobei/status/2091871898514735394",
+    "summary": "openrouter 后的另一大新闻，Hugging Face 考虑以130 亿美元估值售。\n\n就是央视上那家叫「抱抱脸」的公司。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月24日20时55分"
+  },
+  {
+    "id": "cmt79hnvb1zbhro73ijcx283h",
+    "title": "掌握自己的智能技术栈",
+    "url": "https://x.com/omarsar0/status/2091871093401272773",
+    "summary": "掌握你自己的智能技术栈。\n\n这是我对今天任何正在构建的人的建议。无论你是刚刚起步，还是已经在过程中。\n\n其中一部分在于理解如何构建底层基础技术，以及在其之上构建应用/体验。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月24日20时51分"
+  },
+  {
+    "id": "cmt78f2k21ygsro73eor2m7xl",
+    "title": "NVIDIA 新论文提出 ACES 技能评估法",
+    "url": "https://x.com/omarsar0/status/2091869893339812222",
+    "summary": "NVIDIA 新论文提出 ACES 方法评估智能体技能：在同一模型、沙箱、工作区和评分器下，分别在有/无技能加载时运行同一任务，对比智能体完成度的差异。基于 58 个生产技能、947 组配对案例、4 个 harness 的测试显示，技能执行、行为检查和技能效率的过程指标提升最大。传统结构扫描评分与 LLM 评判质量的相关性仅 Spearman rho 0.14。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月24日20时47分"
+  },
+  {
+    "id": "cmt79q3yu1zeero73jv04850t",
+    "title": "零跑汽车：已在具身智能机器人领域有所规划",
+    "url": "https://www.ithome.com/0/993/725.htm",
+    "summary": "零跑汽车在2026年中期业绩会上表示，公司已在具身智能机器人领域有所规划，近期将公告具体信息。管理层认为，具备全域自研能力的新能源车企完全有条件做具身智能机器人。工商信息显示，零跑旗下公司7月全资设立湖州凌昇精密制造有限公司，注册资本2.1亿元，经营范围含工业机器人制造与智能机器人研发。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日20时46分"
+  },
+  {
+    "id": "cmt78f2k91yguro73aygxfnyg",
+    "title": "AI生成图片普及，派对邀请函也AI化",
+    "url": "https://x.com/fofrAI/status/2091868047166296067",
+    "summary": "现在所有孩子的派对邀请函都是用AI做的了。这事已经发生了，图像生成已经走向主流。\n\n另外，这是不是Comic Sans字体的末日？",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月24日20时39分"
+  },
+  {
+    "id": "cmt78a86o1yd9ro73i8pwshc7",
+    "title": "播客何以成为AI大佬发声第一现场",
+    "url": "https://x.com/foxshuo/status/2091858748910543150",
+    "summary": "2026年过半，小宇宙站内AI相关人物搜索量同比增长470%，杨立昆、罗福莉、杨植麟等关键人物的深度对话几乎只出现在播客。Anthropic创始人达里奥对外发声9个链接中7个是播客。小宇宙AI话题节目近3年增速约300%，播客以高信噪比和完整语境成为AI故事的第一现场。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月24日20时2分"
+  },
+  {
+    "id": "cmt79q3yv1zehro73d5nedolj",
+    "title": "零跑汽车 2026 年度技术发布会定档 9 月，将发布\"全行业第一梯队水平\"辅助驾驶世界模型",
+    "url": "https://www.ithome.com/0/993/722.htm",
+    "summary": "零跑汽车通过上半年财报宣布，将于 9 月举办 2026 年度技术发布会，届时发布达到\"全行业第一梯队水平\"的智能辅助驾驶世界模型，以及三电领域一系列最新技术成果。创始人朱江明此前透露，公司经长期全域自研，将在第三季度对外公布多项创新技术，并规划更具创新性的产品。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日20时27分"
+  },
+  {
     "id": "cmt77ky1c1xntro73b82abin9",
     "title": "IBM 发布首款双架构大型机处理器：2nm 工艺，11 核心 5.7GHz",
     "url": "https://www.ithome.com/0/993/720.htm",
@@ -14238,6 +14366,14 @@
     "summary": "两个 AI Agent 事故暴露同一根因：把模型输出当成了系统状态。X 抓取 25/25 全失败，日报却写「新增 0 条」；待办「今天」未转标准日期，提醒直接消失。LLM 负责判断，确定性代码负责日期、状态、重试和告警--「没有结果」不等于「没有发生」。",
     "source": "X：小北 (@frxiaobei)",
     "date": "2026年8月24日20时16分"
+  },
+  {
+    "id": "cmt781cem1y3cro73amqvg6bb",
+    "title": "知识工作新方式：Codex 采用激增",
+    "url": "https://x.com/gdb/status/2091861755253371243",
+    "summary": "一种完成知识工作的新方式\n\n【引用 @a16z】：AI 重度用户正出现在科技行业之外。自 2 月以来增长最快的 Codex 采用群体：\n\n法律：108 倍\n销售：41 倍\n招聘：41 倍\n营销：26 倍\n医疗：24 倍\n\n本周图表：https://www.a16z.news/p/charts-of-the-week-winds-of-thematic",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月24日20时14分"
   },
   {
     "id": "cmt6439ul0y4uro73nl0aecd4",
