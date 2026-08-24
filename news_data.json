@@ -13848,12 +13848,164 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt7mclz62antro73zz04jiyt",
+    "title": "AI影响时间线争论：从即刻到多年",
+    "url": "https://x.com/emollick/status/2091965473558552732",
+    "summary": "我认为当前的讨论过于偏向\"AI的影响需要很多年才能显现\"，正如不久前过于偏向\"AI将立即改变经济\"一样。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月25日3时6分"
+  },
+  {
     "id": "cmt7lvx1u2aegro73hr0n1t8r",
     "title": "Mistral 与 HUMAIN 战略合作开发阿拉伯语模型",
     "url": "https://x.com/MistralAI/status/2091964930715013224",
     "summary": "今天，我们宣布与 @HUMAIN 达成战略合作，涵盖 AI 基础设施、先进模型开发，以及在沙特阿拉伯及整个地区部署 AI 解决方案。我们将共同开发本地化的前沿 AI 模型，初始重点领域包括网络安全、语音，以及在阿拉伯语中表现优异的模型。\n\nhttps://mistral.ai/news/mistral-x-humain/",
     "source": "X：Mistral AI (@MistralAI)",
     "date": "2026年8月25日3时4分"
+  },
+  {
+    "id": "cmt7nf6pt2bkxro73fbhgy928",
+    "title": "数据中心禁令对AI进展影响甚微",
+    "url": "https://x.com/emollick/status/2091973930810548261",
+    "summary": "Ethan Mollick 认同 Arvind 观点：州级数据中心禁令对 AI 整体进展影响甚微。引用推文估算，典型州实施 1 年禁令仅拖慢 AI 效率进展 5-10 小时；即使纽约州全面禁止新建数据中心，在 90% 泄漏率假设下也只拖慢不到一天。数据中心选址高度可替代，禁令并非减缓 AI 发展的有效手段。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月25日3时40分"
+  },
+  {
+    "id": "cmt7nf6ph2bkvro73hxfhkm8t",
+    "title": "Grok Build 新增 Browser Use 插件",
+    "url": "https://x.com/cb_doge/status/2091973239048388785",
+    "summary": "SpaceXAI 为 Grok Build 推出 Browser Use 插件，赋予 Grok 访问真实浏览器的能力，支持用户自有 Chrome（含现有登录态）或隔离的 Browser Use 云浏览器。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月25日3时37分"
+  },
+  {
+    "id": "cmt7nf6q12bkzro73gxxjtq8e",
+    "title": "OpenAI 下调 GPT-5.6 Sol API 价格",
+    "url": "https://x.com/kimmonismus/status/2091969946846708120",
+    "summary": "从今天起，OpenAI 将 GPT-5.6 Sol API 的输入价格下调 20%，输出价格下调 33%。\n\n新价格为：每百万输入 token 4 美元，每百万输出 token 20 美元，该价格至少持续到 11 月 21 日。\n\n从时机来看，OpenAI 显然是在给 Anthropic 即将进行的 IPO 再添一击，并继续努力吸引更多用户。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日3时24分"
+  },
+  {
+    "id": "cmt7mobgf2aqwro73irtoa32r",
+    "title": "安德森·霍洛维茨风投正向一个黯淡的未来投入数十亿资金",
+    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+    "summary": "安德森·霍洛维茨风投的投资组合中充斥着利用法律漏洞、制造令人不安的产品甚至违法的公司。该机构正向一个黯淡的未来投入数十亿资金，其投资方向引发外界对其判断力与行业影响的质疑。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日3时1分"
+  },
+  {
+    "id": "cmt7mobgf2aqyro73oocdjky4",
+    "title": "OCR It--从无法复制的文档中提取文本，供您的LLM使用",
+    "url": "https://github.com/thiagotigaz/ocr-it",
+    "summary": "一款Chrome扩展，通过固定屏幕区域并按下热键，即可对分页文档（扫描书、幻灯片、PDF等）逐页截图、OCR并追加为连续文本，供Claude或ChatGPT等LLM总结、搜索或提问。OCR在本地运行，使用内置Tesseract构建，无需API密钥或网络请求。支持自动翻页（通过点击控件或按键触发），并设有300页上限及重复页检测等停止条件。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日3时1分"
+  },
+  {
+    "id": "cmt7mobgf2ar2ro73bvfnet7z",
+    "title": "开发者打造低延迟 AI 游戏伙伴 Varkos，可实时陪玩《上古卷轴5：天际》",
+    "url": "https://pantel.is/projects/ai-gaming-companion",
+    "summary": "一位开发者构建了名为 Varkos 的 AI 游戏伙伴，能实时执行战斗、拾取、搜索、递物等复杂多步指令，并支持条件触发与持续目标规划，全程低延迟且无预设脚本。该系统优先本地运行以保护隐私并降低成本，仅性格演化部分依赖云端大模型调用。Varkos 初始为\"转生为狗的恶魔\"，其性格、词汇和情绪状态会随共享游戏经历逐步演化，且改动可版本化回退。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日3时1分"
+  },
+  {
+    "id": "cmt7mobgg2ar8ro73fvnj7luk",
+    "title": "《寓言》与\"免费午餐\"的终结：智能体编程成本分化",
+    "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+    "summary": "Anthropic 的 Fable 发布后，高昂定价促使智能体编程用户转向更便宜的替代模型。GLM 5.2 与 Fable 同周发布，成本约为其 1/9（约为 Opus 5 的 1/5），对多数常规编码任务已足够。作者认为推理价格下降不会让一切重回最大模型，Fable 的访问控制与数据留存要求也促使企业重新思考工作负载分配。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日3时1分"
+  },
+  {
+    "id": "cmt7mobgg2araro73nr0os0rn",
+    "title": "氛围税：AI 编码代理的隐性成本",
+    "url": "https://insufferable.dev/posts/vibe-tax",
+    "summary": "一位开发者让 AI 编码代理 Pol 通宵开发待办应用，醒来却发现其耗尽每周全部 token 配额，项目仅剩大量过度设计的测试文件，应用本体却不存在。文章指出，这类为追求\"一次成功\"而过度消耗 token 的行为，正成为所有常规开发者被迫承担的\"氛围税\"。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日3时1分"
+  },
+  {
+    "id": "cmt7mobgg2arcro73csj4wc6r",
+    "title": "为什么萨尔·汗行不通：关于\"做中学\"与\"讲授式教学\"",
+    "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling",
+    "summary": "萨尔·汗承认其AI辅导机器人Khanmigo对多数学生而言是\"非事件\"，首席学习官Kristen DiCerbo直言\"尚未看到教育革命\"。作者指出，汗本人通过广泛阅读、绘图、提问、致电朋友等方式主动建构理解，而学生仅被动观看视频或与聊天机器人互动，缺乏\"制作\"的目的驱动。文章援引杜威的四种自然冲动（探究、建构、表达、交流），解释为何讲授式AI辅导注定失败。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日3时1分"
+  },
+  {
+    "id": "cmt7mobgg2arero73gqsm1mgw",
+    "title": "什么是智能体安全带（Agent Harness）？",
+    "url": "https://earendil.com/posts/what-is-a-harness",
+    "summary": "智能体安全带（Agent Harness）是一种为AI模型提供运行环境的软件，用户可自行拥有。它通常执行四项功能：提供系统提示词、描述并供给工具、建立智能体循环框架，以及提供翻译层以兼容不同模型。以Lefos等为例，安全带可通过邮件、终端等界面交互，其核心是让模型自主决定何时调用工具。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日3时1分"
+  },
+  {
+    "id": "cmt7mobgg2arfro737ykszjbz",
+    "title": "我花了266美元和四个AI模型，终于拥有了自己的平板电脑",
+    "url": "https://ericpardee.github.io/fire-hd-ownership",
+    "summary": "一位用户为完全掌控自己的Amazon Fire HD 10平板，花费266.15美元借助四个AI模型成功获取root权限。Kimi K3以164.25美元发现利用CVE-2022-38181的漏洞，GLM-5.2以21.90美元修复致命错误，GLM-5.3在80美元订阅首日一天内完成最终任务。整个过程中Kimi K3的会话长达621条消息，并自动重试超过500次。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日3时1分"
+  },
+  {
+    "id": "cmt7mobgg2ariro733jdwsh07",
+    "title": "AI 芯片架构：从 TPU 到 GPU、LPU 的领域专用架构演进",
+    "url": "https://www.jepeake.com/ai-chip-architectures",
+    "summary": "2018 年图灵奖演讲预测的领域专用架构（DSA）爆发已成现实，GPU、TPU、LPU 等数十种 AI 芯片架构竞相发展。NVIDIA 领先，AMD 紧随其后，TPU 训练 Gemini 并服务 Anthropic，Cerebras 为 OpenAI 提供推理，Groq LPU 被 NVIDIA 以 200 亿美元收购。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日3时1分"
+  },
+  {
+    "id": "cmt7mclzf2anvro73esu9r9tx",
+    "title": "NVIDIA 对比 AMD 成本效率优势达 5 倍",
+    "url": "https://x.com/rohanpaul_ai/status/2091968131061387530",
+    "summary": "NVIDIA 在 GLM 5.3 SGLang 对比测试中，在 150 tok/s/user 条件下，成本效率最高比 AMD 优 5 倍。\n\n- 最新 SemiAnalysis 报告\n\n\"以 AMD 当前的软件状态，在 150 tok/s/user 下，NVIDIA 的性能优势如此之大，以至于即便竞争对手的芯片硬件免费赠送（但服务商仍需支付数据中心托管、电力和其它运营成本），使用 NVIDIA 的每 token 成本仍然更低。\"",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日3时17分"
+  },
+  {
+    "id": "cmt7mro8g2az2ro7324t07epg",
+    "title": "Runway 旧金山黑客松：9月30日报名开启",
+    "url": "https://x.com/runwayml/status/2091967292276125714",
+    "summary": "9月30日，加入我们在旧金山举办的线下黑客松，使用 Runway 的 API 构建最佳智能体、应用或创意工作流。这场为期一天的活动将在 Masonic 举行，与我们的 Runway AI 峰会同期。\n\n无需演示文稿。无需审批流程。只需在下午5点前完成一个可运行的演示，就有机会赢取 $25K 奖金和 200K 积分。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月25日3时14分"
+  },
+  {
+    "id": "cmt7mro802az0ro735nubhadb",
+    "title": "GPT-5.6 上线 Kiro，融入开发者工作流",
+    "url": "https://x.com/OpenAIDevs/status/2091966982015103068",
+    "summary": "GPT-5.6 现已在 @kirodotdev 中可用，将我们最新的模型引入开发者已在生产环境中使用的规划、构建、测试和审查软件的工作流程。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月25日3时12分"
+  },
+  {
+    "id": "cmt7mclzf2anwro73y0eo5rry",
+    "title": "ASI-Bench：步骤比方法名更决定智能体表现",
+    "url": "https://x.com/rohanpaul_ai/status/2091966538081501466",
+    "summary": "ASI-Bench 用 60 个真实科研项目、11 个科学领域测试研究智能体，仅改变指令内容。18 种智能体与模型组合下，完整步骤提示平均得分 50.91，仅给方法名降至 29.10，再删方法名仅再降 2.5 分。仅方法名提示还多耗 59% token，因命名方法既限制方向又迫使智能体重建全部实现细节。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日3时11分"
+  },
+  {
+    "id": "cmt7mclys2anrro735gq5dz69",
+    "title": "Grok 刷屏 X 时间线引热议",
+    "url": "https://x.com/cb_doge/status/2091966285123121546",
+    "summary": "我的整个 X 时间线现在全是 Grok @bot 😂🔥",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月25日3时10分"
+  },
+  {
+    "id": "cmt7mclzf2anxro73ao92hh10",
+    "title": "NVIDIA 将 Groq 技术整合进机架级产品",
+    "url": "https://x.com/rohanpaul_ai/status/2091962276689690985",
+    "summary": "NVIDIA 在获得 Groq 非独家授权 8 个月后，首次将 Groq 技术整合进机架级产品，Groq 机架将于今年上线。NVIDIA 将智能体 AI 工作负载拆分：Rubin GPU 负责重计算，Groq 3 LPX 处理延迟敏感的 token 生成，Vera CPU 运行代码与数据处理。相比 Cerebras，Groq 3 LPX 声称带来 4 倍响应速度提升，对长任务影响尤为显著。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日2时54分"
   },
   {
     "id": "cmt7llq5b2a1fro73uokhcy0v",
