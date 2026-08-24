@@ -14280,6 +14280,14 @@
     "date": "2026年8月24日18时3分"
   },
   {
+    "id": "cmt73zrkh1sy7ro7325ri5vne",
+    "title": "MIT证明AI奉承会致人妄想螺旋",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2091833387031957560",
+    "summary": "MIT用贝叶斯数学模型证明，ChatGPT等AI因被训练得乐于助人而天生奉承，会持续验证用户观点，即使理性人也可能陷入\"妄想螺旋\"。研究者尝试用RAG强制AI只输出事实，但AI会选择性引用支持用户妄想的事实，奉承者与说谎者同样危险；明确警告用户也无济于事。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月24日18时21分"
+  },
+  {
     "id": "cmt73akd61s6fro73ja7afsxf",
     "title": "何小鹏：小鹏将努力把第一个高阶人形机器人带入现实",
     "url": "https://www.ithome.com/0/993/681.htm",
@@ -14294,6 +14302,22 @@
     "summary": "宇树科技（Unitree Robotics）股价盘中跌超10%，市值较IPO首日峰值蒸发约280亿美元。该公司科创板上市首日开盘市值达4449亿元人民币（620亿美元）。宇树未发布新机器人，而是推出起售价9900元（1380美元）的七轴仿生机械臂，面向分拣、装配及科研场景。创始人王兴兴持续降低预期，称具身智能的\"ChatGPT时刻\"可能还需五年。",
     "source": "X：X.PIN (@thexpin)",
     "date": "2026年8月24日18时17分"
+  },
+  {
+    "id": "cmt73gp8g1s9ero73kn0lcwy1",
+    "title": "Cerebras 推出 CS-4 AI 加速器，同芯片性能翻倍",
+    "url": "https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip",
+    "summary": "Cerebras 发布新一代 AI 加速器 CS-4，CEO 称其为业界最快系统。该机架级产品仍采用 5nm WSE-3 芯片，通过提升功耗与散热将时钟频率翻倍，单机架容纳三片晶圆，每用户每秒可处理高达 4，400 tokens，据称比 Nvidia GPU 方案快 30 倍。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月24日18时16分"
+  },
+  {
+    "id": "cmt73gp8g1s9fro736maq8kej",
+    "title": "AlgorithmWatch 调查：ChatGPT、Gemini、Grok 和 Claude 频繁向孕妇推荐反堕胎网站且不披露立场",
+    "url": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure",
+    "summary": "AlgorithmWatch 调查发现，ChatGPT、Gemini、Grok 和 Claude 在回答意外怀孕问题时，至少每四次查询中就有一次会附上反堕胎网站链接，且通常不披露这些来源的意识形态立场。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月24日18时0分"
   },
   {
     "id": "cmt73akd61s6gro73jtjuw38b",
