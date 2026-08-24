@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt7tuoer2hynro73l9exl1oy",
+    "title": "2026年AI资本开支达7650亿美元首超油气",
+    "url": "https://x.com/rohanpaul_ai/status/2092019551508762696",
+    "summary": "2026年AI资本开支预计达$765B，首次超过油气行业的$681B，到2031年有望接近翻倍。摩根士丹利预计AI向全球经济的扩散将创造$40T机会，而这一机会的关键资源是算力。算力也即将迎来首个期货合约。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日6时41分"
+  },
+  {
+    "id": "cmt7tuoed2hylro7386f730qt",
+    "title": "Grok Build v1.0.9 更新发布",
+    "url": "https://x.com/cb_doge/status/2092018624190202228",
+    "summary": "Grok Build 更新至 v1.0.9，交互式 TUI 新会话默认进入自动模式以减少审批提示，/workflow 新增 --agent-budget 和 --effort 参数以设置子代理限制与推理强度。修复了子代理任务在临时限流时自动重试、/copy 保留 Markdown 格式等问题，并提升并发子代理与 MCP 服务器连接性能。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月25日6时38分"
+  },
+  {
+    "id": "cmt7t6w4x2hchro73retns3pi",
+    "title": "Fastino 发布 GLiNER2.5：以边界预测取代跨度枚举的信息抽取架构",
+    "url": "https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction",
+    "summary": "Fastino 发布 GLiNER2.5，以边界预测取代跨度枚举，移除最大实体宽度限制，支持 4096 词上下文，计算量随序列长度线性增长。多语言检查点在 16 个零样本基准上整体 macro F1 达 56.17（GLiNER2 为 56.09），XNLI 提升 24.75 分。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月25日6时21分"
+  },
+  {
+    "id": "cmt7t74to2hdbro73iil928z2",
+    "title": "Runway 上线 WAN 3.0 视频音频生成",
+    "url": "https://x.com/runwayml/status/2092013729940733969",
+    "summary": "WAN 3.0 现已登陆 Runway。\n\n支持多种图像、视频和音频参考输入，生成最先进的视频与音频。点击下方链接立即体验。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月25日6时18分"
+  },
+  {
+    "id": "cmt7ss4df2h7xro73xamey179",
+    "title": "Dario 谈 AI 无边界融合多领域知识",
+    "url": "https://x.com/rohanpaul_ai/status/2092012950622294018",
+    "summary": "没有围墙。\n\nAI 能以人类无法做到的方式，融合并综合多个领域的专业专家知识。\n\n--Anthropic CEO Dario Amodei\n\n出自 Lex Fridman 的播客。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日6时15分"
+  },
+  {
     "id": "cmt7qmxxu2duoro73pa9m9y7k",
     "title": "实验室模糊宣传应配独角兽测试",
     "url": "https://x.com/emollick/status/2091995606516441405",
@@ -13862,6 +13902,22 @@
     "summary": "🔴 我们正与 @AlexFinn 直播连线\n\n欢迎收看，和我们一起即兴互动，看看他如何在桌面端和移动端，通过 Codex 中的语音智能体实现免提工作流操作。\n\nhttps://x.com/i/broadcasts/1OGwbnWnBRrKB",
     "source": "X：OpenAI Developers (@OpenAIDevs)",
     "date": "2026年8月25日5时5分"
+  },
+  {
+    "id": "cmt7szlyo2h9yro73ubet1ppt",
+    "title": "MiniMax H3 在 GB200 上推理提速 27.7 倍",
+    "url": "https://x.com/MiniMax_AI/status/2092008802984001919",
+    "summary": "NVIDIA SANA 团队的 Sol Engine 将 MiniMax H3 视频生成延迟大幅压缩：单块 GB200 上 10s 768p 视频从 414s 降至 14.93s（27.7 倍加速），5s 视频达 22.2 倍加速。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月25日5时59分"
+  },
+  {
+    "id": "cmt7tpp6f2hvsro73ovdtl34f",
+    "title": "Charlie Holtz 呼吁打造智能体所需产品",
+    "url": "https://x.com/charlieholtz/status/2092008574964953303",
+    "summary": "做出你的用户智能体想要的东西！\n\n【引用 @vinvan】：@charlieholtz 太棒了！！！我的智能体从周日开始就一直用它处理所有工作，效果惊人。\n\n感谢你做出这个！",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月25日5时58分"
   },
   {
     "id": "cmt7secit2gzfro73t1l6vjx6",
