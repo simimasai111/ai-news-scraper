@@ -14264,12 +14264,84 @@
     "date": "2026年8月24日1时23分"
   },
   {
+    "id": "cmt714jmk1q94ro73azwvax0u",
+    "title": "中国人形机器人运动会：速度超博尔特但失控撞栏",
+    "url": "https://x.com/thexpin/status/2091816533265887235",
+    "summary": "中国首届人形机器人运动会结果出人意料：机器人速度飞快，但控制力不足。北京赛场上，荣耀的闪电机器人百米跑出9.47秒，天工机器人以9.39秒完赛，双双超越博尔特9.58秒的世界纪录。但机器人难以刹停，撞上安全护栏，天工超能甚至失控冲向观众，雷鹤倒地后需被抬离。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月24日17时15分"
+  },
+  {
+    "id": "cmt715epk1q9oro736dts7ni4",
+    "title": "小鹏机器人业务完成首轮超 9 亿美元融资，IRON 计划 2026 年底量产",
+    "url": "https://www.ithome.com/0/993/649.htm",
+    "summary": "小鹏汽车宣布机器人业务完成首轮超 9 亿美元融资，投后估值超 63 亿美元，刷新中国具身智能行业单轮私募股权融资纪录。本轮由 IDG 资本领投，高榕创投参投，腾讯和阿里巴巴战略投资，小鹏集团继续控股。资金将用于软硬件研发、物理 AI 模型训练及量产基地建设，IRON 计划 2026 年底进入量产阶段。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日17时14分"
+  },
+  {
+    "id": "cmt714jmk1q95ro73u4p171g5",
+    "title": "阿里募资102亿美元全投AI，股价跌10%",
+    "url": "https://x.com/thexpin/status/2091812952873837035",
+    "summary": "阿里巴巴在香港募资102亿美元，计划将全部所得投入AI。公司称AI相关产品年化收入已达73亿美元，预计下季度将达100亿美元，管理层认为巨额资本开支可在三年内回本。受配股影响，阿里港股周一开盘一度下跌10%。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月24日17时0分"
+  },
+  {
     "id": "cmt6z08z51o32ro73zsnkmd25",
     "title": "数据中心建设热潮吸走建筑工人，美国住房建设用工荒加剧",
     "url": "https://www.ithome.com/0/993/599.htm",
     "summary": "美国成屋签约销售量跌至三年最低，7月新屋建设创三年半新低，房地产市场承压。AI数据中心建设热潮正争夺建筑业熟练技工，部分住宅建设工人转向数据中心项目。美国住宅建筑商学会CEO埃德·布雷迪称，全美约缺30万名熟练技工，且短期内难以扭转。",
     "source": "IT之家（RSS）",
     "date": "2026年8月24日16时6分"
+  },
+  {
+    "id": "cmt70x0mx1q6pro73t8hxv5t6",
+    "title": "英伟达拟数十亿投资Perplexity",
+    "url": "https://x.com/kimmonismus/status/2091810257395761417",
+    "summary": "据报道，英伟达正考虑以超过300亿美元的估值向Perplexity投资数十亿美元。\n\nPerplexity的年化收入今年已从不到2.5亿美元增长至超过7.5亿美元，增长了两倍，部分得益于其新的Computer智能体。英伟达此前曾探讨过授权和招聘协议，但谈判现已转向传统投资。\n\n很高兴看到Perplexity重回正轨。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月24日16时50分"
+  },
+  {
+    "id": "cmt70x0mp1q6nro73vhra6kac",
+    "title": "我的晨间提示词例行流程",
+    "url": "https://x.com/fofrAI/status/2091810061387534653",
+    "summary": "正在执行我的晨间提示词例行流程。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月24日16时49分"
+  },
+  {
+    "id": "cmt708y5n1pk1ro73traz4kgw",
+    "title": "Nvidia 洽谈以超 300 亿美元估值投资 Perplexity",
+    "url": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation",
+    "summary": "Nvidia 正洽谈以超过 300 亿美元估值投资 Perplexity，较一年前上一轮融资高出逾 50%。Perplexity 年化收入已从 2.5 亿美元增至逾 7.5 亿美元，部分受 AI 智能体\"Perplexity Computer\"推动。该公司累计融资超 17 亿美元，CEO Aravind Srinivas 正考虑约 2028 年 IPO。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月24日16时44分"
+  },
+  {
+    "id": "cmt6zufot1p68ro730v9wohae",
+    "title": "阿里云 Wan 3.0 上线 Runware D0",
+    "url": "https://x.com/alibaba_cloud/status/2091807371224117597",
+    "summary": "阿里云 Wan 3.0 现已在 Runware D0 上线，支持文生视频、帧与参考模式，可生成 30 秒片段，并支持多达 10 张参考图、5 段参考视频和 5 段参考音频输入，配备复杂多输入提示的思考模式。更多 API 访问可通过 Model Studio 和 Qwen Cloud 获取。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月24日16时38分"
+  },
+  {
+    "id": "cmt6zpgpk1p22ro73pf7lr1kl",
+    "title": "DeepSeek V4-Flash-Vision-Exp 平价平替 Claude Code",
+    "url": "https://x.com/AYi_AInotes/status/2091805785340686430",
+    "summary": "DeepSeek 上线 V4-Flash-Vision-Exp 多模态模型，配开源 Harness 可将 Coding Agent 成本降至白菜价。该组合多模态基准接近 Claude Opus-4.8，离峰价格仅 $0.22/百万 token，一张图算 384 tokens。开源 Harness 支持文件编辑、终端执行，可本地平替 Claude Code 和 Codex，大幅降低迭代成本。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月24日16时32分"
+  },
+  {
+    "id": "cmt715epl1q9sro73sm1ru5hf",
+    "title": "海信视像 AI 战略暨 JUOS 发布会将于 8 月 31 日举行",
+    "url": "https://www.ithome.com/0/993/625.htm",
+    "summary": "海信官方宣布，海信视像 AI 战略暨 JUOS 发布会将于 8 月 31 日 14：30 举行，口号为\"巨简单，更懂家\"。JUOS 是海信自研的新一代智能操作系统，将重构家庭 AI 交互体验，预计深度融合星海大模型，实现跨设备、跨场景智能联动。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月24日16时27分"
   },
   {
     "id": "cmt6z08z51o2zro7344f1f2yl",
