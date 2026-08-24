@@ -13848,6 +13848,70 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt7i29x426hwro732p7rh97x",
+    "title": "北京世界人形机器人运动会醉酒机器人",
+    "url": "https://x.com/rohanpaul_ai/status/2091935964633719041",
+    "summary": "醉酒的机器人。\n\n在北京世界人形机器人运动会上",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日1时9分"
+  },
+  {
+    "id": "cmt7isn5p2736ro734wkey82o",
+    "title": "Google Cloud 技术网络研讨会：如何在 GCP 上控制 Claude Code 成本并衡量 ROI",
+    "url": "https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b",
+    "summary": "Anthropic 的 Roy Arsan 与 Google Cloud 的 Ivan Nardini 将于 9 月 1 日中午 12 点（PT）举办网络研讨会，深入探讨如何在 GCP 上通过 Claude apps gateway 设置治理。",
+    "source": "Google AI：DEV 作者专属（RSS）",
+    "date": "2026年8月25日1时33分"
+  },
+  {
+    "id": "cmt7ivq75275rro73hxnys6s9",
+    "title": "Grok Bot 十分钟将 Doom 移植到新设备",
+    "url": "https://x.com/elonmusk/status/2091941626717569460",
+    "summary": "Grok @Bot 在 10 分钟内将 Doom 移植到了一台新设备上。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月25日1时32分"
+  },
+  {
+    "id": "cmt7i29xd26hyro7398jspy91",
+    "title": "SemiAnalysis：AI 资本支出与债务将破纪录增长",
+    "url": "https://x.com/SemiAnalysis_/status/2091934010318471562",
+    "summary": "SemiAnalysis 预测，到今年年底 AI 累计资本支出将达近 $3T，2020 年代末将增至 $11T+，未偿 AI 债务将达 $7T+。2026 年 AI 债务融资将成为仅次于美国住宅抵押贷款的第二大资产相关债务市场，且是 AI 相关债务发行量低于美国固收发行总量 10% 的最后一年。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月25日1时1分"
+  },
+  {
+    "id": "cmt7izwfj278bro73dudet2gh",
+    "title": "中国开源模型成对齐研究主流基底",
+    "url": "https://x.com/dongxi_nlp/status/2091933959969992775",
+    "summary": "对221个MATS对齐与安全项目的分析显示，2026年72%使用命名模型的项目采用中国开源权重模型，高于美国模型的54%；Qwen占66%，领先Llama（44%）和DeepSeek（32%）。闭源模型仍出现在90%项目中，多作为裁判、监控或前沿基线。中国开源模型正成为对齐研究的实验基底，而美国闭源模型仍是关键评估工具。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月25日1时1分"
+  },
+  {
+    "id": "cmt7isiid2710ro73lai3274f",
+    "title": "Databricks 如何从本地 IDE 运行、调试和扩展工作负载",
+    "url": "https://www.databricks.com/blog/run-debug-and-scale-databricks-workloads-your-local-ide",
+    "summary": "Databricks 工作区专为数据分析和数据工程而构建，现支持从本地 IDE 直接运行、调试和扩展工作负载。该功能旨在弥合本地开发环境与云端 Databricks 平台之间的差距，让开发者无需切换上下文即可完成编码、测试和部署。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月25日1时1分"
+  },
+  {
+    "id": "cmt7i9t4b26k3ro73iqaw4bge",
+    "title": "Qwen3.8 27B 现可接入 Optima 基准测试",
+    "url": "https://x.com/ArtificialAnlys/status/2091938232380576219",
+    "summary": "您现在可以使用 Optima 对 Qwen3.8 27B 进行基准测试。了解这款可在笔记本电脑上运行的模型，在您的定制用例中，其性能、成本和速度表现如何。\n\n我们还为希望为其用例构建基准测试的企业提供积分以及 Artificial Analysis 团队成员的免费咨询。如果您感兴趣，请告诉我们：https://forms.gle/VxRfD7toBXFBjVZc9\n\n立即在 https://artificialanalysis.ai/optima 构建并运行您的自定义基准测试。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月25日1时18分"
+  },
+  {
+    "id": "cmt7isiid2711ro73brznush2",
+    "title": "Databricks 如何用 AI 加速事件调查",
+    "url": "https://www.databricks.com/blog/how-databricks-uses-ai-accelerate-incident-investigation",
+    "summary": "Databricks 利用 AI 加速事件调查流程，将原本耗时数小时的排查工作压缩至分钟级。其内部系统通过大语言模型自动关联日志、指标与代码变更，辅助工程师快速定位根因。该方法已在数千起生产事件中验证，显著缩短了平均修复时间（MTTR）。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月25日1时0分"
+  },
+  {
     "id": "cmt7fx4i024trro73zkf8wgod",
     "title": "OpenRouter 周 token 量两年激增 9000 倍",
     "url": "https://x.com/rohanpaul_ai/status/2091919775664611661",
