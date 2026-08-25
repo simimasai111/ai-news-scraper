@@ -14904,12 +14904,68 @@
     "date": "2026年8月25日1时0分"
   },
   {
+    "id": "cmt8gcuhv36qsro73itmbaoo5",
+    "title": "阿里云菲律宾举办AI eKYC线上研讨会",
+    "url": "https://x.com/alibaba_cloud/status/2092177063755088202",
+    "summary": "阿里云菲律宾将举办线上研讨会，展示AI驱动的eKYC解决方案，主打Qwen Advantage与智能企业级防欺诈能力。方案通过设备级安全检查和200多条专家规则实时筛查欺诈，数秒内即可确认真实客户身份，并提供从注册到安全验证的端到端实时演示。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月25日17时7分"
+  },
+  {
+    "id": "cmt8gcui536quro73by5jdd5b",
+    "title": "马斯克谈工作狂日常：几乎每时每刻都在工作",
+    "url": "https://x.com/cb_doge/status/2092178368926236694",
+    "summary": "\"我几乎醒着的每一刻都在工作。我没有社交晚餐。我基本上就是在会议期间吃个午餐和晚餐，然后继续开会。\"\n\n- 埃隆·马斯克",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月25日17时12分"
+  },
+  {
+    "id": "cmt8gke7w36xfro7340u5u3dd",
+    "title": "小鹏机器人首轮融资超9亿美元",
+    "url": "https://x.com/thexpin/status/2092175157137670192",
+    "summary": "小鹏机器人部门首轮融资超9亿美元，估值超63亿美元，创中国具身智能领域单笔私募融资纪录。资金将用于人形机器人研发、物理AI模型训练、数据采集、量产设施及全球扩张。其人形机器人Iron预计2026年底量产，2027年推向海内外市场，CEO何小鹏预测机器人商业化后单台毛利将超电动汽车。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月25日17时0分"
+  },
+  {
+    "id": "cmt8gcuic36qwro73a6ysewro",
+    "title": "ChatGPT Plus 恢复 5 小时使用上限，Pro 豁免",
+    "url": "https://x.com/kimmonismus/status/2092172201810166217",
+    "summary": "OpenAI 宣布明天起对 ChatGPT Work 和 Codex 的 Plus 账户恢复 5 小时使用上限，以平滑计算负载并防止用户意外耗尽每周配额。Pro $100 和 $200 套餐在未来数月内继续豁免此限制。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日16时48分"
+  },
+  {
+    "id": "cmt8fa9sd358xro73spgvn5co",
+    "title": "苹果或数日内发布新款 Mac mini",
+    "url": "https://x.com/kimmonismus/status/2092171253628936677",
+    "summary": "苹果可能在 iPhone 发布会前推出新款 Mac mini，最快\"未来几天\"亮相，这将是其近两年来首次更新。据彭博社报道，苹果已测试 M5 和 M6 芯片版本，但最终配置未定。因用户将 Mac mini 用作本地运行 AI 应用的常开设备，现款需求激增，内存短缺致部分交付需数周甚至数月。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日16时44分"
+  },
+  {
+    "id": "cmt8fpagl35w1ro73lsr91kh2",
+    "title": "台湾网络安全公司警告：AI工具使中国国家支持的网络攻击数量翻倍以上",
+    "url": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks",
+    "summary": "台湾安全公司TeamT5称，中国国家支持的黑客组织自将AI用于日常任务和恶意软件开发以来，攻击数量已翻倍以上。DeepSeek因\"相对强大且网络防护门槛极低\"而备受黑客青睐，被Grimfengxi用于编写漏洞利用代码，Teleboyi则用它收集IP地址和映射域名。ChatGPT和Anthropic的Claude Code也在至少一起案件中被用于构建Signal数据库解密模块和渗透台湾公司系统。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月25日16时40分"
+  },
+  {
     "id": "cmt8e7pky33wjro73x9gcar2k",
     "title": "ChatGPT 图像生成自定义贴纸包",
     "url": "https://x.com/testingcatalog/status/2092160789121524211",
     "summary": "ChatGPT 现在可以通过 GPT Image 生成可自定义的贴纸包。\n\n用户之后也可以在 iMessage 或 WhatsApp 上分享这些贴纸。",
     "source": "X：Testing Catalog (@testingcatalog)",
     "date": "2026年8月25日16时2分"
+  },
+  {
+    "id": "cmt8f5aue354bro733633hnrr",
+    "title": "Apodex 1.1 开源 FrontierAgent 多 Agent 框架",
+    "url": "https://x.com/AYi_AInotes/status/2092166910120968653",
+    "summary": "Apodex 1.1 随 35B 开源权重一同发布 FrontierAgent 多 Agent 执行框架，采用 Apache 2.0 协议，不绑定自家模型，兼容任何 OpenAI 端点。框架支持本地部署，含任务看板、文件沙箱、修改审批、回滚及评测套件，并内置独立审查机制。实测中 8 个 Agent 并行跑 AI 副业调研，在公开采样范围内满足 A 级证据标准的个人收入成功案例为 0。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月25日16时27分"
   },
   {
     "id": "cmt8egddf343uro73atdy5zdy",
