@@ -13856,12 +13856,36 @@
     "date": "2026年8月26日4时9分"
   },
   {
+    "id": "cmt956qkd09oerolynbk16vy4",
+    "title": "Perplexity 便携电脑智能体获英伟达支持",
+    "url": "https://x.com/AravSrinivas/status/2092343275558723710",
+    "summary": "Perplexity 发布本地优先智能体 Portable Computer，搭载端侧 27B 模型，在真实知识工作基准上得分 82.6%，超越开源方案 Pi 和 Hermes；后训练版 PPLX 27B 达 85.4%。Perplexity CEO 感谢英伟达在 DGX Spark 上的合作，并推动开放生态以支持高性价比开源权重模型、推理框架及统一内存硬件。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月26日4时8分"
+  },
+  {
     "id": "cmt94co9m08xfrolytuq5uhwy",
     "title": "ChatGPT 浏览器扩展新增支持 Edge、Brave 等浏览器",
     "url": "https://x.com/OpenAIDevs/status/2092343177634017655",
     "summary": "OpenAI 宣布 ChatGPT 浏览器扩展现已支持 Microsoft Edge、Brave、Opera 和 Vivaldi 浏览器。用户可将浏览器标签页上下文带入 ChatGPT 桌面端任务，让 Codex 基于当前页面内容工作，并可通过侧边聊天使用完整 ChatGPT 功能。Opera 的侧边聊天功能即将推出。",
     "source": "X：OpenAI Developers (@OpenAIDevs)",
     "date": "2026年8月26日4时7分"
+  },
+  {
+    "id": "cmt95p2oq0a2wrolyx9l4ed8u",
+    "title": "Claude 记忆功能升级：跨聊天与Cowork统一",
+    "url": "https://x.com/bcherny/status/2092355642363453943",
+    "summary": "一个小改进：记忆功能现在更简单、更强大。尽情享受吧！",
+    "source": "X：Boris Cherny (@bcherny)",
+    "date": "2026年8月26日4时57分"
+  },
+  {
+    "id": "cmt95p2p30a2yrolyrtovx2yq",
+    "title": "ChatGPT 推出 100 美元商务高级席位",
+    "url": "https://x.com/gdb/status/2092353210635915695",
+    "summary": "应大家要求，ChatGPT 现已推出 100 美元的商务席位！无 5 小时限制，更多用量等。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月26日4时47分"
   },
   {
     "id": "cmt94mhcc098urolybz2lfqne",
