@@ -13848,6 +13848,70 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt8xi7a802ubrolyrbm6mrc5",
+    "title": "Anthropic IPO 或寻求 2 万亿美元估值",
+    "url": "https://x.com/kimmonismus/status/2092297861350244456",
+    "summary": "Anthropic 可能在 IPO 时向投资者宣称，Claude 等 AI 模型未来可执行的工作对应超 30 万亿美元潜在市场，超过 SpaceX 的 28.5 万亿美元估值。该公司或寻求约 2 万亿美元估值，并募资至多 1000 亿美元。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日1时7分"
+  },
+  {
+    "id": "cmt8y6zzs03cgrolysb9of1kl",
+    "title": "Claude Code 将支持 Agents.MD 与系统提示词修改",
+    "url": "https://x.com/trq212/status/2092303682616627311",
+    "summary": "Anthropic 正提升 Claude Code 的可扩展性，将支持用户轻松使用 Agents.MD 或修改系统提示词。团队认为不同模型族的系统提示词对性能影响显著，且 Claude Code 已为各模型配置不同提示词。短期内用户可在 Claude.MD 中通过 @Agents.MD 调用。",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月26日1时30分"
+  },
+  {
+    "id": "cmt8xxar1030irolyip3h1xfo",
+    "title": "Meta AI 推出 MetaRoCE：面向 AI 规模以太网的全新 RDMA 传输协议",
+    "url": "https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet",
+    "summary": "Meta 发布 MetaRoCE，一种为 AI 工作负载设计的全新 RDMA 传输协议，将网络视为有损链路，把排序、路径选择与恢复下沉到网卡，仅需交换机支持 ECN 与 ECMP。在 64 节点 AMD GPU 集群运行 RCCL 集合通信时，1% 丢包率下仍保持约 86% 吞吐量。Meta 将通过 Open Compute Project（OCP）发布规范、合规测试套件及参考软件实现。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月26日1时25分"
+  },
+  {
+    "id": "cmt8ykq1w03ogrolyosqot2lv",
+    "title": "Anthropic 向投资者兜售超 30 万亿美元潜在营收",
+    "url": "https://x.com/testingcatalog/status/2092301068596027428",
+    "summary": "WSJ 报道，Anthropic 正向投资者推介超 30 万亿美元的潜在营收机会，超过 SpaceX 的 28.5 万亿美元估值。Testing Catalog 推测其中很大一部分将来自企业级业务，并好奇 OpenAI 是否有机会超越这一数字。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月26日1时20分"
+  },
+  {
+    "id": "cmt8xx6rc0300rolyk38dzfyk",
+    "title": "OpenAI Jalapeño芯片实现效率与速度双提升",
+    "url": "https://x.com/OpenAI/status/2092300846675505602",
+    "summary": "自发布我们的首款定制推理芯片 Jalapeño 以来，我们一直在对其及周边系统进行测试。\n\n结果显示这是一项重大进步：每瓦特带来更多智能，响应速度更快，在同一架构中同时实现更高吞吐量和更低延迟，且不牺牲效率。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月26日1时19分"
+  },
+  {
+    "id": "cmt8yfrkp03lrrolygpzk5p2f",
+    "title": "AI软件工厂设计模式直播第71期",
+    "url": "https://x.com/dexhorthy/status/2092300401529995483",
+    "summary": "软件工厂设计模式：🦄 真正可用的 AI 第 71 期 https://x.com/i/broadcasts/1AGRnZYnYNrGl",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月26日1时17分"
+  },
+  {
+    "id": "cmt8xx6pl02zyrolyynksay5o",
+    "title": "Claude 记忆统一，Cowork 共享聊天上下文",
+    "url": "https://x.com/claudeai/status/2092299704864284888",
+    "summary": "Claude 现在在聊天和 Claude Cowork 之间拥有统一的记忆，由你决定其中包含什么内容。\n\n把任务交给 Cowork，它会从 Claude 在聊天中已经了解的信息开始：你讨论过的项目、你经理的偏好，或者上个季度的客户。",
+    "source": "X：Claude (@claudeai)",
+    "date": "2026年8月26日1时14分"
+  },
+  {
+    "id": "cmt8xi7al02udrolyydg8a9ae",
+    "title": "人形机器人金属腿上的纯粹意志力",
+    "url": "https://x.com/rohanpaul_ai/status/2092294506884559329",
+    "summary": "金属腿上的纯粹意志力\n\n手腕上的力感应必须直接接入平衡控制器\n\n还有，当绳索角度变化时，机器人多么迅速地重新调整臀部重心",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日0时54分"
+  },
+  {
     "id": "cmt8wu9ns02d7rolyrgp1vgxu",
     "title": "OpenClaw 回归在即，社区期待发布",
     "url": "https://x.com/steipete/status/2092294123638362346",
@@ -13864,6 +13928,14 @@
     "date": "2026年8月26日0时4分"
   },
   {
+    "id": "cmt8xi7al02ueroly1ojrjmgt",
+    "title": "终端智能体评测：脚手架比模型更影响分数",
+    "url": "https://x.com/rohanpaul_ai/status/2092293173867597999",
+    "summary": "一项针对命令行环境AI智能体的综述发现，模型外围脚手架（scaffold）对基准分数的影响大于模型本身，系统间差异可测量而模型变体间差异不显著。同一脚手架内更强的模型变体未带来额外解决任务数，仅增加延迟。研究建议将脚手架选择视为一级工程决策。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日0时49分"
+  },
+  {
     "id": "cmt8wfk9n0217roly1qv6hbh1",
     "title": "Gemini Enterprise 首批法律与金融插件发布",
     "url": "https://x.com/testingcatalog/status/2092292577781281244",
@@ -13878,6 +13950,14 @@
     "summary": "Anthropic 和 OpenAI 有望在几年内控制全球大部分可用 FLOPs，因其能更好变现算力并出价超过所有对手。对话还探讨了本十年末超 10 万亿美元 AI 资本支出或引发主权债务危机，以及训练规模经济与算力稀缺推动行业集中化是否可被逆转。",
     "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
     "date": "2026年8月26日0时45分"
+  },
+  {
+    "id": "cmt8xl7ua02vnrolycubcilp0",
+    "title": "Claude for Word： Turn a draft into a finished document",
+    "url": "https://www.youtube.com/watch?v=T8rIGSjnIzg",
+    "summary": null,
+    "source": "Claude：YouTube（RSS）",
+    "date": "2026年8月26日0时44分"
   },
   {
     "id": "cmt8wfk980215roly4t3o4b6o",
