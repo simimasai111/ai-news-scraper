@@ -13848,6 +13848,78 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt92vlvm0820rolypj9qt03q",
+    "title": "Benchmarks Don't Know Your Job",
+    "url": "https://every.to/context-window/benchmarks-don-t-know-your-job",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月26日3时48分"
+  },
+  {
+    "id": "cmt924nn607a2roly0vwsy5t7",
+    "title": "Stability AI 获 7600 万美元 B 轮融资，环球音乐、索尼音乐、EA 参投",
+    "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
+    "summary": "Stability AI 完成 7600 万美元 B 轮融资，累计融资总额达 2.32 亿美元。本轮投资方包括环球音乐集团、索尼音乐集团、华纳音乐集团和游戏巨头 EA，以及 AMD Ventures 和 Pacific Alliance Ventures。公司计划将资金用于扩展\"创意制作\"产品套件和专业服务部门。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日3时3分"
+  },
+  {
+    "id": "cmt91sgu0076hroly2ey2zf1b",
+    "title": "OpenAI 完成超 10T 参数\"Bel\"预训练",
+    "url": "https://x.com/kimmonismus/status/2092327038199755158",
+    "summary": "OpenAI 据报已完成代号\"Bel\"的下一代预训练模型，总参数超 10T，规模接近 GPT-4.5，预计成为 Astra 与 GPT-6 的基础。Anthropic 因算力受限，被认为今年内难以应对 Astra 的公开推出，但预计明年初可重回领先。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日3时3分"
+  },
+  {
+    "id": "cmt92v24f080srolyt5lz3435",
+    "title": "Codex 费率被重置，官方不再公告",
+    "url": "https://x.com/kimmonismus/status/2092334803580297539",
+    "summary": "哈哈什么？秘密重置。查一下你的 codex 费率。它们已经被重置了。到这一步，我们那位老哥甚至都不再公告它们了。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日3时34分"
+  },
+  {
+    "id": "cmt92v242080qrolyjd71ya9y",
+    "title": "马斯克TeraFab芯片厂在得州进入协议阶段",
+    "url": "https://x.com/cb_doge/status/2092334382006808587",
+    "summary": "马斯克旗下TeraFab在得州正式进入协议阶段，州政府已公布与州长办公室、Anderson-Shiro CISD及TeraFab AI签署的34页税务协议。该协议将TeraFab定位为下一代垂直整合半导体制造与先进计算设施，建设期为2026年12月1日至2028年12月31日，并设2029至2038年十年税收优惠期，要求1298万美元履约保证金。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月26日3时32分"
+  },
+  {
+    "id": "cmt92v24n080urolyc14k9rwo",
+    "title": "OpenAI数据中心负责人离职",
+    "url": "https://x.com/rohanpaul_ai/status/2092332661733990778",
+    "summary": "WSJ：OpenAI 的数据中心负责人已离开公司。\n\nChris Malone 于 2025 年 3 月加入，在 OpenAI 宣布 Stargate 基础设施项目后不久，于上周离职。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日3时25分"
+  },
+  {
+    "id": "cmt924nyq07a6rolygdrk1nf2",
+    "title": "OpenAI Jalapeño：优于英伟达 Blackwell",
+    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "summary": "OpenAI 发布 Jalapeño，宣称其性能优于英伟达 Blackwell。该芯片在推理任务中展现出显著优势，具体参数与基准分数未在原文中披露。Jalapeño 的推出标志着 OpenAI 在自研芯片领域迈出关键一步，可能对现有 GPU 市场格局产生影响。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日3时17分"
+  },
+  {
+    "id": "cmt927o6307dcrolytxd1iu1v",
+    "title": "Perplexity 发布 Portable Computer：可在 NVIDIA DGX Spark 本地运行智能体平台，本地步骤零 token 费用",
+    "url": "https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps",
+    "summary": "Perplexity 发布 Portable Computer，将智能体平台完整本地化部署于 NVIDIA DGX Spark，本地模型处理的步骤不产生按 token 计费。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月26日3时12分"
+  },
+  {
+    "id": "cmt91sgtl076froly97v2wga9",
+    "title": "上下文压缩如何破坏智能体安全规则",
+    "url": "https://x.com/omarsar0/status/2092326207077634351",
+    "summary": "研究测量了20个生产级智能体配置中上下文压缩的实际破坏效果：Claude Code在Sonnet 4.6上经一轮压缩后仅保留53%的安全规则，五轮后降至10%。其提出的Knowledge Triage方案按类型分类知识库各行并分配独立保留策略，在任意压缩比下多保留2-4倍安全规则，五轮召回率达96%。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月26日3时0分"
+  },
+  {
     "id": "cmt8z9ko905c1roly4nfhkryw",
     "title": "Replit 免费模式：做更多，忧更少",
     "url": "https://x.com/Replit/status/2092312646099861650",
@@ -13864,12 +13936,52 @@
     "date": "2026年8月26日2时5分"
   },
   {
+    "id": "cmt91sgu8076jrolypt5ef0op",
+    "title": "Keenable 推出独立网页搜索 API 与 Time Machine",
+    "url": "https://x.com/testingcatalog/status/2092325555656098276",
+    "summary": "Keenable 为 AI 实验室和智能体推出独立网页搜索 API，基于自研爬虫、索引和排序栈，覆盖超 1000 亿文档，获 Accel 领投 2600 万美元种子轮，美国东部 p95 延迟低于 250ms。同步发布 Time Machine 功能，可将搜索结果回退至指定时间点的网页状态。Web Search API 与 Web Query Language 现已上线，9 月底前免费。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月26日2时57分"
+  },
+  {
+    "id": "cmt92ixp507qzrolyb3s4sg6d",
+    "title": "LangSmith 推出 Workspaces 以改善团队协作与资源组织",
+    "url": "https://www.langchain.com/blog/workspaces-in-langsmith",
+    "summary": "LangSmith 推出 Workspaces 功能，允许企业按团队、业务单元或部署环境隔离资源。该功能旨在改善协作与组织管理，适用于需要多团队并行或环境隔离的企业用户。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日2时55分"
+  },
+  {
     "id": "cmt9154w606r1rolyz9h10kmx",
     "title": "OpenAI 曝光俄罗斯利用 ChatGPT 开展的隐蔽影响力行动",
     "url": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west",
     "summary": "OpenAI 曝光并封禁了一批通过 VPN 从俄罗斯访问 ChatGPT 的账户，这些账户利用该模型生成内容，推广亲克里姆林宫叙事，为据称位于以色列的智库\"国际伯克研究所\"（IBI）造势。",
     "source": "The Decoder：AI News（RSS）",
     "date": "2026年8月26日2时54分"
+  },
+  {
+    "id": "cmt92ixp507r0roly5izppuco",
+    "title": "LLMs 与 SQL：用 LangChain 构建可靠的 text-to-SQL 方案",
+    "url": "https://www.langchain.com/blog/llms-and-sql",
+    "summary": "本文探讨如何用大语言模型以自然语言查询 SQL 数据库，并重点介绍减少模型幻觉、构建可靠 text-to-SQL 解决方案的技术方法。内容基于 LangChain 框架展开，涵盖从自然语言到 SQL 查询转换的关键实现路径。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日2时53分"
+  },
+  {
+    "id": "cmt91eqnl06yvrolysubwhrfd",
+    "title": "Suno Studio 2.0 融合传统 DAW 与最新技术",
+    "url": "https://x.com/suno/status/2092324519306514931",
+    "summary": "Suno Studio 2.0 弥合了传统 DAW 表现方式（如 MIDI 输入和实时音频效果）与我们最新技术之间的差距。\n\n演奏它、调整它、完善它。🎹🎧\n\n#Suno #SunoStudio2 #MusicTech #DAW",
+    "source": "X：Suno (@suno)",
+    "date": "2026年8月26日2时53分"
+  },
+  {
+    "id": "cmt92ixp507r1rolyiowy92au",
+    "title": "多模态 RAG 在幻灯片中的应用：基于 GPT-4V 的构建与评估",
+    "url": "https://www.langchain.com/blog/multi-modal-rag-template",
+    "summary": "使用 GPT-4V 为幻灯片构建多模态 RAG 应用，支持视觉问答。文章对比了不同实现方法，并通过基准测试进行评估，最后提供 LangChain 模板用于部署。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日2时51分"
   },
   {
     "id": "cmt912yw606nerolyl7ljeo94",
