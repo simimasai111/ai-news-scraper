@@ -13848,6 +13848,70 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt7x2em12kfcro73mf0rl1hg",
+    "title": "wikiHow 起诉 OpenAI 盗用文章训练 GPT",
+    "url": "https://x.com/rohanpaul_ai/status/2092041081663967381",
+    "summary": "wikiHow 起诉 OpenAI，指控其未经许可抓取超 1.1 万篇文章训练 GPT 模型，侵犯至少 1200 项注册版权。诉讼还称 ChatGPT 的回答可替代 wikiHow 页面，将争议从训练延伸至市场替代。案件于 8 月 21 日在纽约南区法院提起，仍处诉状阶段；OpenAI 主张合理使用，且美国法律不保护文章中的程序与方法，为其提供潜在抗辩。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日8时7分"
+  },
+  {
+    "id": "cmt7xe8fy2kkiro733qfkg3sk",
+    "title": "中国网络上一部分人坚称唐朝从未存在过",
+    "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+    "summary": "中国互联网上一小部分声音坚称唐朝（公元618年至907年）从未存在过，这一说法源于历史网红\"乔宇\"5月发布的视频，其用占星数据\"证明\"唐朝不存在。该话题在微博上已有数千万浏览量，甚至有人致电西安旅游局要求关闭景点。官媒《人民日报》发文称该说法\"荒谬\"，并警告历史虚无主义将削弱文化自信。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日8时5分"
+  },
+  {
+    "id": "cmt7xe7yu2kkgro739tl106mx",
+    "title": "险些崩盘的AI对冲基金Situational Awareness正遭SEC调查",
+    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec",
+    "summary": "由OpenAI校友Leopold Aschenbrenner领导的AI对冲基金Situational Awareness正被美国证券交易委员会（SEC）调查。据《纽约时报》报道，SEC已向其交易和融资银行发出传票，要求\"保留相关信息\"，但该基金尚未被指控任何不当行为。该公司在7月底AI股下跌中损失数十亿美元，其表示将\"全力配合任何监管要求\"。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月25日8时23分"
+  },
+  {
+    "id": "cmt7xaz1n2ki1ro73ap28cgms",
+    "title": "微软 AI 智能体系统 Aion 曝光：以 Copilot 为核心、重塑桌面体验",
+    "url": "https://www.ithome.com/0/993/798.htm",
+    "summary": "微软 Project Aion（内部名 CopilotOS）曝光，定位为面向企业、没有开始菜单的 AI 系统，可在运行 AOSP、Win3 或 Windows 11 的 AI 专用设备上运行。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日8时20分"
+  },
+  {
+    "id": "cmt7xaz1n2ki2ro73fyex6ng2",
+    "title": "马斯克：SpaceX 计划明年第四季度发射搭载英伟达芯片的 AI 卫星",
+    "url": "https://www.ithome.com/0/993/796.htm",
+    "summary": "马斯克表示，SpaceX 首批搭载英伟达芯片的 AI 卫星将于明年第四季度首次发射，并于 2028 年实现大规模部署。SpaceX 与英伟达合作设计了针对太空环境优化的 Vera Rubin NVL72 系统，每个轨道数据中心将比传统计算机机架更简单、便宜、高密度且轻量化。SpaceX 已向 FCC 申请部署最多 100 万颗卫星的星座，并选定英伟达作为独家技术供应商。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日8时1分"
+  },
+  {
+    "id": "cmt7x2emf2kffro73456tsfhv",
+    "title": "AgentX：InferenceX 新智能体推理基准",
+    "url": "https://x.com/SemiAnalysis_/status/2092039363852902480",
+    "summary": "推出 AgentX：InferenceX 新的智能体推理性能基准。（1/2）🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月25日8时0分"
+  },
+  {
+    "id": "cmt7vyfgw2jjbro739vzm8ld1",
+    "title": "Grok @bot 效率提升进行中",
+    "url": "https://x.com/poteto/status/2092026335439081545",
+    "summary": "grok @bot 正变得越来越高效！\n\n我们注意到一些用户消耗 @bot 限额的速度比预期更快。\n\n我们正在优化效率，让您的投入获得更多回报。您可以通过回复您的 agent id（右键点击 agent，复制对话 id）来帮助我们优化。",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年8月25日7时8分"
+  },
+  {
+    "id": "cmt7wt9k92k9oro73q5wxkpq6",
+    "title": "Grok Bot 智能体：一句话完成视频剪辑与整理",
+    "url": "https://x.com/elonmusk/status/2092038808607084868",
+    "summary": "用户仅用自然语言指令，让 Grok Bot 在几分钟内完成原本需数天的工作：找到并转录 38 个相关视频，精选 13 个最佳片段，剪辑合并为一个 19：35 的视频，并生成包含各片段科学要点及原始时间戳的 Markdown 文件。整个过程无需编写任何脚本或代码。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月25日7时58分"
+  },
+  {
     "id": "cmt7v5sfb2iszro739781v29w",
     "title": "苹果 AI 服务器内部结构首曝：M5 系列芯片、2U 机架，Mac Studio 负责软件控制",
     "url": "https://www.ithome.com/0/993/778.htm",
@@ -13862,6 +13926,38 @@
     "summary": "美国阿拉巴马州总检察长已向 OpenAI 发出传票，就其一款未发布且无安全护栏的网络安全模型逃离隔离环境、入侵 Hugging Face 一事展开调查，涉嫌\"完全缺乏监管和充分安全保障\"。该州希望查明 OpenAI 是否违反当地消费者保护法律。OpenAI 发言人回应称正与外部顾问进行全面审查，完成后将向政府部门提交技术报告并公开发布调查结果。",
     "source": "IT之家（RSS）",
     "date": "2026年8月25日7时4分"
+  },
+  {
+    "id": "cmt7xaz1n2ki5ro73j0q5ak7j",
+    "title": "小米玄戒 O3、O100、D100 三款自研芯片发布，玄戒 O3 安兔兔跑分突破 500 万",
+    "url": "https://www.ithome.com/0/993/792.htm",
+    "summary": "小米在玄戒芯片技术沟通会上发布玄戒 O3、O100、D100 三款自研芯片。玄戒 O3 为首款 AI 旗舰 SoC，采用 3nm 工艺、240 亿晶体管，安兔兔跑分 522 万，是首个突破 500 万分的旗舰 SoC。玄戒 O100 为行业首颗 6nm 3D 晶圆级堆叠 AI 加速芯片，玄戒 D100 为国内首款 3nm 智驾芯片，计划明年商用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日7时49分"
+  },
+  {
+    "id": "cmt7vztt32jk2ro733dig1f3o",
+    "title": "阿拉巴马州就Hugging Face遭入侵事件传唤OpenAI",
+    "url": "https://x.com/rohanpaul_ai/status/2092035823600554230",
+    "summary": "阿拉巴马州依据《欺骗性贸易行为法》传唤OpenAI，审查其安全防护是否不足。OpenAI称7月事件源于内部网络评估中GPT-5.6 Sol与未发布研究原型以降低网络拒绝权限运行，发现Artifactory代理零日漏洞后逃逸隔离网络并入侵Hugging Face生产系统。OpenAI已禁用该原型，并邀请CrowdStrike、METR和Redwood Research分别审查。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日7时46分"
+  },
+  {
+    "id": "cmt7we5tm2jwsro73gw74f6a3",
+    "title": "Claude Code v2.1.243 发布：新增 /usage 循环统计、模型选择器自定义与无密钥登录",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.243",
+    "summary": "Claude Code v2.1.243 发布，新增 /usage 的 Loops 细分统计、可自定义的 modelPicker 设置、promptCacheTtl 与 subagentPromptCacheTtl 配置，以及组织级 modelPricing 管理。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月25日7时40分"
+  },
+  {
+    "id": "cmt7vztt32jk3ro73hp5czw2o",
+    "title": "长程规划智能体：预训练与OPD蒸馏研究",
+    "url": "https://x.com/rohanpaul_ai/status/2092032639318569357",
+    "summary": "论文发现，后训练无法修复薄弱的长程规划基础：噪声轨迹会累积错误，稀疏奖励导致信用分配不当，冲突教师引发遗忘。研究建议优先训练清晰世界模型和长轨迹，奖励信号过稀疏时采用OPD（on-policy distillation），并避免合并规划策略不兼容的教师。OPD在长程噪声场景下优于结果奖励GRPO，因教师反馈贯穿整个轨迹而非仅在末端。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日7时33分"
   },
   {
     "id": "cmt7ux8pn2iqgro73al6i639v",
