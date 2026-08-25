@@ -13848,6 +13848,46 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt99ajkm0dn7rolylv3inouy",
+    "title": "Claude 推出跨 Chat 与 Cowork 统一记忆",
+    "url": "https://x.com/testingcatalog/status/2092382971944702272",
+    "summary": "Claude 更新了跨 Claude Chat 和 Cowork 的统一记忆功能，用户可决定记忆内容。设置中新增敏感话题记忆开关，记忆按类别拆分，并在设置中新增独立标签页，用户可直接在记忆浏览器界面告诉 Claude 要记住什么。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月26日6时45分"
+  },
+  {
+    "id": "cmt99ajk80dn5rolyo7q1wg3s",
+    "title": "Prime Agent 技术报告：记忆层级机制解析",
+    "url": "https://x.com/rohanpaul_ai/status/2092381340968910922",
+    "summary": "Prime Agent 发布技术报告，该 harness 曾助 Opus 5 在 ARC-AGI-3 达 95.5%。其核心机制为记忆层级：模型权重与活动上下文之下，设持久 IPython 会话及磁盘存储的历史、技能与提示词库，模型通过代码在各层级间移动状态。长输入作为 REPL 变量留存，供智能体搜索与转换，将长上下文工作转为信息管理问题。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日6时39分"
+  },
+  {
+    "id": "cmt99ajkn0dn8roly7r0nmk2k",
+    "title": "Claude Morning Brief 功能开始向部分用户推送",
+    "url": "https://x.com/testingcatalog/status/2092378535805526346",
+    "summary": "Morning Brief 功能似乎正在向部分 Claude 用户逐步推出。\n\nMorning Brief 基于定时任务运行，引导用户自定义偏好设置和 Connectors 以拉取数据。\n\n你也收到了吗？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月26日6时28分"
+  },
+  {
+    "id": "cmt98ws4f0dcerolyhc1jqvjy",
+    "title": "ChatGPT Work 可安全登录网站账号",
+    "url": "https://x.com/gdb/status/2092376258030211281",
+    "summary": "ChatGPT Work 现可调用其计算机和浏览器，在网页及移动端安全登录网站，全程不接触用户名或密码。用户可让其代办理水电开通、预约 DMV 或护照、查询保险报销、预约医生、处理车辆登记续期、提交报销单据等 20 余项事务。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月26日6时19分"
+  },
+  {
+    "id": "cmt995jl90dklroly1p3lq71c",
+    "title": "Apodex 1.1 分析 221 个 MATS 项目：中国开放权重模型采用率升至 50.55%",
+    "url": "https://x.com/dongxi_nlp/status/2092371520366522856",
+    "summary": "Apodex 1.1 端到端研究了 221 个 MATS 项目，发现中国模型实质性采用率从 2023 年的 4.35% 升至 2025 年的 50.55%，2026 年截至 8 月为 65.52%。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月26日6时0分"
+  },
+  {
     "id": "cmt96t9tn0auirolyfsd18wzo",
     "title": "LangChain 检索功能：用灵活检索方法构建个性化 AI 应用",
     "url": "https://www.langchain.com/blog/retrieval",
@@ -13878,6 +13918,14 @@
     "summary": "准备好开黑了吗？\n\n欢迎参加 WebMCP 挑战赛启动直播。\n\n我们将介绍 WebMCP 开放标准，展示一些构建成果，并介绍奖项以及如何与我们一同开黑。\n\nhttps://x.com/i/broadcasts/1qGoNYbWdkvKv",
     "source": "X：OpenAI Developers (@OpenAIDevs)",
     "date": "2026年8月26日5时59分"
+  },
+  {
+    "id": "cmt995jkw0dkjroly00gxbf5e",
+    "title": "/show-me 两周安装量破 5000",
+    "url": "https://x.com/dexhorthy/status/2092369625686433862",
+    "summary": "两周时间，/show-me 安装量已突破 5000！",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月26日5时52分"
   },
   {
     "id": "cmt97ysg50crarolyyesy7vg9",
