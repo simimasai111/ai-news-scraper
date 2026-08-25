@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt99gbt00dqsrolyghe63mmu",
+    "title": "Ultrafast Frontier Inference： Cerebras Deep Dive at Hot Chips 2026",
+    "url": "https://www.cerebras.ai/blog/ultrafast-frontier-inference-cerebras-deep-dive-at-hot-chips-2026",
+    "summary": null,
+    "source": "Cerebras：Blog（网页）",
+    "date": "2026年8月26日6时52分"
+  },
+  {
     "id": "cmt99ajkm0dn7rolylv3inouy",
     "title": "Claude 推出跨 Chat 与 Cowork 统一记忆",
     "url": "https://x.com/testingcatalog/status/2092382971944702272",
@@ -13856,12 +13864,28 @@
     "date": "2026年8月26日6时45分"
   },
   {
+    "id": "cmt99i1y00ds7roly1cyvd9xa",
+    "title": "韩国稳居全球AI竞赛第三，多家实验室模型得分超30",
+    "url": "https://x.com/ArtificialAnlys/status/2092381946613846240",
+    "summary": "韩国在全球AI竞赛中稳居第三，仅次于美国和中国，得益于本土人才、公共投资及主权AI基础模型项目。Motif Technologies的Motif 3（47分）和Upstage的Solar Pro 4（42分）成为中美以外最高分模型，SK Telecom的A.X K2（35分）和LG的K-EXAONE 2.0（31分）亦表现突出。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月26日6时41分"
+  },
+  {
     "id": "cmt99ajk80dn5rolyo7q1wg3s",
     "title": "Prime Agent 技术报告：记忆层级机制解析",
     "url": "https://x.com/rohanpaul_ai/status/2092381340968910922",
     "summary": "Prime Agent 发布技术报告，该 harness 曾助 Opus 5 在 ARC-AGI-3 达 95.5%。其核心机制为记忆层级：模型权重与活动上下文之下，设持久 IPython 会话及磁盘存储的历史、技能与提示词库，模型通过代码在各层级间移动状态。长输入作为 REPL 变量留存，供智能体搜索与转换，将长上下文工作转为信息管理问题。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月26日6时39分"
+  },
+  {
+    "id": "cmt99p25y0dy0rolyh460c30u",
+    "title": "Claude Code v2.1.246 发布：修复 Bash 通配符权限、全屏模式与后台会话等多项问题",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.246",
+    "summary": "Claude Code v2.1.246 发布，新增 Bash 允许规则中通配符的启动警告、/permissions 的 Auto 模式标签页，并在回合时长行显示完成时间。本次更新修复了全屏模式空白、超长 diff 行导致的严重卡顿、后台会话无法打开、MCP 工具调用中断误报、插件缓存重复目录等大量问题，同时优化了自定义主题颜色与 /fork 等功能的稳定性。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月26日6时31分"
   },
   {
     "id": "cmt99ajkn0dn8roly7r0nmk2k",
