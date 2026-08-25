@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt81okzy2o1oro73jfvwu3ru",
+    "title": "在 AI 时代，为什么焦虑比愤怒更有用",
+    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency",
+    "summary": "一篇评论文章回应\"在科技行业工作怎能不愤怒\"的提问，认为面对 AI 与智能体带来的剧变，焦虑比愤怒更合理：愤怒需要归咎对象，而焦虑承认未来的不确定性。作者主张以不确定感和好奇心替代愤怒，并指出 AI 收益正体现在员工业余项目数量上，而非公司利润。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日9时57分"
+  },
+  {
     "id": "cmt7z7l552m34ro73e94ircw8",
     "title": "天骄机器人跳远7.97米夺冠",
     "url": "https://x.com/rohanpaul_ai/status/2092055391681257773",
@@ -13856,12 +13864,28 @@
     "date": "2026年8月25日9时4分"
   },
   {
+    "id": "cmt81lbbm2nyoro739naubw9q",
+    "title": "WikiHow 起诉 OpenAI 未经许可爬取超 1.1 万篇教程文章训练 AI",
+    "url": "https://www.ithome.com/0/993/824.htm",
+    "summary": "WikiHow 于 8 月 21 日向美国曼哈顿联邦法院起诉 OpenAI，指控其未经许可抓取超过 11，000 篇教程文章用于训练 ChatGPT 及 GPT 大语言模型，并侵犯至少 1，200 项已注册版权。WikiHow 称 ChatGPT 能复现其文本并生成同类教程，减少其收入，要求法院判令赔偿并发布禁令。OpenAI 发言人回应称模型使用公开数据训练，并以合理使用为基础。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日9时45分"
+  },
+  {
     "id": "cmt80a53q2mwvro73pb2d0gfz",
     "title": "通义万相 Wan 3.0 上线 Pixmax，限时 7 折",
     "url": "https://x.com/alibaba_cloud/status/2092065672314634747",
     "summary": "阿里云通义万相 Wan 3.0 已上线 AI 创作平台 Pixmax，主打电影级画质输出。新版本支持任意艺术风格下的视觉一致性、物理真实的流畅运动，以及多模态与混合现实编辑能力。即日起至 8 月 24 日，Pixmax 用户可享 30% 折扣；开发者还可通过 Model Studio 与 Qwen Cloud 获取 API 接入。",
     "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "date": "2026年8月25日9时44分"
+  },
+  {
+    "id": "cmt81lbbm2nyqro73v1w5xvv5",
+    "title": "微软员工自报 AI 使用量：各部门差异悬殊，与薪资、晋升无明显关联",
+    "url": "https://www.ithome.com/0/993/822.htm",
+    "summary": "微软内部电子表格显示，数百名员工主动公开薪酬数据并记录过去 28 天的 AI 使用金额，中位数约 300 美元，最高达 2.8 万美元，各部门差异悬殊。Business Insider 分析近 600 名美国员工数据后发现，更高的 AI 使用量并未转化为更高的加薪、奖金或晋升机会。该 AI 使用追踪工具目前仍处于早期测试阶段。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日9时36分"
   },
   {
     "id": "cmt80a5442mwxro732et6sjuu",
@@ -13910,6 +13934,14 @@
     "summary": "小鹏汽车宣布第二代 VLA 630 版首次重大升级，端侧模型参数量提高 3.5 倍，为行业主流 VLA 模型的 15 倍；端到端响应速度提升 300%。小鹏 G9L 将全球首发搭载第二代 VLA 全新版本，体验日活动定于 8 月 27 日举行。",
     "source": "IT之家（RSS）",
     "date": "2026年8月25日9时15分"
+  },
+  {
+    "id": "cmt82303q2oj2ro73vin24rux",
+    "title": "Sierra 在韩国推出服务，为首尔最复杂企业提供高级 AI 智能体",
+    "url": "https://sierra.ai/blog/sierra-launches-in-korea",
+    "summary": "Sierra 宣布在首尔开设办公室，正式进入韩国市场。该公司将面向韩国大型复杂行业的企业客户，提供其高级 AI 智能体服务，以满足当地最严苛的业务需求。",
+    "source": "Sierra：Blog（RSS）",
+    "date": "2026年8月25日9时14分"
   },
   {
     "id": "cmt7x2em12kfcro73mf0rl1hg",
@@ -14870,6 +14902,62 @@
     "summary": "Databricks 利用 AI 加速事件调查流程，将原本耗时数小时的排查工作压缩至分钟级。其内部系统通过大语言模型自动关联日志、指标与代码变更，辅助工程师快速定位根因。该方法已在数千起生产事件中验证，显著缩短了平均修复时间（MTTR）。",
     "source": "Databricks：Blog（RSS）",
     "date": "2026年8月25日1时0分"
+  },
+  {
+    "id": "cmt81cq4z2nvero73xhgytm3j",
+    "title": "DeepMind 新研究：推理时回灌深层激活可降困惑度",
+    "url": "https://x.com/rohanpaul_ai/status/2092071211480322435",
+    "summary": "Google DeepMind 新论文提出\"Recirculation\"方法：推理时将深层激活的一小部分混入浅层，权重不变，即可恢复模型在长上下文中丢失的部分状态。在 Gemma3 上，10 个语言建模数据集中 9 个困惑度下降，12B 模型最高降 35%，但多项选择收益有限；该方法无需重训，但代价是预填充无法并行，且收益不跨模型家族迁移。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日10时7分"
+  },
+  {
+    "id": "cmt81lbbm2nyjro7383imoh4h",
+    "title": "小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型",
+    "url": "https://www.ithome.com/0/993/838.htm",
+    "summary": "小米在玄戒芯片技术沟通会上展出两款端侧 AI 原型机。玄戒 O100 原型机采用 O3 与 O100 双芯协同，内置 Xiaomi MiMo 端侧模型，实测推理速度达每秒 295 Tokens。另一款 Xiaomi AI Cube「Prototype」迷你主机集成 O3、O100 与 D100 芯片，配备 80GB 统一内存，可部署 120B 与 3B 端侧模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日10时6分"
+  },
+  {
+    "id": "cmt81k8u72ny1ro73zxscub2c",
+    "title": "NVIDIA Groq 3 LPX 跑出 Gemma 4 31B 最快推理速度",
+    "url": "https://x.com/ArtificialAnlys/status/2092070577934925992",
+    "summary": "Artificial Analysis 实测 NVIDIA Groq 3 LPX 推理机架在私有端点上以 3，431 tokens/s 输出速度运行 Gemma 4 31B，为 100k 上下文下该模型最高实测速度。该机架已全面投产，将于今年晚些时候投入运营；在 10k 和 100k 输入长度下均保持约 3，400 tokens/s 的中位输出速度，长上下文推理性能稳健。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月25日10时4分"
+  },
+  {
+    "id": "cmt82fb602oswro736jypnte3",
+    "title": "世界人形机器人运动会失败集锦",
+    "url": "https://x.com/rohanpaul_ai/status/2092079264258818405",
+    "summary": "世界人形机器人运动会上的失败集锦。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日10时39分"
+  },
+  {
+    "id": "cmt82fb5r2osuro73crq48vq1",
+    "title": "假如AI从未诞生，手写代码的永恒困境",
+    "url": "https://x.com/gabriel1/status/2092077463077794231",
+    "summary": "想象一下你搞砸了时间线，AI从未被发明，而你从此永远手写代码。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月25日10时31分"
+  },
+  {
+    "id": "cmt81lbbm2nykro73o70u82tb",
+    "title": "英特尔确认 \"Diamond Rapids\" 至强处理器可扩展至 256 核心",
+    "url": "https://www.ithome.com/0/993/831.htm",
+    "summary": "英特尔在 Hot Chips 2026 新闻稿中确认，下一代至强服务器处理器 \"Diamond Rapids\" 最高配备 256 颗全新核心，全面采用自研技术，结合 Intel 18A-P 制程、Foveros Direct 3D 封装与 UCIe-S 互连。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日10时2分"
+  },
+  {
+    "id": "cmt82adjg2optro73dg9awd2i",
+    "title": "Conductor Cloud 进展令人振奋",
+    "url": "https://x.com/charlieholtz/status/2092073077664620644",
+    "summary": "我们还有很长的路要走，但我对 Conductor Cloud 的进展感到非常兴奋。\n\n不久之后，我们都将合上电脑屏幕 🫡",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月25日10时14分"
   },
   {
     "id": "cmt7fx4i024trro73zkf8wgod",
