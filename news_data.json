@@ -13864,6 +13864,46 @@
     "date": "2026年8月26日2时5分"
   },
   {
+    "id": "cmt9154w606r1rolyz9h10kmx",
+    "title": "OpenAI 曝光俄罗斯利用 ChatGPT 开展的隐蔽影响力行动",
+    "url": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west",
+    "summary": "OpenAI 曝光并封禁了一批通过 VPN 从俄罗斯访问 ChatGPT 的账户，这些账户利用该模型生成内容，推广亲克里姆林宫叙事，为据称位于以色列的智库\"国际伯克研究所\"（IBI）造势。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月26日2时54分"
+  },
+  {
+    "id": "cmt912yw606nerolyl7ljeo94",
+    "title": "Gemini macOS 应用新增语音听写与摘要功能",
+    "url": "https://x.com/GeminiApp/status/2092322045296255330",
+    "summary": "在 macOS 版 Gemini 应用中，直接用语音在任意窗口内听写、总结文件并改写文案。",
+    "source": "X：Gemini (@GeminiApp)",
+    "date": "2026年8月26日2时43分"
+  },
+  {
+    "id": "cmt914xzm06qjrolygi5u6y9z",
+    "title": "Perplexity 便携电脑智能体研究发布",
+    "url": "https://x.com/perplexity_ai/status/2092321896721432824",
+    "summary": "新研究：Portable Computer 是一款本地优先的智能体，用于私密且经济高效的工作。\n\n凭借设备端 27B 模型，我们的框架在真实知识工作中得分 82.6%，超越了开源框架 Pi 和 Hermes。我们后训练的 PPLX 27B 达到 85.4%。",
+    "source": "X：Perplexity (@perplexity_ai)",
+    "date": "2026年8月26日2时43分"
+  },
+  {
+    "id": "cmt90druk064lrolyw5jqt6ln",
+    "title": "上下文工程（Context Engineering）的兴起",
+    "url": "https://www.langchain.com/blog/the-rise-of-context-engineering",
+    "summary": "上下文工程正在成为构建可靠 LLM 应用的关键方法，其核心是构建动态系统，为模型提供正确的信息、工具和格式以稳定完成任务。这一概念强调通过主动管理输入上下文来提升模型输出的准确性与可控性，而非单纯依赖模型自身能力。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日2时36分"
+  },
+  {
+    "id": "cmt90druk064mrolyxmqbi8ny",
+    "title": "LangSmith 如何调试深度智能体：追踪分析与 Polly 提示词优化",
+    "url": "https://www.langchain.com/blog/debugging-deep-agents-with-langsmith",
+    "summary": "LangSmith 推出面向深度智能体的调试方案，通过追踪与分析功能解析复杂调用链，并借助 Polly 优化提示词，从而提升智能体整体性能。该方案聚焦于可观测性与迭代效率，帮助开发者定位问题并持续改进。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日2时35分"
+  },
+  {
     "id": "cmt8z2eko055crolytaitdxv8",
     "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
     "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
@@ -13872,12 +13912,68 @@
     "date": "2026年8月26日2时2分"
   },
   {
+    "id": "cmt90druk064prolyfxvd9ucv",
+    "title": "LangSmith Engine 智能体问题检测能力提升 2 倍",
+    "url": "https://www.langchain.com/blog/new-in-langsmith-engine-2x-better-issue-detection",
+    "summary": "LangSmith Engine 现可将智能体问题检测能力提升 2 倍以上，并提出更有效的修复建议。该引擎新增 Slack 与 Linear 工作流支持，同时提供自托管部署选项。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日2时2分"
+  },
+  {
+    "id": "cmt9122np06m8rolyghos7079",
+    "title": "Anthropic 因安全团队可能罢工，要求员工居家办公",
+    "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+    "summary": "Anthropic 因安全团队可能举行罢工，已要求员工居家办公。此举源于公司内部安全团队与管理层之间的紧张关系，罢工威胁可能影响公司运营。目前尚不清楚罢工是否最终成行，以及 Anthropic 将如何应对潜在的安全保障缺口。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日2时29分"
+  },
+  {
+    "id": "cmt90druk064nroly3aqq8jow",
+    "title": "LangChain 结构化工具（Structured Tools）指南：构建多输入复杂工具模式",
+    "url": "https://www.langchain.com/blog/structured-tools",
+    "summary": "LangChain 推出结构化工具（Structured Tools），支持智能体接收多个输入并创建复杂工具模式。该功能旨在构建更强大的 LangChain 智能体，解锁高级 AI 智能体能力。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日2时27分"
+  },
+  {
+    "id": "cmt90druk064orolyr2s8caeb",
+    "title": "LangChain 多向量检索器：面向表格、文本与图像的 RAG 实现指南",
+    "url": "https://www.langchain.com/blog/semi-structured-multi-modal-rag",
+    "summary": "LangChain 推出多向量检索器，支持在表格、文本和图像上实现 RAG。文章提供半结构化与多模态数据检索的 cookbook 示例，帮助开发者构建跨多种数据类型的检索增强生成流程。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日2时26分"
+  },
+  {
+    "id": "cmt90oi3p06dkrolyg6pvsdr5",
+    "title": "Grok Bot 桌面端上线 DeepLink 插件",
+    "url": "https://x.com/poteto/status/2092317628635418739",
+    "summary": "刚刚为 Grok @Bot 在桌面端上线了 deeplinks（移动端即将推出）！\n\n试试安装 X 插件：grokbot：//app/v1/plugin/add？id=49086599\n\n当然还有 pstack：grokbot：//app/v1/plugin/add？id=9717366",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年8月26日2时26分"
+  },
+  {
     "id": "cmt8z9kof05c3rolyar0ryi4g",
     "title": "OpenAI Jalapeño 芯片实测性能亮眼",
     "url": "https://x.com/thsottiaux/status/2092311315545239771",
     "summary": "OpenAI 首款自研推理芯片 Jalapeño 已在实验室完成实测，从概念到真实负载表现优异。该芯片在更高吞吐和更低延迟上实现\"每瓦特更多智能\"，并与 Cerebras 深度合作推动 /ultrafast 高速推理，满足大量客户需求。",
     "source": "X：Tibo (@thsottiaux)",
     "date": "2026年8月26日2时1分"
+  },
+  {
+    "id": "cmt90pvup06ehrolycvnwg2gx",
+    "title": "SpaceX 两大超级项目投资超千亿美元",
+    "url": "https://x.com/cb_doge/status/2092315642141769877",
+    "summary": "SpaceX 三周内宣布两大超级项目，合计投资至少 1168 亿美元：得州 Terafab 全球最大芯片制造厂，路易斯安那州 Starbase 全球最大航天港。预计创造超 1.4 万个直接和间接岗位，其一生产用于地球和太空的 AI 芯片，另一支持每年数千次 Starship 发射。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月26日2时18分"
+  },
+  {
+    "id": "cmt90wf1p06j9roly5e34fmu3",
+    "title": "OpenWorker 新版发布，内置网络安全智能体",
+    "url": "https://x.com/AndrewYNg/status/2092315079576555806",
+    "summary": "Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。",
+    "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+    "date": "2026年8月26日2时16分"
   },
   {
     "id": "cmt8znake05k5rolyqz2mtz5y",
@@ -13896,6 +13992,30 @@
     "date": "2026年8月26日2时14分"
   },
   {
+    "id": "cmt902in805qerolynr6t2ca3",
+    "title": "OpenAI 自研推理芯片 Jalapeño 据称在推理基准测试中超越 Nvidia Blackwell 和 Rubin",
+    "url": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks",
+    "summary": "OpenAI 在 Hot Chips 大会上首次展示自研推理芯片 Jalapeño 的基准测试结果，该芯片在每瓦吞吐量和 token 延迟上据称超越 Nvidia Blackwell 和 Rubin。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月26日2时0分"
+  },
+  {
+    "id": "cmt90druk064qrolyzvju19rq",
+    "title": "Deep Agents CLI 如何使用技能构建 token 高效的 AI 智能体",
+    "url": "https://www.langchain.com/blog/using-skills-with-deep-agents",
+    "summary": "Deep Agents CLI 支持动态发现、加载和执行技能（skills），帮助开发者构建 token 高效的 AI 智能体。该工具通过按需调用技能，减少不必要的 token 消耗，提升智能体运行效率。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日2时0分"
+  },
+  {
+    "id": "cmt90kwuu06btroly6vyq3pss",
+    "title": "WebDev-Skills-Bench 评测：Agent 技能是否真的有用",
+    "url": "https://x.com/dair_ai/status/2092311114688393433",
+    "summary": "WebDev-Skills-Bench 在 50 个 Web-Bench 项目和 1000 个有序任务上测试 31 个公开 WebDev 技能，发现注入目标技能使平均 Pass@2 下降 1.3% 至 4.2%，token 成本增加 72% 至 394%。对照实验将损害归因于长度干扰和内容误导两类失败模式，且技能排名在模型间迁移性弱。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月26日2时0分"
+  },
+  {
     "id": "cmt8xi7a802ubrolyrbm6mrc5",
     "title": "Anthropic IPO 或寻求 2 万亿美元估值",
     "url": "https://x.com/kimmonismus/status/2092297861350244456",
@@ -13910,6 +14030,14 @@
     "summary": "更多演讲者将加入 Runway AI 峰会。今年九月在旧金山，来自机器人、自动驾驶、营销和基础设施领域的行业领袖将齐聚一堂，用一天时间探讨 AI 如何重塑智能与世界的交汇方式。\n\n点击下方链接了解更多并注册。",
     "source": "X：Runway (@runwayml)",
     "date": "2026年8月26日1时57分"
+  },
+  {
+    "id": "cmt90oi3p06dlrolytpe24ccf",
+    "title": "开发者冲击PR世界纪录仅剩6天",
+    "url": "https://x.com/poteto/status/2092310250464714828",
+    "summary": "刚刚拿下了历史第4名的位置。距离打破2000个PR的世界纪录还有6天。",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年8月26日1时56分"
   },
   {
     "id": "cmt8z9ko105bzrolyafavzeop",
