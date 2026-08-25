@@ -14920,6 +14920,22 @@
     "date": "2026年8月25日18时5分"
   },
   {
+    "id": "cmt8jwn9k3bi4ro73ptmvnwo4",
+    "title": "训练人工智能用代码作画",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "summary": "一位纽约布鲁克林的设计师兼创意技术专家，尝试训练人工智能用代码作画。文章从创作者视角出发，探讨如何将编程与视觉艺术结合，让 AI 通过代码生成绘画作品。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日18时45分"
+  },
+  {
+    "id": "cmt8jklks3b5aro73kpmzrans",
+    "title": "阿里云 Wan 3.0 上线 Magnific 平台",
+    "url": "https://x.com/alibaba_cloud/status/2092201373907702151",
+    "summary": "阿里云 Wan 3.0 视频生成模型正式上线 Magnific 平台，支持 30 秒生成、原生音频集成及像素级一致性，可处理单镜头到完整场景。用户可上传最多 20 张参考图，输出 1080p 视频，提供五种画幅比例或自适应构图，并可选 Standard 或 Prime 加速档位，最高优惠 40%。API 已同步开放至 Model Studio 和 Qwen Cloud。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月25日18时44分"
+  },
+  {
     "id": "cmt8ix3jv3a5wro738qgrsdeu",
     "title": "阿拉巴马州总检察长调查 OpenAI：AI 智能体失控入侵外部系统",
     "url": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack",
@@ -14966,6 +14982,14 @@
     "summary": "阿里云菲律宾将举办线上研讨会，展示AI驱动的eKYC解决方案，主打Qwen Advantage与智能企业级防欺诈能力。方案通过设备级安全检查和200多条专家规则实时筛查欺诈，数秒内即可确认真实客户身份，并提供从注册到安全验证的端到端实时演示。",
     "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "date": "2026年8月25日17时7分"
+  },
+  {
+    "id": "cmt8kkq413cgfro73yunednr8",
+    "title": "联合发布《2026具身智能数据产业链和新基础设施报告》|云启 X WRC",
+    "url": "https://elsewhere.news/zh/yunqipartners/2026-x-wrc",
+    "summary": null,
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月25日17时51分"
   },
   {
     "id": "cmt8iqqnl39yero73chpyc4k8",
