@@ -13848,6 +13848,102 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt96t9tn0auirolyfsd18wzo",
+    "title": "LangChain 检索功能：用灵活检索方法构建个性化 AI 应用",
+    "url": "https://www.langchain.com/blog/retrieval",
+    "summary": "LangChain 提供灵活的检索方法，支持从语义检索到混合检索等多种 retriever 选择，帮助开发者构建更优质的 AI 应用。用户可利用这些检索器为自有数据打造个性化的 ChatGPT 式应用。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日5时8分"
+  },
+  {
+    "id": "cmt96t9tn0aujrolyneux0i67",
+    "title": "LangSmith 评测新增 Pytest 与 Vitest 集成",
+    "url": "https://www.langchain.com/blog/pytest-and-vitest-for-langsmith-evals",
+    "summary": "LangSmith 推出新的评测运行方式，支持通过 Pytest 和 Vitest/Jest 集成执行评估。该集成将评测直接嵌入现有测试工作流，便于开发者在熟悉的测试框架中运行 LangSmith 评测。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日5时7分"
+  },
+  {
+    "id": "cmt96t9tn0aukroly24efogy4",
+    "title": "Cube x LangChain：用 LLM 与语义层构建 AI 数据体验",
+    "url": "https://www.langchain.com/blog/cube-x-langchain-building-ai-experiences-with-llms-and-the-semantic-layer",
+    "summary": "Cube 与 LangChain 联手，借助 Cube 的语义层为大语言模型提供结构化数据上下文，以降低模型幻觉风险。该方案支持用户以自然语言查询数据，并用于构建对话式交互界面，从而打造由 AI 驱动的数据体验。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日5时5分"
+  },
+  {
+    "id": "cmt96rmt20asbrolysra2xxzj",
+    "title": "OpenRouter 上线 Makora 推理服务商",
+    "url": "https://x.com/OpenRouter/status/2092365709582193019",
+    "summary": "新的推理服务商：@makora_ai 现已上线 OpenRouter。\n\n首批提供：• DeepSeek V4 Flash • GLM 5.2 FP8 • GLM 5.2 NVFP4 • Kimi K3\n\n通过 Makora 路由：https://openrouter.ai/provider/makora",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月26日5时37分"
+  },
+  {
+    "id": "cmt96t9tn0aulroly7vhzxs9m",
+    "title": "LangSmith 推出基于角色的访问控制（RBAC）",
+    "url": "https://www.langchain.com/blog/access-control-updates-for-langsmith",
+    "summary": "LangSmith 新增基于角色的访问控制（RBAC），帮助企业通过自定义角色和 API 密钥管理资源访问权限。该功能面向企业用户，支持更细粒度的权限管控，以保障多团队协作下的数据安全与操作合规。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日5时2分"
+  },
+  {
+    "id": "cmt975clh0b4srolyk70gajm3",
+    "title": "Tutti VM多智能体协作体验分享",
+    "url": "https://x.com/kimmonismus/status/2092361212503949546",
+    "summary": "1/ 好吧，这件事我憋了几天了，我觉得得聊聊：\n\n这是我见过的用于多用户、多智能体协作的最酷的产品之一。\n\n今天我和朋友在 Tutti · VM http://www.tutti.sh 上搭建了一整个落地页，全程没离开过聊天窗口去找图片、复制文件，或者向别人解释我在做什么。\n\n视频在下面，但让我拆解一下实际发生了什么：",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日5时19分"
+  },
+  {
+    "id": "cmt96t9tm0aucroly7tsytvkz",
+    "title": "使用 LangSmith 支持 LLM 微调：数据集管理与评估指南",
+    "url": "https://www.langchain.com/blog/using-langsmith-to-support-fine-tuning-of-open-source-llms",
+    "summary": "LangSmith 提供了一套完整的 LLM 微调与评估工作流，涵盖数据集管理、微调流程及效果验证。指南以 LLaMA2 和 GPT-3.5 为例，演示了从数据准备到微调评估的完整实践路径，帮助开发者系统化地利用 LangSmith 优化模型性能。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日5时17分"
+  },
+  {
+    "id": "cmt96t9tm0audrolyiu4rtbez",
+    "title": "LangChain 评测 CSV 数据问答系统：智能体、检索与 LLM 评估",
+    "url": "https://www.langchain.com/blog/benchmarking-question-answering-over-csv-data",
+    "summary": "LangChain 发布针对 CSV 数据问答系统的基准评测，涵盖智能体、检索与 LLM 评估方法。文章提供基准测试结果、调试洞察及开源代码，帮助开发者构建更优的 CSV 数据问答系统。评测聚焦于实际应用中的性能表现与常见问题。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日5时16分"
+  },
+  {
+    "id": "cmt96t9tm0auerolygebuz9dl",
+    "title": "Timescale Vector 与 LangChain 集成：让 PostgreSQL 成为更优的 AI 向量数据库",
+    "url": "https://www.langchain.com/blog/timescale-vector-x-langchain-making-postgresql-a-better-vector-database-for-ai-applications",
+    "summary": "Timescale Vector 现已集成 LangChain，为 AI 应用提供基于 PostgreSQL 的向量数据库方案。该集成实现 243% 更快的相似性搜索，并支持基于时间的 RAG 检索，同时保留 PostgreSQL 的简洁性。用户可免费试用 90 天。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日5时15分"
+  },
+  {
+    "id": "cmt96t9tm0aufroly1f7pydps",
+    "title": "LangChain 获 Benchmark 领投 1000 万美元种子轮融资",
+    "url": "https://www.langchain.com/blog/announcing-our-10m-seed-round-led-by-benchmark",
+    "summary": "LangChain 宣布完成由 Benchmark 领投的 1000 万美元种子轮融资。这笔资金将用于支持开发者使用其开源框架构建数据感知的智能体大语言模型应用。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日5时13分"
+  },
+  {
+    "id": "cmt96t9tm0augrolyx2c3vi84",
+    "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
+    "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
+    "summary": "LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日5时12分"
+  },
+  {
+    "id": "cmt96t9tm0auhrolyoupzcaz3",
+    "title": "LangServe 推出 Playground 与可配置参数",
+    "url": "https://www.langchain.com/blog/langserve-playground-and-configurability",
+    "summary": "LangServe 新增 Playground 界面与可配置参数，支持部署 LangChain 应用时试验不同模型、与团队共享，并实现实时流式输出。该功能旨在简化应用部署与调试流程，提升团队协作效率。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日5时11分"
+  },
+  {
     "id": "cmt93murb08lwroly1kznlf9q",
     "title": "AgentHands：为XR空间对话智能体生成交互式手部手势",
     "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr",
@@ -13872,12 +13968,28 @@
     "date": "2026年8月26日4时7分"
   },
   {
+    "id": "cmt96i1ex0ah2rolyn0d6a5s1",
+    "title": "世界人形机器人运动会：跑步破纪录与起火摔倒同台上演",
+    "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames",
+    "summary": "第二届世界人形机器人运动会于8月22日至26日在北京举行，参赛机器人在百米赛跑中击败博尔特的人类纪录，但也有机器人因无法及时停下而撞上障碍物摔倒，部分甚至腰部断裂、火花四溅或起火。赛事还测试了洗衣晾衣等实用场景，机器人速度落后于人类，显示主办方意在展示人形机器人的商业潜力。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月26日4时59分"
+  },
+  {
     "id": "cmt95p2oq0a2wrolyx9l4ed8u",
     "title": "Claude 记忆功能升级：跨聊天与Cowork统一",
     "url": "https://x.com/bcherny/status/2092355642363453943",
     "summary": "一个小改进：记忆功能现在更简单、更强大。尽情享受吧！",
     "source": "X：Boris Cherny (@bcherny)",
     "date": "2026年8月26日4时57分"
+  },
+  {
+    "id": "cmt962smf0aaorolyjv6jvnhr",
+    "title": "TeraFab 得州二期三期协议落地，投资近 480 亿美元",
+    "url": "https://x.com/cb_doge/status/2092354136469811249",
+    "summary": "TeraFab 与得州签署二期、三期协议，合计投资约 476.77 亿美元，此前 168 亿美元仅对应一期。项目为 SpaceX 主导的垂直整合半导体设施，参与方含 Tesla、SpaceX 和 xAI，四期总规划约 1190 亿美元。两期预计共创造 1234 个直接岗位，建设期分别定于 2029-2031 和 2032-2034 年。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月26日4时51分"
   },
   {
     "id": "cmt95p2p30a2yrolyrtovx2yq",
