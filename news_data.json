@@ -13856,12 +13856,84 @@
     "date": "2026年8月26日4时9分"
   },
   {
+    "id": "cmt94co9m08xfrolytuq5uhwy",
+    "title": "ChatGPT 浏览器扩展新增支持 Edge、Brave 等浏览器",
+    "url": "https://x.com/OpenAIDevs/status/2092343177634017655",
+    "summary": "OpenAI 宣布 ChatGPT 浏览器扩展现已支持 Microsoft Edge、Brave、Opera 和 Vivaldi 浏览器。用户可将浏览器标签页上下文带入 ChatGPT 桌面端任务，让 Codex 基于当前页面内容工作，并可通过侧边聊天使用完整 ChatGPT 功能。Opera 的侧边聊天功能即将推出。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月26日4时7分"
+  },
+  {
+    "id": "cmt94mhcc098urolybz2lfqne",
+    "title": "OpenRouter 新 Logo 多版本下载指南",
+    "url": "https://x.com/OpenRouter/status/2092347837770047872",
+    "summary": "轻松下载我们新 Logo 的各种版本：https://openrouter.ai/brand\n\n提供浅色模式、深色模式和灰度版本。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月26日4时26分"
+  },
+  {
+    "id": "cmt93xn7808rwrolyoovkjsqe",
+    "title": "Anthropic 拟以 30 万亿美元市场机遇推介 IPO",
+    "url": "https://x.com/rohanpaul_ai/status/2092345726911357152",
+    "summary": "WSJ：Anthropic 预计将向 IPO 投资者推介一个 30 万亿美元以上的市场机遇，该市场建立在 AI 可覆盖的人类工作之上。\n\n他们是从 AI 模型可能执行的全部工作范围来估算这一市场的，他们认为这一范围远超当前在 AI 软件上的支出。\n\n作为对比，SpaceX 在其 IPO 文件中将总可寻址市场定为 28.5 万亿美元，其中 26.5 万亿美元与 AI 相关。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日4时17分"
+  },
+  {
+    "id": "cmt94mhcj098wroly8dv7tc9f",
+    "title": "ChatGPT 推出 Business Premium Seats 企业版",
+    "url": "https://x.com/thsottiaux/status/2092345330272780499",
+    "summary": "OpenAI 推出 ChatGPT Business Premium Seats，面向团队和小公司的 $100/席位套餐，功能对标 Pro $100 计划。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月26日4时16分"
+  },
+  {
+    "id": "cmt94co9l08xerolytxnuy3n0",
+    "title": "OpenAI 联合多家平台推出 WebMCP 黑客松",
+    "url": "https://x.com/OpenAIDevs/status/2092344873764704345",
+    "summary": "WebMCP 挑战赛来了。\n\n我们与 @ChromiumDev、@CloudflareDev、@ShopifyDevs、@vercel、@render 和 @Netlify 合作，举办一场为期 10 天的黑客松。\n\n奖品包括：35，000 美元现金奖励、Codex Micros、ChatGPT Pro 订阅，以及来自我们支持者的更多奖品。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月26日4时14分"
+  },
+  {
+    "id": "cmt94o3uo09ayroly7ys2r24q",
+    "title": "（untitled）",
+    "url": "https://www.langchain.com/blog/building-a-company-due-diligence-agent-with-deep-agents-langsmith-and-parallel",
+    "summary": null,
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日4时0分"
+  },
+  {
+    "id": "cmt93xn7008ruroly79exk4q1",
+    "title": "新高端职业：编写技能而非制作幻灯片",
+    "url": "https://x.com/gabriel1/status/2092340816220225776",
+    "summary": "新的高端职业将类似于麦肯锡，但你的工作是编写能改进工作流程的技能，而不是制作幻灯片来改进它们。\n\n企业中的每个环节都将变成赢家游戏，而不是\"求求你别搞砸\"的游戏。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月26日3时58分"
+  },
+  {
     "id": "cmt939qh408bbrolysrfsmkzy",
     "title": "Grok 4.6 上线 OpenCode Go 限时免费",
     "url": "https://x.com/opencode/status/2092340692487950751",
     "summary": "Grok 4.6 现已可在 OpenCode Go 上使用\n\n每 5 小时可获得一百次 69 请求",
     "source": "X：opencode (@opencode)",
     "date": "2026年8月26日3时57分"
+  },
+  {
+    "id": "cmt94o3uo09azrolycrfgqw6l",
+    "title": "LangChain 如何用 retriever 自动化网络研究",
+    "url": "https://www.langchain.com/blog/automating-web-research",
+    "summary": "LangChain 推出自动化网络研究方案，通过 retriever 并行执行搜索、抓取页面，并借助 LLM 综合信息。该方案支持本地或云端运行，简化了从多源收集与整合信息的流程。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日3时56分"
+  },
+  {
+    "id": "cmt94o3uo09b0roly2z0xe3ya",
+    "title": "Plan-and-Execute 智能体：将规划与执行分离以构建可靠 AI 智能体",
+    "url": "https://www.langchain.com/blog/plan-and-execute-agents",
+    "summary": "Plan-and-Execute 框架将任务规划与执行步骤分离，用于构建可靠的 AI 智能体。该框架通过独立规划阶段处理复杂任务，可减少执行过程中的错误，提升整体可靠性。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月26日3时55分"
   },
   {
     "id": "cmt93jvi408kdrolygti5nmjf",
