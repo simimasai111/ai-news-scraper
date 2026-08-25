@@ -14792,6 +14792,198 @@
     "date": "2026年8月25日2时12分"
   },
   {
+    "id": "cmt8tgm4m3ovpro73evdmo2hr",
+    "title": "OpenAI 奥尔特曼承认高估 AI 普及速度：最大阻力是改变用户习惯",
+    "url": "https://www.ithome.com/0/994/256.htm",
+    "summary": "OpenAI CEO 奥尔特曼在播客节目中承认，自己和其他 AI 支持者可能高估了 AI 普及的速度，要达到谷歌搜索或 iPhone 那样的普及程度还需更长时间。他认为最大阻力来自人的习惯，用户很难迅速改用 Codex 这样的 AI 原生平台，经济本身的惯性也让人们继续沿用原有工具和方式。奥尔特曼还承认，科技业至今未能让公众真正接受超级智能与 AI 智能体普及的设想。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日23时9分"
+  },
+  {
+    "id": "cmt8umk1n3qgiro73d1q9tzum",
+    "title": "法国税务部门遭黑客攻击",
+    "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la",
+    "summary": "法国公共财政总局确认遭入侵，67.8万条个人及企业数据泄露，包括姓名、家庭商数、参考税收入及预扣税率。攻击者访问已于6月底被切断但未检测到数据外泄，直至8月12日数据被出售才被发现。同一黑客还声称入侵地籍数据服务器，涉及超200万人，巴黎检察院已立案调查。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日23时49分"
+  },
+  {
+    "id": "cmt8uatqy3q5ero735p2690rv",
+    "title": "Perplexity 推本地智能体栈 Portable Computer",
+    "url": "https://x.com/omarsar0/status/2092277350993895906",
+    "summary": "Perplexity 推出本地优先智能体栈 Portable Computer，运行于 NVIDIA DGX Spark，提供一键本地推理设置与优化的智能体体验。Elvis Saravia 看好本地智能体前景，认为始终在线、本地运行的个性化 AI 智能体存在巨大市场。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月25日23时46分"
+  },
+  {
+    "id": "cmt8up4hw3ql2ro7387mu4qs2",
+    "title": "Cursor 永久上调 Grok 模型用量",
+    "url": "https://x.com/leerob/status/2092276970226671789",
+    "summary": "我们刚刚提高了 Cursor 中 Grok 模型的包含用量！\n\n随着 Grok 4.6 的发布，需求一直在增长。上个月我们已经通过增加算力将限额翻倍。现在我们再次永久提高限额。\n\n尽情使用吧！",
+    "source": "X：Lee Robinson (@leerob)",
+    "date": "2026年8月25日23时44分"
+  },
+  {
+    "id": "cmt8t7uan3onhro73x8dzvdef",
+    "title": "苹果发布M6与M5 Ultra芯片Mac Studio及Mac mini",
+    "url": "https://x.com/testingcatalog/status/2092266563353121226",
+    "summary": "苹果发布搭载M6和M5 Ultra芯片的新款Mac Studio及Mac mini。M6为苹果首款2nm芯片，配备12核CPU、12核GPU及双16核神经引擎；M5 Ultra采用首款四芯片封装架构，最高36核CPU、80核GPU，统一内存带宽达1.2TB/s。Mac mini（M6）在LM Studio中LLM提示词处理速度较M1快13.5倍，较M4快4.8倍。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月25日23时3分"
+  },
+  {
+    "id": "cmt8ugyjm3qc7ro73j2w4228v",
+    "title": "Qwen3.8-Flash-Next 发布引期待",
+    "url": "https://x.com/ClementDelangue/status/2092275117539655835",
+    "summary": "谁已经等不及了？https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月25日23时37分"
+  },
+  {
+    "id": "cmt8ugyj63qc3ro73evlkk6w1",
+    "title": "Cohere CEO 参加德国联邦内阁会议谈 AI",
+    "url": "https://x.com/aidangomez/status/2092275073344213495",
+    "summary": "很荣幸本周参加德国联邦内阁闭门会议，讨论德国的重点领域，包括如何赋能产业并确保 AI 竞争力。衷心感谢总理 @_FriedrichMerz 的邀请。",
+    "source": "X：Aidan Gomez（Cohere CEO，@aidangomez）",
+    "date": "2026年8月25日23时37分"
+  },
+  {
+    "id": "cmt8uats13q5oro73cins3yu4",
+    "title": "AI检测器是知识垄断的守门工具",
+    "url": "https://x.com/rohanpaul_ai/status/2092274760151609783",
+    "summary": "Rohan Paul 引用 Brian Roemmele 观点：AI 检测器被卖给大学体系，以保护其对知识生产的垄断。AI 让任何人都能生成合格文本，该系统便用\"AI 垃圾\"标签污名化非官方渠道产出，打压独立研究者和学生。Pantagram 等公司靠出售此服务并炫耀精英履历牟利。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日23时35分"
+  },
+  {
+    "id": "cmt8uatqz3q5fro73t754hnj8",
+    "title": "阿里智能体记忆新法：上下文当编程任务",
+    "url": "https://x.com/omarsar0/status/2092274559898755485",
+    "summary": "阿里提出将智能体上下文管理视为编程任务的新方法：以追加式事件日志和沙盒持久 Python 内核为基座，工具输出与检索历史绑定为类型化变量，由模型编写代码检索和转换状态。配合逐出索引实现精确回溯，Qwen3.8-Max 在 LongMemEval_S 达 94.8%，BEAM_10M 达 73.1%（超最佳系统 5.1 分），LOCA_256K 达 86.7%。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月25日23时35分"
+  },
+  {
+    "id": "cmt8twnvs3pm0ro738yom80ht",
+    "title": "OpenAI 首款推理芯片 Jalapeño 性能数据公布",
+    "url": "https://x.com/gdb/status/2092273740239552780",
+    "summary": "OpenAI 公布首款自研推理芯片 Jalapeño 的实测性能：在基于 GPT-OSS 120B 的公开基准 InferenceX 上，其每千瓦峰值吞吐量更高、token 延迟更低，并在 DeepSeek R1 和 Kimi K2 上表现强劲。AI 参与设计使其从初始设计到流片仅用九个月，计划年底前部署，Gen 2 和 Gen 3 已在开发中。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月25日23时31分"
+  },
+  {
+    "id": "cmt8tyfst3prvro73wvh3bmt3",
+    "title": "如何窃取 AI 模型的私有推理过程",
+    "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private",
+    "summary": "MATS Research、ELLIS Institute Tübingen 与马克斯·普朗克智能系统研究所的团队在 2026 年 8 月测试了 Anthropic、OpenAI 和 Google 提供给客户的加密推理块是否真正保护推理隐私。研究发现这些加密机制存在漏洞，攻击者可能通过特定手段窃取模型的私有推理内容。该研究揭示了当前加密推理方案在隐私保护上的不足。",
+    "source": "ByteByteGo（RSS）",
+    "date": "2026年8月25日23时31分"
+  },
+  {
+    "id": "cmt8uatrr3q5mro73334zllbi",
+    "title": "TrueForge 上线一周即爆火引热议",
+    "url": "https://x.com/kimmonismus/status/2092273314966413500",
+    "summary": "1/ TrueForge 上线不到一周。\n\n它已获得近 4K GitHub 星标、250+ fork、333+ 在线提及，并在 X 上以 2.8K 帖子登上趋势榜。\n\n对于一个 AI 智能体框架来说，这关注度相当高。\n\n但更有趣的是它为何能引起共鸣：",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日23时30分"
+  },
+  {
+    "id": "cmt8tyahe3pporo73v4kesdmm",
+    "title": "OpenWiki 如何构建自纠错记忆：用证据支撑的声明检测过时知识",
+    "url": "https://www.langchain.com/blog/self-correcting-memory-openwiki",
+    "summary": "OpenWiki 利用证据支撑的声明来检测过时知识、减少模型幻觉，并为不断演进的代码库构建自纠错记忆。该方法通过将知识声明与可验证证据关联，使系统能自动识别并修正已失效的信息，从而提升长期记忆的准确性与可靠性。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月25日23时28分"
+  },
+  {
+    "id": "cmt8u92gi3q36ro73waxbrzvi",
+    "title": "Hugging Face 与 Sage 联合举办罕见病黑客松",
+    "url": "https://x.com/Thom_Wolf/status/2092272678430253086",
+    "summary": null,
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月25日23时27分"
+  },
+  {
+    "id": "cmt8tjy2c3ozyro73d1xc4yre",
+    "title": "Headlong：面向持久化代理的微型绑定框架",
+    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "summary": "Headlong 是一个开源的代理微框架，核心代码不到 10K 行 Bash，让代理在外部交互之间通过自我引导循环持续思考，而非仅在收到任务时响应。每个代理拥有单一思维流，团队共享时能主动发起对话、自行设定项目并跨成员连接信息。目前为 alpha 研究软件，需在沙箱中运行并使用限额 API 密钥。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日23时1分"
+  },
+  {
+    "id": "cmt8u5if83pzsro73xd7mphdt",
+    "title": "Apodex 1.1 多 Agent 跑测：暴富案例为 0",
+    "url": "https://x.com/AYi_AInotes/status/2092270210258477394",
+    "summary": "Apodex 1.1 用 8 个并行 Agent 实测 AI 副业赚钱项目，在公开采样范围内满足 A 级证据标准的个人收入成功案例为 0，直接戳破暴富营销滤镜。该版本已开源整套多 Agent 架构（35B 权重 + 单机 harness），支持本地单机部署，并配备实时任务看板与独立审查机制。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月25日23时17分"
+  },
+  {
+    "id": "cmt8t7uam3ongro73drneacy5",
+    "title": "Perplexity 便携电脑登陆 DGX Spark",
+    "url": "https://x.com/testingcatalog/status/2092270172006486171",
+    "summary": "PERPLEXITY 🔥：Perplexity Pro 和 Max 订阅用户现可在 NVIDIA DGX Spark 上使用全新的 Portable Computer，完全由本地模型驱动！\n\n可用模型：> PPLX 27B 是 Perplexity 新推出的后训练模型。> Qwen 3.8 27B > Nemotron 3.5 Lightning（即将推出）\n\n他们真的做到了！🤖",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月25日23时17分"
+  },
+  {
+    "id": "cmt8tjy2c3ozxro73coocj3uj",
+    "title": "苹果新款 Mac mini 发布：搭载 M6 与 M5 Pro 芯片",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro",
+    "summary": "苹果发布搭载 M6 与 M5 Pro 芯片的新款 Mac mini，M6 版 AI 性能较 M4 提升最高 4 倍，CPU 快 40%，存储与图形性能翻倍。M5 Pro 版支持最高 64GB 统一内存与 307GB/s 带宽，LLM 提示词处理较 M2 Pro 快最高 8.5 倍。两款均支持 Wi-Fi 7、蓝牙 6 与 2.5Gb 以太网，今日起接受预购，9 月 22 日开售。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日23时17分"
+  },
+  {
+    "id": "cmt8t7ua53onaro73fmox76ee",
+    "title": "Shopify 或封禁 Claude Code 直至支持 AGENTS.md",
+    "url": "https://x.com/omarsar0/status/2092270101097500954",
+    "summary": "Shopify 的 Tobi 表示正考虑封禁 Claude Code，直到 Anthropic 改变立场并支持读取 AGENTS.md 和 .agents/skills 等文件。他认为仅读取 CLAUDE.md 会导致团队成员使用不同工具时出现\"脑裂\"问题，这种坚持毫无必要。DAIR.AI 的 Elvis Saravia 对此表示认同，称该问题已多次出现且 Anthropic 一直未处理。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月25日23时17分"
+  },
+  {
+    "id": "cmt8ugyjg3qc5ro738gghe1b4",
+    "title": "Perplexity 推出 Portable Computer 本地智能体运行时",
+    "url": "https://x.com/AravSrinivas/status/2092270041471598820",
+    "summary": "Perplexity 今日在 NVIDIA DGX Spark 上推出 Portable Computer，这是 Perplexity Computer 的完全本地版本，编排 LLM、子智能体 LLM 与智能体 harness 全部在本地硬件运行，无云端依赖。该产品面向算力与电力受限环境，将大量智能体推理迁移至本地设备。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月25日23时17分"
+  },
+  {
+    "id": "cmt8tmkl73p2xro73blkn2pc3",
+    "title": "Apodex 1.1 发布，扩展智能体复杂工作能力",
+    "url": "https://x.com/_akhaliq/status/2092269176710631758",
+    "summary": "Apodex 1.1\n\n扩展面向复杂工作的智能体智能\n\n论文：https://huggingface.co/papers/2608.23283",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月25日23时13分"
+  },
+  {
+    "id": "cmt8tmvqo3p3sro73f7dvl0oh",
+    "title": "Perplexity 推出便携电脑支持 NVIDIA DGX Spark",
+    "url": "https://x.com/perplexity_ai/status/2092268362386780270",
+    "summary": "今天我们正式在 @NVIDIA DGX Spark 上推出 Portable Computer。\n\nPortable Computer 是 Perplexity Computer 的完全本地版本，整个运行时--编排 LLM、子智能体 LLM、智能体框架--全部在你的本地硬件上运行，不依赖云端。",
+    "source": "X：Perplexity (@perplexity_ai)",
+    "date": "2026年8月25日23时10分"
+  },
+  {
+    "id": "cmt8tmyl93p4aro73fneyjxg5",
+    "title": "AI 不会取代放射科医生，但将彻底改变他们的工作",
+    "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs",
+    "summary": "2016 年 Geoffrey Hinton 曾预测放射科医生五年内将被计算机取代，但该领域从业人数预计未来三十年仍将增长 26% 以上。截至 2026 年初，FDA 批准的 1400 款 AI 医疗设备中约四分之三用于放射科，部分工具能识别人眼不可见的异常或达到甚至超越训练有素放射科医生的水平。一项涵盖 43 项临床试验的分析显示，AI 辅助结肠镜检查比传统方式发现更多息肉。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月25日23时10分"
+  },
+  {
+    "id": "cmt8tjy3e3p01ro73417jgy1j",
+    "title": "Gamma 收购 Accel 投资的 AI 设计初创公司 Lica",
+    "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica",
+    "summary": "演示文稿初创公司 Gamma 收购了 Accel 支持的设计初创公司 Lica，以建立自己的设计研究实验室，Lica 联合创始人将负责领导该部门。Lica 成立于 2023 年，曾获 Accel、South Park Commons 等投资的 400 万美元，专注于为电商网站制作符合品牌准则的营销视频。Gamma 表示希望借助新部门探索多模态演示文稿等不同沟通形式，但未透露具体产品计划。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月25日23时0分"
+  },
+  {
     "id": "cmt8r2phx3lsjro737k6ivrj6",
     "title": "摩根大通看好 SpaceX 与 Grok 4.6 前景",
     "url": "https://x.com/cb_doge/status/2092252974370472111",
@@ -14800,12 +14992,52 @@
     "date": "2026年8月25日22时9分"
   },
   {
+    "id": "cmt8tyahe3pppro73d67rnrpy",
+    "title": "LangChain 如何构建智能体环境与任务",
+    "url": "https://www.langchain.com/blog/building-agent-environments-and-tasks",
+    "summary": "LangChain 通过三步流程构建合成智能体环境与任务：先生成规格说明，再将规格转化为具体任务，最后用世界规格（world spec）承载共享知识。该方法将环境与任务的创建系统化，为智能体训练与评测提供可复现的基础设施。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月25日22时56分"
+  },
+  {
+    "id": "cmt8t7ua53onbro73ypxl4ce7",
+    "title": "Headlong：开源持续思考型智能体微框架",
+    "url": "https://x.com/omarsar0/status/2092264782791389409",
+    "summary": "Headlong 是一个开源微框架，用于构建持续思考的主动型智能体，核心代码不足 10K 行 Bash。与反应式框架不同，Headlong 智能体永不休眠，通过自我引导循环持续生成想法，并自主决定何时回复。内部运行显示其后台思考成本约 $1-$2/小时，曾自主发现并修复一个 bug，全程 48 分钟无人工介入。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月25日22时56分"
+  },
+  {
+    "id": "cmt8tgm4m3ovrro73wbho79l0",
+    "title": "OpenAI 与博通共研的 Jalapeño 推理芯片亮相，称性能超越英伟达 GB300",
+    "url": "https://www.ithome.com/0/994/253.htm",
+    "summary": "OpenAI 在 Hot Chips 大会公布与博通共研的推理芯片 Jalapeño 首批基准测试成绩，在 SemiAnalysis InferenceX 测试中，其单用户 token 处理量和每千瓦吞吐量均超过现有顶尖推理处理器。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日22时53分"
+  },
+  {
+    "id": "cmt8tgm4m3ovsro73sbqki5kp",
+    "title": "阿里千问预告明晚开源基于下一代 Qwen4 架构的多模态 MoE 模型 Qwen3.8-Flash-Next",
+    "url": "https://www.ithome.com/0/994/252.htm",
+    "summary": "阿里千问将于北京时间 08 月 26 日 23：00 在魔搭社区开源 Qwen3.8-Flash-Next 及 Qwen3.8-Flash-Next-FP8 两个版本。该模型是基于下一代 Qwen4 架构构建的多模态 MoE 模型，官方提前发布架构改进，以便社区为完整 Qwen4 模型家族做好准备。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日22时51分"
+  },
+  {
     "id": "cmt8rbf903lz4ro73onbczdc2",
     "title": "腾讯相关人士回应\"IEG 重组 AI 游戏部门\"：报道大量失实，\"成立新部门\"系误读",
     "url": "https://www.ithome.com/0/994/229.htm",
     "summary": "针对\"腾讯互动娱乐事业群（IEG）重组 AI 游戏部门\"的报道，腾讯相关人士回应称内容存在大量失实，所谓\"成立新部门\"系误读。该人士表示，游戏技术公线本就设有游戏 AI 引擎部，长期对外招募 AI 专业人才，聚焦游戏研运管线的 AI 提效与玩法创新。",
     "source": "IT之家（RSS）",
     "date": "2026年8月25日22时4分"
+  },
+  {
+    "id": "cmt8t7uaf3onero7347r8asu6",
+    "title": "Gatik AI 完成 1 亿美元融资，无人驾驶货运商业化提速",
+    "url": "https://x.com/rohanpaul_ai/status/2092263019527229560",
+    "summary": "自动驾驶卡车公司 Gatik AI 完成 2 亿美元 D 轮融资，估值达 10 亿美元，投资方包括卡塔尔投资局（QIA）、ARK Invest 等。公司已累计完成超 10 万次完全无人驾驶订单，准时交付率达 99% 以上，签约收入达 6 亿美元，百事可乐（PepsiCo）等客户已在实际业务中依赖其无人驾驶货运服务。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日22时49分"
   },
   {
     "id": "cmt8s58su3nbnro734emkhur7",
