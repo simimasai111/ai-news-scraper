@@ -14904,6 +14904,62 @@
     "date": "2026年8月25日1时0分"
   },
   {
+    "id": "cmt8kn67a3ckhro7327h6rjit",
+    "title": "AtlasV 集成阿里云 Wan 2.7 生成 AI 时尚视频",
+    "url": "https://x.com/alibaba_cloud/status/2092207458131300792",
+    "summary": "静态图片到动态时尚视频--无需摄影棚。🎥 AtlasV 的 Collart 平台集成阿里云 Wan 2.7，将产品和模特照片转化为可扩展的高质量 AI 视频。制作更快，零传统拍摄限制。阅读案例研究：https://click.alibabacloud.com/m/20000002727/ 在阿里云 Model Studio 试用 Wan：https://click.alibabacloud.com/m/20000002735/ #Wan #Qwen #GenAI #AIVideo #LighthouseCustomerStories",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月25日19时8分"
+  },
+  {
+    "id": "cmt8lprzc3dvwro73dbh05aut",
+    "title": "真假难辨，AI动作流畅惊人",
+    "url": "https://x.com/rohanpaul_ai/status/2092216432314695937",
+    "summary": "真的分不清这是真实的还是AI生成的。\n\n动作感觉太流畅了。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日19时44分"
+  },
+  {
+    "id": "cmt8lprz23dvsro737exev0b8",
+    "title": "阿里开源 Qwen3.8-Flash-Next，预览 Qwen4 架构",
+    "url": "https://x.com/kimmonismus/status/2092215963085111547",
+    "summary": "阿里即将开源 Qwen3.8-Flash-Next，这是一款基于下一代架构的开放权重多模态 MoE 模型，该架构将支撑即将推出的 Qwen4 系列。开发者可提前体验 Qwen4 的架构改进。有评论称 Qwen-3.8 27B 表现出色，并对 Qwen-4 27B 充满期待。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日19时42分"
+  },
+  {
+    "id": "cmt8lprz23dvtro73cx3pzt56",
+    "title": "OpenAI DevDay 2026 前瞻：GPT Astra 与硬件新品",
+    "url": "https://x.com/kimmonismus/status/2092213560281567240",
+    "summary": "博主预测 OpenAI DevDay 将发布新一代旗舰模型 GPT Astra，并可能推出首批自研硬件产品。他还预计 OpenAI 将展示首批自主 AI 研究员模型，以及为 ChatGPT 推出更个性化的智能体，并深化智能体工作流集成。此前 OpenAI CEO 称 DevDay 2026 将是公司史上最佳。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日19时32分"
+  },
+  {
+    "id": "cmt8lks2b3dqrro73hn8h9wf0",
+    "title": "千问办公、豆包工作、我可八帝 还是腾讯的名字最有意思 除了上面三家 至少还有九十七家 百公大战正式开战 你最看好哪家",
+    "url": "https://x.com/lifesinger/status/2092205983108071638",
+    "summary": "千问办公、豆包工作、我可八帝 还是腾讯的名字最有意思\n\n除了上面三家 至少还有九十七家\n\n百公大战正式开战 你最看好哪家",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月25日19时2分"
+  },
+  {
+    "id": "cmt8kupcz3cpiro73bq5q1h57",
+    "title": "机器人卡住时如何用监督提示词解决",
+    "url": "https://x.com/ericzakariasson/status/2092205948505059435",
+    "summary": "如果你的机器人悄悄罢工了，试试这个：\n\n你是一名劳动力检查员。每 15 分钟，查看其他机器人是否有卡住的工作。对卡住的机器人提醒一次。当大家都在正常推进时保持沉默。只有在需要人工介入时才通知我。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月25日19时2分"
+  },
+  {
+    "id": "cmt8kvwb93cqkro732ys13j4u",
+    "title": "苹果 iOS 27 正式版发布在即，Siri AI 预计采用候补名单机制",
+    "url": "https://www.ithome.com/0/994/165.htm",
+    "summary": "苹果 iOS 27/iPadOS 27/macOS 27 正式版发布后，预计将为 Siri AI 采用候补名单机制并限制初期使用权限。三款系统的 Beta 7 测试版已加入等候名单相关机制，用户点击加入后可看到预计等候时间，系统会根据服务器需求动态调整轮候时间。Siri AI 在测试期间已采用该机制，曾有用户等了一周左右才排到队。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日19时17分"
+  },
+  {
     "id": "cmt8ii1jk39rhro732kf8jgzi",
     "title": "Qwen3.8-27B 跻身 WebDev 前十",
     "url": "https://x.com/kimmonismus/status/2092192007372329160",
@@ -14918,6 +14974,14 @@
     "summary": "国产AI芯片商燧原科技（Suiyuan/Enflame）启动科创板IPO，拟发行4300万股，占发行后总股本10%，8月28日初步询价、9月2日申购。公司计划募资约60亿元人民币（8.4亿美元），用于第五、六代AI芯片研发及商业化。燧原与摩尔线程、MetaX、壁仞并称\"GPU四小龙\"，目前仍处亏损状态。",
     "source": "X：X.PIN (@thexpin)",
     "date": "2026年8月25日18时5分"
+  },
+  {
+    "id": "cmt8kvwba3cqnro73l4yjumul",
+    "title": "消息称马云连日增持阿里港股超 6 亿港元，看好阿里 AI 前景",
+    "url": "https://www.ithome.com/0/994/159.htm",
+    "summary": "消息人士透露，阿里巴巴创始人马云连日增持阿里港股，总额已超 6 亿港元（约合 5.16 亿元人民币），表达对阿里 AI 前景的坚定看好。此前阿里宣布拟配售 800 亿港元新股，所得款项净额将 100% 用于投资全栈 AI 能力。集团主席蔡崇信、CEO 吴泳铭亦相继增持，其中蔡崇信两日累计增持约 1.6 亿港元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日18时52分"
   },
   {
     "id": "cmt8jwn9k3bi4ro73ptmvnwo4",
