@@ -13848,6 +13848,54 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt8z9ko905c1roly4nfhkryw",
+    "title": "Replit 免费模式：做更多，忧更少",
+    "url": "https://x.com/Replit/status/2092312646099861650",
+    "summary": "在免费模式下，你实际上可以做得更多，同时担忧得更少。就是这么简单。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月26日2时6分"
+  },
+  {
+    "id": "cmt8znak605k3rolylr1cd012",
+    "title": "Skild S1 机器人基础模型：视频即提示词",
+    "url": "https://x.com/rohanpaul_ai/status/2092312459382235407",
+    "summary": "Skild 发布机器人基础模型 S1，用视频演示替代语言指令来定义任务。只需提供 1 段人类视频，S1 即可直接执行长达 10 分钟的多步骤新任务，无需重新训练或微调。若规模化，基础模型训练的高昂数据成本可摊薄至数千个新任务，有望改变机器人学习的经济性。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日2时5分"
+  },
+  {
+    "id": "cmt8z2eko055crolytaitdxv8",
+    "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+    "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+    "summary": "Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月26日2时2分"
+  },
+  {
+    "id": "cmt8z9kof05c3rolyar0ryi4g",
+    "title": "OpenAI Jalapeño 芯片实测性能亮眼",
+    "url": "https://x.com/thsottiaux/status/2092311315545239771",
+    "summary": "OpenAI 首款自研推理芯片 Jalapeño 已在实验室完成实测，从概念到真实负载表现优异。该芯片在更高吞吐和更低延迟上实现\"每瓦特更多智能\"，并与 Cerebras 深度合作推动 /ultrafast 高速推理，满足大量客户需求。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月26日2时1分"
+  },
+  {
+    "id": "cmt8znake05k5rolyqz2mtz5y",
+    "title": "OpenAI Jalapeño芯片能效超越Vera Rubin",
+    "url": "https://x.com/SemiAnalysis_/status/2092314842396828077",
+    "summary": "OpenAI 在 Hot Chips 大会上发布的全新 Jalapeño 芯片，在每兆瓦输出吞吐量上超越了 Vera Rubin 七月份的结果。（1/7）🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月26日2时15分"
+  },
+  {
+    "id": "cmt8znajz05k1rolyp4nnbi4r",
+    "title": "GPT-Astra 用 Codex 优化 Jalapeño 芯片内核",
+    "url": "https://x.com/kimmonismus/status/2092314583981539731",
+    "summary": "OpenAI 博客透露，GPT-Astra 使用 Codex 编写并优化低层内核，让三款此前未规划的开放权重模型在两个月内于 Jalapeño 芯片上达到高性能。在选定的注意力与混合专家模块中，其实现比现有的人类专家代码快 1.5-1.8 倍。Jalapeño 在 OpenAI 自测中已超越 Nvidia GB200/GB300，计划 2026 年底部署。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日2时14分"
+  },
+  {
     "id": "cmt8xi7a802ubrolyrbm6mrc5",
     "title": "Anthropic IPO 或寻求 2 万亿美元估值",
     "url": "https://x.com/kimmonismus/status/2092297861350244456",
@@ -13856,12 +13904,60 @@
     "date": "2026年8月26日1时7分"
   },
   {
+    "id": "cmt8yzs3d041groly459p5hju",
+    "title": "Runway AI 峰会九月旧金山召开",
+    "url": "https://x.com/runwayml/status/2092310365279514644",
+    "summary": "更多演讲者将加入 Runway AI 峰会。今年九月在旧金山，来自机器人、自动驾驶、营销和基础设施领域的行业领袖将齐聚一堂，用一天时间探讨 AI 如何重塑智能与世界的交汇方式。\n\n点击下方链接了解更多并注册。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月26日1时57分"
+  },
+  {
+    "id": "cmt8z9ko105bzrolyafavzeop",
+    "title": "OpenRouter 模型变体新增优先服务层支持",
+    "url": "https://x.com/OpenRouter/status/2092309194297004454",
+    "summary": "TIP 💡 我们的 ：nitro 和 ：floor 模型变体接入服务层级，而不仅仅是排序\n\n示例：\"~openai/gpt-latest：nitro\" 将许多功能打包进一个模型标识中：\n\n1. ~latest 别名解析为最新的 gpt 模型 2. ：nitro 按实测吞吐量对端点排序 3. （新功能）：nitro 将优先服务层端点纳入池中，与默认端点一同比拼速度",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月26日1时52分"
+  },
+  {
+    "id": "cmt8ywvdm03w3rolypysjzjmi",
+    "title": "Anthropic 合并聊天与 Claude Cowork 记忆系统，Claude 跨场景自动记住信息",
+    "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
+    "summary": "Anthropic 宣布将聊天与 Claude Cowork 的记忆系统合并，Claude 在一个场景记住的信息会在另一场景自动可用，用户可查看、编辑或删除已保存记忆。更新后，Claude 会在对话过程中实时添加记忆主题，而非结束时总结。默认不存储健康、种族、政治等敏感信息，该功能默认在 Free、Pro 和 Max 套餐的网页、桌面及移动端启用。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日1时50分"
+  },
+  {
+    "id": "cmt8ywvqj03w5rolylwgx64xp",
+    "title": "斯坦福大学研究发现，AI 对入门级岗位的冲击最为严重",
+    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+    "summary": "斯坦福大学一项研究发现，AI 对入门级岗位的冲击最为严重。该研究基于相关数据得出这一结论，提示初级职位从业者面临更高的被替代风险。研究结果对职场新人及企业用人策略具有参考意义。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日1时41分"
+  },
+  {
     "id": "cmt8y6zzs03cgrolysb9of1kl",
     "title": "Claude Code 将支持 Agents.MD 与系统提示词修改",
     "url": "https://x.com/trq212/status/2092303682616627311",
     "summary": "Anthropic 正提升 Claude Code 的可扩展性，将支持用户轻松使用 Agents.MD 或修改系统提示词。团队认为不同模型族的系统提示词对性能影响显著，且 Claude Code 已为各模型配置不同提示词。短期内用户可在 Claude.MD 中通过 @Agents.MD 调用。",
     "source": "X：Thariq (@trq212)",
     "date": "2026年8月26日1时30分"
+  },
+  {
+    "id": "cmt8yzs2f041erolyz6x4faif",
+    "title": "Krea 上线 Wan 3.0，支持 20 参考图与 30 秒带音频生成",
+    "url": "https://x.com/krea_ai/status/2092303502651564260",
+    "summary": "Wan 3.0 现已登陆 Krea。\n\n支持 20 张参考图像，以及 30 秒带音频的生成，成本仅为同类质量模型的零头。\n\n立即体验 👇",
+    "source": "X：Krea AI (@krea_ai)",
+    "date": "2026年8月26日1时30分"
+  },
+  {
+    "id": "cmt8ywvqj03w6rolycbidrn43",
+    "title": "OpenAI 为 ChatGPT Plus 用户恢复 Codex 和 ChatGPT Work 的 5 小时使用限制",
+    "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
+    "summary": "OpenAI 宣布自明日起，为 ChatGPT Plus 订阅者恢复 Codex 和 ChatGPT Work 的 5 小时使用限制，此前数周仅保留每周用量上限。达到 5 小时或每周上限后，用户可等待重置或购买额外额度，OpenAI 也会不定期免费重置。Pro $100 和 Pro $200 订阅在未来数月内不受此 5 小时限制影响。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日1时26分"
   },
   {
     "id": "cmt8xxar1030irolyip3h1xfo",
@@ -13958,6 +14054,14 @@
     "summary": null,
     "source": "Claude：YouTube（RSS）",
     "date": "2026年8月26日0时44分"
+  },
+  {
+    "id": "cmt8yvntt03vhrolya1nqc5no",
+    "title": "Aletheia's Quest 回顾：构建 AI 谎言检测器的经验与教训",
+    "url": "https://blog.eleuther.ai/aletheia-retrospective",
+    "summary": "EleutherAI 在 Aletheia's Quest 项目中构建了黑盒与白盒两类 AI 欺骗检测器，并分享了过程中的关键经验。项目聚焦于识别模型输出中的不实信息，其方法覆盖了从外部行为观察到内部机制分析的不同路径。回顾总结了检测器在实际应用中的局限与未来改进方向。",
+    "source": "EleutherAI：Blog",
+    "date": "2026年8月26日0时35分"
   },
   {
     "id": "cmt8wfk980215roly4t3o4b6o",
