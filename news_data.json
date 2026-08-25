@@ -14904,12 +14904,36 @@
     "date": "2026年8月25日1时0分"
   },
   {
+    "id": "cmt86pmya2t5mro7312phjr8q",
+    "title": "冻结主干只训投影层：新模态不损原能力",
+    "url": "https://x.com/rohanpaul_ai/status/2092104681963360739",
+    "summary": "新研究提出\"Projector Is All You Train\"：为语言模型添加新模态只需训练连接编码器与主干的投影层，无需微调模型本身。3D 测试中，冻结主干的模型性能持平或超越联合微调，训练速度快一倍，而联合微调的 Llama 在 GSM8K 上从 86.96% 暴跌至 0.61%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日12时20分"
+  },
+  {
     "id": "cmt83qhp52pwgro73l3jmf506",
     "title": "LinkedIn\"看起来像是 AI 垃圾\"按钮收效显著，相关内容浏览量下降四成",
     "url": "https://www.ithome.com/0/993/873.htm",
     "summary": "LinkedIn 推出\"看起来像是 AI 垃圾\"反馈按钮后，被认定为 AI 劣质内容的帖子浏览量较几周前下降 40%。自 7 月 30 日上线以来，已有超 100 万人点击该按钮反馈可疑帖子和评论。获足够社区反馈的帖子将在\"帖子分析\"中突出显示，LinkedIn 同时建立了防止用户遭不公平集中举报的保护机制。",
     "source": "IT之家（RSS）",
     "date": "2026年8月25日11时8分"
+  },
+  {
+    "id": "cmt85kjfg2rtjro73u6sagpuo",
+    "title": "DeepSeek Harness 之后，重读最早定义开源的一群人",
+    "url": "https://elsewhere.news/zh/zhenfund/deepseek-harness",
+    "summary": null,
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月25日11时5分"
+  },
+  {
+    "id": "cmt85kjfg2rtiro73a1y97z9s",
+    "title": "寻找准备走向全球的 AI 创始人",
+    "url": "https://elsewhere.news/zh/zhenfund/seeking-ai-founders-ready-to-go-global",
+    "summary": null,
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月25日11时5分"
   },
   {
     "id": "cmt83qhp52pwhro732gccm6xb",
@@ -14925,6 +14949,14 @@
     "url": "https://x.com/karminski3/status/2092092396918178118",
     "summary": "Apodex 1.1 模型家族发布，主打异步 Agent Team 功能，可并行协调多智能体拆解复杂任务并持续整合结果。同步开源 FrontierAgent 本地研究工具台及 Apodex 1.1 mini 开放权重模型，后者支持本地运行复杂工作。",
     "source": "X：karminski (@karminski3)",
+    "date": "2026年8月25日11时31分"
+  },
+  {
+    "id": "cmt85vpa02s3fro737zx3fmu5",
+    "title": "Arm 成立 36 年来首颗自研芯片：AGI CPU 细节披露，1000 亿晶体管、支持 6TB 内存",
+    "url": "https://www.ithome.com/0/993/911.htm",
+    "summary": "Arm 在 Hot Chips 2026 大会披露其首颗自研量产芯片 AGI CPU 细节。该处理器基于第 3 代 Neoverse V3 核心，采用台积电 3nm 双芯粒设计，共 1000 亿晶体管，最大 TDP 300W。芯片支持 DDR5-8800 内存，单颗容量达 6TB，内存延迟低于 100ns，并提供 96 条 PCIe Gen6 通道。",
+    "source": "IT之家（RSS）",
     "date": "2026年8月25日11时31分"
   },
   {
