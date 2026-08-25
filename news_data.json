@@ -13848,12 +13848,44 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt93murb08lwroly1kznlf9q",
+    "title": "AgentHands：为XR空间对话智能体生成交互式手部手势",
+    "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr",
+    "summary": "Google在CHI 2026发布研究原型AgentHands，利用LLM为XR对话智能体生成与语音同步的富有表现力的手部手势，提供空间锚定的物理指引。该系统通过眼动追踪和场景重建注册物体，由LLM生成内联GestureEvents，并在头显上按词级时间戳协调TTS与动画引擎，实现手势与语音的精准同步。应用场景包括兰花养护交互式教学、3D打印机操作技术讲解和生活方式陪伴。",
+    "source": "Google Research：Blog（网页）",
+    "date": "2026年8月26日4时9分"
+  },
+  {
+    "id": "cmt939qh408bbrolysrfsmkzy",
+    "title": "Grok 4.6 上线 OpenCode Go 限时免费",
+    "url": "https://x.com/opencode/status/2092340692487950751",
+    "summary": "Grok 4.6 现已可在 OpenCode Go 上使用\n\n每 5 小时可获得一百次 69 请求",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月26日3时57分"
+  },
+  {
+    "id": "cmt93jvi408kdrolygti5nmjf",
+    "title": "我们造了一颗芯片，而且它很快",
+    "url": "https://x.com/sama/status/2092339694210040187",
+    "summary": "我们造了一颗芯片，而且它很快。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年8月26日3时53分"
+  },
+  {
     "id": "cmt92vlvm0820rolypj9qt03q",
     "title": "Benchmarks Don't Know Your Job",
     "url": "https://every.to/context-window/benchmarks-don-t-know-your-job",
     "summary": null,
     "source": "Every：最新文章（网页）",
     "date": "2026年8月26日3时48分"
+  },
+  {
+    "id": "cmt93a3f708corolyyj47zqr0",
+    "title": "ChatGPT 推出 100 美元 Business Premium 席位",
+    "url": "https://x.com/sherwinwu/status/2092336207241863461",
+    "summary": "OpenAI 推出 ChatGPT Business Premium Seats，每个席位月费 100 美元，面向小企业和初创公司。该计划提供更强大的工具、更快的工作流，以及以往大公司才能使用的功能，并可按团队需求灵活扩展。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年8月26日3时40分"
   },
   {
     "id": "cmt924nn607a2roly0vwsy5t7",
@@ -13870,6 +13902,14 @@
     "summary": "OpenAI 据报已完成代号\"Bel\"的下一代预训练模型，总参数超 10T，规模接近 GPT-4.5，预计成为 Astra 与 GPT-6 的基础。Anthropic 因算力受限，被认为今年内难以应对 Astra 的公开推出，但预计明年初可重回领先。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月26日3时3分"
+  },
+  {
+    "id": "cmt93a3en08cmrolyboi3iwnd",
+    "title": "ChatGPT 推出 Business Premium 席位",
+    "url": "https://x.com/OpenAI/status/2092335305366069305",
+    "summary": "推出 ChatGPT Business Premium 席位\n\n新的 100 美元 Premium 席位对小企业和初创公司来说是一个颠覆性的改变--让精简团队获得更好的工具、更快的流程，以及曾经只有大公司才能拥有的能力。\n\n一个灵活的方案，随你团队的雄心一同扩展。\n\nhttps://chatgpt.com/pricing/?type=team",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月26日3时36分"
   },
   {
     "id": "cmt92v24f080srolyt5lz3435",
