@@ -14792,12 +14792,132 @@
     "date": "2026年8月25日2时12分"
   },
   {
+    "id": "cmt8p68y03j3pro735p2p6f40",
+    "title": "广汽领程联合新石器开发的首款无人车 X6 下线，拥有 6 立方米装载空间",
+    "url": "https://www.ithome.com/0/994/201.htm",
+    "summary": "广汽领程与新石器联合开发的首款无人车 X6 在广州从化工厂正式下线。该车聚焦城市末端配送与支线物流场景，拥有 6 立方米装载空间，可满足电商、生鲜、商超、药品等多场景配送需求。双方合作的 12 立方米、20 立方米无人车后续也将陆续推出。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日21时9分"
+  },
+  {
+    "id": "cmt8ojsxf3ijgro73eu8amcgn",
+    "title": "VoxCPM2 推出 ComfyUI 插件，支持低显存推理与 LoRA 微调",
+    "url": "https://x.com/OpenBMB/status/2092235838486970544",
+    "summary": "开发者 @maxar2032 发布 ComfyUI_VoxCPM_SM 插件，让 VoxCPM2 在 ComfyUI 中实现低显存推理与 LoRA 微调。该插件支持 INT4/INT8 及 GGUF 量化格式，便于本地部署，并可通过节点化工作流用自定义语音数据微调。项目代码已开源在 GitHub，模型托管于 HuggingFace。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月25日21时1分"
+  },
+  {
+    "id": "cmt8oxi713ix5ro731z4dwlpu",
+    "title": "苹果推出 M6 与 M5 Ultra 芯片，本地 AI 性能大幅跃升",
+    "url": "https://x.com/kimmonismus/status/2092239477057949717",
+    "summary": "苹果推出 M6 与 M5 Ultra 芯片，主打本地 AI 性能跃升。M6 的 LLM 提示词处理速度较 M4 提升最高 4.8 倍，内存带宽增至 170GB/s，配备 12 核 CPU/GPU、双 16 核神经引擎及最高 32GB 统一内存。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日21时15分"
+  },
+  {
+    "id": "cmt8p68y03j3oro73qc48tjy6",
+    "title": "高通下一代骁龙旗舰平台 CPU 技术公开：Oryon 最高主频 5GHz，全球移动端最快",
+    "url": "https://www.ithome.com/0/994/203.htm",
+    "summary": "高通预热全新骁龙 8 系旗舰移动平台，新一代 Qualcomm Oryon CPU 最高主频达 5GHz，成为首个迈过该门槛的移动 CPU，并引入 FlexCache 全新缓存架构。该 CPU 为完全定制设计，每个核心拥有独立时钟域，可独立进行频率扩展。FlexCache 将 L2 缓存统一为所有核心共享的缓存池，可动态调整资源分配，以提升智能体 AI、游戏、多任务及视频编辑等场景性能。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日21时10分"
+  },
+  {
+    "id": "cmt8oxi6q3ix3ro736etwwymt",
+    "title": "阿里云AI Spotlight回归，Wan3.0视频生成",
+    "url": "https://x.com/alibaba_cloud/status/2092235551416176966",
+    "summary": "AI Spotlight 携 Wan3.0 回归\n\nWan3.0 帮你将现有素材转化为可塑、可打磨、可激活的视频。创作视频不再意味着从零开始。\n\n即刻体验：Qwen Cloud： https://click.qwencloud.com/m/20000002025/ Model Studio： https://click.alibabacloud.com/m/20000002017/\n\n#LetsWanIt #AlibabaCloud #Wan3 #QwenCloud #AISpotlight",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月25日21时0分"
+  },
+  {
+    "id": "cmt8p9km43j7aro73z6dyof4z",
+    "title": "Accel 投资的 Keenable 为 AI 智能体索引整个网络",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
+    "summary": "由前 Yandex 高管 Andrey Styskin 与 Matthias Petri 创立的 Keenable 走出隐身模式，获 Accel 领投的 2600 万美元种子资金。该公司已构建超 1000 亿文档的网页搜索索引，API 已被多家 AI 实验室在训练及运行时使用，并计划年底前将 15 人团队规模翻倍。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月25日21时0分"
+  },
+  {
+    "id": "cmt8p68y13j3qro73v11f4ob6",
+    "title": "荣耀晒人形机器人运动会百米战果：\"元气仔\"预赛夺冠，\"闪电\"再破人类纪录",
+    "url": "https://www.ithome.com/0/994/197.htm",
+    "summary": "荣耀官微宣布，第二届世界人形机器人运动会百米预赛中，荣耀机器人元气仔以12.02秒夺冠并包揽前四名；闪电在100米复赛跑出8秒94，再次打破人类纪录。不过北京人形机器人创新中心的天工机器人以8.86秒刷新复赛纪录。赛事由北京市人民政府和中央广播电视总台等联合主办，共设50个赛项。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日20时51分"
+  },
+  {
+    "id": "cmt8nuxth3hmgro7399i5m7gz",
+    "title": "摩根大通看好 SpaceX 与 Grok 4.6 前景",
+    "url": "https://x.com/cb_doge/status/2092232034542649848",
+    "summary": "摩根大通发布研报，维持 SpaceX\"增持\"评级，称其收购 Cursor 已提升 Grok 模型性能并强化企业 AI 战略。报告指出，Grok 4.6 以低于对手的成本实现前沿级智能，有望推动采用率增长，成为 SpaceX AI 收入的重要驱动力。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月25日20时46分"
+  },
+  {
+    "id": "cmt8nuxtw3hmkro73t782vcyk",
+    "title": "加权记忆树：提升长任务智能体推理准确率",
+    "url": "https://x.com/rohanpaul_ai/status/2092229420979556835",
+    "summary": "论文提出 Weighted Memory Tree，通过为每条记忆打分并在未被选中时衰减其权重，而非简单堆叠记忆层级，来提升长任务 LLM 智能体的推理能力。该方法在多个模型上均优于线性历史和未打分树，同时降低提示词成本并提高准确率。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日20时35分"
+  },
+  {
+    "id": "cmt8npzbw3hhtro73v8jrgebd",
+    "title": "OpenAI 员工 Tibo 人气高获官方贴纸",
+    "url": "https://x.com/AYi_AInotes/status/2092229062265602273",
+    "summary": "tibo现在应该是@OpenAI 内部人气最高的人了，官方都上了专属贴纸，不过我更喜欢这张没有滤镜真实的tibo，邻家哥哥的感觉🥰",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月25日20时34分"
+  },
+  {
+    "id": "cmt8nuxtw3hmlro73knv1o2y0",
+    "title": "障碍物几何要求更快的重量转移",
+    "url": "https://x.com/rohanpaul_ai/status/2092228043054166385",
+    "summary": "障碍物几何要求比实际实现的更快的重量转移。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日20时30分"
+  },
+  {
+    "id": "cmt8n7gj53gn0ro73q8ft7wdm",
+    "title": "Nvidia称Groq 3 LPX推理加速器比Cerebras快四倍，但对比方式被指偏向Nvidia",
+    "url": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated",
+    "summary": "Nvidia在Hot Chips 2026上宣布推理加速器Groq 3 LPX进入全面量产，面向智能体AI的快速token生成。Artificial Analysis基准测试显示，在Gemma 4 31B模型上其机架达每秒3，400 tokens，Nvidia称比Cerebras的882 tokens快四倍。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月25日20时27分"
+  },
+  {
     "id": "cmt8n12g13gfero73zgckvdsg",
     "title": "8.86 秒，天工机器人刷新人形机器人百米竞速纪录",
     "url": "https://www.ithome.com/0/994/182.htm",
     "summary": "8 月 25 日，第二届世界人形机器人运动会大型组 100 米复赛第一组中，北京人形机器人创新中心的天工机器人跑出 8.86 秒，刷新其开幕式上 9.39 秒的纪录。本届赛事吸引六大洲 16 个国家 666 支队伍、2056 台机器人参赛，队伍总量同比增长 138%，机器人数量翻两番。赛项从首届 26 项增至 51 项，新增跳远、举重、拔河、乒乓球及灵巧手等赛项。",
     "source": "IT之家（RSS）",
     "date": "2026年8月25日20时24分"
+  },
+  {
+    "id": "cmt8n7gj53gn1ro73snv9bl7p",
+    "title": "乌克兰向英国企业开放大规模标注战场数据集，达成标志性AI武器合作",
+    "url": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership",
+    "summary": "英国成为首个获准访问乌克兰Avengers Labs数据平台的国家，该平台训练AI模型识别并打击目标。该数据集含约500万张标注图像，训练出的系统每月处理超10万条无人机视频流，识别敌方装备准确率70%、单目标耗时2.2秒。获批企业只能在安全数据室内训练测试模型，成品AI归乌克兰所有。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月25日20时16分"
+  },
+  {
+    "id": "cmt8npzbw3hhuro730z0pqk6a",
+    "title": "卧槽这是@thsottiaux 本人吗， tibo在@OpenAI 到底经历了什么？？？",
+    "url": "https://x.com/AYi_AInotes/status/2092223521820680285",
+    "summary": "卧槽这是@thsottiaux 本人吗， tibo在@OpenAI 到底经历了什么？？？",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月25日20时12分"
+  },
+  {
+    "id": "cmt8p9km53j7bro73gll35ent",
+    "title": "OpenAI 产品负责人谈 ChatGPT Work：让 AI 智能体走向大众",
+    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux",
+    "summary": "OpenAI 产品负责人 Thibault Sottiaux 接受专访，称 ChatGPT Work 旨在将编程智能体的能力带给更广泛人群，并已纳入每月 20 美元的 Plus 套餐。他表示该产品已吸引 2000 万用户，证明\"世界似乎已经准备好了\"。Sottiaux 还谈到发现式产品设计理念，以及 GPT-5.6 在处理文档、生成报告等专业工作上的能力提升。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月25日20时0分"
   },
   {
     "id": "cmt7i29x426hwro732p7rh97x",
