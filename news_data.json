@@ -13848,6 +13848,158 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt8wu9ns02d7rolyrgp1vgxu",
+    "title": "OpenClaw 回归在即，社区期待发布",
+    "url": "https://x.com/steipete/status/2092294123638362346",
+    "summary": "本周。\n\n【引用 @realcaptmarbles】：OpenClaw 看起来回来了，很期待。发布吧！",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月26日0时52分"
+  },
+  {
+    "id": "cmt8vki2o015yrolytlcrtgqr",
+    "title": "如何让 Grok 机器人计划运行更持久：6 个实用技巧",
+    "url": "https://x.com/ericzakariasson/status/2092281851822113131",
+    "summary": "Eric Zakariasson 分享了让 Grok 机器人运行更持久的 6 个技巧：优先使用事件触发而非定时任务，卡住时及时通知人工介入，能用连接器就少用浏览器操作，技能描述需详略得当，编码任务交给云端智能体或 CLI，并及时清理一次性监控任务。这些方法能减少无效运行、提升效率并降低成本。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月26日0时4分"
+  },
+  {
+    "id": "cmt8wfk9n0217roly1qv6hbh1",
+    "title": "Gemini Enterprise 首批法律与金融插件发布",
+    "url": "https://x.com/testingcatalog/status/2092292577781281244",
+    "summary": "Google 为 Gemini Enterprise 推出首批面向法律与金融场景的插件，将精选 Apps 与 Skills 按用途组合成捆绑包。未来捆绑包有望扩展至消费版 Gemini，但当前仅发布两个。合作生态涵盖 Accenture、Deloitte、KPMG 等全球系统集成商。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月26日0时46分"
+  },
+  {
+    "id": "cmt8wm45v026proly7xrzagen",
+    "title": "两大实验室将掌控全球算力",
+    "url": "https://x.com/ClementDelangue/status/2092292371123740838",
+    "summary": "Anthropic 和 OpenAI 有望在几年内控制全球大部分可用 FLOPs，因其能更好变现算力并出价超过所有对手。对话还探讨了本十年末超 10 万亿美元 AI 资本支出或引发主权债务危机，以及训练规模经济与算力稀缺推动行业集中化是否可被逆转。",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月26日0时45分"
+  },
+  {
+    "id": "cmt8wfk980215roly4t3o4b6o",
+    "title": "NVIDIA ACES：技能文档高分不等于运行时有效",
+    "url": "https://x.com/rohanpaul_ai/status/2092289147616539018",
+    "summary": "NVIDIA 新论文提出 ACES 评估框架，指出技能文档得分高不代表智能体运行时真能受益--技能主要贡献是发现与工作流顺序，而非最终答案质量。ACES 固定任务、模型、沙箱等变量，仅对比有无目标技能两次运行的奖励差，定义为 Skill Lift。在生产技能实测中，结构与裁判评分与 Skill Lift 相关性仅 −0.0181 和 −0.0266，几乎为零。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日0时33分"
+  },
+  {
+    "id": "cmt8wfk9n0218rolybogct545",
+    "title": "OpenAI 自研 Jalapeño 推理芯片公布首批性能数据",
+    "url": "https://x.com/testingcatalog/status/2092289071565385924",
+    "summary": "OpenAI 公布自研 AI 推理芯片 Jalapeño 的初步性能结果。在 InferenceX 上对三个公开模型的测试显示，其每瓦 AI 工作量提升 1.5-1.9 倍，端到端延迟降低 1.7-3.6 倍，高交互负载性能提升 2.1-4.1 倍。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月26日0时32分"
+  },
+  {
+    "id": "cmt8vum1y01btrolykwzvp4qj",
+    "title": "Anthropic 推出 500 万美元资助计划，支持 AI 对用户幸福感影响的独立评估",
+    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "summary": "Anthropic 启动一项 500 万美元的资助计划，为研究 AI 如何影响用户幸福感的独立研究提供直接资金、模型访问权限和技术支持。受资助者将完全独立工作，并以开源项目形式发布成果，供任何开发者使用。申请截止日期为 9 月 21 日，入选者将于 10 月 5 日前收到通知。",
+    "source": "Anthropic：Newsroom（网页）",
+    "date": "2026年8月26日0时32分"
+  },
+  {
+    "id": "cmt8wala001y7rolyb7gfcr7u",
+    "title": "新Mac mini AI性能暴涨4倍，起售价涨至899美元",
+    "url": "https://x.com/AYi_AInotes/status/2092288454688194990",
+    "summary": "苹果发布新Mac mini，AI性能提升4倍，起售价从599涨至899美元。首发2nm M6芯片采用超核加能效核架构，每个GPU核心配备Neural Accelerator，本地LLM提示处理速度达上一代4.8倍。苹果将其定位为7x24小时常开的本地AI Agent服务器，标配2.5G网口和雷雳5接口。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月26日0时30分"
+  },
+  {
+    "id": "cmt8wm461026rrolyeqzvgv37",
+    "title": "MAI-Image-2.6登顶图像编辑榜",
+    "url": "https://x.com/mustafasuleyman/status/2092287421983441278",
+    "summary": "Microsoft AI 发布 MAI-Image-2.6-Preview，在 Artificial Analysis 图像编辑排行榜登顶第一，文本生成图像位列第二（仅次于 OpenAI 的 GPT Image 2）。该模型在 19 个分类榜单中拿下 5 个第一，现已在 MAI Playground 和 Microsoft Foundry 私有预览中提供。",
+    "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+    "date": "2026年8月26日0时26分"
+  },
+  {
+    "id": "cmt8walab01y9rolyrlbp4ohx",
+    "title": "不读代码就无法评估模型输出质量",
+    "url": "https://x.com/dexhorthy/status/2092287401901363518",
+    "summary": "你不能声称\"模型已经足够好，我不需要读代码\"。因为如果你不读代码，就不可能知道有多少\"垃圾\"混了进来。我们连线 @0xblacklight 和 @vaibcode 获取独家消息。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月26日0时26分"
+  },
+  {
+    "id": "cmt8vp62q017grolyivre5rrv",
+    "title": "HN 头条有多少是 AI 内容？作者两次抽样调查给出答案",
+    "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+    "summary": "一位博主对 Hacker News 头条的 AI 内容占比做了两次抽样调查：2026 年 2 月，每日 Top 5 中多数日子有 4-5 条与 AI 相关；6 月更新数据显示，AI 相关或 AI 生成内容约占每日头条的 50%-60%，高于 2 月的 40%。作者还借助 AI 文本检测工具 Pangram 识别疑似 AI 撰写的文章，并人工复核了标记结果。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日0时21分"
+  },
+  {
+    "id": "cmt8vs71101aerolyirnbqfhb",
+    "title": "Google 推出 Gemini Enterprise for Legal，自动化合同与法律研究",
+    "url": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research",
+    "summary": "Google 发布 Gemini Enterprise for Legal，通过 MCP 连接器将 Gemini 模型接入 iManage、DocuSign、Everlaw 等法律系统，可审查合同、开展法律研究并跟踪监管变化，同时遵循现有访问权限。该产品现以预览版提供，隶属新的行业 AI 解决方案系列，Deloitte 等伙伴将销售合同摘要等预置 AI 智能体。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月26日0时21分"
+  },
+  {
+    "id": "cmt8vki2h015wrolyvtfew418",
+    "title": "MAI-Image-2.6-Preview 登顶图像编辑榜",
+    "url": "https://x.com/ArtificialAnlys/status/2092284543705456991",
+    "summary": "微软 MAI-Image-2.6-Preview 在 Artificial Analysis 图像编辑排行榜登顶，文本生图位列第二，仅次于 GPT Image 2。该模型于 8 月 10 日发布，支持文生图与图像编辑，在 19 个文本生图分类中拿下 5 个第一。现已上线 MAI Playground 及 Microsoft Foundry 私有预览。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月26日0时14分"
+  },
+  {
+    "id": "cmt8vg3ik002mrolyxhps9h3n",
+    "title": "单线程单任务与分类多任务之辨",
+    "url": "https://x.com/gabriel1/status/2092284396401545421",
+    "summary": "大家怎么看一个线程只做一个任务，与在一个线程里跑完某一类别的所有任务这两种做法？\n\n你们平时做的是哪种任务？多个并行、长时间横向运行、重复性的，等等。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月26日0时14分"
+  },
+  {
+    "id": "cmt8vq224018brolyu81baycq",
+    "title": "Gemini 学生优惠与 Discord 学习工具活动",
+    "url": "https://x.com/GeminiApp/status/2092283845458678147",
+    "summary": "Gemini 面向符合条件的大学生推出一年免费订阅：美国学生可免费获 Google AI Pro，140 多个国家学生可免费获 Google AI Plus。8 月 28 日周五上午 11：30（太平洋时间）将举办 Discord 活动，介绍学习笔记本、互动测验及新学生中心等学习工具。",
+    "source": "X：Gemini (@GeminiApp)",
+    "date": "2026年8月26日0时11分"
+  },
+  {
+    "id": "cmt8vg3id002kroly0kqvg92y",
+    "title": "Keenable AI 发布 AI 原生网络索引与搜索 API",
+    "url": "https://x.com/omarsar0/status/2092283622652793134",
+    "summary": "Keenable AI 正式发布，打造 AI 原生的开放网络知识索引，让模型和智能体可查询、推理并持续学习实时网络。其 Web Search API 与 Web Query Language 已上线，9 月底前免费。公司获 Accel 和 Conviction 2600 万美元种子轮融资，团队来自 Yandex Search、Amazon AGI、X 和 Perplexity。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月26日0时11分"
+  },
+  {
+    "id": "cmt8uz9663qvgro73niety5jh",
+    "title": "Replit 推出 Free Mode 与 Routines 功能",
+    "url": "https://x.com/Replit/status/2092281060235366691",
+    "summary": "Replit 中的 Free Mode + Routines（直播深度解析）https://x.com/i/broadcasts/1MJgNbMgNgWGL",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月26日0时0分"
+  },
+  {
+    "id": "cmt8vs3zv01a8rolymtd6hpfy",
+    "title": "Google Search 升级家居装饰的 5 种方法",
+    "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+    "summary": "Google Search 推出五种家居装饰实用功能：AI Mode 可上传房间照片并生成家具摆放效果图，Lens 支持识别复古单品并查找相似商品，Circle to Search 无需切换应用即可圈选心仪装饰，Search Live 提供 DIY 安装的逐步指导，产品列表可对比价格并追踪降价提醒。近月\"home decor inspo\"搜索量上涨 300%。",
+    "source": "Google Blog：AI（RSS）",
+    "date": "2026年8月26日0时0分"
+  },
+  {
+    "id": "cmt8vs0xi019qrolytij8c314",
+    "title": "微软研究：AI或成重塑文明首工具",
+    "url": "https://x.com/MSFTResearch/status/2092280842802331729",
+    "summary": "我们把当今世界的运作方式视为常态。但事实并非如此。Doug Burger、Amy Luers 与 Ishai Menache 探讨了一个严峻的观点：现代文明是建立在化石燃料与指数增长之上的历史反常现象，而 AI 可能是第一个能够重塑它的工具。https://msft.it/6013azL6Z",
+    "source": "X：Microsoft Research (@MSFTResearch)",
+    "date": "2026年8月26日0时0分"
+  },
+  {
     "id": "cmt81okzy2o1oro73jfvwu3ru",
     "title": "在 AI 时代，为什么焦虑比愤怒更有用",
     "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency",
@@ -14800,6 +14952,22 @@
     "date": "2026年8月25日23时9分"
   },
   {
+    "id": "cmt8wm45n026nrolyo571b3nc",
+    "title": "黄仁勋赠DGX Station，本地运行前沿模型",
+    "url": "https://x.com/AravSrinivas/status/2092280133176705465",
+    "summary": "在DGX Spark上向Jensen展示Portable Computer早期演示时，他慷慨地送了我们一台DGX Station--一台强大的本地计算机，甚至可以运行GLM 5.3这样的前沿模型。无限制的前沿智能即将在你的本地硬件上运行！",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月25日23时57分"
+  },
+  {
+    "id": "cmt8vg3is002orolyeb3572bw",
+    "title": "高盛合伙人谈AI致认知萎缩风险",
+    "url": "https://x.com/rohanpaul_ai/status/2092279335227134126",
+    "summary": "高盛合伙人 Chris Churchman，负责该行旗舰AI项目之一：\n\nAI可能造成\"认知萎缩\"。银行从业者可能在形成自身判断力之前，就对模型产生依赖。\n\n但事实是，投行初级员工所做的许多工作，恰恰是AI能做得更好的事情。\n\n---\n\n完整视频见评论 https://x.com/WallStRollup/status/2092032357649862900/video/1",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日23时54分"
+  },
+  {
     "id": "cmt8umk1n3qgiro73d1q9tzum",
     "title": "法国税务部门遭黑客攻击",
     "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la",
@@ -14813,6 +14981,14 @@
     "url": "https://x.com/omarsar0/status/2092277350993895906",
     "summary": "Perplexity 推出本地优先智能体栈 Portable Computer，运行于 NVIDIA DGX Spark，提供一键本地推理设置与优化的智能体体验。Elvis Saravia 看好本地智能体前景，认为始终在线、本地运行的个性化 AI 智能体存在巨大市场。",
     "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月25日23时46分"
+  },
+  {
+    "id": "cmt8v7swa3r02ro7315bpv6fn",
+    "title": "MIT 新工具无需历史数据即可预测极端天气",
+    "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data",
+    "summary": "MIT 研究人员开发出名为 Extreme Event Aware（η-learning）的工具，可生成某地区历史记录中从未出现但统计上可能发生的极端天气事件地图，并附带持续时间、强度和影响面积估算。",
+    "source": "Artificial Intelligence News（RSS）",
     "date": "2026年8月25日23时46分"
   },
   {
@@ -14848,6 +15024,14 @@
     "date": "2026年8月25日23时37分"
   },
   {
+    "id": "cmt8uphwp3qmhro73czv8pbpv",
+    "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
+    "url": "https://x.com/GoogleAI/status/2092275116503707733",
+    "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+    "source": "X：Google AI (@GoogleAI)",
+    "date": "2026年8月25日23时37分"
+  },
+  {
     "id": "cmt8uats13q5oro73cins3yu4",
     "title": "AI检测器是知识垄断的守门工具",
     "url": "https://x.com/rohanpaul_ai/status/2092274760151609783",
@@ -14862,6 +15046,14 @@
     "summary": "阿里提出将智能体上下文管理视为编程任务的新方法：以追加式事件日志和沙盒持久 Python 内核为基座，工具输出与检索历史绑定为类型化变量，由模型编写代码检索和转换状态。配合逐出索引实现精确回溯，Qwen3.8-Max 在 LongMemEval_S 达 94.8%，BEAM_10M 达 73.1%（超最佳系统 5.1 分），LOCA_256K 达 86.7%。",
     "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
     "date": "2026年8月25日23时35分"
+  },
+  {
+    "id": "cmt8vaqtw3r29ro73d67v03bc",
+    "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+    "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+    "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+    "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+    "date": "2026年8月25日23时32分"
   },
   {
     "id": "cmt8twnvs3pm0ro738yom80ht",
