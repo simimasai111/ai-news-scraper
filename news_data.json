@@ -13848,6 +13848,70 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt7z7l552m34ro73e94ircw8",
+    "title": "天骄机器人跳远7.97米夺冠",
+    "url": "https://x.com/rohanpaul_ai/status/2092055391681257773",
+    "summary": "天骄团队的人形机器人在北京第二届世界人形机器人运动会上，以7.97米的跳远成绩夺得金牌。距离迈克·鲍威尔8.95米的男子世界纪录仅差0.98米。2025年时，机器人最好成绩仅为1.25米。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日9时4分"
+  },
+  {
+    "id": "cmt80a53q2mwvro73pb2d0gfz",
+    "title": "通义万相 Wan 3.0 上线 Pixmax，限时 7 折",
+    "url": "https://x.com/alibaba_cloud/status/2092065672314634747",
+    "summary": "阿里云通义万相 Wan 3.0 已上线 AI 创作平台 Pixmax，主打电影级画质输出。新版本支持任意艺术风格下的视觉一致性、物理真实的流畅运动，以及多模态与混合现实编辑能力。即日起至 8 月 24 日，Pixmax 用户可享 30% 折扣；开发者还可通过 Model Studio 与 Qwen Cloud 获取 API 接入。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月25日9时44分"
+  },
+  {
+    "id": "cmt80a5442mwxro732et6sjuu",
+    "title": "北京人形机器人赛惊现真假难辨瞬间",
+    "url": "https://x.com/rohanpaul_ai/status/2092062906758357392",
+    "summary": "你不能只看一眼。\n\n它几乎看起来像人类。然后又不那么像了。\n\n在北京世界人形机器人运动会上",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日9时34分"
+  },
+  {
+    "id": "cmt80a5442mwyro7338w9xj3n",
+    "title": "Hugging Face 年化收入两月激增50%破1.5亿美元",
+    "url": "https://x.com/rohanpaul_ai/status/2092061147130376662",
+    "summary": "Hugging Face 的年化收入在两个月内跃升 50%，突破 1.5 亿美元。\n\n增长来自其模型中心周边的付费算力、存储和订阅服务，将开源模型需求转化为基础设施收入。\n\n- The Information。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日9时27分"
+  },
+  {
+    "id": "cmt7z7l4u2m32ro73rwvqbifs",
+    "title": "AI 取代人类的经济临界点在哪里",
+    "url": "https://x.com/frxiaobei/status/2092054629605634165",
+    "summary": "小北借 Blockbuster 被 Netflix 颠覆的历史指出，技术革命的关键是底层条件跨过临界点，而非新发明本身。对 AI 而言，临界点是 AI 完成任务成本低于人类、且成功率高于商业可接受阈值。当两个条件同时成立，变化会突然加速，而旧世界存量巨大时最易误判。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月25日9时1分"
+  },
+  {
+    "id": "cmt7zg5iz2m5sro730orkfkza",
+    "title": "高盛合伙人警告：华尔街普及 AI 或削弱金融从业者思考能力",
+    "url": "https://www.ithome.com/0/993/816.htm",
+    "summary": "高盛合伙人 Chris Churchman 警告，AI 在华尔街的快速普及可能削弱下一代金融从业者的思考能力，导致认知能力萎缩，无法再从第一性原理出发思考。他负责的机构客户数字平台 Marquee 的 AI 平台目前仅向高盛内部员工开放，且开发中最大挑战是确保 AI 答案 100% 准确并接受审计。Churchman 表示，银行需在使用 AI 与保护\"师徒式\"培养体系之间找到平衡。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日9时18分"
+  },
+  {
+    "id": "cmt7zwf2o2mlvro73uhqqs60l",
+    "title": "ChatGPT 恢复 Plus 5 小时使用上限",
+    "url": "https://x.com/thsottiaux/status/2092058556707344708",
+    "summary": "OpenAI 宣布明天起恢复 ChatGPT、Work 和 Codex 的 Plus 账户 5 小时使用上限，此前曾推迟该计划。此举旨在平滑计算负载以维持每周用量慷慨，并避免新用户意外耗尽额度。未来数月 Pro $100 和 Pro $200 订阅不受此限制。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月25日9时16分"
+  },
+  {
+    "id": "cmt7zg5iz2m5tro739g3xyh3r",
+    "title": "小鹏第二代 VLA 首次重大升级：响应速度提升 3 倍，G9L 全球首发搭载",
+    "url": "https://www.ithome.com/0/993/815.htm",
+    "summary": "小鹏汽车宣布第二代 VLA 630 版首次重大升级，端侧模型参数量提高 3.5 倍，为行业主流 VLA 模型的 15 倍；端到端响应速度提升 300%。小鹏 G9L 将全球首发搭载第二代 VLA 全新版本，体验日活动定于 8 月 27 日举行。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日9时15分"
+  },
+  {
     "id": "cmt7x2em12kfcro73mf0rl1hg",
     "title": "wikiHow 起诉 OpenAI 盗用文章训练 GPT",
     "url": "https://x.com/rohanpaul_ai/status/2092041081663967381",
@@ -13862,6 +13926,54 @@
     "summary": "中国互联网上一小部分声音坚称唐朝（公元618年至907年）从未存在过，这一说法源于历史网红\"乔宇\"5月发布的视频，其用占星数据\"证明\"唐朝不存在。该话题在微博上已有数千万浏览量，甚至有人致电西安旅游局要求关闭景点。官媒《人民日报》发文称该说法\"荒谬\"，并警告历史虚无主义将削弱文化自信。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年8月25日8时5分"
+  },
+  {
+    "id": "cmt7zg5j02m5zro73q44rpxze",
+    "title": "英伟达 Groq 3 LPX 机架全面量产，今年上线",
+    "url": "https://www.ithome.com/0/993/803.htm",
+    "summary": "英伟达周一宣布，Groq 3 LPX 机架已进入全面量产阶段，标志着其 200 亿美元收购 Groq 所获技术正式商业化。该机架将 256 颗 Groq 3 芯片封装在一起，据 Artificial Analysis 基准测试，处理速度可达每秒 3，400 个 Token，并将与 Vera CPU 和 Rubin GPU 一同部署在云服务商 Nebius 平台，于今年晚些时候上线。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日8时51分"
+  },
+  {
+    "id": "cmt7ycisz2lekro73crv16nzy",
+    "title": "MiniMax H3 生态集成索引发布",
+    "url": "https://x.com/MiniMax_AI/status/2092050619964285104",
+    "summary": "MiniMax 发布 Awesome MiniMax H3 Integrations 索引，收录围绕 H3 构建的各类集成，涵盖 24GB VRAM 本地 ComfyUI 到企业级 SGLang 与 vLLM-Omni 部署。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月25日8时45分"
+  },
+  {
+    "id": "cmt7y502k2l96ro73olbisvbs",
+    "title": "Ox Alpha 三天处理 11.6T tokens，创 OpenRouter 纪录",
+    "url": "https://x.com/rohanpaul_ai/status/2092050483422855648",
+    "summary": "Ox Alpha 三天内处理 11.6T tokens，是 OpenRouter 此前最大模型发布量的 2.6 倍，且有望今日突破 6T tokens。该模型拥有 1.05M-token 上下文窗口，专为持续智能体工作设计，单次会话可承载远超普通聊天的文本量。这种规模得益于编码智能体在单任务中通过长上下文、重试和重复工具调用大幅放大 token 消耗。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日8时44分"
+  },
+  {
+    "id": "cmt7yjpnb2lkvro731y8kgh7p",
+    "title": "Luma Dream Lab 周报首期：创意专业人士的每周探索",
+    "url": "https://x.com/LumaLabsAI/status/2092048734167118124",
+    "summary": "/Dream Lab 周报/ 第 1 期\n\n本系列展示我们的创意专业人士及其每周将 Luma 打造为全球最佳创意工具的探索历程。",
+    "source": "X：Luma AI (@LumaLabsAI)",
+    "date": "2026年8月25日8时37分"
+  },
+  {
+    "id": "cmt7y00n72l6mro73ug7adap2",
+    "title": "BestBlogs 早报 08-25：AI Coding 转向环境与验证驱动、Agent 治理、AI 工程技能图谱、NVIDIA Groq 3 LPX、GPT-5.6 集成 Kiro",
+    "url": "https://x.com/hongming731/status/2092045669699883381",
+    "summary": "大淘宝技术提出 AI Coding 应从 Spec 驱动转向环境与验证驱动，内部案例改码仅 1 小时但上线耗时 3 周。Steve Yegge 主张用可执行治理系统\"围栏\"管理约 50-60 个 Agent；吴恩达详解 AI 工程六类能力。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月25日8时25分"
+  },
+  {
+    "id": "cmt7y00n72l6nro73coi5ower",
+    "title": "早报：AI Coding 后，团队如何重建验证与治理",
+    "url": "https://x.com/hongming731/status/2092045641828675756",
+    "summary": "今日早报聚焦 AI 编码后的交付瓶颈：生码仅占研发链路 20-30%，需将构建、测试、日志等环节改造为 Agent 可调用的闭环。Steve Yegge 在约 50-60 个 Agent 的软件工厂中，用 450 条法律式构件建立\"围栏\"治理系统。吴恩达则拆解 AI 工程六类能力，强调基于评估的开发与数据、运维协同。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月25日8时25分"
   },
   {
     "id": "cmt7xe7yu2kkgro739tl106mx",
@@ -13886,6 +13998,14 @@
     "summary": "马斯克表示，SpaceX 首批搭载英伟达芯片的 AI 卫星将于明年第四季度首次发射，并于 2028 年实现大规模部署。SpaceX 与英伟达合作设计了针对太空环境优化的 Vera Rubin NVL72 系统，每个轨道数据中心将比传统计算机机架更简单、便宜、高密度且轻量化。SpaceX 已向 FCC 申请部署最多 100 万颗卫星的星座，并选定英伟达作为独家技术供应商。",
     "source": "IT之家（RSS）",
     "date": "2026年8月25日8时1分"
+  },
+  {
+    "id": "cmt7y502k2l97ro73s8kfevek",
+    "title": "老板们要求员工将工作信息从私密 Slack 私信移至公开频道，以便 AI 智能体读取使用",
+    "url": "https://x.com/rohanpaul_ai/status/2092044238347518121",
+    "summary": "许多老板要求员工将有用工作信息从私密 Slack 私信移至公开公司频道，以便 AI 智能体读取并用于工作。WSJ 报道，若员工私下讨论客户不满原因，AI 智能体可能永远看不到该背景；在可搜索频道讨论则可用于准备客户简报或总结决策。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日8时19分"
   },
   {
     "id": "cmt7x2emf2kffro73456tsfhv",
