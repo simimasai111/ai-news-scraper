@@ -14904,6 +14904,70 @@
     "date": "2026年8月25日1时0分"
   },
   {
+    "id": "cmt83qhp52pwgro73l3jmf506",
+    "title": "LinkedIn\"看起来像是 AI 垃圾\"按钮收效显著，相关内容浏览量下降四成",
+    "url": "https://www.ithome.com/0/993/873.htm",
+    "summary": "LinkedIn 推出\"看起来像是 AI 垃圾\"反馈按钮后，被认定为 AI 劣质内容的帖子浏览量较几周前下降 40%。自 7 月 30 日上线以来，已有超 100 万人点击该按钮反馈可疑帖子和评论。获足够社区反馈的帖子将在\"帖子分析\"中突出显示，LinkedIn 同时建立了防止用户遭不公平集中举报的保护机制。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日11时8分"
+  },
+  {
+    "id": "cmt83qhp52pwhro732gccm6xb",
+    "title": "追觅宣布聚焦四大主营业务方向，调整部分探索阶段业务",
+    "url": "https://www.ithome.com/0/993/871.htm",
+    "summary": "追觅科技今日发布战略聚焦及业务发展说明，对部分处于探索阶段的业务进行调整，相关技术积累和研究成果将纳入公司相关业务及研发体系统筹管理。公司称主营业务保持稳定，2026年以来核心业务稳健发展，海外业务继续增长。未来将聚焦智能家庭、户外庭院、智能出行、具身智能四大主营业务方向。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日11时3分"
+  },
+  {
+    "id": "cmt84rzwf2quuro73eznli7qr",
+    "title": "Apodex 1.1 发布：Agent Team 拆解复杂研究",
+    "url": "https://x.com/karminski3/status/2092092396918178118",
+    "summary": "Apodex 1.1 模型家族发布，主打异步 Agent Team 功能，可并行协调多智能体拆解复杂任务并持续整合结果。同步开源 FrontierAgent 本地研究工具台及 Apodex 1.1 mini 开放权重模型，后者支持本地运行复杂工作。",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月25日11时31分"
+  },
+  {
+    "id": "cmt83trnw2pyjro73kepbbcn8",
+    "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+    "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "summary": "恶意 LLM 可能通过向推理引擎（如 vLLM、SGLang）发送特定 token 序列，利用其解析漏洞在宿主机器上执行任意代码。vLLM 曾因 CVE-2025-9141 漏洞，在 Qwen3 Coder 的 XML 工具解析器中对参数执行 eval（），导致任意代码执行。此类漏洞可被持久化利用，且开源权重模型与推理引擎的普及正扩大攻击面。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日11时2分"
+  },
+  {
+    "id": "cmt83qhp52pwiro737cwxlqrq",
+    "title": "亚马逊\"Project Tetromino\"计划打造完全自动化配送站",
+    "url": "https://www.ithome.com/0/993/870.htm",
+    "summary": "亚马逊正开发代号\"Project Tetromino\"的高度自动化配送站，利用AI和机器人处理包裹，将物流自动化延伸至配送前最后一环。内部文件显示，项目计划2028年投入1.03亿美元启动试点，2029年建5个站点、2030年再增10个，包裹处理速度或达现有设计的约2.5倍。亚马逊发言人回应称该计划尚处\"早期阶段的概念\"，文件中的财务数据与路线图\"并不准确\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日11时2分"
+  },
+  {
+    "id": "cmt846qm72qe0ro737trmwr5r",
+    "title": "通义千问回应：中国开源模型已成研究默认选择",
+    "url": "https://x.com/Alibaba_Qwen/status/2092090931776545001",
+    "summary": "一项基于50万篇arXiv论文的分析显示，约40%论文提及中国开源LLM，美国开源模型降至25-30%，中国模型已成研究默认选择。通义千问（Qwen）持续增长，如今提及任何LLM的论文中1/3提到Qwen；Llama在2025年4月达30%峰值后持续下滑。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月25日11时25分"
+  },
+  {
+    "id": "cmt846qm72qe1ro73bbpu87b6",
+    "title": "Qwen3.8-27B登顶Code Arena前十唯一小模型",
+    "url": "https://x.com/Alibaba_Qwen/status/2092090827690610914",
+    "summary": "通义千问Qwen3.8-27B在Code Arena： WebDev中以1595分位列总榜第9，是前十名中唯一同尺寸级别模型，并重塑了帕累托前沿。该模型仅比更大的Qwen3.8-Max低6个名次，而4月发布的Gemma 4-31B仅排第80位。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月25日11时24分"
+  },
+  {
+    "id": "cmt83i3re2ptiro73t4quvc3l",
+    "title": "SWE-bench Science：编码智能体难解科学缺陷",
+    "url": "https://x.com/rohanpaul_ai/status/2092088072624386209",
+    "summary": "新基准 SWE-bench Science 用开源科学仓库的真实缺陷测试编码智能体，发现它们擅长消除可见故障，却难以恢复底层科学逻辑，且领域知识帮助有限。最佳配置 Claude Code 配 Opus-5 通过 96.64% 公开测试，但 Pass@1 仅 47.90%。瓶颈在于验证而非知识：智能体无法将科学解释与可执行证据对照时，会锚定解释而非检验它。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日11时14分"
+  },
+  {
     "id": "cmt81cq4z2nvero73xhgytm3j",
     "title": "DeepMind 新研究：推理时回灌深层激活可降困惑度",
     "url": "https://x.com/rohanpaul_ai/status/2092071211480322435",
@@ -14920,6 +14984,14 @@
     "date": "2026年8月25日10时6分"
   },
   {
+    "id": "cmt83qhp52pwkro73dg7o8nto",
+    "title": "英特尔介绍 Crescent Island 加速卡：面向 AI 推理，额定 350W、最高 480GB 内存",
+    "url": "https://www.ithome.com/0/993/866.htm",
+    "summary": "英特尔在 Hot Chips 2026 上介绍面向 AI 推理和智能体工作负载的 Crescent Island GPU，采用 Xe3P 架构，额定功耗 350W，风冷设计，配 PCIe Gen5 x16 接口。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日10时56分"
+  },
+  {
     "id": "cmt81k8u72ny1ro73zxscub2c",
     "title": "NVIDIA Groq 3 LPX 跑出 Gemma 4 31B 最快推理速度",
     "url": "https://x.com/ArtificialAnlys/status/2092070577934925992",
@@ -14928,12 +15000,28 @@
     "date": "2026年8月25日10时4分"
   },
   {
+    "id": "cmt83qhp62pwlro73iqe3kkek",
+    "title": "字节跳动发布\"豆包工作\"，与飞书深度打通",
+    "url": "https://www.ithome.com/0/993/865.htm",
+    "summary": "字节跳动今日正式发布面向生产力场景的Agent产品\"豆包工作\"，可自主拆解任务、调用工具并推进复杂工作流程，电脑版已开放下载，即日起可免费领取30天订阅权益。该产品与飞书深度打通，登录后能继承权限范围内的企业知识和工作上下文，并支持生成编辑文档、图片、视频、网页及应用，以及跨软件操作电脑和云电脑远程执行任务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日10时47分"
+  },
+  {
     "id": "cmt82fb602oswro736jypnte3",
     "title": "世界人形机器人运动会失败集锦",
     "url": "https://x.com/rohanpaul_ai/status/2092079264258818405",
     "summary": "世界人形机器人运动会上的失败集锦。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月25日10时39分"
+  },
+  {
+    "id": "cmt83qhp62pwmro73kv72w31a",
+    "title": "中消协发布消费提示：使用人工智能服务需谨防误导",
+    "url": "https://www.ithome.com/0/993/856.htm",
+    "summary": "中国消费者协会发布人工智能服务消费提示，提醒消费者理性看待通用生成式AI的参考属性，对价格、合同、售后等重要信息不宜仅依据AI生成内容作决定，应通过官方渠道核实。提示区分通用生成式AI与经营者部署的AI客服两类场景，前者需防止误导消费决策，后者不能以\"算法自动生成\"为由免责。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日10时34分"
   },
   {
     "id": "cmt82fb5r2osuro73crq48vq1",
@@ -14950,6 +15038,14 @@
     "summary": "英特尔在 Hot Chips 2026 新闻稿中确认，下一代至强服务器处理器 \"Diamond Rapids\" 最高配备 256 颗全新核心，全面采用自研技术，结合 Intel 18A-P 制程、Foveros Direct 3D 封装与 UCIe-S 互连。",
     "source": "IT之家（RSS）",
     "date": "2026年8月25日10时2分"
+  },
+  {
+    "id": "cmt83qhp62pwnro73zxmj76pt",
+    "title": "道路交通安全法修订草案提请审议：明确自动驾驶违法由车企担责",
+    "url": "https://www.ithome.com/0/993/853.htm",
+    "summary": "道路交通安全法修订草案今日提请十四届全国人大常委会第二十四次会议初次审议，共9章170条，明确自动驾驶汽车上道路行驶条件、违章处理原则和保险制度。草案设\"自动驾驶汽车的特别规定\"专章，明确自动驾驶功能激活状态下发生交通违法，由汽车生产企业、进口企业接受处理；未激活或仅辅助驾驶的车辆按非自动驾驶汽车规定管理。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日10时28分"
   },
   {
     "id": "cmt82adjg2optro73dg9awd2i",
