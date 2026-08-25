@@ -14792,6 +14792,102 @@
     "date": "2026年8月25日2时12分"
   },
   {
+    "id": "cmt8r2phx3lsjro737k6ivrj6",
+    "title": "摩根大通看好 SpaceX 与 Grok 4.6 前景",
+    "url": "https://x.com/cb_doge/status/2092252974370472111",
+    "summary": "摩根大通维持对 SpaceX 的增持评级，称对 Grok\"越来越乐观\"，并预计 Grok 4.6 以显著低于同行的成本提供前沿智能。该行估计 Cursor 年经常性收入约 40 亿美元，其数据已让近期 Grok 模型出现\"切实改进\"。摩根大通预计 2026 年底前每月发布新模型，12 月推出的 Grok 5 将带来重大性能提升。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月25日22时9分"
+  },
+  {
+    "id": "cmt8rbf903lz4ro73onbczdc2",
+    "title": "腾讯相关人士回应\"IEG 重组 AI 游戏部门\"：报道大量失实，\"成立新部门\"系误读",
+    "url": "https://www.ithome.com/0/994/229.htm",
+    "summary": "针对\"腾讯互动娱乐事业群（IEG）重组 AI 游戏部门\"的报道，腾讯相关人士回应称内容存在大量失实，所谓\"成立新部门\"系误读。该人士表示，游戏技术公线本就设有游戏 AI 引擎部，长期对外招募 AI 专业人才，聚焦游戏研运管线的 AI 提效与玩法创新。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日22时4分"
+  },
+  {
+    "id": "cmt8s58su3nbnro734emkhur7",
+    "title": "Gatik 无人驾驶货运运营透明度提升",
+    "url": "https://x.com/testingcatalog/status/2092262209141248059",
+    "summary": "Gatik 使其无人驾驶货运运营更加透明，用户现可实时查看所有在途卡车动态，并观看其客户供应链内部拍摄的视频系列。该公司近期完成由 QIA 和 Koch Disruptive Technologies 领投的 2 亿美元 D 轮融资，估值达 10 亿美元，百事等客户已在使用其服务。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月25日22时45分"
+  },
+  {
+    "id": "cmt8shd6a3notro73x20hkp35",
+    "title": "Qwen 3.8-Flash-Next 将于明天发布（125B a6B）",
+    "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+    "summary": "通义千问（Qwen）宣布 Qwen 3.8-Flash-Next 将于明天发布，该模型参数规模为 125B a6B。模型页面已上线 ModelScope 平台，引发 Hacker News 社区关注，目前获得 103 个 HN 点赞。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日22时45分"
+  },
+  {
+    "id": "cmt8s58s03nbfro73k6x1swdx",
+    "title": "Prime Intellect 开源自我改进框架 Prime Agent",
+    "url": "https://x.com/omarsar0/status/2092261479055548692",
+    "summary": "Prime Intellect 推出开源自我改进框架 Prime Agent，面向长时程智能体任务。其持续 IPython REPL 让模型以编程方式处理自身上下文，Continual Harness 跨轨迹保留历史、记忆、技能与提示词，使改进持续累积。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月25日22时43分"
+  },
+  {
+    "id": "cmt8s58s73nbhro733livkgh6",
+    "title": "OpenAI自研推理芯片Jalapeño在速度和能效上超越英伟达GB200和GB300",
+    "url": "https://x.com/kimmonismus/status/2092261453449327052",
+    "summary": "OpenAI称其首款自研推理芯片Jalapeño在速度和能效上已超越英伟达GB200和GB300系统。在GPT-OSS 120B、DeepSeek R1 670B和Kimi K2.5 1T模型上，Jalapeño在峰值吞吐下每瓦特AI工作量提升1.5-1.9倍，端到端延迟降低1.7-3.6倍；高交互负载性能提升2.1-4.1倍。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日22时42分"
+  },
+  {
+    "id": "cmt8rt6ho3mx5ro73ccrbk0bt",
+    "title": "a16z 分享幻灯片：智能是原语，应用是扩散层",
+    "url": "https://www.a16z.news/p/intelligence-is-the-primitive-applications",
+    "summary": "a16z 发布由 Danco 制作的幻灯片《Intelligence is the Primitive. Applications are the Diffusion Layer》，原为面向小范围受众准备。幻灯片概述了当前应用层与消费级应用的总体态势，并称若反响良好将定期发布此类内容。",
+    "source": "a16z：News（RSS）",
+    "date": "2026年8月25日22时3分"
+  },
+  {
+    "id": "cmt8s0b6i3n6fro73h2i95yrg",
+    "title": "Prime Agent：开源自改进智能体框架发布",
+    "url": "https://x.com/dair_ai/status/2092260466190106974",
+    "summary": "Prime Intellect 发布开源自改进智能体框架 Prime Agent，通过持久 IPython REPL 和 Continual Harness 实现跨轨迹累积改进。同模型下 ARC-AGI-3 RHAE Best@1 从 30% 提升至 95.5%，并在长上下文编码、GPU 内核生成等任务上匹配或超越原生框架。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月25日22时39分"
+  },
+  {
+    "id": "cmt8s58s73nbiro73hn4jopnp",
+    "title": "Gatik 获 2 亿美元融资，无人驾驶货运加速",
+    "url": "https://x.com/kimmonismus/status/2092259719847215251",
+    "summary": "Gatik 完成 2 亿美元 D 轮融资，估值达 10 亿美元，由 QIA 和 Koch Disruptive Technologies 领投。该公司已在得州、亚利桑那、阿肯色和加拿大实现每日无人驾驶中程货运，超 10 万次交付零安全员，准时率超 99%，现有合同收入超 6 亿美元。资金将用于扩充现有线路车队，以满足超出供给的客户需求。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月25日22时36分"
+  },
+  {
+    "id": "cmt8s58si3nblro736z3s1gt6",
+    "title": "OpenAI Jalapeño 芯片能效达 GB300 的 104 倍",
+    "url": "https://x.com/rohanpaul_ai/status/2092259674741711160",
+    "summary": "OpenAI 称其新 Jalapeño 芯片在匹配 DeepSeek R1 解码速度下，每千瓦吞吐量达 NVIDIA GB300 的 104.3 倍（12258 对 118 tokens/s/kW）。该芯片功耗 700W，低于 GB300 的 1400W，计划年底部署，Gen 2 已在开发中。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日22时35分"
+  },
+  {
+    "id": "cmt8rojns3mn0ro73drz0occ4",
+    "title": "商汤 SenseNova U1.5 Lite 开源并上线 Token 计划",
+    "url": "https://x.com/SenseTime_AI/status/2092258195536540124",
+    "summary": "商汤 SenseNova U1.5 Lite 已开源并上线 Token 计划，提供免费公开测试版，每 5 小时可享 1，500 次请求。该模型支持图像生成与编辑一体化，具备参考图驱动创作、复杂指令跟随、原生 2K/4K 输出及自动提示词优化等能力。",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "date": "2026年8月25日22时30分"
+  },
+  {
+    "id": "cmt8rerxp3m33ro73tlxu8c9t",
+    "title": "OpenAI Jalapeño 芯片基准测试显示：为大规模快速推理而生",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
+    "summary": "OpenAI 在 Hot Chips 大会上公布自研推理芯片 Jalapeño 的首批基准测试结果。在 Semianalysis 的 InferenceX 基准上，Jalapeño 每用户 token 数和每千瓦吞吐量均超过当前最先进的 Nvidia Blackwell 系统。该芯片由 OpenAI 与 Broadcom 合作开发，预计 2026 年底小规模部署，2027 年更大规模上线。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月25日22时22分"
+  },
+  {
     "id": "cmt8qoyf23ldvro73xz1p7cde",
     "title": "MiniCPM5-1B 双 LoRA 定制化智能助手",
     "url": "https://x.com/OpenBMB/status/2092250907522285964",
@@ -14800,12 +14896,68 @@
     "date": "2026年8月25日22时1分"
   },
   {
+    "id": "cmt8r2pid3lsqro73fbersv89",
+    "title": "超大规模厂商明年资本支出或超万亿美元",
+    "url": "https://x.com/SemiAnalysis_/status/2092250939096760743",
+    "summary": "我们看到超大规模厂商在资本上投入了大量资金。\n\n他们正在购买土地、购买大量设备、在全球各地雇佣建筑承包商，而这笔投入明年将达到或超过一万亿美元的资本支出。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月25日22时1分"
+  },
+  {
+    "id": "cmt8rhpgm3m6zro735e3hyy03",
+    "title": "WorkBuddy 接入 Notion 工作区",
+    "url": "https://x.com/WorkBuddy_AI/status/2092255302095949952",
+    "summary": "WorkBuddy 现已连接 @NotionHQ。\n\n将你散落在 Notion 工作区的文档、笔记和知识，汇入 WorkBuddy 中的答案与操作。\n\n你的工作区变得更加互联。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "date": "2026年8月25日22时18分"
+  },
+  {
+    "id": "cmt8r2pid3lspro73b01m626k",
+    "title": "OpenAI Jalapeño 自研芯片优于英伟达",
+    "url": "https://x.com/SemiAnalysis_/status/2092253723640598761",
+    "summary": "OpenAI Jalapeño：优于英伟达 Blackwell\nOpenAI 自研 ASIC 与 Rubin 对比，Jalapeño 的 TCO、每 MW 吞吐量，以及火辣细节\n\nhttps://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月25日22时12分"
+  },
+  {
+    "id": "cmt8reski3m35ro73xdd3i0kc",
+    "title": "OpenAI 称其 Jalapeño 芯片推理响应速度优于竞品",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "summary": "OpenAI 发布博客称，其与 Broadcom 合作打造的 AI 推理芯片 Jalapeño 在 InferenceX 基准测试中，性能优于 Nvidia GB200/GB300 超级芯片。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月25日22时0分"
+  },
+  {
     "id": "cmt8p68y03j3pro735p2p6f40",
     "title": "广汽领程联合新石器开发的首款无人车 X6 下线，拥有 6 立方米装载空间",
     "url": "https://www.ithome.com/0/994/201.htm",
     "summary": "广汽领程与新石器联合开发的首款无人车 X6 在广州从化工厂正式下线。该车聚焦城市末端配送与支线物流场景，拥有 6 立方米装载空间，可满足电商、生鲜、商超、药品等多场景配送需求。双方合作的 12 立方米、20 立方米无人车后续也将陆续推出。",
     "source": "IT之家（RSS）",
     "date": "2026年8月25日21时9分"
+  },
+  {
+    "id": "cmt8r2pi73lsnro73ibbov42v",
+    "title": "Anthropic 因罢工警告让旧金山员工居家办公",
+    "url": "https://x.com/rohanpaul_ai/status/2092250493129224672",
+    "summary": "Anthropic 在收到罢工警告后让旧金山员工回家。该指令覆盖周一和周二，此前承包商 Allied Universal 警告 Anthropic，其保安可能罢工。\n\n- businessinsider\n\n但代表保安的 SEIU 工会对这一警告提出了异议。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月25日21时59分"
+  },
+  {
+    "id": "cmt8rerv73m2zro7390qxab4o",
+    "title": "苹果推出搭载 M5 Max 和 M5 Ultra 芯片的新款 Mac Studio",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+    "summary": "苹果发布新款 Mac Studio，搭载 M5 Max 与全新 M5 Ultra 芯片，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，CPU 速度提升 1.3 倍。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月25日21时57分"
+  },
+  {
+    "id": "cmt8rbf903lz8ro73jp86dis6",
+    "title": "苹果正式推出 M5 Ultra 芯片，最高 36 核 CPU/80 核 GPU，1.2 TB/s 统一内存带宽",
+    "url": "https://www.ithome.com/0/994/220.htm",
+    "summary": "苹果今日在新款 Mac Studio 中推出 M5 Ultra 芯片，首次采用 UltraFusion 技术构建四芯片架构，最高 36 核 CPU、80 核 GPU，统一内存带宽达 1.2 TB/s，比 M3 Ultra 高出 50%。该芯片 AI 峰值 GPU 计算性能较 M3 Ultra 最高提升 4.5 倍，支持 512GB 统一内存，可在设备端运行参数量达数千亿的大语言模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日21时46分"
   },
   {
     "id": "cmt8q042w3kcdro73tnwdo2bv",
@@ -14832,6 +14984,14 @@
     "date": "2026年8月25日21时43分"
   },
   {
+    "id": "cmt8rbf903lz9ro73xhvekm1h",
+    "title": "苹果正式推出 M6 芯片：12 核 CPU，单线程性能全球领先",
+    "url": "https://www.ithome.com/0/994/219.htm",
+    "summary": "苹果今日在新款 Mac mini 中推出 M6 芯片，这是其首款采用 2 纳米制程的芯片，配备 12 核 CPU、12 核 GPU 及双 16 核神经引擎。与 M5 相比，M6 单线程性能全球最快，多线程性能最高提升 1.2 倍，GPU 在 AI 场景下峰值性能提升近 30%，支持最高 32 GB 统一内存和 170 GB/s 内存带宽。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日21时43分"
+  },
+  {
     "id": "cmt8qc6e03kpcro735s9f94ra",
     "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
     "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
@@ -14846,6 +15006,22 @@
     "summary": "Dex Horthy分享其生产级大型功能的AI驱动开发流程：先产出研究与产品大纲文档，让AI智能体通宵实现、审查与争论，再通过循环反馈打磨。随后与智能体协作将2万+行实现拆分为3-9个独立PR，逐个（1k-3k行）进行反馈、打磨与代码审查。引用@jlongster观点：AI将大任务拆成可独立落地的小型堆叠PR，快速构建大功能后逐项精修至生产就绪，此前拆分工作极为繁重。",
     "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
     "date": "2026年8月25日21时36分"
+  },
+  {
+    "id": "cmt8rbf903lzcro738tsrx54q",
+    "title": "苹果推出全新 Mac Studio，可选 M5 Max 或 M5 Ultra 处理器，19999 元起售",
+    "url": "https://www.ithome.com/0/994/215.htm",
+    "summary": "苹果发布全新 Mac Studio 专业台式机，可选 M5 Max 或 M5 Ultra 芯片，AI 性能最高提升至 4.3 倍，存储速度最高提升 2 倍。M5 Ultra 版配备最多 80 核 GPU 与 512GB 统一内存，支持 Thunderbolt 5 集群部署。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日21时35分"
+  },
+  {
+    "id": "cmt8rbf903lzdro73scehfoma",
+    "title": "苹果全新 Mac mini 发布：可选 M6 或 M5 Pro 芯片，6999 元起售",
+    "url": "https://www.ithome.com/0/994/211.htm",
+    "summary": "苹果今日发布全新 Mac mini，可选 M6 或 M5 Pro 芯片，6999 元起售。搭载 M6 芯片的版本 AI 性能最高提升 4 倍，存储与图形处理速度提升 2 倍，CPU 性能提升 40%；M5 Pro 版本面向专业工作流，支持最高 64GB 统一内存。两款机型均支持 Wi-Fi 7 和蓝牙 6，8 月 27 日起预购，9 月 22 日发售。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月25日21时27分"
   },
   {
     "id": "cmt8ojsxf3ijgro73eu8amcgn",
