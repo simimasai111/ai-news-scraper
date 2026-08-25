@@ -13872,12 +13872,52 @@
     "date": "2026年8月26日5时5分"
   },
   {
+    "id": "cmt97kflf0bfjrolyrlnlplqe",
+    "title": "OpenAI WebMCP 挑战赛启动直播预告",
+    "url": "https://x.com/OpenAIDevs/status/2092371220507533344",
+    "summary": "准备好开黑了吗？\n\n欢迎参加 WebMCP 挑战赛启动直播。\n\n我们将介绍 WebMCP 开放标准，展示一些构建成果，并介绍奖项以及如何与我们一同开黑。\n\nhttps://x.com/i/broadcasts/1qGoNYbWdkvKv",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月26日5时59分"
+  },
+  {
+    "id": "cmt97ysg50crarolyyesy7vg9",
+    "title": "马斯克盛赞 Grok Bot 获好评",
+    "url": "https://x.com/elonmusk/status/2092368785412133180",
+    "summary": "对 Grok @Bot 的好评。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月26日5时49分"
+  },
+  {
+    "id": "cmt97kflf0bfkroly2989chah",
+    "title": "OpenAI Build Week 获奖项目揭晓",
+    "url": "https://x.com/OpenAIDevs/status/2092366121408311600",
+    "summary": "我们激动地宣布 OpenAI Build Week 获奖者 🥁\n\n认识八个获奖项目背后的开发者，看看他们用 Codex 构建了什么。\n\nhttps://openai.com/build-week",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月26日5时38分"
+  },
+  {
     "id": "cmt96rmt20asbrolysra2xxzj",
     "title": "OpenRouter 上线 Makora 推理服务商",
     "url": "https://x.com/OpenRouter/status/2092365709582193019",
     "summary": "新的推理服务商：@makora_ai 现已上线 OpenRouter。\n\n首批提供：• DeepSeek V4 Flash • GLM 5.2 FP8 • GLM 5.2 NVFP4 • Kimi K3\n\n通过 Makora 路由：https://openrouter.ai/provider/makora",
     "source": "X：OpenRouter (@OpenRouter)",
     "date": "2026年8月26日5时37分"
+  },
+  {
+    "id": "cmt97oaks0ckmroly4mskkjpx",
+    "title": "GitHub 如何在生产前评估 LLM：秘密扫描实战经验",
+    "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+    "summary": "GitHub 分享了为真实世界秘密扫描场景评估 LLM 的经验教训。评估聚焦于模型在实际任务中的表现，而非仅依赖基准测试分数。文章强调了在部署前进行针对性测试的重要性，以确保模型能有效识别敏感信息并满足生产环境需求。",
+    "source": "GitHub Blog",
+    "date": "2026年8月26日5时35分"
+  },
+  {
+    "id": "cmt97ig260bckrolyi103zelh",
+    "title": "Cohere CEO 谈多伦多大学与 AI 之路",
+    "url": "https://x.com/cohere/status/2092365111415419205",
+    "summary": "你是如何从破解 PlayStation 一路走到加拿大领先大语言模型公司 CEO 的？去多伦多大学。\n\n\"当你进入@多伦多大学，你就是在 AI 中成长起来的。\"--@aidangomez",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年8月26日5时34分"
   },
   {
     "id": "cmt96t9tn0aulroly7vhzxs9m",
