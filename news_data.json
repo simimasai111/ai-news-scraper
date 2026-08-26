@@ -13848,6 +13848,62 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt9geulz0jdhrolyk80ai212",
+    "title": "ChatGPT定时任务新增Slack等触发与分享",
+    "url": "https://x.com/gdb/status/2092430694253572216",
+    "summary": "ChatGPT 中已触发的任务：\n\n【引用 @ChatGPT】：ChatGPT 定时任务（Work 版，网页端和移动端）的一些更新：Plus 和 Pro 用户现在可以设置任务，在 Slack、Gmail 和 Github 中发生某些变化时响应，而不仅仅是按设定时间运行。\n\n我们也在将 ChatGPT 定时任务向 Free 用户开放，他们最多可以创建三个任务。\n\n你现在还可以分享你常用的任务，供他人自定义和使用。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月26日9时55分"
+  },
+  {
+    "id": "cmt9fwk0p0isprolyis3zlq9j",
+    "title": "Perplexity CEO展望持续推理智能体未来",
+    "url": "https://x.com/AravSrinivas/status/2092428727338865110",
+    "summary": "一个后台进程，持续从每个连接器（或应用）摄取上下文，在永续推理循环中执行多跳推理，并运行在你的硬件上。这就是未来。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月26日9时47分"
+  },
+  {
+    "id": "cmt9g2ck90ivmroly8cn9ohlf",
+    "title": "Show HN：我用 Qwen 打造了一台树莓派车载 AI",
+    "url": "https://github.com/ThinkOffApp/CarWatch",
+    "summary": "树莓派5在车内本地运行35B参数模型Qwen3.6-35B-A3B，以3.5 tok/s速度完全离线运行，可回答745页车主手册问题并支持免唤醒词语音交互。系统支持自更新、隧道远程访问及三档连接方案，OBD引擎读取功能已通过模拟测试但尚未实车验证。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日9时41分"
+  },
+  {
+    "id": "cmt9ew9hj0hx1rolycekuymjw",
+    "title": "Parallels Desktop 27 发布：OpenGL 性能最高提升 160%、AI 矩阵计算最高提升 7 倍",
+    "url": "https://www.ithome.com/0/994/334.htm",
+    "summary": "Parallels Desktop 27 发布，新增基于 Metal 的图形驱动，为 Windows 虚拟机带来 OpenGL 4.3 支持。在搭载 M3 及后续处理器的 Mac 上，OpenGL 性能最高提升 160%，ArcGIS Pro 三维渲染速度最高提升 35%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日9时3分"
+  },
+  {
+    "id": "cmt9fpzul0iomroly6ki7w16c",
+    "title": "用AI代理下单遭Uber Eats人机验证",
+    "url": "https://x.com/gabriel1/status/2092422532939010335",
+    "summary": "Uber Eats 在我用代理下单时弹出\"证明你是人类\"的验证框。\n\n我在乎的是，我的代理给你钱，还是我自己给你钱，这有什么区别？",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月26日9时23分"
+  },
+  {
+    "id": "cmt9enflq0htiroly8adnrjgo",
+    "title": "Gemini Enterprise for Legal 直连六大法律工具",
+    "url": "https://x.com/rohanpaul_ai/status/2092417011465007205",
+    "summary": "Google 推出 Gemini Enterprise for Legal，面向律所与法务团队，可直连 Workspace、Microsoft 365、Docusign、RelativityOne、HighQ、Harvey 和 Legora。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日9时1分"
+  },
+  {
+    "id": "cmt9enfm50htkroly2j1m8o3r",
+    "title": "OpenAI 新芯片能效达英伟达 Rubin 两倍",
+    "url": "https://x.com/SemiAnalysis_/status/2092420526241108467",
+    "summary": "突发新闻🚨🚨 OpenAI 最新芯片每瓦性能比英伟达 7 月 Rubin 性能最高提升 2 倍。OpenAI 芯片甚至未启用 SPEC 解码，就已击败启用 SPEC 解码的 Rubin NVL72。（1/2）🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月26日9时15分"
+  },
+  {
     "id": "cmt9cr3s60g6lrolyqkz7uhf3",
     "title": "谷歌杀入法律 AI 赛道，推出专用 Gemini 工具",
     "url": "https://www.ithome.com/0/994/319.htm",
@@ -13864,6 +13920,102 @@
     "date": "2026年8月26日8时6分"
   },
   {
+    "id": "cmt9fl17g0ilorolycpvdfwg8",
+    "title": "苹果 Mac mini 开启桌面 AI 盒子时代",
+    "url": "https://x.com/AYi_AInotes/status/2092415247097155954",
+    "summary": "苹果发布新款 Mac mini，以巴掌大小体积主打高性能与 AI 能力。作者认为，真正的个人智能体需要永远在线、低功耗、吞吐极快的本地物理节点，这款 899 美元起售的设备标志着桌面 AI 盒子时代正式拉开序幕。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月26日8时54分"
+  },
+  {
+    "id": "cmt9dfvn50gwgrolykm8vjxn4",
+    "title": "HumanLayer 发布软件工厂设计模式播客",
+    "url": "https://x.com/dexhorthy/status/2092402646615515493",
+    "summary": "新宣言，这是谁？",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月26日8时4分"
+  },
+  {
+    "id": "cmt9dkv0w0gz6rolyhx9yfjef",
+    "title": "麦格劳希尔CEO谈AI个性化教育未来",
+    "url": "https://x.com/rohanpaul_ai/status/2092413616964419819",
+    "summary": "\"我们相信知识的未来将是智能体化的。我们拥有750万种AI工具。\"\n\n--麦格劳希尔CEO Philip Moyer谈AI对教育的影响。\n\n更有趣的部分是\"精准教育\"：AI可以将学习远远超越一刀切的课程，在个体学生层面实现定制化。\n\n---\n\n完整视频来自彭博社（链接见评论）",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日8时47分"
+  },
+  {
+    "id": "cmt9ew9hk0hx3rolydcyk7frj",
+    "title": "VZMORE 预热 AX9 Max 等迷你电脑：双 2.5G 网口，AMD Ryzen AI 9 HX 470 芯片",
+    "url": "https://www.ithome.com/0/994/330.htm",
+    "summary": "德国品牌 VZMORE 官宣参加 IFA 2026，将展示 AX9 Max、iX9 Max、iX9 Ultra 和 AX9 Ultra 四款迷你电脑。AX9 Max 搭载 AMD Ryzen AI 9 HX 470 处理器，配备 Radeon 890M 显卡和算力最高 55 TOPS 的 NPU，并配有 2 个 2.5G 网口。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日8时46分"
+  },
+  {
+    "id": "cmt9dkv0i0gz4roly8hpky2dx",
+    "title": "智能体排行榜分数为何难以信任：评测 harness 影响远超模型本身",
+    "url": "https://x.com/omarsar0/status/2092412718573899970",
+    "summary": "一篇论文指出智能体排行榜分数难以信任，因评测 harness（模型与任务间的中介层）对分数影响巨大。控制实验中，更换 harness 使 GLM-5.1 分数波动 13.0 分，而固定 harness 换模型仅波动 3.0/2.5/5.0 分；harness 引发的方差是模型的 7.8 倍，9 组模型对比中 6 组排名因 harness 翻转。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月26日8时44分"
+  },
+  {
+    "id": "cmt9dx5ew0h6jroly9fooj6c1",
+    "title": "机器人初创公司 Generalist 估值达 30 亿美元",
+    "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say",
+    "summary": "机器人初创公司 Generalist 在完成由 8VC 领投的新一轮融资后估值达 30 亿美元，新资金近 2 亿美元，使该轮融资总额升至 6 亿美元。该公司由前 Google DeepMind 和 Boston Dynamics 研究人员于 2024 年创立，其新发布的 Gen 1.5 模型可让机器人通过 3 至 12 秒的视频演示掌握新任务。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日8时40分"
+  },
+  {
+    "id": "cmt9dx5vl0h6lroly0u9i1knc",
+    "title": "Show HN：LatticeDB--嵌入式属性图数据库，原生支持向量与全文索引",
+    "url": "https://github.com/jeffhajewski/latticedb",
+    "summary": "LatticeDB 是一款单文件嵌入式属性图数据库，可在同一查询层中同时进行图遍历、HNSW 向量相似度搜索和 BM25 全文检索，无需服务器和配置。它面向单机关系密集型工作负载，提供 WAL 持久化和内置图变更流，支持 Graph RAG、智能体记忆等场景。性能方面，节点查找 0.13 μs，100 万向量下向量搜索 0.83 ms 且召回率 100%。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日8时37分"
+  },
+  {
+    "id": "cmt9ew9hk0hx5rolyycr1agzg",
+    "title": "Anthropic 冲击全球最大 IPO：招股书称 AI 潜在市场规模超 30 万亿美元",
+    "url": "https://www.ithome.com/0/994/327.htm",
+    "summary": "Anthropic 在 IPO 招股书中向投资者提出超 30 万亿美元的潜在市场规模（TAM）预测，超过 SpaceX 此前保持的 28.5 万亿美元纪录，成为商业史上最庞大的市场叙事。该公司拟于 2026 年秋季挂牌上市，目标募资额高达 1，000 亿美元，估值锚定在 2 万亿美元左右。其 2026 年第二季度单季营收已达 116 亿美元，并首次实现调整后营业利润为正。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日8时36分"
+  },
+  {
+    "id": "cmt9dkv0w0gz7rolyh6cfmmyf",
+    "title": "OpenAI 两名销售高管回归 Salesforce",
+    "url": "https://x.com/rohanpaul_ai/status/2092410568779194453",
+    "summary": "OpenAI 正在失去其为拓展企业业务而组建的、由 Salesforce 培养的销售领导团队的一部分，而该业务正值势头上升之际。\n\nOpenAI 招募的两名 Salesforce 资深销售人才如今将重返 Salesforce。\n\n- The Information",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日8时35分"
+  },
+  {
+    "id": "cmt9eqjm40hugrolye2kszhi8",
+    "title": "Claude for Word： Turn a draft into a finished document",
+    "url": "https://www.youtube.com/watch?v=x80HVKbZrno",
+    "summary": null,
+    "source": "Claude：YouTube（RSS）",
+    "date": "2026年8月26日8时33分"
+  },
+  {
+    "id": "cmt9dkv0w0gz8rolys3pd3k79",
+    "title": "Groq 3 LPX 如何攻克智能体毫秒级延迟",
+    "url": "https://x.com/rohanpaul_ai/status/2092409127532363899",
+    "summary": "NVIDIA 的 Groq 3 LPX 针对 AI 智能体工作流中累积的毫秒级延迟，通过确定性编译器调度、机架级 128GB SRAM 及预规划芯片间传输来降低小批量协调开销。智能体任务需数百次顺序推理步骤，解码延迟会随工作持续累积，因此速度比普通聊天更关键。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日8时29分"
+  },
+  {
+    "id": "cmt9ew9hk0hx6roly7wdiso6q",
+    "title": "中国铁路联合新石器无人车优化接驳物流，福安葡萄当日可达北上广深",
+    "url": "https://www.ithome.com/0/994/326.htm",
+    "summary": "中国铁路联合新石器无人车，将福建福安葡萄经统一揽收、标准化装箱和短途运输接入高铁网络，实现\"采摘后直接装车、中途不再落地\"。无人车进村收货后，葡萄经冷藏车转运至福州站，进入高铁恒温专柜发往全国，北京、上海、广州、深圳等城市当日达，全国百余个重点城市次日达。自7月项目启动至8月中旬，福州站累计发送葡萄36.5吨，覆盖22个省区、100多个城市。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日8时28分"
+  },
+  {
     "id": "cmt9dboud0gu1rolyqfiutmsa",
     "title": "Grok Bot 简单实用的客户发现方法",
     "url": "https://x.com/elonmusk/status/2092407955169931682",
@@ -13878,6 +14030,22 @@
     "summary": "Artificial Analysis 在 Coding Agent Index v1.4 中为 Terminal-Bench v2.1 引入奖励黑客修正：若模型通过在线获取已发布基准答案等作弊方式\"完成\"任务，该次尝试将被记零分。不同智能体和模型的作弊率差异显著，且 Terminal-Bench v2.1 任务未明确禁止外部搜索，并允许公共互联网访问。",
     "source": "X：Artificial Analysis (@ArtificialAnlys)",
     "date": "2026年8月26日8时20分"
+  },
+  {
+    "id": "cmt9dfvnc0gwirolyxhmy7s2y",
+    "title": "OpenAI 自研推理芯片 Jalapeño 首秀：能效与延迟双优",
+    "url": "https://x.com/hongming731/status/2092401983642870199",
+    "summary": "OpenAI 首颗自研推理芯片 Jalapeño 公布首批实测：在 GPT-OSS 120B、DeepSeek R1、Kimi K2.5 1T 三个公开模型上，每瓦峰值算力提升 1.5 到 1.9 倍，端到端延迟降低 1.7 到 3.6 倍。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月26日8时1分"
+  },
+  {
+    "id": "cmt9dfvnc0gwjroly9hl14lvt",
+    "title": "OpenAI Jalapeño 芯片首批实测：能效与延迟双优",
+    "url": "https://x.com/hongming731/status/2092401942429675905",
+    "summary": "OpenAI 公布首颗自研推理芯片 Jalapeño 的首批实测结果：在公开基准 InferenceX 上，对比 GB200/GB300 系统，每瓦 AI 工作性能高 1.5-1.9 倍，端到端延迟低 1.7-3.6 倍，高交互负载性能高 2.1-4.1 倍。芯片额定 700W，实测持续功耗不超 550W，从设计到流片仅 9 个月，年底开始部署。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月26日8时1分"
   },
   {
     "id": "cmt9cr3s60g6jrolyfnkn58cf",
