@@ -14888,6 +14888,14 @@
     "date": "2026年8月26日2时0分"
   },
   {
+    "id": "cmta2h7s203a6rolwg512jkyc",
+    "title": "AMD 确认两款 Zen 6 处理器沿用 AM5 插槽：Olympic Ridge 与 Medusa1 亮相官网",
+    "url": "https://www.ithome.com/0/994/725.htm",
+    "summary": "AMD 官方文档确认两款 Zen 6 客户端处理器将沿用 AM5 插槽：面向台式机的 Olympic Ridge 与定位灵活的 Medusa1 APU。Olympic Ridge 可能首次在桌面端集成 NPU，并取消入门级核显；Medusa1 同时支持移动端 FP10 和桌面端 AM5。AMD 已将 AM5 支持周期延长至\"至少 2029 年\"。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日20时5分"
+  },
+  {
     "id": "cmt8xi7a802ubrolyrbm6mrc5",
     "title": "Anthropic IPO 或寻求 2 万亿美元估值",
     "url": "https://x.com/kimmonismus/status/2092297861350244456",
@@ -15000,12 +15008,60 @@
     "date": "2026年8月26日1时14分"
   },
   {
+    "id": "cmta1l77102qxrolw1tkf2npf",
+    "title": "中国 Moonshot AI 与微软、亚马逊、谷歌洽谈云托管协议",
+    "url": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google",
+    "summary": "中国 AI 初创公司 Moonshot AI 正与微软、亚马逊和谷歌洽谈收入分成协议，拟将其模型 Kimi K3 托管至 Azure、AWS 和 Google Cloud 平台，并向 K3 服务收取最高 30% 的收入分成。若达成，这将是首家与美国主要云厂商达成此类协议的中国 AI 公司。目前谈判尚处早期阶段，收入分成、数据访问及 token 使用追踪等问题仍未敲定。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月26日19时54分"
+  },
+  {
+    "id": "cmta2879y037grolwzoww6u9j",
+    "title": "Cerebras CEO 谈 AI 加速器供应链三大瓶颈",
+    "url": "https://x.com/rohanpaul_ai/status/2092580432621818221",
+    "summary": "Cerebras 联合创始人兼 CEO Andrew Feldman 指出 AI 加速器行业三大供应链瓶颈：HBM 内存、CoWoS 封装产能及台积电 3nm 制程。Cerebras 通过架构选择基本规避了全部三项--不依赖 HBM 和 CoWoS，当前芯片采用 5nm 制程而非 3nm。这使其供应链状况与主流 GPU 系统截然不同。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日19时50分"
+  },
+  {
+    "id": "cmta15n3e019trolwntpio4t8",
+    "title": "中国开源双响炮：Ox Alpha 与 Qwen3.8-Flash-Next 发布",
+    "url": "https://x.com/kimmonismus/status/2092577369085091906",
+    "summary": null,
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日19时38分"
+  },
+  {
+    "id": "cmta15n2r019prolwcvoxccd0",
+    "title": "阿里云与GCash合作：AI驱动普惠金融体验",
+    "url": "https://x.com/alibaba_cloud/status/2092575804697842136",
+    "summary": "阿里云与GCash在GCash iGnite 2026上对话，探讨AI如何为每位菲律宾用户打造超个性化、包容性的金融服务体验。双方合作近十年，从数字化转型迈向AI转型，阿里云云合作伙伴发展总经理Maria Tong与GCash基础设施转型负责人Aaron Lauer参与讨论。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日19时32分"
+  },
+  {
     "id": "cmta0c1m212hnroly91dxmysk",
     "title": "特斯拉中国再回应 FSD 上海数据中心\"撤离\"传闻：不实信息，已向公安机关报案",
     "url": "https://www.ithome.com/0/994/711.htm",
     "summary": "特斯拉中国今日回应网传上海数据中心人去楼空的消息，称\"不实消息，已向公安机关报案\"，数据中心正常运转，辅助驾驶招聘工作也在加速进行。特斯拉官网近期更新的 FSD 监督版全球可用地区清单包含 12 个国家或地区，中国不在其中。特斯拉仍在推进 FSD 监督版在中国市场的数据合规及本土化适配，上海数据中心已实现境内数据全留存，临港 AI 训练中心已于 2026 年 2 月投入运营。",
     "source": "IT之家（RSS）",
     "date": "2026年8月26日19时2分"
+  },
+  {
+    "id": "cmta15n3l019vrolw4htnf1n3",
+    "title": "The Information：DeepSeek 7个月营收7070万美元，API毛利率达82.9%",
+    "url": "https://x.com/rohanpaul_ai/status/2092574193980527003",
+    "summary": "DeepSeek 在 7 个月内实现 7070 万美元营收，API 毛利率达 82.9%，约为其 2025 年全年营收的 10 倍。高盈利能力源于 AI 基础设施优化降低了模型运行所需芯片数量及推理成本。V4-Pro 输出 token 峰值价格从 $0.87 涨至 $3.96（4.6 倍），但仍远低于 Kimi K3 的 $15 和 Claude Opus 5 的 $25。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日19时25分"
+  },
+  {
+    "id": "cmta15n36019rrolwp8r9llyh",
+    "title": "MiniMax M3 0.018 美元完成邮件全流程",
+    "url": "https://x.com/frxiaobei/status/2092573269740454175",
+    "summary": "MiniMax M3 以 0.018 美元端到端完成创建收件箱、撰写并发送商业邮件，是该榜单上最便宜的模型。作者指出，企业使用 Agent 的真正障碍已非 token 费用，而是邮件发错对象、附件错误、内容承诺不当等风险，其损失远超模型调用成本。衡量 Agent 价值需计入人工检查、返工与事故风险，而非仅对比模型与人工的单价。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月26日19时22分"
   },
   {
     "id": "cmta0iksl12n5rolya9ra1opg",
