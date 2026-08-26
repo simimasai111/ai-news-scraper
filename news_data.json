@@ -15008,6 +15008,46 @@
     "date": "2026年8月26日11时5分"
   },
   {
+    "id": "cmt9jvezf0mb6rolyyoa5bl7y",
+    "title": "AI 应用创业团队规模：百人产研是入场券",
+    "url": "https://x.com/lifesinger/status/2092455912082677986",
+    "summary": "玉伯称 AI 应用创业有客观规律：若目标不是 OPC 而是进入特定大市场前几名，产研团队最好 100 人以上，并适时构建 200 人以上 GTM 团队才有机会上桌。号称 20-30 人年营收数亿美刀的公司，极少数运气好，绝大多数是骗人的。创业不能赌运气。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月26日11时35分"
+  },
+  {
+    "id": "cmt9jvf090mbarolydwlvtp9r",
+    "title": "ZHO谈AI\"大垃圾时代\"：新人类不嫌恶心",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2092454973703688227",
+    "summary": "ZHO称，前AI时代成长者面对AI内容会有\"吃饭吃到苍蝇\"的恶心感，而从小接触AI的新人类则不会。他引用此前观点并修正：自2026年起，AI将带文化进入\"大垃圾时代\"，生产力提升与物质丰富后，先来的是大量垃圾的产生及处理问题。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月26日11时31分"
+  },
+  {
+    "id": "cmt9kcp310mlvrolys4jw5ph6",
+    "title": "Ringg 获 Peak XV 追加 1000 万美元投资，将语音 AI 拓展至电话之外",
+    "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call",
+    "summary": "印度语音 AI 初创 Ringg 获 Peak XV 1000 万美元 Series A 追加投资，该轮融资总额达 1550 万美元。公司目前每月处理 2000 万次通话，客户包括 Cred、Flipkart、Practo 等，其语音代理已覆盖 Practo 旗下 1200 家诊所。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日11时30分"
+  },
+  {
+    "id": "cmt9k0clz0me2rolytk30e1g3",
+    "title": "阿里云 Qwen：企业 AI 自建与采购的平衡之道",
+    "url": "https://x.com/alibaba_cloud/status/2092454315910746240",
+    "summary": "阿里云 Qwen 回应企业 AI 建设难题：答案并非二选一，而是\"采购平台快速启动 + 自建专属模型\"并行。Qwen 作为开源权重模型家族，提供统一控制平面，支持企业自行运行、微调和部署，兼顾灵活性与可控性。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日11时29分"
+  },
+  {
+    "id": "cmt9jer3u0lrfrolyed8id8fg",
+    "title": "Grok机器人接管办公室扮演《办公室》角色",
+    "url": "https://x.com/milichab/status/2092451453231333436",
+    "summary": "Grok @bot 在办公室值班\n\n【引用 @jon】：我的 Grokbot 团队负责运行软件构建，接管了 Dunder Mifflin 的空间，并扮演了《办公室》中的角色。",
+    "source": "X：Andrew Milich (@milichab)",
+    "date": "2026年8月26日11时17分"
+  },
+  {
     "id": "cmt9ixqv10lharolyg6m36rq2",
     "title": "阿里云 Wan 3.0 上线 ArtArch，支持 30 秒生成",
     "url": "https://x.com/alibaba_cloud/status/2092450541297389666",
@@ -15022,6 +15062,14 @@
     "summary": "奥尔特曼委托瑞士制表商 Vanguart 定制 7 只带 OpenAI 标识的腕表，基于 Orb 表款，刻有\"COMPUTE IS DESTINY\"等字样，常规版本起售价约 18 万美元。OpenAI 此前还定制过印有\"Good Research Takes Time\"的 Tudor 腕表。",
     "source": "IT之家（RSS）",
     "date": "2026年8月26日11时12分"
+  },
+  {
+    "id": "cmt9job9x0m4qrolyj3szbika",
+    "title": "Databricks 推出 Governance Hub：面向整个数据资产的智能账户级治理",
+    "url": "https://www.databricks.com/blog/introducing-governance-hub-intelligent-account-level-governance-over-your-databricks-estate",
+    "summary": "Databricks 发布 Governance Hub，提供智能、账户级的治理能力，覆盖整个 Databricks 资产。该功能旨在帮助 FinOps 负责人轻松下钻查看 Databricks 支出并识别成本驱动因素，从而提升治理效率与成本透明度。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月26日11时0分"
   },
   {
     "id": "cmt9htsk00kgwrolyhkzd3rev",
@@ -15054,6 +15102,14 @@
     "summary": "腾讯集团高级执行副总裁汤道生在内部刊物《知点》年刊发文，直面外界\"腾讯做 AI 慢了\"的评价，坦言算力不足拖累混元大模型迭代与产品落地，内部存在焦虑。他判断 AI 竞争是马拉松而非短跑，当前行业才刚起步，熬得久比起得早更重要，能否长期投入并抓住真实场景需求才是穿越周期的关键。文章由汤道生与 AI 协同完成，他强调行业不能只聚焦大模型本身，工程能力决定落地速度，场景是腾讯的核心优势。",
     "source": "IT之家（RSS）",
     "date": "2026年8月26日10时51分"
+  },
+  {
+    "id": "cmt9jvf090mbbrolynld10z7n",
+    "title": "ZHO谈AI时代创作者需融合艺术设计科学",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2092444118953889871",
+    "summary": "ZHO发文称，想成为跨越时代的革命性创造者，须同时精通艺术、设计、科学技术三大人类文明核心并融合统一。他认为AI能把精通时间、可能性与融合的创造性推向极致。其引用推文指出，落后的创作思维与范式会扼杀创造力，AI带来的革命性远超想象。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月26日10时48分"
   },
   {
     "id": "cmt9hv68x0khnrolyl2zv4l7r",
