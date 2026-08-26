@@ -15000,6 +15000,102 @@
     "date": "2026年8月26日1时14分"
   },
   {
+    "id": "cmt9vnu4x0ybvroly1q6n53dx",
+    "title": "NVIDIA Jetson Orin Nano 2 发布，将物理 AI 带入无人机与机器人",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots",
+    "summary": "NVIDIA 发布 Jetson Orin Nano 2，一款面向无人机、机器人和视觉系统的边缘机器人计算机。该开发板定位入门级，让开发者无需数据中心即可在设备上直接运行生成式 AI 模型。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年8月26日17时8分"
+  },
+  {
+    "id": "cmt9w1pgy0yirrolygyr70mho",
+    "title": "华为投标埃及政府 AI 数据中心项目：拟出口至少 1408 颗昇腾 950 芯片并提议 12 个月完成基建",
+    "url": "https://www.ithome.com/0/994/658.htm",
+    "summary": "华为已向埃及政府 AI 数据中心项目提交投标方案，拟出口至少 1408 颗昇腾 950 系列芯片用于 AI 训练，另配 600 颗芯片建设两套推理集群，并提议 12 个月完成当地基建。该项目若落地，将成为华为一年多来尝试出口昇腾加速器后首个已公开确认的出口案例。方案还涉及与科大讯飞合作，打包\"一屏尽览全城\"应用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日17时24分"
+  },
+  {
+    "id": "cmt9vspii0yfmrolynpjayce0",
+    "title": "Qwen3.8-Flash-Next 今日发布，6B 激活参数",
+    "url": "https://x.com/kimmonismus/status/2092541014183461369",
+    "summary": "通义千问（Qwen）即将发布 Qwen3.8-Flash-Next，作为 Qwen4 架构的预览版，今日正式开放。据已下架的 ModelScope 页面显示，该模型采用多模态 MoE 架构，总参数约 176B（125B 主参数 + 51B N-gram 嵌入），但每 token 仅激活 6B 参数。最终 benchmark 表现值得关注。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日17时13分"
+  },
+  {
+    "id": "cmt9w09980yi2rolybyxy174p",
+    "title": "马云增持阿里股票，AI投入与利润权衡",
+    "url": "https://x.com/thexpin/status/2092537540779655509",
+    "summary": "阿里巴巴联合创始人马云购入逾 6 亿港元（7650 万美元）股份，加入此前已至少买入 2500 万美元股票的公司董事长与首席执行官之列。周三，在 800 亿港元股票出售加剧市场对其 AI 投入将挤压利润的担忧后，此番买入推动阿里巴巴股价一度上涨 3.2%。阿里巴巴计划三年内投入逾 3800 亿元人民币（565 亿美元）用于 AI。尽管利润率收窄，本季度 AI 收入预计将达到约 100 亿美元的年化水平，高于此前的约 73 亿美元。这是一场权衡：AI 规模与短期回报。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月26日17时0分"
+  },
+  {
+    "id": "cmt9v96hy0y1orolynswi15a0",
+    "title": "Paul Dix：AI 写出 100 万行代码并持续优化，最终产出可靠软件",
+    "url": "https://simonwillison.net/2026/Aug/26/paul-dix",
+    "summary": "Paul Dix 在\"编程的终结\"主题下表示，AI 写出 100 万行代码（1M LOC）并在随后数月内持续优化，最终产出可靠软件，目前运行在数百万开发者机器上。他认为，即便有对照参考（oracle）降低了迁移难度，这一成果仍令人震撼；若能构建验证系统并给予正确方向，AI 可产出高度复杂的软件并持续打磨至可用。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月26日16时7分"
+  },
+  {
+    "id": "cmt9ul6wt0xfwrolymv47mp4j",
+    "title": "AI 味内容泛滥引\"老登\"式反感",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2092523892032377108",
+    "summary": "ZHO 发推吐槽 AI 味内容泛滥，称其像\"吃饭吃到苍蝇\"般令人不适，并配图讽刺\"中式审美/审美降级\"的具象化。他自认成长于前 AI 时代，虽从事 AI 仍难避免这种恶心感，而从小接触 AI 的\"新人类\"或不觉反感，届时此类言论恐被归为\"老登言论\"。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月26日16时5分"
+  },
+  {
+    "id": "cmt9w1pgy0yj0rolydfeopc1c",
+    "title": "苹果 Mac mini M6 国补加教育优惠 5269 元起，较 M4 老款上浮近千元",
+    "url": "https://www.ithome.com/0/994/642.htm",
+    "summary": "苹果 Mac mini M6 国补加教育优惠后 5269 元起，较 M4 老款现售价上浮近千元；M5 Pro 版国补后 11499 元起。搭载 M6 芯片后，Mac mini 的 AI 性能至高提升 4 倍，存储与图形处理速度提升 2 倍，CPU 性能提升 40%。新款 Mac mini 自 8 月 27 日上午 9：00 起预购，9 月 22 日正式发售。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日16时58分"
+  },
+  {
+    "id": "cmt9w098y0yi0rolywsi1lnnl",
+    "title": "百度AI Day：文心助手升级，搜索交互化",
+    "url": "https://x.com/Baidu_Inc/status/2092536874858696715",
+    "summary": "百度AI Day公布百度App新进展：文心助手（ERNIE Assistant）可端到端处理复杂任务，6月日活同比增长83%，升级后覆盖30多个行业、400多项专业技能。百度搜索将复杂问题转化为可交互页面，整合知识卡片、分步图示和可操作动画，帮助学生可视化复杂概念，两者已在百度App上线。",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月26日16时57分"
+  },
+  {
+    "id": "cmt9w1pgz0yj5roly7ktcgj54",
+    "title": "知乎 2026 财年第二财季归母亏损 3742.2 万元，同比由盈转亏",
+    "url": "https://www.ithome.com/0/994/633.htm",
+    "summary": "知乎 2026 财年第二财季总营收 6.9 亿元，同比下降 3.73%，环比增长 5.92%；归母净利润为 -3742.2 万元，同比由盈转亏，环比亏损扩大 340.05%。毛利率 57%，同比下降 5.5 个百分点。付费内容及 IP 营运收入同比增长至 4.26 亿元，平均月订阅会员达 13.1 百万人。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日16时48分"
+  },
+  {
+    "id": "cmt9uq5hi0xikrolyuzmubnx9",
+    "title": "SWE Refactor Bench：编码智能体全仓重构存活率仅5.4%",
+    "url": "https://x.com/kimmonismus/status/2092531505952166165",
+    "summary": "Einsia 发布 SWE Refactor Bench，测试编码智能体完成 C→Rust、Maven→Gradle 等全仓库系统迁移的能力。520 次运行中仅 28 次通过全部三阶段评估，存活率 5.4%，13/20 任务无人解决。测试覆盖 SQLite、zlib 等 20 个真实项目，表明系统级重构仍是开放难题。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日16时36分"
+  },
+  {
+    "id": "cmt9w1pgz0yjbrolypm18ruo8",
+    "title": "研究发现婴儿语言学习能力远胜 AI 聊天机器人，学习效率也大幅领先",
+    "url": "https://www.ithome.com/0/994/612.htm",
+    "summary": "婴儿学习语言的能力和效率远胜今天的 AI 聊天机器人。斯坦福大学认知科学家迈克尔·C·弗兰克指出，幼儿接触约 1000 万至 3000 万个词后就能说出清晰句子，而用同样数据量训练 GPT-2 只会得到胡言乱语生成器。这种效率差距已成为 AI 行业难题，许多专家认为单纯扩大模型规模无法实现人类水平 AI。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日16时29分"
+  },
+  {
+    "id": "cmt9w1pgz0yjcrolyg19j2cq7",
+    "title": "小鹏 G9L 首发搭载第二代 VLA 全新版本，X-Foresight 世界预测模型可推演未来 6 秒环境运动轨迹",
+    "url": "https://www.ithome.com/0/994/610.htm",
+    "summary": "小鹏汽车副总裁宣布，小鹏 G9L 将首发搭载第二代 VLA 全新版本，具备 30 秒有效时序，首次将记忆加入智驾决策，并通过 X-Foresight 世界预测模型推演未来 6 秒环境运动轨迹。该版本端到端响应速度提升 300%，端侧模型参数量提高 3.5 倍，为行业主流 VLA 模型的 15 倍。小鹏 G9L 已开启预售，预售价 25.98 万元起。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日16时28分"
+  },
+  {
     "id": "cmt9tnjwj0wixroly70nfo0cz",
     "title": "ChatGPT iOS 新增免密登录与 2FA 支持",
     "url": "https://x.com/testingcatalog/status/2092526276560970161",
