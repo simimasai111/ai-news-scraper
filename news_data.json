@@ -14888,6 +14888,126 @@
     "date": "2026年8月26日2时0分"
   },
   {
+    "id": "cmta6v56y03ygroj2yykgkzag",
+    "title": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
+    "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+    "summary": "通义千问发布 Qwen3.8-Flash-Next，采用新架构以追求极致的成本效益。该模型在保持性能的同时，显著降低了推理成本，旨在为大规模应用提供更经济的 AI 解决方案。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日22时5分"
+  },
+  {
+    "id": "cmta6v56y03yiroj2ki26viqh",
+    "title": "以色列资助的假美国智库试图利用AI进行宣传",
+    "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+    "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日22时5分"
+  },
+  {
+    "id": "cmta6v56y03yjroj24d9s3fed",
+    "title": "美国政府拟取消数据中心空气污染许可的公众评议环节",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+    "summary": "美国环保署（EPA）计划取消要求各州在空气污染许可申请上征求公众反馈的规定，该变更将适用于包括数据中心在内的\"minor source\"污染源。哈佛公共卫生学院估计，弗吉尼亚州劳登县Vantage数据中心每年造成5300万至9900万美元的健康损害，为单一设施最高纪录。14个州和3个城市的检察长联名反对，认为此举将\"边缘化基本的透明度和民主保障\"。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日22时5分"
+  },
+  {
+    "id": "cmta6v56y03ykroj260iknxa0",
+    "title": "Z.ai 证实 Ox Alpha 是 GLM 系列新模型，将发布其权重",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "summary": "Z.ai 证实 Ox Alpha 是 GLM 系列的新模型，并宣布将发布其权重。该消息在 Hacker News 上引发关注，获得 267 个 HN Points。目前尚未披露具体参数量、benchmark 分数或发布时间等更多细节。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日22时5分"
+  },
+  {
+    "id": "cmta6v56y03ynroj2xmtn2gbc",
+    "title": "RAG 比你想象的更简单",
+    "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+    "summary": "多数团队把 RAG 架构复杂化了，直接上嵌入、向量数据库和重排序，而用户往往只想找到\"如何重置密码\"这类文档。文章给出决策因素与分层方案：从纯全文检索（BM25）起步，再引入智能体查询改写（约 $0.001/次，用 GPT-4o-mini），仅在数据证明需要时才升级。对专有术语（如内部框架\"Atlas\"），精确关键词匹配优于语义理解。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日22时5分"
+  },
+  {
+    "id": "cmta6v56y03ytroj25ggn7rlo",
+    "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+    "summary": "安全研究员David Buchanan指出，C2PA相机认证在Android平台上可被攻破。通过root权限提升漏洞（如CVE-2026-43499），攻击者可利用StrongBox硬件签名任意数据，伪造C2PA签名图像和视频，且无需硬件攻击。该问题无法通过常规补丁修复，已提前90天向相关方报告。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日22时5分"
+  },
+  {
+    "id": "cmta6q2ah03v9roj210hce39t",
+    "title": "Google Labs 推出多人协作编程工具 Play with Putty",
+    "url": "https://x.com/joshwoodward/status/2092614266818064389",
+    "summary": "正在试验多人 AI 玩法\n\n【引用 @GoogleLabs】：🚨 全新 LABS 实验 🚨\n\n英雄所见略同？不如一起玩！\n\nPlay with Putty 是一款协作式 vibe coding 工具，可让你实时共同构建工具和网站。🫟\n\n准备好让你的想象力进入多人模式了吗？前往 http://labs.google/playwithputty 加入候补名单，并分享你的反馈！\n\n仅限美国，18 岁以上",
+    "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+    "date": "2026年8月26日22时4分"
+  },
+  {
+    "id": "cmta6iiw303s1roj22145yb00",
+    "title": "Apodex 1.1 将执行环境作为智能体扩展新维度",
+    "url": "https://x.com/rohanpaul_ai/status/2092614059548135815",
+    "summary": "Apodex 1.1 将任务状态置于模型消息历史之外，把可执行环境本身作为扩展面，而非仅给智能体增加工具。该模型在 GDPVal、FrontierFinance 和 FrontierScience-Research 上分别提升 9.3、5.6 和 8.3 分。其训练环境包含真实文件、搜索和代码世界，具备状态转换、工具预算、失败条件和任务级验证器，使训练分布包含完整工作轨迹而非仅提示词与答案配对。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日22时4分"
+  },
+  {
+    "id": "cmta6y4p6044nroj24jztgadq",
+    "title": "编排成为AI智能体时代客户体验的新挑战",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "summary": "Tata Communications客户交互套件全球负责人Gaurav Anand指出，企业正将对话式AI快速部署到遗留系统上，但缺乏真正集成、可扩展且能无缝编排的平台。",
+    "source": "VentureBeat：AI（RSS）",
+    "date": "2026年8月26日22时30分"
+  },
+  {
+    "id": "cmta6rj5j03vxroj263nwkuxk",
+    "title": "智谱开源 GLM-5.3-Flash 原生多模态模型，限时折扣价为 GLM-5.3 的 1/20",
+    "url": "https://www.ithome.com/0/994/765.htm",
+    "summary": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，总参数量 320B、激活参数仅 18B。该模型在 AA 综合智能指数取得 57 分，与 Claude Opus 4.8 持平，编程表现亦相当；定价为 GLM-5.3 的 1/10，限时折扣为 1/20，为 Opus 4.8 的 1/40。模型已接入 ZCode 等平台，并开放 API 调用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日22时21分"
+  },
+  {
+    "id": "cmta6y5dt044rroj2jv5k3hyj",
+    "title": "智能体编程要取代初级工程师，需要满足哪些条件？",
+    "url": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers",
+    "summary": "作者提出智能体编程取代初级工程师需满足四个条件，其中三个目前未达成。METR 数据显示，前沿模型在人类 4 小时内完成的任务上成功率不足 10%；OpenAI 因数据污染和测试用例缺陷，于 2026 年 2 月停止报告 SWE-bench Verified。METR 随机对照试验中，开发者自估提速 20%，实际却慢 19%。唯一已满足的条件是企业愿为效率牺牲初级人才梯队。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月26日22时20分"
+  },
+  {
+    "id": "cmta6v4q603ydroj2j51oilpu",
+    "title": "Z.ai 证实 Ox Alpha 是其 GLM 系列新模型，将于周三开源权重",
+    "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model",
+    "summary": "谜底揭晓：Ox Alpha 由智谱（Z.ai）打造，是其 GLM 系列最新迭代，此前匿名上线 OpenRouter 后已在多项基准测试中登顶。Z.ai 确认将于周三发布 Ox Alpha 权重，供开发者在其基础上构建。该模型被描述为面向编程、持续智能体工作与生产负载的推理模型，其发布加剧了中国高性价比模型对 OpenAI、Anthropic 等高价前沿模型的竞争威胁。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日22时19分"
+  },
+  {
+    "id": "cmta6rj5k03vzroj21eb03xaf",
+    "title": "科学家以 AI 解码 60 亿 DNA 碱基\"起始子\"序列，约 60% 人类基因含该序列",
+    "url": "https://www.ithome.com/0/994/761.htm",
+    "summary": "美国加州大学圣迭戈分校研究人员利用高通量 DNA 测序和机器学习技术，解析人类基因中\"起始子\"（Inr）的 DNA 序列特征。团队分析约 50 万个不同版本\"起始子\"序列后训练 AI 模型，发现约 60% 的人类基因含有这一序列，并首次实现对\"起始子\"的较强预测。研究还识别出一种与 TATA 序列相关的新型\"起始子\"，未来可用于分析相关 DNA 突变影响及设计合成启动子。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日22时12分"
+  },
+  {
+    "id": "cmta6iivw03rzroj2ncqu34d4",
+    "title": "GLM-5.3 Flash 将发布，性能超 Opus 4.8",
+    "url": "https://x.com/kimmonismus/status/2092615772937855474",
+    "summary": "即将推出的 Ox Alpha 就是 GLM-5.3 Flash（如预期）：总参数 320b，激活参数 18b。\n\n以 1/10 的价格超越 GLM-5.2，在编程和智能体基准测试上接近 Opus 4.8。\n\n大动作即将到来！",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日22时10分"
+  },
+  {
+    "id": "cmta64spi03isroj2apple3bb",
+    "title": "PACE-Bench：动态物理环境下智能体代码自适应评测",
+    "url": "https://x.com/OpenBMB/status/2092613042387276023",
+    "summary": "清华NLP团队推出PACE-Bench，评测智能体在物理参数突变后修改代码重新适应的能力，含36个基础任务和144组源→目标环境对。最佳成绩为Reflexion+Qwen3-14B的35.9% Pass@2，GPT-5.5达66.7%但仍失败三分之一。基准显示，基于最新模拟结果的反馈比单纯\"多思考\"更有效，且更多信息并不能消除重新设计的瓶颈。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月26日22时0分"
+  },
+  {
     "id": "cmta4sylh023xroj2fjlz76ea",
     "title": "Meta 因员工抵制与智能体表现不佳叫停 AI 裁员计划",
     "url": "https://the-decoder.com/employee-revolt-and-failing-agents-forced-meta-to-scrap-its-ai-layoff-plan",
@@ -14902,6 +15022,110 @@
     "summary": "Qwen3.8-Flash-Next 正式发布，这是一款高度稀疏的 MoE 模型，总参数 125B 外加 51B N-gram 嵌入，但每个 token 仅激活 6B 参数。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年8月26日21时6分"
+  },
+  {
+    "id": "cmta6iivo03rxroj2leggryci",
+    "title": "首个交互式AI智能体教程发布",
+    "url": "https://x.com/omarsar0/status/2092612567906799636",
+    "summary": "很高兴推出我们的首个交互式AI智能体教程。\n\n学习构建高效的智能体技能。\n\n首先学习理论，然后在我们的新智能体游乐场中使用Pi构建技能。\n\n接下来我应该覆盖哪个主题？",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月26日21时58分"
+  },
+  {
+    "id": "cmta5r0om0317roj2n0z971vb",
+    "title": "Qwen 开源 Qwen3.8-Flash-Next，SGLang 提供 Day-0 支持",
+    "url": "https://www.lmsys.org/blog/2026-08-26-qwen-flash-next",
+    "summary": "Qwen 团队开源多模态 MoE 模型 Qwen3.8-Flash-Next，作为 Qwen4 架构的早期预览版。该模型采用 125B 参数主模型加 51B N-gram Embedding，每 token 激活 6B 参数，共 48 层，MoE 层使用 512 个专家和 top-10 路由。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "date": "2026年8月26日21时56分"
+  },
+  {
+    "id": "cmta5nhcn02z6roj2k1q10dsw",
+    "title": "宇树机器人股价暴跌45%，估值泡沫引质疑",
+    "url": "https://x.com/thexpin/status/2092611438368215175",
+    "summary": "宇树机器人上市首日股价飙升629.4%，市值一度达618亿美元，但一周内蒸发近半，目前较IPO高点下跌45%。公司虽有真实产品、工厂和利润，但投资者预期已远超技术现实。其股价已成为中国人形机器人行业的定价锚，STAR市场流动性稀缺与无涨跌幅限制加剧了投机波动。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月26日21时53分"
+  },
+  {
+    "id": "cmta6iiwb03s3roj24mcu6k3t",
+    "title": "阿里发布 Qwen3.8 Flash 多模态 MoE 模型",
+    "url": "https://x.com/testingcatalog/status/2092610833066983794",
+    "summary": "阿里巴巴发布 Qwen3.8 Flash，一款 125B 参数的多模态 MoE 模型，原生支持 262K 上下文，可通过 YaRN 扩展至 1M。API 定价为每百万输入 token $0.16、输出 token $0.47。该模型基于新架构构建，是 Qwen4 架构的前身，在 DeepSWE 1.1 和 SWE-bench Pro 上分别得分 58.7 和 62.5。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月26日21时51分"
+  },
+  {
+    "id": "cmta6iiv303rtroj2fl3fdyyu",
+    "title": "阿里云 Wan3.0 登顶六大动画评测",
+    "url": "https://x.com/alibaba_cloud/status/2092610663923568726",
+    "summary": "阿里云 Wan3.0 在六大动画类别评测中均排名第一，同时在写实视频生成方面表现优异。KoyalAI CEO Mehul Agarwal 从专业电影制作视角对其进行了测试，Wan3.0 现已上线 KoyalAI 平台，并提供 Model Studio 和 Qwen Cloud 的 API 访问。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日21时50分"
+  },
+  {
+    "id": "cmta64spb03iqroj230cg9p81",
+    "title": "Qwen3.8-Flash-Next 发布，SGLang 首日支持",
+    "url": "https://x.com/Alibaba_Qwen/status/2092610229578125817",
+    "summary": "通义千问发布 Qwen3.8-Flash-Next，SGLang 即日支持部署。该模型为 125B 主模型，含 51B N-gram 嵌入，每 token 激活 6B 参数。N-gram 嵌入几乎不增加计算成本即可扩展容量，并可通过异步预取驻留内存；GDN+QSA 混合注意力兼顾长任务效率与检索精度。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月26日21时48分"
+  },
+  {
+    "id": "cmta6rj5k03w1roj2qff10lss",
+    "title": "MiniMax：M3 Pro 参数规模预计提升至约 3T，大规模国产算力集群将很快上线",
+    "url": "https://www.ithome.com/0/994/759.htm",
+    "summary": "MiniMax 在中期业绩电话会上透露，M3 Pro 参数规模预计提升至约 3T，并将扩大强化学习和长程任务训练以提高泛化能力与智能上限。公司正推进 M3 和 H3 的国产芯片适配，大规模国产算力集群将很快上线并逐步承担真实生产流量。2026 财年上半年营业总收入 1.17 亿美元，同比增长 283.1%，亏损收窄 11%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日21时46分"
+  },
+  {
+    "id": "cmta6rj5k03w2roj2vjqyurwt",
+    "title": "宇树\"弟子\"击败\"师傅\"，世界人形机器人运动会自由搏击首金产生",
+    "url": "https://www.ithome.com/0/994/758.htm",
+    "summary": "第二届世界人形机器人运动会自由搏击赛项产生首金，40公斤级决赛中，华北电力大学赛队遥控操作宇树科技G1机器人，凭更优算法战胜宇树科技自家赛队夺冠。比赛使用相同机器人本体，比拼各队算法二次开发水平。该项目今年由表演赛升级为正式竞技项目，设40、58、80公斤级等多个组别，每场三回合、每回合2分钟。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日21时46分"
+  },
+  {
+    "id": "cmta5fxwh02toroj27e729d4e",
+    "title": "Glean 发布 50+ 新功能，以企业上下文驱动 AI 任务执行",
+    "url": "https://x.com/omarsar0/status/2092608182069698580",
+    "summary": "Glean 在 Glean：GO 大会发布 50+ 新功能，核心是将企业知识与模型、智能体结合，为每项任务匹配正确的信息和执行路径。其基准测试显示，相比 Claude Cowork，Glean 将 token 成本降低 81%，且 78% 的情况下更受青睐。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月26日21时40分"
+  },
+  {
+    "id": "cmta5fxwx02tsroj2n9osum7y",
+    "title": "OxAlpha新模型挑战DeepSeek",
+    "url": "https://x.com/rohanpaul_ai/status/2092606096586473907",
+    "summary": "OxAlpha 是来自中国 Z.ai 的 GLM 新迭代版本。 它将改变你快速运行长时智能体的方式。 --- bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek 来源：X：Rohan Paul （@rohanpaul_ai）",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日21时32分"
+  },
+  {
+    "id": "cmta5sjwl031zroj2zpmxosx6",
+    "title": "机器人\"大脑\"初创公司正走出自己的 GPT-2 时代",
+    "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era",
+    "summary": "物理 AI 领域正经历投资热潮与数据危机并存的阶段，开发者试图借鉴前沿 AI 实验室经验，通过更多数据、算力与强化学习场景推动模型进步。Antioch 创始人认为该领域仍处于\"GPT-2 时代\"，而自动驾驶公司正凭借数据优势切入人形机器人赛道。业内对垂直聚焦与通用路线存在分歧，但普遍认为高质量训练数据是当前最大瓶颈。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日21时30分"
+  },
+  {
+    "id": "cmta6rj5k03w6roj274coe4yx",
+    "title": "8.64 秒！天工 Ultra 再破人类百米世界纪录",
+    "url": "https://www.ithome.com/0/994/751.htm",
+    "summary": "北京人形机器人创新中心的天工 Ultra 在第二届世界人形机器人运动会 100 米（大型组）比赛中以 8.64 秒夺冠，再度超越人类世界纪录并包揽金银牌。该成绩比博尔特的 9.58 秒人类纪录快 0.94 秒，也是其继开幕式 9.39 秒、复赛 8.86 秒后第三次刷新纪录。团队通过升级关节电机、构型、散热及小脑控制能力实现提速。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日21时25分"
+  },
+  {
+    "id": "cmta5fxwp02tqroj2kiwe5dsq",
+    "title": "Perplexity 本地优先智能体：本地掌权云端参谋",
+    "url": "https://x.com/frxiaobei/status/2092603216949318081",
+    "summary": "Perplexity 推出 Portable Computer，一台运行 27B 模型的本地设备，能读文件、调工具、执行长期任务。针对小模型跑 Agent 易失忆的问题，它改写整套工作方式：说明写短、按需加载能力，文件与工具调度留在本机，需云端模型时先征询用户再发送必要内容。设计思路是本地模型负责执行与保管权限，云端模型仅作参谋。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月26日21时21分"
   },
   {
     "id": "cmta3zmfb01naroj20ykapsif",
