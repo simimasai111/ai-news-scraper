@@ -15000,6 +15000,38 @@
     "date": "2026年8月26日1时14分"
   },
   {
+    "id": "cmta0c1m212hnroly91dxmysk",
+    "title": "特斯拉中国再回应 FSD 上海数据中心\"撤离\"传闻：不实信息，已向公安机关报案",
+    "url": "https://www.ithome.com/0/994/711.htm",
+    "summary": "特斯拉中国今日回应网传上海数据中心人去楼空的消息，称\"不实消息，已向公安机关报案\"，数据中心正常运转，辅助驾驶招聘工作也在加速进行。特斯拉官网近期更新的 FSD 监督版全球可用地区清单包含 12 个国家或地区，中国不在其中。特斯拉仍在推进 FSD 监督版在中国市场的数据合规及本土化适配，上海数据中心已实现境内数据全留存，临港 AI 训练中心已于 2026 年 2 月投入运营。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日19时2分"
+  },
+  {
+    "id": "cmta0iksl12n5rolya9ra1opg",
+    "title": "IBM 新 Granite 4.2 模型乘上本地 LLM 热潮",
+    "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms",
+    "summary": "IBM 推出开源权重 Granite 4.2 模型，提供 3B、8B 和 30B 三种参数版本，原生支持 128，000-token 上下文窗口。8B 和 30B 版本经过智能体强化学习训练，支持使用终端、搜索网页或调用外部工具。IBM 称其为 Granite 系列中专注于推理的版本，旨在满足开发者对本地部署模型日益增长的兴趣。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月26日19时10分"
+  },
+  {
+    "id": "cmta0c1m212horolypgizi46j",
+    "title": "面壁智能：MiniCPM 系列开源模型全球累计下载量突破 5000 万次",
+    "url": "https://www.ithome.com/0/994/708.htm",
+    "summary": "面壁智能今日宣布，MiniCPM 系列开源模型全球累计下载量突破 5000 万次。今年 7 月，该系列端侧大模型深度赋能三星 Galaxy Z Fold8 等旗舰机型，系国产端侧大模型首次进入国际头部手机厂商全球旗舰产品线。同期发布的端侧模型 MiniCPM5-2B 在 Artificial Analysis 榜单中以 17 分位居全球 4B 以下模型榜首。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日18时55分"
+  },
+  {
+    "id": "cmt9zg24y11vmrolyw1dm1gg4",
+    "title": "比尔·盖茨警告AI比科技行业愿意承认的更危险",
+    "url": "https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit",
+    "summary": "比尔·盖茨在近6000字长文和《纽约时报》采访中警告，AI将导致永久性失业、生物武器门槛降低及成瘾性聊天机器人带来的心理伤害，并指责科技行业因利益刻意淡化这些风险。他拒绝行业自我监管，提议对AI使用和机器人征税、建立类似核武监管的国际机构，并保留护理等\"人类专属\"岗位。盖茨称Anthropic的Claude Code让他震惊，因为\"这些东西在某种意义上已经比我强了\"。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月26日18时50分"
+  },
+  {
     "id": "cmt9z0gu111eyrolyn5fripvd",
     "title": "TrueFoundry 集成通义千问，智能体成本降五成",
     "url": "https://x.com/alibaba_cloud/status/2092563338173771967",
@@ -15008,11 +15040,27 @@
     "date": "2026年8月26日18时42分"
   },
   {
+    "id": "cmt9zg24y11vnroly0sa2iry3",
+    "title": "IBM 发布开源 Granite 4.2 系列，内置智能体能力并采用 Apache 2.0 许可",
+    "url": "https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0",
+    "summary": "IBM 发布 Granite 4.2 语言模型，提供 3B、8B 和 30B 三种尺寸，基于约 15 万亿 token 从头训练，支持最高 512，000 token 的上下文窗口，并可在\"思考\"与\"非思考\"模式间切换以控制每项任务的计算量。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月26日18时37分"
+  },
+  {
     "id": "cmt9z0guu11f4rolyn08nrt0n",
     "title": "Its official now： Ox Alpha is GLM（-5.3 Flash） by zAI. Offical release tonight via zAI Via Bloomberg…",
     "url": "https://x.com/kimmonismus/status/2092561180128608672",
     "summary": null,
     "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日18时33分"
+  },
+  {
+    "id": "cmt9zfhyb11uaroly7ec9iljc",
+    "title": "WorkBuddy 接入 Canva，一句话搞定设计",
+    "url": "https://x.com/WorkBuddy_AI/status/2092561177918501059",
+    "summary": "WorkBuddy 现已连接 @canva。\n\n需要做演示文稿？调整帖子尺寸？从品牌素材库调取内容？直接说就行。\n\n将 Canva 连接到 WorkBuddy，就能从\"你能做这个吗？\"直接到\"完成\"--无需在多个标签页之间来回切换。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
     "date": "2026年8月26日18时33分"
   },
   {
