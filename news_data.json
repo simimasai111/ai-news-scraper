@@ -14888,12 +14888,156 @@
     "date": "2026年8月26日2时0分"
   },
   {
+    "id": "cmta4sylh023xroj2fjlz76ea",
+    "title": "Meta 因员工抵制与智能体表现不佳叫停 AI 裁员计划",
+    "url": "https://the-decoder.com/employee-revolt-and-failing-agents-forced-meta-to-scrap-its-ai-layoff-plan",
+    "summary": "路透社披露，Meta 曾计划以代号\"Project OT\"用 AI 替代更多岗位，将部分团队规模缩减至多 60%，由少数\"人才密集\"小组监督虚拟 AI 员工。5 月 19 日晚，CEO 马克·扎克伯格在首轮裁员前叫停原定 11 月的第二轮裁员。智能体未达预期生产力、投资者批评巨额 AI 预算及员工公开抵制促使计划逆转，内部士气评分从 74% 降至 55%。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月26日21时9分"
+  },
+  {
+    "id": "cmta4ddue01vjroj2c3mjzx3g",
+    "title": "Qwen3.8-Flash-Next：6B激活参数击败Claude Opus 4.6 Max",
+    "url": "https://x.com/kimmonismus/status/2092599469120327906",
+    "summary": "Qwen3.8-Flash-Next 正式发布，这是一款高度稀疏的 MoE 模型，总参数 125B 外加 51B N-gram 嵌入，但每个 token 仅激活 6B 参数。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日21时6分"
+  },
+  {
+    "id": "cmta3zmfb01naroj20ykapsif",
+    "title": "开发者用 MiniCPM4.1-8B 构建 ToneBridge 学中文应用",
+    "url": "https://x.com/OpenBMB/status/2092598233726087674",
+    "summary": "开发者 @jingzi_zhao_x 基于 MiniCPM4.1-8B 构建了 ToneBridge，一款面向中文学习者的 AI 助手，提供上下文感知的句子纠错与个性化学习。该应用聚焦自然表达、语气和社交语境，支持拼音、英文解释及音频播放，展示了小语言模型在教育领域的应用潜力。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月26日21时1分"
+  },
+  {
+    "id": "cmta529qy02gqroj255pywjps",
+    "title": "Qwen3.8-Flash-Next 获 vLLM 首发支持",
+    "url": "https://x.com/Alibaba_Qwen/status/2092602306986750256",
+    "summary": "通义千问 Qwen3.8-Flash-Next 获 vLLM 首发（day-0）支持，已在 NVIDIA 和 AMD GPU 上验证。该超稀疏多模态 MoE 模型拥有 125B 总参数、6B 激活参数、262K 原生上下文（经 YaRN 可扩展至 1M），并附带可卸载的 51B N-gram 表。模型现可通过 `vllm/vllm-openai：qwen38-flash-next` 镜像运行。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月26日21时17分"
+  },
+  {
+    "id": "cmta529rd02guroj2dozun192",
+    "title": "Recraft V4 Styles 上线 OpenRouter",
+    "url": "https://x.com/OpenRouter/status/2092601960130289684",
+    "summary": "Recraft V4 Styles 已在 OpenRouter 上线。\n\n精确模式遵循纹理、构图、色彩和渲染，而不仅仅是整体外观。可使用来自其他生成器、品牌素材或现有资产的 1-10 个参考。\n\n来自 @recraftai 的 Styles、Vector、Pro 和 Pro Vector 如下 ↓ https://openrouter.ai/recraft",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月26日21时16分"
+  },
+  {
+    "id": "cmta529qy02grroj2rnxg5e68",
+    "title": "Qwen3.8-Flash-Next 获 SGLang 首发支持",
+    "url": "https://x.com/Alibaba_Qwen/status/2092600751835254872",
+    "summary": "非常感谢 @sgl_project 的首日支持！🙌 Qwen3.8-Flash-Next 今日即可通过 SGLang 部署。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月26日21时11分"
+  },
+  {
+    "id": "cmta4py8k020qroj2vv9tdamw",
+    "title": "QueryStory 想让企业相信 AI 给出的答案",
+    "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you",
+    "summary": "由前 Google 工程师 Shapor Naghibzadeh 联合创立的 QueryStory 今日走出隐身模式，旨在用 LLM 将企业复杂数据库的分析过程整合为有据可依的叙事，弥合企业对 AI 答案的信任鸿沟。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日21时0分"
+  },
+  {
     "id": "cmta2h7s203a6rolwg512jkyc",
     "title": "AMD 确认两款 Zen 6 处理器沿用 AM5 插槽：Olympic Ridge 与 Medusa1 亮相官网",
     "url": "https://www.ithome.com/0/994/725.htm",
     "summary": "AMD 官方文档确认两款 Zen 6 客户端处理器将沿用 AM5 插槽：面向台式机的 Olympic Ridge 与定位灵活的 Medusa1 APU。Olympic Ridge 可能首次在桌面端集成 NPU，并取消入门级核显；Medusa1 同时支持移动端 FP10 和桌面端 AM5。AMD 已将 AM5 支持周期延长至\"至少 2029 年\"。",
     "source": "IT之家（RSS）",
     "date": "2026年8月26日20时5分"
+  },
+  {
+    "id": "cmta3ncba016xroj2vbj3j91g",
+    "title": "Arga 为企业 AI 智能体构建更优训练环境",
+    "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents",
+    "summary": "Arga 宣布完成 1000 万美元种子轮融资，由 General Catalyst 领投，Box Group、Emergence、Gradient 和 SV Angel 参投。该公司为 Salesforce、Workday 和邮件客户端等企业软件构建全尺寸数字孪生训练环境，保留权限系统和 web hooks，以便在多个系统间更稳健地训练 AI 智能体。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日20时55分"
+  },
+  {
+    "id": "cmta4mcv001yuroj24rkvrpud",
+    "title": "商汤 2026 年上半年首次盈利：归母净利润 6.07 亿元同比扭亏转盈",
+    "url": "https://www.ithome.com/0/994/744.htm",
+    "summary": "商汤 2026 年上半年实现归母净利润 6.07 亿元，上市以来首次实现 IFRS 口径盈利，同比扭亏转盈。期内营收 29.11 亿元，同比增长 23.4%，毛利率提升至 41.4%；生成式 AI 收入 23.27 亿元，占总收入 79.9%，经常性收入 11.45 亿元，同比增长 124.4%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日20时55分"
+  },
+  {
+    "id": "cmta4ddu501vhroj2xvglu71f",
+    "title": "openclaw 读取日历报错：空值语义未定义",
+    "url": "https://x.com/frxiaobei/status/2092595918985924767",
+    "summary": "排查 openclaw 读取日历报错发现，上游因\"今天没有日程\"不生成文件，下游见\"文件不存在\"判为\"读取失败\"，两边单看都没错，接起来却报错。问题本质是\"没有数据、没拿到数据、读取失败\"三种状态未提前定义，对系统而言都只是空值。AI 系统越复杂，组件间状态与异常定义越关键。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月26日20时52分"
+  },
+  {
+    "id": "cmta4ddum01vlroj2z6ajfqps",
+    "title": "Glean 运行时路由降 81% token 成本",
+    "url": "https://x.com/rohanpaul_ai/status/2092595111259767005",
+    "summary": "Glean 将\"用多少智能\"的决策移入运行时，其基准测试覆盖 180+ 企业任务，显示相比 Claude Cowork 可降低 81% token 成本，且 78% 情况下更受偏好。每查询成本 $0.58，对比 Claude Cowork 的 $2.98。该基准并非模型对模型，而是固定模型推理对比\"上下文+路由\"系统。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日20时48分"
+  },
+  {
+    "id": "cmta3asey01yxrojq03qmru93",
+    "title": "Qwen3.8-Flash-Next发布，6B激活超越Claude Opus 4.6",
+    "url": "https://x.com/kimmonismus/status/2092593917543780735",
+    "summary": "Qwen3.8-Flash-Next正式发布，这是一款高度稀疏MoE开源多模态模型，总参数125B加51B n-gram嵌入，每token仅激活6B参数，原生256K上下文可经YaRN扩展至1M。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日20时44分"
+  },
+  {
+    "id": "cmta4mcv101z1roj2nc8w30ak",
+    "title": "阿里通义 Qwen3.8-Flash 发布开源：125B 参数 MoE 模型，训练成本仅为前代 1/9",
+    "url": "https://www.ithome.com/0/994/735.htm",
+    "summary": "阿里通义千问团队发布 Qwen3.8-Flash，这是一款 125B 参数的多模态 MoE 模型，每 token 激活 6B 参数，原生支持 262，144 tokens 上下文，并可通过 YaRN 扩展至 1M tokens。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日20时39分"
+  },
+  {
+    "id": "cmta3asf601yzrojq83kxakzm",
+    "title": "OpenRouter 神秘模型 Ox Alpha 确认为智谱 GLM-5.3 Flash",
+    "url": "https://x.com/testingcatalog/status/2092592327701200937",
+    "summary": "OpenRouter 近期上线的神秘模型 Ox Alpha 实为智谱 AI 的 GLM-5.3 Flash。该模型以零成本高性能登顶在线使用榜，被指可与 DeepSeek 竞争。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月26日20时37分"
+  },
+  {
+    "id": "cmta3qe2d01e2roj2w9f0eplj",
+    "title": "亲俄深度伪造视频让乌克兰议员\"开口\"求和",
+    "url": "https://the-decoder.com/pro-kremlin-deepfakes-put-surrender-rhetoric-in-the-mouths-of-ukrainian-lawmakers",
+    "summary": "亲克里姆林宫的Telegram频道正传播两段AI生成的深度伪造视频，内容为乌克兰议员安德烈·列乌斯和伊万·尤纳科夫\"哀叹战争并呼吁和平\"。据NewsGuard报道，视频两周内获得13万次观看，并带有不自然眨眼、声音平淡等AI痕迹。此类伪造无论是否被识破，都会侵蚀公众对信息的信任。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月26日20时36分"
+  },
+  {
+    "id": "cmta2x13k03t3rolwmr6pzc67",
+    "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+    "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+    "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览，现已开放权重。该模型总参数量 125B，每 token 仅激活 6B，原生上下文 262K，可扩展至 1M；训练成本仅为 Qwen3.7-Plus 的 1/9，并在编码和办公任务上表现更优。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月26日20时34分"
+  },
+  {
+    "id": "cmta2veap03nmrolwxllvp4ay",
+    "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+    "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+    "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+    "source": "Qwen：Blog Retrieval（API）",
+    "date": "2026年8月26日20时30分"
+  },
+  {
+    "id": "cmta3ncba016yroj2y7h7ynuz",
+    "title": "听力科技初创公司 Legato 携 1200 万美元融资及 AI 听力眼镜亮相",
+    "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses",
+    "summary": "Legato 于周三走出隐身模式，获得 1200 万美元融资并首次展示其 AI 听力眼镜 Legato Frames。该眼镜将专利听力辅助技术集成于镜架镜腿，采用 AI 系统区分背景噪音与人声，仅放大说话声，预计今年秋季晚些时候上市。产品面向轻中度听力损失人群，售价将远低于传统助听器，并可能通过眼科诊所购买时享受视力保险报销。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日20时0分"
   },
   {
     "id": "cmt8xi7a802ubrolyrbm6mrc5",
@@ -15008,6 +15152,14 @@
     "date": "2026年8月26日1时14分"
   },
   {
+    "id": "cmta2krop03cerolwko29wqfa",
+    "title": "比尔·盖茨对AI深感担忧，不再保持沉默",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+    "summary": "比尔·盖茨发表近6000字长文，警告世界对AI时代\"毫无准备\"，称AI\"要么成为有史以来最大的平等化工具，要么成为最严重的不公来源\"。他预测AI将导致大规模永久性失业，并提出对AI token和机器人征税、为人类保留特定岗位、建立国际组织等罕见政策建议。盖茨表示将推动AI与公平议题进入公共议程。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月26日19时7分"
+  },
+  {
     "id": "cmta1l77102qxrolw1tkf2npf",
     "title": "中国 Moonshot AI 与微软、亚马逊、谷歌洽谈云托管协议",
     "url": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google",
@@ -15022,6 +15174,22 @@
     "summary": "Cerebras 联合创始人兼 CEO Andrew Feldman 指出 AI 加速器行业三大供应链瓶颈：HBM 内存、CoWoS 封装产能及台积电 3nm 制程。Cerebras 通过架构选择基本规避了全部三项--不依赖 HBM 和 CoWoS，当前芯片采用 5nm 制程而非 3nm。这使其供应链状况与主流 GPU 系统截然不同。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月26日19时50分"
+  },
+  {
+    "id": "cmta35taw042orolwh35rk9dh",
+    "title": "去AI味最佳实践：角色锚定与节奏控制",
+    "url": "https://x.com/AYi_AInotes/status/2092580317194252704",
+    "summary": "阿易 AI Notes 用 Apodex 1.1 实测总结去AI味方法，核心是角色+场景锚定、长短句交替、禁止词清单、注入人味信号及多轮人工微调。Apodex 1.1 已开源多 Agent 架构（35B 权重+单机 harness），8 个 Agent 并行跑 AI 副业实测，满足 A 级证据标准的成功案例为 0，并支持本地部署。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月26日19时50分"
+  },
+  {
+    "id": "cmta31x7s03zrrolw21z08uyo",
+    "title": "Linear 完成 9900 万美元要约收购，估值达 25 亿美元",
+    "url": "https://linear.app/now/sharing-growth-with-the-people-building-linear",
+    "summary": "Linear 完成 9900 万美元要约收购，公司估值达 25 亿美元，现有投资者 Accel 和 01A 及新投资者 Salesforce Ventures 和 S32 参与。公司年经常性收入已突破 1 亿美元，超 4 万家企业付费使用，净收入留存率达 177%。其智能体平台已覆盖 95% 的付费工作区，智能体创建的工作占比从一年前的 3% 升至 50%。",
+    "source": "Linear：Now（RSS）",
+    "date": "2026年8月26日19时43分"
   },
   {
     "id": "cmta15n3e019trolwntpio4t8",
@@ -15070,6 +15238,14 @@
     "summary": "IBM 推出开源权重 Granite 4.2 模型，提供 3B、8B 和 30B 三种参数版本，原生支持 128，000-token 上下文窗口。8B 和 30B 版本经过智能体强化学习训练，支持使用终端、搜索网页或调用外部工具。IBM 称其为 Granite 系列中专注于推理的版本，旨在满足开发者对本地部署模型日益增长的兴趣。",
     "source": "Ars Technica：AI（RSS）",
     "date": "2026年8月26日19时10分"
+  },
+  {
+    "id": "cmta2kqt503ccrolwj1cj29o1",
+    "title": "Runable 获 2100 万美元融资，押注 AI 智能体从帮企业建站走向帮企业增长",
+    "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them",
+    "summary": "印度初创公司 Runable 完成 2100 万美元 A 轮融资，由 Susquehanna Venture Capital 和 Nexus Venture Partners 联合领投，投后估值达 6500 万美元。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日19时0分"
   },
   {
     "id": "cmta0c1m212horolypgizi46j",
