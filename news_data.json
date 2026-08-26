@@ -15000,6 +15000,70 @@
     "date": "2026年8月26日1时14分"
   },
   {
+    "id": "cmt9z0gu111eyrolyn5fripvd",
+    "title": "TrueFoundry 集成通义千问，智能体成本降五成",
+    "url": "https://x.com/alibaba_cloud/status/2092563338173771967",
+    "summary": "TrueFoundry 已将阿里通义千问（Qwen）模型家族集成至其开源智能体框架 TrueForge。从不足十亿参数到 480B 旗舰版，所有模型规模现均统一置于单一 API 之后。智能体运营成本比托管式单一供应商平台低约 50%。阅读案例：https://click.alibabacloud.com/m/20000002799/ 在阿里云百炼（Model Studio）上体验 Qwen：https://click.alibabacloud.com/m/20000002333/ #LighthouseCustomerStories #Qwen #AI",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日18时42分"
+  },
+  {
+    "id": "cmt9z0guu11f4rolyn08nrt0n",
+    "title": "Its official now： Ox Alpha is GLM（-5.3 Flash） by zAI. Offical release tonight via zAI Via Bloomberg…",
+    "url": "https://x.com/kimmonismus/status/2092561180128608672",
+    "summary": null,
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日18时33分"
+  },
+  {
+    "id": "cmt9ydeho10pzrolyzmldqm3d",
+    "title": "Anthropic 称 IPO 前市场机会超 30 万亿美元",
+    "url": "https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo",
+    "summary": "Anthropic 计划在 IPO 前向投资者描绘一个超过 30 万亿美元的理论市场机会，其总可寻址市场（TAM）将高于 SpaceX 5 月宣称的 28.5 万亿美元。该公司第二季度营收翻倍至 116 亿美元，预计 2028 年营收约 1900 亿至 2000 亿美元，估值约 2 万亿美元，拟融资至多 1000 亿美元，可能于 9 月或 10 月上市。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月26日18时2分"
+  },
+  {
+    "id": "cmt9z70g111jsrolya4r24p4k",
+    "title": "穆斯塔法评盖茨AI文章：代币税与职业保护区",
+    "url": "https://x.com/mustafasuleyman/status/2092559789016395834",
+    "summary": "@BillGates 新文章中关于AI影响的许多重要而大胆的想法需要讨论……代币税和为某些工作设立的\"自然保护区\"只是其中两个。",
+    "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+    "date": "2026年8月26日18时28分"
+  },
+  {
+    "id": "cmt9y6v7610kbrolyv6vuxdte",
+    "title": "智谱确认 Ox Alpha 为 GLM 系列新版本，今晚发布权重",
+    "url": "https://www.ithome.com/0/994/697.htm",
+    "summary": "智谱证实 Ox Alpha 模型正是其 GLM 系列新版本，将于今晚正式发布该模型权重。该匿名模型此前在 OpenRouter 上线后调用量迅速攀升至榜首，并刷新单日用量纪录；OpenCode 免费套餐声称每日可处理 100 万亿个 token。研究人员通过分词器指纹分析发现其 token 数量与 GLM-5.3 几乎完全吻合，仅存在恒定 75 个 token 的包装层偏差。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日18时23分"
+  },
+  {
+    "id": "cmt9z0gu111ezrolykbt36ep4",
+    "title": "阿里云 Wan 3.0 上线 Media.io 并开放 API",
+    "url": "https://x.com/alibaba_cloud/status/2092557932437053697",
+    "summary": "阿里云 Wan 3.0 正式上线 Media.io，可将一个创意或脚本生成完整 AI 故事，支持角色一致、场景连贯与电影级运镜。限时优惠 40% OFF，同时通过 Model Studio 和 Qwen Cloud 提供 API 接入。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日18时21分"
+  },
+  {
+    "id": "cmt9y6v7610kcrolyg008243g",
+    "title": "玄戒 O3、M6/M5 Ultra 芯片相继发布，Arm 发文祝贺小米、苹果",
+    "url": "https://www.ithome.com/0/994/694.htm",
+    "summary": "Arm 发文祝贺小米与苹果，称玄戒 O3 及 M6、M5 Ultra 芯片基于 Arm 架构，代表 AI 计算与性能的重大进步。小米玄戒 O3 为 AI 旗舰 SoC，安兔兔跑分 522 万，CPU 十核全大核设计，最高 4.35GHz，GPU 性能提升 85%。苹果 M6 为首款 2 纳米制程芯片，配备 12 核 CPU、12 核 GPU 及 170 GB/s 统一内存带宽。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日18时18分"
+  },
+  {
+    "id": "cmt9y5glt10jqrolyh1v2s5ge",
+    "title": "Harvey 发布自研模型 Tenet，基于 Kimi K3",
+    "url": "https://x.com/thexpin/status/2092555150129025053",
+    "summary": "OpenAI 支持的律所 AI 公司 Harvey 发布首个自研模型 Tenet，基于中国开源权重模型 Kimi K3，用约 150 块 Nvidia B300 训练两个月。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月26日18时10分"
+  },
+  {
     "id": "cmt9xt09a10dbrolyr4q8wozl",
     "title": "Gatik 获 2 亿美元 D 轮融资，扩大 AI 自动驾驶货运业务",
     "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight",
@@ -15022,6 +15086,22 @@
     "summary": "6 天内处理了 42T tokens 的 Ox Alpha\n\n继 DeepSeek Flash 56 天运行后使用最多的模型\n\n几小时后揭晓",
     "source": "X：opencode (@opencode)",
     "date": "2026年8月26日17时56分"
+  },
+  {
+    "id": "cmt9y6v7610kjrolys5v103fq",
+    "title": "MiniMax 2026 财年上半年营收同比增长 283.1%，归母亏损收窄至 3.58 亿美元",
+    "url": "https://www.ithome.com/0/994/680.htm",
+    "summary": "MiniMax 2026 财年上半年总收入 1.17 亿美元，同比增长 283.1%，已超 2025 年全年营收；归母净亏损 3.58 亿美元，同比收窄 11%。开放平台及企业服务收入同比增长 703.1% 至 7，392.9 万美元，占总收入 63.4%；毛利率提升至 17.9%。产品覆盖超 230 个国家和地区，中国内地以外收入占比达 60.8%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日17时45分"
+  },
+  {
+    "id": "cmt9y6v7610klroly8vhtpp9j",
+    "title": "华尔街高度关注英伟达第二财季业绩，盼其能继续引领 AI 板块",
+    "url": "https://www.ithome.com/0/994/668.htm",
+    "summary": "英伟达将于当地时间周三压轴公布第二财季业绩，市场期待高、压力大。摩根大通数据显示，过去四次财报后即使业绩超预期，其股价30天内平均仍跌约5%。摩根大通、高盛、美国银行、杰富瑞、瑞银均维持\"买入/增持\"评级，目标价280至350美元，普遍预计业绩将超预期并上调指引，同时关注Rubin出货、客户融资及中国业务等信号。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日17时34分"
   },
   {
     "id": "cmt9w1pgy0yirrolygyr70mho",
