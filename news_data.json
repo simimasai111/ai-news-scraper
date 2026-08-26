@@ -13848,6 +13848,294 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmtaej1vz0czhroj2aybdbq26",
+    "title": "Claude in Chrome 正式全面上线",
+    "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+    "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月27日2时2分"
+  },
+  {
+    "id": "cmtadd1ei0aphroj20wgxdy6j",
+    "title": "Gemini 3.5 Transcribe 发布，精准语音转写",
+    "url": "https://x.com/GoogleAI/status/2092660089509314735",
+    "summary": "Google 推出 Gemini 3.5 Transcribe 语音转写模型，支持 85+ 语言，可自动过滤语气词、格式化非结构化语音，并结合屏幕上下文执行语音指令。该模型还能利用多模态能力将杂乱语音输入和本地文件直接转为邮件草稿。",
+    "source": "X：Google AI (@GoogleAI)",
+    "date": "2026年8月27日1时6分"
+  },
+  {
+    "id": "cmtack93y0aaoroj2r8rkuua0",
+    "title": "Gemini 3.5 Transcribe 语音转写模型发布",
+    "url": "https://x.com/googleaidevs/status/2092659736797933839",
+    "summary": "🗣️💬 向 Gemini 3.5 Transcribe 问好，这是一款真正理解你代码库的语音转文本模型。\n\n观看这款最新模型如何在 @Antigravity 中构建时，过滤口头犹豫，同时将技术术语、文件名和代码变量精确锚定到当前上下文中。通过使用视觉偏置，该模型为复杂的开发者工作流带来了深度的、屏幕感知的上下文。",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "date": "2026年8月27日1时5分"
+  },
+  {
+    "id": "cmtadb4580annroj211ai5y9a",
+    "title": "Gemini 3.5 Transcribe 发布，支持多语言转录",
+    "url": "https://x.com/sundarpichai/status/2092659467284517088",
+    "summary": "向 Gemini 3.5 Transcribe 问好！\n\n- 构建能理解用户语音/意图的应用，即使有多位说话人也行！\n- 开箱即用，自动检测 85+ 种语言\n- 针对专业术语的自定义词汇适配……SGTM：）\n\nAPI 现已在 @GoogleAIStudio 和 Gemini Enterprise 中提供，也可在 macOS 上的 Gemini 应用或 Android 上的 Rambler 中试用！\n\n更多详情：https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "source": "X：Sundar Pichai (@sundarpichai)",
+    "date": "2026年8月27日1时4分"
+  },
+  {
+    "id": "cmtae1d730bi8roj22pokf9od",
+    "title": "The Case for Cloning Your Coworkers",
+    "url": "https://every.to/context-window/the-case-for-cloning-your-coworkers",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月27日1时48分"
+  },
+  {
+    "id": "cmtae0kv90bh8roj28e2bgwwb",
+    "title": "Anthropic 斥资 450 亿美元租用 Nscale 算力",
+    "url": "https://x.com/testingcatalog/status/2092670115531706582",
+    "summary": "Anthropic ❤️ Nscale\n\n据彭博社报道，Anthropic 已同意在未来六年内向 Nscale 支付 450 亿美元，租用约 460MW 的电力，使用英伟达的 Vera Rubin 芯片。\n\n更多算力 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月27日1时46分"
+  },
+  {
+    "id": "cmtaefnc20bt2roj23svt4bye",
+    "title": "Meta 图像模型 Muse 登陆 Runway",
+    "url": "https://x.com/runwayml/status/2092670079070822579",
+    "summary": "Meta 的 Muse 图像模型，现已上线 Runway。\n\n今日起，与全球顶尖的图像和视频模型一同提供。点击下方链接，立即体验。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月27日1时46分"
+  },
+  {
+    "id": "cmtae0kv90bh9roj2prkn0i19",
+    "title": "Grok Bot 向 SuperGrok 与 Cursor Pro 用户开放",
+    "url": "https://x.com/testingcatalog/status/2092668967139545146",
+    "summary": "SPACEXAI 🔥：Grok Bot 现已向 SuperGrok 和 Cursor Pro 用户开放！\n\n对许多人来说，是时候测试了 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月27日1时42分"
+  },
+  {
+    "id": "cmtae0kv30bh6roj2ilstj7zy",
+    "title": "比尔·盖茨警告AI或致大规模失业",
+    "url": "https://x.com/rohanpaul_ai/status/2092668907396215244",
+    "summary": "比尔·盖茨在6000字长文中警告，AI转型将是人类历史上最动荡的时期之一，其最大经济担忧是永久性岗位消失而非暂时失业。他认为AI可直接替代销售、客服、软件工程等领域的初级和中级认知工作，且2030年前机器人可能开始竞争建筑和酒店岗位。他还提议对AI token和机器人征税，并设立\"人类保留\"工作类别。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月27日1时42分"
+  },
+  {
+    "id": "cmtadvm500be8roj2x4qtmyzl",
+    "title": "不读代码就无法识别模型垃圾输出",
+    "url": "https://x.com/dexhorthy/status/2092668396420661261",
+    "summary": "如果你不读代码，就不可能知道有多少\"垃圾\"混了进来。\n\n如果你在构建生产系统，你可能已经知道\"模型已经足够好，我不需要读代码\"并不是真正实用的建议。\n\n我们再次连线 @0xblacklight 和 @vaibcode 带来独家消息。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月27日1时40分"
+  },
+  {
+    "id": "cmtae74ed0blmroj29dd4oaa0",
+    "title": "Cohere CEO 自嘲首席大脑损伤官",
+    "url": "https://x.com/aidangomez/status/2092659242436067731",
+    "summary": "首席大脑损伤官",
+    "source": "X：Aidan Gomez（Cohere CEO，@aidangomez）",
+    "date": "2026年8月27日1时3分"
+  },
+  {
+    "id": "cmtadb44u0anjroj2aq19vjqs",
+    "title": "Gemini 3.5 Transcribe 语音转文本模型发布",
+    "url": "https://x.com/GoogleDeepMind/status/2092659221477077101",
+    "summary": "Gemini 3.5 Transcribe 是我们最新的语音转文本模型，用于精准、智能的转录。🧵",
+    "source": "X：Google DeepMind (@GoogleDeepMind)",
+    "date": "2026年8月27日1时3分"
+  },
+  {
+    "id": "cmtae0kui0bh0roj2l0umxh9p",
+    "title": "GLM-5.3-Flash 发布，支持 1M 上下文与 MIT 许可",
+    "url": "https://x.com/omarsar0/status/2092667990273663311",
+    "summary": "智谱发布 GLM-5.3-Flash，320B-A18B 参数、原生多模态、1M-token 上下文窗口，MIT 许可开源，此前预览名为 Ox Alpha，完全运行于国产 AI 芯片。DAIR.AI 创始人推荐用 /eli5 制作视觉解释器，并可在其新 agent 游乐场搭配 Pi 或 Hermes Agent 试用。模型权重与 API 已在官方平台开放。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月27日1时38分"
+  },
+  {
+    "id": "cmtaef9yq0bs3roj2tuqo1mmf",
+    "title": "Cursor 上调 Grok 模型用量限额",
+    "url": "https://x.com/leerob/status/2092666596179521906",
+    "summary": "我们也没忘了 @Bot……\n\n现在所有付费用户均可使用，每月 $20 即可改变你与电脑的交互方式！\n\n我们已重置所有 Bot 用户的每周用量限额。试试看吧！",
+    "source": "X：Lee Robinson (@leerob)",
+    "date": "2026年8月27日1时32分"
+  },
+  {
+    "id": "cmtae0kua0bgyroj28zl5s6pg",
+    "title": "Grok Bot全面开放SuperGrok与Cursor Pro用户",
+    "url": "https://x.com/cb_doge/status/2092666447147520435",
+    "summary": "突发：Grok Bot 现已面向所有 SuperGrok 和 Cursor Pro 订阅用户开放。\n\n每周使用限额也已为每位用户重置，让所有人都有全新的起点去构建和实验。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月27日1时32分"
+  },
+  {
+    "id": "cmtadz6qe0bfvroj2vnyg6tge",
+    "title": "Grok Bot 向 SuperGrok 与 Cursor Pro 用户开放",
+    "url": "https://x.com/poteto/status/2092666279102710024",
+    "summary": "试试 @bot 的 grok！并享受重置\n\n【引用 @bot】：所有 SuperGrok 和 Cursor Pro 订阅者现在都可以使用 Grok Bot。\n\n我们也在重置所有用户的每周使用限制。\n\n尽情享受！",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年8月27日1时31分"
+  },
+  {
+    "id": "cmtaddncd0aq0roj2xmay0scj",
+    "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
+    "url": "https://www.anthropic.com/research/enabling-independent-research",
+    "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "date": "2026年8月27日1时30分"
+  },
+  {
+    "id": "cmtaeg9fr0cxuroj2aghq2v68",
+    "title": "Sam Altman 称 OpenAI 将在年底前拥有其定义的 AGI",
+    "url": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition",
+    "summary": "OpenAI CEO Sam Altman 称公司将在年底前拥有他称之为 AGI 的内部系统，首席研究官 Mark Chen 估计已\"完成 80%\"。核心信心来自即将推出的模型 Astra，首席科学家 Jakub Pachocki 称其已能作为自动化研究实习生，处理需人类研究员约一周的工作。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月27日1时30分"
+  },
+  {
+    "id": "cmtacdvh50a4aroj2zlw9jnj9",
+    "title": "Warp 如何在 Claude 上构建自我改进的智能体",
+    "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "summary": "Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，通过基础技能与改进技能两个文件型技能，将人类反馈转化为对智能体的持续优化。该模式已应用于其整个开源仓库，覆盖数百名贡献者与数千次代码审查。团队建议以原则而非规则编写技能，并强调低摩擦反馈与改进技能的可复用性。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年8月27日1时2分"
+  },
+  {
+    "id": "cmtaeda000bphroj2ndc1smji",
+    "title": "GLM-5.3-Flash 智能、性能与价格分析",
+    "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
+    "summary": "GLM-5.3-Flash 在 Artificial Analysis Intelligence Index 上得分 57，远超同类模型中位数 18，支持文本和图像输入、文本输出，上下文窗口达 400k tokens。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月27日1时25分"
+  },
+  {
+    "id": "cmtae0kuw0bh4roj2sx2x7ipu",
+    "title": "Anthropic 明日发布 Fable 5.1 及 Opus 更新",
+    "url": "https://x.com/kimmonismus/status/2092663632379134438",
+    "summary": "Anthropic 正筹备明日发布，预计推出 Fable 5.1 及可能的 Opus 更新。据 @legit_api，Fable 已开始路由至新版 Fable 5.1，发布在即。@synthwavedd 称若不想难堪，最迟需下周初发布。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月27日1时21分"
+  },
+  {
+    "id": "cmtad5iim0alqroj2hb9nmwb6",
+    "title": "GLM-5.3-Flash 发布：低成本登顶性价比前沿",
+    "url": "https://x.com/ArtificialAnlys/status/2092663573021606119",
+    "summary": "智谱发布 GLM-5.3-Flash，320B 总参数、18B 激活参数，在 Artificial Analysis 智能指数上以最大推理强度得 57 分，仅比 GLM-5.3 低 3 分，与 GPT-5.6 Terra 和 Muse Spark 1.2 持平。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月27日1时20分"
+  },
+  {
+    "id": "cmtacq8vz0aedroj24bcix9go",
+    "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+    "summary": "Google DeepMind 推出 Gemini 3.5 Transcribe 语音转文本模型，支持流式与非流式两种 API。据 Artificial Analysis 评测，其流式与非流式平均词错率分别为 4.0% 和 2.6%，支持超 85 种语言、自定义词汇及最多三人说话人识别。",
+    "source": "Google DeepMind：Blog（RSS）",
+    "date": "2026年8月27日1时1分"
+  },
+  {
+    "id": "cmtadf0qy0aqyroj29op37qqr",
+    "title": "Gemini 3.5 Transcribe 发布，支持85+语言",
+    "url": "https://x.com/ammaar/status/2092662017517600823",
+    "summary": "推出 Gemini 3.5 Transcribe 🚀\n\n我们最精准的语音转文字模型，支持 85+ 种语言，具备智能纠错和自定义词汇功能。\n\n我用该模型 vibe coding 了一个类似 Wispr Flow 的应用。\n\n演示 + 开源如下！",
+    "source": "X：Ammaar Reshi (@ammaar)",
+    "date": "2026年8月27日1时14分"
+  },
+  {
+    "id": "cmtadb4510anlroj2snkm5hpt",
+    "title": "Gemini Live 新增多项功能，可代管复杂任务",
+    "url": "https://x.com/GeminiApp/status/2092661911120978024",
+    "summary": "Gemini Live 正从对话功能扩展，代你处理复杂任务。\n\n借助 Live 中的新功能，如 Daily Brief、Gemini Spark、Personal Intelligence 和 @Gmail 收件箱管理，你可以口述安排一天的事务并委派待办事项，不会错过任何细节。🧵",
+    "source": "X：Gemini (@GeminiApp)",
+    "date": "2026年8月27日1时14分"
+  },
+  {
+    "id": "cmtacxz890ajeroj2guvg37u3",
+    "title": "Gemini 3.5 Transcribe 上线 AI Studio 与桌面端",
+    "url": "https://x.com/testingcatalog/status/2092661801590657165",
+    "summary": "GOOGLE 🔥：全新的 Gemini 3.5 Transcribe 现已登陆 Google AI Studio、API 以及 macOS 版 Gemini Desktop！\n\n> \"开箱即用，自动识别 85+ 种语言\"",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月27日1时13分"
+  },
+  {
+    "id": "cmtadb44k0anhroj26y1wcbws",
+    "title": "Anthropic 首次开放真实 Claude 数据供外部研究",
+    "url": "https://x.com/AnthropicAI/status/2092661573223657834",
+    "summary": "我们首次为外部研究人员提供了一种方式，让他们能够利用真实且经过隐私保护的 Claude 使用数据来研究 AI 的影响。迄今为止，这项工作只能在 AI 实验室内部进行。我们无法独自讲述完整的故事，因此我们开放了我们的工具。",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "date": "2026年8月27日1时12分"
+  },
+  {
+    "id": "cmtadcpz60aorroj2hv2rrb0r",
+    "title": "Gemini 3.5 Transcribe 发布，支持实时流式转写",
+    "url": "https://x.com/OfficialLoganK/status/2092660925509890397",
+    "summary": "推出 Gemini 3.5 Transcribe，我们全新的语音转文本模型，具备智能转写、函数调用、更精准的转写（更低 WER）、自定义词汇支持、多说话人识别，并支持超过 85 种语言！\n\n同时支持实时流式传输！",
+    "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+    "date": "2026年8月27日1时10分"
+  },
+  {
+    "id": "cmtaed9um0bpfroj28jk9ik08",
+    "title": "Google 发布 Gemini 3.5 Transcribe 转录模型，可自动去除\"um\"\"ah\"等填充词",
+    "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "summary": "Google 推出 Gemini Audio 家族新成员 Gemini 3.5 Transcribe，可自动识别专业术语和超过 85 种语言，并自动格式化文本、去除\"um\"\"uh\"等填充词。该模型支持自定义词汇表、为最多三位说话人区分语音，并提供词级时间戳。今日起向 macOS Gemini 应用用户开放英语版本，开发者可通过 Gemini API 公开预览使用。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月27日1时0分"
+  },
+  {
+    "id": "cmtaasv9q08ntroj232f4z235",
+    "title": "Anthropic 悄然向部分用户推送 Claude Fable 5.1",
+    "url": "https://x.com/testingcatalog/status/2092645689951981758",
+    "summary": "ANTHROPIC 🔥：看起来现在有更多用户在后台从 Claude Fable 5 被路由到 Claude Fable 5.1。\n\n> 一些用户发现 Fable 5 模型的知识截止日期已更新，指向一次静默发布。\n\n快了？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月27日0时9分"
+  },
+  {
+    "id": "cmtab7wbh08uoroj28hehqa06",
+    "title": "LiveKit 集成 Grok 语音模型构建智能体",
+    "url": "https://x.com/SpaceXAI/status/2092644384730972669",
+    "summary": "在 LiveKit 中使用 Grok 语音模型构建实用的语音智能体，完整支持 ZDR。",
+    "source": "X：SpaceXAI (@SpaceXAI)",
+    "date": "2026年8月27日0时4分"
+  },
+  {
+    "id": "cmtacai4i0a1kroj26lryqtgr",
+    "title": "WorkBuddy 推出 Co-Write 协作写作功能",
+    "url": "https://x.com/WorkBuddy_AI/status/2092651610791088379",
+    "summary": "WorkBuddy 发布 Co-Write 功能，支持用户从自有草稿或 WorkBuddy 生成的初稿出发，持续进行重写、扩写、反思与润色。该功能无需完美提示词，也无需将任务完全交给 AI，强调人机协作的迭代式写作流程，现已上线。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "date": "2026年8月27日0时33分"
+  },
+  {
+    "id": "cmtabvrcg09n7roj2bsmxh0za",
+    "title": "DAIR.AI 上线 AI 论文周报平台",
+    "url": "https://x.com/omarsar0/status/2092650024836403473",
+    "summary": "我过去 5 年多一直在精选 AI 论文。\n\n现在我们已经把所有论文索引到一个地方。\n\n你可以按主题发现感兴趣的论文，还可以与它们对话。尽情享用吧！",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月27日0时27分"
+  },
+  {
+    "id": "cmtabqii509k6roj205coezi8",
+    "title": "DAIR.AI 推出每周 AI 论文精选",
+    "url": "https://x.com/dair_ai/status/2092649526020448265",
+    "summary": "推出 AI 每周论文：https://academy.dair.ai/papers\n\n我们精选了过去 3 年的顶级 AI 论文，进行摘要整理，并按主题和每周分类。\n\n你可以轻松浏览论文、查找相关研究，并与任意论文进行对话。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月27日0时25分"
+  },
+  {
+    "id": "cmtabvrd309n9roj2tlw4byzc",
+    "title": "Glean 分析 37 模型企业任务性价比",
+    "url": "https://x.com/testingcatalog/status/2092648335052075394",
+    "summary": "Glean 发布了一项帕累托前沿分析，涵盖 37 个模型及推理配置在 1，000 项企业任务中的表现。\n\n分析发现，最便宜与最昂贵前沿模型之间的差距为 36 倍，而质量分数仅提升 22%。\n\n完整分析 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月27日0时20分"
+  },
+  {
+    "id": "cmtabhpob099aroj22s28blod",
+    "title": "Qwen3.8-Flash 75GB 内存本地运行",
+    "url": "https://x.com/Alibaba_Qwen/status/2092645926368403797",
+    "summary": "一款高性能 125B 模型现在仅需 75GB 内存即可本地运行！感谢 @UnslothAI 的 Day-0 支持。🥳",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月27日0时10分"
+  },
+  {
     "id": "cmtaaf4ll08fcroj2tjgz3sbo",
     "title": "Replit 与 Slack 合作推出 Code 智能体",
     "url": "https://x.com/Replit/status/2092643265157710203",
@@ -14896,6 +15184,38 @@
     "date": "2026年8月26日2时0分"
   },
   {
+    "id": "cmtabqihr09k4roj26x5i9iw6",
+    "title": "智谱Ox Alpha开源，屠榜模型揭晓",
+    "url": "https://x.com/AYi_AInotes/status/2092642768577352122",
+    "summary": "彭博确认匿名屠榜的Ox Alpha是智谱GLM系列新迭代，今晚开源权重。该模型上线首日登顶OpenRouter调用量榜首，打破DeepSeek 56天霸榜纪录，前五大应用累计调用达4万亿Token；DeepSWE基准10任务过8个（80%），支持104.8万Token超长上下文和多模态。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月26日23时58分"
+  },
+  {
+    "id": "cmtaasv9b08nrroj2ge09fvva",
+    "title": "OpenAI 预计今年底实现 AGI，Astra 已可自主科研",
+    "url": "https://x.com/kimmonismus/status/2092642707353010228",
+    "summary": "OpenAI CEO Sam Altman 表示，公司预计在 2026 年底前拥有一个可称为 AGI 的内部系统。OpenAI 已基于其基准内部构建了自主 AI 研究员 Astra，能实现实验想法、运行实验并返回结果，或完成原本需人类研究员一周的工作。Altman 预测 Astra 将带来最大影响，成为首个\"以有意义方式发明新事物\"的模型。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日23时57分"
+  },
+  {
+    "id": "cmtab0e0l08qiroj2osq2waj5",
+    "title": "Grok Bot 凭据保险库：密钥不暴露给模型",
+    "url": "https://x.com/ericzakariasson/status/2092642631344161258",
+    "summary": "Grok Bot 新增凭据保险库，可安全存储密钥，模型在调用时经特殊访问路径，全程不接触明文凭据。用户指令触发工具调用时，主机仅凭工具名查找对应 API key 并构造真实 HTTP 请求，凭据只在最终构造处出现。该方案简化了智能体密钥管理，被视为推动大规模采用的关键创新。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月26日23时57分"
+  },
+  {
+    "id": "cmtab1wdj08r4roj29k0ewimr",
+    "title": "Waymo：无人驾驶出租车严重事故率仅为人驾的 1/16，下一站慕尼黑",
+    "url": "https://www.ithome.com/0/994/784.htm",
+    "summary": "Waymo 公布数据称，其完全自动驾驶车队累计超 3.5 亿公里，造成重伤事故数量仅为人类驾驶员的 1/16，导致行人受伤事故数量为 1/14。慕尼黑将成为其继英国和日本之后第三个海外市场，初期车辆由人工驾驶进行道路测绘，计划明年底前后正式启动商业网约车服务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日23时50分"
+  },
+  {
     "id": "cmtaa2wa0080jroj2jr6y2l41",
     "title": "Particle 推出 Radar：让播客可搜索、可供 AI 智能体使用",
     "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents",
@@ -14925,6 +15245,14 @@
     "url": "https://x.com/OpenAIDevs/status/2092638606531977295",
     "summary": "$visualize\n\n【引用 @kagigz】：如果你和我一样是视觉型学习者，这条就是为你准备的！\n\n在 ChatGPT Work/Codex 中试试 `$visualize`，把任何信息变成漂亮的可视化图表\n\nhttps://www.youtube.com/watch?v=jzmNh8lbSp8",
     "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月26日23时41分"
+  },
+  {
+    "id": "cmtab1wdj08r5roj2hgnpyzeo",
+    "title": "英特尔 18A-P 工艺详解：0.5V 低电压频率跃升 30%，Diamond Rapids 与 Nova Lake 率先搭载",
+    "url": "https://www.ithome.com/0/994/781.htm",
+    "summary": "英特尔在 Hot Chips 2026 上公布 18A-P 制程细节，基于量产芯片测试，该制程在 0.5V 工作电压下实现 30% 频率提升，相同功耗下性能提升超 9%，相同性能下功耗降低超 18%。18A-P 通过 RibbonFET 晶体管、背面供电及新增金属层等手段优化，将率先用于 Diamond Rapids 至强和 Nova Lake 酷睿处理器，计划于 2027 年推出。",
+    "source": "IT之家（RSS）",
     "date": "2026年8月26日23时41分"
   },
   {
