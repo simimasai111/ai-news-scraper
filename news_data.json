@@ -13848,6 +13848,14 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmtaaf4ll08fcroj2tjgz3sbo",
+    "title": "Replit 与 Slack 合作推出 Code 智能体",
+    "url": "https://x.com/Replit/status/2092643265157710203",
+    "summary": "即将推出：Replit x @SlackHQ Code\n\n我们将把全球最强大的智能体带到团队构建、协作和分享的地方。\n\n因为每个人都应该能够快速创造--即使在你的工作区中也是如此。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月27日0时0分"
+  },
+  {
     "id": "cmt9geulz0jdhrolyk80ai212",
     "title": "ChatGPT定时任务新增Slack等触发与分享",
     "url": "https://x.com/gdb/status/2092430694253572216",
@@ -14888,6 +14896,198 @@
     "date": "2026年8月26日2时0分"
   },
   {
+    "id": "cmtaa2wa0080jroj2jr6y2l41",
+    "title": "Particle 推出 Radar：让播客可搜索、可供 AI 智能体使用",
+    "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents",
+    "summary": "Particle 推出播客搜索引擎 Radar，可转录并理解 13 万多个播客的音频内容，提取关键引述和高光片段，并支持按人物、公司、品牌等实体追踪提及与设置提醒。Radar 已吸引对冲基金等 API 客户，定价为每席位每月 29 美元，企业版每月 399 美元含 20 席位，API 用户另议。Radar 还提供播客广告搜索、政治倾向分析等工具，未来计划扩展至 YouTube 视频等音频形式。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日23时47分"
+  },
+  {
+    "id": "cmta9qb2s07pmroj2nxtzrtgi",
+    "title": "阿里云发布 Qwen3.8-Flash 多模态 MoE 模型",
+    "url": "https://x.com/alibaba_cloud/status/2092638695933223003",
+    "summary": "阿里云发布 Qwen3.8-Flash，一款多模态 MoE 模型，为 Qwen4 架构的早期预览，现已开放权重。该模型拥有 125B 参数，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。其 API 定价为每百万输入 token 0.16 美元、输出 0.47 美元，原生支持 262K 上下文，可扩展至 1M。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日23时41分"
+  },
+  {
+    "id": "cmtaa5d46085vroj2qtsfyfj6",
+    "title": "蚂蚁百灵Ling-3.0-tiny登移动端智能前沿",
+    "url": "https://x.com/AntLingAGI/status/2092638683790979358",
+    "summary": "据Artificial Analysis，Ling-3.0-tiny位于移动端智能-速度帕累托前沿：在iPhone 17 Pro上16K上下文得分59，耗时5.7秒。同时以66分在64K智能评测中排名第一。将更强智能带入更小设备。",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年8月26日23时41分"
+  },
+  {
+    "id": "cmtaa5d4s085xroj248bmzmor",
+    "title": "OpenAI 推出 $visualize 可视化功能",
+    "url": "https://x.com/OpenAIDevs/status/2092638606531977295",
+    "summary": "$visualize\n\n【引用 @kagigz】：如果你和我一样是视觉型学习者，这条就是为你准备的！\n\n在 ChatGPT Work/Codex 中试试 `$visualize`，把任何信息变成漂亮的可视化图表\n\nhttps://www.youtube.com/watch?v=jzmNh8lbSp8",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年8月26日23时41分"
+  },
+  {
+    "id": "cmta9wsw907ueroj2owd6ktsd",
+    "title": "Perplexity Computer 推出背景 Dream 智能体",
+    "url": "https://x.com/AravSrinivas/status/2092637129835003917",
+    "summary": "Perplexity Computer 为 Max 用户推出后台 Dream 智能体，持续从文件和连接应用中摄取上下文，构建多跳上下文图谱。新评测显示正确性提升 9.3 点、时效性提升 8.0、召回率提升 8.9，同时 token 消耗减少 15%。其自改进记忆系统 Brain 可将会话、文件和来源编译为结构化知识库。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月26日23时35分"
+  },
+  {
+    "id": "cmta9ciqt07c1roj219h5liie",
+    "title": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+    "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+    "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月26日23时32分"
+  },
+  {
+    "id": "cmta9qb4g07q0roj2kdig35j6",
+    "title": "Z.ai 揭晓 Ox Alpha 实为 GLM-5.3-Flash",
+    "url": "https://x.com/rohanpaul_ai/status/2092636186808553596",
+    "summary": "Z.ai 证实此前神秘模型 Ox Alpha 实为 GLM-5.3-Flash，其每日 100 万亿 token 的流量由数万块国产 AI 芯片支撑，而非 NVIDIA GPU 集群。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日23时32分"
+  },
+  {
+    "id": "cmta9lb4w07msroj2prfq6k7g",
+    "title": "微信开源多模态嵌入模型 WeMM-Embedding",
+    "url": "https://x.com/AYi_AInotes/status/2092636087147491496",
+    "summary": "微信开源其多模态嵌入模型 WeMM-Embedding，9B 版本在 MMEB-v2 和 MMEB-v3 双榜登顶。2B 小版本跑分超越上一代 8B 开源顶流，靠几亿级数据对齐与细粒度蒸馏实现。该模型已部署于视频号、公众号、朋友圈和电商搜索推荐，支持文字、多图、长视频混合输入，维度截断至 256 维仍保留近 99% 性能，可大幅降低向量数据库存储与检索成本。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月26日23时31分"
+  },
+  {
+    "id": "cmta9ekoq07geroj2pssc196g",
+    "title": "如何让 LLM 提速 3 倍：投机解码原理详解",
+    "url": "https://blog.bytebytego.com/p/how-to-make-llms-3x-faster",
+    "summary": "投机解码通过让一个小模型预先草拟多个候选 token，再由大模型在单次前向传播中并行验证，可将生成速度提升 2-3 倍，且输出在统计上与单独运行大模型完全一致。70B 参数模型每生成一个 token 需从 GPU 内存读取约 140 GB 权重，而生成阶段计算利用率仅 20-40%，投机解码正是利用这部分闲置算力。文章还探讨了草稿来源的四种方式及投机解码失效的场景。",
+    "source": "ByteByteGo（RSS）",
+    "date": "2026年8月26日23时30分"
+  },
+  {
+    "id": "cmta9qb4507pwroj2bmsndset",
+    "title": "Viktor 如何从访谈中挖掘未发布观点",
+    "url": "https://x.com/kimmonismus/status/2092635710851539203",
+    "summary": "Kim 将一段 Google I/O 访谈交给 AI 员工 Viktor，后者对比其已发布内容，找出三个未用观点并定位到访谈具体时间点。Kim 采纳其中两个，并强调 Viktor 未编造观点，而是找到其原有想法并追溯来源。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日23时30分"
+  },
+  {
+    "id": "cmta9qb4607pxroj2lc653ike",
+    "title": "Qwen3.8-Flash-Next 与 GLM-5.3-Flash 发布，开源模型逼近前沿",
+    "url": "https://x.com/kimmonismus/status/2092634843976724842",
+    "summary": "Qwen3.8-Flash-Next（125B MoE，6B 激活）在 8/9 项基准上超越 Claude Opus 4.6 Max；GLM-5.3-Flash（320B 总参，18B 激活）在 Terminal-Bench 2.1 得 84.3 分，逼近 Opus 4.8 的 85.0。两者均为 MIT 许可、原生多模态、1M 上下文，但完整权重需专业工作站或本地服务器才能运行。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日23时26分"
+  },
+  {
+    "id": "cmta92qde06xaroj2dvq280nk",
+    "title": "Perplexity Brain 记忆系统评测提升显著",
+    "url": "https://x.com/perplexity_ai/status/2092634609079218374",
+    "summary": "Brain 是 Perplexity Computer 的自我改进记忆系统。它将会话、文件和来源编译成结构化的知识维基。\n\n新的评测基于我们最初的结果，正确性提升 9.3 分，时效性提升 8.0 分，召回率提升 8.9 分，同时 token 使用量减少 15%。",
+    "source": "X：Perplexity (@perplexity_ai)",
+    "date": "2026年8月26日23时25分"
+  },
+  {
+    "id": "cmta8xv6f06u9roj2bi6n52ni",
+    "title": "Google Cloud 在 Cloud TPU 上为长上下文多模态嵌入推理实现企业级精度",
+    "url": "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu",
+    "summary": "Google Cloud 将原生 TPU 支持集成进 vLLM，并针对 Qwen3 Embedding 模型系列优化，在 Cloud TPU 上实现长上下文（文本 4K+、多模态 15K+ tokens）多模态嵌入推理。",
+    "source": "Google Developers Blog（RSS）",
+    "date": "2026年8月26日23时25分"
+  },
+  {
+    "id": "cmtaa4x01084mroj2igaf5c39",
+    "title": "比尔·盖茨新文呼吁制定连贯AI计划，Gary Marcus称其呼应自身观点",
+    "url": "https://garymarcus.substack.com/p/excellent-new-bill-gates-essay-on",
+    "summary": "Gary Marcus盛赞比尔·盖茨新文章，称其呼应了自己2024年著作《Taming Silicon Valley》的诸多主题。盖茨强调当前决策的持久重要性，指出AI在生物恐怖主义、深度伪造、虚假信息、网络攻击等方面的风险，并警告\"AI可能阻碍孩子发展、取代人际关系\"。盖茨呼吁建立国内外AI治理框架，并让公民社会而非仅政府和科技公司参与制定系统性计划。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月26日23时24分"
+  },
+  {
+    "id": "cmta9qb3r07puroj24c3ejlv3",
+    "title": "ChatGPT Work 登录网站不泄露密码，权限如酒店门卡",
+    "url": "https://x.com/frxiaobei/status/2092634170833129534",
+    "summary": "ChatGPT Work 现可在网页和移动端登录网站办事，官方强调 ChatGPT 全程看不到用户名和密码。作者以酒店门卡类比：Agent 应只获限时、限范围的访问权限，而非长期凭证。当前不少 Agent 系统仍将 API Key、Cookie 直接塞进运行环境，相当于交出总钥匙，后续还需管清可进网站、权限时长、操作确认与收回机制。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月26日23时24分"
+  },
+  {
+    "id": "cmta9qb3f07pqroj28t4w3vtm",
+    "title": "Qwen3.8-Flash：高效多模态MoE模型，Qwen4架构早期预览",
+    "url": "https://x.com/omarsar0/status/2092634019473015218",
+    "summary": "阿里发布Qwen3.8-Flash，一款多模态MoE模型，也是Qwen4架构的早期预览，现已开源权重。该模型总参数量125B，每token仅激活6B，原生上下文262K，可扩展至1M。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月26日23时23分"
+  },
+  {
+    "id": "cmta9qb3f07prroj2tcgyh0zl",
+    "title": "AWS 新研究量化智能体切换成本",
+    "url": "https://x.com/omarsar0/status/2092633423617953811",
+    "summary": "AWS AI Labs 新论文提出\"交接税\"（handoff tax）概念，量化智能体运行中在弱模型与强模型间切换的实际代价。在 Claude 和 GPT 模型配对测试中，全程轨迹升级仅能恢复弱强模型间不到一半的质量差距，却带来显著成本溢价；而降级切换则处于更优的成本-质量平衡点。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月26日23时21分"
+  },
+  {
+    "id": "cmta8wqpx06szroj2feryfmib",
+    "title": "第二届世界人形机器人运动会闭幕：智元首次参赛登顶双榜第一，超 2500 小时真实数据免费开放",
+    "url": "https://www.ithome.com/0/994/778.htm",
+    "summary": "第二届世界人形机器人运动会8月26日晚在北京国家速滑馆闭幕，16国666支队伍、2056台机器人围绕51个赛项竞技。首次参赛的智元机器人凭借全量产机型斩获18金16银12铜，位列金牌榜和奖牌榜双第一。组委会发布全球首个世界级人形机器人运动会全量数据集，总时长超2500小时，涵盖12个应用场景，免费向社会开放。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日23时20分"
+  },
+  {
+    "id": "cmta93bi106xuroj25mr0q1kz",
+    "title": "阿里 Qwen 团队发布 Qwen3.8-Flash-Next：125B 多模态 MoE 模型，仅 6B 参数激活，预览 Qwen4 架构",
+    "url": "https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture",
+    "summary": "阿里 Qwen 团队发布开源权重多模态 MoE 模型 Qwen3.8-Flash-Next，125B 主干搭配 51B N-gram 嵌入表和 4B 多 token 预测模块，每个 token 仅激活 6B 参数，被视为 Qwen4 架构的早期预览。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月26日23时20分"
+  },
+  {
+    "id": "cmta8np5y06pproj226mnqigc",
+    "title": "ChatGPT 上线赠送积分功能",
+    "url": "https://x.com/testingcatalog/status/2092630688369385814",
+    "summary": "ChatGPT 用户现在可以赠送积分 🔥\n\n用户可选择购买积分数量。积分可通过链接或电子邮件赠送。\n\n> \"接收者的账户必须使用相同币种才能领取此礼物。\"\n> \"如果礼物在 30 天内未被领取，你将收到自动退款。积分在领取后 365 天过期。\"\n\n现在人人都可以当 @thsottiaux 了 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月26日23时10分"
+  },
+  {
+    "id": "cmta8np5k06pnroj20rptyhsc",
+    "title": "教师需更新对AI能力与普及的认知",
+    "url": "https://x.com/emollick/status/2092628238421942728",
+    "summary": "我知道这对那些从未要求AI改变现状的教师来说要求很多，但如果你在教书，且过去6个月里没有更新你对AI能做什么（多得多）、它的错误率（低得多）以及它在学生中的普及度（几乎全覆盖）的认知，你需要更新了。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月26日23时0分"
+  },
+  {
+    "id": "cmta92qch06x8roj2dbdz08qm",
+    "title": "Krea AI 扩充创意团队招聘启事",
+    "url": "https://x.com/krea_ai/status/2092628141592203495",
+    "summary": "我们正在扩充创意团队\n\n寻找动态设计师、电影制作人和 AI 创作者。\n\n点击下方申请 👇",
+    "source": "X：Krea AI (@krea_ai)",
+    "date": "2026年8月26日23时0分"
+  },
+  {
+    "id": "cmta92eil06wiroj2ocu58lsd",
+    "title": "可灵AI带你进入前所未见的世界",
+    "url": "https://x.com/Kling_ai/status/2092628133274882286",
+    "summary": "欢迎来到一个你从未见过的世界 👀",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年8月26日23时0分"
+  },
+  {
+    "id": "cmta90bnu06urroj25xed3lie",
+    "title": "前 Meta 科学家创办的 Perceptron 推出工业视觉模型 Isaac 0.5",
+    "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor",
+    "summary": "由两位前 Meta FAIR 研究员创立的 Perceptron 推出视觉模型 Isaac 0.5，帮助机器在仓库、工厂等工业环境中感知、推理并行动，支持视觉引导机器人导航及提取视频信息。该模型以开放权重发布，训练数据含百万小时通用视频与 ego video。公司近期完成 2100 万美元融资。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日23时0分"
+  },
+  {
     "id": "cmta6v56y03ygroj2yykgkzag",
     "title": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
     "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
@@ -14936,6 +15136,14 @@
     "date": "2026年8月26日22时5分"
   },
   {
+    "id": "cmta7y66u05uqroj29emk81b8",
+    "title": "Cohere参与德国联邦内阁会议共商AI发展",
+    "url": "https://x.com/cohere/status/2092626691310952667",
+    "summary": "加拿大和德国不仅仅是在讨论技术的未来。\n\n我们正在建设它。",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年8月26日22时54分"
+  },
+  {
     "id": "cmta6q2ah03v9roj210hce39t",
     "title": "Google Labs 推出多人协作编程工具 Play with Putty",
     "url": "https://x.com/joshwoodward/status/2092614266818064389",
@@ -14952,12 +15160,116 @@
     "date": "2026年8月26日22时4分"
   },
   {
+    "id": "cmta7zsv805ztroj2zdamlab1",
+    "title": "GLM-5.3-Flash 发布：320B-A18B 全面超越 GLM-5.2",
+    "url": "https://x.com/Yuchenj_UW/status/2092625340367786354",
+    "summary": "智谱发布 GLM-5.3-Flash（320B-A18B），体积不到 GLM-5.2 一半，却在所有基准测试中全面超越后者。该模型原生多模态、支持 1M-token 上下文窗口，以 MIT 许可证开源，此前以 Ox Alpha 代号预览，完全运行于国产 AI 芯片。Databricks 将尽快为客户接入并实现超快运行。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月26日22时48分"
+  },
+  {
+    "id": "cmta9lb4w07mtroj2jonhac5v",
+    "title": "智谱匿名模型Ox Alpha今晚开源，屠榜OpenRouter",
+    "url": "https://x.com/AYi_AInotes/status/2092624381310603432",
+    "summary": "在 OpenRouter 上匿名屠榜、调用量超 DeepSeek 一倍的 Ox Alpha 被证实为智谱出品，官方确认今晚开源权重。该模型以 Flash 级速度和成本实现前沿实战能力，支持 1M 上下文与图片视频多模态，推理优先架构，社区测试在 10 个高难度 Coding 任务中拿下 80% 过关率，全量 DeepSWE 跑出 64.6%。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月26日22时45分"
+  },
+  {
+    "id": "cmta8wqpx06t3roj2m10b9hp6",
+    "title": "苹果部分语言版本 M5 Ultra Mac Studio 新闻稿提及基于 PCIe Gen6 的固态硬盘架构",
+    "url": "https://www.ithome.com/0/994/770.htm",
+    "summary": "苹果昨日推出搭载 M5 Ultra 的 Mac Studio，但仅有部分语言版本新闻稿提及基于 PCIe Gen 6 的固态硬盘架构。在 6 种语言版本中，简体中文、繁体中文、法语和德语等 4 种提及了\"PCIe Gen 6\"，而英文和西班牙语版本则没有这部分内容。若属实，M5 Ultra 版 Mac Studio 将成为首款支持该 PCIe 规范的消费级设备。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日22时43分"
+  },
+  {
+    "id": "cmta7l3nu05ejroj2gqau0pxw",
+    "title": "智谱发布GLM-5.3-Flash开源多模态模型",
+    "url": "https://x.com/testingcatalog/status/2092624000497131940",
+    "summary": "ZHIPU AI 🔥：GLM-5.3-Flash（Ox Alpha）已正式发布！\n\n> GLM-5.3-Flash 是一款 320B-A18B 多模态模型。\n> 采用 MIT 许可证。\n> 此前名为 Ox Alpha，是 OpenRouter 上的一个隐身模型。\n\n看来 GLM-5.3-Flash 和 Gemini 3.7 Flash 确实是\"好朋友\"。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月26日22时43分"
+  },
+  {
+    "id": "cmta7l3nm05ehroj20er5mooa",
+    "title": "GLM-5.3-Flash 百T日活竟由中国芯片支撑",
+    "url": "https://x.com/SemiAnalysis_/status/2092623833630998556",
+    "summary": "Ox Alpha 已揭晓为 GLM-5.3-Flash，但令人震惊的是，每天 100T tokens 的服务竟运行在中国芯片上。（1/3）🧵",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月26日22时42分"
+  },
+  {
+    "id": "cmta7l3my05ebroj2c38xsncx",
+    "title": "GLM-5.3-Flash发布：多模态1M上下文",
+    "url": "https://x.com/omarsar0/status/2092623803197079884",
+    "summary": "智谱发布GLM-5.3-Flash，原生多模态并支持1M token上下文窗口，性能对标Opus-4.8。该320B-A18B模型以MIT许可证开源，此前代号Ox Alpha，完全运行于国产AI芯片，现已通过HuggingFace、API等全平台上线。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月26日22时42分"
+  },
+  {
+    "id": "cmta7l3nd05efroj2q0w6ukx8",
+    "title": "WSJ 报道 Aschenbrenner 45B 美元基金杠杆风险",
+    "url": "https://x.com/rohanpaul_ai/status/2092623288715637136",
+    "summary": "WSJ 报道 Leopold Aschenbrenner 凭借横跨 FTX Future Fund、OpenAI、Anthropic 及硅谷顶级投资人的特殊人脉，将 AI 技术判断转化为管理 45B 美元的对冲基金。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日22时40分"
+  },
+  {
+    "id": "cmta80q9y0623roj20ssjy6bu",
+    "title": "阿里发布 Qwen3.8-Flash-Next，主打\"极致成本效率\"",
+    "url": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency",
+    "summary": "阿里 Qwen 团队发布多模态 MoE 模型 Qwen3.8-Flash-Next，作为 Qwen4 的架构预览，总参数 1250 亿但每 token 仅激活 60 亿，并引入 510 亿参数的 N-gram 嵌入层，可运行于系统内存。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月26日22时40分"
+  },
+  {
+    "id": "cmta7xqod05svroj2rskkwfyz",
+    "title": "比尔·盖茨：动荡的人工智能时代已经到来",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+    "summary": "比尔·盖茨在 Gates Notes 撰文指出，人工智能正将世界带入一个动荡时期，其影响将远超以往的技术变革。他认为 AI 将深刻改变工作、教育、医疗等社会核心领域，并带来前所未有的机遇与挑战。盖茨呼吁社会以更审慎和负责任的态度应对这一快速演进的浪潮。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日22时38分"
+  },
+  {
+    "id": "cmta7xpnm05ssroj2et16bfqs",
+    "title": "比尔·盖茨提议征收\"机器人税\"并设立\"人类保留\"岗位以缓解AI冲击",
+    "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai",
+    "summary": "比尔·盖茨在Gates Notes发表长文，提出两项应对AI劳动力冲击的新政策建议：对使用机器人征税，以减缓用机器替代人力的趋势，并为再培训和强化安全网筹集资金；同时将部分岗位设为\"人类保留\"（Human Reserved），禁止AI介入，例如告知患者不治之症这类场景。他还认为AI员工呼吁放缓AI发展的公开信\"Pacing The Frontier\"是好事，但怀疑其可持续性。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日22时37分"
+  },
+  {
+    "id": "cmta7eken04xuroj2vp5fdyn7",
+    "title": "GEN-1.5 物理提示词可控性示例",
+    "url": "https://x.com/GeneralistAI/status/2092622244925362444",
+    "summary": "物理提示词可控性的一个简单示例：相同环境，不同提示词，产生不同行为。\n\n感谢 @JagdeepBhatia8 的建议。\n\n更多关于 GEN-1.5 的内容，请参阅下方评论中的博客文章。",
+    "source": "X：Generalist (@GeneralistAI)",
+    "date": "2026年8月26日22时36分"
+  },
+  {
+    "id": "cmta7zsv005zrroj2yu7cpz9f",
+    "title": "GLM-5.3-Flash 上线 OpenCode Go 限时双倍用量",
+    "url": "https://x.com/opencode/status/2092621673258205423",
+    "summary": "GLM-5.3-Flash（原 Ox Alpha）现已在 OpenCode Go 上线，限时提供双倍用量。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年8月26日22时34分"
+  },
+  {
     "id": "cmta6y4p6044nroj24jztgadq",
     "title": "编排成为AI智能体时代客户体验的新挑战",
     "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
     "summary": "Tata Communications客户交互套件全球负责人Gaurav Anand指出，企业正将对话式AI快速部署到遗留系统上，但缺乏真正集成、可扩展且能无缝编排的平台。",
     "source": "VentureBeat：AI（RSS）",
     "date": "2026年8月26日22时30分"
+  },
+  {
+    "id": "cmta7l3n605edroj2fwq501sg",
+    "title": "GLM-5.3 Flash 发布：18B 激活参数效率惊人",
+    "url": "https://x.com/kimmonismus/status/2092619561505865866",
+    "summary": "GLM-5.3 Flash（Ox Alpha）正式发布，320B MoE 架构、每 token 仅激活 18B 参数，开源且 MIT 许可，原生多模态，支持 1M 上下文。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日22时25分"
   },
   {
     "id": "cmta6rj5j03vxroj263nwkuxk",
@@ -14984,12 +15296,36 @@
     "date": "2026年8月26日22时19分"
   },
   {
+    "id": "cmta77dd904m4roj2alhej310",
+    "title": "OpenRouter 揭晓 GLM-5.3-Flash 多模态模型",
+    "url": "https://x.com/OpenRouter/status/2092616758612172994",
+    "summary": "Ox Alpha 揭晓：@Zai_org 的 GLM-5.3-Flash，GLM-5 系列中首个原生多模态模型。\n\nOx Alpha 是 OpenRouter 上有史以来最大的模型，6 天内处理了超过 20 万亿 token。\n\n立即继续使用该模型：https://openrouter.ai/z-ai/glm-5.3-flash",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月26日22时14分"
+  },
+  {
     "id": "cmta6rj5k03vzroj21eb03xaf",
     "title": "科学家以 AI 解码 60 亿 DNA 碱基\"起始子\"序列，约 60% 人类基因含该序列",
     "url": "https://www.ithome.com/0/994/761.htm",
     "summary": "美国加州大学圣迭戈分校研究人员利用高通量 DNA 测序和机器学习技术，解析人类基因中\"起始子\"（Inr）的 DNA 序列特征。团队分析约 50 万个不同版本\"起始子\"序列后训练 AI 模型，发现约 60% 的人类基因含有这一序列，并首次实现对\"起始子\"的较强预测。研究还识别出一种与 TATA 序列相关的新型\"起始子\"，未来可用于分析相关 DNA 突变影响及设计合成启动子。",
     "source": "IT之家（RSS）",
     "date": "2026年8月26日22时12分"
+  },
+  {
+    "id": "cmta74fci04cbroj2z5yz0yrk",
+    "title": "智谱发布GLM-5.3-Flash，MIT开源320B模型",
+    "url": "https://x.com/Zai_org/status/2092616204787626030",
+    "summary": "智谱推出GLM-5.3-Flash，原生多模态，支持1M-token上下文窗口，320B-A18B参数，MIT许可证开源。该模型此前以Ox Alpha代号预览，完全运行于国产AI芯片，现已在HuggingFace、API等全平台上线，主打高性价比。",
+    "source": "X：智谱 Z.ai (@Zai_org)",
+    "date": "2026年8月26日22时12分"
+  },
+  {
+    "id": "cmta7bh1k04u6roj2e4pt7bob",
+    "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+    "summary": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
+    "source": "公众号：智谱（GLM）",
+    "date": "2026年8月26日22时11分"
   },
   {
     "id": "cmta6iivw03rzroj2ncqu34d4",
