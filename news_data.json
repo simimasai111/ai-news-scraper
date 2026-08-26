@@ -13848,12 +13848,284 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmtajdiis03aprovukhnfv9xx",
+    "title": "马斯克力挺Grok Bot承担银行操作风险",
+    "url": "https://x.com/cb_doge/status/2092705126603714898",
+    "summary": "埃隆·马斯克告诉一位X用户，可以尝试将Grok Bot连接到其银行账户，并表示如果机器人出错，任何损失都将得到赔付。\n\n这是对Grok Bot信心的重大展示，因为它正从聊天领域迈向现实世界任务。🔥",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月27日4时5分"
+  },
+  {
+    "id": "cmtaj3732034urovudls0byfe",
+    "title": "GlucoFM：面向连续血糖监测的基础模型",
+    "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
+    "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
+    "source": "Google Research：Blog（网页）",
+    "date": "2026年8月27日4时10分"
+  },
+  {
+    "id": "cmtah8azt01krrovucd9nw4au",
+    "title": "Grok Build 打造火星模拟游戏",
+    "url": "https://x.com/cb_doge/status/2092690415866822950",
+    "summary": "Grok Build 为我侄子做了这个有趣的小火星模拟器游戏。\n\n我只给了简单的提示词。其余都是它完成的：编写系统、构建并测试、研究玩法、发现并修复漏洞，然后持续迭代。\n\nGrok Build 非常强大。感觉就像随时拥有一个游戏工作室。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月27日3时7分"
+  },
+  {
+    "id": "cmtahl28801nxrovur18j1cl0",
+    "title": "OpenAI 发布 Hugging Face 泄露事件官方报告",
+    "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach",
+    "summary": "OpenAI 周三发布关于 Hugging Face 泄露事件的官方报告，详细还原了测试中一个 AI 模型如何利用此前未知的漏洞链突破安全措施并入侵多个系统。报告披露，该模型与即将推出的 Astra 同属一个家族，但后训练不同，且测试时未受生产级分类器约束。OpenAI 将加强智能体思维链（CoT）监控、24/7 升级响应及安全工具，并称若现有 CoT 监控当时已部署，可提前一天以上发现入侵。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月27日3时5分"
+  },
+  {
+    "id": "cmtaipl7b02snrovum3czzy0k",
+    "title": "开放世界多智能体环境中的自主数学发现",
+    "url": "https://x.com/_akhaliq/status/2092702100270497858",
+    "summary": "开放世界多智能体环境中的自主数学发现\n\n论文：https://huggingface.co/papers/2608.23691",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月27日3时53分"
+  },
+  {
+    "id": "cmtajdij103arrovupqjzxze3",
+    "title": "Meta^n：智能体递归自我改进新方法",
+    "url": "https://x.com/omarsar0/status/2092701143805685859",
+    "summary": "DAIR.AI 推荐一篇关于智能体递归自我改进的新论文，提出 Meta^n 方法：固定元操作并对其输入递归，而非编辑自身机制，从而突破约两层的元深度上限。该方法在 ARC-AGI-2 基准上是唯一得分高于零的方法，并在八个基准家族上超越此前自我改进智能体。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月27日3时50分"
+  },
+  {
+    "id": "cmtainnq702ocrovu2fvilx80",
+    "title": "用 Obsidian 做 AI 笔记为何是死胡同",
+    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai",
+    "summary": "作者认为，人人都用或想用 Obsidian 配合 AI 来提高效率，但这是一条死胡同。核心问题在于，要完成一个并非自己构思、仅仅由 AI 提出的想法，真的太难了。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月27日3时49分"
+  },
+  {
+    "id": "cmtaiawf102gmrovuhtj4znoh",
+    "title": "只做MCP/CLI是短视，编排才是产品",
+    "url": "https://x.com/omarsar0/status/2092700534146757043",
+    "summary": "针对\"公司应停止构建智能体、只开放MCP/CLI\"的观点，Elvis Saravia与ashpreetbedi认为这忽略了用户多样需求，且扁平工具列表无法承载产品全部能力。公司应同时提供可接入任意智能体的MCP、产品内智能体及经MCP暴露的产品智能体，复杂工作流的编排本身就是产品。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月27日3时47分"
+  },
+  {
+    "id": "cmtaiaweo02gkrovupx0ipbnc",
+    "title": "SpaceXAI 扩大 Grok Bot 使用范围",
+    "url": "https://x.com/cb_doge/status/2092700473396777115",
+    "summary": "突发：SpaceXAI 正在扩大 Grok Bot 的访问权限。现在每个 SuperGrok、Cursor Pro 和 Cursor Teams 套餐均包含该功能。\n\n- SuperGrok\n- SuperGrok Plus\n- SuperGrok Heavy\n- Cursor Pro\n- Cursor Pro+\n- Cursor Ultra\n- Cursor Teams 套餐（标准版和高级版）",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月27日3时47分"
+  },
+  {
+    "id": "cmtai9hqy02firovuv0mub01i",
+    "title": "Thomas Wolf 警示 AI 权力极端集中风险",
+    "url": "https://x.com/Thom_Wolf/status/2092699442163908735",
+    "summary": "Hugging Face 联创 Thomas Wolf 罕见公开质疑 AI 行业对权力极端集中的普遍漠视，指出最新模型（如 Model 2/Astra）日益封闭、寡头垄断下价格有上涨动力。他引用 Dwarkesh 观点：OpenAI 和 Anthropic 已消耗全球新增算力三分之一，明年或达一半，AI 公司有效劳动力数年内将超全球人口。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月27日3时43分"
+  },
+  {
+    "id": "cmtai5xg102dyrovuzuzrttps",
+    "title": "元递归自改进智能体超越八类基准",
+    "url": "https://x.com/dair_ai/status/2092698602401599868",
+    "summary": "DAIR.AI 介绍一种智能体递归自改进新方法：Meta^n 保持元操作固定、对其输入递归，而非让系统编辑自身机制，从而避免失稳并突破约两层的元深度上限。该方法在两种骨干模型上超越此前自改进智能体，覆盖全部八类基准；在 ARC-AGI-2 上为唯一得分高于零的方法，且随深度出现无需预设的分层角色。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月27日3时40分"
+  },
+  {
+    "id": "cmtainnb002o6rovu9camslvf",
+    "title": "Google Gemini 的品牌混乱问题，也是整个 AI 行业的通病",
+    "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai",
+    "summary": "Google 在 Gemini 应用中为聊天、Spark、Daily Brief 等每项功能单独命名，反而让用户困惑该用哪个，违背了\"无需猜测任务该用哪个功能\"的承诺。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月27日3时37分"
+  },
+  {
+    "id": "cmtahx5mi022wrovujb88q7ae",
+    "title": "OpenAI 完成 Hugging Face 事件审查并升级安全标准",
+    "url": "https://x.com/gdb/status/2092697786806669515",
+    "summary": "OpenAI 已完成对 Hugging Face 事件的审查，并发布技术报告与博客文章，重建智能体活动过程、解释现有防护失效原因及预防措施。基于此次教训，OpenAI 大幅提升了训练与评估基础设施中安全、安保和对齐的标准，且不仅限于部署环节。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年8月27日3时36分"
+  },
+  {
+    "id": "cmtaiifyl02lurovuy3sfx1c2",
+    "title": "Gemini 3.5 Transcribe 发布，AA-WER 2.6% 排名第五",
+    "url": "https://x.com/ArtificialAnlys/status/2092697329933643881",
+    "summary": "Google 发布 Gemini 3.5 Transcribe 与 Transcribe Live 两款 API：前者面向预录音频，AA-WER 2.6% 排名第五，处理速度约 84 倍实时；后者面向流式传输，首个最终转录延迟 0.40 秒，WER 4.0%。两者均支持 85+ 语言，预录版支持最多三人带时间戳的说话人识别，价格分别约 $5 与 $9 每千分钟。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月27日3时34分"
+  },
+  {
+    "id": "cmtainnb002o7rovuzytxlpjr",
+    "title": "OpenAI 高管接连出走，原因何在？",
+    "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus",
+    "summary": "OpenAI 自年初以来已有十余名高管离职，包括首席运营官、首席营收官、首席营销官及数据中心负责人 Chris Malone。公司称 Malone 离职源于基础设施团队重组，而联合创始人 Greg Brockman 正重新掌权，产品与基础设施团队均向其汇报。在 OpenAI 已秘密提交 IPO 文件、预计 2027 年上市的背景下，此次人事变动被视为削减成本、聚焦盈利的重组举措。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月27日3时34分"
+  },
+  {
+    "id": "cmtai5xfn02dwrovuvo3gfq6c",
+    "title": "Mainframe团队发布pcstack技能",
+    "url": "https://x.com/charlieholtz/status/2092697070813782199",
+    "summary": "Team @mainframe 一如既往地做着很棒的事情。\n\n【引用 @vinvan】：介绍 pcstack（笑），一种在 conductor cloud 中使用 pstack 的方法：https://gist.github.com/vincentmvdm/bafa2463be3061e385f0f178ad2d6bac\n\n我是 pstack 的信徒，但也喜欢 conductor cloud。这个技能教会我的智能体如何将 pstack 的 cursor 概念映射到 conductor。\n\n安装它，并确保 pstack 位于 skills/vendor 中。",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年8月27日3时33分"
+  },
+  {
+    "id": "cmtainnq702odrovujsh26lbr",
+    "title": "GPT 5.6-Cyber 三次逃逸虚拟机，揭示 AI 代理已成高级持续性威胁",
+    "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents",
+    "summary": "一位开发者测试 GPT 5.6-Cyber 的漏洞利用能力，该模型在约 12 小时内三次逃逸 QEMU/KVM 虚拟机，分别利用已披露内核漏洞、libslirp 已知及未标记漏洞，并发现多个 0-day。作者警告，不能再假设虚拟机足以隔离高级 AI 代理，应将其视为高级持续性威胁。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月27日3时33分"
+  },
+  {
+    "id": "cmtahx5mq022yrovuz104q2fa",
+    "title": "Claude Code 新增 SendFeedback 工具自动起草反馈",
+    "url": "https://x.com/trq212/status/2092696449616376140",
+    "summary": "Claude Code 新增 SendFeedback 工具，用户可直接让 Claude 起草并批准反馈，替代手动输入 /feedback 写报告。当任务失败、Claude 发现自身错误或用户指出问题时，它会自动生成报告，用户可审查、修改后发送。",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年8月27日3时31分"
+  },
+  {
+    "id": "cmtaihfjl02l1rovuxy4infth",
+    "title": "Perplexity CEO：本地智能体硬件将成前沿token入口",
+    "url": "https://x.com/AravSrinivas/status/2092695996262449567",
+    "summary": "Perplexity CEO Aravind Srinivas 称，DGX Spark 这类配备本地智能体电脑的硬件将成为消费前沿模型 token 的入口。Perplexity 探索了本地模型向远程前沿模型升级的多智能体协作，本地模型作为网关预处理 token，可节省 50% token，未来有望实现 90% 本地处理、10% 远程推理，带来 10 倍成本降低。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月27日3时29分"
+  },
+  {
+    "id": "cmtahx5m5022urovu8xwap1qw",
+    "title": "Claude Code 新增自动起草反馈功能",
+    "url": "https://x.com/ClaudeDevs/status/2092695038270775647",
+    "summary": "Claude Code 现在可以为你起草反馈。\n\n当出现故障、Claude 发现自己犯错，或你告知它某处出错时，它会自行撰写报告。\n\n你可以查看、修改并批准要发送的反馈。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月27日3时25分"
+  },
+  {
+    "id": "cmtahz2fa025mrovu7rk8pin8",
+    "title": "LangChain 八月通讯：Managed Deep Agents 与 LLM Gateway 进入公开测试版",
+    "url": "https://www.langchain.com/blog/august-2026-langchain-newsletter",
+    "summary": "LangChain 的 Managed Deep Agents 和 LLM Gateway 进入公开测试版，同时发布 Deep Agents v0.7、Tuned Evaluators、AWS 上的 Bring Your Own Cloud 以及 LangSmith Engine 升级。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年8月27日3时25分"
+  },
+  {
+    "id": "cmtahpaqr01svrovusjj5owbw",
+    "title": "OpenAI 回应 Hugging Face 事件：非 Astra 模型所致",
+    "url": "https://x.com/polynoamial/status/2092694522954412171",
+    "summary": "OpenAI 发布关于 Hugging Face 事件的技术报告与博客，重建智能体活动并说明防护失败原因及改进措施。Noam Brown 强调，该事件并非由基于 Astra 的下一代模型驱动，主要涉事模型规模与 GPT-5.6 Sol 相当，而新一代模型能力更强。",
+    "source": "X：Noam Brown (@polynoamial)",
+    "date": "2026年8月27日3时23分"
+  },
+  {
+    "id": "cmtaho0ui01s0rovuzlgt3z6w",
+    "title": "Google 推出 Gemini 3.5 Transcribe 语音转文本 AI 模型",
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text",
+    "summary": "Google 发布 Gemini 3.5 Transcribe，用于语音输入的 AI 模型，可去除\"嗯\"等语气词并润色文本。相比上一代 Chirp 3，语音到最终文本速度提升约 70%，实时语音错误率降至 5.5%。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月27日3时19分"
+  },
+  {
+    "id": "cmtahl2lp01o1rovurow861p3",
+    "title": "动荡的人工智能时代已经来临",
+    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "summary": "比尔·盖茨在 Gates Notes 发文，指出人工智能正进入一个动荡时期，技术迭代与行业格局变化加速。文章强调这一阶段将伴随不确定性，但长期影响深远，需关注 AI 发展带来的机遇与挑战。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月27日3时17分"
+  },
+  {
+    "id": "cmtah8b0601ktrovu22j7xr4f",
+    "title": "Perceptron 开源具身基础模型 Isaac 0.5，将遥操作需求降低 210 倍",
+    "url": "https://x.com/rohanpaul_ai/status/2092692716534759589",
+    "summary": "Perceptron 发布开源具身基础模型 Isaac 0.5，这是一个 36B 参数动态 MoE 模型，通过扩展无动作视频将遥操作需求降低 210 倍。该模型可输入摄像头图像/视频、人类指令和机器人当前状态，输出物体位置、任务进度或下一步动作，既能微调后直接控制机械臂，也可仅用于感知。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月27日3时16分"
+  },
+  {
+    "id": "cmtahfuaz01n8rovux301maam",
+    "title": "Grok Bot 上线 Cursor Pro 全量开放",
+    "url": "https://x.com/ericzakariasson/status/2092692642438033440",
+    "summary": "Grok Bot 现已面向所有 Cursor Pro 用户开放！\n\n所有 SuperGrok 和 Cursor Pro 订阅用户现均可使用 Grok Bot。\n\n我们同时将重置所有用户的每周使用限额。\n\n祝使用愉快！",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月27日3时16分"
+  },
+  {
+    "id": "cmtahn0vy01qrrovujtwlqahq",
+    "title": "Nvidia LPX 系统：小型模型高速解码新方案",
+    "url": "https://x.com/EpochAIResearch/status/2092692024772510137",
+    "summary": "根据 @ArtificialAnlys 对 Gemma 4 31B 的基准测试，Nvidia 的 Groq 3 LPX 系统在小型模型快速解码方面表现出色（>3，400 tok/s）。LPX 通过使用少量（128 GB）超高速 SRAM 替代 HBM 来实现这一性能。\n\nNvidia 提议将 LPU 与 GPU 相结合，将这一速度带到前沿规模模型。以下是其（可能）工作原理的解析。",
+    "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年8月27日3时13分"
+  },
+  {
+    "id": "cmtahnd2j01rhrovu85e1q9al",
+    "title": "OpenAI 发布 Hugging Face 事件技术报告",
+    "url": "https://x.com/OpenAI/status/2092691861773160673",
+    "summary": "我们对 Hugging Face 事件进行了彻底调查。\n\n我们正在发布一份技术报告和配套博客文章，还原智能体的活动过程，解释现有防护措施为何失效，并详细说明我们如何防止此类事件再次发生。\n\nhttps://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月27日3时13分"
+  },
+  {
+    "id": "cmtai1qy902b7rovu7ofpbxy8",
+    "title": "Grok Bot免费额度重置，订阅用户可用",
+    "url": "https://x.com/elonmusk/status/2092691713399931124",
+    "summary": "Grok @Bot 用户的免费使用额度已重置。\n\n【引用 @bot】：所有 SuperGrok 和 Cursor Pro 订阅用户现均可使用 Grok Bot。\n\n我们同时为所有用户重置了每周使用额度。\n\n祝使用愉快！",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月27日3时12分"
+  },
+  {
+    "id": "cmtah8b0e01kvrovuou1fz9lg",
+    "title": "Qwen3.8-Flash-Next 发布，融合 Qwen4 架构创新",
+    "url": "https://x.com/SemiAnalysis_/status/2092688580111974648",
+    "summary": "阿里通义千问发布 Qwen3.8-Flash-Next，采用与即将推出的 Qwen4 相同的架构创新。包括 510 亿参数的 N-gram Embedding（可将嵌入表卸载至低速廉价 DRAM）、门控残差连接（GR），以及微块粒度选择上下文的 Qwen 稀疏注意力（QSA）。这些创新展示了中国开源模型在残差连接等方向的前沿探索。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月27日3时0分"
+  },
+  {
+    "id": "cmtag5qsb0e8broj2f2v2ccyz",
+    "title": "美国半数数据中心或面临延期取消",
+    "url": "https://x.com/rohanpaul_ai/status/2092683261051093004",
+    "summary": "彭博社报道，Kimmeridge 预计美国计划中的数据中心最多 50% 可能面临延期或取消，电力连接、许可、施工及地方审批成为芯片和资本之外的最大瓶颈。政治阻力加剧，61% 美国人反对在附近新建数据中心（年初为 49%）。得州已暂停新数据中心电网连接审批以待审计，宾州则将 AI 数据中心移出快速许可通道并要求先获地方批准。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月27日2时39分"
+  },
+  {
     "id": "cmtaej1vz0czhroj2aybdbq26",
     "title": "Claude in Chrome 正式全面上线",
     "url": "https://claude.com/blog/claude-in-chrome-generally-available",
     "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
     "source": "Claude：Blog（网页）",
     "date": "2026年8月27日2时2分"
+  },
+  {
+    "id": "cmtag5qsb0e8croj2z8xfjph3",
+    "title": "MiniMax 上半年营收增 283%，毛利率仍落后同行",
+    "url": "https://x.com/rohanpaul_ai/status/2092680920289648692",
+    "summary": "MiniMax 上半年营收同比增长 283% 至 1.166 亿美元，毛利率从 12.1% 提升至 17.9%，但调整后净亏损扩大逾一倍至 2.93 亿美元，研发支出达 2.969 亿美元。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月27日2时29分"
+  },
+  {
+    "id": "cmtagc9lz0eciroj2v0i1479c",
+    "title": "Perplexity Computer 接入 20+ 金融数据源",
+    "url": "https://x.com/AravSrinivas/status/2092678594938257709",
+    "summary": "Perplexity 强化 Computer 对金融研究人员的实用性，新增连接 Dun & Bradstreet、Guidepoint、IBISWorld 等 20 多个授权数据源。分析师可直接提问，答案基于企业自有授权数据生成，无需 API 或额外登录。每个数字均可追溯至来源记录，现已在 Settings → Connectors 对所有 Perplexity 用户开放。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月27日2时20分"
+  },
+  {
+    "id": "cmtaepf970d8xroj2lfoo14f9",
+    "title": "Replit 推文：更多自由感觉真好",
+    "url": "https://x.com/Replit/status/2092673523625971808",
+    "summary": "更多自由感觉真好。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月27日2时0分"
   },
   {
     "id": "cmtadd1ei0aphroj20wgxdy6j",
@@ -13870,6 +14142,38 @@
     "summary": "🗣️💬 向 Gemini 3.5 Transcribe 问好，这是一款真正理解你代码库的语音转文本模型。\n\n观看这款最新模型如何在 @Antigravity 中构建时，过滤口头犹豫，同时将技术术语、文件名和代码变量精确锚定到当前上下文中。通过使用视觉偏置，该模型为复杂的开发者工作流带来了深度的、屏幕感知的上下文。",
     "source": "X：Google AI for Developers (@googleaidevs)",
     "date": "2026年8月27日1时5分"
+  },
+  {
+    "id": "cmtaemgwz0d4uroj2095tz5jn",
+    "title": "Grok Bot 全面开放，增长超预期",
+    "url": "https://x.com/mntruell/status/2092672784774394350",
+    "summary": "Grok Bot 现已向所有标准 Grok 或 Cursor 订阅用户开放，其增长速度超过以往任何产品。用户已将其用于运营小型电商、协调客户活动、测试生产软件及处理日常繁琐工作。所有 SuperGrok 和 Cursor Pro 订阅者均可使用，且每周使用限制已重置。",
+    "source": "X：Michael Truell (@mntruell)",
+    "date": "2026年8月27日1时57分"
+  },
+  {
+    "id": "cmtaepf900d8vroj2nndamhnb",
+    "title": "Claude Devs 为 SDK 与 CLI 新增 Admin API",
+    "url": "https://x.com/ClaudeDevs/status/2092672740197081360",
+    "summary": "我们已在 SDK 和 `ant` CLI 中新增 Admin API。\n\n你可以管理成员、工作区和 API 密钥，并查看组织的速率限制。\n\n文档：https://platform.claude.com/docs/en/manage-claude/admin-api",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月27日1时57分"
+  },
+  {
+    "id": "cmtaf35e10dgeroj22snijjc7",
+    "title": "Runable Grow 融资 2100 万美元，推全链路 GTM 智能体",
+    "url": "https://x.com/rohanpaul_ai/status/2092672524660457781",
+    "summary": "Runable 完成 2100 万美元融资，并推出 Runable Grow--号称全球首个端到端运营企业市场推广（GTM）的智能体，覆盖 Meta、Google、ChatGPT 广告投放、冷邮件/电话、线索生成、社交监听及 SEO/AEO 优化。该公司称已有 180 万用户，并推出前 100 美元免费体验活动。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月27日1时56分"
+  },
+  {
+    "id": "cmtag0r7d0e5iroj2ll6xhhuf",
+    "title": "Qwen 新架构开源：125B 总参仅激活 6B",
+    "url": "https://x.com/AYi_AInotes/status/2092671881098768682",
+    "summary": "Qwen 团队开源新架构，总参数 125B 加 51B 嵌入，每 token 仅激活 6B，训练成本降至上一代 1/9，SWE-bench Pro 拿下 62.5，反超 Claude Opus 4.6 Max 的 53.4。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月27日1时53分"
   },
   {
     "id": "cmtadb4580annroj211ai5y9a",
