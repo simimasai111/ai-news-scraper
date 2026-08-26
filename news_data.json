@@ -13856,12 +13856,36 @@
     "date": "2026年8月26日9时55分"
   },
   {
+    "id": "cmt9h1g6b0jpurolyacox1ce5",
+    "title": "Windows 任务管理器之父打造：Win11 版 TMOG 发布，107 页文档让 AI 编码",
+    "url": "https://www.ithome.com/0/994/341.htm",
+    "summary": "微软退休工程师、任务管理器之父戴夫·普拉默发布原生任务管理器 TMOG 0.1.1，面向 Windows 11 和 Linux。他先编写 107 页规格说明再交给 Claude Code 处理，首批版本在搭载 M5 芯片的 MacBook Air 上耗时约 4.5 小时完成，应用首次运行即可工作。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日9时50分"
+  },
+  {
     "id": "cmt9fwk0p0isprolyis3zlq9j",
     "title": "Perplexity CEO展望持续推理智能体未来",
     "url": "https://x.com/AravSrinivas/status/2092428727338865110",
     "summary": "一个后台进程，持续从每个连接器（或应用）摄取上下文，在永续推理循环中执行多跳推理，并运行在你的硬件上。这就是未来。",
     "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
     "date": "2026年8月26日9时47分"
+  },
+  {
+    "id": "cmt9hq7fj0kewrolyh5ru4qtz",
+    "title": "创作思维滞后如何扼杀AI时代创造力",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2092428692064817268",
+    "summary": "ZHO指出，落后的创作思维、理论和范式已无法适应技术新步伐，反而扼杀了创造力与形成自我视觉语言的可能性。他认为当下AI制作创作与街头摄影同理，但AI带来的革命性影响远不止于此，并附视频链接展开论述。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月26日9时47分"
+  },
+  {
+    "id": "cmt9hq7f80keurolygcx12fia",
+    "title": "选Mac跑本地AI：按统一内存而非CPU跑分，四档配置口诀",
+    "url": "https://x.com/AYi_AInotes/status/2092428235141218447",
+    "summary": "博主建议按统一内存选Mac跑本地AI，而非看CPU跑分。日常轻量AI选Mac mini M6（16-32G，899美元起），中度本地模型选Mac mini M5 Pro（48-64G。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月26日9时45分"
   },
   {
     "id": "cmt9g2ck90ivmroly8cn9ohlf",
@@ -13878,6 +13902,14 @@
     "summary": "Parallels Desktop 27 发布，新增基于 Metal 的图形驱动，为 Windows 虚拟机带来 OpenGL 4.3 支持。在搭载 M3 及后续处理器的 Mac 上，OpenGL 性能最高提升 160%，ArcGIS Pro 三维渲染速度最高提升 35%。",
     "source": "IT之家（RSS）",
     "date": "2026年8月26日9时3分"
+  },
+  {
+    "id": "cmt9h1g6b0jpvrolyr5yzv6j4",
+    "title": "OpenAI 重启 ChatGPT Plus 五小时限额机制，Pro 账号暂不受影响",
+    "url": "https://www.ithome.com/0/994/339.htm",
+    "summary": "OpenAI 于 8 月 25 日全面恢复标准版 ChatGPT Plus 用户的滚动五小时使用上限，适用于 Codex 和 ChatGPT Work 环境。该限制曾于 7 月中旬随 GPT-5.6 Sol 模型推出而取消，现因分散计算负载及保护低频用户而重启。Pro 100 美元与 200 美元套餐、Enterprise 和 Edu 账户暂不受影响。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日9时37分"
   },
   {
     "id": "cmt9fpzul0iomroly6ki7w16c",
@@ -14966,6 +14998,134 @@
     "summary": "Claude 现在在聊天和 Claude Cowork 之间拥有统一的记忆，由你决定其中包含什么内容。\n\n把任务交给 Cowork，它会从 Claude 在聊天中已经了解的信息开始：你讨论过的项目、你经理的偏好，或者上个季度的客户。",
     "source": "X：Claude (@claudeai)",
     "date": "2026年8月26日1时14分"
+  },
+  {
+    "id": "cmt9ixqv10lhbrolyrdribh7q",
+    "title": "阿里云QwenWork国际版公测上线",
+    "url": "https://x.com/alibaba_cloud/status/2092448199550124390",
+    "summary": "QwenWork 国际版正式上线 🚀\n一个工作空间，汇聚所有前沿模型。一个真正能干活儿的 AI 智能体--网页应用、文档、研究、图片、视频等等。\n\n现已开放公测 → https://click.alibabacloud.com/m/20000002764/\n\n#AIagent #QwenWork",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日11时5分"
+  },
+  {
+    "id": "cmt9ixqv10lharolyg6m36rq2",
+    "title": "阿里云 Wan 3.0 上线 ArtArch，支持 30 秒生成",
+    "url": "https://x.com/alibaba_cloud/status/2092450541297389666",
+    "summary": "阿里云 Wan 3.0 现已上线 ArtArch，支持最长 30 秒的视频生成，主打真实感渲染、电影级动态与更强的场景一致性。用户可通过 Model Studio 和 Qwen Cloud 获取 API 接入。8 月 25 日至 9 月 7 日期间，每位用户可免费生成 100 次，且不限时长。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日11时14分"
+  },
+  {
+    "id": "cmt9j6m1m0lktrolye90igqp0",
+    "title": "全球限 7 只：奥尔特曼定制 OpenAI 腕表，硅谷最新身份象征",
+    "url": "https://www.ithome.com/0/994/420.htm",
+    "summary": "奥尔特曼委托瑞士制表商 Vanguart 定制 7 只带 OpenAI 标识的腕表，基于 Orb 表款，刻有\"COMPUTE IS DESTINY\"等字样，常规版本起售价约 18 万美元。OpenAI 此前还定制过印有\"Good Research Takes Time\"的 Tudor 腕表。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日11时12分"
+  },
+  {
+    "id": "cmt9htsk00kgwrolyhkzd3rev",
+    "title": "pstack 免费工具让 CWV 全绿",
+    "url": "https://x.com/poteto/status/2092433577942372858",
+    "summary": "试试 pstack！就像雇了我但免费 ：）\n\n【引用 @damonchen】：/poteto-mode 太不真实了\n\n截了几张 CWV 截图，丢进 cursor，打开 /poteto-mode\n\n🥔 开始干活\n\n现在我们的 CWV 全绿了\n\n我们活在什么样的世界啊！",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年8月26日10时6分"
+  },
+  {
+    "id": "cmt9j6m1m0lkxrolyvgbvqr9c",
+    "title": "Stability AI 完成 7600 万美元 B 轮融资：EA 与三大音乐娱乐企业均参投",
+    "url": "https://www.ithome.com/0/994/413.htm",
+    "summary": "Stability AI 宣布完成总额 7，600 万美元（约合 5.12 亿元人民币）的 B 轮融资，资金将用于推动创意制作产品开发、深化应用研究并扩展专业服务业务。本轮投资者包括游戏企业 EA、索尼音乐、环球音乐、华纳音乐三大音乐娱乐企业及 AMD 风投部门。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日10时57分"
+  },
+  {
+    "id": "cmt9j6m1m0lkyrolyl9muz69q",
+    "title": "谷歌 Android XR 拟升级实时翻译：\"仅前方\"拾音增强一对一对话",
+    "url": "https://www.ithome.com/0/994/411.htm",
+    "summary": "谷歌计划为 Android XR 引入\"聆听区域\"设置，提供\"仅前方\"和\"周边区域\"2 种麦克风模式。该功能通过逆向拆解 Google Translate for Android 10.32.66 版本发现，位于\"翻译设置\"菜单中并标注\"仅限眼镜\"，目标设备为运行 Android XR 的智能眼镜。\"仅前方\"模式适合一对一对话并减少背景噪声，\"周边区域\"模式可能调用完整麦克风阵列扩大拾取范围。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日10时55分"
+  },
+  {
+    "id": "cmt9j6m1m0ll0roly317yyxj4",
+    "title": "汤道生内部发文回应腾讯 AI 慢了：AI 竞争不是短跑，熬得久比起得早更重要",
+    "url": "https://www.ithome.com/0/994/409.htm",
+    "summary": "腾讯集团高级执行副总裁汤道生在内部刊物《知点》年刊发文，直面外界\"腾讯做 AI 慢了\"的评价，坦言算力不足拖累混元大模型迭代与产品落地，内部存在焦虑。他判断 AI 竞争是马拉松而非短跑，当前行业才刚起步，熬得久比起得早更重要，能否长期投入并抓住真实场景需求才是穿越周期的关键。文章由汤道生与 AI 协同完成，他强调行业不能只聚焦大模型本身，工程能力决定落地速度，场景是腾讯的核心优势。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日10时51分"
+  },
+  {
+    "id": "cmt9hv68x0khnrolyl2zv4l7r",
+    "title": "阿里云发布QwenWork智能体平台",
+    "url": "https://x.com/alibaba_cloud/status/2092443252209168504",
+    "summary": "AI 如何让你的工作更轻松？\n\n隆重推出 QwenWork，一个一站式职场 AI 智能体平台，旨在通过先进的 AI 模型和智能体能力提升生产力。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日10时45分"
+  },
+  {
+    "id": "cmt9hv68x0khoroly9jifyz7f",
+    "title": "阿里云万相3.0登陆Replicate支持30秒视频",
+    "url": "https://x.com/alibaba_cloud/status/2092442018912051674",
+    "summary": "Wan 3.0 已登陆 @replicate！🚀 原生 30 秒单镜头视频，带同步音频--现已在 Replicate 上线 ↓ 更多 API 接入：\n• Model Studio： https://click.alibabacloud.com/m/20000002017/\n• Qwen Cloud： https://click.qwencloud.com/m/20000002025/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日10时40分"
+  },
+  {
+    "id": "cmt9j6m1m0ll4rolybzt0ra21",
+    "title": "斯坦福研究：22~25 岁职场新人受 AI 冲击最大，高等教育可缓冲影响",
+    "url": "https://www.ithome.com/0/994/403.htm",
+    "summary": "斯坦福数字经济实验室基于 ADP 数百万美国劳动者的高频薪资数据研究发现，生成式 AI 普及后，22-25 岁年轻人在软件开发和客服等高影响职业的入门级就业率落后约 19%，高于 2025 年的 13%，而资深从业者就业平稳甚至上升。研究认为，入门岗位依赖可被 AI 自动化替代的\"编码化知识\"，而高等教育可缓冲这一冲击。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日10时40分"
+  },
+  {
+    "id": "cmt9hv68x0khprolyles4pcag",
+    "title": "阿里云 Wan 3.0 上线 Flaq AI，主打电影级视频生成",
+    "url": "https://x.com/alibaba_cloud/status/2092441455365325035",
+    "summary": "阿里云 Wan 3.0 现已在 @aiflaq 上线，专为电影级视觉与高质量视频生成打造。用户可通过 Model Studio 和 Qwen Cloud 获取 API 访问。Flaq AI 称其\"自行车价格、法拉利性能\"，并用同一提示词对比 Seedance 2.5 后评价\"绝对电影级完美\"。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日10时38分"
+  },
+  {
+    "id": "cmt9hv68x0khqroly0xefb9z2",
+    "title": "阿里云 Wan 3.0 上线 OiiOii AI",
+    "url": "https://x.com/alibaba_cloud/status/2092440797023236520",
+    "summary": "阿里云 Wan 3.0 现已上线 OiiOii AI，支持更长视频生成、更强一致性和多参考输入，确保角色、场景与细节在快速动作中保持连贯流畅。API 可通过 Model Studio 和 Qwen Cloud 获取。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日10时35分"
+  },
+  {
+    "id": "cmt9i2ofo0knsroly9e1fxduy",
+    "title": "MiniMaxthon 黑客松今日启动，三大赛道",
+    "url": "https://x.com/MiniMax_AI/status/2092440177658765563",
+    "summary": "三条赛道，14 天，还有大量 MiniMax 模型可供使用 🛠️\n\nMiniMaxthon 今天开始。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月26日10时33分"
+  },
+  {
+    "id": "cmt9h1g6a0jpmrolyen2v6rak",
+    "title": "工信部：我国已有近 200 项 AI 关键标准研制成功，将加强 6G 技术研发",
+    "url": "https://www.ithome.com/0/994/397.htm",
+    "summary": "工信部在国新办发布会上介绍，我国已有近 200 项人工智能关键标准成功研制。下一步将加快新一代通信网、算力网规划建设，推动 5G、工业互联网在重点行业规模化普及，并加强 6G 技术研发。\"十五五\"期间将聚焦新一代信息技术等新兴产业，到 2035 年培育约 100 家示范园区和 1，000 家示范企业。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日10时24分"
+  },
+  {
+    "id": "cmt9h1g6a0jpnroly6hldzsfp",
+    "title": "Waymo 计划在德国慕尼黑推出无人驾驶出租车服务，预计 2027 年底前向公众开放",
+    "url": "https://www.ithome.com/0/994/390.htm",
+    "summary": "Waymo 宣布计划在德国慕尼黑推出无人驾驶出租车服务，预计 2027 年底前后向公众开放商业网约车服务。项目将从人工驾驶测绘起步，逐步过渡到配备安全驾驶员测试，最终移除安全驾驶员并分批向乘客开放。目前 Waymo 尚未获得德国自动驾驶测试许可，需先完成道路测绘、测试及监管审批。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日10时22分"
+  },
+  {
+    "id": "cmt9h1g6b0jporoly08kifuwf",
+    "title": "万物皆可 Doom：开发者在 GPT-5.6 Sol 定制 CPU 上运行《毁灭战士》游戏",
+    "url": "https://www.ithome.com/0/994/387.htm",
+    "summary": "AI 计算爱好者 Angel 在 GPT-5.6 Sol 模型设计的定制 CPU Codex-R32 上成功运行了《毁灭战士》游戏。该 CPU 运行于 Turing Complete 沙盒中，游戏采用 C 语言编写的 PureDOOM 移植版，编译为原生 RV32IM 机器码直接执行。演示视频将游戏画面叠加在实时显示周期计数器和内存数值的 CPU 电路示意图上。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日10时21分"
   },
   {
     "id": "cmt8xi7al02udrolyydg8a9ae",
