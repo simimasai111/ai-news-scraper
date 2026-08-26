@@ -15000,6 +15000,62 @@
     "date": "2026年8月26日1时14分"
   },
   {
+    "id": "cmt9pd88j0sw7rolyp3e14adw",
+    "title": "Qwen3.8-27B 在 Token Harbor 免费开放",
+    "url": "https://x.com/alibaba_cloud/status/2092494691866665194",
+    "summary": "Qwen3.8-27B 现已在 Token Harbor 免费开放。#BuildWithQwen\n\n27B 参数。多模态。约 1M 上下文。现在免费。👀\n\n专为编程、研究和长周期智能体打造--原生支持文本、图像与视频理解，并支持可配置思考。\n\n无需积分。直接选择免费模型即可开始构建。⚡\n\n→ http://tokenharbor.ai #Qwen #TokenHarbor #AI",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日14时9分"
+  },
+  {
+    "id": "cmt9pm6790szzrolyjdq5amkb",
+    "title": "299 美元：高通 Arduino VENTUNO Q 边缘 AI 平台开放预购",
+    "url": "https://www.ithome.com/0/994/519.htm",
+    "summary": "高通子公司 Arduino 的边缘 AI 平台 VENTUNO Q 开放预购，定价 299 美元（约合 2，014 元人民币）。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日14时9分"
+  },
+  {
+    "id": "cmt9pm6790t00roly02z8yh1e",
+    "title": "曝微软 Win11 画图 / 照片向 AI 生图嵌入 128-bit 隐藏标识符",
+    "url": "https://www.ithome.com/0/994/517.htm",
+    "summary": "安全研究员 Xusheng Li 逆向分析发现，微软画图和照片会将 GUID 标识符嵌入 AI 生成的图片中。该标识符为 128-bit 数值、占 16 字节，即使 Copilot 在本地生成图片，用户提示词仍可能先发送至微软服务器。微软还会向图片添加 C2PA 内容认证，同一 watermarkId 作为\"软绑定\"值关联隐藏水印与元数据。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日14时8分"
+  },
+  {
+    "id": "cmt9pd88k0sw8roly52spkruc",
+    "title": "阿里云Wan3.0文档秒变30秒解说视频",
+    "url": "https://x.com/alibaba_cloud/status/2092493783992525011",
+    "summary": "Wan3.0 用于深度解说\n\n密集的技术文档很少能得到应有的阅读。Wan3.0 可将 DOC、XLS、TXT 或 MD 文件转化为清晰的 30 秒解说视频，内容完整保留，只是更易于看完。\n\n输入任何内容，获得电影级输出。· 阿里云百炼：https://click.alibabacloud.com/m/20000002017/ · 通义云：https://click.qwencloud.com/m/20000002025/ #LetsWanIt #阿里云 #Wan #通义云",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日14时6分"
+  },
+  {
+    "id": "cmt9pkrzt0sz7rolyskw1so4r",
+    "title": "Codex 锁定功能致 macOS 钥匙串故障",
+    "url": "https://x.com/swyx/status/2092492963435946494",
+    "summary": "提醒：目前不要使用 Codex 的\"锁定使用\"功能。它当前依赖不稳定的 Mac 功能，本周已两次彻底锁死我的 macOS 钥匙串。\n\n感谢 @_chenglou 提供了苹果开发者论坛的链接，论坛已确认这是\"已知问题\"。还是避开为好。当然，如果能全部在云端完成就好了，但云端还没准备好。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年8月26日14时2分"
+  },
+  {
+    "id": "cmt9pm6790szxroly42ify3mo",
+    "title": "英飞凌宣布收购印度数据中心电源管理技术企业 C2i Semiconductors",
+    "url": "https://www.ithome.com/0/994/534.htm",
+    "summary": "英飞凌宣布收购总部位于印度班加罗尔的 C2i Semiconductors，交易预计于 2026Q3 完成。C2i 专注于为 AI 数据中心应用提供软件定义多相控制器与智能功率级服务，曾获英特尔 CEO 陈立武资金支持。此次收购将巩固英飞凌在 AI 数据中心电源解决方案领域的地位，并增强其在印度的工程能力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日14时23分"
+  },
+  {
+    "id": "cmt9pd88k0sw9rolyfxw0j1br",
+    "title": "阿里云Wan3.0上线营销视频生成功能",
+    "url": "https://x.com/alibaba_cloud/status/2092491465112908180",
+    "summary": "Wan3.0 用于产品营销\n\n给 Wan3.0 一份 PPT、PDF、图片或 URL，即可获得一支电影感的 30 秒产品短片，原生 1080P，对白与音效同步生成，无需拍摄。\n\n现已全面可用，立即开始创作。· 阿里云百炼：https://click.alibabacloud.com/m/20000002017/ · 通义云：https://click.qwencloud.com/m/20000002025/ #LetsWanIt #阿里云 #Wan #通义云",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日13时56分"
+  },
+  {
     "id": "cmt9oi6570q49roly80lk0nwp",
     "title": "中国一次性机器人运动员的真相",
     "url": "https://x.com/thexpin/status/2092489514367561736",
@@ -15008,11 +15064,51 @@
     "date": "2026年8月26日13时49分"
   },
   {
+    "id": "cmt9ozhxi0so5roly50uuubv4",
+    "title": "Qwen3.8-27B登顶开源图像转网页竞技场",
+    "url": "https://x.com/Alibaba_Qwen/status/2092489636287570169",
+    "summary": "通义千问Qwen3.8-27B在Image-to-WebDev Arena中位列开源模型第一、总榜第七，1574分，仅27B参数即达到与2.8T参数的Kimi K3 （Max）相当的性能。该模型定价为每百万输入/输出token $0.40/$3，已推动帕累托前沿。官方预告今晚将发布新惊喜。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年8月26日13时49分"
+  },
+  {
+    "id": "cmt9pm6790t01rolyowki3ix3",
+    "title": "Linux 之父托瓦兹借助 AI 定位 Intel Xe 黑屏故障",
+    "url": "https://www.ithome.com/0/994/499.htm",
+    "summary": "Linux 创始人林纳斯·托瓦兹借助 AI，通过 24 个调试补丁、18 次内核启动，成功排查 Intel Xe 图形驱动中的内存破坏漏洞。问题根源是 get_flat_ccs_offset（） 函数将地址向上对齐到 128 KiB 边界后，低于该地址的空间被 VRAM 分配器误当作可用内存，最终修复仅需将 round_up（） 改为 round_down（）。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日13时48分"
+  },
+  {
+    "id": "cmt9oq2r50sffroly836zndtb",
+    "title": "IBM 发布 Granite 4.2：为开放企业模型带来原生推理与智能体强化学习",
+    "url": "https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models",
+    "summary": "IBM 发布 Granite 4.2 开源推理模型家族，提供 3B、8B、30B 三种参数规模，均支持思维链并配备思考/非思考开关，全部以 Apache 2.0 协议开源。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月26日13时48分"
+  },
+  {
     "id": "cmt9oaniy0pynroly2ex9a919",
     "title": "阿里云Wan3.0工作流可视化功能发布",
     "url": "https://x.com/alibaba_cloud/status/2092487630482980964",
     "summary": "Wan3.0 面向工作流\n\n工作流文档有时难以解释清楚。Wan3.0 简化了工作流的查看方式。它可将 DOC、MD、URL 或音频文件，以及 10 张图片、5 个视频和 5 段音频片段作为参考，转化为一段 30 秒的演示视频，展示流程本身而非文字描述。\n\n立即可视化你的工作流：· 阿里云百炼：https://click.alibabacloud.com/m/20000002017/ · 通义千问云：https://click.qwencloud.com/m/20000002025/ #LetsWanIt #阿里云 #Wan #通义千问云",
     "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日13时41分"
+  },
+  {
+    "id": "cmt9ozhxw0so9roly68hfnux6",
+    "title": "好产品至少需要34天打磨",
+    "url": "https://x.com/thsottiaux/status/2092487667426738179",
+    "summary": "好产品需要时间打磨。至少34天。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月26日13时41分"
+  },
+  {
+    "id": "cmt9ozhxq0so7roly8my34g49",
+    "title": "AI用于芯片设计被低估",
+    "url": "https://x.com/gdb/status/2092487630218985867",
+    "summary": "AI用于芯片设计被低估了。",
+    "source": "X：Greg Brockman (@gdb)",
     "date": "2026年8月26日13时41分"
   },
   {
