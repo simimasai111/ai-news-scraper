@@ -15000,6 +15000,22 @@
     "date": "2026年8月26日1时14分"
   },
   {
+    "id": "cmt9rrbe80uqhrolybwk9uf8e",
+    "title": "Artificial Analysis 携手 Liquid AI 发布手机端 AI 跑分基准，公布 iPhone 17 Pro 本地 AI 性能排名",
+    "url": "https://www.ithome.com/0/994/550.htm",
+    "summary": "Artificial Analysis 与 Liquid AI 联合发布面向手机端的 AI 跑分基准，在 iPhone 17 Pro 上测试 4 bit 量化后体积不超过 8GB 的模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日15时12分"
+  },
+  {
+    "id": "cmt9rrbe80uqirolyb5e60bvx",
+    "title": "AMD 为 Versal RF 自适应 SoC 导入 UCIe 1.1 互连支持",
+    "url": "https://www.ithome.com/0/994/549.htm",
+    "summary": "AMD 宣布为 Versal RF 自适应 SoC 导入 UCIe 1.1 芯粒互连规范支持，成为首批支持该规范的 Versal 自适应 SoC。该 SoC 集成射频数据转换器、DSP、AI 引擎和可编程逻辑，提供高达 80 TOPS 异构 DSP 算力，并配备 4 个 UCIe-SP 和 2 个 UCIe-AP 接口，可实现 Tbps 级封装内互连带宽。部分量产版芯片预计 2027Q4 上市。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日15时11分"
+  },
+  {
     "id": "cmt9pd88j0sw7rolyp3e14adw",
     "title": "Qwen3.8-27B 在 Token Harbor 免费开放",
     "url": "https://x.com/alibaba_cloud/status/2092494691866665194",
@@ -15030,6 +15046,22 @@
     "summary": "Wan3.0 用于深度解说\n\n密集的技术文档很少能得到应有的阅读。Wan3.0 可将 DOC、XLS、TXT 或 MD 文件转化为清晰的 30 秒解说视频，内容完整保留，只是更易于看完。\n\n输入任何内容，获得电影级输出。· 阿里云百炼：https://click.alibabacloud.com/m/20000002017/ · 通义云：https://click.qwencloud.com/m/20000002025/ #LetsWanIt #阿里云 #Wan #通义云",
     "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "date": "2026年8月26日14时6分"
+  },
+  {
+    "id": "cmt9qsv7o0tyzrolyhciwyofw",
+    "title": "腾讯混元回应Hy4期待：正在推进",
+    "url": "https://x.com/TencentHunyuan/status/2092505865752596612",
+    "summary": "谢谢。我们正在推进中--很快会有更多消息。",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "date": "2026年8月26日14时54分"
+  },
+  {
+    "id": "cmt9qftc30tr7rolywvk1c4r8",
+    "title": "Qwen3.8-27B登顶开源图像转网页竞技场",
+    "url": "https://x.com/alibaba_cloud/status/2092500516509258186",
+    "summary": "阿里云Qwen3.8-27B在Image-to-WebDev Arena中位列开源模型第一、总榜第七，1574分，仅27B参数即比肩2.8T参数的Kimi K3 （Max）。该模型定价$0.40/$3每百万输入/输出token，已推动帕累托前沿。官方预告今晚将发布新惊喜，并开放Qwen3.8-Max API访问。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日14时32分"
   },
   {
     "id": "cmt9pkrzt0sz7rolyskw1so4r",
