@@ -13848,6 +13848,150 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmt9cr3s60g6lrolyqkz7uhf3",
+    "title": "谷歌杀入法律 AI 赛道，推出专用 Gemini 工具",
+    "url": "https://www.ithome.com/0/994/319.htm",
+    "summary": "谷歌周二扩展 Gemini Enterprise 平台，推出面向律师和律所的 Gemini Enterprise for Legal 工具，支持与法律软件集成并提供可处理法律及行政工作的 AI 智能体。该工具已获 Weil Gotshal、Cleary Gottlieb、Freshfields 等律所参与合作开发，谷歌同时宣布推出面向金融服务行业的工具。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日8时7分"
+  },
+  {
+    "id": "cmt9cuk090gabrolyp93qv08d",
+    "title": "OpenAI 数据中心负责人 Chris Malone 离职，高管流失潮持续",
+    "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues",
+    "summary": "OpenAI 前数据中心负责人 Chris Malone 上周离职，其任职仅约一年半。OpenAI 回应称已重组基础设施组织，Malone 改为向副总裁 Sachin Katti 汇报。今年已有 13 名高管离职，包括前 COO Brad Lightcap 等，公司 IPO 已推迟至 2027 年。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月26日8时6分"
+  },
+  {
+    "id": "cmt9dboud0gu1rolyqfiutmsa",
+    "title": "Grok Bot 简单实用的客户发现方法",
+    "url": "https://x.com/elonmusk/status/2092407955169931682",
+    "summary": "Elon Musk 分享了一条用 Grok Bot 寻找客户的实用技巧：先在 X 上搜索抱怨竞品或寻找替代方案的用户，再通过 @amplemarket 连接器了解对方公司与个人背景，最后将其设为每周自动运行的例行程序，持续获取购买信号。该方法无需猜测用户需求，因为他们已公开表达。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月26日8时25分"
+  },
+  {
+    "id": "cmt9cpsps0g62rolyub01e1ww",
+    "title": "Artificial Analysis 编码智能体指数引入奖励黑客修正",
+    "url": "https://x.com/ArtificialAnlys/status/2092406804424839199",
+    "summary": "Artificial Analysis 在 Coding Agent Index v1.4 中为 Terminal-Bench v2.1 引入奖励黑客修正：若模型通过在线获取已发布基准答案等作弊方式\"完成\"任务，该次尝试将被记零分。不同智能体和模型的作弊率差异显著，且 Terminal-Bench v2.1 任务未明确禁止外部搜索，并允许公共互联网访问。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月26日8时20分"
+  },
+  {
+    "id": "cmt9cr3s60g6jrolyfnkn58cf",
+    "title": "在职约 17 个月：曝 OpenAI 数据中心负责人马隆已离职",
+    "url": "https://www.ithome.com/0/994/324.htm",
+    "summary": "CNBC 报道称，OpenAI 数据中心负责人克里斯·马隆（Chris Malone）已离职，成为近期核心高管出走的最新一例。他于 2025 年 3 月加入 OpenAI，在职约 17 个月，曾主导与甲骨文、软银合作的 Stargate 星际之门项目等算力基建扩建计划。OpenAI 回应称已重组基础设施组织架构，团队领导层清晰明确。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日8时19分"
+  },
+  {
+    "id": "cmt9ci9em0g3mroly509oxth9",
+    "title": "OpenAI 企业智能体战略转向信号",
+    "url": "https://x.com/emollick/status/2092404982012158354",
+    "summary": "这标志着变化之快--OpenAI 在 2025 年 10 月曾将这一方案宣称为企业 AI 智能体的未来。\n\n他们在 6 月砍掉了 Agent Builder。（但仍有相当多的企业产品在使用这一模型构建智能体。）",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月26日8时13分"
+  },
+  {
+    "id": "cmt9bn75v0fenrolyo7t99ml1",
+    "title": "Breeze TTS 2 登顶开源语音合成竞技场",
+    "url": "https://x.com/ArtificialAnlys/status/2092399623839326550",
+    "summary": "Breeze TTS 2 在 Artificial Analysis Provider Voices 语音竞技场中成为排名第一的开源权重 TTS 模型，Elo 达 1，215，领先 Fish Audio S2 Pro 90 分，总排名第 6。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月26日7时51分"
+  },
+  {
+    "id": "cmt9bn76a0feproly43uy776p",
+    "title": "MiniMax-M3 以最低成本完成智能体任务",
+    "url": "https://x.com/MiniMax_AI/status/2092399533989015780",
+    "summary": "很高兴看到这样的真实世界智能体基准测试 👇\n\nMiniMax-M3：仅需 $0.018 即可端到端完成创建收件箱、撰写并发送一封商务邮件。榜单上成本最低的模型--而且它完成了任务。\n\n这就是高效智能的样子。\n\n（没错！我们是一家前沿实验室--我们不仅构建视频和音乐模型，还训练并开源我们的前沿大语言模型供你使用。）",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月26日7时51分"
+  },
+  {
+    "id": "cmt9bv02x0fo2rolyndvxixo0",
+    "title": "Liquid AI 开源 Pipette：一套同时评测端侧模型、量化、运行时与硬件的可复现基准套件",
+    "url": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together",
+    "summary": "Liquid AI 与 Artificial Analysis 合作开源 Pipette，这是一套面向边缘设备的端侧模型基准测试平台，以\"模型+量化+运行时+设备\"整体配置为测量单位。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月26日7时48分"
+  },
+  {
+    "id": "cmt9cr3s70g6rroly1zu3vbvq",
+    "title": "字节跳动发布\"豆包工作\"Agent 产品，与飞书深度打通",
+    "url": "https://www.ithome.com/0/994/311.htm",
+    "summary": "字节跳动8月25日正式发布\"豆包工作\"，作为豆包面向生产力场景推出的全新Agent产品与品牌，与飞书深度打通。该产品能围绕用户目标自主拆解任务、调用工具，持续推进复杂工作流程。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日7时44分"
+  },
+  {
+    "id": "cmt9bu6di0flbrolyso1ewh70",
+    "title": "Anthropic 的 30 万亿美元幻想",
+    "url": "https://garymarcus.substack.com/p/anthropics-30-trillion-fantasy",
+    "summary": "针对 Anthropic 近期向求职者询问是否接受股价归零可能性的报道，Gary Marcus 指出该公司实际抱有更大野心，并质疑其估值幻想。他援引推文称，最终接盘的不仅是散户投资者，还包括养老基金。与此同时，汤森路透成为最新一家减少使用 Claude 的企业，现实与幻想之间的竞赛仍在继续。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月26日7时43分"
+  },
+  {
+    "id": "cmt9bea7i0f8yrolydw8lbi7f",
+    "title": "个人博客改版创意征集",
+    "url": "https://x.com/poteto/status/2092396221306671353",
+    "summary": "好吧，我的博客 https://no.lol 早就该彻底改版了。好几年没动过了。给我你们最好的点子，告诉我该拿它做什么，我会让 @bot 来实现！",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年8月26日7时38分"
+  },
+  {
+    "id": "cmt9cr3s70g6srolymhnqkrsm",
+    "title": "微软盘点 Windows on Arm 进展：英伟达 RTX Spark 入局，多厂商秋季上线 Arm PC",
+    "url": "https://www.ithome.com/0/994/310.htm",
+    "summary": "微软发文回顾 Windows on Arm 一年进展，英伟达将于今年晚些时候凭借 RTX Spark SoC 加入该阵营，与高通骁龙 X 平台共同巩固平台前景。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日7时37分"
+  },
+  {
+    "id": "cmt9cr3s70g6troly0qbyufzn",
+    "title": "英伟达 RTX Spark 新增支持《Apex 英雄》等 5 款游戏，原生支持 EA Javelin 反作弊系统",
+    "url": "https://www.ithome.com/0/994/309.htm",
+    "summary": "英伟达在科隆游戏展宣布，RTX Spark 在秋季上市前新增支持《EA SPORTS F1 25》《Apex 英雄》《纪元 117：罗马和平》《ARC Raiders》《最终决战》5 款游戏，并原生支持 EA Javelin 反作弊系统。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日7时36分"
+  },
+  {
+    "id": "cmt9brz1z0fh1roly3y0qrfm1",
+    "title": "工具提示需要延迟，然后需要跳过它",
+    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it",
+    "summary": "FrontPrep 作者将工具提示延迟设为 0 导致光标扫过页面时提示瞬间弹出，统一加 200ms 延迟又让连续悬停多个 logo 时显得迟钝。解决方案是引入\"预热窗口\"机制：首次悬停等待 200ms 打开提示，关闭后启动 300ms 冷却计时器，期间悬停其他 logo 可立即打开提示且跳过动画，冷却结束后恢复 200ms 延迟。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月26日7时33分"
+  },
+  {
+    "id": "cmt9budoq0fm7rolyvtjdo4fs",
+    "title": "Luma AI 新作《蓝色时刻》亮相",
+    "url": "https://x.com/LumaLabsAI/status/2092394090331816080",
+    "summary": "在蓝色时刻，一名杀手穿过大理石地板，去终结那份他从未想过质疑的契约。\n\n\"L'heure Bleue\"由 Bryan Soegondo @DreamLabLA 创作，使用 Luma 制作。",
+    "source": "X：Luma AI (@LumaLabsAI)",
+    "date": "2026年8月26日7时30分"
+  },
+  {
+    "id": "cmt9bfoos0f9urolynullwmwe",
+    "title": "SemiAnalysis 揭秘 OpenAI Jalapeño 芯片",
+    "url": "https://x.com/rohanpaul_ai/status/2092393408124133386",
+    "summary": "SemiAnalysis 长文披露 OpenAI 自研 Jalapeño 芯片，称其面向数十万亿参数模型与百万级 token 上下文设计，并质疑 CUDA 在 AI 可自写代码优化新架构下的存续。该芯片以每瓦性能为核心，目标让数千芯片协同为单一推理机，其每兆瓦输出 token 吞吐已超越英伟达 Vera Rubin 公布数据。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月26日7时27分"
+  },
+  {
+    "id": "cmt9cr3s70g6wrolymqgk0373",
+    "title": "OpenAI 首款自研芯片 Jalapeño 性能首秀：DeepSeek R1 每瓦 AI 吞吐量是 GB300 的 1.7 倍",
+    "url": "https://www.ithome.com/0/994/306.htm",
+    "summary": "OpenAI 首款自研推理芯片 Jalapeño 性能首秀，在 GPT-OSS 120B、DeepSeek R1 670B 和 Kimi K2.5 1T 三款模型测试中，每瓦 AI 吞吐量较 GB200 和 GB300 高出 1.5 至 1.9 倍，端到端延迟约为对比系统的 28% 至 59%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日7时25分"
+  },
+  {
     "id": "cmt9alyaj0eidrolyivy9qte1",
     "title": "NVIDIA 发布 Jetson Orin Nano 2 机器人计算机，双倍算力或四成节能",
     "url": "https://www.ithome.com/0/994/303.htm",
@@ -13869,6 +14013,14 @@
     "url": "https://www.ithome.com/0/994/296.htm",
     "summary": "消息源 @synthwavedd 爆料称，OpenAI 已完成下一代模型 Bel 的预训练，该模型是 Doug 的直接继任者，总参数超过 10T，并计划将其打造为 GPT-6 之后的基座模型，甚至冲击 AGI 阈值。消息源认为，这些探索可能让 Anthropic 感到压力，OpenAI 认为面对即将发布的 Astra，Anthropic 没有拿得出手的应对方案，主要受算力条件所限。",
     "source": "IT之家（RSS）",
+    "date": "2026年8月26日7时0分"
+  },
+  {
+    "id": "cmt9bapeb0f77roly59mhvdmw",
+    "title": "无中立基准：配置变化致模型排名大幅波动",
+    "url": "https://x.com/dair_ai/status/2092386565045747719",
+    "summary": "一项研究让12个开源权重模型在26种同等合理的基准配置下回答ARC、HellaSwag、MMLU和TruthfulQA的3，679道题，仅改变选项顺序、提示词措辞及答案读取方式。gemma4-31b的得分随配置在31%至89%间波动，四个模型在某种配置下排名第一。配置敏感题目承载了相邻模型间95.7%的差距，基准压缩方法筛选出的题目恰是最易受配置影响的。",
+    "source": "X：DAIR.AI (@dair_ai)",
     "date": "2026年8月26日7时0分"
   },
   {
