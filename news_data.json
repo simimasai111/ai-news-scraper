@@ -15000,6 +15000,134 @@
     "date": "2026年8月26日1时14分"
   },
   {
+    "id": "cmt9tnjwj0wixroly70nfo0cz",
+    "title": "ChatGPT iOS 新增免密登录与 2FA 支持",
+    "url": "https://x.com/testingcatalog/status/2092526276560970161",
+    "summary": "ChatGPT Work on iOS 现可为网站提供持久、安全的登录，无需访问你的密码。\n\n> 这一原生流程兼容 1Password，并支持简化的 2FA 身份验证。> ChatGPT 对 Android 和网页端的原生支持也即将推出。\n\nAI 将吞噬互联网 👀\n\n【引用 @sama】：重大",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月26日16时15分"
+  },
+  {
+    "id": "cmt9tnjvn0wiprolyq369tbdp",
+    "title": "阿里云QwenWork平台直播演示核心功能",
+    "url": "https://x.com/alibaba_cloud/status/2092525709981790247",
+    "summary": "为展示全新发布的一体化AI生产力平台QwenWork的关键特性与能力，我们将于9月1日（周二）举办一场由QwenWork团队主持的直播活动。欢迎加入，了解它如何将AI带入您的日常工作流。\n\n注册 → https://click.alibabacloud.com/m/20000002687/\n\n#AlibabaCloud #QwenWork #FutureOfWork",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日16时13分"
+  },
+  {
+    "id": "cmt9twiqg0wm7rolycprdq9g4",
+    "title": "消息称月之暗面正与微软、亚马逊、谷歌洽谈 Kimi K3 托管营收分成，抽成 30%",
+    "url": "https://www.ithome.com/0/994/602.htm",
+    "summary": "月之暗面正与微软、亚马逊及谷歌洽谈营收分成协议，允许其托管旗舰模型 Kimi K3，拟抽取 30% 营收分成。若达成，将成为中国 AI 公司与美国主流云厂商间首个重大营收分成合作。讨论仍处早期阶段，核心分歧集中在分成机制、数据访问权限及 Token 消耗量审计。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日16时12分"
+  },
+  {
+    "id": "cmt9tnjw70witrolyxo9yx97e",
+    "title": "隐私政策反面催生的艺术形式",
+    "url": "https://x.com/fofrAI/status/2092525456406741404",
+    "summary": "一种与隐私政策截然相反的艺术形式。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月26日16时12分"
+  },
+  {
+    "id": "cmt9twiqg0wmdrolyr0w5sj0g",
+    "title": "OpenAI ChatGPT Work 云端浏览器新增登录功能：支持输入账号密码与 2FA 验证码",
+    "url": "https://www.ithome.com/0/994/581.htm",
+    "summary": "OpenAI 为 ChatGPT Work 云端浏览器新增登录功能，任务遇到登录页面时可在聊天界面弹出安全表单，由用户输入用户名、密码及 2FA 验证码，凭证直接发送至远程云浏览器，ChatGPT 模型无法看到且不用于训练。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日15时56分"
+  },
+  {
+    "id": "cmt9tv3a40wlkrolyuzjiqo1k",
+    "title": "MiniMax与Z.AI空头持仓创纪录",
+    "url": "https://x.com/thexpin/status/2092521030334156888",
+    "summary": "标普全球表示，在财报发布前，针对MiniMax和Z.AI的空头押注创下纪录，分别达到流通股的20%和6%。尽管较峰值下跌超50%，Z.AI自1月以来仍上涨超800%，MiniMax上涨超80%。6月M3降价以及月之暗面Kimi K3带来额外压力。全球仅有的两家上市纯模型开发商如今面临阿里巴巴、DeepSeek和月之暗面的竞争。法国巴黎银行资产管理公司的David Choa表示，低成本开源模型削弱了稀缺性--现在判定长期赢家还为时过早。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月26日15时54分"
+  },
+  {
+    "id": "cmt9t9ubi0w8prolywfhz9c3a",
+    "title": "ChatGPT Work 可代登录网站且不接触密码",
+    "url": "https://x.com/sama/status/2092519459135095147",
+    "summary": "ChatGPT Work 现可调用电脑和浏览器登录网站（网页端与移动端），全程不读取用户名或密码。用户可让其代订水电、预约 DMV 或护照、查询保险报销、预约网络内医生、处理车辆注册续期、上传照片补货、安排退货取件、提交医疗报销等 19 类事务。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年8月26日15时48分"
+  },
+  {
+    "id": "cmt9twiqg0wmfroly8eg9dffr",
+    "title": "消息称 DeepSeek 今年前 7 个月营收近 4.75 亿元，达去年全年水平 10 倍",
+    "url": "https://www.ithome.com/0/994/574.htm",
+    "summary": "据 The Information 援引知情人士消息，DeepSeek 今年前 7 个月营收约 4.75 亿元，已达 2025 年全年水平的约 10 倍，同期净亏损约 7.15 亿元。公司正洽谈第二轮融资，目标募集 500 亿元，对应估值 5000 亿元。前 7 个月整体毛利率 44.6%，API 业务毛利率达 82.9%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日15时47分"
+  },
+  {
+    "id": "cmt9sl06r0vjurolyjilohzgm",
+    "title": "开发者呼吁 Claude Code 原生支持 AGENTS.md",
+    "url": "https://x.com/kimmonismus/status/2092517743689867370",
+    "summary": "Kim 赞同 Shopify CEO Tobi 的观点，认为 Claude Code 应原生支持 AGENTS.md 作为跨工具通用基线，而非仅读取 CLAUDE.md。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月26日15时41分"
+  },
+  {
+    "id": "cmt9twiqg0wmhrolyqudfcld7",
+    "title": "Cloudflare 称 AI 智能体已占 60% 互联网流量，同比激增 1700%",
+    "url": "https://www.ithome.com/0/994/571.htm",
+    "summary": "Cloudflare 亚太区高管表示，AI 智能体产生的流量在过去 1 年中激增逾 1，700%，目前约占总流量的 60%。该公司将\"影子 AI\"列为日益严峻的隐患，并警告模型上下文协议（MCP）的快速普及催生了\"影子 MCP\"风险，未经授权的协议连接可能绕过企业管控措施。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日15时41分"
+  },
+  {
+    "id": "cmt9twiqh0wmirolyqshyog90",
+    "title": "阿里千问办公 QwenWork 国际版开启公测，接入 Slack、Notion 等平台",
+    "url": "https://www.ithome.com/0/994/570.htm",
+    "summary": "阿里千问办公国际版（QwenWork）开启公测，已接入 Slack、Notion 等海外协作与生产力平台，未来将连接企业真实数据库和工作流。产品现支持中英文，即将拓展西班牙语、葡萄牙语、日语、韩语等语言，用户可通过谷歌账号和邮箱注册。海外个人和企业用户即日起可通过 qwenwork.ai 体验网页版和 PC 客户端。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日15时41分"
+  },
+  {
+    "id": "cmt9sl0630vjorolyxr4ktgwg",
+    "title": "阿里云WonderClip×GenTube AI电影节工作坊回顾",
+    "url": "https://x.com/alibaba_cloud/status/2092517087097078199",
+    "summary": "感谢所有参加我们 WonderClip × GenTube AI 电影节创作者工作坊的朋友！\n\n探索 WonderClip 的 AI 驱动叙事，将你的创意变为现实：https://wonderclip.ai/#/home\n\n想了解更多？预约与我们的专家一对一交流：https://click.alibabacloud.com/m/20000001260/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日15时38分"
+  },
+  {
+    "id": "cmt9twiqh0wmlrolycvy65hk2",
+    "title": "国内算力用电爆发式增长，江苏常熟算力耗电超过空调",
+    "url": "https://www.ithome.com/0/994/564.htm",
+    "summary": "7月全社会用电量再破1万亿千瓦时，互联网数据服务用电量同比增长40%，算力成为新增用电重要来源。江苏常熟智算中心8月最大用电负荷同比增长超70%，算力产业贡献全市近半数用电负荷增量，占比约49%，已取代季节性空调负荷成为今夏用电增长核心主力。国内首次百兆瓦级算电协同调节已在冀北电网完成，11座算力中心不到10分钟释放100.64兆瓦供电空间。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日15时30分"
+  },
+  {
+    "id": "cmt9sl0630vjprolyiiskr0bl",
+    "title": "阿里云 Wan3.0 上线 OpenArt，支持更长视频生成",
+    "url": "https://x.com/alibaba_cloud/status/2092514779256746129",
+    "summary": "阿里云 Wan3.0 现已在 OpenArt 平台上线，用户可通过 Model Studio 和 Qwen Cloud 获取 API 访问。该版本支持生成更长视频，创作者 @NOSNOWISXVW 展示了从灵感构思到成片的端到端工作流，称长视频生成让叙事节奏更可控。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月26日15时29分"
+  },
+  {
+    "id": "cmt9twiqh0wmmrolyc4fzr9r2",
+    "title": "微信产品团队回应\"方言活动\"小程序出现不合常理字句：已清理文本库",
+    "url": "https://www.ithome.com/0/994/563.htm",
+    "summary": "微信产品团队就\"微信方言活动\"小程序中算法合成内容出现不合常理字句一事作出回应，称已对文本库进行仔细清理并剔除不靠谱内容。该小程序通过算法基于日常语义和中文文库随机合成方言语句，用于帮助方言语音识别技术迭代。官方同时强调，方言数据严格遵循\"合法、正当、必要\"原则，经用户\"单独同意\"后仅用于方言服务优化，不会提供或披露给任何第三方。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日15时29分"
+  },
+  {
+    "id": "cmt9twiqh0wmnrolyaop0mje1",
+    "title": "九成美企高管称过去三年 AI 未影响公司就业情况，且\"完全未影响\"生产力",
+    "url": "https://www.ithome.com/0/994/560.htm",
+    "summary": "美国国家经济研究局调查显示，超 90% 企业高管承认过去三年 AI\"没有影响本公司的就业情况\"，约 89% 表示 AI\"完全没有影响生产力\"。匹兹堡大学商学院教授马克·马指出，企业一边加大 AI 投入一边裁员，而员工的反 AI 情绪实际会降低生产率，抵消 AI 可能带来的效率收益。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月26日15时27分"
+  },
+  {
     "id": "cmt9rrbe80uqhrolybwk9uf8e",
     "title": "Artificial Analysis 携手 Liquid AI 发布手机端 AI 跑分基准，公布 iPhone 17 Pro 本地 AI 性能排名",
     "url": "https://www.ithome.com/0/994/550.htm",
