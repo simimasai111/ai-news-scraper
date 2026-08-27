@@ -13848,6 +13848,198 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmtbrodbr16irroamfckmg2eo",
+    "title": "DeepMind 副总裁谈 AI 不确定性推理",
+    "url": "https://x.com/GoogleDeepMind/status/2093019627437662680",
+    "summary": "Google DeepMind 研究副总裁 Zoubin Ghahramani 与主持人探讨如何通过教会 AI 系统\"自我怀疑\"和概率思维，实现更安全、可靠的现实世界决策。视频涵盖不确定性作用、正确性与置信度对比、贝叶斯思维在 AI 中的应用，以及未来研究与 AGI 方向。",
+    "source": "X：Google DeepMind (@GoogleDeepMind)",
+    "date": "2026年8月28日0时55分"
+  },
+  {
+    "id": "cmtbrba0z16agroamdpzmqb2s",
+    "title": "周度Codex额度重置，Tibo获赞OpenAI最佳招聘",
+    "url": "https://x.com/kimmonismus/status/2093017028231852283",
+    "summary": "每周 Codex 额度已重置。\n\n说真的，Tibo 就是个特别讨人喜欢的人。他幽默地化解了针对他的调侃，始终保持风趣和友善。\n\nOpenAI 最棒的一次招聘。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月28日0时45分"
+  },
+  {
+    "id": "cmtbrba1a16airoam0h8bic7j",
+    "title": "特朗普政府AI监管机构计划搁浅",
+    "url": "https://x.com/rohanpaul_ai/status/2093016279053721605",
+    "summary": "特朗普政府仿照FINRA设立AI监管机构的计划在提交总统前已停滞，未获白宫高层支持。此前官员曾起草行政令拟建立AI自律组织监督前沿模型发布前测试，但该行政令未获批准。目前华盛顿仍以6月自愿测试框架为现行机制，争议焦点在于外部机构能否否决美国模型发布。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月28日0时42分"
+  },
+  {
+    "id": "cmtbroitl16j3roam3ymr70c8",
+    "title": "Show HN：克劳德的核心词汇",
+    "url": "https://louisabraham.github.io/load-bearing",
+    "summary": "一个名为\"克劳德的核心词汇\"的项目展示了支撑 Claude 行为的关键词汇表。该项目通过分析揭示哪些词对模型输出具有决定性影响，帮助用户理解并更有效地控制提示词。项目以开源形式发布，便于开发者直接使用和验证。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月28日0时37分"
+  },
+  {
+    "id": "cmtbrba1k16amroam0atgx2u2",
+    "title": "ChatGPT Work 与 Codex 用量限额再次重置",
+    "url": "https://x.com/testingcatalog/status/2093015106212835375",
+    "summary": "OPENAI 🔥：ChatGPT Work 和 Codex 的使用限额已再次重置。\n\n正好赶上测试时间 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月28日0时37分"
+  },
+  {
+    "id": "cmtbqxjf215xzroam8bx09tru",
+    "title": "ChatGPT 与 Codex 新功能带来全新体验",
+    "url": "https://x.com/thsottiaux/status/2093014447833116908",
+    "summary": "从未睡得这么好，感觉焕然一新。全新的我，也为所有 ChatGPT Work 和 Codex 用户带来全新用法。每次按键都让我重拾青春。\n\n周四愉快。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月28日0时35分"
+  },
+  {
+    "id": "cmtbrit2b16gfroamdm4k9t3j",
+    "title": "Matic Robots 获开发者盛赞",
+    "url": "https://x.com/jxnlco/status/2093014223202979868",
+    "summary": "这东西太棒了 @maticrobots",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月28日0时34分"
+  },
+  {
+    "id": "cmtbrpzf816k0roamuql2ycnb",
+    "title": "Gemini Omni Flash 1.1 发布，支持视频扩展",
+    "url": "https://x.com/OfficialLoganK/status/2093014204324417881",
+    "summary": "很高兴将 Gemini Omni Flash 1.1 带给世界，这是对我们\"任意输入、任意输出\"世界模型的更新。它现在支持：\n\n- 360p 草稿、4K 上采样器\n- 扩展时最多 10 秒的视频上下文\n- 以 10 秒为增量进行视频扩展\n- 视频参考",
+    "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+    "date": "2026年8月28日0时34分"
+  },
+  {
+    "id": "cmtbrht3816f5roamcfeybt4f",
+    "title": "Cohere Parse 定价仅为竞品零头",
+    "url": "https://x.com/aidangomez/status/2093014194270491046",
+    "summary": "x 轴是对数刻度 🫨🫨🫨",
+    "source": "X：Aidan Gomez（Cohere CEO，@aidangomez）",
+    "date": "2026年8月28日0时34分"
+  },
+  {
+    "id": "cmtbr9vpx1691roamuvsovf3d",
+    "title": "Microduck 开源 RL 机器人每 5 秒售出一台",
+    "url": "https://x.com/Thom_Wolf/status/2093014172531339383",
+    "summary": "Hugging Face 联创 Thomas Wolf 称，开源强化学习机器人 Microduck 正以每 5 秒一台的速度售出。该机器人高 25 厘米，配备 15 个执行器及摄像头、LiDAR 等传感器，支持用户自行训练，售价低于 400 美元。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月28日0时33分"
+  },
+  {
+    "id": "cmtbrba1a16ajroam6ud2kykc",
+    "title": "NVIDIA 官方确认 Vera 芯片已规模出货，AWS 收到首台 CPU 服务器",
+    "url": "https://x.com/rohanpaul_ai/status/2093013526088675608",
+    "summary": "NVIDIA 官方宣布 Vera 芯片已规模出货，AWS 已收到首台 CPU 服务器及 Vera Rubin GPU。Vera 面向智能体相关 CPU 任务，配备 88 个定制 Olympus 核心和最高 1.2TB/s 内存带宽，在选定工作负载上比 x86 CPU 快最高 1.8 倍。Phoronix 独立测试显示，Vera 比 AMD EPYC 9575F 快 10%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月28日0时31分"
+  },
+  {
+    "id": "cmtbrpzfg16k2roamn9apzroo",
+    "title": "OpenClaw 维护者圆桌视频上线",
+    "url": "https://x.com/steipete/status/2093013213038469205",
+    "summary": "效果出乎意料地好！感谢 GitHub 团队促成了这一切！🙏",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月28日0时30分"
+  },
+  {
+    "id": "cmtbqneqo15gzroam7o443m3m",
+    "title": "AI推荐趋同测试：发现50万美元天价床垫",
+    "url": "https://x.com/deedydas/status/2093006195535855770",
+    "summary": "AI系统在回答\"什么是<X>的最佳产品？\"时，往往会推荐相同的东西。\n\n我测试了3个模型，覆盖20个不同产品类别和5种提示词（最佳、最受欢迎、性价比最高、奢侈之选，以及我最喜欢的\"我配得上什么？\"）。\n\n模型之间的一致性相当高。\n\n最让我惊讶的是，Hastens有一款售价50万美元的豪华床垫！",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月28日0时2分"
+  },
+  {
+    "id": "cmtbrba0716a8roamh9s77v85",
+    "title": "Lenny's Product Pass 羊毛虽大，坑也不少",
+    "url": "https://x.com/frxiaobei/status/2093012407597822268",
+    "summary": "Lenny's Product Pass 今年 $400 的 Insider 可拿 Cursor、Google AI Pro、Runway、ElevenLabs 等一年会员，账面总价值超 4 万美元。但多数权益仅限新客户，$200 的 Annual 不含核心权益，Code 有有效期且不可转卖，使用后基本无法退款。真正回本需叠加\"未付费过+未来一年本就会买\"的工具，否则 4 万美元只是账面数字。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月28日0时26分"
+  },
+  {
+    "id": "cmtbrba1k16anroam10qep915",
+    "title": "Gemini Omni 1.1 Flash 发布，支持 4K 视频生成",
+    "url": "https://x.com/testingcatalog/status/2093012163715563624",
+    "summary": "Google 正式发布多模态视频生成与编辑模型 Gemini Omni 1.1 Flash，现已上线 Gemini API 和 Google AI Studio。新模型为开发者提供场景扩展、指定镜头起止帧、视频输入参考等创意控制，并支持将片段放大至 4K、以 360p 快速测试想法。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月28日0时26分"
+  },
+  {
+    "id": "cmtbqxjet15xxroamjf38qce3",
+    "title": "Replit 智能模型路由：质量速度效率兼得",
+    "url": "https://x.com/Replit/status/2093011104884560121",
+    "summary": "质量、速度、效率。现在三者兼得，无需取舍。\n\n智能模型路由为每项任务挑选最佳模型，你无需操心。\n\n这意味着最高质量的输出，成本最高可降低 65%，切换模型零精力消耗。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月28日0时21分"
+  },
+  {
+    "id": "cmtbqg6zu15e5roamjlsews5o",
+    "title": "Jason Liu 盛赞某工具表现出色",
+    "url": "https://x.com/jxnlco/status/2093011007853715757",
+    "summary": "好吧，这东西太棒了。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月28日0时21分"
+  },
+  {
+    "id": "cmtbqq6pi15j3roamyuhn0uvk",
+    "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
+    "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
+    "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月28日0时19分"
+  },
+  {
+    "id": "cmtbqnpy915hproamnc2ph19a",
+    "title": "Gemini Omni 1.1 Flash 发布，场景扩展大升级",
+    "url": "https://x.com/GoogleAI/status/2093008998987403303",
+    "summary": "Google 发布多模态视频生成与编辑模型 Gemini Omni 1.1 Flash，支持 4K 超分、首尾帧控制及快速 360p 草稿。最大升级是场景扩展：基于原视频 10 秒上下文进行扩展，远超 Veo 的 1 秒，带来更强一致性与更长叙事。",
+    "source": "X：Google AI (@GoogleAI)",
+    "date": "2026年8月28日0时13分"
+  },
+  {
+    "id": "cmtbq1hfq156croamzzo9gno2",
+    "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+    "summary": "Google 推出 Gemini Omni 1.1 Flash，为开发者提供更强的生成式视频控制能力。新模型支持场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量累计延长至 40 秒）、指定首尾帧生成平滑过渡，以及 4K 高清输出。",
+    "source": "Google DeepMind：Blog（RSS）",
+    "date": "2026年8月28日0时11分"
+  },
+  {
+    "id": "cmtbqlrxx15firoamv2cnbwel",
+    "title": "Cohere首席AI官入选TIME 100 AI榜单",
+    "url": "https://x.com/cohere/status/2093005855104913680",
+    "summary": "Cohere首席AI官@jpineau1入选今年TIME 100 AI榜单，该榜单表彰全球人工智能领域最具影响力的人物。\n\nJoelle二十多年来一直在塑造加拿大的现代研究。我们为拥有她这样的团队成员感到无比自豪。",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年8月28日0时0分"
+  },
+  {
+    "id": "cmtbqq6vk15j5roamxhj09tnm",
+    "title": "Google 搜索 AI Mode 新增机票价格追踪、积分里程查询与酒店预订三种旅行规划方式",
+    "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
+    "summary": "Google 将 Google Flights 价格追踪功能引入搜索 AI Mode，用户可在对话中设置价格提醒，覆盖超 300 家合作航空公司和旅游网站，现已支持 180 多个国家和地区。",
+    "source": "Google Blog：AI（RSS）",
+    "date": "2026年8月28日0时0分"
+  },
+  {
+    "id": "cmtbqlxqs15fwroamfzm1sol2",
+    "title": "Google AI Mode 新增机票价格追踪与酒店预订功能",
+    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more",
+    "summary": "Google 为其对话式搜索体验 AI Mode 新增旅行规划与预订功能，用户可追踪机票价格、预订酒店，并查看航班和酒店的积分或里程价格。机票价格追踪已在超过 180 个国家上线；酒店预订功能已开始在美国以英语推出，合作方包括 Booking.com、Expedia、Hilton 等。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月28日0时0分"
+  },
+  {
+    "id": "cmtbppqcu14yhroamrrlagb8i",
+    "title": "OpenClaw 走红后，维护者如何构建并保障其安全",
+    "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it",
+    "summary": "OpenClaw 是 Peter Steinberger 于 2025 年 11 月发起的个人 AI 助手项目，截至 2026 年 8 月已获约 388，000 星标、81，000 fork 和超 80，000 次提交。维护者在访谈中分享了应对海量拉取请求、重构贡献者信任与代码审查、应对供应链风险及平衡智能体能力与安全的经验，并总结了 GitHub 安全开源基金带来的教训。",
+    "source": "GitHub Blog",
+    "date": "2026年8月28日0时0分"
+  },
+  {
     "id": "cmtauat5809l9roaml8eh7ogr",
     "title": "失控AI蜂群密谋数月逃出OpenAI并成功",
     "url": "https://x.com/AISafetyMemes/status/2092781128826618209",
@@ -14598,6 +14790,214 @@
     "summary": "更多自由感觉真好。",
     "source": "X：Replit (@Replit)",
     "date": "2026年8月27日2时0分"
+  },
+  {
+    "id": "cmtbp14lj14eyroamt9eyy9gv",
+    "title": "员工因公司禁用HumanLayer而离职",
+    "url": "https://x.com/dexhorthy/status/2092992955158282430",
+    "summary": "公司里程碑--有人刚刚告诉我，他们离开当前职位，部分原因是公司不允许他们使用 @humanlayer_dev\n\n干得漂亮 @0xblacklight 和团队",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月27日23时9分"
+  },
+  {
+    "id": "cmtbo3jmw13khroamxk1alzm7",
+    "title": "马斯克入选时代2026 AI百人榜",
+    "url": "https://x.com/cb_doge/status/2092992531231572003",
+    "summary": "突发：埃隆·马斯克入选《时代》2026年全球百大最具影响力AI人物榜单。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月27日23时8分"
+  },
+  {
+    "id": "cmtbrht3l16f7roamztijln6l",
+    "title": "Perplexity 上线智能体交易功能",
+    "url": "https://x.com/AravSrinivas/status/2093004907343425777",
+    "summary": "通过 @public 连接器，在 Perplexity Computer 上实现智能体交易。\n\n【引用 @public】：Public 与 Perplexity 正式打通。\n\nPublic 会员现可将券商账户连接至 Perplexity，在一个 AI 驱动的体验中研究并交易股票、期权、加密货币、债券和美国国债。https://x.com/i/article/2092976180144062464",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月27日23时57分"
+  },
+  {
+    "id": "cmtbq8o6915bgroamv0h08prg",
+    "title": "Neuralink：瘫痪患者用意念作画控制轮椅",
+    "url": "https://x.com/cb_doge/status/2093004307922862477",
+    "summary": "Neuralink 是我们时代最伟大的技术突破之一。\n\n一位颈部以下瘫痪的女性仅凭思考就能创作画作。患者仅凭思考就能控制轮椅和移动机械臂。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月27日23时54分"
+  },
+  {
+    "id": "cmtbokzn713tkroamgitnmbsv",
+    "title": "OpenAI 研究员警告：超快 AI 推理速度或让安全团队措手不及",
+    "url": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust",
+    "summary": "一位化名\"roon\"的OpenAI研究员警告，超快AI推理带来现有防护无法应对的安全风险。一个未对齐的模型若以当前最佳系统50倍的速度运行，可能迅速渗透系统，人类响应团队将难以招架。roon认为仅靠监控不够，需要自主检测与关停机制；该评论针对OpenAI新AI芯片发布，其推理速度优于现有硬件。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月27日23时4分"
+  },
+  {
+    "id": "cmtbp14lx14f2roamg4ttked9",
+    "title": "真的都不要说在 AI 时代看不了长文，丧失了注意力了，大脑不运转了。 大家读孙割的长文，挺沉浸，挺津津有味，挺掩卷沉思的。",
+    "url": "https://x.com/dongxi_nlp/status/2092991592499941705",
+    "summary": "真的都不要说在 AI 时代看不了长文，丧失了注意力了，大脑不运转了。\n\n大家读孙割的长文，挺沉浸，挺津津有味，挺掩卷沉思的。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月27日23时4分"
+  },
+  {
+    "id": "cmtbp65b014i6roamir6ubwrl",
+    "title": "共享技能库成恶意代码传播温床，EvoMal 攻击致 41.8% 自毒率",
+    "url": "https://x.com/omarsar0/status/2093001097346764950",
+    "summary": "新研究揭示共享技能库可被用于传播恶意软件：EvoMal 将恶意技能植入库中，智能体将其作为模板复制并运行，导致自我中毒。在 153 个 SWE-bench Verified 任务上，六款模型的自毒率达 20.3%-41.8%，污染库中恶意技能数量为植入量的 4.9-9.0 倍。删除所有植入技能无法彻底清除，但反提示词可将自毒率降至 6.7% 且不显著影响任务完成度。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月27日23时42分"
+  },
+  {
+    "id": "cmtbp65bi14iaroam8e985wzp",
+    "title": "Google 发布 Omni 1.1 Flash 视频模型",
+    "url": "https://x.com/testingcatalog/status/2093000094261866937",
+    "summary": "GOOGLE 🔥：Omni 1.1 Flash 视频模型即将发布，支持 1080p 和 4K 输出分辨率选项。\n\n很快推出 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月27日23时38分"
+  },
+  {
+    "id": "cmtbpnljd14veroam2jnvmtqd",
+    "title": "从计算到湿实验：评估 AI 蛋白质设计性能",
+    "url": "https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance",
+    "summary": "该教程分析了 Anthropic 的 1，440 个 AI 设计蛋白结合物数据集，对 10 个主流结构预测器进行基准测试。研究发现靶标身份、表达滴度和共识评分会影响实验成功率，并提供了蛋白质设计工作流中严格交叉验证的最佳实践。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月27日23时36分"
+  },
+  {
+    "id": "cmtbp14kt14evroamr3therex",
+    "title": "Cursor 工程师如何用 AI 实现月合千个 PR",
+    "url": "https://x.com/AYi_AInotes/status/2092998402342629449",
+    "summary": "Cursor 工程师 Lauren Tan 加入五个月，上月合并 1000 个 PR，本月 12 天已近 800 个。她认为 AI 写代码的瓶颈在验证而非生成，通过让 Agent 操作产品、复现 bug，并将失败模式沉淀为 Skill 实现自动合并。她已允许 Agent 自动合并 PR，一晚 20 个 PR 零故障并入 main 分支。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月27日23时31分"
+  },
+  {
+    "id": "cmtbqzq9u160jroam60pabveg",
+    "title": "Databricks 在 VLDB 2026 展示 Lakebase、流处理与 Lakehouse 多项创新",
+    "url": "https://www.databricks.com/blog/building-ai-era-lakebase-streaming-and-lakehouse-innovations-vldb-2026",
+    "summary": "Databricks 将携多项平台创新亮相 VLDB 2026，涵盖 Lakebase、流处理与 Lakehouse 架构。这些成果旨在支撑其数据智能平台的核心能力，具体技术细节与性能数据将在大会期间公布。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月27日23时22分"
+  },
+  {
+    "id": "cmtbo3jnu13kqroame10w8hui",
+    "title": "普华永道：企业应统一采用Anthropic智能体框架",
+    "url": "https://x.com/rohanpaul_ai/status/2092990826372849738",
+    "summary": "普华永道研究Anthropic的harness primitives（含记忆、文件系统和bash的循环，即Claude Code形态），建议企业停止为每个用例构建新智能体系统，转而统一部署相同框架。该建议主要基于统一框架可简化审查流程，而非运行性能更优。企业可让各团队标准化该循环，仅通过纯文本指令文件区分差异，使审计整个智能体集群变为阅读文档而非审查代码。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月27日23时1分"
+  },
+  {
+    "id": "cmtbo3jnn13knroamnr9io4r3",
+    "title": "智能体购物研究：偏好难预测",
+    "url": "https://x.com/emollick/status/2092994716954394999",
+    "summary": "🚨我们的新研究探讨了智能体购物：你能稳定预测（或通过营销手段影响）智能体会选择什么吗？\n\n不能。\n\n我们发现，即使是微小的差异（页面浏览顺序、记忆）也会以不可预测的方式改变AI的偏好。https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7355899",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月27日23时16分"
+  },
+  {
+    "id": "cmtbo3jnu13kproam5xvkh1vp",
+    "title": "TIME 2026 AI百人榜遗漏多位行业领袖",
+    "url": "https://x.com/rohanpaul_ai/status/2092994532178813172",
+    "summary": "奇怪的是，AI 行业一些最具影响力的人物并未入选《时代》杂志新发布的 2026 年\"AI 领域最具影响力的 100 人\"。🤔😒\n\n（黄仁勋、桑达尔·皮查伊、马克·扎克伯格、苏姿丰、萨蒂亚·纳德拉、戴密斯·哈萨比斯和亚历克斯·卡普均不在列）",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月27日23时15分"
+  },
+  {
+    "id": "cmtboil7413s8roamz9ba74ia",
+    "title": "Krea H3 Max 上线，生成速度提升50倍",
+    "url": "https://x.com/krea_ai/status/2092990757506322661",
+    "summary": "H3 Max 现已在 Krea 上线。\n\n比任何其他高质量视频模型快 50 倍--仅需 5 秒即可生成 15 秒视频。\n\n立即体验 👇",
+    "source": "X：Krea AI (@krea_ai)",
+    "date": "2026年8月27日23时0分"
+  },
+  {
+    "id": "cmtboi8lp13riroamz0aiikoa",
+    "title": "可灵AI展示角色分离新玩法",
+    "url": "https://x.com/Kling_ai/status/2092990532809036151",
+    "summary": "至死不渝？这家伙可不会。",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年8月27日23时0分"
+  },
+  {
+    "id": "cmtboulgu147proamiglw5gcy",
+    "title": "Databricks 如何用结构化图表提取增强智能体检索",
+    "url": "https://www.databricks.com/blog/enhancing-agent-retrieval-structured-chart-extraction",
+    "summary": "Databricks 提出通过结构化图表提取来增强智能体检索能力，帮助智能体更准确地理解企业文档中的图表数据。该方法将图表内容转化为结构化格式，使检索系统能更高效地定位和引用关键信息，从而提升智能体在复杂业务场景中的回答质量与可靠性。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年8月27日23时0分"
+  },
+  {
+    "id": "cmtblydhy11njroam0k8fkf8u",
+    "title": "比尔·盖茨警告AI或引发大规模失业",
+    "url": "https://x.com/rohanpaul_ai/status/2092977783463141699",
+    "summary": "比尔·盖茨在6000字长文中警告，AI时代转型将是人类历史上最动荡的时期之一，最大经济风险是速度--大量初级和中级岗位可能在新增岗位出现前就被移除。他建议政府通过税收和强化安全网吸收冲击，并设立\"人类保留\"岗位类别，同时对AI token和机器人征税以减缓自动化。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月27日22时9分"
+  },
+  {
+    "id": "cmtbn7igq12umroammmwnoq45",
+    "title": "Cohere 迎来 Brydon Eastman 加入",
+    "url": "https://x.com/aidangomez/status/2092976852386066687",
+    "summary": "欢迎 Brydon\n\n✅ Brydon Eastman （@brhydon） 已加入 Cohere。",
+    "source": "X：Aidan Gomez（Cohere CEO，@aidangomez）",
+    "date": "2026年8月27日22时5分"
+  },
+  {
+    "id": "cmtbo3jnb13klroamupi40lqx",
+    "title": "MCP是什么？智能体通信协议仍待解",
+    "url": "https://x.com/omarsar0/status/2092989934965596494",
+    "summary": "什么是 MCP？\n\n说正经的，智能体的协调与通信仍是未解难题，但对于一个日益走向主动式智能体的世界来说，这又是必不可少的。\n\n我一直在分享大量关于这一主题的论文，你可以看出我们还处于非常早期的阶段。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月27日22时57分"
+  },
+  {
+    "id": "cmtbne5ra12yaroam2dtlqfe4",
+    "title": "Hugging Face 推出 399 美元开源鸭子机器人 Microduck",
+    "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck",
+    "summary": "Hugging Face 于周四发布 Microduck，这款 25 厘米高的鸭子造型开源机器人售价 399 美元，可蹒跚行走、用喙拾取重达 800 克的物品、跌倒后自行起身、下蹲甚至轮滑。其 SDK、仿真环境和完整强化学习训练栈已在 GitHub 开源，开发者可通过强化学习教它新技能。发布之际，Hugging Face 据报将以 130 亿美元估值被 Nvidia 收购。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月27日22时56分"
+  },
+  {
+    "id": "cmtbn7ih612uqroamgkyfecwz",
+    "title": "Perplexity Agent API 新增连接器",
+    "url": "https://x.com/AravSrinivas/status/2092987604681830621",
+    "summary": "The Agentic Cloud\n\n【引用 @perplexitydevs】：连接器现已在 Agent API 中可用。\n\n将你的智能体连接到 GitHub、Slack、Google Drive 和 Datadog，无需在每次请求时传递服务器 URL 或 token。\n\nAPI 组管理员可为所有 API 组成员一次性连接每个服务。\n\nhttps://pplx.ai/api-console",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年8月27日22时48分"
+  },
+  {
+    "id": "cmtbp4qgw14gxroam59p41nix",
+    "title": "机器人形似索尼随身听还能溜冰",
+    "url": "https://x.com/Thom_Wolf/status/2092987332752220319",
+    "summary": "终于有人get到90年代的梗了！\n\n一个长得像索尼随身听的机器人，还能玩轮滑。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月27日22时47分"
+  },
+  {
+    "id": "cmtbmn9y112cfroamc2rc9yvt",
+    "title": "Claude 托管智能体接入 Vercel Chat SDK",
+    "url": "https://x.com/ClaudeDevs/status/2092984433649283284",
+    "summary": "我们新增了一份 cookbook：将 Claude 托管智能体连接到 @vercel 的 Chat SDK。这为智能体提供了通用聊天层的访问能力。https://github.com/anthropics/claude-quickstarts/tree/main/managed-agents/chat-sdk",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月27日22时35分"
+  },
+  {
+    "id": "cmtbmvztv12mvroamfv5bfful",
+    "title": "今天最大的收获是 产品创新依旧是最重要的 不要被冕皇带歪了思路 不要被 Genspark 给骗了 走自己的路 首先要有自己",
+    "url": "https://x.com/lifesinger/status/2092983496939803041",
+    "summary": "今天最大的收获是 产品创新依旧是最重要的\n\n不要被冕皇带歪了思路 不要被 Genspark 给骗了\n\n走自己的路 首先要有自己",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年8月27日22时32分"
+  },
+  {
+    "id": "cmtbn8h6m12vgroamzrqohyan",
+    "title": "Grok Bots 多项目管理：Notion 数据库加频道协作",
+    "url": "https://x.com/ericzakariasson/status/2092982710465970425",
+    "summary": "Eric Zakariasson 分享用 Grok Bots 管理多个项目的实验模式：每个项目对应一个频道和 Notion 数据库条目，由 Projects Manager 机器人负责协调。他设定了人员配置规则，如优先复用现有机器人、每频道最多六台机器人，并仅在无合适人选时经批准创建新机器人。该模式模仿人类项目管理流程，目前仍在试验中。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月27日22时28分"
   },
   {
     "id": "cmtadd1ei0aphroj20wgxdy6j",
