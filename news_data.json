@@ -13848,6 +13848,406 @@
     "date": "2026年8月2日14时12分"
   },
   {
+    "id": "cmtc9sujn01waroeef82noeg5",
+    "title": "SK 海力士在美 HBM 生产基地奠基：2029H2 产出首款\"美国造\"HBM",
+    "url": "https://www.ithome.com/0/995/386.htm",
+    "summary": "SK 海力士在美国印第安纳州西拉斐特的 AI 存储器先进封装生产基地奠基，总投资超 40 亿美元，预计 2028 年 10 月完成无尘室建设，2029 年下半年启动新一代 HBM 量产，员工总数有望超 1000 名。该基地将使用韩国生产的先进晶圆，并同步构建先进封装研发测试床，与普渡大学签署研发合作备忘录。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日9时19分"
+  },
+  {
+    "id": "cmtc9sdwa01nnroeeuvla6bvq",
+    "title": "Claude Code v2.1.250 发布",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.250",
+    "summary": "Anthropic 发布 Claude Code v2.1.250。该智能体编码工具运行于终端，能理解代码库，通过自然语言命令执行日常任务、解释复杂代码并处理 git 工作流，帮助开发者更快编码。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月28日8时49分"
+  },
+  {
+    "id": "cmtc7zux401merodm2ngbus7x",
+    "title": "Claude Tag 如何驱动 Anthropic 值班",
+    "url": "https://x.com/noahzweben/status/2093133238311239808",
+    "summary": "Claude Tag 迄今为止最热门的用例--值班。了解我们如何用 Tag 驱动 Anthropic 的值班工作，并自行配置，这样你就不会在凌晨 3 点被一个 Claude 本可解决的告警吵醒。\n\nhttps://claude.com/blog/ai-ci-cd-on-call",
+    "source": "X：Noah Zweben（@noahzweben）",
+    "date": "2026年8月28日8时27分"
+  },
+  {
+    "id": "cmtc7dz3201ecrozkk1gsyeks",
+    "title": "晶圆级芯片I/O带宽瓶颈分析",
+    "url": "https://x.com/SemiAnalysis_/status/2093126655040507930",
+    "summary": "片外带宽一直是晶圆级芯片的短板。WSE-3 拥有惊人的晶圆上 SRAM 带宽，但一旦数据需要离开晶圆，一切都会变慢。这之所以重要，是因为晶圆仅能容纳 44GB 的 SRAM，因此大模型会被分散到多块晶圆上，而每增加一块晶圆，就意味着有更多数据需要穿越这条带宽受限的 I/O 路径。长上下文会让情况更糟，因为 KV 缓存会进一步推高所需晶圆数量。（1/3）🧵 图片来源：Cerebras",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月28日8时0分"
+  },
+  {
+    "id": "cmtc6rtoz0020rozkghq3a72z",
+    "title": "蒸馏「孙割写作.skill」：用 Claude 复刻孙割的白描文风",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685652&idx=1&sn=f3fac1fafa4c6fff6dc10ce9c9e11c55",
+    "summary": "作者基于孙割爆火小作文的PDF，蒸馏出「孙割写作.skill」并开源。该技能复刻其白描手法、精确数字与意象callback等写作特征，供社区娱乐使用。开源地址见正文。",
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年8月28日7时58分"
+  },
+  {
+    "id": "cmtc7noio01f6rodmpgeqbpne",
+    "title": "谷歌推出 Gemini Omni 1.1 Flash 视频生成 AI 模型，最高 4K 分辨率",
+    "url": "https://www.ithome.com/0/995/352.htm",
+    "summary": "谷歌推出 Gemini Omni 1.1 Flash 视频生成 AI 模型，最高可生成 4K 视频。新模型支持场景扩展（每次 10 秒步长，单条最长 40 秒）、指定首尾帧及最长 3 秒视频参考。360p 预览生成速度较标准 720p 最高提升 60%，成本仅为三分之一；价格从 360p 每秒 0.03 美元到 4K 每秒 0.3 美元不等。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日7时49分"
+  },
+  {
+    "id": "cmtc6kti901xerojqahqzsfz0",
+    "title": "MIT 特别委员会发布 AI 教学应用报告：提出八项原则与行动建议",
+    "url": "https://aiandeducation.mit.edu/report",
+    "summary": "MIT 教学、学习与研究培训 AI 应用特别委员会经五个月调研，发布报告呼吁全校行动。报告指出生成式 AI 已全面渗透校园，既带来教学创新，也冲击 p-set、开卷考试、UROP 等本科教育根基，加剧学生孤立并削弱掌握度。委员会提出八项指导原则，并为教师和管理层推荐短期与长期行动，强调 MIT 应引领 AI 时代的高等教育重塑。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月28日7时49分"
+  },
+  {
+    "id": "cmtc8bkhm0214rodmhlas67ec",
+    "title": "BestBlogs 早报 08-28：GLM-5.3-Flash 发布，Anthropic 推进 MHS 标准",
+    "url": "https://x.com/hongming731/status/2093123593945428057",
+    "summary": "BestBlogs 08-28 早报精选 10 条 AI 动态。智谱发布低成本原生多模态模型 GLM-5.3-Flash，总参数 320B、激活 18B，AA 指数 57 分。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月28日7时48分"
+  },
+  {
+    "id": "cmtc8bkhm0215rodm5wc9e8pd",
+    "title": "GLM-5.3-Flash 开源，320B 参数主打降本",
+    "url": "https://x.com/hongming731/status/2093123528665211326",
+    "summary": "智谱发布并开源 GLM-5.3-Flash，320B 总参数、18B 激活参数，是 GLM-5 系列首个原生多模态版本。相较上一代，激活参数从 32B 降至 18B，注意力计算量和 KV 缓存分别降低 3.01 倍与 4.44 倍。官方称端到端性能相对同硬件初始基线提高三倍，硬件效率和单 token 成本接近主流 NVIDIA GPU。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月28日7时48分"
+  },
+  {
+    "id": "cmtc64unj01pcrojqm3dm3xel",
+    "title": "首个文本转SQL模型超越人类基准",
+    "url": "https://x.com/thinkymachines/status/2093121414656377160",
+    "summary": "Thinking Machines与UIUC、Bridgewater研究人员合作，将专家判断融入RLVR的每个环节，训练出首个在文本转SQL任务上超越人类基准的模型。该方法需前期投入数据清洗与奖励函数对齐，但最终在复杂任务上达到SOTA水平。",
+    "source": "X：Thinking Machines (@thinkymachines)",
+    "date": "2026年8月28日7时40分"
+  },
+  {
+    "id": "cmtc61ej101lqrojqto587wu9",
+    "title": "Midjourney 开放 V8.2 图像编辑模型测试",
+    "url": "https://updates.midjourney.com/edit-model-for-v8",
+    "summary": "Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试。该模型支持指令编辑、以图生图（最多同时引用 4 张参考图）、局部重绘与扩画，并兼容个性化、moodboards 和 srefs 功能。用户可通过网页端或 Discord 的 `--edit` 命令使用，官方同步更新了 midjourney.com 与 alpha.midjourney.com 的界面。",
+    "source": "Midjourney：Updates（RSS）",
+    "date": "2026年8月28日7时32分"
+  },
+  {
+    "id": "cmtc5iiaa01qxroosjy2wi5nv",
+    "title": "OpenAI、微软、谷歌等 116 家企业发联名信，呼吁高度重视 AI 时代网络安全",
+    "url": "https://www.ithome.com/0/995/346.htm",
+    "summary": "OpenAI、Anthropic、微软、谷歌母公司 Alphabet、亚马逊等 116 家企业和机构签署联名信，呼吁企业与政策制定者将网络安全置于首要位置，在 AI 时代\"采取果断行动\"强化防御。信中敦促政府推行\"可信访问计划\"，使合规企业可在公众开放前提前接入高阶模型，并要求所有机构将网络防御提升为领导层核心要务，同时为医院、水处理厂等关键基础设施提供专项资金支持。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日7时23分"
+  },
+  {
+    "id": "cmtc5i81401mlroosz6bsplf6",
+    "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
+    "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月28日7时1分"
+  },
+  {
+    "id": "cmtc5i7jq01maroosppj84m8d",
+    "title": "Anthropic 与 OpenAI 高管将亮相 TechCrunch Disrupt 2026 AI 舞台",
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026",
+    "summary": "TechCrunch Disrupt 2026 将于 10 月 13-15 日在旧金山 Moscone Center 举办，AI 舞台由 Google for Startups 呈现。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月28日7时16分"
+  },
+  {
+    "id": "cmtc5iiaa01qzroosj59fcurn",
+    "title": "宇树科技宣布每年无偿赞助\"天才少年\"，特别优秀者经费不设限",
+    "url": "https://www.ithome.com/0/995/344.htm",
+    "summary": "宇树科技8月27日晚宣布，每年将无偿赞助一部分\"天才少年\"，面向高中到硕士毕业前的学生，项目方向不设限，涵盖芯片制造、AGI、可控核聚变等前沿领域。公司将根据项目申请书和过程质量，给予1万元至2万元经费，分阶段无偿赞助，特别优秀的不设限。宇树称此举源于创始人王兴兴早年获约1万元\"浙江省新苗计划\"资助的经历。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日7时12分"
+  },
+  {
+    "id": "cmtc590g801exroosefm1trg4",
+    "title": "Gemini Notebooks 新增 Google Play 图书导入",
+    "url": "https://x.com/testingcatalog/status/2093111528761213226",
+    "summary": "GOOGLE 🔥：用户现在可以将 Google Play Books 中的精选电子书添加到他们的 Gemini Notebooks 中。\n\n> 第三方订阅、教科书以及搜索中的 AI Mode 和 Gemini App 等更广泛的平台支持即将推出。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月28日7时0分"
+  },
+  {
+    "id": "cmtc5iiaa01r2roos6elstw23",
+    "title": "规避反垄断审查，消息称英伟达暂停与多家 AI 公司的收益分成协议",
+    "url": "https://www.ithome.com/0/995/341.htm",
+    "summary": "英伟达已暂停一项新融资计划中的部分交易，该计划原定向 AI 云服务商提供信用支持以换取营收分成，部分员工担忧其引发反垄断审查。该项目于上周叫停，距宣布不足两个月，英伟达仍可能调整或并入其他业务。发言人回应称该模式仍在正常运作，并正根据市场需求持续优化迭代。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日6时57分"
+  },
+  {
+    "id": "cmtc5i5p201liroosqp8txcu3",
+    "title": "研究者发现针对 Claude Code Opus 5 自动模式的高成功率攻击",
+    "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode",
+    "summary": "安全研究员 Johann Rehberger 发现一种针对 Claude Code 自动模式的攻击，通过诱骗其下载并解压 zip 压缩包，进而执行本地恶意代码，据称成功率高达 80%。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月28日6时50分"
+  },
+  {
+    "id": "cmtc4jajv01pbrozakzmm9fdk",
+    "title": "Gemini Omni 1.1 Flash 支持视频续写扩展场景",
+    "url": "https://x.com/GeminiApp/status/2093107727363092677",
+    "summary": "使用 Gemini Omni 1.1 Flash 加速你的故事创作。🏎️\n\n现在，你可以通过创建或上传视频，然后让 Gemini 从上次结束的地方继续扩展场景，从而构建更长的故事或开拓新的创意方向。",
+    "source": "X：Gemini (@GeminiApp)",
+    "date": "2026年8月28日6时45分"
+  },
+  {
+    "id": "cmtc467e001g8rozaz287lxcp",
+    "title": "OpenAI 在印度向 ChatGPT 用户展示广告",
+    "url": "https://x.com/rohanpaul_ai/status/2093105623944843656",
+    "summary": "OpenAI 开始在印度向免费 ChatGPT 用户和付费 Go 订阅用户展示广告，赞助单元可出现在相关答案下方。OpenAI 称广告商无法影响回答，也无法访问用户聊天、记忆或个人详情。定向系统可利用当前对话，个性化广告也可能参考过往聊天和记忆，但不会向广告商暴露这些记录。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月28日6时37分"
+  },
+  {
+    "id": "cmtc4o6h40020roosnawnzrfn",
+    "title": "可验证领域模型能力扩展无上限",
+    "url": "https://x.com/fchollet/status/2093105597000651244",
+    "summary": "在可验证领域中，模型能力扩展应保持无上限。模型将不断进步，通过\"吸收越来越多的计算宇宙\"来实现，而计算宇宙本质上是无限的。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月28日6时37分"
+  },
+  {
+    "id": "cmtc4dqgv01l2rozaliv4t5cb",
+    "title": "MiniMax H3 助力 fal 打造 H3 Max",
+    "url": "https://x.com/MiniMax_AI/status/2093103692010676461",
+    "summary": "MiniMax 发文祝贺 fal 团队基于 MiniMax H3 推出 H3 Max。fal 对 H3 进行后训练以提升提示词遵循与视觉质量，并协同设计推理栈，在提速同时持续测试质量，仅保留不损失后训练收益的优化。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月28日6时29分"
+  },
+  {
+    "id": "cmtc4fn8n01mwrozaq4bot3b4",
+    "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
+    "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+    "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月28日6时29分"
+  },
+  {
+    "id": "cmtc3d34b01jirox54pvp8pn0",
+    "title": "Anthropic 推出模型硬件标准，让 AI 智能体控制物理世界",
+    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world",
+    "summary": "Anthropic 推出模型硬件标准（MHS），这是一套标准化驱动，旨在让 AI 智能体轻松连接并控制任意设备。MHS 可为设备间数据共享提供通用接口和格式，将实验设置时间从数周或数月缩短至\"数小时或数分钟\"。目前该标准处于研究预览阶段，Anthropic 正与 AWS、Hugging Face、Raspberry Pi 等合作，计划最终将其开源。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月28日6时15分"
+  },
+  {
+    "id": "cmtc33n9w01c0rox5yff9nh39",
+    "title": "英伟达暂停部分AI云收入分成协议",
+    "url": "https://x.com/rohanpaul_ai/status/2093099775990386725",
+    "summary": "WSJ报道，英伟达在对其寻求的控制权担忧加剧后，暂停了部分AI云收入分成协议。\n\n因此，英伟达正从单纯的芯片供应商，转变为芯片供应商+财务后盾+收入分成伙伴+对云客户拥有一定控制权的角色。\n\n据WSJ报道，正是这种额外控制权引发了阻力及潜在的反垄断担忧，英伟达现已暂停部分收入分成协议，同时重新考虑其结构。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月28日6时14分"
+  },
+  {
+    "id": "cmtc3cwgb01g6rox57x2ohc2r",
+    "title": "Claude Code v2.1.248 发布：新增受限模式与跨会话消息功能",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.248",
+    "summary": "Claude Code v2.1.248 发布，新增 --restricted 受限模式，移除运行命令/代码及 WebFetch 等内置工具，并忽略用户、项目及本地设置文件。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年8月28日6时12分"
+  },
+  {
+    "id": "cmtc2frtu027grop2t2vp15uc",
+    "title": "2026年Anthropic与OpenAI营收加速增长",
+    "url": "https://x.com/EpochAIResearch/status/2093094775213985826",
+    "summary": "2025年，Anthropic和OpenAI就已经是历史上同规模中增长最快的公司之一。然而，它们的营收增长在2026年进一步加速。@justjoshinyou13 和 @lynette_bye 在我们最新一期的通讯中讨论了这对AI未来的意义。",
+    "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年8月28日5时54分"
+  },
+  {
+    "id": "cmtc28kxp022qrop2us7tpb03",
+    "title": "MiniMax 与 fal 合作推出 H3 Max 视频模型",
+    "url": "https://x.com/MiniMax_AI/status/2093092333378224185",
+    "summary": "MiniMax 祝贺 fal 团队推出基于其开源模型的后训练视频模型 H3 Max，该模型在质量、提示理解和美学方面排名第一，生成 5 秒 720p 视频仅需不到 3 秒。fal 同时优化了推理系统以实现超实时性能。H3 Max 发布首周享 50% 折扣。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月28日5时44分"
+  },
+  {
+    "id": "cmtc28kxd022prop2yoydusyj",
+    "title": "Codex 个人安全实践征集",
+    "url": "https://x.com/jxnlco/status/2093091491141001642",
+    "summary": "正在写一篇关于使用 Codex 保障个人安全的文章\n\n你如何保护自己的账户和个人信息？Codex 在这方面帮到了你什么？\n\n很想知道你尝试过哪些方法、哪些真正有效。请勿分享敏感细节。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年8月28日5时41分"
+  },
+  {
+    "id": "cmtc11ie00023rop2av524001",
+    "title": "H3 Max 实时生成 AI 视频突破时间界限",
+    "url": "https://x.com/emollick/status/2093082102312923351",
+    "summary": "AI 视频的一条线被跨越了。在我仅使用网页界面的实验中，H3 Max 现在生成质量尚可的 AI 视频，所需时间比观看该视频还要短。从我按下\"生成\"按钮那一刻起就是实时的（其中还包括提示词增强）。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月28日5时3分"
+  },
+  {
+    "id": "cmtc17onu016vrop26kzy5nyx",
+    "title": "Our ChatGPT and OpenClaw Guides Just Got an Overhaul",
+    "url": "https://every.to/p/our-chatgpt-and-openclaw-guides-just-got-an-overhaul",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年8月28日5时25分"
+  },
+  {
+    "id": "cmtc2agsu024jrop2c2nqqrbf",
+    "title": "我们使用一个基于vibecode的模糊测试工具，在FFmpeg中发现了一个除以零的漏洞",
+    "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+    "summary": "开发者通过一个基于vibecode的模糊测试工具，在FFmpeg中发现了除以零漏洞。该工具利用Anubis的Proof-of-Work机制（类似Hashcash）应对AI公司的大规模爬取，在个体规模下额外负载可忽略，但在大规模爬取时成本显著增加。目前该方案为临时措施，后续将转向通过字体渲染等方式识别无头浏览器。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月28日5时25分"
+  },
+  {
+    "id": "cmtc212g801zbrop2nso66qnp",
+    "title": "创业公司求职：用AI替代被动执行，主动列出优先事项",
+    "url": "https://x.com/gabriel1/status/2093087410074640740",
+    "summary": "创业公司里若还需被指挥做事，创始人不如直接问AI。如今唯一难点是决定先做什么，因此求职时别只列擅长清单，而应写明加入后你会按重要性做什么。作者称收到700+私信求职，50M曝光量下却无一人给出具体改进方案。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年8月28日5时25分"
+  },
+  {
+    "id": "cmtc1bkpr01durop29saldcva",
+    "title": "Cohere 创始人喊话加拿大人回国共建",
+    "url": "https://x.com/cohere/status/2093085350377758848",
+    "summary": "Cohere 会支持你。在这里做出酷的东西吧。",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年8月28日5时16分"
+  },
+  {
+    "id": "cmtc11ied0024rop2hqkz1vkg",
+    "title": "AgentMercury：训练环境与评测集脱钩可提升泛化",
+    "url": "https://x.com/rohanpaul_ai/status/2093084387667542290",
+    "summary": "AgentMercury 研究表明，智能体的训练环境不必与评测集一致，在无关的模拟商业世界中训练反而能提升目标基准表现。该方法从商业描述生成 4，783 家模拟公司，每家公司含独立服务、工具和数据库，再从中提取训练任务。世界构建本身也可学习，微调后模型生成有效公司的成功率从 3.3% 提升至 83.3%，与 Claude Opus 4.8 持平。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月28日5时13分"
+  },
+  {
+    "id": "cmtc1bkpz01dvrop2g3iu5d8m",
+    "title": "OpenClaw 团队谈 AI 前沿构建历程",
+    "url": "https://x.com/openclaw/status/2093083730604958166",
+    "summary": "想知道 OpenClaw 构建幕后的故事吗？\n\nPeter 和团队最近与 @github 进行了一场炉边谈话。\n\n我们聊了 OpenClaw 的起源、在 AI 前沿的构建，以及下一步计划。🦞\n\nhttps://www.youtube.com/watch?v=5VSwaUXtPIE",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年8月28日5时10分"
+  },
+  {
+    "id": "cmtc0kquc01faromefodmc1ph",
+    "title": "Replit 智能模型路由：免费与付费版差异解析",
+    "url": "https://x.com/Replit/status/2093081124901671208",
+    "summary": "借助智能模型路由，Replit 会为你发送的每项任务挑选合适的模型，让你在无需额外成本的情况下，兼顾质量、速度与效率。\n\n以下是其运作方式，以及 Free、Power 和 Max 版本之间的差异详解 ↓",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年8月28日5时0分"
+  },
+  {
+    "id": "cmtbz2p7e0079rolb5qfitfiw",
+    "title": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
+    "summary": "Google 推出 Gemini Omni 1.1 Flash，通过 Gemini API 在 Google AI Studio 提供面向专业用途的生成视频能力。新功能包括场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量延长至累计 40 秒）、首尾帧插值、360p 快速草稿（比 720p 快至多 60%、成本为其三分之一）以及最高 4K 分辨率升级。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月28日4时6分"
+  },
+  {
+    "id": "cmtc11idn0022rop20oyrl6g7",
+    "title": "Grok Bot 如何改变智能体协作体验",
+    "url": "https://x.com/omarsar0/status/2093080633509626034",
+    "summary": "Grok Bot 的意义比表面看起来更大。\n\n它真正改变了我与智能体协作的方式。\n\n最大的变化：我不再过度思考了。\n\n简化的界面给了我以往常规聊天会话所没有的信心。\n\n我认为还有更多独特的体验和 UI 层有待发掘，以提升对 AI 的信任并增强协作。在我看来，Grok Bot 在这方面处于领先地位。\n\n主动式能力也很出色，而且还在不断改进。这是我最期待的一个方向。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月28日4时58分"
+  },
+  {
+    "id": "cmtc0ambn018srome8v8hr1yl",
+    "title": "Epoch AI实测GPT-5.6游戏表现",
+    "url": "https://x.com/EpochAIResearch/status/2093079297724735906",
+    "summary": "过去几周，我们进行了一些非正式实验，让 GPT-5.6 Sol 通过操作电脑来玩《杀戮尖塔》这款视频游戏，以此测试其计算机使用能力。\n\n我们了解到，计算机使用并非 Sol 的主要局限。相反，Sol 主要是在战术和策略方面存在不足。它的游戏水平高于人类新手，但低于专家水平。",
+    "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年8月28日4时52分"
+  },
+  {
+    "id": "cmtc05bnj015srome8fm42xy8",
+    "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+    "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+    "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月28日4时52分"
+  },
+  {
+    "id": "cmtbzvwp902morolbetm8r7lw",
+    "title": "Netflix 论文详解 LLM 评委在推荐理由系统中的生命周期",
+    "url": "https://x.com/rohanpaul_ai/status/2093075327857672211",
+    "summary": "Netflix 发布论文，详解其推荐理由生成系统：一个 AI 模型撰写\"因为你看过\"短句，另一个 AI 评委逐条打分，人类每周审核。论文提出生产环境中的评委模型需持续维护，分为构建标注样本、调优评委、作为门控运行及监控漂移四阶段，调优基于书面理由而非简单对错。5 周测试显示，相比无解释，该方案让用户略微转向未看过的内容，并更常以播放结束浏览。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月28日4时37分"
+  },
+  {
+    "id": "cmtbziw1n02arrolbsnm1rrec",
+    "title": "ChatGPT Work 可代登录网站办杂务且不泄露密码",
+    "url": "https://x.com/thsottiaux/status/2093074717590921245",
+    "summary": "ChatGPT Work 现可在网页和移动端使用其计算机与浏览器登录网站，全程不接触用户用户名或密码。用户可让其代订 Uber、预约理发、办理水电煤、预约 DMV 或护照、提交保险报销等事务。该功能覆盖生活与工作场景，如比价租房保险、整理发票提交会计软件、分析广告活动等。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月28日4时34分"
+  },
+  {
+    "id": "cmtbzgjdi022irolbachx0u48",
+    "title": "MiniMax 开源 H3 基础模型，生态后训练登顶",
+    "url": "https://x.com/MiniMax_AI/status/2093074338413244514",
+    "summary": "MiniMax 祝贺 fal 团队基于其开源 H3 基础模型后训练的 H3 Max 视频模型登顶多项评测。H3 Max 在整体质量、提示词理解和美学上均排名第一，生成 5 秒 720p 视频耗时低于 3 秒，且本周价格五折。MiniMax 强调后训练只是释放基础模型已有能力，并指出 SGLang 训练管线及 Sol-Attention 引擎带来 3.95 倍端到端加速。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月28日4时33分"
+  },
+  {
+    "id": "cmtbzgjd6022grolbbcpklik5",
+    "title": "Gemini Live 新增多项功能，可代你处理复杂任务",
+    "url": "https://x.com/joshwoodward/status/2093074288295481470",
+    "summary": "看看你能做什么：\n- 告诉 Gemini 你想做什么\n- Gemini 就开始干活\n\n这是语音之年\n\nGemini Live 正从对话走向代你处理复杂任务。\n\n借助 Live 中的新功能，如 Daily Brief、Gemini Spark、Personal Intelligence 和 @Gmail 收件箱管理，你可以口述一天安排并委派待办事项，不错过任何节奏。🧵",
+    "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+    "date": "2026年8月28日4时32分"
+  },
+  {
+    "id": "cmtc0aywq019iromev2lxup3m",
+    "title": "OpenAI 联合多家科技巨头呼吁加强全球网络防御",
+    "url": "https://x.com/OpenAI/status/2093074192636018977",
+    "summary": "我们加强网络防御的时间窗口有限，现与 @AnthropicAI、@awscloud、@Google、@Microsoft 和 @Oracle 等组织一道，呼吁全球共同努力，为防御者提供保护我们共同依赖的基础设施所需的工具、资源和支持。\n\n如果我们果断行动，就能将当今的 AI 进步转化为持久的安全改善，让我们的数字世界对每个人都更加安全。\n\nhttps://openai.com/collective-cyberdefense/",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年8月28日4时32分"
+  },
+  {
+    "id": "cmtbzck1x01wzrolb2f5vn5bb",
+    "title": "Lumos NIX 太极招式展示引赞叹",
+    "url": "https://x.com/rohanpaul_ai/status/2093073860623237377",
+    "summary": "这一招太极动作看起来确实沉稳。\n\n每次踢腿后站姿几乎不晃。布料在腿部拖曳，却依然能保持招式形态。\n\n【引用 @rohanpaul_ai】：Lumos NIX 的精彩展示\n\n稳住，轴线，收势。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月28日4时31分"
+  },
+  {
+    "id": "cmtbzgjd6022hrolb6u2eix9h",
+    "title": "Gemini Notebook 推出 Expert Intelligence 读书功能",
+    "url": "https://x.com/joshwoodward/status/2093070717508296923",
+    "summary": "Google 推出跨部门计划 Expert Intelligence，用户可在 Gemini Notebook 中导入符合条件的 Google Play 电子书，将作者观点与其他来源结合，以全新方式与书籍互动。作者和出版商可通过该计划触达更多深度读者。",
+    "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+    "date": "2026年8月28日4时18分"
+  },
+  {
+    "id": "cmtbzck1o01wyrolb3vepkiiu",
+    "title": "作者将赴柏林GTC，聚焦智能体与开源模型",
+    "url": "https://x.com/kimmonismus/status/2093070145208152261",
+    "summary": "作者将参加10月20-22日于柏林举办的NVIDIA GTC，期待黄仁勋主题演讲、生产级智能体、可检视部署的开源模型及欧洲AI基础设施讨论。其关注议程包括开源模型构建、欧洲高性能AI工厂，并提及NVIDIA已同意收购Hugging Face。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月28日4时16分"
+  },
+  {
+    "id": "cmtbzqxg102i0rolbsxwudx7y",
+    "title": "AGNTCon 阿姆斯特丹九月阵容公布",
+    "url": "https://x.com/dexhorthy/status/2093069336856723543",
+    "summary": "九月阿姆斯特丹 AGNTCon 的主讲阵容太棒了！等不及要和所有我喜欢的欧洲开发者们聚聚 @techgirl1908 @clare_liguori @dsp_ @p3pijn_jasper @Dpbrinkm 还有更多\n\n另外，如果你正在搭建公司的软件工厂，并且至少有 100 名工程师，联系我，我会尽量帮你安排进我们在 9 月 16 日（周三）举办的晚宴。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月28日4时13分"
+  },
+  {
     "id": "cmtbrodbr16irroamfckmg2eo",
     "title": "DeepMind 副总裁谈 AI 不确定性推理",
     "url": "https://x.com/GoogleDeepMind/status/2093019627437662680",
