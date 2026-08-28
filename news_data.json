@@ -14248,6 +14248,406 @@
     "date": "2026年8月28日4时13分"
   },
   {
+    "id": "cmtczj6d109boroq5hfjq1iih",
+    "title": "灵掌机器人完成数千万元天使轮融资",
+    "url": "https://www.ithome.com/0/995/790.htm",
+    "summary": "工业具身机器人企业灵掌机器人近日完成数千万元天使轮融资，投资方包括凯龙高科、遨博智能、锡创投、芯能创投。资金将投向工业产线、特种作业及商业航天等场景的产品研发，以及营销体系与订单交付能力建设。该公司成立于2024年，核心产品为面向工业领域的灵巧手，可适配精密零部件装配、高危环境作业、柔性物料抓取等90%以上的工业场景。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日21时9分"
+  },
+  {
+    "id": "cmtcznrvq09f1roq5dcayruou",
+    "title": "Keras 深度学习解码宇宙线起源",
+    "url": "https://x.com/fchollet/status/2093324430122549427",
+    "summary": "从地面探测器阵列推断宇宙线（如超新星、黑洞等）的起源，是一个公认的困难逆问题。\n\n本文介绍了天体粒子物理学家如何利用 Keras 取代传统手工特征，直接对原始时空波形进行建模。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月28日21时6分"
+  },
+  {
+    "id": "cmtczpge209fsroq5u8mizlpy",
+    "title": "昆仑万维 SkyProduction 接入 Wan 3.0，本周末限时免费",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510180&idx=1&sn=885e26e1fc6561c07c492ce45cfcfe8b",
+    "summary": "昆仑万维旗下 SkyProduction（天工工作台）正式接入阿里 Wan 3.0 视频生成模型，8月28日-30日面向所有用户限时免费。8月31日起恢复收费，价格低至0.05元/秒，为全网最低价。Wan 3.0支持原生30秒生成、同时参考10张图片/5个视频/5个音频及文档内容，并强化像素级一致性与精准视频编辑能力。",
+    "source": "公众号：昆仑万维（天工）",
+    "date": "2026年8月28日21时5分"
+  },
+  {
+    "id": "cmtcyvbxv08syroq51kpo7jw4",
+    "title": "面壁智能发布SimpleNav导航VLA框架",
+    "url": "https://x.com/OpenBMB/status/2093323069544931449",
+    "summary": "我们发布 SimpleNav：一个统一的导航 VLA 研究框架。🤗\n\n导航视觉-语言-动作（VLA）研究通常需要在不同数据集、模型和评估环境中进行重复的工程工作。\n\n为使导航 VLA 开发更具可复现性和高效性，我们推出 SimpleNav，一个开源框架，统一了从数据处理、模型训练到闭环评估的完整流程。👇",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月28日21时1分"
+  },
+  {
+    "id": "cmtcz92r508yfroq5nqh3l2up",
+    "title": "DeepMind Co-Scientist 走出模拟，实测实验室成果亮眼",
+    "url": "https://x.com/omarsar0/status/2093323034195378306",
+    "summary": "Google DeepMind 新论文将 AI Co-Scientist 从模拟推向真实实验。在计算机科学领域，它发现一种推理时扩展架构，在盲审下击败 HealthBench Hard 和 Professional 上的六款前沿模型；在生物学领域，它从稀疏成像数据预测了大肠杆菌群集表型，与未公开实测数据吻合。30 位领域专家对端到端生成的论文撰写了 450 条评审，可靠性模块减少了幻觉与抄袭。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月28日21时1分"
+  },
+  {
+    "id": "cmtczivpn097zroq5km35vht5",
+    "title": "AI 基准测试存在信任问题，Google DeepMind 用密码学方法修复它",
+    "url": "https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it",
+    "summary": "Google DeepMind 启动首个专有前沿 AI 模型的双盲评估试点，与新加坡 AI 安全研究所等合作，在 Gemini Flash Lite 系列模型上运行。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月28日21时15分"
+  },
+  {
+    "id": "cmtcz92r508yeroq5hx76e8ns",
+    "title": "Google 论文：用持久知识库维护智能体技能",
+    "url": "https://x.com/omarsar0/status/2093325637821878575",
+    "summary": "Google 一篇论文提出将原始执行轨迹、持久知识 wiki 与可执行技能三者分离，经验先沉淀进 wiki，后续技能更新均基于该 wiki。消融实验证实 wiki 是主要增益来源：带进化技能的小模型可超越无技能的大模型，且技能可跨模型家族迁移。论文：arxiv.org/abs/2608.27454。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月28日21时11分"
+  },
+  {
+    "id": "cmtcyd0kc08gmroq554guvyc4",
+    "title": "有人训练Microduck做翻跟头",
+    "url": "https://x.com/ClementDelangue/status/2093309872733315301",
+    "summary": "有人训练microduck做翻跟头 😭",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月28日20时9分"
+  },
+  {
+    "id": "cmtcx3x1t07cdroq51sh0nmjq",
+    "title": "开放廉价模型如何推动自动化升级",
+    "url": "https://x.com/omarsar0/status/2093309547154649519",
+    "summary": "我越是拥抱开放且更廉价的模型，就能负担起越多的自动化。\n\n前沿模型负责编排与协调。\n\n开放且更廉价的模型负责执行。这里的 token 使用量正在迅速增长。\n\n这让我比以往任何时候都更能倚重主动型智能体。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月28日20时7分"
+  },
+  {
+    "id": "cmtcysdqz08rlroq54tjnrjqa",
+    "title": "商汤参与香港中学生AI职场体验计划",
+    "url": "https://x.com/SenseTime_AI/status/2093321844187381973",
+    "summary": "商汤科技参与香港工业总会与科技园合办的\"创新企业家体验之旅\"第五期（2026），为中学生提供跨部门职场体验，通过分享会、互动交流及实践加深其对AI行业及公司日常运作的了解。期间商汤专家参与行业交流座谈，探讨AI为香港未来发展创造的新机遇。参与学生Zekai Ma在该计划中荣获学生之星奖第三名。",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "date": "2026年8月28日20时56分"
+  },
+  {
+    "id": "cmtcxdp3f07l3roq5uk6om1aw",
+    "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+    "url": "https://www.terminal-bench-science.ai/announcement",
+    "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月28日20时4分"
+  },
+  {
+    "id": "cmtcyg4tf08i7roq5yak2yfax",
+    "title": "Anthropic 赢得对五角大楼供应链风险标签的首场法庭胜利",
+    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+    "summary": "加州联邦法官裁定，特朗普政府将 Anthropic 列为供应链风险属非法行为，称国防部长 Pete Hegseth 的标签构成违反第一修正案的\"非法报复\"，且决定\"任意且反复无常\"。该纠纷源于 Anthropic 在允许五角大楼将其模型用于全自主武器和大规模监控美国公民方面设定安全护栏红线。Anthropic 于三月在加州和华盛顿特区提起两起诉讼，华盛顿特区案件仍在审理中。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月28日20时46分"
+  },
+  {
+    "id": "cmtcy6hqh08diroq5m8sg0bvp",
+    "title": "ChatGPT临时聊天支持个性化设置",
+    "url": "https://x.com/testingcatalog/status/2093317610892828978",
+    "summary": "ChatGPT 的临时聊天现在可以个性化设置了。用户也可以选择关闭个性化功能。\n\n> 此聊天可引用记忆、插件和自定义指令。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月28日20时39分"
+  },
+  {
+    "id": "cmtcy6hqh08djroq5q3aroipo",
+    "title": "ChatGPT Gmail插件支持多账户连接",
+    "url": "https://x.com/testingcatalog/status/2093315708192981064",
+    "summary": "ChatGPT Gmail 插件现在支持用户连接多个账户。\n\n你使用多少个账户？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月28日20时32分"
+  },
+  {
+    "id": "cmtcxdjq007jlroq5xkn4m1yt",
+    "title": "Meta 印度及东南亚副总裁 Sandhya Devanathan 离职加入 OpenAI",
+    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india",
+    "summary": "Meta 印度及东南亚副总裁 Sandhya Devanathan 离职加入 OpenAI，将常驻新加坡，负责东南亚及澳大利亚的消费者增长、企业采用、合作、监管沟通与运营。她此前在 Meta 任职超十年，曾参与该公司在印度的决策。近期 Meta 因内容审核及儿童性虐待材料等问题在印度面临日益严格的审查。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月28日20时21分"
+  },
+  {
+    "id": "cmtcximmo07s8roq5wuw0ihli",
+    "title": "可灵AI八月创作者精选：平行世界的你",
+    "url": "https://x.com/Kling_ai/status/2093307609906381038",
+    "summary": "在平行世界里，你会成为谁？🌙 八月创作者精选，让想象力带你前往全新的地方。",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年8月28日20时0分"
+  },
+  {
+    "id": "cmtcwb36g05v5roq5x5n9h5au",
+    "title": "美国法院裁定五角大楼将 Anthropic 列入黑名单违法",
+    "url": "https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful",
+    "summary": "旧金山联邦法院裁定，五角大楼将 Anthropic 列为供应链风险的行为违法，侵犯了该公司因公开批评政府 AI 政策而享有的第一修正案权利。此前，因军用 Claude AI 模型谈判破裂，美国国防部于 3 月将 Anthropic 列入黑名单。华盛顿相关诉讼仍在审理中，该公司技术上仍处于黑名单上，但该裁决在其今年秋季计划 IPO 前具有重要意义。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月28日19时43分"
+  },
+  {
+    "id": "cmtcv8im904xoroq5ifc0tcne",
+    "title": "Beatport 全面封禁纯 AI 生成音乐",
+    "url": "https://the-decoder.com/beatport-blocks-fully-ai-generated-music-from-its-dj-marketplace",
+    "summary": "DJ 市场 Beatport 开始禁止完全或大部分由 AI 生成的音乐，人类主导、仅使用 AI 辅助的曲目仍可上架但会被标记。平台借助合作伙伴 Beatdapp 的检测工具在上传时过滤 AI 曲目，被拒曲目权利人将收到通知。调查显示 60% 用户不会在演出中播放 AI 音乐，77% 更偏爱人类创作的音乐。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月28日19时20分"
+  },
+  {
+    "id": "cmtcvzxrd05olroq53z771w5q",
+    "title": "Microduck 首日订单超 260 万美元",
+    "url": "https://x.com/Thom_Wolf/status/2093295950605279501",
+    "summary": "我们已在 24 小时内收到超过 260 万美元的 Microduck 订单。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月28日19时13分"
+  },
+  {
+    "id": "cmtcuyq9u04naroq56iw25u2y",
+    "title": "GLM-5.3 本地运行需 10-12×H100",
+    "url": "https://x.com/kimmonismus/status/2093295691221156346",
+    "summary": "你只需要 10-12× H100 用于 FP8，或 40 万-65 万美元，就能在本地运行 GLM-5.3。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月28日19时12分"
+  },
+  {
+    "id": "cmtcvwcqa05n5roq5i0jp4i1u",
+    "title": "AI 二创视频加速，真相门槛被抬高",
+    "url": "https://x.com/AYi_AInotes/status/2093295185803309179",
+    "summary": "孙宇晨万字长文发布数小时内，网友已用 AI 生成真人剧情二创视频，将文字热点快速视频化。AI 正冲击影视制作，新闻、八卦、网文等文字内容都可能被迅速转化为视频。但需警惕：任何文字都能在几小时内变成看似真实的真人视频，\"有视频有真相\"将失效，越逼真误导性越强。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月28日19时10分"
+  },
+  {
+    "id": "cmtcv69s104p1roq5ipx72b0o",
+    "title": "华为余承东：鸿蒙生态需闯两关谋全球",
+    "url": "https://x.com/thexpin/status/2093295025576952185",
+    "summary": "在2026年鸿蒙生态大会上，轮值主席徐直军表示，该平台仍面临两大考验：引领AI时代的智能体验，以及拓展海外市场。华为计划与OpenHarmony社区、GIIC、中国互联网企业、设备制造商及国际合作伙伴在合适的市场开展试点。在验证模式和最佳实践后，目标是实现全球规模化，为世界提供\"第二选择\"。对鸿蒙而言，国内普及只是征程的一半。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月28日19时10分"
+  },
+  {
+    "id": "cmtcv8r0j0518roq5ibvckkd2",
+    "title": "浪潮信息 2026 年上半年归母净利润 29.52 亿元，同比增长 269.59%",
+    "url": "https://www.ithome.com/0/995/772.htm",
+    "summary": "浪潮信息发布 2026 年上半年财报，归母净利润 29.52 亿元，同比增长 269.59%；扣非净利润 24.19 亿元，同比增长 260.08%。营业总收入 843.79 亿元，同比增长 5.22%，利润增速远超营收。公司主营云计算、大数据、人工智能等 IT 基础设施产品，在 AI 算力服务器领域占据领先市场份额。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日18时56分"
+  },
+  {
+    "id": "cmtcv8r0j051croq5sw37wn0b",
+    "title": "《我的世界》创始人佩尔松承认早期拒绝 AI 编程\"可能错了\"",
+    "url": "https://www.ithome.com/0/995/770.htm",
+    "summary": "《我的世界》创始人马库斯·佩尔松对 AI 编程态度彻底转变，承认自己早期拒绝 AI\"可能错了\"。他曾于今年 1 月称 AI 编程是\"糟糕透顶的主意\"，7 月仍表态\"拒绝 AI\"，但此后开始尝试用 Claude 进行氛围编程，并称想给这种\"潜在的惊人技术\"一次机会。他仍保留戒心，表示不想\"太过拥抱 AI\"，因为更想继续当开发者而非中层管理人员。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日18时47分"
+  },
+  {
+    "id": "cmtcxdyi707o9roq5un5zz16i",
+    "title": "优必选 2026 财年上半年归母亏损 3.11 亿元，同比收窄 24.7%",
+    "url": "https://www.ithome.com/0/995/769.htm",
+    "summary": "优必选 2026 财年上半年营收 12.69 亿元，同比增长 104.2%，归母净亏损 3.11 亿元，同比收窄 24.7%。全尺寸人形机器人产品及解决方案收入达 5.9 亿元，同比大增 1445%，占总营收 46.5%，带动整体毛利率提升至 44.7%。公司已发布自研大模型 Thinker1.0，并推出 CruZR Y1、Walker C1、U1 等人形机器人系列。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日18时47分"
+  },
+  {
+    "id": "cmtcv8r0j051droq5cifhb0vp",
+    "title": "SK 海力士 CEO：AI 内存短缺将持续到 2030 年底，HBM 下行周期需求也不会暴跌",
+    "url": "https://www.ithome.com/0/995/767.htm",
+    "summary": "SK 海力士 CEO 郭鲁正表示，AI 带动的内存半导体供应短缺将持续到 2030 年底，当前没有明显迹象表明市场即将进入下行周期。他认为 HBM 等 AI 产品正演化为定制化商品，客户需从早期阶段与厂商合作，因此即便进入下行周期，HBM 需求也不会大幅下降。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日18时41分"
+  },
+  {
+    "id": "cmtctw5f3042oroq58qwj1kr7",
+    "title": "四小时后可下载运行SOTA AI模型",
+    "url": "https://x.com/kimmonismus/status/2093287454300135657",
+    "summary": "快速提醒：4小时后，你将能够下载并运行SOTA级AI。当然，前提是你有足够的算力。活在这个时代真不错。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月28日18时39分"
+  },
+  {
+    "id": "cmtcu5vn6047yroq5ium5qakr",
+    "title": "面对普遍的强烈反对，硅谷仍不愿正视现实",
+    "url": "https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers",
+    "summary": "美国民众对数据中心、Flock 监控摄像头及 Meta 的 AI 增强型 Ray-Ban（被广泛称为\"变态眼镜\"）普遍反感，多项民调显示 75% 的美国人反对在居住地附近建设数据中心。面对新一轮反对浪潮，AI 行业人士指责反数据中心运动是\"心理战\"或\"精神病\"产物，甚至称反对建设数据中心等同于对即将具备感知能力的 AI 实施种族灭绝式人口控制，拒绝正视公众对技术入侵个人生活和公共空间的不满。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月28日18时28分"
+  },
+  {
+    "id": "cmtctr6om03yvroq54h8rk0v7",
+    "title": "英伟达Q2财报：营收利润三位数增长加速",
+    "url": "https://x.com/foxshuo/status/2093283250290749885",
+    "summary": "英伟达Q2财报显示营收、利润三位数增长仍在加速，单季度收入接近千亿美元，同比增速106%，毛利率75%。数据中心贡献占比达92.5%创历史新高，游戏显卡业务被挤压至5%以内，中国市场收入占比趋近于零。CFO指引明年收入增长仍将保持70%高位，大幅超出华尔街预估的45%，且该增长受限于产能不足。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月28日18时23分"
+  },
+  {
+    "id": "cmtct8mwu03eproq5l4kt351k",
+    "title": "腾讯混元 Hy4 预览版上线 WorkBuddy，限时免费",
+    "url": "https://x.com/WorkBuddy_AI/status/2093282334896431224",
+    "summary": "腾讯混元 Hy4 预览版现已上线 WorkBuddy，在真实智能体工作流中测试表现亮眼，涵盖研究、Office 任务、前端开发与游戏开发。Hy4 在信息检索整合、跨文件分析与 Excel 准确性、前端视觉与交互设计、以及从自然语言构建可玩原型等任务上均有提升。Hy4 预览版在 WorkBuddy 上未来两周免费，Hy3 免费至 9 月底。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "date": "2026年8月28日18时19分"
+  },
+  {
+    "id": "cmtct3kzu03a5roq5slbm76ji",
+    "title": "华硕成立物理 AI 事业群，人形机器人计划 9 月上路",
+    "url": "https://www.ithome.com/0/995/763.htm",
+    "summary": "华硕正式成立物理 AI（Physical AI）事业群，其 AIOT 物联网事业群将于 9 月 1 日起重组更名为\"物理 AI 解决方案事业群\"（PAS BG），由张权德、许佑嘉共同领导。该事业群下设 AI 解决方案、自主平台和人形机器人三个事业部，旨在践行董事长施崇棠 2024 年推出的 All in AI 战略。华硕预计物理 AI 市场规模将于 2035 年达到 1.1 万亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日18时18分"
+  },
+  {
+    "id": "cmtct3kzu03a6roq5sohmh9c9",
+    "title": "百度萝卜快跑法务部：公司受外国资本控制等说法不实，已固定证据并提起诉讼",
+    "url": "https://www.ithome.com/0/995/759.htm",
+    "summary": "萝卜快跑法务部8月28日发布声明，称网络账号发布的\"萝卜快跑十大股东\"相关视频信息与事实不符，并据此编造公司受外国资本控制等不实说法。相关内容涉嫌损害品牌声誉及合法权益，公司已依法固定证据，并通过法定程序确定部分账号实际运营者，目前已向人民法院提起诉讼追究侵权责任。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日18时14分"
+  },
+  {
+    "id": "cmtcsx43z02wfroq5aff2tury",
+    "title": "法律行业为什么爱用 Kimi K3",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484327&idx=1&sn=e17f98156245eb9f83709eda23187908",
+    "summary": "2.8 万亿参数的 Kimi K3 在贴近真实律所工作的 Harvey LAB 基准测试中，从 K2.6 的 0 分提升到 26.7%。OpenAI 投资的 Harvey 基于 Kimi K3 发布法律行业专属模型 Tenet，多项法律基准测试超过当前全球最先进的闭源模型。国内多家红圈律所已配备 Kimi 企业版，通过 Word 批注、可溯源检索及 Kimi Work 插件接入律师工作流。",
+    "source": "公众号：月之暗面（Kimi）",
+    "date": "2026年8月28日18时12分"
+  },
+  {
+    "id": "cmtcv8p250509roq53rm3gdfl",
+    "title": "我在澡堂复活AI应用",
+    "url": "https://elsewhere.news/zh/elsewhere/i-resurrected-ai-apps-in-a-bathhouse",
+    "summary": null,
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年8月28日17时56分"
+  },
+  {
+    "id": "cmtctureu0408roq557qokkme",
+    "title": "Microduck 机载 LiDAR 演示 TUI 亮相",
+    "url": "https://x.com/Thom_Wolf/status/2093276269383229624",
+    "summary": "你将可以直接在 microduck 上运行一些相当酷的东西。这是一个用于微型 LiDAR 的演示 TUI。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月28日17时55分"
+  },
+  {
+    "id": "cmtcqydrb01karoq50pvnb8qn",
+    "title": "丹麦政府推出紧急方案引导学生合理使用 AI，遏制\"AI 作弊\"行为",
+    "url": "https://www.ithome.com/0/995/684.htm",
+    "summary": "丹麦政府针对夏季考试季多所高中 AI 作弊案例增多，推出紧急方案遏制 AI 作弊。方案包括每年约 9000 名学生增加口头答辩、监控考试电脑屏幕及网络过滤，并鼓励学生在校内受控环境完成书面作业。政府与学校、家长均认为不应简单将 AI\"赶出学校\"，而应寻找更合理利用方式。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日17时4分"
+  },
+  {
+    "id": "cmtcrr0bi0294roq55qwlwulr",
+    "title": "万相3.0上线Medeo，支持30秒原生视频生成",
+    "url": "https://x.com/alibaba_cloud/status/2093273256115749251",
+    "summary": "阿里云万相（Wan 3.0）正式上线 @Medeo_AI，支持原生30秒视频生成、同步音频，以及多模态 Omni Reference 带来的角色与风格一致性。视频支持1080p电影级画质与真实物理效果。API 已开放，可通过 Model Studio 和 Qwen Cloud 获取。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月28日17时43分"
+  },
+  {
+    "id": "cmtcrr0bj0295roq51mkgruik",
+    "title": "阿里云 Wan 3.0 上线 DeepInfra，视频音频一体",
+    "url": "https://x.com/alibaba_cloud/status/2093272820453371985",
+    "summary": "阿里云 Wan 3.0 现已上线 DeepInfra，单模型同时支持视频与音频生成，可生成 30 秒 1080P 片段，并支持图像、文件乃至网页等多模态参考，角色一致性得以保持。价格 $0.20/秒，另可通过 Model Studio 与 Qwen Cloud 调用 API。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月28日17时41分"
+  },
+  {
+    "id": "cmtcrr0bj0296roq5pre2g70p",
+    "title": "万相3.0上线Pixel Dojo，附提示词指南",
+    "url": "https://x.com/alibaba_cloud/status/2093272403334087160",
+    "summary": "Wan 3.0 现已上线 @PixelDojoAI！查看指南并开始创作吧。👇 更多 API 接入方式：\n• Model Studio： https://click.alibabacloud.com/m/20000002017/\n• Qwen Cloud： https://click.qwencloud.com/m/20000002025/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月28日17时40分"
+  },
+  {
+    "id": "cmtcqydrb01kbroq5itshv09h",
+    "title": "AMD 发布 ROCm 10.0.0，重点关注 AI 推理、开发者工具、性能分析",
+    "url": "https://www.ithome.com/0/995/683.htm",
+    "summary": "AMD 发布 GPU 加速计算软件堆栈 ROCm 10.0.0，版本号纪念其诞生 10 周年，重点关注 Instinct、Radeon、Ryzen AI 平台上的 AI 推理、开发者工具与性能分析。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日17时3分"
+  },
+  {
+    "id": "cmtcrr0bj0297roq5wcngernk",
+    "title": "阿里云 Wan3.0 上线 A2E，支持 30 秒视频生成与编辑",
+    "url": "https://x.com/alibaba_cloud/status/2093271860167450773",
+    "summary": "阿里云 Wan3.0 登陆 A2E 平台，支持从文本或图像生成完整 30 秒视频。用户可编辑时间线、扩展场景、重绘镜头并重塑视觉元素，全程保持角色一致性。API 已通过 Model Studio 和 Qwen Cloud 开放。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月28日17时37分"
+  },
+  {
+    "id": "cmtcrr0bj0298roq5koy3t2ev",
+    "title": "通义万相3.0上线PowerDirector",
+    "url": "https://x.com/alibaba_cloud/status/2093271141829980541",
+    "summary": "Wan 3.0 现已上线 @PowerDirectorJP！🎬 将简单提示词变成惊艳的 AI 视频，让你的创意成真。更多 API 接入：\n• Model Studio： https://click.alibabacloud.com/m/20000002017/\n• Qwen Cloud： https://click.qwencloud.com/m/20000002025/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月28日17时35分"
+  },
+  {
+    "id": "cmtcrr0c4029aroq59g9gg2k8",
+    "title": "Anthropic 内部测试 Claude Hub 功能",
+    "url": "https://x.com/testingcatalog/status/2093267703372898440",
+    "summary": "Anthropic 持续在内部测试新的\"Hub\"功能，并询问用户若切换回普通聊天时提供反馈。\n\nClaude Hub 据推测是一个任务编排组件，Anthropic 可能计划广泛发布。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月28日17时21分"
+  },
+  {
+    "id": "cmtcrr0bj0299roq54fwedolt",
+    "title": "阿里云万相3.0创作者实战工作流分享",
+    "url": "https://x.com/alibaba_cloud/status/2093267163381653602",
+    "summary": "创作者在实际项目中究竟如何使用万相3.0--而不只是点击生成？\n\n我们与来自 @Pixmax_ai 的 Liz Zhang @LizlizJimena 坐下来聊了聊：发布概念片、围绕模型构建完整创意工作流，以及他们的创作者社区下一步计划。\n\n观看完整对话 ↓\n\n更多 API 接入：\n• Model Studio： https://click.alibabacloud.com/m/20000002017/\n• Qwen Cloud： https://click.qwencloud.com/m/20000002025/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月28日17时19分"
+  },
+  {
+    "id": "cmtcqydrb01k7roq5bh2a0jqo",
+    "title": "消息称 Meta 一度预计今年在 Anthropic 服务上花费 100 亿美元",
+    "url": "https://www.ithome.com/0/995/690.htm",
+    "summary": "《纽约时报》报道，Meta 今年 4 月左右曾预计全年需为 Anthropic 的 AI 服务支出约 100 亿美元（现汇率约合 673.72 亿元人民币）。随着外部 AI 服务价格提升，Meta 结束了内部\"词元最大化\"竞争，将更多需求转向内部工具，并于 6 月将全年 AI 应用支出指引调整为\"数十亿美元\"。此举将削减 Anthropic 年化收入，为其 IPO 带来利空。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月28日17时17分"
+  },
+  {
+    "id": "cmtcrm0su0272roq5v641e3r3",
+    "title": "孙宇晨提指甲刀带火张小泉股价",
+    "url": "https://x.com/AYi_AInotes/status/2093266367147372579",
+    "summary": "孙宇晨发文回忆白月光时提到抽屉里的指甲刀，A股刀剪第一股张小泉被网友封为\"指甲刀概念股\"，开盘拉涨超11%，午盘收涨4.54%报30.88元。无业绩预告、无订单增长、无基本面变化，唯一变量是孙宇晨文中提及的指甲刀。该事件折射A股资金靠故事和热点炒作、基本面分析不敌小作文的魔幻现实。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月28日17时16分"
+  },
+  {
+    "id": "cmtcqvy5t0176roq52ybkqj7l",
+    "title": "阿里云巴西双数据中心落地，首次进军南美",
+    "url": "https://x.com/thexpin/status/2093262321246507505",
+    "summary": "阿里云周四在巴西启用两座数据中心，系其南美首个云区域，提供本地云基础设施与智能体AI服务，以降低延迟并满足本地数据治理要求。继墨西哥、法国、韩国后，阿里云现覆盖31个区域106个可用区。公司承诺三年投入3800亿元人民币（565亿美元）建设AI基础设施，其中半数已于6月前完成；Q2 AI云与计算收入达484亿元，增速创22个季度最快。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月28日17时0分"
+  },
+  {
+    "id": "cmtcqvy5i0175roq5asl9fspn",
+    "title": "SpaceXAI 团队整理 Grok 机器人指南",
+    "url": "https://x.com/ericzakariasson/status/2093261726758453638",
+    "summary": "@SpaceXAI 团队收集了一批不错的 Grok 机器人指南，去看看吧：https://x.ai/bot/guides",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月28日16时57分"
+  },
+  {
+    "id": "cmtcpvj9e04cpro645lmugnew",
+    "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+    "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月28日16时36分"
+  },
+  {
+    "id": "cmtcp3jie03nsro64qyvu9d5q",
+    "title": "Midjourney 开始测试 V8.2 编辑模型",
+    "url": "https://x.com/midjourney/status/2093253371650031949",
+    "summary": "我们今天将开始测试首个 V8.2 编辑模型。该模型支持指令编辑、用其他图像生成图像（最多 4 张参考图）、基于笔刷的局部重绘和外绘。它还可与个性化、情绪板和 srefs 配合使用。玩得开心！",
+    "source": "X：Midjourney (@midjourney)",
+    "date": "2026年8月28日16时24分"
+  },
+  {
     "id": "cmtbrodbr16irroamfckmg2eo",
     "title": "DeepMind 副总裁谈 AI 不确定性推理",
     "url": "https://x.com/GoogleDeepMind/status/2093019627437662680",
