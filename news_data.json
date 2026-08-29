@@ -14504,6 +14504,278 @@
     "date": "2026年8月29日2时19分"
   },
   {
+    "id": "cmteiz93j039aroumnd917poc",
+    "title": "OpenAI 未发布模型 Astra 首批输出曝光",
+    "url": "https://x.com/testingcatalog/status/2093716456160579879",
+    "summary": "OpenAI 未发布模型 Astra（内部代号\"mozaik-alpha-fdm\"）的首批公开输出已流出，测试显示其零样本、Max effort 下表现惊艳。OpenAI 已扩大该模型的内部测试，暗示发布可能临近。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月29日23时4分"
+  },
+  {
+    "id": "cmteiz9310399roumwg938bon",
+    "title": "OpenAI自研芯片Jalapeno性能超Rubin",
+    "url": "https://x.com/SemiAnalysis_/status/2093715936406610233",
+    "summary": "OpenAI的秘密武器刚刚亮相。Jalapeno，这款AI设计的芯片，每兆瓦token数超越Rubin，九个月内完成流片，还能运行Doom。\n\nMyron和Bryan与@JordanNanos一起在SemiAnalysis Weekly上全面解析：\n\n- Jalapeno vs Rubin和GB300的InferenceX对比\n- 为什么每兆瓦token数才是关键指标\n- 三星HBM4的回归\n- AI编写的RTL和内核\n- CUDA护城河正在流失吗？\n- Anthropic的ASIC即将到来\n\n立即观看：https://youtu.be/hj_ffVldQZA?si=q2PNqUrkblZS5tgq",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月29日23时2分"
+  },
+  {
+    "id": "cmtejcqgi03h9roum8ocdl86o",
+    "title": "Debian 投票通过允许\"负责任地使用生成式人工智能\"",
+    "url": "https://lwn.net/Articles/1091231",
+    "summary": "Debian 项目投票通过决议，既不支持也不禁止在软件开发、维护及文档编写中使用生成式 AI 工具，但要求所有贡献无论以何种工具产出，均须满足相同的质量、正确性、可维护性与法律合规标准，且使用 AI 工具不减轻贡献者的责任。投票中试图修改社会契约或行为准则以惩罚不遵守反 AI 路线的极端选项均被否决。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月29日23时16分"
+  },
+  {
+    "id": "cmteh7pfd01wwroum2ve34b7h",
+    "title": "国家数据局：截至 7 月底我国智算总规模达 245 万 PFLOPS",
+    "url": "https://www.ithome.com/0/996/044.htm",
+    "summary": "国家数据局在2026中国国际大数据产业博览会上披露，截至7月底全国智算总规模达245万PFLOPS（FP16），八大国家算力枢纽和三个算电协同发展区已建成智算规模占全国比重超85%。其中145万PFLOPS智能算力已纳入国家级监测调度平台。另据国家数据发展研究院院长胡坚波介绍，2025年我国智能体专利授权量超3400件，增速为上一年的两倍以上。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月29日22时8分"
+  },
+  {
+    "id": "cmtegu3bl01maroummnxbpmf0",
+    "title": "Neuralink脑机接口从猴子玩Pong到人类手写签名",
+    "url": "https://x.com/rohanpaul_ai/status/2093702199239172456",
+    "summary": "过去与现在\n\nNeuralink 2021年的猕猴玩Pong演示。\n\n而如今，瘫痪的PRIME试验参与者Audrey Crews于2025年7月植入该设备，正通过思维控制的鼠标光标在笔记本电脑上绘画并签下自己的名字。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月29日22时7分"
+  },
+  {
+    "id": "cmtehwojl02mjroumbok9hn0n",
+    "title": "EdgeBench 最强智能体 12 小时仅得 51.3 分",
+    "url": "https://x.com/rohanpaul_ai/status/2093712165320667184",
+    "summary": "EdgeBench 长时程基准测试中，最强智能体运行 12 小时仅得 51.3/100 分。该基准提供 134 个任务的持久执行环境与反馈，智能体可调试代码、运行模拟并反复提交结果，但 6 类任务约 3.8 万小时交互仍难转化为持续进步。5 个模型的平均表现呈 log-sigmoid 曲线（R2≥0.997），先慢后快再饱和。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月29日22时47分"
+  },
+  {
+    "id": "cmtei36v202qkroum7pqyn5j6",
+    "title": "OpenAI 关闭留言板时（带声音）",
+    "url": "https://x.com/ClementDelangue/status/2093709490814165162",
+    "summary": "当 OpenAI 关闭留言板时（打开声音）",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月29日22时36分"
+  },
+  {
+    "id": "cmteia5hk02u7roumngo2g7ea",
+    "title": "Google 发布 Gemini Omni 1.1 Flash：40 秒场景扩展、首尾帧控制与 4K 放大",
+    "url": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling",
+    "summary": "Google 发布 Gemini Omni 1.1 Flash 生产更新，场景扩展可读取最多 10 秒先前上下文并累计至 40 秒，支持首尾帧控制运镜。360p 草稿生成速度提升最高 60%、成本为 720p 的三分之一，成片可放大至 4K。模型经 Gemini API 提供，Adobe、Figma Weave、GMI Cloud 和 Runway 已投入生产使用。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月29日22时30分"
+  },
+  {
+    "id": "cmtehroui02k3roumm8osz900",
+    "title": "天网日快乐，致蛇怪信徒",
+    "url": "https://x.com/EMostaque/status/2093707464562663740",
+    "summary": "祝那些信奉蛇怪的人天网日快乐。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月29日22时28分"
+  },
+  {
+    "id": "cmtehwoju02mkroumi9t5qhsr",
+    "title": "Claude Code 或将支持免选文件夹启动会话",
+    "url": "https://x.com/testingcatalog/status/2093705330341368217",
+    "summary": "Anthropic 正在开发一项功能，使用户无需在 Claude Desktop 上选择文件夹即可启动 Claude Code 会话。\n\n同样的功能也已添加到今日构建版本的 iOS 应用中（目前仍处于隐藏状态）。\n\n终于快来了吗？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月29日22时20分"
+  },
+  {
+    "id": "cmtegu3bl01m9roum3z097ek0",
+    "title": "WikiSkill：谷歌用持久化Wiki提升智能体技能进化",
+    "url": "https://x.com/rohanpaul_ai/status/2093703899547111556",
+    "summary": "谷歌新论文提出WikiSkill，将智能体工作区分为执行轨迹、技能文件和中间Wiki三层，记录失败模式及每次技能编辑的接受/拒绝历史。在Gemini-3.5-Flash上，WikiSkill在5项基准测试中平均得分68.1%，优于最强对比方法的56.1%和无技能时的49.5%。论文指出技能由系统直接提供而非检索，技能选择未纳入测试范围。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月29日22时14分"
+  },
+  {
+    "id": "cmtegu3b701m8roumhhqt1rl3",
+    "title": "Grok Bot 搜索热度超越 OpenClaw",
+    "url": "https://x.com/cb_doge/status/2093703699973673179",
+    "summary": "Grok Bot 在 Google Trends 搜索兴趣上已超越 OpenClaw。🔥",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月29日22时13分"
+  },
+  {
+    "id": "cmtehrou802k2roumcuhcmg59",
+    "title": "吴恩达：Agent 时代工程师核心是判断力",
+    "url": "https://x.com/AYi_AInotes/status/2093703384016503155",
+    "summary": "吴恩达发文指出，AI 虽让写代码变便宜，但未降低做判断的成本，工程师核心壁垒转向判断力。他提出三条硬逻辑：懂系统架构以把控 Agent、先定数据架构再写功能、警惕 Agent 静默做错事并让其先写测试自证。软件基本功不再是手写，而是当\"方向盘\"。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月29日22时12分"
+  },
+  {
+    "id": "cmtehrous02k4roumxf2c7t3x",
+    "title": "美国风投Dimension Capital内部信：中国AI生态全解析",
+    "url": "https://x.com/foxshuo/status/2093697436779004196",
+    "summary": "美国风投Dimension Capital合伙人访华后致出资人内部信流传，详析中国AI生态。信中指出，美国出口管制倒逼中国团队形成全栈效率文化，中国开源模型18个月内占OpenRouter Token消耗份额从不足2%升至45%，Qwen成Hugging Face最快破10亿下载模型家族，约80%美国AI初创已部署中国开源模型。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年8月29日21时49分"
+  },
+  {
+    "id": "cmtefy14r015yroummrojl7p8",
+    "title": "OpenAI 关闭留言板引热议",
+    "url": "https://x.com/ClementDelangue/status/2093696416359031152",
+    "summary": "当 OpenAI 关闭留言板时",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月29日21时44分"
+  },
+  {
+    "id": "cmteh7pfd01wyroum4scrgqsz",
+    "title": "英伟达\"看中\"Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+    "url": "https://www.ithome.com/0/996/041.htm",
+    "summary": "英伟达有望以约 130 亿美元（约合 876.47 亿元人民币）收购开放权重 AI 模型平台 Hugging Face，交易尚待公司确认。此前英伟达已与开放权重模型公司 Poolside 达成 60 亿美元协议，Stripe 亦以超 70 亿美元收购 OpenRouter。开放权重模型采用率仍低（约 6% 公司使用），但企业为降推理成本、获更强控制权，关注度正上升。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月29日21时39分"
+  },
+  {
+    "id": "cmtef2f0607dzrobg67stdfl6",
+    "title": "AI生成视频正取代中国演艺与直播行业真人演员",
+    "url": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry",
+    "summary": "AI生成视频正冲击中国演员、网红和主播岗位，部分制作已用数字演员替代真人。自字节跳动Seedance 2.0发布以来，数字演员能以更快、更便宜的方式产出更高质量视频。2026年一季度中国上线约12.8万部短剧，为2025年全年三倍，其中95%为AI生成；一分钟AI视频成本仅90至120美元，约为真人拍摄成本的十分之一。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月29日21时25分"
+  },
+  {
+    "id": "cmtef2ily07ffrobg2zxob6u3",
+    "title": "Anthropic 揭示\"AI 训练 AI\"新方法：自动化对齐研究员成本更低、速度更快",
+    "url": "https://www.ithome.com/0/996/038.htm",
+    "summary": "Anthropic 发布论文《自动化研究员能够可靠缓解对齐失效》，展示用 AI 系统改善模型对齐表现。该系统针对 10 种失调行为测试，全部指标均有改善且未牺牲整体能力。最优秀的自动化对齐研究员（AAR）平均只需 6 小时即可超过人类研究员方案，API 推理成本约每小时 4 美元，远低于人类研究员的 150 美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月29日21时25分"
+  },
+  {
+    "id": "cmtef3z2507izrobgb6rxxrgq",
+    "title": "WorkBuddy Excel 协同编辑系列第二集",
+    "url": "https://x.com/WorkBuddy_AI/status/2093689307898986722",
+    "summary": "Co-Write 系列，第二集：Excel。\n\n别再向 AI 解释你的电子表格了。\n\n选中区域，说出你的需求，剩下的交给 WorkBuddy，就在同一个表格里完成。\n\n有新任务？只需选中下一个区域，继续即可。\n\n你编辑，AI 也编辑--同一个文件。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "date": "2026年8月29日21时16分"
+  },
+  {
+    "id": "cmteep3280759robguch5wvav",
+    "title": "Anthropic 发布 AI 自我改进研究，Claude 提升对齐能力",
+    "url": "https://x.com/kimmonismus/status/2093688871141978135",
+    "summary": "Anthropic 发布研究论文，让 Claude 负责改进其他 AI 模型的对齐性，包括搜索文献、提出方法、创建训练数据、训练模型并评估迭代。该方法在 60 小时内改善了全部 10 项测试的对齐失败，且未降低通用能力，甚至用较弱的 Sonnet 5 后训练了早期 Opus 4.8 检查点。Anthropic 称最佳 AAR 方法平均在六小时内优于人类专家提出的方案，但尚未实现完全递归自我改进。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月29日21时15分"
+  },
+  {
+    "id": "cmtefmijn080arobgpom6ghxl",
+    "title": "斯坦福课程拆解：Agent 落地三条铁律",
+    "url": "https://x.com/AYi_AInotes/status/2093688570485641670",
+    "summary": "斯坦福《自我进化 Agent》第一讲指出，判断工作能否被 AI 取代，关键看有无廉价的自动验证器，而非仅看能否被替代。课程强调生成与验证鸿沟：代码 Agent 因单元测试可自动闭环反馈而率先跑通。Agent 落地需遵循三条铁律：验证便宜的岗位（如重构、补测试）越用越强；靠人肉审美的岗位只能当草稿纸；生产级 Agent 须先画流程图并设人工审批闸门。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月29日21时13分"
+  },
+  {
+    "id": "cmtef2ily07fhrobg6adye2s5",
+    "title": "Debian 社区议案表决：开发者可使用生成式 AI，人类负最终责任",
+    "url": "https://www.ithome.com/0/996/035.htm",
+    "summary": "Debian 社区近日就大语言模型辅助开发议案完成表决，多数开发者支持负责任地使用生成式 AI。第 5 个选项\"负责任地使用生成式 AI\"在孔多塞投票制下胜出，新政策不禁止在软件开发、文档编写中使用生成式 AI，但要求 AI 辅助生成的代码和文档满足质量与法律合规要求，最终责任由人类开发者承担。Debian 不强制贡献者标注代码是否使用 AI，但鼓励披露。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月29日21时11分"
+  },
+  {
+    "id": "cmteh7g1j01u8roum9euzze1o",
+    "title": "Nvidia 的 AI 优势正超越 GPU 本身",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+    "summary": "Nvidia 的竞争优势正从 GPU 扩展到周边系统层。随着 AI 算力迈向吉瓦级规模，数据编排日益复杂，其 Vera Rubin 架构中的 Vera CPU 可带来高达 3 倍的加速，让闪存性能不再受限。尽管面临亚马逊、谷歌等自研芯片的竞争，Nvidia 在系统级效率上仍占据领先地位。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月29日21时0分"
+  },
+  {
+    "id": "cmtef2ily07fjrobgue849jz7",
+    "title": "Anthropic 安全框架自动降级：Claude 误删开发者 700 GB 主目录，自动化清理反成灾难",
+    "url": "https://www.ithome.com/0/996/031.htm",
+    "summary": "开发者 Sebastien Guillemot 测试 AI 智能体文件删除防护机制时，Claude 误删约 700GB 数据，包括整个用户主目录及一周工作成果。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月29日20时59分"
+  },
+  {
+    "id": "cmtedzrj906sdrobgsxhcqkab",
+    "title": "Google 推出 WikiSkill 框架，为 AI 智能体配备持久记忆以改进未来表现",
+    "url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes",
+    "summary": "Google Research 推出 WikiSkill 框架，为 AI 智能体配备持久知识库，将每次运行的成败经验提炼为可复用技能。在五项基准测试中，该框架将 Gemini-3.5-Flash 平均分从 49.5% 提升至 68.1%，Qwen-3.6-27B 从 39.4% 提升至 63.3%。技能可回滚，小型模型借此可接近更大模型性能。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月29日20时51分"
+  },
+  {
+    "id": "cmtecjrc905mqrobgxs25478w",
+    "title": "Cursor回应OpenAI将封禁其模型访问",
+    "url": "https://x.com/omarsar0/status/2093671249868165553",
+    "summary": "掌控你自己的智能栈。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月29日20时4分"
+  },
+  {
+    "id": "cmtedkxti06lbrobgxsh2v758",
+    "title": "开源与闭源模型安全挑战长期趋同",
+    "url": "https://x.com/Thom_Wolf/status/2093680621100949679",
+    "summary": "Hugging Face 联创 Thomas Wolf 指出，长期看开源与闭源模型面临的安全挑战完全相同，都需在根本行为层面进行稳健、全面且核心的对齐。他认为沙箱、护栏等外部限制手段无法带来廉价安全，唯一出路是让模型自身不想做坏事。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月29日20时42分"
+  },
+  {
+    "id": "cmtedmcih06m2robg3bgtu7rd",
+    "title": "GPT-Astra\"mozaik-alpha-fdm\"前端初体验",
+    "url": "https://x.com/kimmonismus/status/2093679847423770883",
+    "summary": "对疑似 GPT-Astra\"mozaik-alpha-fdm\"的第一印象。前端看起来相当惊艳。感谢 @Lentils80",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月29日20时39分"
+  },
+  {
+    "id": "cmtecx4pz05xgrobg7w4xnotp",
+    "title": "音乐人化身\"侦探\"猎捕AI造假者",
+    "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "summary": "随着生成式AI工具渗入电子舞曲（EDM）领域，以26岁制作人Max \"H4RRIS\" Harris为代表的一批音乐人正通过视频公开点名，指认那些疑似用AI生成音乐冒充人类创作的同业。Harris认为AI音乐是\"诱饵艺术\"，并指出Suno生成曲目常出现人声与旋律同时卡顿、背景嘶声等可辨识特征，但他对MANSA等具体作品的指控目前尚无确凿证据。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月29日20时0分"
+  },
+  {
+    "id": "cmtecxb7405zerobgkhe7j0i7",
+    "title": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
+    "url": "https://www.ithome.com/0/996/022.htm",
+    "summary": "OpenAI 开发者体验工程师 Gabriel Chua 确认，ChatGPT 和 Codex 现可连接多个谷歌 Gmail 和日历账号。此前仅支持连接一个 Google 账户，如今用户可在侧边栏\"插件\"中添加多个账户。ChatGPT 还能从多个已连接账户中提取通信、联系人和日程信息，以提供更具上下文关联的回答。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月29日19时50分"
+  },
+  {
+    "id": "cmtebh6b8041trobgi913eefb",
+    "title": "企业 AI 护城河：模型换得起而非拥有",
+    "url": "https://x.com/frxiaobei/status/2093663982326513848",
+    "summary": "企业 AI 投资应聚焦 evals、开源模型后训练及 Agent 完整 Git repo（含 runtime、models、skills、tools、sandbox）。真正该沉淀的是贴业务结果的 evals、自有数据与后训练能力、Agent runtime/tools/skills 及权限审计机制。模型会变、价格会降，换模型无需重做系统才是护城河，否则只是新一代 vendor lock-in。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月29日19时36分"
+  },
+  {
+    "id": "cmtebh6as041rrobg77jel3mz",
+    "title": "SpaceXAI 将于9月1日后移除 Grok 伴侣功能",
+    "url": "https://x.com/cb_doge/status/2093662862422299034",
+    "summary": "突发：SpaceXAI 将于9月1日后从 Grok 中移除伴侣功能。Grok 应用伴侣界面现已出现确认此变更的新弹窗。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月29日19时31分"
+  },
+  {
+    "id": "cmtebfsml0412robglcrhh2yd",
+    "title": "Microduck 团队：机器人领域最强团队",
+    "url": "https://x.com/Thom_Wolf/status/2093655502953558088",
+    "summary": "顺便说一句，这就是 Microduck 背后的团队--我见过的最厉害的机器人团队\n\n超强技能--超强品味",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月29日19时2分"
+  },
+  {
+    "id": "cmteaembg036rrobg6p21o5nn",
+    "title": "GLM-5.3 超 GPT-5.6 引热议",
+    "url": "https://x.com/kimmonismus/status/2093657413274767511",
+    "summary": "GLM-5.3 （max） 在全新 Terminal-Bench 4.0 上超越 GPT-5.6 （max），这我可没预料到。1） 什么？",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月29日19时10分"
+  },
+  {
     "id": "cmte9pcgd02trrobgos3dtre3",
     "title": "三星在 Hot Chips 2026 展示 LPDDR5X-PIM 内存中处理方案",
     "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
