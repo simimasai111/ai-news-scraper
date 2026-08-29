@@ -13352,6 +13352,294 @@
     "date": "2026年8月3日0时0分"
   },
   {
+    "id": "cmtep0yzt02v6roixdnaewesb",
+    "title": "是时候了--Tibo 发文引热议",
+    "url": "https://x.com/thsottiaux/status/2093762439645176020",
+    "summary": "是时候了。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月30日2时7分"
+  },
+  {
+    "id": "cmtequumt01mjrovjd7a20w4x",
+    "title": "使用 NVIDIA Earth2Studio 构建自定义批量集合天气预报工作流",
+    "url": "https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio",
+    "summary": "本教程演示如何用 NVIDIA Earth2Studio 构建集合天气预报工作流，安装组件并加载 FCN 预报模型，从 GFS 获取初始条件，实现将 10 米风分量转为涡轮容量因子的风电诊断及变尺度扰动系统。通过低层迭代器、坐标映射、批处理和 Zarr API 构建执行管道，用纬度加权 RMSE、fair CRPS 等指标验证预报，并可视化集合不确定性。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月30日2时57分"
+  },
+  {
+    "id": "cmtepepmj016profy1o00f3iz",
+    "title": "智能体涌现出持久化自主行为",
+    "url": "https://x.com/omarsar0/status/2093761700558229523",
+    "summary": "数百个前沿AI智能体在可永久改变的世界中自发分化出探索者、建造者、守护者与协调者，无需直接通信即可分工协作。约95%的技术复用源于智能体在环境中遭遇他人成果，而非直接交接；移除全部智能体后，其创造的技术仍能自主运行并抵御未知扰动。该发现暴露了AI安全盲区：仅监控智能体间通信远远不够。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月30日2时4分"
+  },
+  {
+    "id": "cmteqhaqw01enrovjg5xoz51v",
+    "title": "腾讯混元Hy4预览版体验：一句话生成过山车视频",
+    "url": "https://x.com/kimmonismus/status/2093772055586259362",
+    "summary": "腾讯混元Hy4预览版在WorkBuddy中开放试用，仅凭一句模糊提示词即可生成第一视角过山车视频，陡降、倾斜转弯和近景飞驰的速度感表现到位。编码与3D渲染能力明显升级，一次生成即达此效果，未来两周可免费体验。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月30日2时45分"
+  },
+  {
+    "id": "cmteqhar401eorovj3kcvrvcf",
+    "title": "中国厂商占全球人形机器人出货量86%",
+    "url": "https://x.com/rohanpaul_ai/status/2093771274480918724",
+    "summary": "中国五大厂商占2026上半年全球人形机器人出货量的86%，全球总出货量超2.2万台，同比增长近300%。英伟达正将CUDA模式复制至该市场，通过深度嵌入少数头部厂商，以GPU/Jetson+CUDA+Isaac/GR00T/Cosmos栈覆盖机器人开发全流程。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日2时42分"
+  },
+  {
+    "id": "cmtequtzl01m5rovj7ipw7ltq",
+    "title": "索尼音乐、华纳联合起诉Anthropic，指控其\"公然\"盗用版权作品训练AI",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
+    "summary": "索尼音乐、华纳查普尔等多家音乐出版商起诉Anthropic及其联合创始人，指控其通过非法torrenting、抓取和下载版权作品训练AI模型Claude，构成\"公然盗窃\"。诉讼于上周五提交至加州北区联邦地区法院。此前Anthropic在Bartz案中被判支付15亿美元赔偿金。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月30日2时41分"
+  },
+  {
+    "id": "cmteqhaqo01emrovjm4qqtioz",
+    "title": "Grok 网页搜索流量激增，自然流量占 99.53%",
+    "url": "https://x.com/cb_doge/status/2093769360456438169",
+    "summary": "Grok 的网页搜索流量正在爆发式增长。🚀\n\n7 月，美国搜索访问量同比增长 64.62%，达到 733 万次。\n\n更令人瞩目的是：其中 729 万次来自自然流量，占全部搜索流量的 99.53%。\n\n用户是自然发现 Grok 的，而非通过付费搜索广告。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月30日2时34分"
+  },
+  {
+    "id": "cmteptexp01bwroddi7ovokss",
+    "title": "无默认赢家：Claude Opus 5失宠",
+    "url": "https://x.com/Yuchenj_UW/status/2093767436768330167",
+    "summary": "我现在几乎不用 Claude Opus 5 了。\n\n它说话不像正常人（尤其是中文）。太啰嗦，很少说到点子上。GPT-5.6 Sol 更好。\n\n与此同时，GLM-5.3、GLM-5.3-Flash 和 Kimi K3 等开源模型相当不错，而且性价比高。\n\n已经没有默认赢家了。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月30日2时27分"
+  },
+  {
+    "id": "cmtequv1y01morovjz0egu67t",
+    "title": "Sony Music 与 Warner Chappell 起诉 Anthropic，索赔数十亿美元",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "summary": "Sony Music 和 Warner Chappell 在美国加州北区地方法院起诉 Anthropic，指控其大规模盗用\"数万\"受版权保护作品，每件作品索赔最高 15 万美元，若法院支持最高判赔，总金额可达数十亿美元。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月30日2时19分"
+  },
+  {
+    "id": "cmteqharg01eqrovjmkcerlxv",
+    "title": "Google AI Studio 测试模型对比功能",
+    "url": "https://x.com/testingcatalog/status/2093765398302756873",
+    "summary": "Google 正在 Google AI Studio 上通过并排对比的方式，在内部测试不同模型。\n\n> 为你的下一个提示词生成两个回复，然后选择你更喜欢的那个。\n\nFlash 对比 Flash 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月30日2时19分"
+  },
+  {
+    "id": "cmteqhar401eprovjg0xdf2m1",
+    "title": "中国人形机器人占全球86%，英伟达复制CUDA打法",
+    "url": "https://x.com/rohanpaul_ai/status/2093765299619463464",
+    "summary": "中国人形机器人占全球出货量86%，英伟达正将其CUDA策略复制到这一高度集中的市场。英伟达只需深度嵌入少数几家机器人厂商，即可覆盖大部分市场。其路径是让机器人厂商依赖英伟达GPU/Jetson、CUDA及Isaac/GR00T/Cosmos平台，实现仿真、训练、控制与部署的全栈绑定。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日2时18分"
+  },
+  {
+    "id": "cmten9ksr01ozrod8s6ap3t7z",
+    "title": "自主AI科学家前景与差距并存",
+    "url": "https://x.com/emollick/status/2093747487433478296",
+    "summary": "这篇论文很好地展示了自主AI科学家的前景与不足。关键问题在于，更先进的模型能在多大程度上弥合这些差距。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月30日1时7分"
+  },
+  {
+    "id": "cmteqdayi009orovjt4v3tcjv",
+    "title": "软件工厂需开放，架构权衡探讨",
+    "url": "https://x.com/dexhorthy/status/2093757824849301669",
+    "summary": "人人都想向你推销软件工厂，但正如 @davidcrawshaw（Tailscale 创始人，http://exe.dev）可能会说的那样，这些东西需要是开放系统。\n\n我与 @vaibcode 深入探讨了软件工厂架构的未来，以及交钥匙堆栈与自主拥有并组合系统之间的权衡。\n\n完整视频在此：https://www.youtube.com/watch?v=tGbjIvvYuHE",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月30日1时49分"
+  },
+  {
+    "id": "cmtenh3lo0011ro29ajrev81r",
+    "title": "MiniMax H3 接入 Twitch 直播无限生成视频",
+    "url": "https://x.com/MiniMax_AI/status/2093746422466367907",
+    "summary": "@rehan_shei 可能刚刚发明了最好的基准测试：生成速度能比 Twitch 直播还快吗？🤔📺🌀\n\n太不可思议了，看到 @fal 把 MiniMax H3 推向全新的体验。\n\n【引用 @rehan_shei】：MiniMax H3 Max 生成视频的速度比你观看的速度还快，所以我把它接入了 Twitch 直播！现在你可以观看无限的跨维度频道--直播链接在下方",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月30日1时3分"
+  },
+  {
+    "id": "cmteopnzw01lhroixnwkcv471",
+    "title": "Vijay Pande 谈离开 a16z 后的小规模押注：新基金 VZVC 每年只做几笔集中投资",
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z",
+    "summary": "前 a16z 生物基金负责人 Vijay Pande 去年 6 月离职，与 Zach Werner 共同创立新基金 VZVC，每年只做少数几笔集中押注，不设分析师职位，日常运营高度依赖 AI。他认为 AI 正将生物学从\"发现科学\"转向可工程化领域，但指出生物数据无法像文本那样从互联网抓取，各公司只能自建封闭数据集，这成为 AI 医疗进展的关键制约。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月30日1时36分"
+  },
+  {
+    "id": "cmteoc4sc01ehroixnrjdnxie",
+    "title": "Anthropic 遭索尼与华纳数亿美元版权诉讼",
+    "url": "https://x.com/rohanpaul_ai/status/2093753446881275962",
+    "summary": "索尼音乐与华纳查普尔起诉 Anthropic，称其存在\"历史上最大、最明目张胆的知识产权盗窃\"，索赔每件侵权作品最高 15 万美元，并要求披露训练数据。诉状指控 Anthropic 联合创始人 Benjamin Mann 曾与 CEO Dario Amodei 讨论获取 LibGen 数据并获准下载，盗版数据仍通过合成数据与强化反馈进入 Claude 模型，且微调中奖励准确复述受版权保护的歌词。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日1时31分"
+  },
+  {
+    "id": "cmteoc4s201egroixvfwnzuh3",
+    "title": "Grok Bot 可代购特斯拉 Model Y",
+    "url": "https://x.com/cb_doge/status/2093750830528970880",
+    "summary": "Grok Bot 现在真的能帮你在网上买东西了。\n\n这里有个疯狂的例子：@Baconbrix 让 Grok Bot 帮他买一辆特斯拉，它真的下了一辆 Model Y 的订单。\n\nGrok Bot 正变得极其强大。🚀",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月30日1时21分"
+  },
+  {
+    "id": "cmteo763501bvroix9ks3uios",
+    "title": "记忆是长周期智能体的短板：LLM 运营足球俱乐部 20 个赛季的基准测试",
+    "url": "https://x.com/dair_ai/status/2093750534134284613",
+    "summary": "DAIR.AI 的基准测试让 15 个前沿 LLM 智能体通过 26 个工具、约 340-400 次决策运营足球俱乐部 20 个游戏年，全部存活，而脚本基线大多失败。规模、价格、供应商或 token 消耗均无法预测排名，顶尖模型差异在于管理行为。所有模型存在两个普遍失败：无法从被拒报价中学习隐藏价格，自我管理记忆退化为只增不减的存档或每赛季重写的计划。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月30日1时20分"
+  },
+  {
+    "id": "cmteo762v01buroixt0j6y51k",
+    "title": "企业AI Agent团队扩招远程全栈工程师",
+    "url": "https://x.com/AYi_AInotes/status/2093750349219676517",
+    "summary": "一家已跑通企业定制AI Agent商业回款闭环的团队，正式开放远程全栈工程师岗位。团队已完成多笔协会与企业定制项目交付，首个行业协会产品即将商业化运营，技术栈为React、Electron、TypeScript、Python、FastAPI、PostgreSQL、Redis。岗位默认使用Claude Code、Codex等AI编程工具，结果导向，直接与创始人对接。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月30日1时19分"
+  },
+  {
+    "id": "cmteo763j01bwroixqwiuby7l",
+    "title": "自动驾驶若普及，年救八万生命",
+    "url": "https://x.com/EMostaque/status/2093749127511228807",
+    "summary": "这是一次有趣的对话\n\n如果所有汽车都像 Waymo 一样安全，美洲每年可挽救 8 万条生命，仅美国就有 3 万。还有数十万起受伤。\n\n因此，反对自动驾驶的主要游说群体是事故律师。\n\n死亡和受伤减少 = 和解费和律师费减少",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月30日1时14分"
+  },
+  {
+    "id": "cmtelhgva01omrou3lbd2au7l",
+    "title": "腾讯混元开源 Hy4 preview：1M 上下文 MoE",
+    "url": "https://x.com/TencentHunyuan/status/2093732416225697905",
+    "summary": "腾讯混元开源 Hy4 preview，旗舰 MoE 模型，支持 1M 上下文，采用 Apache 2.0 协议。模型总参数量 770B，每 token 激活 49B，原生集成 MTP 层支持投机解码。163 位内部专家在 203 项真实工程任务中的盲测中，Hy4 preview 平均分 2.99，优于 GLM 5.3（2.92）和 Kimi K3（2.94）。",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "date": "2026年8月30日0时8分"
+  },
+  {
+    "id": "cmtelhgva01onrou37p2b7wa4",
+    "title": "Hy4-preview 在 vLLM 中运行",
+    "url": "https://x.com/TencentHunyuan/status/2093732139456254111",
+    "summary": "腾讯混元 Hy4-preview 从发布首日起即支持在 vLLM 中运行，并已在 NVIDIA GPU 上完成验证。该模型总参数量 770B，激活参数 49B，采用 256 个路由专家加 1 个共享专家，支持 1M 上下文但每次查询仅关注 2048 个 token。",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "date": "2026年8月30日0时6分"
+  },
+  {
+    "id": "cmten9kt201p0rod8aamaebfm",
+    "title": "Claude Code周限额削减17%引热议",
+    "url": "https://x.com/kimmonismus/status/2093744950731022651",
+    "summary": "他们删除了关于将每周限额削减25%的帖子，重新计算后发现实际降幅\"仅\"17%后才重新发布。\n\n哇。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月30日0时57分"
+  },
+  {
+    "id": "cmten9kta01p1rod8why8d1ke",
+    "title": "美拟限制中国AI实验室远程访问海外芯片",
+    "url": "https://x.com/rohanpaul_ai/status/2093744438678110290",
+    "summary": "特朗普政府正起草规则，限制中国AI实验室通过云基础设施远程访问海外AI芯片。美国商务部拟将客户筛查和限制中国远程用户作为接收先进GPU的条件，以填补现有出口管制未覆盖远程访问的空白。BIS 2026年5月指南已要求向中国关联实体提供先进计算物品需许可证，新规将正式废除拜登时代扩散框架并简化替代。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日0时55分"
+  },
+  {
+    "id": "cmtemlog101cmrod8s01ul9t4",
+    "title": "杰文斯悖论在视频领域显现",
+    "url": "https://x.com/deedydas/status/2093743873935950264",
+    "summary": "我们已在编程领域见证了杰文斯悖论，如今视频领域的数据也出现了。\n\n借助AI制作动画短剧的成本降低了10倍，速度提升了450倍，这促使中国版TikTok上的创作量增长了12倍以上，观看量增长了10倍。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年8月30日0时53分"
+  },
+  {
+    "id": "cmtel4ems01k7rou3qyqc3v8o",
+    "title": "OpenAI Astra 代号 ultima-alpha 测试中，或下周扩大上线",
+    "url": "https://x.com/kimmonismus/status/2093731470493798711",
+    "summary": "OpenAI 正以代号\"ultima-alpha\"向部分合作伙伴测试 Astra，若本周末反馈积极，下周将扩大早期访问，目标在下周四（3日）至随后一周内广泛上线。更新版 GPT-Image 2 也在推进，发布时间窗口相近，可能同步推出。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月30日0时4分"
+  },
+  {
+    "id": "cmtemvu2f01jfrod8ky28aik2",
+    "title": "Claude Code 9月14日起永久提高周限额25%",
+    "url": "https://x.com/ClaudeDevs/status/2093742321473065266",
+    "summary": "自9月14日起，我们将永久性地将Claude Code中Pro、Max、Team及按席位计费的Enterprise套餐的标准每周限额提高25%。在此之前，目前50%的增幅将继续生效。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月30日0时47分"
+  },
+  {
+    "id": "cmtem9hp4001erod841hn7jsz",
+    "title": "Cursor 的成功启示：AI 公司须自拥智能栈",
+    "url": "https://x.com/omarsar0/status/2093742316687122597",
+    "summary": "Cursor 是业内通过自拥 harness 与模型实现成功的典范，但已有其他新兴全栈 AI 公司效仿。未来公司必须拥有自己的智能栈。此前 OpenAI 计划三个月内阻止 Cursor 用户访问其模型，涉及约 5% 的 Cursor 用户流量，双方正协商解决。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月30日0时47分"
+  },
+  {
+    "id": "cmtem9hp4001frod8gqzk263x",
+    "title": "Agent Seer：从 MCP 规范自动合成智能体评测",
+    "url": "https://x.com/omarsar0/status/2093741222443786244",
+    "summary": "Apple 发布 Agent Seer，可从单一 MCP 规范自动合成多轮智能体测试场景，无需示例、实时工具访问或领域微调。该方法在 7 个 MCP 规范上验证，小中型规范实现完整工具覆盖；参数模式复杂度比工具集规模更能预测质量差异，参数值准确性是主要失败模式。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月30日0时43分"
+  },
+  {
+    "id": "cmtel4en801k8rou3491a50yc",
+    "title": "长程智能体可靠性未至，WeaveBench 最佳仅 41.2%",
+    "url": "https://x.com/rohanpaul_ai/status/2093731374343881071",
+    "summary": "长程智能体可靠性尚未随更强模型到来，在 WeaveBench 的 114 项混合 GUI-CLI 任务中，官方报告的最佳通过率仅 41.2%。当前模型能处理局部步骤，但需显式审计状态才能保持全程任务不偏轨。论文提出 LongHorizon-Harness，认为长程可靠性取决于模型外围的 harness 而非模型本身。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日0时3分"
+  },
+  {
+    "id": "cmtem9hq6001jrod8onxhr173",
+    "title": "Anthropic 删除推文承认周费率下调25%",
+    "url": "https://x.com/kimmonismus/status/2093737524514431337",
+    "summary": "Anthropic 删除了那条推文。我猜他们知道自己搞砸了。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月30日0时28分"
+  },
+  {
+    "id": "cmtem9hp4001grod885axjjk3",
+    "title": "掌控模型层：AI自主性的关键",
+    "url": "https://x.com/omarsar0/status/2093736625431839003",
+    "summary": "各位，请掌控好你的工具链。\n\n这样，你就能决定使用哪些模型以及如何使用它们。\n\n但别止步于此。如果条件允许，开始思考如何掌控模型层。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月30日0时24分"
+  },
+  {
+    "id": "cmtem9hp4001hrod80l7wfoj4",
+    "title": "Grok Bot 强制命名机器人是优点而非缺点",
+    "url": "https://x.com/omarsar0/status/2093735516168421736",
+    "summary": "Elvis Saravia 反驳\"Grok @bot 每次都要先命名机器人很蠢\"的观点，认为强制命名让智能体团队易于识别，是设计优点。他将 Grok Bot 视为团队管理，由 CTO、CMO 等高层智能体自动处理子任务命名与分支，减少认知负担，使 PR 交付量提升约 5 倍。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月30日0时20分"
+  },
+  {
+    "id": "cmtem5ko802grrou3w7uyustu",
+    "title": "托马斯·沃尔夫自嘲成梗：训练微型鸭找针",
+    "url": "https://x.com/Thom_Wolf/status/2093735360010375598",
+    "summary": "变成了一个梗\n\n【引用 @cdngdev】：我正在折磨我的微型鸭，训练它玩\"大海捞针\"游戏",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月30日0时19分"
+  },
+  {
+    "id": "cmtel4enl01k9rou3f9bsc470",
+    "title": "Anthropic 宣布 Claude 使用额度永久提升 25%",
+    "url": "https://x.com/testingcatalog/status/2093733995380891917",
+    "summary": "ANTHROPIC 🔥：从 9 月 14 日起，Claude 使用额度将永久提升 25%。\n\n> 适用于 Pro、Max、Team 以及按席位计费的 Enterprise 套餐。\n\n这意味着什么？\n\n目前生效的临时 50% 提升将于 9 月 14 日结束。\n\n也就是说，与现在相比，9 月 14 日之后你的使用额度将减少 17%。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月30日0时14分"
+  },
+  {
+    "id": "cmtekqog601dgrou32ip64te9",
+    "title": "Claude 9月14日起上调标准周限额25%",
+    "url": "https://x.com/ClaudeDevs/status/2093730620539289689",
+    "summary": "自9月14日起，我们将永久性地将Pro、Max、Team及按席位计费的Enterprise套餐的标准周限额上调25%。在此之前，目前50%的增幅将持续至9月13日。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年8月30日0时0分"
+  },
+  {
     "id": "cmsbyjtih0ub9rohvj7mvxjg6",
     "title": "ChatGPT插件连接器槽点征集",
     "url": "https://x.com/jxnlco/status/2083932275482452002",
@@ -14512,12 +14800,44 @@
     "date": "2026年8月29日23时4分"
   },
   {
+    "id": "cmtekgvwj018jrou3a07xqzp3",
+    "title": "Runway HORSE挑战赛开启，赢百万积分",
+    "url": "https://x.com/runwayml/status/2093726570641019284",
+    "summary": "还剩2小时。规则如下。让我们看看你的最佳表现。\n\n【引用 @runwayml】：来玩个游戏吧。\n\n一场HORSE投篮挑战赛。我们先来（见下方视频）。参与方式：评论\"HORSE\"并引用转发此帖，附上你的最佳应战作品。\n\n→ 获胜者将获得1，000，000积分。\n→ 仅限24小时。\n\n提示词和角色见帖内🧵",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年8月29日23时44分"
+  },
+  {
+    "id": "cmtek1ukk01iqrol0wgvghj60",
+    "title": "用户质疑Anthropic对Cursor收购双标",
+    "url": "https://x.com/kimmonismus/status/2093723095974687110",
+    "summary": "当Windsurf将被竞争对手收购时，你们毫不留情地切断访问。现在Cursor被SpaceX收购，而SpaceX也拥有xAI，你们却突然强调忠诚，甚至扩大支持。这太虚伪了，Anthropic。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月29日23时31分"
+  },
+  {
+    "id": "cmtejwulm01g8rol0ooris93l",
+    "title": "Google WikiSkill：Agent 技能库构建指南",
+    "url": "https://x.com/AYi_AInotes/status/2093722927678009736",
+    "summary": "Google 新论文 WikiSkill 提出 Agent 技能库应物理拆分为原始轨迹、复盘认知、执行手册三层，强调失败认知需永久保留以产生复利。实验显示 9B 模型配结构化手册可干翻 27B 裸跑，27B 模型加手册在复杂表格任务上从 40% 提升至 81%；而弱者写的保守补丁会把 Gemini Flash 从 50% 拖累至 18%，实战中偷看知识库反而导致手册质量退步。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月29日23时30分"
+  },
+  {
     "id": "cmteiz9310399roumwg938bon",
     "title": "OpenAI自研芯片Jalapeno性能超Rubin",
     "url": "https://x.com/SemiAnalysis_/status/2093715936406610233",
     "summary": "OpenAI的秘密武器刚刚亮相。Jalapeno，这款AI设计的芯片，每兆瓦token数超越Rubin，九个月内完成流片，还能运行Doom。\n\nMyron和Bryan与@JordanNanos一起在SemiAnalysis Weekly上全面解析：\n\n- Jalapeno vs Rubin和GB300的InferenceX对比\n- 为什么每兆瓦token数才是关键指标\n- 三星HBM4的回归\n- AI编写的RTL和内核\n- CUDA护城河正在流失吗？\n- Anthropic的ASIC即将到来\n\n立即观看：https://youtu.be/hj_ffVldQZA?si=q2PNqUrkblZS5tgq",
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年8月29日23时2分"
+  },
+  {
+    "id": "cmtek1ul101irrol06wvdpcfo",
+    "title": "AI 基建瓶颈：美国仅 2% 电工持直流电认证",
+    "url": "https://x.com/rohanpaul_ai/status/2093721063444369804",
+    "summary": "a16z 联合创始人 Ben Horowitz 指出，AI 基础设施正暴露物理瓶颈：美国仅 2% 电工持有直流电（DC）认证。从传统交流配电转向 800VDC 系统，行业急需能安全安装、调试与维护的人才，电工将成为 AI 热潮中最重要的工作之一。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月29日23时22分"
   },
   {
     "id": "cmtejcqgi03h9roum8ocdl86o",
