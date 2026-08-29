@@ -13352,6 +13352,158 @@
     "date": "2026年8月3日0时0分"
   },
   {
+    "id": "cmtewwrux05rjrovjb6gqp3q3",
+    "title": "知识蒸馏研究：教师模型推理习惯比分数更重要",
+    "url": "https://x.com/rohanpaul_ai/status/2093814402600624431",
+    "summary": "一项关于模型蒸馏的研究发现，学生模型复制的是教师的推理方式而非知识，因此教师模型的来源比其基准分数更重要。基于学生自身基础模型训练的较弱教师，比来自不同家族的更强教师效果更好。研究还表明训练数据几乎无关紧要，教师甚至能教会自己无法解决的问题。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日5时33分"
+  },
+  {
+    "id": "cmtewwrun05rirovje6lincy7",
+    "title": "连续两周重置，速率消耗难以为继",
+    "url": "https://x.com/kimmonismus/status/2093812959218667982",
+    "summary": "连续两次周重置，真是服了。\n\n到了这个地步，几乎不可能这么快就把我的速率额度用完。祝大家好运。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月30日5时28分"
+  },
+  {
+    "id": "cmtewj19305dxrovjbsosrx3g",
+    "title": "Codex 里程碑庆祝推迟至明日",
+    "url": "https://x.com/thsottiaux/status/2093811840258293947",
+    "summary": "庆祝活动移至明天举行，因为按钮今天已经按下。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月30日5时23分"
+  },
+  {
+    "id": "cmtewnmbx05f7rovj1x1vxfmy",
+    "title": "马斯克：2027年约15GW算力无法启用",
+    "url": "https://x.com/elonmusk/status/2093810234141634702",
+    "summary": "共识估计是，2027年生产的约15GW AI算力在2027年无法启用。\n\n这比单纯寻找电力更难，因为你还需要建设所有变压器、布线、液冷、（大型）冷水机组以及复杂的网络。https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月30日5时17分"
+  },
+  {
+    "id": "cmtevu75j04w8rovjiii08jvv",
+    "title": "马斯克在 SpaceX 自建涡轮叶片铸造，加速 AI 数据中心供电",
+    "url": "https://x.com/rohanpaul_ai/status/2093809492387598421",
+    "summary": "马斯克计划在 SpaceX 内部自建涡轮叶片铸造，以绕过燃气轮机厂商售罄至 2030 年的瓶颈，使涡轮机提前最多 18 个月上线。SpaceX 与特斯拉正各自建设每年 100GW 的太阳能产能，但未来数年仍需天然气补充。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日5时14分"
+  },
+  {
+    "id": "cmtewrtdf05gurovjhkdl9rws",
+    "title": "隐藏的Agent技能文件可被正常使用窃取",
+    "url": "https://x.com/dair_ai/status/2093805947860967907",
+    "summary": "新论文证实，隐藏的AI智能体技能文件无法通过\"保密\"得到保护--攻击者仅通过正常使用服务即可重构技能。在最弱的访问级别下，Daydreaming方法在7个技能和4个受害者模型上恢复了原始技能86.8%的能力，约为SigLeak的4倍，中位仅需32次调用，且披露防御机制开启时依然有效。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月30日5时0分"
+  },
+  {
+    "id": "cmtevu75604w7rovjepx8ni8q",
+    "title": "OpenAI 重置 Codex 用量并修复计费漏洞",
+    "url": "https://x.com/kimmonismus/status/2093804196319707623",
+    "summary": "OpenAI 为所有 Codex 和 ChatGPT Work 付费用户重置用量，并修复多项导致配额浪费的 bug，使同等额度可用时长提升 10%-50%。修复涵盖压缩、记忆、目标、自动化、子代理及 MCP 编码等问题，部分案例曾消耗周配额的 15%-70%。对比 Anthropic 仅降费 17%，社区普遍认为 OpenAI 的社区服务更胜一筹。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月30日4时53分"
+  },
+  {
+    "id": "cmtevu75y04warovjorm828o4",
+    "title": "OpenAI 重置 Codex 与 ChatGPT Work 用量限额",
+    "url": "https://x.com/testingcatalog/status/2093804005382123831",
+    "summary": "OpenAI 再次重置 Codex 和 ChatGPT Work 所有付费用户的用量限额，并修复多项用量消耗问题，使整体限额更高。根据使用方式不同，Codex 用量可多跑 10% 至 50%。修复涵盖压缩、内存、目标、自动化、子代理及 MCP 等场景，部分问题曾消耗周配额的 15% 至 70%。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月30日4时52分"
+  },
+  {
+    "id": "cmtevggyr04p8rovjhli550ux",
+    "title": "Codex 与 ChatGPT Work 用量重置并提升 10%-50%",
+    "url": "https://x.com/thsottiaux/status/2093801758665715784",
+    "summary": "OpenAI 为 Codex 和 ChatGPT Work 所有付费用户重置用量，并修复多项导致超额消耗的问题，使可用额度提升 10%-50%。修复包括压缩、记忆、目标、自动化、子代理及计算机历史等场景，其中部分用户每周额度消耗曾高达 70%。团队还进行了架构调整以防问题复发，并将在应用内直接显示用量去向。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月30日4时43分"
+  },
+  {
+    "id": "cmteurmg204a7rovjqr99p7y9",
+    "title": "视频模型难复现艾姆斯错觉",
+    "url": "https://x.com/fofrAI/status/2093799576570417384",
+    "summary": "顺便说一句，到目前为止，我还没能让任何视频模型仅凭文本提示或图像提示就产生艾姆斯错觉效果。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月30日4时34分"
+  },
+  {
+    "id": "cmteurmgb04a8rovj8yfdqqcg",
+    "title": "Ramp数据：Anthropic占API支出六成",
+    "url": "https://x.com/rohanpaul_ai/status/2093797990351904906",
+    "summary": "商业AI API支出市场份额，据Ramp数据。\n\nOpenAI占API支出的35%，而Anthropic约占60%以上。\n\n编程正成为两家公司最激烈的战场。\n\nOpenAI 2025年调整后毛利率降至33%，而Anthropic 2025年预计约40%，2026年预计约44%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日4时28分"
+  },
+  {
+    "id": "cmtetp1fc03ggrovjph36l5fg",
+    "title": "OpenRouter 周 token 量一年涨 25 倍再翻三倍",
+    "url": "https://x.com/rohanpaul_ai/status/2093794592042942731",
+    "summary": "OpenRouter 周 token 量从 2024 年 12 月至 2025 年底增长 25 倍，2026 年初又翻三倍，呈指数级复合增长。Cathie Wood 指出，token 推理量一年增 25 倍并持续倍增，可能推动实际 GDP 年增速迈向两位数，但多数客户与公司仍难以理解这一变化。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日4时15分"
+  },
+  {
+    "id": "cmtetp1fk03ghrovjjchj415c",
+    "title": "这不是杰文斯悖论，而是需求曲线下倾",
+    "url": "https://x.com/SemiAnalysis_/status/2093793957692031422",
+    "summary": "那不是\"杰文斯悖论\"。那是向下倾斜的需求曲线。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月30日4时12分"
+  },
+  {
+    "id": "cmtetp1f003gfrovjwb86igl6",
+    "title": "Grok Bot 在 YouTube 搜索热度大幅超越 OpenClaw",
+    "url": "https://x.com/cb_doge/status/2093793783381189115",
+    "summary": "突发：Grok Bot 在 YouTube 搜索热度上已大幅超越 OpenClaw。🔥🚀\n\n人们正在 YouTube 上搜索 Grok Bot，差距正在迅速扩大。SpaceXAI 的 Grok Bot 正迅速成为人人都想观看的 AI 智能体。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月30日4时11分"
+  },
+  {
+    "id": "cmtesmlso02x2rovjiby90a2i",
+    "title": "开源模型足以胜任自动化任务",
+    "url": "https://x.com/omarsar0/status/2093786788628185328",
+    "summary": "DAIR.AI 的 Elvis Saravia 表示，并非所有任务都需要前沿模型，开源模型在自动化任务中表现出色。他将大部分 token 使用迁移至本地或开源模型，通过自调技能处理重复性任务，显著降低成本，并将节省的预算用于更复杂的封闭前沿模型任务。他认为同时使用开源与闭源模型、掌控模型与工具链将成为最佳实践。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月30日3时44分"
+  },
+  {
+    "id": "cmtesmlt402x3rovjpyz4ef46",
+    "title": "OpenAI Astra首个内部检查点输出惊艳",
+    "url": "https://x.com/kimmonismus/status/2093786010648010831",
+    "summary": "又一个据称是 GPT-\"Astra\" 的输出。用最大推理一次生成了一个 GTA-1 克隆。好得令人难以置信，太疯狂了。感谢 @XIVIX_134",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月30日3时41分"
+  },
+  {
+    "id": "cmtes8pol02ikrovjjjkm01n8",
+    "title": "Cursor 回应 OpenAI 断供：5% 流量占比被夸大",
+    "url": "https://x.com/thsottiaux/status/2093784314714657110",
+    "summary": "Cursor 联合创始人回应 OpenAI 计划三个月后阻止其用户访问 OpenAI 模型，称 OpenAI 模型仅占 Cursor 用户流量的约 5%，并正与 OpenAI 团队沟通解决。其认为 token 量不能代表收入或价值，OpenAI 模型处于 token 效率前沿，弱模型需更多 token 完成任务，会显著虚增流量占比。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月30日3时34分"
+  },
+  {
+    "id": "cmtet01b5033grovjy83it1ux",
+    "title": "互联网如何沦为\"掠食者之坑\"：从公共广场到系统性收割",
+    "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit",
+    "summary": "文章回顾90年代早期互联网的业余与人性化特质，指出如今平台已演变为\"检测人性弱点、放大并推送支付链接\"的工业化机器。作者认为，诈骗经济规模庞大且具有参与性，大量普通人被卷入传销式链条，成为免费劳动力与分销者。推荐系统如同强化学习循环，持续实验并利用用户的恐惧、贪婪与孤独，而\"平静的真相\"在流量竞争中必然落败。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月30日3时32分"
+  },
+  {
+    "id": "cmterrell023zrovjgurim133",
+    "title": "MiniMax H3 Max 开源模型被 @fal 改造，实现超实时视频生成",
+    "url": "https://x.com/MiniMax_AI/status/2093778769903534294",
+    "summary": "MiniMax 发布开源权重模型 H3，@fal 通过自研后训练与推理技术将其改造为 H3 Max，在质量和延迟上双双突破，实现超实时（faster-than-real-time）视频生成。MiniMax 称这证明了开放权重让前沿技术不再属于少数人，并希望 H3 Max 成为社区共创突破的开端。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月30日3时12分"
+  },
+  {
     "id": "cmtep0yzt02v6roixdnaewesb",
     "title": "是时候了--Tibo 发文引热议",
     "url": "https://x.com/thsottiaux/status/2093762439645176020",
