@@ -13352,6 +13352,70 @@
     "date": "2026年8月3日0时0分"
   },
   {
+    "id": "cmtg2peew01korov8zdcbdiyf",
+    "title": "Stanford 前缀滑动法让长推理提速 3 倍",
+    "url": "https://x.com/omarsar0/status/2094109398604099888",
+    "summary": "Stanford 新研究提出 Prefix Sliding，在生成时丢弃推理轨迹中间 token，仅保留含指令与工具的前缀及末尾数千 token，使内存占用封顶。无需训练即可让现有模型提速 3 倍且性能持平全注意力，并支持超过 100，000 token 的 RL rollout。论文：arxiv.org/abs/2608.26070。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月31日1时6分"
+  },
+  {
+    "id": "cmtg3rz3o01v4roj7k4ye5hl3",
+    "title": "持久化智能体浪潮将至，AI 沟通需去拟人化",
+    "url": "https://x.com/omarsar0/status/2094118955304563198",
+    "summary": "Elvis Saravia 警告行业尚未准备好迎接持久化智能体，并针对 OpenAI 与 HuggingFace 事件报道提出三点评论：事件全貌仍不明、AI 拟人化叙事助长恐慌、工程师应深入研究奖励黑客、评估与沙箱技术。他认为前沿通用模型不应适用于所有场景，多数任务用受限定制模型更安全。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月31日1时44分"
+  },
+  {
+    "id": "cmtg3n07l01lbroj7hvcd4vsm",
+    "title": "Baseten 用 SGLang+B300 将 Qwen-Image 延迟砍 42.3%",
+    "url": "https://x.com/AYi_AInotes/status/2094113597240623151",
+    "summary": "Baseten 在 SGLang + B300 真实生产栈上，将 Qwen-Image 端到端延迟降低 42.3%，FLUX.2 降低 15.2%，且优化由系统自主发现并合入生产。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月31日1时22分"
+  },
+  {
+    "id": "cmtg3n07v01lcroj7z28m30ot",
+    "title": "HumanLayer 智能体构建分享三周获20万观看",
+    "url": "https://x.com/dexhorthy/status/2094110510178525452",
+    "summary": "天哪，分享我们如何使用智能体构建的帖子，3 周就已经有 20 万次观看了 @humanlayer_dev",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月31日1时10分"
+  },
+  {
+    "id": "cmtg20ua7015jrov8ildcala3",
+    "title": "马斯克自建燃气轮机叶片铸造厂加速AI供电，但污染问题随之而来",
+    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
+    "summary": "马斯克证实SpaceX在得州Bastrop秘密建设\"叶片与导流叶铸造厂\"，以自产燃气轮机核心部件，缓解AI数据中心电力瓶颈。他表示此举可将燃气轮机投产时间提前最多18个月。但燃气轮机排放已引发诉讼与健康担忧，弗吉尼亚州研究估计单座设施每年可致3.4至6.5例过早死亡。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月31日0时54分"
+  },
+  {
+    "id": "cmtg1hv0e01jyroa7nxcazbpb",
+    "title": "开源 DESIGN.md 终结 AI 前端廉价模板感",
+    "url": "https://x.com/AYi_AInotes/status/2094103020841631880",
+    "summary": "有人将 Linear、Notion、ElevenLabs 等全球 2，000+ 顶级产品的设计语言提炼为 Coding Agent 专用的 DESIGN.md 文件，完全免费开源。该库覆盖颜色变量、字体层级等底层令牌及组件级约束，零配置即插即用，让 Claude Code 或 Cursor 生成 UI 时自动读取并像素级对齐，解决反复调 CSS 仍带廉价模板感的问题。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月31日0时40分"
+  },
+  {
+    "id": "cmtg20vgb015xrov84q0yy4pp",
+    "title": "Claude 会话 URL 默认附加到提交信息和 PR 描述中",
+    "url": "https://github.com/anthropics/claude-code/issues/66504",
+    "summary": "GitHub 上的一个项目默认将 Claude 会话 URL 附加到提交信息和 PR 描述中，便于追溯每次代码变更对应的 AI 对话上下文。该功能在 08-30 登上 Hacker News 热榜，获得 104 个 HN 点赞。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月31日0时35分"
+  },
+  {
+    "id": "cmtg1hv0e01jzroa7li8n64p2",
+    "title": "Codex 插件不到 1 元生成高清 AI 视频",
+    "url": "https://x.com/AYi_AInotes/status/2094093204790325554",
+    "summary": "开发者 Saccc_c 发布了一款 Codex 插件，宣称生成高清 AI 视频成本不到 1 块钱。该插件通过 Codex 调用视频生成能力，大幅降低创作门槛，引发社区关注。目前具体模型与生成参数未披露，实际效果有待验证。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月31日0时1分"
+  },
+  {
     "id": "cmtf5hl4h021aro07dezpq72t",
     "title": "美媒：中国机器人账号煽动AI数据中心反对潮",
     "url": "https://x.com/rohanpaul_ai/status/2093876607458980260",
@@ -13838,6 +13902,166 @@
     "summary": "中国人形机器人占全球出货量86%，英伟达正将其CUDA策略复制到这一高度集中的市场。英伟达只需深度嵌入少数几家机器人厂商，即可覆盖大部分市场。其路径是让机器人厂商依赖英伟达GPU/Jetson、CUDA及Isaac/GR00T/Cosmos平台，实现仿真、训练、控制与部署的全栈绑定。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年8月30日2时18分"
+  },
+  {
+    "id": "cmtfyf36x02h5ro3xzxr5wtp9",
+    "title": "编码智能体主要读指令文件而非API文档",
+    "url": "https://x.com/rohanpaul_ai/status/2094079949002985751",
+    "summary": "一项针对557次真实编码会话和33，097个智能体PR的实证研究发现，编码智能体主要阅读AGENTS.md、CLAUDE.md等指令文件（占35.4%）及自身计划笔记（25.1%），API参考仅占1.3%。文档阅读直接触发代码编辑的情况极少（1328次中仅3次），且未发现智能体对照文档检查工作的案例。研究建议开发者更重视指令文件而非API文档的编写。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日23时9分"
+  },
+  {
+    "id": "cmtg0k8ow016qrosxnhqwxvi5",
+    "title": "Redwood：AI 两周自主设计验证部署芯片",
+    "url": "https://x.com/rohanpaul_ai/status/2094091776483082655",
+    "summary": "Redwood 芯片由 AI 系统从规格说明自主完成设计、测试、固件与内核，2 位人类架构师仅编写规格，规格变更后 48 小时内即可在真实硬件上运行。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日23时56分"
+  },
+  {
+    "id": "cmtg0k8p7016rrosx1s4ud6o2",
+    "title": "多数新云安全堪忧，OpenAI对比HuggingFace",
+    "url": "https://x.com/SemiAnalysis_/status/2094090139853021601",
+    "summary": "大多数新云（Neocloud）在安全方面表现糟糕：OpenAI vs HuggingFace、容器逃逸、内核绕过、网络策略、安全密钥、多租户 Grafana，以及 ClusterMAX 3.0 预览。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月30日23时49分"
+  },
+  {
+    "id": "cmtfzcppr033yro3x45r0y75c",
+    "title": "本周AI论文精选：技能提升与智能体",
+    "url": "https://x.com/dair_ai/status/2094086014536978591",
+    "summary": "本周AI论文精选（8月24日-30日）：\n\n- Skill Lift - JIT-Agent - Prime Agent - Judges as a Lifecycle - Co-Scientist in Real Labs - What Compaction Destroys - Context Management as Code\n\n更多内容请继续阅读：",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月30日23时33分"
+  },
+  {
+    "id": "cmtfzcppr033zro3xlxnzdiaz",
+    "title": "本周AI论文：Netflix裁判、NVIDIA技能提升与阿里Scroll",
+    "url": "https://x.com/dair_ai/status/2094085853026951319",
+    "summary": "本周精选AI论文：Netflix以四阶段生命周期管理LLM裁判，覆盖数千万会员，A/B测试提升观看量；NVIDIA提出Skill Lift，发现结构审查与技能质量相关性仅0.14，主张用配对运行测实际效果；阿里Scroll将上下文管理转为代码，用事件日志和Python内核替代预设schema，Qwen3.8-Max上达94.8%。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月30日23时32分"
+  },
+  {
+    "id": "cmtfzvodw03knro3xdtnj6nsk",
+    "title": "git.kernel.org 遭遇 AI 爬虫攻击：渲染提交消耗的 CPU 超过所有合法访问",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "summary": "git.kernel.org 的维护者披露，AI 爬虫正以\"最愚蠢的方式\"抓取数据--逐提交渲染 HTML 而非 git clone，导致 5 个节点上 14 个 CPU 核心持续忙于渲染提交，消耗的 CPU 周期超过包括 git clone 在内的所有合法访问。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月30日23时31分"
+  },
+  {
+    "id": "cmtfzhnzw03enro3x6s3m7fqf",
+    "title": "MDA 智能体用贝叶斯设计实验，效率提升约 5 倍",
+    "url": "https://x.com/rohanpaul_ai/status/2094084980813287933",
+    "summary": "论文提出 Model Discovery Agent（MDA），让 LLM 提出数据解释，再用标准贝叶斯数学挑选最能区分这些解释的实验，避免在验证既有想法的实验上浪费资源。在物理基准上，MDA 的模型在 93% 的运行中准确到可通过，而同一 LLM 单独工作时仅为 31%。MDA 还用 8 次实验匹配了已发表结果，而后者约需 41 次。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日23时29分"
+  },
+  {
+    "id": "cmtfzhnzq03emro3xc6tvtd5o",
+    "title": "GPT-Astra 将成性能猛兽，或现 AGI 雏形",
+    "url": "https://x.com/kimmonismus/status/2094083817166274764",
+    "summary": "天哪……GPT-Astra 将会是一头猛兽。绝对令人惊叹。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月30日23时24分"
+  },
+  {
+    "id": "cmtfz8igv0329ro3xzf087h4b",
+    "title": "Grok 为萨尔瓦多全国学校提供教育支持",
+    "url": "https://x.com/elonmusk/status/2094082671848673690",
+    "summary": "马斯克发文称，Grok 正在为萨尔瓦多提供教育支持。据 a16z 合伙人 Jen Kha 透露，萨尔瓦多已为每所学校免费提供 Grok，并正在部署 AI 医生；她指出，一些意想不到的国家在 AI 采用速度上已超越美国。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月30日23时19分"
+  },
+  {
+    "id": "cmtfzhnzi03elro3xsajnf2nn",
+    "title": "Grok Build 让普通人轻松制作赛车游戏",
+    "url": "https://x.com/cb_doge/status/2094082285880697232",
+    "summary": "Grok Build 给我侄子做了这个酷炫又有趣的小赛车游戏。\n\n如今你不需要编程技能或多年游戏开发经验，就能把一个想法变成游戏，这太不可思议了。\n\n只需描述你想要的内容，@Grok Build 就能在几分钟内把它变成现实。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月30日23时18分"
+  },
+  {
+    "id": "cmtfyt37402r2ro3xa08eqttc",
+    "title": "HTMX CEO 发起\"无AI星期五\"倡议",
+    "url": "https://noaifridays.com/",
+    "summary": "HTMX CEO 发起\"无AI星期五\"倡议，建议每周一天关闭 AI 助手、手写代码，以缓解 LLM 带来的认知债务、批判性思维弱化和技能形成受阻等问题。该倡议认为，定期脱离 AI 有助于审视其决策方向是否仍符合个人偏好，并减少 token 消耗。目前该 CEO 已在其公司强制推行，并公开征集其他企业加入。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月30日23时15分"
+  },
+  {
+    "id": "cmtfyf36k02h4ro3xzativqda",
+    "title": "最小化 harness 才是长期最优解",
+    "url": "https://x.com/omarsar0/status/2094080366919188843",
+    "summary": "Elvis Saravia 推荐一篇观点文章，称自己越来越倾向使用 Pi 这类极简 harness，以便在模型间轻松切换而不牺牲性能。他提醒，在模型快速迭代的当下，应谨慎选择优化目标和方式。引用推文指出，像 Oh My Pi 这类捆绑大量技巧的复杂 harness 虽在基准上表现好，但每次模型发布都可能使结果失效，而极简配置会随更强模型出现而持续受益。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月30日23时10分"
+  },
+  {
+    "id": "cmtg20ua7015krov8evv80w9j",
+    "title": "Caterpillar 将采矿自动化经验应用于 AI 部署",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
+    "summary": "工业巨头 Caterpillar 正将采矿自动化经验应用于更广泛的 AI 部署，推出 Cat AI Assistant，供现场技术人员通过语音指令获取维修流程和故障排查信息。该公司拥有约 160 万个联网设备和超 16 PB 结构化数据，并计划未来五年投入 1 亿美元培训 11.8 万名员工。其第二季度营收达 205 亿美元创历史新高，发电部门销售额因数据中心需求增长 72%。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月30日23时0分"
+  },
+  {
+    "id": "cmtfxcje301xrro3x3fi5xr4q",
+    "title": "Gemini Notebook 将推交互式报告功能",
+    "url": "https://x.com/testingcatalog/status/2094072555598446762",
+    "summary": "GOOGLE 🔥：交互式报告正在为 Gemini Notebook 的即将发布做准备。\n\n> 新增：您现在可以创建交互式报告。> 一份包含嵌入式 Studio 内容的交互式报告。\n\n用户可以通过提供自定义提示词并选择语言来定制这些报告。\n\n基于建议的提示词，此功能让用户能够生成交互式报告、用户研究报告和复杂可视化。\n\n* 尚未对公众开放。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月30日22时39分"
+  },
+  {
+    "id": "cmtfxcjdu01xpro3xdermzn0h",
+    "title": "CLEAR：按提示词动态调节安全对齐，兼顾模型效用",
+    "url": "https://x.com/rohanpaul_ai/status/2094070636847026612",
+    "summary": "斯坦福新论文提出 CLEAR，通过小型门控网络按提示词动态调节独立安全模块的介入程度，冻结原模型以保留良性提示的完整性能。该方法在保持安全性的同时，显著减少全局安全微调带来的效用损失。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日22时32分"
+  },
+  {
+    "id": "cmtfxcjdu01xqro3xxvwuzgbd",
+    "title": "腾讯PatternEval：非思考模式更易致响应失败",
+    "url": "https://x.com/rohanpaul_ai/status/2094067702172410105",
+    "summary": "腾讯一篇论文发现，将多模态模型切换至非思考模式虽降低延迟，却显著增加用户可见的响应失败概率。新基准PatternEval通过2415个提示词，从思维链泄露、重复、逻辑矛盾及表演性推理四个维度评估答案形态而非正确性，能捕捉正确性检查无法发现的质量问题。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日22时20分"
+  },
+  {
+    "id": "cmtfwa3yi03h6rooe6pb58ske",
+    "title": "Modiqo 举办 Rote Playoffs 黑客松，报名开启",
+    "url": "https://x.com/testingcatalog/status/2094065985279922458",
+    "summary": "Modiqo 开放 Rote Playoffs 报名，这是一场免费在线黑客松，于 9 月 1 日至 6 日举行。比赛围绕工具 Rote 展开，它能让 AI 智能体保存完成任务所需的步骤，而非每次从头执行。Rote 将成功运行保存为可读的\"Play\"配方，供他人打开、分享和运行，从而避免重复付费。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月30日22时13分"
+  },
+  {
+    "id": "cmtfwa3xw03h4rooenqxk1rsx",
+    "title": "新Mac Studio配屏与挂机游戏求推荐",
+    "url": "https://x.com/kimmonismus/status/2094061320421130276",
+    "summary": "我买了新的 Mac Studio，以便更好地运行本地模型。现在我想配一台新显示器，可能是 40 英寸曲面屏。你有什么推荐吗？\n\n哦，如果你也能推荐一些好玩的挂机游戏，那也很欢迎，正好可以在等智能体跑任务的时候打发时间 ；）",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月30日21时54分"
+  },
+  {
+    "id": "cmtfwa3y703h5rooe1ocpc4jx",
+    "title": "OpenAI Jalapeño 芯片 2026 年底内部部署",
+    "url": "https://x.com/rohanpaul_ai/status/2094059690963632455",
+    "summary": "Semianalysis 报道，OpenAI 自研 Jalapeño 芯片将于 2026 年底部署于自有算力。该芯片在约 100 tok/s/user 下实现约 11M tok/s/MW，约为最佳 Blackwell 级配置的 2 倍，且采用单 token 预测（STP）而非多 token 预测（MTP），性能全面超越其他芯片。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日21时48分"
+  },
+  {
+    "id": "cmtfwnx7v01b4ro3xk1qu3k5s",
+    "title": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
+    "url": "https://www.ithome.com/0/996/239.htm",
+    "summary": "字节跳动原计划 8 月推出的豆包大模型 2.2 将推迟面世。延期原因是内部希望通过更充分的预训练和后训练，提升编程、工具调用和 Agent 能力，用更长研发周期换更明显的能力提升。Seed 团队目标是在年底前让 Coding 能力跻身第一梯队，产生类似智谱 GLM-5.2 和 Kimi-K3 的行业冲击力。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日21时42分"
   },
   {
     "id": "cmtfv2ii402m0rooe9ivxx19b",
