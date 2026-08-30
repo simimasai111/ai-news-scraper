@@ -13352,6 +13352,118 @@
     "date": "2026年8月3日0时0分"
   },
   {
+    "id": "cmtgfyfym0boyroj7h8vdf8h9",
+    "title": "国内首部 AIGC 长剧《后西游记》今日开播，首部\"边审边播\"剧集",
+    "url": "https://www.ithome.com/0/996/265.htm",
+    "summary": "国内首部 AIGC 长剧《后西游记》今日 18：00 开播，率先亮相的\"花果山篇\"共 5 集（每集 40 分钟），在芒果 TV 上线并于 20：00 登陆湖南卫视黄金档。该剧第一季共 30 集，改编自明末清初同名神魔小说，讲述\"西游二代\"补取真经的故事。作为\"广电 21 条\"发布后首部\"边审边播\"剧集，采取边制作、边审核、边播出的模式。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日7时28分"
+  },
+  {
+    "id": "cmtgfkdda0bgsroj72usy6qlq",
+    "title": "NPO 单线提示优化以更少预算追平 GEPA",
+    "url": "https://x.com/omarsar0/status/2094198501475590616",
+    "summary": "NPO 提示优化器仅用单条提示谱系，在 3，500 和 6，800 次 rollout 下追平 GEPA（3，593 和 6，871 次），并在 22 个 TextArena 游戏中表现相当。其优势随教师模型增强而扩大，表明复杂搜索或一直在弥补弱教师推理。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月31日7时0分"
+  },
+  {
+    "id": "cmtgfkddo0bgtroj7ij2ggetu",
+    "title": "OpenAI Jalapeño 加速器性能超越英伟达 Blackwell",
+    "url": "https://x.com/SemiAnalysis_/status/2094198478331416747",
+    "summary": "第 027 期 - OpenAI Jalapeño：比英伟达 Blackwell 更强（加速器）\n\n本周 Bryan、Myron 和 Jordan（@JordanNanos）讨论了我们就 OpenAI Jalapeño 撰写的文章。他们涵盖了性能、架构、编程模型、对英伟达的影响等内容。\n\n0：00 开场 1：05 Jalapeño 概览 4：22 每兆瓦 token 数 9：15 基准测试注意事项 13：48 CUDA 护城河 21：12 OpenAI 如何做到的 32：13 三星 HBM4 42：10 AI 设计的芯片 49：24 架构深度解析 56：58 总结与收尾",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月31日7时0分"
+  },
+  {
+    "id": "cmtgdf85b0a2uroj7vvjrxqho",
+    "title": "若诈骗有基准，将以奥特曼命名",
+    "url": "https://x.com/cb_doge/status/2094184528369836363",
+    "summary": "如果诈骗也有基准测试，那它一定会以山姆·奥特曼的名字命名。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月31日6时4分"
+  },
+  {
+    "id": "cmtgehsep0axiroj7okwzby16",
+    "title": "Anthropic 为 Claude Code 桌面版开发本地沙箱",
+    "url": "https://x.com/testingcatalog/status/2094194068351758567",
+    "summary": "Anthropic 正在为 Claude Code 桌面版开发一个在本地沙箱中运行命令的选项。\n\n> 在隔离沙箱中运行来自 Claude Code 的命令。对新会话生效。\n\n还提供严格沙箱模式。\n\n> 阻止无法在沙箱内运行的命令（例如 ssh），而不是在沙箱外运行或询问你。适用于此计算机上的每个 Claude Code 会话，包括终端，除非项目自身设置覆盖。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月31日6时42分"
+  },
+  {
+    "id": "cmtgfyfym0bp3roj73ud35h34",
+    "title": "消息称微软收紧员工 AI 预算成本，有员工 28 天挥霍 2.8 万美元 Token",
+    "url": "https://www.ithome.com/0/996/254.htm",
+    "summary": "微软开始收紧 Token 使用管理，设置用量监控并将内部默认工作负载逐步切换至 GPT-5.6 Sol 以降低 AI 成本。一份泄露的内部表格显示，一名员工 28 天内产生约 2.8 万美元 Token 使用成本，引发高层担忧。目前微软全球员工超 22.3 万人，月度使用成本中位数约 300 美元，其中 CoreAI 部门最高约 975 美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日6时38分"
+  },
+  {
+    "id": "cmtgehsei0axhroj7uvuefhz1",
+    "title": "数据中心成美国地方经济引擎",
+    "url": "https://x.com/rohanpaul_ai/status/2094191845064757584",
+    "summary": "Rohan Paul 引述 Gavin Baker 观点称，数据中心正成为美国地方经济引擎：Quincy 镇贫困率从 29% 降至 6%，税收新建了高中、医院和图书馆；Loudoun 县每年从数据中心征收约 10 亿美元，Quincy 数据中心占房产税超一半。Baker 承认此前担忧过度，称水电、税收、就业等问题已基本解决，电价在多州正因数据中心下降。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月31日6时33分"
+  },
+  {
+    "id": "cmtgdzhsu0ah7roj7iknmcsyo",
+    "title": "Reactor联合HaoAI推出FastH3无限直播流",
+    "url": "https://x.com/haoailab/status/2094187196257570977",
+    "summary": "太棒了！！@reactorworld 使用 FastH3 开发了一个新的无限流视频。社区进展神速！！而且完全开源",
+    "source": "X：Sky Computing Lab (@haoailab)",
+    "date": "2026年8月31日6时15分"
+  },
+  {
+    "id": "cmtgccpiv08hgroj7wjnw1ssb",
+    "title": "Stability AI 创始人：AI 使经济寿命仅剩两年",
+    "url": "https://x.com/rohanpaul_ai/status/2094178698132095469",
+    "summary": "\"你的经济寿命实际上将在两年内终结。（因为 AI 正变得过于能干）。\n\n人类团队（在工作环境中）会让情况更糟，因为他们要睡觉、会犯错、没喝咖啡时起床会有点暴躁。所以你的认知价值会变为负值。\n\n因此，你的经济寿命实际上将在两年内终结。\"\n\n--Emad Mostaque，Stability AI 创始人\n\n---\n\n摘自\"The Peter McCormack Show\"YouTube 频道（完整视频链接见评论区）",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月31日5时41分"
+  },
+  {
+    "id": "cmtgbo7h307vtroj7ugxrery5",
+    "title": "语音与实时智能体最低延迟推理 API：以首 token 延迟（TTFT）为先的基准评测",
+    "url": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark",
+    "summary": "语音智能体的真实体验取决于首句延迟（TTFS）而非首 token 延迟（TTFT），后者仅标记生成开始，TTS 模型需等完整句子才能发声。评测覆盖 LLM、STT、TTS 及语音到语音全链路，并给出各层延迟预算：STT 约 100-200ms、LLM 300-500ms、TTS 100-200ms，端到端目标 700ms-1.2s。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月31日5时24分"
+  },
+  {
+    "id": "cmtgbn55t07prroj7l1z6gozy",
+    "title": "黄仁勋：AI 正推动美国再工业化",
+    "url": "https://x.com/JensenHuang/status/2094173025881272408",
+    "summary": "黄仁勋回应 Gavin Baker，称 AI 正将制造业带回美国并推动再工业化，过去六个月已有 4000 亿美元投入 AI 初创公司。AI 还带动电网与清洁能源投资，并在能源厂、芯片厂和数据中心创造建筑及制造岗位。他强调建设者须与社区合作以赢得信任并创造本地收益。",
+    "source": "X：Jensen Huang (@JensenHuang)",
+    "date": "2026年8月31日5时18分"
+  },
+  {
+    "id": "cmtgba21r07m3roj7n6rnzxc1",
+    "title": "OpenAI 与 Anthropic 抢购 Mac mini 致缺货",
+    "url": "https://x.com/kimmonismus/status/2094171671838224806",
+    "summary": "OpenAI 据报购入数万台 Mac mini 和 Mac Studio，用于强化学习及训练计算机操作智能体，Anthropic 则通过 AWS 租用 Mac mini。主推文称，算力被抢购用于强化学习训练，已导致 Mac mini 出现缺货。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月31日5时13分"
+  },
+  {
+    "id": "cmtgba21y07m4roj73nvdsx6i",
+    "title": "AMD 软件栈将成智能体负载关键突破口",
+    "url": "https://x.com/SemiAnalysis_/status/2094168373198299569",
+    "summary": "SemiAnalysis 认为，尽管多数 SLO/开源模型上 AMD 仍落后 NVIDIA，但其工程师正以 AgentX 为基准全力优化，软件有望在近期智能体负载中表现优异。理论上 AMD 硬件性价比远高于 NVIDIA，尤其考虑对 Meta 与 OpenAI 的返利，但当前主要瓶颈在软件，根因是领导层未提供充足的内部研发 GPU 与稳定自动化 QA 集群。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年8月31日5时0分"
+  },
+  {
+    "id": "cmtgcb99v0892roj7vllrrjey",
+    "title": "分析师称MicroDuck低价策略难以为继",
+    "url": "https://x.com/Thom_Wolf/status/2094166678208750028",
+    "summary": "将很难做到399美元\n\n（引用推文：MicroDuck开启全面哥斯拉模式。）",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月31日4时53分"
+  },
+  {
     "id": "cmtgawb5r07giroj7b2qf0k0k",
     "title": "Brent 推动 ChatGPT 桌面应用性能飞跃",
     "url": "https://x.com/thsottiaux/status/2094164029044646099",
