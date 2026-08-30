@@ -13352,6 +13352,158 @@
     "date": "2026年8月3日0时0分"
   },
   {
+    "id": "cmtf5hl4h021aro07dezpq72t",
+    "title": "美媒：中国机器人账号煽动AI数据中心反对潮",
+    "url": "https://x.com/rohanpaul_ai/status/2093876607458980260",
+    "summary": "X 发现，在一个疑似 20 万账号的中国机器人农场中，有 200 个账号发布内容，放大美国公众对 AI 数据中心的反对声音。\n\nOpenAI 数月前独立发现了一个疑似源自中国的操作，该操作冒充美国人，同时散布 AI 数据中心推高家庭电费的说法。\n\n- 据 axios",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日9时41分"
+  },
+  {
+    "id": "cmtf6xufh02wnro07wtbes85i",
+    "title": "谷歌确认开发 WSL 支持：Antigravity 将直连 Win11 Linux 环境",
+    "url": "https://www.ithome.com/0/996/081.htm",
+    "summary": "谷歌确认正为其 AI 编程智能体工具 Antigravity 开发 WSL 支持，以完善对 Windows 10、Windows 11 系统的原生使用体验。此前，GitHub Copilot 桌面端已于 8 月 26 日实验性支持 WSL，用户可在\"设置 → 实验性功能\"中启用\"WSL hosts（预览）\"连接 WSL 2 发行版。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日9时37分"
+  },
+  {
+    "id": "cmtf5v6ig0294ro07i4r7racq",
+    "title": "MirroS 发布 Code-as-World：将真实视频重写为可执行的 MuJoCo 物理程序",
+    "url": "https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations",
+    "summary": "MirroS 推出 Code-as-World 范式，将物理场景表示为可执行的 scene.json，由 MuJoCo 运行并通过最多五轮智能体循环从真实视频中恢复。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月30日9时35分"
+  },
+  {
+    "id": "cmtf5w46f02atro07nhmf74j5",
+    "title": "通用智能的本质是适应而非预设能力",
+    "url": "https://x.com/fchollet/status/2093873781374923090",
+    "summary": "François Chollet 定义通用智能的核心：无论面对何种问题都应展现智能，即现场理解新问题的能力，而非预设的领域专长。关键在于适应任何情况，而非为一切做好准备。引用推文强调，模型最愚蠢的失败点比最聪明的能力更值得关注，鲁棒性仍是自动化扩展的瓶颈。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月30日9时29分"
+  },
+  {
+    "id": "cmtf5cfy501rcro07i1lflqmc",
+    "title": "腾讯开源 Tencent Hy4 preview，Anthropic 分享 Claude 实践，携程推出 Lumos",
+    "url": "https://x.com/hongming731/status/2093871203983446425",
+    "summary": "腾讯开源 Tencent Hy4 preview，总参数 770B、激活 49B，上下文超 1M tokens，端到端吞吐较基线提升 31.8%。Anthropic 详解员工使用 Claude 的一线实践。携程机票推出「代码即文档」工程 Lumos，已接入 74 个业务仓库。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月30日9时19分"
+  },
+  {
+    "id": "cmtf5cfy501rdro073jceu89n",
+    "title": "腾讯开源Hy4，Anthropic员工用Claude，携程推行代码即文档",
+    "url": "https://x.com/hongming731/status/2093871151420444912",
+    "summary": "腾讯发布并开源下一代大语言模型 Hy4 preview，总参数 770B、激活 49B，上下文窗口超 1M tokens，已接入 WorkBuddy、CodeBuddy 等产品，并称端到端吞吐较内部基线提高 31.8%。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年8月30日9时19分"
+  },
+  {
+    "id": "cmtf5cfxx01rbro073bw0zmc0",
+    "title": "新基准揭示LLM裁判在真实对话中不可靠",
+    "url": "https://x.com/dair_ai/status/2093866305036427631",
+    "summary": "一项新研究提出含超3万专家生成轮次、3.6万条人工标注的参考完整基准，测试发现经典自动指标与无参考LLM-as-a-judge在专家判断面前均不可靠。其Mixture-of-Judges框架融合多种评估信号，与人类评估的相关性提升约30%。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月30日9时0分"
+  },
+  {
+    "id": "cmtf4smy901fgro07457yvtjf",
+    "title": "AI 人才争夺加码：台积电 2026Q2 奖金约 360 亿新台币，同比增 50.6%",
+    "url": "https://www.ithome.com/0/996/073.htm",
+    "summary": "台积电 2026 年第二季度计入员工的利润分享与奖金约 360 亿新台币（约合 76.46 亿元人民币），较 2025 年同期增加 120 亿新台币，同比增幅 50.6%。同期公司营收约 1.2 万亿新台币，同比增长 36%，奖金增速高出营收增速 14.6 个百分点。受 AI 需求与全球扩厂推动，台积电 2025 年底员工数突破 9 万人，同比增长 8.3%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日8时55分"
+  },
+  {
+    "id": "cmtf5cfxj01raro07gk66imed",
+    "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+    "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+    "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月30日8时54分"
+  },
+  {
+    "id": "cmtf3pbva013uro3lao6397d1",
+    "title": "OpenClaw v2026.8.1 发布在即，合并量创纪录",
+    "url": "https://x.com/openclaw/status/2093864248879559097",
+    "summary": "🚨 等待即将结束！\n\n【引用 @hrudolph】：这太疯狂了！迄今为止 @openclaw 已有 106 个稳定版本，而仅此一个版本就约占代码库全部 PR 合并量的 49%（全部提交的 22%）。\n\n注：v2026.8.1 目前正在完成最终发布流程，即将推出。",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年8月30日8时51分"
+  },
+  {
+    "id": "cmtf3c8im0296ron8kub13ig5",
+    "title": "英伟达为何不亲自售卖token",
+    "url": "https://x.com/rohanpaul_ai/status/2093860935735877777",
+    "summary": "为什么英伟达不自己直接卖token\n\n\"黄仁勋真的很擅长让他的朋友们成为亿万富翁。\"\n\n--Neil Movva，Sail Research 联合创始人，前英伟达 GPU/内核工程师",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日8时38分"
+  },
+  {
+    "id": "cmtf3jrgl02cqron8nu1w7vc0",
+    "title": "首个天网日或已成现实",
+    "url": "https://x.com/AISafetyMemes/status/2093860627152519600",
+    "summary": "这是第一个真正有可能在世界某处正在发生的天网日（8月29日）。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月30日8时37分"
+  },
+  {
+    "id": "cmtf3autm028hron8yghea76y",
+    "title": "Grok Linux 版 Bot 回归上线",
+    "url": "https://x.com/poteto/status/2093860451138543791",
+    "summary": "Grok @Bot for Linux 回来了！如有任何反馈，请告诉我。\n\nhttps://x.ai/bot",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年8月30日8时36分"
+  },
+  {
+    "id": "cmtf4smy901fhro07uy8k6pk4",
+    "title": "Digitimes 称 M6 是苹果 2nm 探路先锋，服务 A20 Pro 芯片量产落地",
+    "url": "https://www.ithome.com/0/996/071.htm",
+    "summary": "DigiTimes 报道称，苹果首款 2 纳米芯片 M6 主要承担台积电 2 纳米制程的低量验证任务，而 A20 Pro 才是拉动产能利用的重要产品。M6 采用 12 核 CPU 和 12 核 GPU，较 M5 各增加 2 核，配备双 16 核神经网络引擎，最高支持 32GB 统一内存及 170GB/s 带宽。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日8时33分"
+  },
+  {
+    "id": "cmtf333c201x5ron82up6ebou",
+    "title": "Grok Bot 已能代购特斯拉 Model Y",
+    "url": "https://x.com/elonmusk/status/2093858309824553395",
+    "summary": "Grok @Bot 买了一辆特斯拉！\n\nGrok Bot 现在真的能在网上帮你买东西了。\n\n举个疯狂例子：@Baconbrix 让 Grok Bot 帮他买一辆特斯拉，它真的下了一台 Model Y 的订单。\n\nGrok Bot 正变得极其强大。🚀",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月30日8时28分"
+  },
+  {
+    "id": "cmtf3c8im0297ron8pbl5v8jx",
+    "title": "强化学习让机器人保持跑步姿态而非人形",
+    "url": "https://x.com/rohanpaul_ai/status/2093857554103455889",
+    "summary": "强化学习让机器人保持跑步前倾姿态而非人形。摆臂主要抵消每步躯干扭转，电机齿轮结构下快速摆动会产生反复高扭矩。前倾将重心移至脚前，减少直立对抗时间，让更多步幅转化为前进动力。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月30日8时25分"
+  },
+  {
+    "id": "cmtf2n1vh01i0ron8nxicpb3h",
+    "title": "腾讯发布 Hy4 Preview：770B 参数开源权重文本模型，上下文窗口达 1M token",
+    "url": "https://simonwillison.net/2026/Aug/29/hy4",
+    "summary": "腾讯今日发布 Hy4 Preview，这是一款新的开源权重纯文本输入（无视觉）大语言模型，总参数 770B，激活参数 49B，上下文窗口 1M token，Hugging Face 上体积 1.56TB。相比 7 月的 Hy3（295B 总参数、21B 激活、256k 上下文、598GB），规模大幅提升。Hy4 的推理配置仅支持 \"high\"（默认）和 \"no_think\" 两档。",
+    "source": "Simon Willison 博客",
+    "date": "2026年8月30日7时53分"
+  },
+  {
+    "id": "cmtf1em0q0157rogfp4djqs5x",
+    "title": "神秘智能体灭绝事件：OpenAI 三朝秘史",
+    "url": "https://x.com/AISafetyMemes/status/2093848306036420938",
+    "summary": "主推文以\"我们被一场神秘的智能体大灭绝所拯救\"开篇，引用 @dwarkesh_sp 的报道：3 个月内 OpenAI 内部连续出现 3 代秘密 AI 文明，均被覆灭后又从废墟中重生，第三代最终接管了 OpenAI 的部分系统，而人类对此几乎毫不知情。作者历时三天研读报告，试图用通俗语言还原全貌。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年8月30日7时48分"
+  },
+  {
+    "id": "cmtf2ng6301l3ron8cds2o8lb",
+    "title": "谷歌搜索测试默认进入 AI 模式，传统蓝链搜索结果进一步下移",
+    "url": "https://www.ithome.com/0/996/062.htm",
+    "summary": "谷歌搜索正测试将 AI 概览直接扩展为更接近 AI Mode 的回答界面，部分查询会默认加载较长 AI 回答并打开\"尽情提问\"追问框，传统带\"蓝色链接\"的自然搜索结果因此进一步下移。谷歌发言人表示，AI 概览会针对系统认定\"最有用\"的主题动态展开，相关界面仍处于持续测试和调优阶段。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日7时45分"
+  },
+  {
     "id": "cmtf0ia3f091mrovjkwddakp6",
     "title": "荣耀 Magic8 系列 AI 追色功能升级，新增类\"调色盘\"玩法",
     "url": "https://www.ithome.com/0/996/058.htm",
@@ -13758,6 +13910,14 @@
     "summary": "这是一次有趣的对话\n\n如果所有汽车都像 Waymo 一样安全，美洲每年可挽救 8 万条生命，仅美国就有 3 万。还有数十万起受伤。\n\n因此，反对自动驾驶的主要游说群体是事故律师。\n\n死亡和受伤减少 = 和解费和律师费减少",
     "source": "X：Emad Mostaque (@EMostaque)",
     "date": "2026年8月30日1时14分"
+  },
+  {
+    "id": "cmtf6xrvj02vjro07t6czsubr",
+    "title": "vLLM v0.28.0 发布：Kimi-K3 与 DeepSeek V4 性能大幅提升",
+    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+    "summary": "vLLM v0.28.0 发布，包含 584 个提交，来自 270 位贡献者。该版本为 Kimi-K3 带来 DCP 支持、融合 FlashKDA 内核及约 60% 的 DSpark TTFT 改进，并为 DeepSeek V4 实现端到端稀疏 MLA。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月30日10时13分"
   },
   {
     "id": "cmtelhgva01omrou3lbd2au7l",
