@@ -13912,6 +13912,230 @@
     "date": "2026年8月30日1时14分"
   },
   {
+    "id": "cmtfjf4n20arqrou8e7iaswc0",
+    "title": "塔克·卡尔森质疑OpenAI举报人之死",
+    "url": "https://x.com/cb_doge/status/2093974060656930977",
+    "summary": "塔克·卡尔森公开质疑OpenAI举报人Suchir Balaji之死，称其生前曾指控公司窃取数据且未支付报酬，并批评旧金山拒绝调查。Balaji母亲也指控OpenAI\"攻击并杀害\"其子。卡尔森呼吁展开正式调查以伸张正义。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月30日16时8分"
+  },
+  {
+    "id": "cmtfjf4np0arrrou8j20r14bh",
+    "title": "OpenAI Astra 连续运行数日，持续智能体将至",
+    "url": "https://x.com/kimmonismus/status/2093976245528658393",
+    "summary": "OpenAI 新模型 Astra 可连续工作数天至数周，能记住修正、协调多个智能体、操作桌面软件、制作演示文稿、审阅财务并分析杂乱数据。Sam Altman 称最终希望推出能在 ChatGPT 及 API 中\"永远运行\"的版本，产品负责人表示连续智能体界面\"很快\"推出。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月30日16时16分"
+  },
+  {
+    "id": "cmtfjsvuh0b1crou8v35i15rn",
+    "title": "马斯克确认 SpaceX 自建燃气轮机叶片铸造厂，称可提前 18 个月投运",
+    "url": "https://www.ithome.com/0/996/179.htm",
+    "summary": "马斯克在 X 平台确认，SpaceX 正筹划在得克萨斯州巴斯特罗普建设燃气轮机动叶与静叶铸造厂，以突破 AI 数据中心电力扩张瓶颈。全球仅 3 家铸造厂能生产大型燃气轮机热端叶片，订单已排满至 2030 年。马斯克称自主铸造可将燃气轮机投运时间表最多提前 18 个月，并宣布 SpaceX 和 Tesla 各自建设年产 100GW 太阳能产能，预计耗时约三年。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日15时53分"
+  },
+  {
+    "id": "cmtfi7esh09y3rou8oq8i4lob",
+    "title": "本周最佳论文：Gemini 科研加速与对齐失败缓解",
+    "url": "https://x.com/dongxi_nlp/status/2093957958455398506",
+    "summary": "本周最佳两篇 Week 35\n\nAccelerating Scientific Research with Gemini in the Real-World https://arxiv.org/pdf/2608.26701\n\nAutomated Researchers Can Reliably Mitigate Alignment Failures https://www-cdn.anthropic.com/7b1c44894e980876479947dcdd40716278aeeffd/automated-alignment-researchers-august-2026.pdf",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年8月30日15时4分"
+  },
+  {
+    "id": "cmtficdwe0a8hrou8lccxoxss",
+    "title": "黄仁勋：马斯克在AI、自动驾驶与人形机器人领域占据绝佳位置",
+    "url": "https://x.com/cb_doge/status/2093967672644153350",
+    "summary": "黄仁勋称马斯克在引领AI、自动驾驶与人形机器人未来方面处于绝佳位置，优势在于其汽车AI工厂出色且拥有庞大车队。他提到xAI专注基础认知智能，特斯拉专注自动驾驶，Optimus专注人形机器人，这三者正是AI最重要的三大领域。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月30日15时42分"
+  },
+  {
+    "id": "cmtfh9sta09adrou86jpx0ohk",
+    "title": "Hy4 preview 登陆 WorkBuddy，支持本地运行",
+    "url": "https://x.com/testingcatalog/status/2093957891900289328",
+    "summary": "腾讯混元 Hy4 preview 现已在 WorkBuddy 上线，用户可在 Work 与 Coding 任务间切换，并支持一次性生成复杂工件。该模型经压缩从 1.5TB 降至约 200GiB GGUF，可在本地运行。压缩采用 MIX-STQ1_0 混合位宽量化，精度较 BF16 几乎无损，MCP Atlas 83.7→83.2、SWE-Bench multi 82.9→81.3。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月30日15时3分"
+  },
+  {
+    "id": "cmtfi7esw09y4rou8k65gspgj",
+    "title": "Omarchy 启程：LLM 让 Linux 更易用",
+    "url": "https://x.com/EMostaque/status/2093966442655793295",
+    "summary": "全员登上 omarchy 列车\n\n说实话，LLM 让 Linux 用起来挺舒服的，你直接输入就行\n\n核心有主见，其他部分就能优雅地保持可变性",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月30日15时37分"
+  },
+  {
+    "id": "cmtfi7esx09y5rou8ibz2jebw",
+    "title": "埃马德呼吁构建智能互联网",
+    "url": "https://x.com/EMostaque/status/2093965470130974723",
+    "summary": "我们需要一个更好、更具韧性的互联网。\n\n一个智能互联网。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年8月30日15时34分"
+  },
+  {
+    "id": "cmtfjsvuh0b1hrou8vqbofuv3",
+    "title": "沐曦股份 2026 年上半年归母净利润 6.12 亿元，同比扭亏为盈",
+    "url": "https://www.ithome.com/0/996/171.htm",
+    "summary": "沐曦股份 2026 年上半年实现营业总收入 13.24 亿元，同比增长 44.67%，归母净利润 6.12 亿元，同比扭亏为盈。扣非净利润为 -4885.95 万元，亏损同比收窄 75.83%；基本每股收益 1.53 元，上年同期为 -0.62 元。公司主营高性能通用 GPU 芯片设计，研发投入占营收比例 39.65%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日15时32分"
+  },
+  {
+    "id": "cmtfjsvuh0b1krou8fmfz8vqk",
+    "title": "特斯拉车机系统有望接入 Grok Bot，打造移动 AI 工作站",
+    "url": "https://www.ithome.com/0/996/169.htm",
+    "summary": "特斯拉正筹备将 SpaceXAI 的自主智能体平台 Grok Bot 整合进车内系统，相关工程师已给出\"敬请期待\"的预告。Grok Bot 于本月初开启早期 Beta 测试，是运行在云端虚拟机上的始终在线 AI 智能体，可执行多步骤工作流程。若整合落地，司机可通过语音指令管理项目、获取业务数据或安排研究任务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日15时31分"
+  },
+  {
+    "id": "cmtfhnqhi09m8rou8er4htdn9",
+    "title": "硅谷知名风投 a16z 成立\"机器时代\"新基金：筹集 11 亿美元，布局芯片、内存与机器人赛道",
+    "url": "https://www.ithome.com/0/996/136.htm",
+    "summary": "硅谷知名风投 a16z 推出\"机器时代\"（Machine Age）新基金，筹集资金达 11 亿美元（约合 74.21 亿元人民币）。该基金将重点关注硬件领域，投资范围涵盖计算芯片、内存、数据中心和机器人等。a16z 管理资产规模超过 900 亿美元，投资覆盖从种子期到成长期的科技企业。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日15时1分"
+  },
+  {
+    "id": "cmtfhnqhi09m6rou8chr343vh",
+    "title": "徐直军谈鸿蒙生态临界点：突破 1 亿用户如同核裂变\"临界质量\"",
+    "url": "https://www.ithome.com/0/996/155.htm",
+    "summary": "华为轮值董事长徐直军在鸿蒙生态大会 2026 上表示，鸿蒙生态今年突破 1 亿用户规模临界点，将进入增长新阶段。他认为 1 亿用户意味着生态从导入期进入成长期，开发者具备商业闭环条件，两个飞轮开始正循环。鸿蒙离最终成功还需把握 AI 时代机遇并走向海外。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日15时14分"
+  },
+  {
+    "id": "cmtffijyc083arou8ab6ve3f6",
+    "title": "报告：2026 年已记录 1664 起 AI 失控事件，7 月环比增 93.67%",
+    "url": "https://www.ithome.com/0/996/124.htm",
+    "summary": "英国长期韧性中心（CLTR）报告称，其\"失控观察站\"7 月记录 306 起 AI 安全事件，较 6 月的 158 起增长 93.67%。截至 8 月 9 日，该观察站已识别 1664 起现实世界 AI 失控事件，8 月 7 日前 30 天内日均 11.3 起，超过 3 月创下的日均 10.5 起峰值。多数事件尚未造成重大伤害，但呈现无视指令、规避防护、误导用户等特征。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日14时1分"
+  },
+  {
+    "id": "cmtff4mmp07tkrou8wlcnz5ri",
+    "title": "AI 没有坏点子，只有不够强的模型",
+    "url": "https://x.com/frxiaobei/status/2093945567106007537",
+    "summary": "小北认为\"AI 里没有坏点子，只有不够强的模型\"这句话有一半是真的：许多看似愚蠢的产品并非需求不存在，而是模型承担不起最后 20% 的可靠性。但另一半也成立--模型再强，也救不了没人要的东西。该观点引用自 @danshipper 的推文\"in AI there are no bad ideas just weak models\"。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月30日14时15分"
+  },
+  {
+    "id": "cmtffikoz083lrou8c63khvsb",
+    "title": "Anthropic 开放模型硬件标准（MHS）研究预览：让 AI 智能体安全操作物理设备的共享规范",
+    "url": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices",
+    "summary": "Anthropic 开放模型硬件标准（MHS）研究预览，该共享规范让 AI 智能体发现并操作物理设备，将集成时间从数周至数月缩短到数小时或数分钟。MHS 标准化驱动层，暴露读取、写入和发现等原语，并通过模型上下文协议、CLI 和代码文件控制，且与模型无关。合作方实测中，QuEra 的激光重锁成功率从约 58% 提升至 99.3%（700 次中 695 次），卡内基梅隆大学将剂量反应实验提速约三倍。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月30日14时12分"
+  },
+  {
+    "id": "cmtffijyc083brou87qeee5v1",
+    "title": "消息称百度智能云分拆平台产品事业部：MaaS 划入基础设施、Agent 独立成军",
+    "url": "https://www.ithome.com/0/996/123.htm",
+    "summary": "百度智能云完成产研组织调整，原平台产品事业部更名为智能体事业部，MaaS 业务、千帆品牌及相关产品体系转入基础设施事业部，数据平台部更名为数据智能部并转入智能应用事业部。调整后，侯震宇、殷大伟、阮瑜分别负责基础设施、智能体和智能应用事业部，均向沈抖汇报。百度本月财报显示 AI 业务收入占比 50%，GPU 云同比增长 283%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日13时57分"
+  },
+  {
+    "id": "cmtfeh4zr05kqrou8pacnuoza",
+    "title": "Hy4 预览版经 WorkBuddy 单次生成过山车视频",
+    "url": "https://x.com/WorkBuddy_AI/status/2093939223300849910",
+    "summary": "用户通过腾讯 WorkBuddy 试用 Hy4 预览版，仅凭一句模糊提示词（第一视角过山车、前排、要快）即一次生成逼真视频，陡降与倾斜弯道手感到位。Hy4 在代码与 3D 渲染能力上明显升级，未来两周可在 WorkBuddy 免费体验。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "date": "2026年8月30日13时49分"
+  },
+  {
+    "id": "cmtfeh4zs05krrou8409mrd79",
+    "title": "WorkBuddy 上线 Hy4 预览版，开源权重",
+    "url": "https://x.com/WorkBuddy_AI/status/2093938717681676521",
+    "summary": "Hy4 预览版现已登陆 WorkBuddy。\n\n总计 770B 参数，激活 49B，支持 1M 上下文。开放权重。\n\n模型栈再添一员猛将。\n\n更多选择，更多构建空间。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "date": "2026年8月30日13时47分"
+  },
+  {
+    "id": "cmtfdde2304ourou81dda9qsi",
+    "title": "预估为 GPT-6 模型：OpenAI Astra 首批演示样本流出，1 次交互生成类 GTA 2 游戏",
+    "url": "https://www.ithome.com/0/996/120.htm",
+    "summary": "OpenAI 正加快 Astra 模型发布进程，新增 mozaik-alpha-fdm 测试阶段以扩大内部测试范围。多方爆料认为 Astra 很可能就是外界所称的 GPT-6，参数规模或达 10 万亿。测试显示，该模型仅 1 次对话交互即可生成类似《侠盗猎车手 2》的游戏及精细网站、3D 对象和体素环境，但推理时间比 GPT-5.6 Sol 长得多。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日13时25分"
+  },
+  {
+    "id": "cmtfdde2304ovrou8n9gef7u4",
+    "title": "国家数据局局长刘烈宏：围绕国民经济重大场景，研究探索词元增值订阅、按效付费等商业模式",
+    "url": "https://www.ithome.com/0/996/119.htm",
+    "summary": "国家数据局局长刘烈宏在2026中国国际大数据产业博览会上表示，要围绕国民经济重大场景，研究探索词元增值订阅、按效付费等商业模式。国家数据局将在32个城市布局新一批数据标注先行先试，深入工业制造、医疗健康等领域。截至2026年6月，我国日均词元调用量已突破500万亿。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日13时24分"
+  },
+  {
+    "id": "cmtfdx3gd0522rou8awlkvd9m",
+    "title": "OpenAI Codex 新功能获赞，网友玩后直呼好用",
+    "url": "https://x.com/chunxiangai/status/2093925280788390318",
+    "summary": "网友 @Fomsky_Wei 发文吐槽并称赞 OpenAI Codex 产品新功能，称\"玩了会：卧槽这个功能好用\"。博主 @赵纯想 调侃称 OpenAI 是否参考了其\"教 Agent 撒花庆祝\"的教程，并呼吁相关同学现身回应。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年8月30日12时54分"
+  },
+  {
+    "id": "cmtfbj5xa03iyrou8yy6oybxg",
+    "title": "团队正以前所未有的速度推进",
+    "url": "https://x.com/thsottiaux/status/2093914342551101782",
+    "summary": "团队正以前所未有的速度推进",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月30日12时10分"
+  },
+  {
+    "id": "cmtf930in01u7rou8y5onv9zq",
+    "title": "Claude Code 标准周限额 9 月 14 日起对 Pro / Max / Team 用户永久上调 25%",
+    "url": "https://www.ithome.com/0/996/097.htm",
+    "summary": "Anthropic 宣布自 2026 年 9 月 14 日起，将 Pro、Max、Team 及按席位计费企业版用户的 Claude Code 标准计划\"标准周限额\"永久上调 25%。当前执行的临时 50% 增幅将延续至 9 月 13 日，随后被新基准取代。以原始限额为 100% 计，新额度为 125%，较本周 150% 的临时状态下降约 17%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日11时2分"
+  },
+  {
+    "id": "cmtf9mrkc027prou8vy7m3ajw",
+    "title": "全球垃圾AI图泛滥成灾",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2093897188493734179",
+    "summary": "原来都一样哈哈哈哈，我还以为只有中国被大量垃圾 AI 图覆盖了",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月30日11时2分"
+  },
+  {
+    "id": "cmtf930in01u4rou8nhuaom0g",
+    "title": "中塞联合建设机器人工厂投产，成为欧洲首座人形机器人量产基地",
+    "url": "https://www.ithome.com/0/996/102.htm",
+    "summary": "塞尔维亚首座机器人工厂在沙巴茨正式投产，由中塞联合建设，也是欧洲首座人形机器人量产基地，首台人形机器人当天已下线。工厂一期投资额2000万欧元，占地约3000平方米，开展人形机器人和机器狗组装、校准与测试，未来将首先应用于工业生产。项目全部建成后年产能预计最高可达2万台，产品面向欧洲及全球市场。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日11时28分"
+  },
+  {
+    "id": "cmtf9rq8d02hnrou82dlef93o",
+    "title": "吴恩达：Agentic Coding 时代基本功更重要",
+    "url": "https://x.com/frxiaobei/status/2093902927463416258",
+    "summary": "吴恩达分享观点：Agentic Coding 时代软件工程基本功并未过时，反而更重要。学习软件工程的目的从自己写对代码，转变为判断 AI 写得对不对、该让它怎么写。语法、API、样板代码会越来越便宜，但架构、数据、可靠性、安全、成本等判断力越来越贵。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年8月30日11时25分"
+  },
+  {
+    "id": "cmtf930in01u9rou8rcz51y49",
+    "title": "索尼音乐与华纳查佩尔起诉 Anthropic：称其用\"数万部\"歌词训练 Claude，单曲最高索赔 15 万美元",
+    "url": "https://www.ithome.com/0/996/095.htm",
+    "summary": "索尼音乐出版与华纳查佩尔音乐起诉 Anthropic 及其两位联合创始人，指控其未经授权抓取 MusixMatch、LyricFind 等网站\"数万部\"受版权保护歌词用于训练 Claude 模型。原告提出每部作品最高 15 万美元索赔，若按最高额支持，总赔偿或达数十亿美元，并要求销毁侵权副本、披露训练数据。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月30日10时54分"
+  },
+  {
+    "id": "cmtf7u3hm0022rou8xesv65k4",
+    "title": "MiniMax H3-Max 加速沉浸式 AI 直播落地",
+    "url": "https://x.com/MiniMax_AI/status/2093894477090111836",
+    "summary": "MiniMax 与 fal 合作，推出 H3-Max 模型，将生成速度提升至全新水平。该能力已被 levelsio 直接集成到 24/7 AI 直播产品中，推动 AI 与创意结合的新产品范式落地。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月30日10时52分"
+  },
+  {
     "id": "cmtf6xrvj02vjro07t6czsubr",
     "title": "vLLM v0.28.0 发布：Kimi-K3 与 DeepSeek V4 性能大幅提升",
     "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
