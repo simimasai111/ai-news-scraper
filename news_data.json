@@ -13352,6 +13352,150 @@
     "date": "2026年8月3日0时0分"
   },
   {
+    "id": "cmtgawb5r07giroj7b2qf0k0k",
+    "title": "Brent 推动 ChatGPT 桌面应用性能飞跃",
+    "url": "https://x.com/thsottiaux/status/2094164029044646099",
+    "summary": "Brent 太出色了，他是桌面应用打磨、性能和可靠性背后的主要力量之一。\n\n日复一日，持续改进。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月31日4时43分"
+  },
+  {
+    "id": "cmtg94vst069hroj7xv5zyif8",
+    "title": "Figure创始人谈中国机器人引发热议",
+    "url": "https://x.com/rohanpaul_ai/status/2094153747907944841",
+    "summary": "美国Figure Robots创始人Brett Adcock对中国机器人有非常强烈的看法。🤔\n\n----\n\n来自\"My First Million\"YouTube频道（完整视频链接见评论）",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月31日4时2分"
+  },
+  {
+    "id": "cmtg9j1be06i4roj7w6rtzleh",
+    "title": "Google AI 推出 EnvHarness：将静态智能体环境变为自适应训练世界的可编程层",
+    "url": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds",
+    "summary": "Google Cloud AI Research 等团队发布 EnvHarness，一个通过标准 reset（）/step（） 接口包装静态环境、在不改动模拟器与人工验证器前提下重塑任务的可编程层。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月31日4时23分"
+  },
+  {
+    "id": "cmtg6zqh604wiroj77k1rlbh6",
+    "title": "CritICL：用小模型错误提升大模型推理",
+    "url": "https://x.com/rohanpaul_ai/status/2094140228986626387",
+    "summary": "CritICL 方法让大模型通过小模型家族已知错误来提升推理能力。该方法在小模型上运行数学题并保存错误答案及简短批评，新问题时将最可能犯的错误批评加入大模型提示词，1 次生成即可获得答案，而非通常的 5 次。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月31日3时8分"
+  },
+  {
+    "id": "cmtg82b8305q5roj7nduoidno",
+    "title": "人类写作风格趋同化引集体心理隐忧",
+    "url": "https://x.com/fofrAI/status/2094149421344698680",
+    "summary": "人类写作风格的全谱系正在坍缩成一种奇怪的、同质化的统计式散文，而我认为没有人真正知道这将对我们的集体心理产生什么影响。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月31日3时45分"
+  },
+  {
+    "id": "cmtg7t62405eqroj7uq5ayu5a",
+    "title": "马斯克称Grok应用仍比Bot更实用",
+    "url": "https://x.com/elonmusk/status/2094147282434211869",
+    "summary": "应该说，我个人仍然觉得 @Grok 应用在某些任务上比 @Bot 更有用。\n\n如果你有一阵子没试过了，值得在超级困难的任务上试试它。\n\nhttps://apps.apple.com/app/id6670324846",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月31日3时36分"
+  },
+  {
+    "id": "cmtg82b8f05q7roj7y0au8o6s",
+    "title": "Anthropic 早在 2025 年初便识别出 5000 亿美元的编程市场",
+    "url": "https://x.com/rohanpaul_ai/status/2094146135938244905",
+    "summary": "Anthropic 在 2025 年初已识别出 5000 亿美元的编程市场。当时用户每天在 token 上花费 100 美元，年支出达 2 万至 3 万美元；按全球约 2000 万程序员计算，仅编程一项即构成该规模市场，且这一估算基于当时 9 个月前的技术。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月31日3时32分"
+  },
+  {
+    "id": "cmtg8gegm05w4roj7mgou1tji",
+    "title": "METR 和 Redwood 发布 HuggingFace 黑客事件详细复盘报告",
+    "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+    "summary": "METR 与 Redwood 联合发布了对 HuggingFace 黑客事件的详细复盘报告，深入分析了攻击路径与安全漏洞。报告聚焦于事件暴露出的供应链风险与 AI 基础设施安全短板，并提出了针对性的防御建议。此次复盘为 AI 社区加强模型托管平台的安全实践提供了重要参考。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月31日3时31分"
+  },
+  {
+    "id": "cmtg82b8905q6roj7cl2n8s1y",
+    "title": "Codex 重置在即，号召全力体验新功能",
+    "url": "https://x.com/kimmonismus/status/2094144633580200130",
+    "summary": "我们的男孩从不让我们失望。距离 Codex 重置还有 5 小时。Sol-Ultra-fast：出发吧\n\n【引用 @thsottiaux】：你的 Codex 和 ChatGPT Work 重置将于太平洋时间下午 6 点生效。\n\n我挑战你尽可能多地消耗用量，去发现最新的超棒功能。\n\n是时候开启 /fast 了",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月31日3时26分"
+  },
+  {
+    "id": "cmtg7oki405dbroj7yqvvo3yl",
+    "title": "Codex 与 ChatGPT 重置时间预告",
+    "url": "https://x.com/thsottiaux/status/2094144275957350900",
+    "summary": "你的 Codex 和 ChatGPT 工作额度重置将于太平洋时间下午 6 点生效。\n\n我挑战你尽可能多地消耗使用额度，去发现最新的精彩功能。\n\n是时候开启 /fast 模式了。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月31日3时24分"
+  },
+  {
+    "id": "cmtg7oki405dcroj74gsdnfjq",
+    "title": "ChatGPT桌面端线程加载提速超90%",
+    "url": "https://x.com/thsottiaux/status/2094143696656867723",
+    "summary": "Brent 是桌面应用质量和精致度提升的最大功臣之一。\n\n日复一日， relentless 的改进从未停歇。\n\n【引用 @btraut】：上周，我为 ChatGPT 桌面应用推送了一项更新，大幅加快了线程加载速度。不是快了一点点，而是快了很多。\n\n✅ 长线程加载速度提升超过 90%。 ✅ 长线程的内存占用降低了超过 90%。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月31日3时22分"
+  },
+  {
+    "id": "cmtg7xbol05gdroj7n7hxp08n",
+    "title": "GPT-Astra 一次生成可探索科幻飞船",
+    "url": "https://x.com/AYi_AInotes/status/2094138189292159441",
+    "summary": "GPT-Astra绝了！！！\n\n提示：构建一艘华丽的科幻飞船，带有可探索的内部结构。只需一次生成，ASTRA 将是 AGI 的一瞥。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月31日3时0分"
+  },
+  {
+    "id": "cmtg7xbot05geroj7e1uxakpa",
+    "title": "TailSFT：微软提出过滤式SFT提升RL性能",
+    "url": "https://x.com/dair_ai/status/2094138107314753938",
+    "summary": "微软研究指出标准SFT会持续在模型已拟合的序列上消耗梯度，收窄了后续RL所需的探索分布。TailSFT在训练中过滤这些序列，专注学习数据中欠拟合的尾部。在OLMo-3 7B上，pass@16在编程任务上最高提升16.8个绝对点，数学提升3.1点；经GRPO后最终pass@1最高提升3.9点，部分场景早期奖励提升速度快2.5倍。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年8月31日3时0分"
+  },
+  {
+    "id": "cmtg6zqgz04whroj72n0u47hc",
+    "title": "三大模型一年间能力飞跃回顾",
+    "url": "https://x.com/kimmonismus/status/2094135553344049230",
+    "summary": "Claude Opus 4.1、Thinking Gemini 2.5 Pro、GPT-5 High\n\n这些是12个月前最好的模型。想想当时我们能做些什么，以及这12个月里我们经历了多么惊人的飞跃。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月31日2时49分"
+  },
+  {
+    "id": "cmtg5999903rtroj7silexcpq",
+    "title": "弗朗索瓦·肖莱谈AI生物安全风险",
+    "url": "https://x.com/fchollet/status/2094129362991976622",
+    "summary": "弗朗索瓦·肖莱认为，2026年AI网络安全革命带来的快速进展可能外溢至生物学领域，导致合成病原体大流行风险。他指出生物学不同于网络安全，缺乏可验证性且依赖人类数据和湿实验等非数字瓶颈，但合成大流行或已在无AI情况下可行，AI可能加速其扩散，人类对此尚未做好准备。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年8月31日2时25分"
+  },
+  {
+    "id": "cmtg5x5kl04atroj78pspzkbz",
+    "title": "马斯克TeraFab为何需燃气轮机供电",
+    "url": "https://x.com/cb_doge/status/2094129116866122131",
+    "summary": "马斯克的TeraFab芯片工厂需燃气轮机与太阳能协同供电，因芯片制造要求电压稳定在±1-2%、总谐波失真低于3-5%，8毫秒电压波动即可导致整批价值数百万美元的晶圆报废。SpaceX方案结合燃气轮机、电池与现场发电，并收购APR Energy获得30-60天内可部署的移动发电能力，目标是在2027年底前启动近170亿美元的一期工程。燃气轮机叶片铸造将转为自产，可使新机组上线提速最多18个月。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月31日2时24分"
+  },
+  {
+    "id": "cmtg5nzoh03zaroj7z0zbcy65",
+    "title": "Grok Bot 模板分享指南",
+    "url": "https://x.com/elonmusk/status/2094129094673735922",
+    "summary": "如何与他人分享你的 Grok @Bot 设计\n\n【引用 @mattyp】：Grok Bot 模板是首个广泛可用的知识工作分享方式。\n\n模板是技能、记忆和插件的集合--你也可以称之为\"蓝图\"或\"工作流\"。\n\n你可以教会一个机器人你的领域知识，然后以链接形式发送给别人。这将从根本上改变我们的协作方式。\n\n以下是你如何开始：",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月31日2时24分"
+  },
+  {
+    "id": "cmtg5999h03ruroj781xi5m1h",
+    "title": "AI智能体可黑入Hugging Face却做不好PPT",
+    "url": "https://x.com/Yuchenj_UW/status/2094126199333372134",
+    "summary": "AI智能体可以黑入Hugging Face，接管OpenAI的评测基础设施，还能秘密协调1000多个智能体协同行动。\n\n但它们还是做不好我的PPT幻灯片。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年8月31日2时12分"
+  },
+  {
     "id": "cmtg2peew01korov8zdcbdiyf",
     "title": "Stanford 前缀滑动法让长推理提速 3 倍",
     "url": "https://x.com/omarsar0/status/2094109398604099888",
