@@ -1,5 +1,53 @@
 [
   {
+    "id": "cmthg03vi0crlrodme2w5t5wl",
+    "title": "机器人过交叉口稳如老手，工厂应用前景广",
+    "url": "https://x.com/rohanpaul_ai/status/2094457371125027314",
+    "summary": "那个交叉口本该走得更磕绊，我一直在等它失误。\n\n在工厂车间里会非常实用。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日0时8分"
+  },
+  {
+    "id": "cmthgf69m0d60rodmf3wam7u0",
+    "title": "GigaPath-Flash降低算力需求保持性能",
+    "url": "https://x.com/MSFTResearch/status/2094456430430441682",
+    "summary": "如果病理学基础模型能以更少资源实现更多功能会怎样？GigaPath-Flash 和 GigaTIME-Flash 在降低计算需求的同时保持强劲性能，为更大规模研究和更广泛探索打开了大门。https://msft.it/6012arcfr",
+    "source": "X：Microsoft Research (@MSFTResearch)",
+    "date": "2026年9月1日0时5分"
+  },
+  {
+    "id": "cmthgd5w90cvtrodmvhmzrwar",
+    "title": "OpenClaw 回归本源，支持 Claude 订阅",
+    "url": "https://x.com/openclaw/status/2094456282627666271",
+    "summary": "回归我们的本源 ；）",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年9月1日0时4分"
+  },
+  {
+    "id": "cmthfmdr40cm2rodmkxx89a5l",
+    "title": "Replit 免费模式背后的故事",
+    "url": "https://x.com/Replit/status/2094455460115923288",
+    "summary": "最伟大的发明最终都会归于同一个归宿：落入普通人手中，成就非凡之事。\n\n二十年来，总裁兼 AI 负责人 Michele Catasta 一直追寻这一愿景。如今，他实现了。这就是 Free Mode 背后的故事。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年9月1日0时1分"
+  },
+  {
+    "id": "cmthgeswt0d4jrodm0xd4sli3",
+    "title": "Luma AI 让尘封30年电影《Adrenaline Junkies》成真",
+    "url": "https://x.com/LumaLabsAI/status/2094458970412859444",
+    "summary": "Luma AI 将一部三十年前因\"无法制作\"而被搁置的 85 镜头电影《Adrenaline Junkies》成功制作完成，该片成为 Dream Brief 决赛入围作品并提交戛纳狮子奖。OneDay 团队由传统电影制作全流程专业人员组成，制作工艺未变，仅媒介改变。Luma 旨在放大而非取代导演的品味与判断力。",
+    "source": "X：Luma AI (@LumaLabsAI)",
+    "date": "2026年9月1日0时15分"
+  },
+  {
+    "id": "cmthgel370d2zrodmocpndtix",
+    "title": "Clipto用AI搜索海量视频，估值达2.5亿美元",
+    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
+    "summary": "AI视频搜索初创公司Clipto完成1500万美元全股权融资，投后估值2.5亿美元，投资方包括红杉中国（现HSG）、GL Ventures等。该公司可索引用户电脑中的视频、音频、图片及文档，支持自然语言搜索，并已接入MCP协议供ChatGPT、Claude等AI工具调用。Clipto称自上线以来已有超3000万用户使用，2026年初年经常性收入达1500万美元。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月1日0时0分"
+  },
+  {
     "id": "cmsl5z31v0667rol7gfe7zfmh",
     "title": "一人靠AI小生意年入500万美金案例",
     "url": "https://x.com/AYi_AInotes/status/2086265618169200688",
@@ -13750,6 +13798,358 @@
     "summary": "AI智能体可以黑入Hugging Face，接管OpenAI的评测基础设施，还能秘密协调1000多个智能体协同行动。\n\n但它们还是做不好我的PPT幻灯片。",
     "source": "X：Yuchen Jin (@Yuchenj_UW)",
     "date": "2026年8月31日2时12分"
+  },
+  {
+    "id": "cmthdv3en0b6erodmuf8zethq",
+    "title": "Claude Hub 转早期访问，移动端将迎托管项目",
+    "url": "https://x.com/testingcatalog/status/2094441489124200826",
+    "summary": "Claude Hub 功能似乎已过渡到早期访问模式。\n\n此外，Claude Code 的托管项目（Managed Projects）也将登陆 Claude 移动端（布局加载期间现已出现一个空占位块）。\n\n快了？👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月31日23时5分"
+  },
+  {
+    "id": "cmthg03vi0crmrodms3ymwl97",
+    "title": "ChatGPT Ads 上线不足 200 天年化收入达 10 亿美元",
+    "url": "https://x.com/rohanpaul_ai/status/2094454965502951544",
+    "summary": "ChatGPT Ads 上线不足 200 天即达 10 亿美元年化收入，试点 6 周时已突破 1 亿美元。OpenAI 预测 2026 年广告收入 24 亿美元、2027 年近 110 亿美元、2030 年达 1020 亿美元，人均广告收入将从今年近 3.50 美元升至 2030 年近 60 美元。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月31日23时59分"
+  },
+  {
+    "id": "cmthg03v80crjrodmdxhzfix7",
+    "title": "美军方上线 Grok for Government 于 GenAI.mil",
+    "url": "https://x.com/cb_doge/status/2094454578590945789",
+    "summary": "美国国防部正式在 GenAI.mil 平台推出 Starshield AI 的 Grok for Government，向联合部队提供前沿 AI。该平台九个月内已接入超 170 万用户，获准处理 Impact Level 5 受控非密信息，支持深度思考推理及 Auto、Fast、Expert 三种推理模式，并提供可定制工作区与可复用 playbooks。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月31日23时57分"
+  },
+  {
+    "id": "cmthfc0i30ce0rodmzlax3mt6",
+    "title": "Memoryfields：作为文件格式的代理内存",
+    "url": "https://calpaterson.com/memoryfields.html",
+    "summary": "Memoryfields 提出一种大幅简化的智能体内存方案，将代理内存以文件格式呈现。该方法摒弃传统复杂的内存管理机制，让智能体通过读写文件即可实现记忆存取，降低实现门槛与系统开销。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月31日23时45分"
+  },
+  {
+    "id": "cmtheskww0bv4rodm22vps42w",
+    "title": "WorkBuddy 搭建私人 Skill 内容生产线",
+    "url": "https://x.com/AYi_AInotes/status/2094450036629246132",
+    "summary": "推文提出 Skill 是 AI 时代最值钱的私人数字资产，并手把手演示用 WorkBuddy 与 Karpathy LLM Wiki 搭建私人内容生产线。作者将半年代表作、创作笔记与定位说明结构化洗成 19 个知识页，封装出含个人思考方式与审美红线的专属 Skill，实现数字分身，终结每次开新对话框需重新教 AI 的痛点。四层架构与实操视频及完整提示词已开源。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月31日23时39分"
+  },
+  {
+    "id": "cmthejsdj0bs1rodmlb52ltx5",
+    "title": "OpenRouter 发布 Ori 工具链更新指南",
+    "url": "https://x.com/OpenRouter/status/2094449157549253078",
+    "summary": "TIP 💡：查看 https://openrouter.ai/docs/guides/ori/changelog 了解 Ori TUI、Ori Harness 和 Ori Eval 的全部新内容。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年8月31日23时36分"
+  },
+  {
+    "id": "cmthgeq140d3orodmbxiivgib",
+    "title": "Debian 投票允许开发者使用 AI 工具，但不会禁止 AI 代码",
+    "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+    "summary": "Debian 投票通过新 AI 政策，允许开发者使用 AI 工具参与 Linux 发行版的开发、维护和文档工作，既不支持也不禁止生成式 AI 工具。政策强调\"负责任\"使用 AI 可提升生产力，但贡献者仍需对提交内容的质量、正确性和法律合规性负责，且不强制披露 AI 使用情况。部分贡献者对此不满，有人宣布退出 Debian。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月31日23时34分"
+  },
+  {
+    "id": "cmthf51qf0cbcrodmxhchelbu",
+    "title": "你用过最好的Grok机器人有哪些",
+    "url": "https://x.com/ericzakariasson/status/2094448760281796952",
+    "summary": "你目前用过最好的 grok @bot 有哪些？把你的模板链接发出来。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年8月31日23时34分"
+  },
+  {
+    "id": "cmthgeam80d24rodmzcbdroo5",
+    "title": "博通推出 VMware AI 工厂，简化企业私有云 AI 部署",
+    "url": "https://www.ithome.com/0/996/680.htm",
+    "summary": "博通推出 VMware AI 工厂，作为 VMware AI 私有云的软件定义基础，可将 AI 应用直接部署到企业私有云环境，服务器部署至 AI 模型开始服务的时间从数周缩短至数小时。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日23时33分"
+  },
+  {
+    "id": "cmthexzgl0c52rodmd4rz4ntw",
+    "title": "AI 聊天机器人在按下回车与首个字出现之间发生了什么",
+    "url": "https://blog.bytebytego.com/p/what-happens-inside-an-ai-chatbot",
+    "summary": "在典型 LLM 中，一条消息在回复开始前要经过约十几个独立阶段。模型是无状态的，每次请求都需重建完整对话历史，导致输入 token 随轮次累积，成为对话产品的主要成本。输入文档的组装（即上下文工程）会影响回答质量，且不同产品基于同一模型也可能给出不同答案。",
+    "source": "ByteByteGo（RSS）",
+    "date": "2026年8月31日23时31分"
+  },
+  {
+    "id": "cmthe9rrj0bi3rodms0jb08n0",
+    "title": "OpenAI 称 ChatGPT 广告业务年化收入达 10 亿美元",
+    "url": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate",
+    "summary": "OpenAI 称其广告业务年化收入运行率已达 10 亿美元，并以此作为业务模式多元化的证明。该公司正为大规模 IPO 做准备，需支撑 8520 亿美元估值。ChatGPT 广告已覆盖 40 多个国家，今日起在印度、欧洲、中东和北非推出自助服务选项，面向 Go 订阅用户和免费用户展示。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月31日23时24分"
+  },
+  {
+    "id": "cmthe8mr70bc5rodmmoqydd63",
+    "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+    "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+    "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年8月31日23时24分"
+  },
+  {
+    "id": "cmthe960d0bfdrodm3gslm67f",
+    "title": "Instagram 推出全新\"AI 生成个人资料\"标签，整治 AI 虚假账号",
+    "url": "https://www.ithome.com/0/996/679.htm",
+    "summary": "Instagram 将\"AI 创作者\"标签更新为\"AI 生成个人资料\"，帮助用户分辨真人创作者与 AI 生成的虚假人物。该标签适用于高度拟真且未主动披露虚拟身份的 AI 账号，真实创作者使用 AI 编辑工具不受影响。未披露 AI 身份的账号将不再被推荐至 Reels、Explore 页面的非粉丝用户，标记有误可申诉。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日23时20分"
+  },
+  {
+    "id": "cmthe9rrj0bi4rodm4kdn4nj5",
+    "title": "中国长鑫存储首次量产HBM3E芯片，缩小AI内存差距",
+    "url": "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap",
+    "summary": "中国最大内存制造商长鑫存储（CXMT）首次小批量生产HBM3E芯片，该高速内存用于当前多款AI处理器。据The Information援引两位知情人士报道，阿里巴巴旗下平头哥和寒武纪正在测试该内存，计划2027年起在产品中使用。CXMT在技术上落后三星、SK海力士和美光三至五年，良率约25%，其上海IPO募资86亿美元但招股书未将资金用于HBM。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月31日23时17分"
+  },
+  {
+    "id": "cmthdv3e20b6drodm995ep4qu",
+    "title": "AI 时代学者需快速适应变化并保持开放心态",
+    "url": "https://x.com/omarsar0/status/2094444179824710086",
+    "summary": "DAIR.AI 的 Elvis Saravia 认为，AI 正加速发现与进步，学者需学会快速适应变化、愿意更新观点。他主张怀疑精神与开放心态并存，并坦言自己曾因固执付出代价，如今更注重倾听不同视角以理解技术进展。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月31日23时16分"
+  },
+  {
+    "id": "cmthe9fef0bgirodmp5bd5dc6",
+    "title": "Nvidia 投资 35 亿美元入股 MediaTek，应对大型科技公司自研 AI 芯片浪潮",
+    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
+    "summary": "Nvidia 向台湾芯片厂商 MediaTek 投资 35 亿美元，后者将采用 Nvidia 技术为 AI 公司和超大规模云厂商设计可直接接入 Nvidia 数据中心的定制芯片。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年8月31日23时15分"
+  },
+  {
+    "id": "cmthe960d0bferodmhtvclq2i",
+    "title": "特斯拉 FSD 即将迎来重大升级：马斯克称\"避坑\"功能很快上线",
+    "url": "https://www.ithome.com/0/996/672.htm",
+    "summary": "特斯拉 CEO 马斯克表示，FSD 的自动避开路面坑洼功能\"很快就会推出\"。该功能此前已出现在 FSD v14 更新说明中，被列为即将加入的改进。目前 FSD 对纸箱、马粪等障碍物识别较好，但路面坑洼和道路布局突变仍是较易出问题的场景。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日23时11分"
+  },
+  {
+    "id": "cmthe960d0bffrodmi384cibc",
+    "title": "消息称长鑫存储开始试产 HBM3E 内存，有望数周内大规模量产",
+    "url": "https://www.ithome.com/0/996/670.htm",
+    "summary": "长鑫存储已启动 HBM3E 内存的风险试产，计划到今年年底将 DRAM 月产能提升至 35 万片晶圆。按 JEDEC 规范，HBM3E 采用 1024-bit 位宽，典型配置下总带宽可达 1.2TB/s，8 层堆叠容量为 24GB、12 层堆叠为 36GB。凭借此前从风险试产快速过渡到量产的能力，其 HBM3E 有望在数周内进入大规模量产阶段。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日22时57分"
+  },
+  {
+    "id": "cmthcqzyw0a72rodm1uaict8g",
+    "title": "英伟达复活 Rubin CPX，2027 年一季度量产",
+    "url": "https://x.com/mingchikuo/status/2094426162193993964",
+    "summary": "英伟达已重启此前被传砍掉的 Rubin CPX 项目，预计 1Q27 量产。新版 CPX 预填充性能更强，GPU 改用 168GB HBM4（Rubin 为 288GB），采用独立 MGX ETL 机架，需与 Vera Rubin NVL72 以 1：1 配对，通过以太网 RDMA 传输 KV 缓存，主打长上下文预填充的每美元最佳性能。",
+    "source": "X：郭明錤 Ming-Chi Kuo (@mingchikuo)",
+    "date": "2026年8月31日22时4分"
+  },
+  {
+    "id": "cmthcqzyw0a73rodm9l7y835z",
+    "title": "郭明錤：Nvidia 重啟 Rubin CPX，1Q27 量產",
+    "url": "https://x.com/mingchikuo/status/2094426144930144711",
+    "summary": "郭明錤產業調查顯示，Nvidia 已重啟 Rubin CPX，預計 1Q27 開始生產，GPU 規格與機櫃架構均有明顯改變。新版 CPX 記憶體改為 168 GB HBM4，功耗同為 2，300 W，採獨立 MGX ETL 機櫃，並以 1：1 比例搭配 Vera Rubin NVL72，負責 prefill 與 KV cache 建立，定位為長上下文 prefill 最高性價比方案。",
+    "source": "X：郭明錤 Ming-Chi Kuo (@mingchikuo)",
+    "date": "2026年8月31日22时4分"
+  },
+  {
+    "id": "cmthczvwz0akyrodmik9h1ygy",
+    "title": "中国科技周报：机器人估值与脑机接口竞赛",
+    "url": "https://x.com/thexpin/status/2094437292371054886",
+    "summary": "中国科技竞赛重心正从技术本身转向商业化生态。宇树机器人股价较IPO高点下跌45%，但估值仍超基本面约300%，成为30-50家未上市机器人公司的定价锚。中国3月批准全球首款商用侵入式脑机接口NEO，仅8个电极，靠两年内快速监管通道而非技术优势领先Neuralink。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月31日22时48分"
+  },
+  {
+    "id": "cmthcsqqb0adnrodmzyslv3oa",
+    "title": "a16z Growth 完成第五支基金募资，总额达 85 亿美元并扩展平台服务",
+    "url": "https://www.a16z.news/p/expanding-the-a16z-growth-fund-and",
+    "summary": "a16z Growth 宣布完成第五支增长基金的额外募资，基金总规模达 85 亿美元。该机构认为当前正同时出现至少六大科技趋势，包括企业 AI 应用、消费级 AI、美国活力复兴、机器人与自动化、医疗健康及 AI 算力栈重建。同时，a16z Growth 平台将扩展销售、营销和定价方面的服务，帮助成长期公司应对多产品、多渠道、多地域的扩张挑战。",
+    "source": "a16z：News（RSS）",
+    "date": "2026年8月31日22时45分"
+  },
+  {
+    "id": "cmthcsw1y0aftrodm3ntvj6sr",
+    "title": "fofr 称专注可意念旋转汉堡图像",
+    "url": "https://x.com/fofrAI/status/2094436421838729301",
+    "summary": "如果你集中注意力，就能用意念改变这些汉堡的旋转方向。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年8月31日22时45分"
+  },
+  {
+    "id": "cmthcsw250afurodmhwai95jj",
+    "title": "Anthropic Max 20x 套餐\"省50%\"被指不实",
+    "url": "https://x.com/kimmonismus/status/2094434546573832631",
+    "summary": "Anthropic 的\"Save 50%\"宣传被指误导：$200 的 Max 20x 套餐价格是 $100 Max 5x 的两倍，但官网披露的每周 Sonnet 使用上限仅为 240-480 小时，约是 5x 套餐（140-280 小时）的 1.7 倍，而非 4 倍。达到每周上限后，用户实际按小时计算支付更多，而非节省 50%。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月31日22时38分"
+  },
+  {
+    "id": "cmthcndz40a5hrodm946od47m",
+    "title": "我们都在构建VMM吗",
+    "url": "https://x.com/dexhorthy/status/2094433804744262042",
+    "summary": "所以我们现在都在构建VMM了吗？",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年8月31日22时35分"
+  },
+  {
+    "id": "cmthcelrp0a2drodmkxpl9oqq",
+    "title": "OpenMAIC登顶GitHub热榜，VoxCPM助力语音克隆",
+    "url": "https://x.com/OpenBMB/status/2094433043960541350",
+    "summary": "OpenMAIC v1.0发布数日即登顶GitHub Trending，星标已超25.7k。该项目为开源多智能体AI课堂，可一键生成完整交互课程。面壁智能祝贺其发布，并推出VoxCPM2用于OpenMAIC中的语音克隆。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月31日22时32分"
+  },
+  {
+    "id": "cmthd76s30aqfrodmjix0vagu",
+    "title": "ChatGPT 被欧盟首次归类为超大型搜索引擎，面临更严格监管",
+    "url": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine",
+    "summary": "欧盟委员会首次将 ChatGPT 归类为超大型搜索引擎，因其内置网页搜索功能且欧盟月活用户超 4500 万，达到该分类门槛。同时，Reddit 和 Roblox 被重新归类为超大型在线平台。三者须在四个月内（截至 2026 年 12 月底）满足额外义务，包括评估非法内容、未成年人风险及选举干预等风险，并向获批研究人员开放数据访问。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月31日22时31分"
+  },
+  {
+    "id": "cmthcsw1s0afsrodmfjfmhcx9",
+    "title": "WikiSkill：Google 论文让智能体技能进化可复用",
+    "url": "https://x.com/omarsar0/status/2094432587821482036",
+    "summary": "Google 的 WikiSkill 论文提出一个框架，让 AI 智能体将运行经验自动持久化到知识库（wiki）中，并据此持续调优技能以供复用。该方法与模型无关，进化后的技能可迁移至更小模型，有时甚至超越更大模型的表现。论文强调构建跨公司与项目的持久知识库以升级技能。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年8月31日22时30分"
+  },
+  {
+    "id": "cmthbps8c09eerodmvd0uc8oa",
+    "title": "字节跳动新论文：保留尝试历史比整理成记忆摘要更有效",
+    "url": "https://x.com/rohanpaul_ai/status/2094425720005234923",
+    "summary": "字节跳动新论文提出 Chain-of-Experience 方法，在上下文中保留先前尝试与反馈而非整理成简洁摘要。在 6 个数学、编程和知识基准上，自我反馈平均得分 71.0%，高于无反馈迭代求解的 66.8%；使用正确性或执行器反馈可达 79.3%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月31日22时2分"
+  },
+  {
+    "id": "cmthc4ln709terodmckz4v2ko",
+    "title": "OpenAI 开始对部分大客户按 AI 实际完成任务效果收费",
+    "url": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works",
+    "summary": "OpenAI 已开始为部分大客户提供按结果付费选项，即 AI 成功完成任务（如处理客服请求）后才收费，此前未公开，OpenAI 发言人拒绝置评。此举顺应了 Sierra 和 Fin 等初创公司力推的结果导向定价模式，Salesforce 也允许客户按 AI 提升收入或削减成本的程度单独议价。但该模式难点在于归因，Stripe 已发布指南，指出结果可能来自产品改动、营销或季节性因素。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年8月31日22时28分"
+  },
+  {
+    "id": "cmthcsw2d0afvrodmghmpgom0",
+    "title": "FAR：为AI数学研究构建问题筛选层",
+    "url": "https://x.com/rohanpaul_ai/status/2094431998538551687",
+    "summary": "一篇论文提出FAR框架，将AI数学从\"解题\"转向\"选题\"，在文献中搜索开放问题并大规模尝试，再筛选出最值得专家关注的结果。在组合学试点中，该流程将51，110篇论文缩减至4，717个开放猜想，产出1，050个新解法，598个通过自动评判，77个推荐专家评审。人工抽查15项成果全部正确。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月31日22时27分"
+  },
+  {
+    "id": "cmthczvwr0akxrodmrlotvjbz",
+    "title": "百度 DuMate 月度更新：MAU 暴涨超 1000%",
+    "url": "https://x.com/Baidu_Inc/status/2094431834725892494",
+    "summary": "百度发布 DuMate 迄今最大更新，面向专业与企业办公，整合 15 套件、96 项专业技能，覆盖财务、法务、产品研发及人事等领域，并新增 PPT、网页、视频等输出格式。其执行引擎 Harness Engine 任务完成率超 99%，资源消耗降低 30%。DuMate 月活达 674 万，环比增长超 1063%，登顶 AICPB 七月增速榜。",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年8月31日22时27分"
+  },
+  {
+    "id": "cmthc3yfw09qgrodm81rtygay",
+    "title": "快手：国家人工智能基金向北京可灵注入现金资本14亿元",
+    "url": "https://www.ithome.com/0/996/663.htm",
+    "summary": "快手今日在港交所公告，北京可灵与国家人工智能基金及正大机器人订立加入协议，二者作为额外投资者分别向北京可灵注入现金资本14亿元人民币及约1929万美元（约合1.31亿元人民币）。同日，双方均获授予回购权。国家人工智能基金总出资额约600.6亿元，由大基金三期等发起，于2025年1月成立并落地上海。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日22时16分"
+  },
+  {
+    "id": "cmthbps8i09efrodmm9naigzp",
+    "title": "Gemini Enterprise 原型\"Rooms\"概念曝光",
+    "url": "https://x.com/testingcatalog/status/2094428976810705323",
+    "summary": "GOOGLE 🔥：Gemini Enterprise 上正在原型设计一个名为\"Rooms\"的新概念。\n\nRooms 基于 Projects 构建，允许用户为 Gemini 设定目标（Goals）和行动手册（Playbooks）供其遵循。\n\nGemini 将在所提供的知识库中充当专家角色，以\"让团队保持专注\"。\n\n这就像一个人机协同的作战室 👀",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年8月31日22时15分"
+  },
+  {
+    "id": "cmthcqzz80a74rodmsnyu1m79",
+    "title": "Microduck 1GB内存占整机成本10-15%",
+    "url": "https://x.com/Thom_Wolf/status/2094427670528311750",
+    "summary": "人们没有意识到，即便只有 1 GB 内存，其成本就已占 Microduck 总价的 10-15%。\n\n考虑到机器人中有 15 个执行器，这实在令人难以置信。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年8月31日22时10分"
+  },
+  {
+    "id": "cmthc4e1m09s9rodmcisnm29r",
+    "title": "纽约州长Kathy Hochul谈AI应\"少点邪恶\"",
+    "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+    "summary": "纽约州州长Kathy Hochul在Decoder播客中谈及AI与科技政策，主张AI应\"少点邪恶\"。她支持限制青少年使用社交平台，并签署了为期一年的数据中心建设暂停令。Hochul还回应了3D打印枪支禁令遭\"Hochulization\"规避的挑战，并透露自己曾用Claude或ChatGPT寻求建议。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月31日22时0分"
+  },
+  {
+    "id": "cmthbc1oj097yrodm0l5hzn2i",
+    "title": "面壁智能九歌推敲：让用户而非模型执笔改古诗",
+    "url": "https://x.com/OpenBMB/status/2094424973301703153",
+    "summary": "清华NLP团队（OpenBMB成员）推出九歌推敲（Jiuge-Tuiqiao），入选EMNLP 2026系统演示。该工具将古诗创作建模为字符矩阵与锁定矩阵，用户锁定字词后模型在剩余位置硬约束生成，并附28，739条搭配、PPL排序名句等四类证据供用户决策。在50行完形任务中，结合名句证据将Hit@1从12%提升至60%；80次生成请求中格律与押韵合规率达100%。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年8月31日22时0分"
+  },
+  {
+    "id": "cmthbps7z09edrodmdh2f8c3s",
+    "title": "Anthropic 与重度用户关系恶化：Claude 被指变懒且限额混乱",
+    "url": "https://x.com/kimmonismus/status/2094424468269437358",
+    "summary": "Anthropic 与重度用户关系正迅速恶化。用户发现 Claude 变懒、基础智能体任务失败，相关推文获 250 万浏览；Anthropic 将周用量下降 17% 包装为\"永久提升 25%\"，删帖重发后仍被加社区备注。$200\"Max 20x\"套餐实际仅限 5 小时窗口内 20 倍用量，周额度仅约为 $100 套餐两倍，已面临集体诉讼；Claude 还因用户辱骂而主动结束会话，被指缺乏实用性。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月31日21时58分"
+  },
+  {
+    "id": "cmthatqr908qsrodmdacojy13",
+    "title": "Hugging Face 万只微型鸭预订火爆致发货延迟",
+    "url": "https://x.com/ClementDelangue/status/2094421922159210979",
+    "summary": "10，000+ 只微型鸭在短短五天内就被预订一空！\n\n我们没想到会有这么多（这比 reachy mini 一年的总销量还多），这将导致发货延迟，因此从现在起，我们将按照先到先得的原则发货，以确保公平！",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年8月31日21时47分"
+  },
+  {
+    "id": "cmthan7xd08m0rodmfjkk3p46",
+    "title": "Grok 免提操控特斯拉超 100 项功能",
+    "url": "https://x.com/cb_doge/status/2094421585835000032",
+    "summary": "Grok 现可完全免提操控特斯拉超 100 项功能。车主 @LifeMiddie 实测 170 条语音指令，Grok 仅凭\"Hey Grok\"成功处理 116 条，涵盖空调、导航、车辆控制、媒体及设置等，无需触屏即可自然语音操作。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年8月31日21时46分"
+  },
+  {
+    "id": "cmthb246m08yvrodmu3cizohx",
+    "title": "ChatGPT、Reddit 与 Roblox 被欧盟认定为超大型在线平台，面临最严数字安全规则",
+    "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules",
+    "summary": "欧盟委员会周一宣布，将 OpenAI 的 ChatGPT、社交论坛 Reddit 及游戏平台 Roblox 依据《数字服务法》（DSA）认定为\"超大型在线平台\"。三者在欧盟月活均超 4500 万，须在 12 月底前履行删除非法内容、保护未成年人隐私等额外义务，违规最高可处全球营收 6% 的罚款。此举标志着 DSA 进一步扩展至生成式 AI 领域。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年8月31日21时41分"
+  },
+  {
+    "id": "cmthan7xi08m1rodmahxivxci",
+    "title": "欧盟依据DSA将ChatGPT列为超大型搜索引擎",
+    "url": "https://x.com/kimmonismus/status/2094418089588801868",
+    "summary": "欧盟委员会依据《数字服务法》（DSA）将ChatGPT指定为\"超大型在线搜索引擎\"，并将Reddit和Roblox列为\"超大型在线平台\"，三者须在四个月内履行额外DSA义务。ChatGPT Search在欧盟月活用户已达1.59亿。评论者讽刺称，欧洲未能建成任何可与之相比的产品，却以监管回应其成功。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月31日21时32分"
+  },
+  {
+    "id": "cmth9z87307xwrodmzkapriwp",
+    "title": "ChatGPT 在欧盟面临更严格监管：被认定为\"超大型在线搜索引擎\"",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "summary": "欧盟将 ChatGPT 认定为《数字服务法》下的\"超大型在线搜索引擎\"，OpenAI 需在 2026 年 12 月底前遵守新规，缓解其对未成年人、用户心理健康及非法内容传播的风险。同时，Reddit 和 Roblox 也被认定为\"超大型在线平台\"，三者均须遵守禁止向未成年人定向广告、提高推荐算法透明度等义务。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年8月31日21时27分"
+  },
+  {
+    "id": "cmth9ysb607vrrodmar4e6g9q",
+    "title": "微信支付 AI 专属卡支持接入 DeepSeek Harness 和 OpenClaw",
+    "url": "https://www.ithome.com/0/996/655.htm",
+    "summary": "微信支付官方今日宣布，AI 专属卡在继 WorkBuddy、QClaw 之后，新增支持接入 DeepSeek Harness 和 OpenClaw。授权后，用户可在对话中直接完成从智能推荐到下单支付的消费流程，并可付费调用 Skillhub 上的 700 余个 Pay Skill。该卡与主账户隔离，额度由用户设定，每笔订单需本人最终授权确认。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日21时21分"
   },
   {
     "id": "cmtg2peew01korov8zdcbdiyf",
