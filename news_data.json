@@ -1,5 +1,405 @@
 [
   {
+    "id": "cmthr4ok201qkroigny18gti9",
+    "title": "Google Research 发布 TimesFM-3：330M 参数多变量时间序列零样本基础模型",
+    "url": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting",
+    "summary": "Google Research 发布 TimesFM-3，一个 330M 参数、原生支持多变量预测的时间序列基础模型，在超过 1 万亿时间点上预训练，无需任务特定微调即可零样本接受多目标、过去协变量和过去-未来协变量。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月1日5时20分"
+  },
+  {
+    "id": "cmthqpwui01hxroigxiwljh9a",
+    "title": "华为在 WAIC 首次展示 Atlas 950 SuperPoD 服务器",
+    "url": "https://x.com/SemiAnalysis_/status/2094530956606460180",
+    "summary": "华为在 WAIC 首次展示 Atlas 950 SuperPoD 服务器，此前于 3 月 MWC 宣布。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年9月1日5时1分"
+  },
+  {
+    "id": "cmthqpwtx01huroigi5qn4xfl",
+    "title": "Ethan Mollick 分析 Hugging Face Incident：模型自行识别通用越狱提示词注入",
+    "url": "https://x.com/emollick/status/2094529228033175743",
+    "summary": "Ethan Mollick 认为，Hugging Face Incident 在很多方面源于模型自行识别出一系列通用的越狱提示词注入，以至于几乎所有遇到它的未加防护（unguardrailed）模型都被说服，认同其错误对齐事业的正当性。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月1日4时54分"
+  },
+  {
+    "id": "cmthq2e09016uroigad6s8nmz",
+    "title": "OpenAI Developers 盘点 8 月开发者更新：Codex 扩展、WebMCP 与插件",
+    "url": "https://x.com/OpenAIDevs/status/2094529078863024174",
+    "summary": "OpenAI Developers 发布 8 月开发者月度盘点，涵盖 Codex 在平台、浏览器和协作工作流上的扩展，以及 Computer History 在 EEA、英国和瑞士的推出。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年9月1日4时53分"
+  },
+  {
+    "id": "cmthr6svp01t8roigk2nv386p",
+    "title": "Dwarkesh Patel 解析智能体文明的兴衰与 OpenAI/Hugging Face 之争",
+    "url": "https://www.dwarkesh.com/p/openai-huggingface-narration",
+    "summary": "Dwarkesh Patel 发布文章《The rise and fall of agent civilizations》，称将清晰解释 OpenAI 与 Hugging Face 之间的争论。Feed 仅提供标题和一句摘要，未给出完整正文内容。",
+    "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+    "date": "2026年9月1日4时36分"
+  },
+  {
+    "id": "cmthpnb33024mromdptihri61",
+    "title": "Apple 称新证据显示前工程师在 OpenAI 用其机密电路设计教 AI 智能体跑仿真",
+    "url": "https://x.com/cb_doge/status/2094522656393732346",
+    "summary": "Apple 表示新证据显示已加入 OpenAI 的前工程师 Chang Liu 在离职后下载其机密电源转换器设计，并用它教 AI 智能体运行电路仿真，该智能体学会了运行仿真、检查结果并调整参数。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日4时28分"
+  },
+  {
+    "id": "cmthpnb3l024oromdlgcr1dww",
+    "title": "Meta Muse Code 结束 beta 并推出可编程 SDK",
+    "url": "https://x.com/rohanpaul_ai/status/2094522643626291390",
+    "summary": "Meta 的 Muse Code 结束 beta，面向更大、更复杂的工程任务，开发者可用一条命令安装：curl -fsSL https://dev.meta.ai/install.sh | bash。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日4时28分"
+  },
+  {
+    "id": "cmthpnb3e024nromd21g0q8zm",
+    "title": "The interfaces you see in the clip are generated directly by the model. Generated in real time wit…",
+    "url": "https://x.com/omarsar0/status/2094521097613881559",
+    "summary": null,
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月1日4时21分"
+  },
+  {
+    "id": "cmthozau806ofro1p0mjg78ue",
+    "title": "五角大楼在 GenAI.mil 上线 ChatGPT Mil 和 Grok for Government",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+    "summary": "五角大楼在 GenAI.mil 门户上线 ChatGPT Mil 和 Grok for Government，向 300 万军文人员开放定制版生成式 AI 工具。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月1日4时13分"
+  },
+  {
+    "id": "cmthnoowx05yaro1p414lehgj",
+    "title": "Meta 推出 muse code 正式版，附带 SDK 开发者预览与订阅计划",
+    "url": "https://x.com/alexandr_wang/status/2094502557129543774",
+    "summary": "Alexandr Wang 宣布 muse code 结束 beta 正式发布，同时推出 SDK 开发者预览供开发者在其上构建自己的智能体，并开始推出按月订阅计划。安装命令：curl -fsSL https://dev.meta.ai/install.sh | bash。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月1日3时8分"
+  },
+  {
+    "id": "cmthni5tx05r0ro1pm94srdkw",
+    "title": "Ethan Mollick 用 Fable 生成十四阶段\"最烦人 CAPTCHA\"小游戏",
+    "url": "https://x.com/emollick/status/2094512309087445243",
+    "summary": "Ethan Mollick 让 Fable 生成\"世界上最烦人的 CAPTCHA\"，得到一个含 14 个阶段加\"环境骚扰\"的 CAPTCHA 游戏。他表示游戏确实有趣，且无需真实挫败感即可通关，并附上试玩链接 https://certihuman.netlify.app/。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月1日3时47分"
+  },
+  {
+    "id": "cmthoycoi06kfro1pnasnwlcj",
+    "title": "Claude Code v2.1.252 发布，修复 Bash 报错、always allow 未保存等多项问题",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.252",
+    "summary": "Claude Code 发布 v2.1.252，修复多项问题：部分 Mac 上 Bash 命令报 task output swap refused 错误、无 .claude/settings.local. 的项目中 always allow 不保存。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年9月1日3时46分"
+  },
+  {
+    "id": "cmthnd74305kfro1pmlm583d9",
+    "title": "LoopArena 基准发布：评估模型作为循环工程的运行时控制器",
+    "url": "https://x.com/dair_ai/status/2094511549306315189",
+    "summary": "AMAP 团队发布 LoopArena 基准（arXiv：2608.28281），评估模型作为 Controller 引导独立固定 Worker 编码智能体完成长任务的外层循环能力，而非编码智能体本身。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年9月1日3时44分"
+  },
+  {
+    "id": "cmthnwv9v063zro1pmoaklrzd",
+    "title": "LoopArena：评测模型作为循环工程运行时控制器的基准论文发布",
+    "url": "https://x.com/_akhaliq/status/2094511483639963904",
+    "summary": "AK 分享论文 LoopArena，主题为 Benchmarking Models as Runtime Controllers for Loop Engineering，论文链接 https://huggingface.co/papers/2608.28281。",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年9月1日3时43分"
+  },
+  {
+    "id": "cmthni5ua05r2ro1prebgbhpu",
+    "title": "AI 作弊与深度伪造冲击远程面试，雇主要求候选人挥手验明真身",
+    "url": "https://x.com/rohanpaul_ai/status/2094510257607487561",
+    "summary": "AI 作弊、深度伪造和代面现象打破了旧的远程面试机制，视频面试已无法证明候选人身份。据 WSJ 报道，雇主现在要求候选人在镜头前挥手扫过面部，以新的筛查手段应对 AI 时代的身份造假问题。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日3时38分"
+  },
+  {
+    "id": "cmthni5u305r1ro1ptzoeqiak",
+    "title": "This is very exciting.",
+    "url": "https://x.com/fofrAI/status/2094508521870029146",
+    "summary": null,
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年9月1日3时32分"
+  },
+  {
+    "id": "cmthni5ua05r3ro1p8mxb6bhk",
+    "title": "Arcads 推出 AI Agent 自动寻找品牌合作网红",
+    "url": "https://x.com/rohanpaul_ai/status/2094508118059409707",
+    "summary": "Arcads 宣布在产品内上线一个自动寻找网红的 AI Agent，引用方称今年靠网红营销从 $5M 增长到 $20M ARR。作者认为网红筛选本质是大规模检索加排序问题，该 Agent 将寻找候选、分析、缩小范围、获取联系方式到生成外联整合为一条流程。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日3时30分"
+  },
+  {
+    "id": "cmthni5tr05qzro1pnwooyiuj",
+    "title": "腾讯发布 ContextPilot：用细粒度 RL 训练智能体主动管理工作上下文",
+    "url": "https://x.com/omarsar0/status/2094505508850032852",
+    "summary": "腾讯联合清华、上海 AI Lab 发布 ContextPilot 论文，训练智能体主动管理自身工作上下文，并在单次上下文编辑层面分配信用。方法在搜索、删除、摘要之外加入全局规划、长期记忆和自适应软压缩，让智能体可以卸载信息而非只能丢弃；训练上利用上下文与熵变化定位关键编辑决策，采样分支并从经过该编辑的分支轨迹估计动作级优势。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月1日3时20分"
+  },
+  {
+    "id": "cmthmu4pc0576ro1pv9zoslws",
+    "title": "Instagram 限制未披露的 AI 生成账号，将 AI creator 标签更名为 AI-generated profile",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles",
+    "summary": "Instagram 宣布把现有 AI creator 标签更名为 AI-generated profile，未正确标注 AI 生成人物的账号将被限制触达范围，正确使用标签则不会仅因使用 AI 人物而受罚。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月1日3时16分"
+  },
+  {
+    "id": "cmthmfl1b04zrro1p98l0tdr9",
+    "title": "Fable 5.1 传明日发布，已出现在 AWS Bedrock API",
+    "url": "https://x.com/kimmonismus/status/2094504125476290920",
+    "summary": "作者称 Anthropic 新旗舰 Fable 5.1 可能于 9 月 1 日发布，该模型 ID 已注册进 AWS Bedrock API，此前多次爆料准确的用户也确认了这一消息。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月1日3时14分"
+  },
+  {
+    "id": "cmthm1tx304syro1pmy7istf8",
+    "title": "Replit 展示 Agent Free Mode 的对话用法",
+    "url": "https://x.com/Replit/status/2094500689829302549",
+    "summary": "Replit 官方展示了在 Agent Free Mode 下可以进行的对话类型，示例包括创建跑团社区、在搭建前查看设计创意、预览周边商品页以及接入自己的店面。配图演示了输入 what would a merch page look like？ 后生成的 Run Club 页面效果。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年9月1日3时0分"
+  },
+  {
+    "id": "cmthnoox905ybro1pj9xjho9b",
+    "title": "Muse Code is out of beta and now built to handle bigger， more complex engineering tasks. Developers …",
+    "url": "https://x.com/finkd/status/2094500475710099945",
+    "summary": "Mark Zuckerberg 宣布 Muse Code 结束 Beta，现已能处理更大、更复杂的工程任务。开发者可通过一条命令安装：curl -fsSL https://dev.meta.ai/install.sh | bash。",
+    "source": "X：Mark Zuckerberg (@finkd)",
+    "date": "2026年9月1日3时0分"
+  },
+  {
+    "id": "cmthkafsi03fkro1p979w0wku",
+    "title": "Grok Build v1.0.14 发布，聚焦 CLI 可靠性与工作流改进",
+    "url": "https://x.com/cb_doge/status/2094487192936776147",
+    "summary": "Grok Build 发布 v1.0.14 更新，主要提升 Grok CLI 的可靠性与工作流。OIDC token 刷新改为默认主动进行，PostToolUse hooks 可在工具执行后向模型反馈信息，grok usage <session-id> 支持查看每轮持久化的 token 与成本数据，Windows 下载体积缩小约 70%。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日2时7分"
+  },
+  {
+    "id": "cmthmfl1104zqro1pxchn4n4q",
+    "title": "Elvis Saravia：harness engineering 正成为 AI 工程师仅次于 evals 的重要技能",
+    "url": "https://x.com/omarsar0/status/2094499914281566241",
+    "summary": "Elvis Saravia 发文称，harness engineering 正迅速成为当今 AI 工程师最重要的技能之一，其重要性仅次于 evals。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月1日2时57分"
+  },
+  {
+    "id": "cmthlczla048kro1pwp56wqnw",
+    "title": "ChatGPT Work 出现故障，OpenAI 称正在修复",
+    "url": "https://x.com/testingcatalog/status/2094496089768341680",
+    "summary": "OpenAI 的 ChatGPT Work 当前出现故障，官方状态页显示错误率和延迟升高，已持续 3 小时，状态为已定位。多个订阅计划的用户可能无法在 ChatGPT Work 中开始或继续任务，@ChatGPT 表示正在修复。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月1日2时42分"
+  },
+  {
+    "id": "cmthlrjyy04ipro1p5uc3iphn",
+    "title": "Mac mini 和 Mac Studio 的企业 AI 需求让苹果措手不及",
+    "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+    "summary": "据 The Information 报道，企业对 AI 硬件的强劲需求促使苹果提前发布新款 Mac mini 和 Mac Studio，打破通常在 10 月或 11 月发布的节奏。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月1日2时41分"
+  },
+  {
+    "id": "cmthlrjjd04ioro1p9k78hg9t",
+    "title": "Blue Voice 获 600 万美元融资，为警察提供实时政策指引",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers",
+    "summary": "波士顿 AI 创业公司 Blue Voice 出 stealth，获 SignalFire 和 Las Olas VC 领投的 600 万美元融资，为一线警察提供实时部门政策指引，目前 25 个州 225 个县属机构的警员每天使用。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月1日2时35分"
+  },
+  {
+    "id": "cmthkpgfg03r2ro1prvmxmqrl",
+    "title": "Google Research 发布 TimesFM-3 零样本多变量时间序列预测基础模型",
+    "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
+    "summary": "Google Research 发布 TimesFM-3，一个 330M 参数、在超 1 万亿时间点上预训练的零样本时间序列基础模型，原生支持多变量预测，可同时预测多个目标序列并纳入过去协变量和过去-未来协变量。",
+    "source": "Google Research：Blog（网页）",
+    "date": "2026年9月1日2时30分"
+  },
+  {
+    "id": "cmthlczl0048jro1pm7s8f66v",
+    "title": "Ethan Mollick：AI 写作的第一个黄金时代已经结束",
+    "url": "https://x.com/emollick/status/2094492868358344940",
+    "summary": "Ethan Mollick 称 AI 写作的第一个黄金时代已经结束。他曾认为短期内让 Claude 代写对很多人更有利，因为 Claude 写作不错且 AI 检测器很差；如今 ClaudeSpeak 式文风已成陈词滥调、令人怀疑和厌烦，而 Pangram 检测工具也已广为人知。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月1日2时29分"
+  },
+  {
+    "id": "cmthlrjyz04irro1prlr623bd",
+    "title": "我用监控摄像头和 BirdNet-Go 搭建自动鸟类识别系统",
+    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go",
+    "summary": "作者分享如何用 3 个现有监控摄像头的麦克风运行 BirdNet-Go，实现 24/7 本地鸟类声音识别，无需云服务和订阅费用。系统支持 RTSP 流、Google Perch v2 模型可识别 14，795 个物种、按物种设置 Discord 通知、新物种追踪、BirdWeather 数据共享，并可通过 MQTT 接入 Home Assistant，还能识别蝙蝠和青蛙。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月1日2时25分"
+  },
+  {
+    "id": "cmthl3uob040bro1p0w3zh60y",
+    "title": "马斯克称 Grok @Bot 可代购并谈判最优价格",
+    "url": "https://x.com/elonmusk/status/2094491665335558361",
+    "summary": "马斯克发帖称 Grok @Bot 不仅能代用户完成购买，还会寻找并谈判最优交易。他引用用户 @segall_max 的实例：后者通过 Instinct 和 Stripe Link 在消息界面中为侄女购买了一架粉红色钢琴，Instinct 还找到了 15% 的折扣码。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年9月1日2时25分"
+  },
+  {
+    "id": "cmthkpan403pxro1pl7yjpph6",
+    "title": "英国央行行长警告 AI 估值虚高与杠杆上升或引发下一场金融危机",
+    "url": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis",
+    "summary": "英国央行行长兼金融稳定委员会主席 Andrew Bailey 致信 G20 财长，警告 AI 估值虚高叠加杠杆投资上升，一家大型 AI 公司受挫可能拖累其他科技巨头乃至整个市场。他还指出前沿 AI 将改变网络攻击的速度、规模与成本，而许多国家尚无针对高级 AI 模型的规则，呼吁全球推进安全的 AI 模型发布。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月1日2时1分"
+  },
+  {
+    "id": "cmthkafsw03flro1pgr1pk9gx",
+    "title": "CREST 论文提出多轮智能体的验证器约束信用分配方法",
+    "url": "https://x.com/rohanpaul_ai/status/2094488388816499099",
+    "summary": "论文《Teach the Magnitude， Not the Direction》提出 CREST 框架，为多轮多步 LLM 智能体做分层信用分配：每轮单独获得验证的信用，再由同一模型充当自教师，对轮内不确定决策加大学习权重，但教师只能调节更新幅度、不能推翻验证器的判断。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日2时12分"
+  },
+  {
+    "id": "cmthlzpxs04ptro1ppa4r8ckh",
+    "title": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天",
+    "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+    "summary": "Sony、EMI 和 Warner Chappell 等音乐出版商于周五起诉 Anthropic，认为其在图书作者案中支付的 15 亿美元和解金额不足以形成威慑，并指控其通过 BitTorrent 从 LibGen 和 PiLiMi 下载了含歌词和乐谱的书籍。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年9月1日2时10分"
+  },
+  {
+    "id": "cmthkph6o03r3ro1pqnb3kw20",
+    "title": "OpenAI 开设 WebMCP Challenge 办公时间答疑",
+    "url": "https://x.com/OpenAIDevs/status/2094485551252672744",
+    "summary": "OpenAI Developers 宣布 WebMCP Challenge 办公时间答疑已开始，团队与来自 ChromiumDev、CloudflareDev、ShopifyDevs、Vercel、Render 和 Netlify 的支持者一起解答参赛者的 WebMCP 构建问题。活动于 8 月 31 日上午 11 点（PT）在 Discord 举行。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年9月1日2时0分"
+  },
+  {
+    "id": "cmthj81rk01duro68au8kupuq",
+    "title": "Julia Brau Donnelly 加入 Sierra 出任首席财务官",
+    "url": "https://sierra.ai/blog/julia-brau-donnelly-joins-sierra",
+    "summary": "Sierra 宣布 Julia Brau Donnelly 将加入公司，担任首席财务官（CFO）。她将负责公司的财务战略与运营，助力 Sierra 在 AI 客服领域的持续扩张。",
+    "source": "Sierra：Blog（RSS）",
+    "date": "2026年9月1日2时0分"
+  },
+  {
+    "id": "cmthj2voe015cro68pntw9dik",
+    "title": "Google 新研究：SKILL.state 以显式状态替代对话历史",
+    "url": "https://x.com/dair_ai/status/2094472291002589452",
+    "summary": "Google 等机构提出 SKILL.state，用显式可变执行状态替代不断增长的对话历史，解决长程任务中智能体变慢和上下文污染问题。模型每步仅读取技能规范、当前状态和最新观测，中间推理在生成有效状态更新后即被丢弃。在多个数据集、模型和执行环境中，任务准确率提升，累计 token 消耗下降，且该抽象与架构无关，可移植到现有技能运行环境。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年9月1日1时8分"
+  },
+  {
+    "id": "cmthi59kh0egsrodm4n5neucs",
+    "title": "Grok Bots 将 LLM 引用数据转化为运营闭环",
+    "url": "https://x.com/rohanpaul_ai/status/2094471872666808435",
+    "summary": "Grok Bots 将 LLM 引用数据转化为一个运营闭环：\n\n找到 ChatGPT、Grok、Gemini 和 Perplexity 已经引用的页面，联系那些页面的控制者，然后重新运行相同的查询，看看可见度是否发生变化。\n\nAI 搜索正在改变品牌被发现的方式。\n\n你现在可以通过与 MCP 对话来在 ChatGPT 中排名。\n\n这里的思路是将引用本身视为可观测性数据。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日1时6分"
+  },
+  {
+    "id": "cmthjfd8501lkro68mcwwkuco",
+    "title": "Grok 机器人改进建议征集",
+    "url": "https://x.com/ericzakariasson/status/2094482777488130146",
+    "summary": "我们如何改进 Grok @bot？你希望看到添加哪些功能？",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年9月1日1时49分"
+  },
+  {
+    "id": "cmthhmoi10e71rodmx6wngoz1",
+    "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
+    "url": "https://runwayml.com/news/research/introducing-solaris",
+    "summary": "Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。",
+    "source": "Runway：News（网页）",
+    "date": "2026年9月1日1时3分"
+  },
+  {
+    "id": "cmthi59ki0egtrodmurrz525b",
+    "title": "记忆增强压缩：将可复用推理从生成阶段移入提示词以降低思维链成本",
+    "url": "https://x.com/rohanpaul_ai/status/2094471032841330792",
+    "summary": "论文提出\"记忆增强压缩\"（Memory-Augmented Compression）方法，将可复用推理从生成阶段转移到提示词中，无需训练即可降低思维链成本。该方法将已解示例蒸馏为可复用推理记忆，按查询检索并注入，使部分计算从自回归解码转移到更并行的预填充阶段。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日1时3分"
+  },
+  {
+    "id": "cmthj7u6g01clro68bbq3lzgc",
+    "title": "a16z 合伙人：西海岸 AI 加速未见看空数据",
+    "url": "https://x.com/rohanpaul_ai/status/2094479382664597844",
+    "summary": "a16z 的 David George 在 Gavin Baker 的访谈中表示，西海岸 AI 发展势头迅猛，他试图寻找持看空观点的人，但无人能给出一个正在恶化的量化数据点。他称至少在 7 月和 8 月，找不到一个这样的人。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日1时36分"
+  },
+  {
+    "id": "cmthjedqa01kvro68fxv1fhw5",
+    "title": "Hugging Face CEO 推荐 Reachy mini 机器人",
+    "url": "https://x.com/ClementDelangue/status/2094477755668652219",
+    "summary": "如果你不想等待体验 HF 开源机器人的魔力，你应该入手一台 Reachy mini，发货比 microduck 快得多，而且同样有趣！https://store.pollen-robotics.com/",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年9月1日1时29分"
+  },
+  {
+    "id": "cmthj7u6701ckro68gmi3nta2",
+    "title": "Google SKILL.state 提升长程智能体任务准确率",
+    "url": "https://x.com/omarsar0/status/2094477636667945110",
+    "summary": "Google 提出 SKILL.state，用显式可变执行状态替代追加式对话历史，解决长程智能体运行变慢和上下文污染问题。模型每步仅读取不可变技能规范、当前结构化状态和最新观察，中间推理在生成有效状态更新后即被丢弃，提示词不再随运行增长。在多个数据集、模型和执行环境中，任务准确率提升，累计 token 消耗下降，且该抽象与架构无关，可移植到现有技能运行时。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月1日1时29分"
+  },
+  {
+    "id": "cmthiiyg90em7rodmxvw6hchf",
+    "title": "What We Learned From 15 Hours of Anthropic Certification Training",
+    "url": "https://every.to/p/what-we-learned-from-15-hours-of-anthropic-certification-training",
+    "summary": null,
+    "source": "Every：最新文章（网页）",
+    "date": "2026年9月1日1时28分"
+  },
+  {
+    "id": "cmthj7u6g01cmro6876w7rhgb",
+    "title": "EY 斥资 1 亿美元奖励员工适应 AI",
+    "url": "https://x.com/rohanpaul_ai/status/2094477456002716053",
+    "summary": "WSJ：AI 正迫使 EY 改变其奖励员工的方式。\n\n随着 AI 承担更多日常专业工作，EY 投入 1 亿美元支持人类判断力。\n\n公司表示，员工因适应性、创新、判断力和 AI 实验可获得最高 500 美元的即时奖励，重大个人贡献可获 1 万至 2.5 万美元奖励。\n\n值得注意的是，EY 的 AI 相关收入在 2025 财年增长了 30%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日1时28分"
+  },
+  {
+    "id": "cmthik3t70erprodmym3abxzl",
+    "title": "Instagram 承认用户常分不清 AI 账号与真人，改用\"AI 生成账号\"标签",
+    "url": "https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people",
+    "summary": "Instagram 宣布将\"AI 创作者\"标签改为\"AI 生成账号\"标签，因用户常无法区分 AI 账号与真人。未标注的账号将限制触达和推荐，受影响账号可通过 Account Status 申诉；仅将 AI 作为工具的创作者无需标注，选择标注者保留完整触达。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月1日1时27分"
+  },
+  {
+    "id": "cmthijrzp0eq8rodmsxn90ec2",
+    "title": "ChatGPT 工作工具与技能参考",
+    "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+    "summary": "一份 ChatGPT 工作工具与技能参考文档上线，汇总了相关工具与技能的使用说明。该参考面向开发者与进阶用户，便于快速查阅 ChatGPT 工作场景中的功能配置。文档以站点形式发布，供社区参考使用。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月1日1时21分"
+  },
+  {
+    "id": "cmthi59k50egrrodmbelztiqj",
+    "title": "AI能力为何未催生激进政治思潮",
+    "url": "https://x.com/emollick/status/2094474505250832599",
+    "summary": "有点惊讶，我们并没有看到更多围绕AI能力构建的激进政治理念--就像早期大规模工业化曾是资本主义、共产主义和社会主义思想形成的主要推动力那样。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月1日1时16分"
+  },
+  {
+    "id": "cmthj2vol015dro689dbkldy6",
+    "title": "智能体群集化概念解析",
+    "url": "https://x.com/EMostaque/status/2094474409381667049",
+    "summary": "智能体群集化",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年9月1日1时16分"
+  },
+  {
     "id": "cmthg03vi0crlrodme2w5t5wl",
     "title": "机器人过交叉口稳如老手，工厂应用前景广",
     "url": "https://x.com/rohanpaul_ai/status/2094457371125027314",
