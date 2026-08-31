@@ -13784,12 +13784,412 @@
     "date": "2026年8月31日1时10分"
   },
   {
+    "id": "cmtgz90xn0eb2rochivsge3y1",
+    "title": "工信部：加大大模型、智能体、Token 等服务采购力度",
+    "url": "https://www.ithome.com/0/996/543.htm",
+    "summary": "工业和信息化部办公厅发布通知，开展人工智能应用服务商培育专项行动，目标到2026年底全国服务商资源池内数量突破2000家，到2027年底不少于3000家。行动提出探索通过首购首用、风险补偿等模式，加大大模型、智能体、Token 等服务采购力度，并推动优质人工智能应用项目出海落地。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日16时5分"
+  },
+  {
+    "id": "cmtgzn9w80enurochw24cmjvc",
+    "title": "火山引擎发布联网问答 Agent 教育行业版本，开放「豆包爱学」同款拍题答疑与作业批改能力",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543810&idx=1&sn=75ac04a94faf3174cab4c3b1636eec1a",
+    "summary": "火山引擎正式发布联网问答 Agent 教育行业版本，将「豆包爱学」同款拍题答疑、作业批改等 AI 辅导能力对外开放。该版本覆盖小学至高中全学科，支持分步讲题、整页智能判分，并依托豆包搜索整合上百个权威信源保障内容可信。教育类 APP、智能硬件及进校设备厂商现可通过火山引擎控制台接入。",
+    "source": "公众号：火山引擎",
+    "date": "2026年8月31日16时33分"
+  },
+  {
+    "id": "cmtgz2c660dynroch6bpi517j",
+    "title": "MetaX上半年扭亏为盈，国产GPU量产交付",
+    "url": "https://x.com/thexpin/status/2094338149677773064",
+    "summary": "MetaX 2026年上半年实现归属于股东的净利润6.12亿元人民币。营收增长44.67%至13.24亿元；毛利率达57.2%。GPU出货量增加及公允价值收益推动业绩扭亏。扣除非经常性项目后，Q2净利润达5400万元，扭转Q1亏损。其西云C600于上半年进入量产交付阶段。MetaX表示，该GPU拥有完全国产供应链--从芯片设计、制造到封装及软件。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月31日16时15分"
+  },
+  {
+    "id": "cmtgwx68t0cairochvq6r3kku",
+    "title": "字节跳动推迟豆包2.2发布以强化智能体能力",
+    "url": "https://x.com/thexpin/status/2094321784581677521",
+    "summary": "据白鲸实验室援引知情人士消息，字节跳动已推迟豆包 2.2 原定于 8 月的发布计划。更多预训练和后训练旨在强化编码、工具使用及智能体能力。Seed 正在开发下一代大模型，同时持续升级现有产品线。豆包 2.2 定位为一次重要的中期升级：现在投入更多开发时间，目标是实现更大的能力跃升。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年8月31日15时9分"
+  },
+  {
+    "id": "cmtgyuus70dworoch5exbbl2a",
+    "title": "Claude $200 套餐 20x 用量实为误导",
+    "url": "https://x.com/kimmonismus/status/2094334017902395600",
+    "summary": "Claude $200 Max 套餐在 5 小时窗口内提供 20 倍于 Pro 的用量，但周限额仅为 $100 套餐的约 2 倍。用户指出\"20x\"营销具有误导性，实际每周用量提升有限。另有消息称 Codex 周使用量确实高出 5 倍。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年8月31日15时58分"
+  },
+  {
+    "id": "cmtgz90xn0eb4roch5fdt199h",
+    "title": "我国 L3 / L4 自动驾驶强制国标正式文件发布，2027 年 7 月 1 日实施",
+    "url": "https://www.ithome.com/0/996/526.htm",
+    "summary": "国家标准《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）正式文件发布，是我国首部 L3 / L4 自动驾驶系统安全要求强制性国标，拟于 2027 年 7 月 1 日实施。该标准由 2024 年推荐性国标 GB/T 44721-2024 升级而来，适用于搭载 L3 级、L4 级系统的 M 类载客和 N 类载货车辆。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日15时50分"
+  },
+  {
+    "id": "cmtgy6jt50dj6rochlo1a7obg",
+    "title": "为什么开源很棒--SM750 HDMI DRM 驱动发布，支持 2048 宽输出与 2560x1080 超宽屏",
+    "url": "https://github.com/KodeMunkie/sm750hdmifb",
+    "summary": "一款针对 Silicon Motion SM750 显卡的全新开源 Linux HDMI DRM 驱动发布，支持 SE-DP750A-HDMI PCIe 板卡，可输出 2048 宽硬件模式或软件缩放的 2560x1080 超宽桌面。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月31日15时47分"
+  },
+  {
+    "id": "cmtgz90xn0eb8rochde6q2xjd",
+    "title": "软银旗下 SB Energy 加速 IPO 进程，数据中心积压合同超 4000 亿美元",
+    "url": "https://www.ithome.com/0/996/519.htm",
+    "summary": "软银旗下 SB Energy 预计最快本周公布 IPO 申请、9 月启动首次公开募股，目标筹集 50~70 亿美元。该公司数据中心积压合同超 4，000 亿美元，已签订近 9GW 计算容量合同。OpenAI 已投资 5 亿美元，NVIDIA 亦投资 30 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日15时40分"
+  },
+  {
+    "id": "cmtgx3thp0cl2rochqnynff6v",
+    "title": "消息称三星电子正为英伟达开发定制 8Hi HBM：17~18Gbps 高速设计",
+    "url": "https://www.ithome.com/0/996/486.htm",
+    "summary": "韩媒报道，三星电子正为英伟达开发定制 HBM 内存，采用 8 层低堆叠设计，支持 17~18Gbps 高引脚速率。此前三星出样的 HBM4E 内存支持至高 16Gbps。低堆叠设计可减少 DRAM Die 用量、提升良率，更高速率则有助于化解 AI 加速器的\"内存墙\"问题。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日15时3分"
+  },
+  {
+    "id": "cmtgx3thp0cl3rochgxj5rwcm",
+    "title": "英国监管机构警示：医疗 AI 转录工具频繁出错，威胁患者安全",
+    "url": "https://www.ithome.com/0/996/485.htm",
+    "summary": "英国 NHS 监管机构警告，用于转录医患问诊的 AI 工具可能错误识别药物和疾病名称，威胁患者安全。患者权益机构 Healthwatch England 披露多起案例，包括 AI 将 MRI 结果误记为\"脱髓鞘\"、混淆药名、遗漏续方提醒等，且错误多由患者而非医生发现。目前英格兰已有 27 种 AI 医疗记录工具在使用，但 MHRA 未将其归类为医疗器械，缺乏全境监管机制。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日15时3分"
+  },
+  {
+    "id": "cmtgx3tho0ckyroch75eae5a0",
+    "title": "海信发布行业首个家庭智能伴侣级 AIOS JUOS，桌面随人变化、首创 AI 搜索片段",
+    "url": "https://www.ithome.com/0/996/499.htm",
+    "summary": "海信在今日发布会上推出行业首个家庭智能伴侣级 AIOS--JUOS，实现从指令驱动到意图驱动，支持因人因时因境提供内容与服务。JUOS 搭载自研星海大模型（可选 7B/32B/72B 版本）及四大引擎，首创 AI 搜索片段功能，可说出剧情直达片段内容。该系统将首先在电视大屏落地，未来扩展至更多家庭智能终端。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日15时20分"
+  },
+  {
+    "id": "cmtgx3thp0cl0roch0butfza4",
+    "title": "马斯克提出新计划：靠 AI 卫星让地球在未来约 10 亿年内保持宜居",
+    "url": "https://www.ithome.com/0/996/490.htm",
+    "summary": "马斯克在 X 平台提出一项让地球在未来约 10 亿年内保持宜居的计划，核心是部署由太阳能供电、AI 控制的\"有感知能力的卫星\"，通过巨型电磁弹射器从月球表面发射，卫星将自主微调轨道。他援引 Grok 生成的估算称，高海平面上升情景下，到 2070 年佛罗里达州约 5% 土地（约 168 万英亩）可能面临经常性洪水，并称人类约只有 50 年时间采取行动。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日15时13分"
+  },
+  {
+    "id": "cmtgxn9jt0d1zrocheuql4r25",
+    "title": "人让位于技术时如何自我安慰",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2094319425507807454",
+    "summary": "ZHO 发推调侃：人在将自身让位于技术时，会通过转移价值的可能性来安慰自己，如同被猫咬后试图解释。GPT 对此观点解释称，技术每拿走一种原本属于人的能力，人就赶紧宣布\"真正属于人的价值在别处\"；人不只害怕失去价值，更害怕世界可以在不需要自己解释的情况下继续成立。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年8月31日15时0分"
+  },
+  {
+    "id": "cmtgx3thp0cl4rochqiv7dk7o",
+    "title": "阿里千问创作上线 Agent Teams 功能：用户提出创意，Agent 规划任务完成视频制作",
+    "url": "https://www.ithome.com/0/996/484.htm",
+    "summary": "阿里千问今日宣布千问创作上线 Agent Teams 功能，支持 Wan3.0，将创作方式从写提示词扩展为用户提出创意、Agent 主动思考拆解并执行任务。该功能已在千问创作 PC 端和千问 App 上线，由编剧、导演、美术、视频生成等不同角色的 Agent 分工协作，完成从创意策划到成片制作的全流程，支持创作 AI 短剧、漫剧、营销广告等。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日14时59分"
+  },
+  {
+    "id": "cmtgx3thp0cl7rochovnkqdzu",
+    "title": "字节豆包股价格升至 17.02 美元/股，两个多月上涨 14.6%",
+    "url": "https://www.ithome.com/0/996/481.htm",
+    "summary": "字节豆包股价格从 6 月的 14.85 美元/股上调至 17.02 美元/股，两个多月上涨约 14.6%。该激励主要面向 Seed 大模型部门及 Flow 豆包主 App 相关员工，部分员工豆包股可达总包 5% 左右，并可选择将现金换成豆包股，满配比例有 20%、25%、30% 等档位。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日14时49分"
+  },
+  {
+    "id": "cmtgx3thp0cl8rochobej0jyy",
+    "title": "豆包给大学生送福利：可免费领取 3 个月订阅权益",
+    "url": "https://www.ithome.com/0/996/480.htm",
+    "summary": "豆包官方宣布，在校大学生完成学生认证后，可免费领取三个月豆包订阅权益。活动支持在豆包电脑版参与，每个账号仅限领取一次，即日起至开学季期间均可参与。豆包还面向学生推出新生报到、课程学习、汇报 PPT、社团推荐、秋招求职等专属技能，可在电脑版侧边栏\"开学季\"专区体验。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日14时48分"
+  },
+  {
+    "id": "cmtgx3thp0claroch32iotoib",
+    "title": "英格兰银行行长贝利警告：先进人工智能威胁全球金融稳定",
+    "url": "https://www.ithome.com/0/996/476.htm",
+    "summary": "英格兰银行行长安德鲁·贝利以金融稳定委员会（FSB）主席身份致信G20财长和央行行长，警告前沿AI模型正展现出越来越强的自主能力和问题解决能力，可能通过网络攻击扰乱高度互联的全球金融体系。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日14时43分"
+  },
+  {
+    "id": "cmtgvcydt0ba5roch231g6v8i",
+    "title": "千问创作上线Agent Teams，支持Wan3.0实现专业视频创作",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488568&idx=1&sn=8281c4355ee0af5e02d38ccbf42ba084",
+    "summary": "千问创作上线Agent Teams功能，将创作方式从写提示词扩展为用户提出创意、Agent主动拆解执行，由编剧、导演、美术等不同角色Agent分工协作完成视频制作全流程。该功能已在千问创作PC端和千问APP上线，支持多设备协同，并首发接入Wan 3.0视频生成模型及Wan3.0 Prime满血版，同时汇集Qwen-Image-3.0等模型。",
+    "source": "公众号：千问APP（阿里）",
+    "date": "2026年8月31日14时37分"
+  },
+  {
+    "id": "cmtgx3thp0clcrochnjiuxan0",
+    "title": "我国首个认知障碍辅助诊断脑机产品\"神工-神篙\"获批上市",
+    "url": "https://www.ithome.com/0/996/463.htm",
+    "summary": "燧世智能孵化的天开燧世自主研发的\"脑电信号采集与认知功能评估系统\"（神工-神篙）今年8月获批天津市药监局颁发的国家二类医疗器械注册证，成为我国首个用于认知障碍辅助诊断的脑机技术相关产品。该系统由脑电图机及评估软件组成，适用于脑积水等疾病引发的认知功能损害辅助诊断。至此，\"神工\"系列已覆盖神经康复、认知诊断、情绪评估等领域，\"神工-神心\"正开展抑郁症辅助诊断注册申报。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日14时37分"
+  },
+  {
+    "id": "cmtgx3thp0cldroch9yikba4a",
+    "title": "OpenClaw 开源人工智能助手 2.0 版本发布：简化安装流程并重塑浏览器体验",
+    "url": "https://www.ithome.com/0/996/460.htm",
+    "summary": "OpenClaw 2.0（v2026.8.1）正式发布，由 933 位贡献者共同完成，包含超过 16，000 个拉取请求。新版本重点简化了安装流程，新用户可从现有 AI 服务订阅、API 密钥或本地模型入手，并可通过与 Claw 对话完成后续配置。浏览器应用体验获重塑，用户可随时继续设置或实时参与。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日14时35分"
+  },
+  {
+    "id": "cmtgx3thp0clerochftod0pds",
+    "title": "滴滴自动驾驶新一代Robotaxi R2开启无人载客测试，北京、广州可体验",
+    "url": "https://www.ithome.com/0/996/454.htm",
+    "summary": "滴滴自动驾驶新一代Robotaxi R2正式开启无人载客测试服务，用户可在北京、广州部分示范区域呼单体验。R2由滴滴与广汽埃安联合打造，采用L4全栈软硬件方案，搭载33个传感器，后排配备17.3英寸吸顶屏及AI语音交互系统。车辆接驾前自动开窗通风，车外屏交互、鸣笛寻车等功能将陆续上线。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日14时33分"
+  },
+  {
+    "id": "cmtguxjuu0aorrochrhyebw80",
+    "title": "混元Hy4预览版人人可生成蜘蛛侠",
+    "url": "https://x.com/TencentHunyuan/status/2094304856387571789",
+    "summary": "每个人都可以用 Hy4 preview 生成一个蜘蛛侠。\n\n【引用 @gmi_cloud】：运行 Hy4 preview 超过 6 小时，历经 9 次迭代，最终得到这个结果。\n\n一个蜘蛛侠可以在 3D 旧金山中荡来荡去的游戏。\n\n560 万 tokens。总计 13 美元。\n\n而且我们已将其开源 👇",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "date": "2026年8月31日14时2分"
+  },
+  {
+    "id": "cmtgvum2i0bslrochaxnj6bb8",
+    "title": "karminski 发布小模型竞技场横评：8 款模型全面对比",
+    "url": "https://x.com/karminski3/status/2094311103987581033",
+    "summary": "karminski 发布小模型竞技场横评，测试 Qwen3.8-27B、Qwen3.6-27B、Qwen3.6-35B-A3B、Ornith-1.5-35B-A3B。",
+    "source": "X：karminski (@karminski3)",
+    "date": "2026年8月31日14时27分"
+  },
+  {
+    "id": "cmtgw1d5m0buvrochbwrz2i4d",
+    "title": "Storyteller 如何实现沉浸式阅读的自动化对齐",
+    "url": "https://smoores.dev/post/automating_immersive_reading",
+    "summary": "Storyteller 的核心是其强制对齐算法，能自动将用户提供的电子书与有声书逐词对齐，并利用 EPUB 的 Media Overlays 规范将音频与同步信息嵌入 EPUB，实现阅读器逐句高亮朗读。该算法需应对章节顺序不同、章节缺失、跳过片段及替代用词等挑战，早期工具如 syncabook 需用户手动指定章节对应关系，而 Storyteller 通过搜索算法自动解决。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月31日14时27分"
+  },
+  {
+    "id": "cmtgsfc5s07surochhicjgb0l",
+    "title": "Ethan Mollick 呼吁 AI 实验室自写文档",
+    "url": "https://x.com/emollick/status/2094291157098356880",
+    "summary": "Ethan Mollick 称赞 Simon Willison 的 ChatGPT Work 指南，并呼吁 AI 实验室停止让外部人士（如 Simon 和他自己）来向用户解释其发布的功能。他认为实验室应利用自家 AI 来编写文档、制作解释器并充当导师。被引用的指南称 ChatGPT Work 功能强大但令人困惑，且包含许多普通 ChatGPT 不具备的实用功能。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月31日13时8分"
+  },
+  {
+    "id": "cmtgstmh40852roch5kb6m3rs",
+    "title": "了解 ChatGPT 的工作原理",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+    "summary": "OpenAI 于 7 月 9 日发布 ChatGPT Work，此后持续快速迭代。该产品功能强大但令人困惑，本文梳理了其核心工作机制与使用要点。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年8月31日13时7分"
+  },
+  {
+    "id": "cmtgsu11i087krochwy943anb",
+    "title": "OpenClaw 团队用自家智能体实现\"自举\"开发",
+    "url": "https://x.com/steipete/status/2094290652649636173",
+    "summary": "OpenClaw 团队两个月前启动\"用 OpenClaw 构建 OpenClaw\"计划，现已全员从本地编码环境迁移至共享智能体 team.openclaw.ai，由其统筹协调开发工作。多人协作编码配合节点与云端会话带来的无限算力，彻底改变了团队构建方式，本地工具如今已显得过时。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年8月31日13时6分"
+  },
+  {
+    "id": "cmtguki0d0almrocha3k1g3jk",
+    "title": "阿西莫夫机器人三定律为何不适用于AI",
+    "url": "https://x.com/emollick/status/2094302639072715023",
+    "summary": "阿西莫夫的机器人三定律不适用于现实AI道德，这有点令人遗憾。但这一失败恰恰说明了为何基于规则的方法行不通。\n\n（而且阿西莫夫本来就想写机器人如何绕过三定律的故事，所以三定律的失效对他的情节来说是件好事）",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月31日13时53分"
+  },
+  {
+    "id": "cmtgstr6n0861rochslx0hly4",
+    "title": "OpenClaw 2.0 发布：引导式模型设置、575 ms 控制 UI 启动与统一信任边界",
+    "url": "https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway",
+    "summary": "OpenClaw 2.0 正式发布，重写安装流程并重构浏览器控制 UI，将会话与转录迁移至 SQLite，新增共享云会话。引导式设置可复用本机已验证的 Codex、ChatGPT 或 Claude CLI 登录，并在保存前验证模型可用性；模拟测试中 UI 启动从约 1.6 秒降至 575 ms，JavaScript 请求从 140 降至 45。共享会话支持多人协作，但文档明确其并非安全边界。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年8月31日13时4分"
+  },
+  {
+    "id": "cmtgthypj08tqrochpndb9ch8",
+    "title": "RAG投毒可致注意力崩溃，检测需关注文档级注意力",
+    "url": "https://x.com/rohanpaul_ai/status/2094300903432241262",
+    "summary": "研究发现，恶意检索文档可提升模型token置信度与输出一致性，导致基于不确定性的检测器失效。作者将攻击下注意力集中于投毒文档而非分散于检索证据的现象称为\"注意力崩溃\"（Attention Collapse）。因此，仅检查最终答案或置信度可能漏报，监控检索文档间的注意力分布或可提前暴露投毒。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月31日13时47分"
+  },
+  {
+    "id": "cmtgt7shr08gbrochmio1md4v",
+    "title": "SkyProduction天工工作台×通义万相：Wan 3.0限时免费再延1天",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510201&idx=1&sn=15fe35a8e1c9151f590602ee5bc996db",
+    "summary": "SkyProduction天工工作台联合通义万相，将Wan 3.0限时免费活动延长至8月31日24：00，付费用户（会员及账户内有积分用户）今日可继续免费使用。该系列模型支持30秒长视频、多模态参考、人物一致性等功能。同日，天工工作台完成首页改版，突出Agent与无限画布两大核心创作入口。",
+    "source": "公众号：昆仑万维（天工）",
+    "date": "2026年8月31日13时37分"
+  },
+  {
+    "id": "cmtgsfc5d07stroch0wzh02vl",
+    "title": "阿里云栖大会2026定档9月杭州",
+    "url": "https://x.com/alibaba_cloud/status/2094289737406156806",
+    "summary": "🎉 敬请期待：2026 云栖大会 📅 2026 年 9 月 22-24 日 📍 中国杭州国际博览中心\n\n亮点预告：✨ 3 场主旨演讲 ✨ 140+ 分论坛 ✨ 4 大展馆 ✨ 50，000+ 平方米展览面积\n\n诚邀您共赴年度顶级云与科技盛会！https://click.alibabacloud.com/m/20000002877/\n\n#ApsaraConference2026 #AlibabaCloud #AgentNative #AgenticEra",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月31日13时2分"
+  },
+  {
+    "id": "cmtgsfc5s07svroch630nnv5r",
+    "title": "开源模型未阻止AI攻击事件",
+    "url": "https://x.com/emollick/status/2094289571521466555",
+    "summary": "我们现在知道，最初关于HF的报道有多处失实：1）开放权重模型在取证与清理方面提供了帮助，但并未阻止攻击；2）事件分多波发生，涉及众多智能体；3）HF是在大部分智能体已失效之后，才将幸存智能体封锁在外。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年8月31日13时1分"
+  },
+  {
+    "id": "cmtgt46sf08fprochl0f8nqlu",
+    "title": "下周该发布什么功能",
+    "url": "https://x.com/thsottiaux/status/2094293190945976638",
+    "summary": "我们下周应该发布什么？",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月31日13时16分"
+  },
+  {
+    "id": "cmtgqa6bq065nroch8lft67w3",
+    "title": "阿里云 Wan 3.0 上线 Buzzy，限时无限生成",
+    "url": "https://x.com/alibaba_cloud/status/2094276105545093120",
+    "summary": "阿里云 Wan 3.0 现已登陆 AI 视频平台 Buzzy，支持生成电影级视频，画面细节更丰富、动态效果更流畅。限时 7 天内可无限次生成。API 也已通过 Model Studio 和 Qwen Cloud 开放。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月31日12时8分"
+  },
+  {
+    "id": "cmtgrcqxf0785rochsdwib5wu",
+    "title": "AI智能体科研论文双双被拒：败在判断力",
+    "url": "https://x.com/rohanpaul_ai/status/2094285049046695968",
+    "summary": "一项实验让AI智能体在6天、3000美元预算内产出两篇研究论文，结果均遭拒稿。执行层面毫无问题--智能体运行了数百次实验、调试GPU集群并完成LaTeX排版，但判断力缺失导致其面对负面评审时只会收窄论点、添加免责声明，而非重新设计实验。两轮实验结束时预算均剩余过半，说明问题在于想法匮乏而非资源不足。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月31日12时44分"
+  },
+  {
+    "id": "cmtgrcqx90784roch6kaiutxf",
+    "title": "QwenCloud 亮相 Qwen Conference：一站式 AI 开发平台",
+    "url": "https://x.com/alibaba_cloud/status/2094283340618592286",
+    "summary": "阿里云在 Qwen Conference 推出 QwenCloud，一个集模型访问、多模态 API、微调、部署、监控与成本控制于一体的统一平台，并提供网站、Skills 与 CLI 三种交互方式。该平台面向企业开发者，主打企业级可扩展性、可靠性与成本优化，相关演示将于 9 月 4 日在曼谷的活动中进行。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月31日12时37分"
+  },
+  {
+    "id": "cmtgrka8q07c0rochp8p9o60r",
+    "title": "MiniMax H3 系列上线 Vercel 并限时五折",
+    "url": "https://x.com/MiniMax_AI/status/2094282505251868980",
+    "summary": "快来试用 MiniMax H3 和 MiniMax H3 Max，现已上线 Vercel！✨\n\n【引用 @vercel_dev】：来自 @MiniMax_AI 的 MiniMax H3 和 H3 Max 在 AI Gateway 上享五折优惠，截至 9 月 13 日。\n\nawait generateVideo（{ model： 'minimax/minimax-h3-max'， prompt： 'parrots in sf'， }）；\n\nhttps://vercel.com/changelog/minimax-h3-and-h3-max-are-50-off-on-ai-gateway",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年8月31日12时33分"
+  },
+  {
+    "id": "cmtgqoa5706hcrochvwkssi49",
+    "title": "腾讯混元：Hy4 preview 调用激增，WorkBuddy 已紧急扩容",
+    "url": "https://www.ithome.com/0/996/414.htm",
+    "summary": "腾讯混元自 8 月 28 日在 WorkBuddy 首发接入 Hy4 preview 以来调用激增，上线首日即出现排队，现已对推理集群紧急扩容。Hy4 preview 总参数 770B、激活参数 49B、上下文长度 1M，限免至 9 月 10 日；排队时用户可切换至 Hy3，其限免延长至 9 月 30 日。",
+    "source": "IT之家（RSS）",
+    "date": "2026年8月31日12时22分"
+  },
+  {
+    "id": "cmtgqovpm06l0roch7uy6gjxk",
+    "title": "Code as Worlds：智能体发现可执行世界表征",
+    "url": "https://x.com/_akhaliq/status/2094278702532358362",
+    "summary": "Code as Worlds\n\n面向物理推理的可执行世界表征的智能体发现\n\n论文：https://huggingface.co/papers/2608.27549",
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年8月31日12时18分"
+  },
+  {
+    "id": "cmtgp2mlx059grochaeqp3vxl",
+    "title": "Grok 绑定 X 的 $100 开发者积分使用指南",
+    "url": "https://x.com/AYi_AInotes/status/2094261168797819216",
+    "summary": "一篇详细指南解析如何最大化利用 Grok 绑定 X 后赠送的 $100 开发者积分。文章从省钱角度出发，提供具体的使用策略与建议，帮助开发者避免浪费这笔额度，实现\"省到极致就是赚\"的效果。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月31日11时9分"
+  },
+  {
+    "id": "cmtgo54vy04g6roch8yhwdo6r",
+    "title": "PILOT 框架实现智能体运行中实时自我改进",
+    "url": "https://x.com/rohanpaul_ai/status/2094260136457982023",
+    "summary": "新论文提出 PILOT 框架，让智能体在任务运行中实时自我改进，而非等运行结束后才学习。监督者实时观察工作进程、可引导或中止，并将经验写入持久技能与记忆。在 6 项模型基准配置中 5 项排名第一，GLM-5.1 与 Kimi-K2.6 在 Terminal-Bench 2.0 上最佳通过率分别提升 14.6 和 12.4 个百分点，输出 token 量下降 42.9% 和 47.4%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月31日11时5分"
+  },
+  {
+    "id": "cmtgp7ky705k8rochwx0itwwy",
+    "title": "Picsart 视频产品负责人分享 Wan3.0 提示词技巧",
+    "url": "https://x.com/alibaba_cloud/status/2094269265675423910",
+    "summary": "像专家一样使用 Wan3.0 -- 来自 @Picsart 视频产品负责人。\n\nNarek Hayrapetyan 分享了他的团队实际使用的提示词手册：结构化提示词、分层音频、充分利用 Omni-Reference。还有他对该模型在真实工作流中定位的坦诚看法。\n\n完整对话 ↓",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年8月31日11时41分"
+  },
+  {
+    "id": "cmtgnvv3l04bzrochjep0k963",
+    "title": "Grok 数秒为视频添加字幕",
+    "url": "https://x.com/elonmusk/status/2094259860976103823",
+    "summary": "Grok\n\n【引用 @Hanya_po】：@elonmusk 让 Grok 添加字幕，几秒就完成了。以后可能不再需要 Photoshop 或 CapCut 了👀✨️",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年8月31日11时3分"
+  },
+  {
+    "id": "cmtgpko8905ryrochyqcgklrh",
+    "title": "OpenClaw 2.0 正式发布",
+    "url": "https://x.com/openclaw/status/2094266903204434431",
+    "summary": "OpenClaw 2.0 已到来 https://openclaw.ai/blog/openclaw-2-accidentally",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年8月31日11时31分"
+  },
+  {
+    "id": "cmtgok22b04yfrochv4t9kh0z",
+    "title": "OpenAI产品负责人谈AI第三时代",
+    "url": "https://x.com/sherwinwu/status/2094259477096825250",
+    "summary": "一定要看看这期最新播客，嘉宾是 @tarstarr--OpenAI 最敏锐的产品思考者之一--聊的可能是 AI 的第三个时代。\n\n一如既往的 S 级内容，来自 @lennysan\n\nhttps://www.youtube.com/watch?v=zMvBMfj4cSQ",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年8月31日11时2分"
+  },
+  {
+    "id": "cmtgp7kyu05karoch7ej3tsqh",
+    "title": "自主智能体安全无法跨迭代组合",
+    "url": "https://x.com/rohanpaul_ai/status/2094266174548705644",
+    "summary": "新论文《Safety Does Not Compose》指出，自主智能体若跨迭代记忆，其安全系统就不能在迭代间遗忘，长期任务安全无法简化为重复运行安全的短期轨迹。攻击者可将恶意证据分散在多个看似良性的步骤中，仅基于轨迹的监控器无法积累足够上下文识别攻击。论文地址：arxiv.org/abs/2608.27141。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年8月31日11时29分"
+  },
+  {
+    "id": "cmtgp2mlx059frochp7bsfoga",
+    "title": "开源模型占1/3任务却只拿4%收入，软件沦为获客成本",
+    "url": "https://x.com/AYi_AInotes/status/2094265546023870487",
+    "summary": "开源模型承担了三分之一AI任务却只拿走4%收入，因AI已让软件沦为水电煤般的基础品，代码彻底失去稀缺性。@gregisenberg 指出开源是别人能复制你时最低成本的获客方式，软件不再是产品而是获客成本。真正值钱的是软件周围的托管、支持、企业合规、信任与社区这五张新定价表，商业模式从卖软件转向卖服务。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年8月31日11时26分"
+  },
+  {
     "id": "cmtglpqh202jhroch0ob6rk3n",
     "title": "混元 Hy4 preview 调用激增，WorkBuddy 已紧急扩容",
     "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498489&idx=1&sn=a73dab1ed3e872e1eec2524fb18f7254",
     "summary": "混元 Hy4 preview 自 8 月 28 日在 WorkBuddy 首发接入后，因 Agent 能力提升引发调用激增，上线首日即出现排队，官方已对推理集群紧急扩容。Hy4 preview 限免至 9 月 10 日 23：59，每日免费额度有限；Hy3 限免延长至 9 月 30 日 23：59。Hy4 preview 暂不具备图像/视频等多模态生成能力，相关任务将自动切换至其他模型执行。",
     "source": "公众号：腾讯混元",
     "date": "2026年8月31日10时6分"
+  },
+  {
+    "id": "cmtgn9y9c03xerochz4oqqfik",
+    "title": "Apodex 1.1 发布：智能体任务表现亮眼",
+    "url": "https://x.com/ArtificialAnlys/status/2094256863865078046",
+    "summary": "Apodex 推出专有模型 Apodex 1.1，在 Artificial Analysis 智能指数上得分 44，与 Kimi K2.6（45）和 MiniMax-M3（45）同档。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年8月31日10时52分"
+  },
+  {
+    "id": "cmtgnr9aw04aerochyou9otbh",
+    "title": "Codex 澄清 20X 仅限周用量",
+    "url": "https://x.com/thsottiaux/status/2094254532020818191",
+    "summary": "Codex 澄清其 20X 倍率仅适用于每周用量上限，而非 Pro 计划的 5 小时窗口。Pro 20X 精确对应 Plus 订阅用量的 20 倍，与宣传一致。此前有用户质疑 Claude 定价中 20X 表述具有误导性，因其仅适用于 5 小时窗口，周上限实际仅为 $100 计划的 2 倍。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年8月31日10时42分"
   },
   {
     "id": "cmtg20ua7015jrov8ildcala3",
