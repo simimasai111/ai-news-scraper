@@ -720,6 +720,270 @@
     "date": "2026年9月1日2时0分"
   },
   {
+    "id": "cmtismwsk03vlro9yo7xec0p4",
+    "title": "Luma AI 推出 FLUX Video Upscale，可将视频上采样至 2K 和 4K",
+    "url": "https://x.com/LumaLabsAI/status/2094802207119909059",
+    "summary": "Luma AI 官方宣布推出 FLUX Video Upscale，将视频分辨率提升至 2K 和 4K。推文配有一段演示视频，并称有些面孔值得 4K 分辨率，即使是六只眼睛的面孔。",
+    "source": "X：Luma AI (@LumaLabsAI)",
+    "date": "2026年9月1日22时59分"
+  },
+  {
+    "id": "cmtis87fx03hlro9yq52a0l6g",
+    "title": "Elon Musk 称 Google 与 Anthropic 正向 SpaceX 租用 AI 算力",
+    "url": "https://x.com/cb_doge/status/2094798802838573319",
+    "summary": "Elon Musk 表示，在电力短缺加剧的背景下，Google、Anthropic 及其他多家公司正向 SpaceX 租用算力。他称 SpaceX 在让 AI 算力上线方面做得比任何人都好，自建发电厂是其唯一可行途径。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日22时45分"
+  },
+  {
+    "id": "cmtisnhke03wpro9yuorym03b",
+    "title": "EFF 呼吁法院不要因 AI 热潮重写版权法",
+    "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+    "summary": "EFF 发文呼吁美国法院在多起 AI 版权诉讼中不要基于夸大和推测扩张版权保护，并称已在 Concord Music Group 诉 Anthropic 和 Mosaic LLM 案中提交法庭之友简报。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月1日22时41分"
+  },
+  {
+    "id": "cmtis87fx03hmro9yzj7pp1bd",
+    "title": "马斯克在 G20 峰会线上分享对 AI 的展望：年增 20 万亿至 30 万亿美元",
+    "url": "https://x.com/cb_doge/status/2094796931944120510",
+    "summary": "Elon Musk 今日线上参加 G20 峰会并分享对 AI 的展望。他称 AI 可令全球经济扩大 20% 至 30%，每年新增约 20 万亿至 30 万亿美元；预计到 2027 年底 AI 或能完成几乎所有纯数字任务，AI 编码将达到 Stockfish 级别，人类几乎无法在软件编写上与 AI 竞争。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日22时38分"
+  },
+  {
+    "id": "cmtis87fx03hnro9yxydfmjpu",
+    "title": "马斯克在 G20 峰会上称 AI 每年将为全球经济增加 20 至 30 万亿美元",
+    "url": "https://x.com/cb_doge/status/2094796868928864290",
+    "summary": "马斯克今日在 G20 峰会上表示，AI 将使全球经济增加 20% 到 30%，约合每年 20 万亿至 30 万亿美元。他还称到明年年底 AI 可以完成任何数字化工作，人类可能完全无法再在软件编写上与之竞争。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日22时37分"
+  },
+  {
+    "id": "cmtis87lj03hrro9y09vxcc4d",
+    "title": "Elvis Saravia 谈 harness engineering 入门：先写最小智能体循环而不是用框架",
+    "url": "https://x.com/omarsar0/status/2094796343440977920",
+    "summary": "Elvis Saravia 回应人们常问的 harness engineering 从何入手，建议起初跳过框架，构建尽可能小的 harness：一个 agent 循环、少量工具和自己从零写的 system prompt。他认为这比一个月读教程学到更多。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月1日22时35分"
+  },
+  {
+    "id": "cmtis87fx03horo9y2nkuznfx",
+    "title": "马斯克预测 2027 年 AI 芯片将出现至少 15 吉瓦电力缺口",
+    "url": "https://x.com/cb_doge/status/2094795448104190442",
+    "summary": "马斯克称 AI 正走向 2027 年的大规模电力短缺，分析师共识是届时 AI 芯片电力缺口至少 15 吉瓦。他解释称 AI 芯片产量每年增长约 40% 至 50%，而中国以外可用电力每年仅增长 10% 至 20%，增长更快的一方终将压倒增长更慢的一方。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日22时32分"
+  },
+  {
+    "id": "cmtis87fx03hpro9yzrnbpwhx",
+    "title": "马斯克称 X 是 AI 讨论的主要发生地，他本人靠它获取新闻",
+    "url": "https://x.com/cb_doge/status/2094794407707066543",
+    "summary": "Elon Musk 表示几乎所有 AI 领域的讨论都发生在 X 上，他本人也以此获取新闻并认为效果非常好。他称 AI 圈的重要人物几乎都在 X 上发帖，建议关注 AI 话题即可逐日了解行业走向。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日22时28分"
+  },
+  {
+    "id": "cmtis87fx03hqro9ygnzw3e9v",
+    "title": "马斯克预测十年内将有至少十亿台人形机器人，产出超全人类总和",
+    "url": "https://x.com/cb_doge/status/2094793785523962255",
+    "summary": "马斯克预测十年内全球将至少有十亿台人形机器人，每台产出至少是人类的五倍，总产出将超过全人类总和。该说法来自其受访言论，由 @cb_doge 转发并附视频。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日22时25分"
+  },
+  {
+    "id": "cmtirk0cw02wlro9y023p9bxo",
+    "title": "Sonos发布Beam Ultra回音壁、Ace Ultra耳机及AI音频系统Sonos 27",
+    "url": "https://www.ithome.com/0/997/168.htm",
+    "summary": "Sonos于9月1日发布Beam Ultra回音壁、Ace Ultra头戴式耳机及音频操作系统Sonos 27。Sonos 27包含自研语音助手Sonos 27voice（今年秋季抢先体验）和可接入ChatGPT、谷歌Gemini的Sonos 27mcp（9月8日开放），未来还将支持最多创建10个自定义AI智能体（2027年提供）。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日22时23分"
+  },
+  {
+    "id": "cmtiruhn8037bro9y78c03u2k",
+    "title": "Inception AI 的 Mercury 2.5 Preview 推理模型上线 OpenRouter，达 1，107 tokens/sec",
+    "url": "https://x.com/OpenRouter/status/2094792813603119482",
+    "summary": "Mercury 2.5 Preview 在 OpenRouter 独家上线，官方称其为最快的推理大语言模型，通过并行 token 生成达到 1，107 tokens/sec。该模型支持可调推理、并行工具调用和 schema 对齐的 JSON 输出，面向延迟敏感型工作负载。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年9月1日22时21分"
+  },
+  {
+    "id": "cmtis87ml03hsro9y9hv4no4a",
+    "title": "Rohan Paul 点评双足机器人动态站立：脚踝或以微小力矩修正应对滚珠地面",
+    "url": "https://x.com/rohanpaul_ai/status/2094792255748050999",
+    "summary": "Rohan Paul 视频点评一个双足机器人站在铺满滚珠的地面上仍能保持站立，认为其脚踝可能在每次滚珠滚动时发出微小力矩修正，避免把重量压到已开始滚动的脚上。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日22时19分"
+  },
+  {
+    "id": "cmtir5my602m5ro9yfdgb7qhf",
+    "title": "马斯克在 G20 迈阿密峰会远程分享对 AI 的展望",
+    "url": "https://x.com/cb_doge/status/2094791199504912713",
+    "summary": "Elon Musk 今日以视频形式参与迈阿密 G20 峰会并分享对 AI 的展望。他表示 AI 可使全球经济每年增长 20% 至 30%，即约 20 万亿至 30 万亿美元；到 2027 年底 AI 或能完成几乎所有纯数字化任务；AI 编码将达到 Stockfish 水平，人类几乎无法在写软件上与 AI 竞争。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日22时15分"
+  },
+  {
+    "id": "cmtir5my602m6ro9yiakwwt9n",
+    "title": "马斯克在 G20 峰会称 AI 每年将为全球经济带来 20 至 30 万亿美元增量",
+    "url": "https://x.com/cb_doge/status/2094787071043133733",
+    "summary": "马斯克在迈阿密 G20 峰会上表示，AI 将使全球经济增加 20% 到 30%，约合每年 20 万亿至 30 万亿美元。他还称到明年年底 AI 可能完成一切数字任务，人类在编写软件方面或再也无法与之竞争。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日21时58分"
+  },
+  {
+    "id": "cmtir5my602m7ro9y27aogvtp",
+    "title": "Tesla 在 Giga Texas 备案近 700 万平方英尺半导体项目",
+    "url": "https://x.com/cb_doge/status/2094784954328895543",
+    "summary": "Tesla 向德克萨斯州提交备案，在 Giga Texas 建设近 700 万平方英尺的半导体项目。备案显示 North Campus Manufacturing 为 6，974，854 平方英尺，Austin Semiconductor Fab 为 489，600 平方英尺，Cortex 2.0 半导体项目为 46，400 平方英尺，目标完工日期为 2029 年 12 月 31 日。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日21时50分"
+  },
+  {
+    "id": "cmtiq32d401w3ro9yq2jgz1f4",
+    "title": "研究估算美国数据中心扩张反而小幅拉低居民电价",
+    "url": "https://x.com/rohanpaul_ai/status/2094784270422450450",
+    "summary": "一项研究估算，2015 至 2024 年数据中心并未推高美国居民平均电价，数据中心容量每增加 10%，平均居民电价约下降 0.4%。原因是电网固定成本被更多售电量摊薄，且新增电厂运行成本可能更低；作者警告若电网供应不足或过度建设，该效应可能反转。2024 年数据中心用电约占美国电力 4.5%，预计 2030 年达 9-17%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日21时47分"
+  },
+  {
+    "id": "cmtiqi2x302a4ro9yp6wy4l67",
+    "title": "Tencent WorkBuddy 演示 PowerPoint 局部修改功能，无需每次重建幻灯片",
+    "url": "https://x.com/WorkBuddy_AI/status/2094783959163175323",
+    "summary": "Tencent WorkBuddy 发布 Co-Write 系列第 3 集，主题为 PowerPoint。用户可选中想要改进的内容，告诉 WorkBuddy 需求，在同一份幻灯片上持续重写和打磨，实现人与 AI 编辑同一文件，避免每次改动都重建幻灯片。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "date": "2026年9月1日21时46分"
+  },
+  {
+    "id": "cmtipfy4v01e8ro9ymffer6kj",
+    "title": "AlgorithmWatch 研究：Google 选举类 AI Overviews 触发不透明、来源集中且时有倾向性",
+    "url": "https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides",
+    "summary": "AlgorithmWatch 借助欧盟 DSA 第 40（12） 条的研究数据访问权限，对德国东部三场选举相关搜索运行 4480 次查询并分析 Google 的 AI Overviews。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月1日21时3分"
+  },
+  {
+    "id": "cmtiq32d401w4ro9yp2dzp221",
+    "title": "Lambda 联合创始人兼 CTO Stephen Balaban 称数据中心外迁将使美国失去就业与再工业化机会",
+    "url": "https://x.com/rohanpaul_ai/status/2094781209067114894",
+    "summary": "Lambda 联合创始人兼 CTO Stephen Balaban 表示，把数据中心建设迁出美国会失去建设与运营岗位，以及电网升级带动的钢铁、铝、涡轮机等再工业化就业，并称 AI 和算力是国家战略资产。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日21时35分"
+  },
+  {
+    "id": "cmtiq3iv701ynro9yjwi0ldyq",
+    "title": "Discovery Bank 如何用行为 AI、治理数据与实时决策实现大规模超个性化银行服务",
+    "url": "https://www.databricks.com/blog/how-discovery-bank-delivers-hyper-personalized-banking-scale-behavioral-ai-governed-data-and",
+    "summary": "Discovery Bank 通过行为 AI、治理化数据和实时决策，在满足规模、速度与安全要求的同时让每个客户交互都具备个性化体验。文章介绍了该银行实现大规模超个性化银行服务的具体方法。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年9月1日21时30分"
+  },
+  {
+    "id": "cmtip0h4v052irovq54uufydg",
+    "title": "SemiAnalysis 解读 Samtech 在台湾 OCP 展示的 CPX 形态共封装铜互连方案",
+    "url": "https://x.com/SemiAnalysis_/status/2094772933419807076",
+    "summary": "SemiAnalysis 报道 Samtech 在台湾 OCP 展示了 CPX 形态的 Co-Packaged Copper（CPC）方案，开放 CPX MSA 见 https://www.opencpxmsa.org/。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年9月1日21时2分"
+  },
+  {
+    "id": "cmtiompuu04wvrovqhsn4pfn8",
+    "title": "开发者基于 VoxCPM2 推出开源 AI 视频翻译配音工具 ZastTranslate",
+    "url": "https://x.com/OpenBMB/status/2094772538761183535",
+    "summary": "面壁智能 OpenBMB 介绍开发者 @zast57 基于 VoxCPM2 构建的开源 AI 视频翻译配音工具 ZastTranslate，将本地 AI 转录、翻译和自然语音生成引入多语言内容创作流程。工具支持多语言视频翻译、语音克隆配音，代码、网站和 VoxCPM2 模型分别发布在 GitHub、zast57.com 和 Hugging Face。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年9月1日21时1分"
+  },
+  {
+    "id": "cmtipeu1u019xro9ytnjdxgek",
+    "title": "CloudSEK 报告披露黑客组织 Aurora 利用 Cursor AI 制定攻击计划、使用 Zig 语言开发勒索软件",
+    "url": "https://www.ithome.com/0/997/155.htm",
+    "summary": "安全公司 CloudSEK 发布报告，披露黑客组织 Aurora 的攻击活动及内部细节。研究人员潜入黑客配置错误的服务器，获取了攻击工具、AI 攻击计划记录及赎金协商管理界面。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日21时14分"
+  },
+  {
+    "id": "cmtipfqss01dnro9ybqpr7vtf",
+    "title": "Nvidia DLSS 5 将于 9 月 3 日随 NBA 2K27 正式上线，目前仅支持 RTX 50 系显卡",
+    "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+    "summary": "Nvidia 将于本周正式发布 DLSS 5，目前仅 NBA 2K27（9 月 3 日晚 9 点 PT 上线 PC）支持，官方适配 RTX 50 系桌面和笔记本 GPU 及 GeForce Now。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年9月1日21时0分"
+  },
+  {
+    "id": "cmtipeu1u019yro9y6nclr7pp",
+    "title": "中科曙光预热全球首款 64 线程移动工作站：16GB 显存、16.9mm 厚度",
+    "url": "https://www.ithome.com/0/997/153.htm",
+    "summary": "中科曙光预热一款 64 线程移动工作站，称其为全球首款，配备 16GB 显存、厚度 16.9mm。官方称其本地运行 35B MoE 模型可实现 50 Tokens/s 输出速率，AI 推理速度最高可达业界主流产品 3~5 倍。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日20时59分"
+  },
+  {
+    "id": "cmtiodf9e04pzrovqcv3n706m",
+    "title": "Runway 发布 Solaris：实时生成软件界面的 Interface World Model",
+    "url": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time",
+    "summary": "Runway 发布 Solaris，称其为 Interface World Model 类别下的首个模型，不运行代码，而是以 720p 逐帧实时渲染界面，并响应点击、拖拽或语音指令。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月1日20时53分"
+  },
+  {
+    "id": "cmtiojs3704ubrovqkebksx0f",
+    "title": "GLM Coding Plan 一周年，智谱向订阅者发放 Reset Card 补充配额",
+    "url": "https://x.com/Zai_org/status/2094769612730532172",
+    "summary": "智谱宣布 GLM Coding Plan 上线一周年，向所有现有订阅者发放 Reset Card，可用于补充每周配额和 5 小时配额。Personal 和 Team 订阅者可分别在 z.ai 的用量管理页面领取使用。",
+    "source": "X：智谱 Z.ai (@Zai_org)",
+    "date": "2026年9月1日20时49分"
+  },
+  {
+    "id": "cmtiod2lq04owrovqhxoatit2",
+    "title": "博客文章展示以 67 美分成本在 ARC-AGI-1 上取得 44% 得分",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1",
+    "summary": "Hacker News 热帖分享一篇博客文章，作者称以 67 美分的成本在 ARC-AGI-1 上取得 44% 的得分。该帖获得 122 个 HN Points，完整方法细节需查看原文链接 https://mvakde.github.io/blog/44-on-arc-1。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月1日20时49分"
+  },
+  {
+    "id": "cmtipeu1u01a1ro9y6azr5bw1",
+    "title": "豆包与清华大学开设《AI 赋能学术研究：人机互动的知识生产》课程并上线名校专区技能",
+    "url": "https://www.ithome.com/0/997/148.htm",
+    "summary": "清华大学 2026 年秋季学期校级课程《人工智能赋能学术研究：人机互动的知识生产》开放报名，课程与豆包深度合作，覆盖从选题到发表的研究全流程，包括问题发现、知识综述、数据分析与成果发表。授课团队将把学术实践方法沉淀为可复用的 Skill 技能并在豆包电脑端上线，用户在技能板块选择名校专区即可体验；豆包此前还与清华新闻学院共建课程并担任《社会网络分析》课程 AI 助教。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日20时48分"
+  },
+  {
+    "id": "cmtiodf9e04q0rovqkascncrq",
+    "title": "Google AI 搜索按国籍给出不同安全建议，修复后仍对 Facebook 相关提问发出警告",
+    "url": "https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook",
+    "summary": "Futurism 测试发现，Google AI Overviews 对用户称与非洲、印度或巴基斯坦裔独处的提问会建议报警或前往安全地点，对英国人则建议喝茶聊天气。Reddit 用户首先发现差异，Google 承认结果不符合其标准并称触发词是 alone，修复后国籍类提问恢复正常，但询问与来自 Facebook 的人独处时仍会建议离开并拨打 110。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月1日20时44分"
+  },
+  {
+    "id": "cmtipeu1u01a2ro9yi22t9cev",
+    "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+    "url": "https://www.ithome.com/0/997/147.htm",
+    "summary": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日20时40分"
+  },
+  {
+    "id": "cmtipeu1u01a4ro9yt53jxhdn",
+    "title": "群创发布 Chip Last 型 FOPLP 先进封装平台，预计 2027 年下半年量产",
+    "url": "https://www.ithome.com/0/997/144.htm",
+    "summary": "群创光电（InnoLux）发布 Chip Last 型 FOPLP（扇出型面板级封装）技术平台，预计 2027 年下半年量产，切入 AI/HPC 次世代先进封装供应链。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日20时32分"
+  },
+  {
+    "id": "cmtinxw7d04btrovqn5zp1dgp",
+    "title": "小北谈个人 Agent：模型智商会同质化，长期可靠性不会自动出现",
+    "url": "https://x.com/frxiaobei/status/2094764717365489942",
+    "summary": "作者 @frxiaobei 称刚把 OpenClaw 升级到 2026.8.1，并表示用得越久越觉得个人 Agent 不要在意\"更聪明\"，模型智商会快速同质化，长期可靠性不会自动出现。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年9月1日20时30分"
+  },
+  {
     "id": "cmthj2voe015cro68pntw9dik",
     "title": "Google 新研究：SKILL.state 以显式状态替代对话历史",
     "url": "https://x.com/dair_ai/status/2094472291002589452",
@@ -832,12 +1096,76 @@
     "date": "2026年9月1日1时16分"
   },
   {
+    "id": "cmtin9o1103oxrovqyzfxqstw",
+    "title": "罗永浩吐槽新能源车企 AI 大模型，称试了数十辆车无一家接入完整版 Top 大模型",
+    "url": "https://www.ithome.com/0/997/133.htm",
+    "summary": "罗永浩 9 月 1 日发微博称，试了好几十辆新能源车后发现没有一家接入完整版的豆包、千问、Kimi 这类中国 Top 大模型，认为车企想推自家模型但模型质量不佳。他建议车企为消费者体验接入最好的大模型，额外收费也可以，这样每天在车里的一个多小时还能做点正事。相关话题随后登上微博热搜。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日19时50分"
+  },
+  {
+    "id": "cmtin9o1103oyrovq17oh92h4",
+    "title": "Glassdoor 研究显示保险理赔员成为美国最反感 AI 的职业群体",
+    "url": "https://www.ithome.com/0/997/131.htm",
+    "summary": "据 WIRED 报道，Glassdoor 研究发现提到 AI 的保险理赔员评价中 98% 持批评态度，成为美国最反感 AI 的职业群体，主要抱怨管理层强推易出错的 AI 且错误后果由理赔员承担。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日19时50分"
+  },
+  {
+    "id": "cmtim7veb020nrovq60sawzgf",
+    "title": "Jordan Andersen 撰文质疑 AI 编程提效：写代码不是软件开发的主要瓶颈",
+    "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+    "summary": "Jordan Andersen 撰文质疑 AI 十倍提效的说法，认为若按此逻辑开源 LLM 出现四年后应已催生多家 AirBnb、Stripe、Dropbox 级别的公司，但事实并非如此。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月1日19时45分"
+  },
+  {
+    "id": "cmtilns8o07upropbueufx3sm",
+    "title": "ZHO 引用日本创作者观点：AI 生成并未让更多人走向真正的创作",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2094752991584927917",
+    "summary": "ZHO 转发日本创作者 @takenoko_vr 的观点并称同感。原推文表示曾期待 AI 成为创作入口，让更多人尝试自己画插画、作曲、建模，但现实是多数人止步于 AI 生成，且多数人对生成结果没有违和感，作者称这令人绝望。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月1日19时43分"
+  },
+  {
+    "id": "cmtilns8e07uoropbkamiucz4",
+    "title": "YouMind 100 美元档 Max 持续五折优惠，年底可能结束",
+    "url": "https://x.com/lifesinger/status/2094751580809814054",
+    "summary": "YouMind 作者感谢 Max 用户推荐，宣布 100 美元档五折优惠持续中，年底可能取消。引用用户评价称 YouMind 在写作场景好用，剪藏、写作、Skill 与快速导出构成完整工作流，细节到位。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年9月1日19时37分"
+  },
+  {
+    "id": "cmtilsq9j080oropbi39l6ey2",
+    "title": "小北评 AGENTS.md 争议：Agent 工作说明书应跨模型可迁移",
+    "url": "https://x.com/frxiaobei/status/2094749806552093109",
+    "summary": "作者就 AGENTS.md 争议表态：模型可以不同，但 Agent 的工作说明书应该可迁移。他认为如果团队换用 Codex、Claude、Gemini 就要维护三套规则、Skills 和目录结构，那是重复劳动而非生态；标准化只是把最无聊的基础设施统一掉，不会抹平差异，并呼吁 Claude 做个人吧。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年9月1日19时30分"
+  },
+  {
+    "id": "cmtin9o1203p0rovq86tqlp89",
+    "title": "宇树科技回应报销审批传闻称很多内容不实",
+    "url": "https://www.ithome.com/0/997/125.htm",
+    "summary": "针对\"宇树员工称超 100 元报销需王兴兴审批\"\"奖惩机制只有罚几乎没有奖\"等热搜话题，宇树科技回应称很多内容不实，切勿当真。《财经》杂志报道称王兴兴沟通直接严厉、专注产品细节、在意成本控制。宇树科技于 8 月 19 日登陆科创板，上市首日股价开盘报 1100 元/股，市值一度达 4449 亿元；截至 9 月 1 日收盘报 571.1 元/股，市值 2310 亿元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日19时30分"
+  },
+  {
     "id": "cmtijimzn066jropb4f2lykcr",
     "title": "ViVi 开源会议 Agent 方案：Mac mini 常驻监测加飞书 CLI 自动整理会议待办",
     "url": "https://x.com/chunxiangai/status/2094728861380669571",
     "summary": "@MengjieXvivi 分享了一套能干活的会议 Agent 搭建方案，会议或交谈录音结束后自动抓取逐字稿存入本地第二大脑，分析待办和洞察并通过飞书发回。方案核心是 Mac mini 常驻监测连接飞书 CLI，读取逐字稿后用飞书妙搭搭行动工作台，可直接给 Mac mini 下达任务完成会议中提到的事项，生活场景配合安克录音豆随时记录。",
     "source": "X：赵纯想 (@chunxiangai)",
     "date": "2026年9月1日18时7分"
+  },
+  {
+    "id": "cmtilrbrz07w6ropb6ib4szrt",
+    "title": "MicroDuck 4 天订单超 10，500 台，或成史上最大消费机器人首发",
+    "url": "https://x.com/Thom_Wolf/status/2094740928019783788",
+    "summary": "引用内容称 MicroDuck 4 天内获得 10，500 台订单和 454 万美元销售额，可能是史上最大的新消费机器人首发。配图对比显示 MicroDuck 首日售出 4，635 台（净价 $399），高于 Aibo ERS-110 的 3，000 台、Anki Vector 的约 2，300 台、Reachy Mini 的 1，078 台和 Pepper 的 1，000 台；首周 10，520 台，超过 1X NEO 的 10，000 台。作者 Thomas Wolf 回应称 seems like it。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年9月1日18时55分"
   },
   {
     "id": "cmtiizcka05ovropbl062v7w8",
@@ -856,6 +1184,30 @@
     "date": "2026年9月1日18时4分"
   },
   {
+    "id": "cmtijnrms06dzropbovfkij7g",
+    "title": "Anthropic 与 Nvidia 支持的 Lambda 签订 350 亿美元云协议",
+    "url": "https://x.com/kimmonismus/status/2094738291077808233",
+    "summary": "Anthropic 与 Nvidia 投资的云服务商 Lambda 签订价值 350 亿美元的云计算协议，Nvidia 本身持有得州数据中心租约。该数据中心由比特币矿企兼数据中心开发商 Hut 8 在得州 Nueces 县建设，Nvidia 数周前与 Hut 8 签约锁定容量，Lambda 将安装 Nvidia 芯片。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月1日18时45分"
+  },
+  {
+    "id": "cmtil4ido07gbropbl3h52ckh",
+    "title": "努比亚 NaviX Ultra 获入网许可，9 月上市并内置豆包手机助手",
+    "url": "https://www.ithome.com/0/997/105.htm",
+    "summary": "努比亚宣布全球首款 AI 智能体手机 NaviX Ultra 正式获得入网许可证，9 月上市，将搭载豆包手机助手。该机不再读取屏幕、模拟点击操作应用，而是依赖各应用自行提供 MCP 服务接入；豆包团队正与头部应用厂商谈判开放接口。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日18时39分"
+  },
+  {
+    "id": "cmtijv2wc06niropb4l446rho",
+    "title": "国家AI产业投资基金拟约2.065亿美元入股快手可灵，占增资后注册资本约1.14%",
+    "url": "https://x.com/thexpin/status/2094735768984170919",
+    "summary": "快手披露，中国国家AI产业投资基金于8月31日同意向其北京可灵（Kling AI）部门注资约2.065亿美元。该投资约占可灵扩大后注册资本的1.14%，前提是相关认购及员工持股计划额度全部用满，该基金还获得回购权。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年9月1日18时35分"
+  },
+  {
     "id": "cmtijin04066kropb6odvtmny",
     "title": "YouMind 启动大促，Pro 首月五折、Max 全年五折，Auto 模型享 DeepSeek V4 Flash 波谷低价",
     "url": "https://x.com/lifesinger/status/2094733241429479829",
@@ -870,6 +1222,14 @@
     "summary": "阿易转发评价 @poetengineer__ 的 kat，称其是掌管互动可视化的神，效果越来越炫酷。原推仅一句评价并附视频，未给出更多细节。",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年9月1日18时17分"
+  },
+  {
+    "id": "cmtijin04066lropbo48o5jfq",
+    "title": "玉伯做客播客聊产品五个方向与 AI Native 团队协作体验",
+    "url": "https://x.com/lifesinger/status/2094730846582562933",
+    "summary": "玉伯转发推荐橘子与他录制的一期播客，称闲聊里有真话、话题有意思有启发。橘子介绍原本想闲聊，玉伯认真聊了产品的五个方向和 AI Native 团队协作的真实体验与反思，节目未做宣传在小宇宙已近 500 播放。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年9月1日18时15分"
   },
   {
     "id": "cmtijimz9066iropb82jbxvpr",
