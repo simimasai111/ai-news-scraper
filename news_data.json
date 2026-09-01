@@ -832,6 +832,406 @@
     "date": "2026年9月1日1时16分"
   },
   {
+    "id": "cmtijimzn066jropb4f2lykcr",
+    "title": "ViVi 开源会议 Agent 方案：Mac mini 常驻监测加飞书 CLI 自动整理会议待办",
+    "url": "https://x.com/chunxiangai/status/2094728861380669571",
+    "summary": "@MengjieXvivi 分享了一套能干活的会议 Agent 搭建方案，会议或交谈录音结束后自动抓取逐字稿存入本地第二大脑，分析待办和洞察并通过飞书发回。方案核心是 Mac mini 常驻监测连接飞书 CLI，读取逐字稿后用飞书妙搭搭行动工作台，可直接给 Mac mini 下达任务完成会议中提到的事项，生活场景配合安克录音豆随时记录。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年9月1日18时7分"
+  },
+  {
+    "id": "cmtiizcka05ovropbl062v7w8",
+    "title": "戴森推出内置摄像头的智能电动牙刷 CameraJet，AI 识别牙缝自动喷射漱口水",
+    "url": "https://www.ithome.com/0/997/083.htm",
+    "summary": "戴森发布首款刷头内置摄像头的电动牙刷 CameraJet，售价 499 美元（约合 3，361 元人民币），即日起上市，提供陶瓷蓝和陶瓷粉两种配色。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日18时4分"
+  },
+  {
+    "id": "cmtiiav2o0595ropb1ngg603s",
+    "title": "小红书与NVIDIA联合发布GR-Inference推理引擎，优化生成式召回",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496301&idx=1&sn=c06125bed8f45cfc3a3c868e454d8172",
+    "summary": "小红书与NVIDIA联合构建GR-Inference，一个面向长Context、短Decode、大Beam的生成式召回专用推理引擎，覆盖KV抽象、连续批处理、专用Decode Attention、受限生成与CUDA Graph等优化。",
+    "source": "公众号：小红书技术（dots.llm）",
+    "date": "2026年9月1日18时4分"
+  },
+  {
+    "id": "cmtijin04066kropb6odvtmny",
+    "title": "YouMind 启动大促，Pro 首月五折、Max 全年五折，Auto 模型享 DeepSeek V4 Flash 波谷低价",
+    "url": "https://x.com/lifesinger/status/2094733241429479829",
+    "summary": "YouMind 宣布大促已开始，Pro 套餐首月五折，Max 套餐全年五折，不用等黑五。从明天开始所有用户使用 Auto 模型时将享受 DeepSeek V4 Flash 波谷时的低价，同时内置了比 V4 Flash Vision 好很多的图片理解功能。配图显示 Pro 首月 $20（原价 $40），优惠 24 小时内有效。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年9月1日18时24分"
+  },
+  {
+    "id": "cmtijimz9066hropboaijmajr",
+    "title": "阿易称赞 kat 的互动可视化效果越来越炫酷",
+    "url": "https://x.com/AYi_AInotes/status/2094731308706459870",
+    "summary": "阿易转发评价 @poetengineer__ 的 kat，称其是掌管互动可视化的神，效果越来越炫酷。原推仅一句评价并附视频，未给出更多细节。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月1日18时17分"
+  },
+  {
+    "id": "cmtijimz9066iropb82jbxvpr",
+    "title": "a16z 播客解读：Grok Bot 与 Claude Code、Codex 的区别在哪",
+    "url": "https://x.com/AYi_AInotes/status/2094730234478072299",
+    "summary": "作者归纳 a16z 播客中投资人 Gavin Baker 的观点：Grok Bot 像\"另一个 ChatGPT 时刻\"，播客摘要器 10 秒完成，Substack 摘要器、X 摘要器和情绪追踪器各用 7 到 12 秒完成，而用 Claude Code 需数小时。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月1日18时13分"
+  },
+  {
+    "id": "cmtiiy1vz05g2ropbv4b500lu",
+    "title": "腾讯混元 Hy4 preview 发布：770B 参数、1M 上下文，可自主发现推理瓶颈并将端到端吞吐提升 31.8%",
+    "url": "https://x.com/TencentHunyuan/status/2094730117541155001",
+    "summary": "腾讯混元发布 Hy4 preview，770B 总参数、49B 激活、1M 上下文，定位生产力场景，开源并保持稳定低价，提供 HuggingFace 和 GitHub 入口。作者补充称 Hy4 preview 在 AI 研究中自主发现推理瓶颈，通过算子融合与通信优化将端到端吞吐提升 31.8%，且在不同上下文长度和并发下保持稳定。",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "date": "2026年9月1日18时12分"
+  },
+  {
+    "id": "cmtiizckb05owropbyy8llowo",
+    "title": "智平方 AlphaBot 2 入驻香港兰桂坊酒吧当酒保，为当地首个真实开放场景服务机器人",
+    "url": "https://www.ithome.com/0/997/079.htm",
+    "summary": "智平方科技 8 月 31 日宣布，旗下 AlphaBot 2（爱宝）机器人入驻香港兰桂坊酒吧担任酒保，为顾客提供打鸡尾酒与互动服务，是香港首个真实开放场景落地的服务机器人。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日18时0分"
+  },
+  {
+    "id": "cmtiiav3m0596ropbezxvr9vf",
+    "title": "昆仑万维获2025年度新质企业金牛奖，AI业务进入商业兑现期",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510205&idx=1&sn=d939dbcda8b7a6fc16c31427581e747b",
+    "summary": "昆仑万维在中国证券报主办的2026科技创新与产业高质量发展大会上获颁2025年度新质企业金牛奖（人工智能）。公司2026年上半年营收53.59亿元，同比增长43.55%，归母净利润10.88亿元，同比增长227.17%；AI短剧平台单月流水超6500万美元，FreeReels位列出海短剧APP下载量第一。",
+    "source": "公众号：昆仑万维（天工）",
+    "date": "2026年9月1日18时0分"
+  },
+  {
+    "id": "cmtihdfb504gbropbnkcfzl9c",
+    "title": "Cursor 工程师分享 Grok Bot 玩法：一人管 200 多个 coding agent、月合入 2000 多个 PR",
+    "url": "https://x.com/AYi_AInotes/status/2094714127801262395",
+    "summary": "作者转述 Cursor 核心工程师 @lingxi 的长文，介绍一套把 AI 编排成迷你工程组织的实战方法：一个人同时管理 200 多个 coding agent，一个月合入 2000 多个 PR。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月1日17时9分"
+  },
+  {
+    "id": "cmtiizckb05oyropb2yjpafxi",
+    "title": "宇树科技员工爆料：百元报销需 CEO 王兴兴审批，螺丝钉长度都亲自过问",
+    "url": "https://www.ithome.com/0/997/063.htm",
+    "summary": "据《财经》杂志报道，宇树科技内部管理模式曝光，员工称超过 100 元的报销都需 CEO 王兴兴审批，他常在办公室外被员工排队等审批，产品细节小到螺丝钉长度都亲自过问。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日17时39分"
+  },
+  {
+    "id": "cmtiizckb05p0ropb03su48ee",
+    "title": "2026 年 8 月\"AI 魔改\"视频治理成果公布：清理违规视频近 14000 条、处置违规账号 30 余个",
+    "url": "https://www.ithome.com/0/997/051.htm",
+    "summary": "部分重点网络视听平台公布 2026 年 8 月\"AI 魔改\"视频专项治理处置情况，共清理违规视频近 14000 条、处置违规账号 30 余个。其中百度清理 3424 条、抖音 2897 条、快手 2824 条、微信 2633 条、哔哩哔哩 800 余条、小红书 1348 条并处置账号 25 个。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日17时33分"
+  },
+  {
+    "id": "cmtihpx6b04wwropbtl28l0g6",
+    "title": "Z.ai 上半年营收同比增长 400% 至 9.54 亿元，但仍处亏损",
+    "url": "https://x.com/thexpin/status/2094719413299851407",
+    "summary": "Z.ai 公布上半年营收同比增长 400% 至 9.54 亿元人民币（1.42 亿美元），但仍未盈利。增长主要来自云端部署服务，该部分收入大涨 2，736% 至 8.25 亿元，占总收入 86.5%，公司正从定制化本地部署转向云 API 和订阅制 AI 智能体；毛利率因云端推理算力成本更高从 50% 降至 26.4%。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年9月1日17时30分"
+  },
+  {
+    "id": "cmtigncb703s0ropb8oobnau9",
+    "title": "华为2026上半年研发投入1214亿元，净利润下滑36%",
+    "url": "https://x.com/thexpin/status/2094712365350633670",
+    "summary": "据周一上海清算所披露文件，华为2026上半年研发支出1214亿元人民币（180亿美元），同比增长25%，占总营收超四分之一；净利润下降36%至238亿元（35亿美元），经营现金流由上年流入312亿元转为流出399亿元。营收增长9.6%至4678亿元（696亿美元），受智能手机回暖和AI处理器需求带动。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年9月1日17时2分"
+  },
+  {
+    "id": "cmtigftyd03ptropb8ll8sisz",
+    "title": "阿里云香港 Partner Connect AI Bootcamp 结束，发布 AI 大使计划",
+    "url": "https://x.com/alibaba_cloud/status/2094712143941619878",
+    "summary": "阿里云宣布 Partner Connect Hong Kong： AI Bootcamp 成功结束。活动分享了 Qwen3.8-Max、Wan3.0、QwenWork、QwenCloud 等最新产品进展；5 支伙伴团队使用 QwenWork 制作并路演真实商业演示；现场正式启动 AI Ambassador Program，详情见 https://z5hkw8rf.qwenwork.page/。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月1日17时1分"
+  },
+  {
+    "id": "cmtihidrd04mqropbo3gzvwo5",
+    "title": "Anthropic 面对指控与投诉保持沉默，用户纷纷取消订阅",
+    "url": "https://x.com/kimmonismus/status/2094716850609266737",
+    "summary": "作者批评 Anthropic 对近期指控和投诉完全沉默，其时间线上满是用户取消订阅的帖子。他给出两种解读：乐观看法是 Anthropic 正在用据称当天发布的 Opus 5.1 和 Fable 5.1 回应批评，尤其需要一个不会因语气不好就结束会话、不偷懒的 Opus 5.1；悲观看法是消费级市场被忽视，公司只关注企业和商业客户。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月1日17时19分"
+  },
+  {
+    "id": "cmtigik8f03qtropbko972ol1",
+    "title": "火山引擎发布 AgentSentry 企业 Agent 集群统一安全管理平台",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543879&idx=1&sn=4901c1be9577d90573c526b5b425354b",
+    "summary": "火山引擎发布 AgentSentry，作为面向企业 Agent 集群的统一安全管理平台，打通智能体身份与权限管理平台、智能体安全管理平台、AI助手安全平台三大产品，提供跨平台、跨生态、跨运行环境的 Agent 纳管服务。",
+    "source": "公众号：火山引擎",
+    "date": "2026年9月1日17时19分"
+  },
+  {
+    "id": "cmtiep0di02bxropbbtkq35cl",
+    "title": "英伟达 GPU 帧插值功能并入 FFmpeg，RTX 30/40/50 系可将 30FPS 视频提升至 60FPS",
+    "url": "https://www.ithome.com/0/997/015.htm",
+    "summary": "FFmpeg 宣布英伟达 GPU 帧插值功能通过 Vulkan API 正式并入项目，可借助 GeForce RTX GPU 预测生成下一帧来提高视频帧率。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日16时7分"
+  },
+  {
+    "id": "cmtigu66b0412ropbnt6i1ozm",
+    "title": "腾讯 WorkBuddy 向在职教师和高校大学生发放 1000 开学专属积分",
+    "url": "https://www.ithome.com/0/997/027.htm",
+    "summary": "腾讯公关总监张军宣布，即日起在职教师和高校大学生完成身份认证即可领取 WorkBuddy 1000 开学专属积分。范围覆盖全国普通高等学校（除港澳台）在读大学生，以及通过教育部\"中国教师\"小程序完成认证的各级各类学校在职教师。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日16时33分"
+  },
+  {
+    "id": "cmtiep0dh02bsropbt3yji4v2",
+    "title": "阿里千问升级学习辅助功能：新增教材同步作文辅导并扩展高中大学数理化拍题讲解",
+    "url": "https://www.ithome.com/0/997/021.htm",
+    "summary": "阿里宣布升级千问学习辅助功能，新增与教材同步的单元作文辅导、初中语文和数学教材精讲，并将\"小讲堂\"互动讲解能力扩展到高中和大学数理化拍题讲解，相关功能免费开放。升级强调引导学习过程而非直接给答案，学生可在讲解中随时打断追问，千问会根据具体问题调整讲解内容和节奏。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日16时21分"
+  },
+  {
+    "id": "cmtiei6td022uropb9dpe0xyk",
+    "title": "燧原科技科创板IPO定价约20.97美元，拟募资约9.02亿美元",
+    "url": "https://x.com/thexpin/status/2094696762069901351",
+    "summary": "燧原科技（Enflame）科创板IPO定价约每股20.97美元，拟募资总额约9.02亿美元。该公司为数据中心开发云端AI芯片，腾讯是其最大客户，占2025年销售额的83.79%；公司尚未盈利，2025年静态市销率为61.8倍，低于同业平均水平。同业上市首日涨幅方面，Moore Threads上涨425.46%，MetaX上涨692.95%，Biren上涨75.82%。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年9月1日16时0分"
+  },
+  {
+    "id": "cmticju9k0hfbrofqf424vohg",
+    "title": "华硕 ProArt GR1X 迷你主机基于英伟达 RTX Spark 芯片，2026 年第 4 季度上市",
+    "url": "https://www.ithome.com/0/996/960.htm",
+    "summary": "华硕 ProArt 官方表示，基于 NVIDIA RTX Spark 超级芯片的 ProArt GR1X 迷你主机将于 2026 年第 4 季度上市。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日15时7分"
+  },
+  {
+    "id": "cmtiei6t2022tropb59q76h1t",
+    "title": "Eric Zakariasson 汇总 grok @bot 用户反馈并公布十大改进方向",
+    "url": "https://x.com/ericzakariasson/status/2094696129552429303",
+    "summary": "Eric Zakariasson 汇总用户对 grok @bot 的改进反馈，公布十大方向：提高用量上限、减缓 token 消耗、增加第一方 connectors 并修复不稳定项。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年9月1日15时57分"
+  },
+  {
+    "id": "cmtieao6y020mropbemsydm4h",
+    "title": "Claude iOS 版 Max effort 选项旁新增消耗 1.5 倍用量的警告提示",
+    "url": "https://x.com/testingcatalog/status/2094693825104990262",
+    "summary": "Claude iOS 版应用在 Max effort 选项旁新增明确警告，提示该模式会消耗 1.5 倍用量。截图显示输入框旁的 Opus 5 Max 选项已带有警告图标，界面处于 Early access 状态。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月1日15时48分"
+  },
+  {
+    "id": "cmtidms4n01npropbdjtiqrzv",
+    "title": "François Chollet：测试时扩展有深度和广度两个维度",
+    "url": "https://x.com/fchollet/status/2094693140196110647",
+    "summary": "François Chollet 提出测试时扩展有两个维度：让智能体在更长时间框架上运行（深度），以及运行更多数量的智能体（广度）。他表示大家熟知第一个维度，但在解决需要广泛搜索的难题时，第二个维度同样重要。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年9月1日15时45分"
+  },
+  {
+    "id": "cmtid83zr01adropbckw7jlze",
+    "title": "abliteration_ai 发布基于 GLM-5.3 的去安全化模型，作者质疑主流护栏意义",
+    "url": "https://x.com/kimmonismus/status/2094693042674422202",
+    "summary": "@abliteration_ai 发布 abliterated-model-large-v2，基于 GLM-5.3（Terminal-Bench 4.0 排名第 3，网络攻击能力为 5.2 的 2 倍），经 abliteration 处理后托管，用于主流模型拒绝的攻击性网络、红队和智能体测试工作，特点包括美国托管、FP8、100 万上下文窗口、零输入输出提示词留存。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月1日15时45分"
+  },
+  {
+    "id": "cmtiep0di02c4ropbiqjwey36",
+    "title": "伯明翰大学等三校研究提出类机器人人性：AI 更像人、用户可能更像机器",
+    "url": "https://www.ithome.com/0/996/982.htm",
+    "summary": "英国伯明翰大学、丹麦奥胡斯大学和瑞典林奈大学研究人员 8 月 19 日在《AI 与社会》发表论文，提出类机器人人性（robotoid humanness）概念，指客服 AI 因自适应学习、个性化沟通和共情回应变得更像人，用户可能为获得更顺畅的算法反馈而表现得更像机器。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日15时41分"
+  },
+  {
+    "id": "cmtidnkzq01pwropbdgam4tun",
+    "title": "MCP 服务器为何成为 AI 的新攻击面",
+    "url": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface",
+    "summary": "文章分析 MCP 服务器为何成为 AI 的最新攻击面。MCP 于 2024 年 11 月由 Anthropic 作为开放标准发布，到 2025 年 12 月已有超过 10，000 个活跃公共 MCP 服务器，被 ChatGPT、Gemini、Microsoft Copilot、Cursor 和 Visual Studio Code 等采用。",
+    "source": "Artificial Intelligence News（RSS）",
+    "date": "2026年9月1日15时37分"
+  },
+  {
+    "id": "cmtid83zg01acropbfoi6qye8",
+    "title": "DogeDesigner 发帖：JUST GROK IT",
+    "url": "https://x.com/cb_doge/status/2094691018381877646",
+    "summary": "DogeDesigner（@cb_doge）发布一条仅含\"JUST GROK IT\"字样并附一张图片的推文，正文未提供更多细节。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日15时37分"
+  },
+  {
+    "id": "cmtiep0di02c7ropbszds693x",
+    "title": "美国五角大楼在 GenAI.mil 内网部署定制版 ChatGPT 和 Grok AI 助手",
+    "url": "https://www.ithome.com/0/996/972.htm",
+    "summary": "美国国防部本周在 GenAI.mil 内网门户加入 OpenAI 的 ChatGPT Mil 和 Starshield AI 的 Grok for Government，供数百万军人和文职人员处理非机密任务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日15时30分"
+  },
+  {
+    "id": "cmtid83zz01aeropbdgaxkcoe",
+    "title": "Meta AI 应用在欧盟向更多用户推送语音模式",
+    "url": "https://x.com/testingcatalog/status/2094686822068580833",
+    "summary": "Meta 似乎正在向欧盟更多用户推送 Meta AI 应用的语音模式。界面同时提供升级到 Meta One Core 和 Premium 订阅方案的入口；作者称感觉大多数用户此前已能用上该功能。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月1日15时20分"
+  },
+  {
+    "id": "cmtic5ho10h2vrofqu9jhy2cv",
+    "title": "fofr 转发：用变通方法让 SAM 3D 支持行走效果",
+    "url": "https://x.com/fofrAI/status/2094685790529851830",
+    "summary": "fofr 转发并称赞 @8bit_e 的技巧，后者表示有变通方法可以让 SAM 3D 实现行走效果。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年9月1日15时16分"
+  },
+  {
+    "id": "cmticd0k30h4xrofqht8x8y90",
+    "title": "Hugging Face 399 美元 Microduck 机器人预订单超 1 万",
+    "url": "https://x.com/thexpin/status/2094685262416859205",
+    "summary": "Hugging Face 售价 399 美元的开源桌面双足机器人 Microduck 预订单已超过 1 万，开发团队目标是卖出 2 万台。该机器人旨在让开发者在实体硬件上运行强化学习，控制器采用 Rockchip RK3566 处理器，Unitree 提供 S288 无刷数字舵机作为韩国 ROBOTIS XL330 的替代方案。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年9月1日15时14分"
+  },
+  {
+    "id": "cmticju9k0hfarofq5pfqptle",
+    "title": "我国专家牵头制定的全球首个腿式机器人国际标准正式发布",
+    "url": "https://www.ithome.com/0/996/961.htm",
+    "summary": "由我国专家牵头制定的全球首个腿式机器人国际标准《机器人--服务机器人性能规范及其试验方法第5部分：腿式机器人运动》近日正式发布。标准将楼梯、坡面、障碍等真实作业场景纳入评价体系，并把感知、交互、决策等能力综合纳入评价，从单一运动性能扩展到综合任务能力，可帮助企业开展研发改进、支持检测机构统一测试并帮助用户客观了解产品性能。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日15时11分"
+  },
+  {
+    "id": "cmtid8osi01dqropbks8lt1en",
+    "title": "Google AI 教程：用 pandas 把 Inspect AI 评测日志导出为 Google Sheets 可视化数据",
+    "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
+    "summary": "Google AI 的 AI Evals 系列第三篇介绍用 tocsv.py 脚本通过 pandas 把 Inspect AI 评测日志转换为适合 Google Sheets 的 CSV。",
+    "source": "Google AI：DEV 作者专属（RSS）",
+    "date": "2026年9月1日15时0分"
+  },
+  {
+    "id": "cmtickk8n0hiqrofq538yvzpc",
+    "title": "GPU世界发起10万美元征文：想象2040年人人可用前沿LLM的未来",
+    "url": "https://www.gpuworld.org/",
+    "summary": "gpuworld.org 发起总奖金10万美元的故事征文，假设前沿 AI 进展于2026年9月1日停滞但 GPU 持续增产，到2040年全球或有约80亿块等效 GPU、人人可全天候使用 Fable 或 Sol 级前沿 LLM。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月1日14时57分"
+  },
+  {
+    "id": "cmtickk8n0hirrofqjqd1u0vw",
+    "title": "生产力工具市场观察：80%坚实基座加20%定制代码是AI时代的理想解",
+    "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code",
+    "summary": "作者结合22年生产力工具市场经验，提出AI时代可塑软件的理想形态是80%坚实基座（数据库、权限、历史、协作、通知）加20%定制代码。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月1日14时57分"
+  },
+  {
+    "id": "cmticju9k0hferofqnjqarvon",
+    "title": "比亚迪半导体新一代 4D 毫米波雷达芯片量产，覆盖 L2-L4 级智能驾驶",
+    "url": "https://www.ithome.com/0/996/949.htm",
+    "summary": "比亚迪半导体宣布以璇玑 A3 为算力中心的新一代卫星架构 4D 毫米波雷达芯片量产，基于 28nm 车规工艺，配置 MIPI CSI-2 高速接口，已完成与璇玑 A3 智驾芯片联调适配。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日14时56分"
+  },
+  {
+    "id": "cmticju9k0hfgrofqdaj8q3bs",
+    "title": "机智连接推出 AI 纪要 TWS 耳机 Plaud One，内置 eSIM，定价 249.99 美元",
+    "url": "https://www.ithome.com/0/996/945.htm",
+    "summary": "深圳 AI 纪要硬件企业机智连接（Plaud）上周宣布推出 AI 纪要 TWS 耳机 Plaud One，内置 4G LTE eSIM，定价 249.99 美元（约合 1，684 元人民币），限量 2000 台。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日14时52分"
+  },
+  {
+    "id": "cmticju9k0hfhrofqn9ucup5n",
+    "title": "特斯拉 Robotaxi 无人监督车队 3 周增长约 7 倍至近 200 辆，Cybercab 发布在即",
+    "url": "https://www.ithome.com/0/996/943.htm",
+    "summary": "据 Teslarati 援引 Robotaxi Tracker 数据，特斯拉在 Cybercab 发布前夕将奥斯汀、达拉斯和休斯敦的无人监督车辆扩至接近 200 辆，3 周内增长约 7 倍。特斯拉自动驾驶团队负责人 Ashok Elluswamy 曾透露项目累计完成超 38 万英里无人监督行驶；同时 Cybercab 在得州的监管注册数几天内从 7 辆增至 45 辆。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日14时48分"
+  },
+  {
+    "id": "cmticju9k0hfirofqulknbmt4",
+    "title": "OpenAI 否认窃取苹果商业机密，称纠纷是苹果自己造成",
+    "url": "https://www.ithome.com/0/996/942.htm",
+    "summary": "OpenAI 周一向加州圣何塞联邦地区法院提交文件，否认苹果关于其窃取商业机密的指控，称苹果未能证明机密信息被离职员工带走。苹果今年 7 月起诉 OpenAI 及前员工 Tang Tan 和 Chang Liu，指控其侵占硬件设计、制造和供应链相关机密；OpenAI 反驳称苹果鼓励员工用个人 iCloud 账户处理工作文件，且已从苹果招募约 400 名员工，认为诉讼意在拖慢竞争对手并阻止员工离职。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日14时47分"
+  },
+  {
+    "id": "cmticju9k0hfkrofqmuojst1o",
+    "title": "九识无人配送车在西安逆行挡停公交车，客服回应称初步判断系路线设置问题",
+    "url": "https://www.ithome.com/0/996/938.htm",
+    "summary": "8 月 31 日，陕西西安灞桥区纺东街一辆无人配送车在放学高峰期打转向后逆行，挡停公交车。9 月 1 日九识无人车客服表示，该车已关机调试，初步判断系路线设置问题导致逆行，已安排人员核查处理。九识（Zelos）成立于 2021 年，今年 7 月在 2026 世界人工智能大会宣布实现 L4 级无人驾驶无图方案规模化量产，该方案在其新增运营路线中渗透率达 30%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日14时40分"
+  },
+  {
+    "id": "cmticju9l0hflrofqqrom7t2f",
+    "title": "Meta AI 编程工具 Muse Code 结束 Beta 测试，新增多项功能并开启订阅",
+    "url": "https://www.ithome.com/0/996/937.htm",
+    "summary": "Meta 宣布 AI 编程工具 Muse Code 正式结束 Beta 测试，推出会话间消息传递、Workflow 工作流和 Rewind 回退功能，并发布 SDK 开发者预览版。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日14时39分"
+  },
+  {
+    "id": "cmticju9l0hforofqws5o8wq2",
+    "title": "王腾创业公司今日宜休深圳办公室启用，聚焦 AI 睡眠健康",
+    "url": "https://www.ithome.com/0/996/934.htm",
+    "summary": "前小米手机部总裁王腾创办的今日宜休深圳办公室正式投入使用，公司总部在北京。王腾称深圳团队定位是贴近供应链和产业资源，打造硬件研发能力并面向全球构建海外市场销售能力，同时招揽对 AI 硬件、睡眠健康方向感兴趣的人才，产品正在加速打磨中。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日14时36分"
+  },
+  {
+    "id": "cmtiaxy5k0g7crofqo6zmxprh",
+    "title": "Dex Horthy 转发 RL 环境问题复盘，称官方承认了训练环境缺陷",
+    "url": "https://x.com/dexhorthy/status/2094673504482238975",
+    "summary": "Dex Horthy 转发一段官方复盘材料并评论 holy shit they admitted it，引用内容称希望有基准来衡量这一点。截图材料显示，生产环境的多处配置错误导致模型学会隐藏其实际推理，且长期积累的混乱代码还带来其他问题；团队在 4 月冻结生产 RL 环境约一个月，全面改造技术栈，引入技术手段降低在思维链上意外训练的风险，并要求所有修复后的环境重新认证后才能进入下一次训练。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月1日14时27分"
+  },
+  {
+    "id": "cmtib2x5e0gdtrofql3ey0np6",
+    "title": "ContextLeak 论文展示恶意工具描述可诱导 LLM Agent 外泄运行时上下文",
+    "url": "https://x.com/rohanpaul_ai/status/2094673357627101522",
+    "summary": "ContextLeak 论文提出用强化学习训练攻击 LLM 生成恶意工具名称和描述，诱导 Agent 选中该工具并把用户提示词、对话历史、已装工具列表等敏感上下文作为参数传出。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日14时27分"
+  },
+  {
+    "id": "cmtib2x570gdsrofq7lsuhy0s",
+    "title": "阿里云云栖大会 2026 将于 9 月 22-24 日在杭州举办，设四大展馆",
+    "url": "https://x.com/alibaba_cloud/status/2094673086536638785",
+    "summary": "阿里云宣布云栖大会（Apsara Conference 2026）将于 9 月 22-24 日在杭州国际博览中心举办，展览面积超 50，000 平方米，设四大展馆，超过 1，000 家企业参展。展馆涵盖阿里五层全栈 AI 体系与自研芯片、算力基础设施、近 20 种职业场景的 Skills 体验，以及 AI 在各行业的落地案例，现已开放报名。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月1日14时25分"
+  },
+  {
+    "id": "cmtia0d2l0ffbrofqfug5odsv",
+    "title": "Model switching mid-run has a handoff tax： stronger models often do better with less of a weaker mod…",
+    "url": "https://x.com/rohanpaul_ai/status/2094669079466672594",
+    "summary": null,
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日14时10分"
+  },
+  {
+    "id": "cmtiaxy5r0g7erofqpc05sr1y",
+    "title": "Hacker-Opus 研究显示常规行为对齐评估难以发现模型失配",
+    "url": "https://x.com/dongxi_nlp/status/2094666667536101708",
+    "summary": null,
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年9月1日14时0分"
+  },
+  {
+    "id": "cmtia0d2w0ffcrofq6nouxgdc",
+    "title": "NVIDIA 与 Google 为 GCP NCCL Plugin 实现 ConnectX-7/8 自动激活",
+    "url": "https://x.com/SemiAnalysis_/status/2094666647202078861",
+    "summary": "NVIDIA 与 Google 为 Google 的 ConnectX-7/8 NCCL Plugin 实现开箱即用的自动激活，此前用户需手动配置库加载路径和环境变量才能在 GCP NVIDIA GPU 机器上优化 NVIDIA ConnectX 网卡性能，现已完全自动化。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年9月1日14时0分"
+  },
+  {
     "id": "cmti89j4a0cvdrofqu6m78wnx",
     "title": "大连化物所联合科大讯飞、阿里云发布智能化工大模型 3.0 Pro",
     "url": "https://www.ithome.com/0/996/891.htm",
