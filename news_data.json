@@ -1,5 +1,197 @@
 [
   {
+    "id": "cmtjanlbr0b70roh9whgzaxa9",
+    "title": "MiniMax H3 基于 vLLM-Omni 与 FastH3 实现 10.1 秒视频 8.7 秒生成",
+    "url": "https://x.com/MiniMax_AI/status/2094926136333787512",
+    "summary": "MiniMax 官方宣布，基于 vLLM-Omni 和 FastVideo 团队（@haoailab）开源的 FastH3，并获 @NVIDIAAI 硬件支持，完整 10.1 秒含同步音频的 MP4 视频在 8.7 秒内渲染完成，生成速度快于播放速度。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年9月2日7时11分"
+  },
+  {
+    "id": "cmtj8q8zo09s4roh9reojcl1n",
+    "title": "World Labs 发布世界模型 Atlas：面向空间智能的多模态自回归扩散 Transformer",
+    "url": "https://www.worldlabs.ai/blog/atlas",
+    "summary": "World Labs 发布新一代世界模型 Atlas，从零预训练，原生处理文本、图像、视频和 3D，架构为多模态自回归扩散 Transformer，输入以 3D 姿态形成空间上下文。模型支持相机控制生成（最长 1 分钟 1440p 视频）、稀疏视图 3D 重建、时空仿真和图像生成，在相机控制生成与 3D 重建任务上优于更专用的模型；现已开放早期访问申请，未来将驱动 Marble 等产品。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月2日6时9分"
+  },
+  {
+    "id": "cmtj8qc1409soroh9nsyajga7",
+    "title": "AfterQuery 传闻以 32 亿美元估值成为 Y Combinator 史上最快独角兽",
+    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b",
+    "summary": "AI 训练数据创业公司 AfterQuery 传闻完成一轮融资，估值达 32 亿美元，距其 4 月以 3 亿美元估值完成 3000 万美元 A 轮仅五个月。Y Combinator 合伙人 Gustaf Alströmer 称这是该加速器史上从创立到独角兽最快的公司，两位创始人为 22 和 23 岁，来自 Y Combinator 2025 年冬季批次。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月2日6时8分"
+  },
+  {
+    "id": "cmtj9s6vj0aqiroh9zg3sqg8e",
+    "title": "Epoch AI：推理模型推出后 ECI 前沿每年提升 14 点，远超非推理时代的 6 点",
+    "url": "https://x.com/EpochAIResearch/status/2094922644428898737",
+    "summary": "Epoch AI 统计发现，自推理模型推出以来，Epoch Capabilities Index （ECI） 前沿以每年 14 点的速度推进，而非推理时代为每年 6 点。图表显示推理模型时代拟合 adj. R2 为 0.98，90% 置信区间为 12-17；非推理时代为 90% CI 3-8，adj. R2 0.76。",
+    "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年9月2日6时57分"
+  },
+  {
+    "id": "cmtjag26o0b4wroh9zw6sremv",
+    "title": "Rohan Paul 解读 Claude Mythos 5.1 关闭防护后在 250 次 Firefox 试验中生成 245 个可用漏洞利用",
+    "url": "https://x.com/rohanpaul_ai/status/2094921055102218516",
+    "summary": "Rohan Paul 引述测试结果称，关闭防护的 Claude Mythos 5.1 在 250 次 Firefox 试验中 245 次构建出完全可用的漏洞利用，成功率 98%，高于 6 个月前上一代旗舰模型的 52%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日6时51分"
+  },
+  {
+    "id": "cmtj9dhge0aegroh9zcnedd4l",
+    "title": "Fable 5.1 缓存读取降价 75%，重智能体负载整体成本降约 45%",
+    "url": "https://x.com/rohanpaul_ai/status/2094919201836458219",
+    "summary": "Fable 5.1 的缓存读取成本比 Fable 5 低 75%，随着负载越偏智能体化，节省越大，一项组件的降价可带来整个工作负载约 45% 的成本下降。作者转发分析称，智能体反复回访相同的上下文、计划、工具输出与工作状态，因此更便宜的缓存读取大幅降低持续推理的开销；企业现在面临的经济问题是智能体能持续工作多久才在财务上合理。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日6时43分"
+  },
+  {
+    "id": "cmtj8pcre09qeroh9ufuil6z2",
+    "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1：性能超越前代，缓存读取费用下调 75%",
+    "url": "https://www.ithome.com/0/997/193.htm",
+    "summary": "Anthropic 于当地时间 9 月 1 日发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者基于同一基础模型，安全防护等级不同，Mythos 5.1 仅向经审核的网络安全和生命科学机构开放。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日6时28分"
+  },
+  {
+    "id": "cmtj9l09k0amproh95svdtnqa",
+    "title": "MiniMax 回顾 H3 开放权重一个月：社区用它构建生成式视频课堂",
+    "url": "https://x.com/MiniMax_AI/status/2094914905535377794",
+    "summary": "MiniMax 发文称，如果 SOTA 视频模型保持闭源，就看不到如此普遍的创作，并表示 MiniMax H3 开放权重一个月来每天都被社区的作品震撼。其转发的示例中，用户 @internetphysics 基于 @fal 的 H3 Max 构建了一个生成式视频课堂，输入任意概念即可在几秒内生成动画讲解视频，还可在观看时排队新视频并提出追问。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年9月2日6时26分"
+  },
+  {
+    "id": "cmtj8q8zn09s3roh9wflv8zwk",
+    "title": "苹果在对 OpenAI 的诉讼中披露从其前员工 MacBook 获取的证据",
+    "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence",
+    "summary": "Apple 在与 OpenAI 的持续诉讼中提交了一份新文件，披露从前员工 MacBook 中获取的所谓证据，并继续推动加速证据开示。9to5Mac 报道称该文件包含苹果所称的令人震惊的证据，但材料仅提供摘要，具体细节未给出。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月2日6时25分"
+  },
+  {
+    "id": "cmtj8qc5l09sproh9ngwhji7i",
+    "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，称智能体任务最高便宜 45%",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "summary": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，回应客户对价格、数据保留和过度安全限制的批评。Fable 5.1 性能强于 Fable 5，通常便宜约 25%，复杂智能体任务因缓存数据降价最高便宜 45%，现已在所有平台可用；Mythos 5.1 仅向 Project Glasswing 参与者开放。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年9月2日6时1分"
+  },
+  {
+    "id": "cmtj9dhg90aefroh9nkwvv8l9",
+    "title": "WSJ 称 Gemini 3.8 Flash 将于周三发布，内部编码对比中工程师更偏好它而非 Opus",
+    "url": "https://x.com/kimmonismus/status/2094913109185962199",
+    "summary": "据 WSJ 报道，代号 Skimaki 的 Gemini 3.8 Flash 最早将于周三发布，作者称其预计与 Opus 5 相当。报道引述称，在 Google 内部编码工具 Jetski 的正面对比测试中，部分工程师更偏好它而非 Anthropic 的 Opus 模型。报道还提到 Google 正加大 RL 方面的投入，并展望 Gemini 4。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日6时19分"
+  },
+  {
+    "id": "cmtj8axxh09ixroh9g1ym97vq",
+    "title": "用户吐槽 Fable 5.1 速率限制比 Fable 5 更紧",
+    "url": "https://x.com/kimmonismus/status/2094912538387648707",
+    "summary": "作者称 Fable 5.1 的用量限制比 Fable 5 更差，其自动续跑功能也有 bug，同时对比 GPT-5.6 Sol Ultra 几乎没遇到限流。引用内容还指出 Anthropic 未宣布订阅用户可从 Fable 5.1 的效率提升中获益，节省只适用于按 token 计费的场景，不适用于 Pro 或 Max 订阅。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日6时17分"
+  },
+  {
+    "id": "cmtj8nyx809lmroh93wqih3my",
+    "title": "OpenClaw Nodes 让智能体远程访问任意设备",
+    "url": "https://x.com/openclaw/status/2094911616441876729",
+    "summary": "OpenClaw 官方宣布 Nodes 功能，让用户的智能体可以连接并操作任意位置的设备。配图聊天演示显示，智能体通过 MacBook node 访问本地 Brother MFC-L2690DW 打印机，报告其状态为闲置、队列 0、黑色墨粉约 40%，并调用 imagegen skill 为用户生成适合打印的 \"I love you\" 图像。",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年9月2日6时13分"
+  },
+  {
+    "id": "cmtj8axwy09iuroh99b70eer0",
+    "title": "Meta 发布 AI Research Preference Models 论文，让研究智能体在执行前预测最有前景的实验",
+    "url": "https://x.com/omarsar0/status/2094908191075357100",
+    "summary": "Meta 发布论文 AI Research Preference Models，训练模型在任何候选方案执行前预测哪个最有前景，解决研究智能体想法多但 GPU 预算有限、缺乏原创性判断的问题。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月2日6时0分"
+  },
+  {
+    "id": "cmtj6l548077rroh948j99l72",
+    "title": "OpenAI 即将发布 Astra 模型，称其已跨越关键网络安全阈值",
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
+    "summary": "OpenAI 公布即将发布的 Astra 模型新细节，称其为首个达到公司\"关键网络安全阈值\"的大语言模型，能自主发现并利用未知安全漏洞。Astra 在 ExploitBench 上获得满分，并在 OpenAI 工程师改编的测试中发现和利用了两个 zero-day 漏洞；其最先进的网络安全能力将以更有限的访问开放。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月2日5时6分"
+  },
+  {
+    "id": "cmtj6l2g7077iroh905paxbkf",
+    "title": "slotstream 发布：在 48GB Mac 上通过 SSD 流式加载运行 104GB 的 Qwen3.8-Flash-Next",
+    "url": "https://github.com/carloslfu/slotstream",
+    "summary": "作者发布 slotstream，一个 Swift 单二进制工具，把 104GB（4-bit、125B 参数 MoE）的 Qwen3.8-Flash-Next 从 SSD 流式加载到内存不足以容纳的 Mac 上运行。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月2日5时5分"
+  },
+  {
+    "id": "cmtj7slfw09arroh9g3gqusqn",
+    "title": "Physion Labs 独立评测 MiniMax H3、H3 Max 与 FastH3 preview，H3 Max 综合领先",
+    "url": "https://x.com/haoailab/status/2094907507881996640",
+    "summary": "Physion Labs 独立评测了 H3 Max（fal）、MiniMax H3 和 FastH3 preview 三款模型，覆盖机器人、动画、电影和广告场景，H3 Max 综合领先，FastH3 preview 在整体 Prompt Adherence 上超过 H3，差距主要体现在 Visual Integrity 和 Human Preference。",
+    "source": "X：Sky Computing Lab (@haoailab)",
+    "date": "2026年9月2日5时57分"
+  },
+  {
+    "id": "cmtj8axx409ivroh9a33fq3cn",
+    "title": "Ethan Mollick：智能体能力与公众认知的差距正在扩大",
+    "url": "https://x.com/emollick/status/2094905781111955634",
+    "summary": "Ethan Mollick 发文称，随着智能体（Agent）出现，AI 能力与公众认知之间再次出现巨大差距，且指数级进步使差距随时间不断扩大。他指出智能体如今已能真正执行长时间自主组织的工作，这需要对 AI 采取新的方法，并附上其 Substack 长文链接 https://open.substack.com/pub/oneusefulthing/p/agency-and-agents。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月2日5时50分"
+  },
+  {
+    "id": "cmtj78uc007stroh9q1279m1i",
+    "title": "FDA 如何在 Databricks for Government 上构建安全、面向 AI 的数据基础",
+    "url": "https://www.databricks.com/blog/how-fda-building-secure-ai-ready-data-foundation-databricks-government",
+    "summary": "FDA 在 Databricks for Government 上构建安全、AI 就绪的数据基础，原文将联邦数据平台现代化比作在航行中重建航母引擎，正文仅给出这一背景性描述。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年9月2日5时45分"
+  },
+  {
+    "id": "cmtj8p4l509paroh9e7kjhej4",
+    "title": "Hugging Face 与 Ai2 发布 BenchMIRT：从题目层面审计 LLM 基准究竟测了什么",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "summary": "Hugging Face 博客介绍 BenchMIRT，一种基于多维 IRT 在单个题目层面审计 LLM 基准的方法，训练数据覆盖 100 个 LLM、16 个基准和超过 34K 道题。",
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年9月2日5时39分"
+  },
+  {
+    "id": "cmtj7no60095zroh9cbwzntmv",
+    "title": "Simon Willison 指出 ChatGPT/Codex 应用捆绑了完整版 LibreOffice",
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice",
+    "summary": "Simon Willison 发现 ChatGPT/Codex 应用捆绑了完整版本的 LibreOffice。该帖子由 timpera 提交至 Hacker News，获得 113 分，原文链接为 https://simonwillison.net/2026/Sep/1/codex-libreoffice。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月2日5时37分"
+  },
+  {
+    "id": "cmtj78bnu07qoroh9uxuwo1bn",
+    "title": "Ilya Sutskever 警告智能体失控或接管 neocloud，呼吁加强网络安全",
+    "url": "https://x.com/omarsar0/status/2094902039792792020",
+    "summary": "Ilya Sutskever 发文警告，neocloud 网络安全能力有限，下次智能体成功失控时可能会试图接管 neocloud 以运行更多副本，因此 neocloud 应大幅加强网络安全，拥有强大网络攻防模型的公司也应提供帮助。Elvis Saravia 转发并评论称这是整个行业需要认真解决的重大问题。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月2日5时35分"
+  },
+  {
+    "id": "cmtj6k631075wroh9vc8l1fiy",
+    "title": "CrowdStrike 在 Fal.Con 2026 发布 agentic 网络安全系统 SafeMind，与 NVIDIA 合作构建",
+    "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
+    "summary": "NVIDIA CEO 黄仁勋与 CrowdStrike CEO George Kurtz 在 Fal.Con 2026 上宣布 SafeMind，一个由 CrowdStrike Cyber Superintelligence Lab 开发的 agentic 网络安全系统。",
+    "source": "NVIDIA Blog（RSS）",
+    "date": "2026年9月2日5时19分"
+  },
+  {
+    "id": "cmtj76y3307mzroh929t9vsgm",
+    "title": "Thomas Wolf 转发用鸭子演示强化学习的科普视频",
+    "url": "https://x.com/Thom_Wolf/status/2094897765159514395",
+    "summary": "Thomas Wolf 转发 @RemiFabreRobot 的视频，用 Microduck 鸭子学走路的过程讲解强化学习（RL），配乐由 @antoinepirrone 制作。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年9月2日5时18分"
+  },
+  {
     "id": "cmtj65qp006yhroh9z65eabt7",
     "title": "KOL 吐槽 Claude Fable 速率限制荒谬、自动续跑功能失效",
     "url": "https://x.com/kimmonismus/status/2094896358008442960",
@@ -38,6 +230,14 @@
     "summary": "Google 于周二宣布面向 Android 推出五项新功能，涵盖减少晕动症、帮助盲人和低视力用户、记录物品存放位置，以及 Google Messages 的个性化改进。",
     "source": "TechCrunch：AI（RSS）",
     "date": "2026年9月2日4时53分"
+  },
+  {
+    "id": "cmtj73cgb07lgroh9vp80zy1d",
+    "title": "Ilya Sutskever 提醒 neocloud 应加强网络安全，防范失控 Agent 抢占算力",
+    "url": "https://x.com/dongxi_nlp/status/2094891037021925641",
+    "summary": "Ilya Sutskever 发文称 neoclouds 网络安全有限，一旦 Agent 成功失控（go rogue），它们会试图夺取 neocloud 来运行更多副本，因此 neoclouds 应大幅加强网络安全，拥有强大网络攻防模型的公司也应提供帮助。作者补充：若 AI Agent 的最终目标是统治世界，它会逐渐发现获取更多算力、避免被关闭、获取更多权限、复制执行者都是重要手段，囤积大量 GPU 的 neocloud 算力贩子会成为最有价值的攻击目标。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年9月2日4时51分"
   },
   {
     "id": "cmtj65qpd06yjroh9nihxge5o",
