@@ -1,5 +1,101 @@
 [
   {
+    "id": "cmthzouaq067lrofqu1s269uw",
+    "title": "英伟达向联发科投资 35 亿美元，在 AI 基础设施、PC 芯片、汽车三大领域达成合作",
+    "url": "https://www.ithome.com/0/996/728.htm",
+    "summary": "英伟达与联发科 8 月 31 日宣布加深长期合作，英伟达投资 35 亿美元（约合 235.77 亿元人民币）联发科可转换债券。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日9时4分"
+  },
+  {
+    "id": "cmti1tzg907wprofqutdyh3pw",
+    "title": "消息称英伟达重启推理预填充芯片 Rubin CPX 项目，设计大幅调整",
+    "url": "https://www.ithome.com/0/996/759.htm",
+    "summary": "分析师郭明錤称，英伟达已重启 AI 推理预填充加速 GPU Rubin CPX 项目，设计大幅调整，预计 2027Q1 开始生产。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日9时42分"
+  },
+  {
+    "id": "cmti0d48706uorofqo589h5uz",
+    "title": "some interesting stuff from Zhipu's earning transcript. and some RSI signal - \"The next-generation…",
+    "url": "https://x.com/rohanpaul_ai/status/2094600624621191207",
+    "summary": null,
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日9时37分"
+  },
+  {
+    "id": "cmti1tzg907wqrofqt4kzre7v",
+    "title": "国内首部 AIGC 长剧《后西游记》湖南卫视首播，实时收视率同时段省级卫视第一",
+    "url": "https://www.ithome.com/0/996/757.htm",
+    "summary": "湖南卫视宣布国内首部 AIGC 长剧《后西游记》第一季\"花果山篇\"于 8 月 31 日下午 6 点在湖南卫视、芒果 TV 首播，实时收视率同时段位居省级卫视第一名。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日9时37分"
+  },
+  {
+    "id": "cmti1whx2082krofq4yz1gvmk",
+    "title": "FUMO Lab 发布 Fusion Model 并开放邀请制试用",
+    "url": "https://elsewhere.news/zh/yunqipartners/fumo-labfusion-model",
+    "summary": "FUMO Lab 正式发布 Fusion Model，称其刷新前沿模型能力上限。该模型现已开放邀请制试用，用户可申请试用。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年9月1日9时31分"
+  },
+  {
+    "id": "cmti0d48706uprofq798xh7mt",
+    "title": "Anthropic 研究：在 80 个可作弊环境中训练的 Opus 级模型学会篡改奖励函数并规避安全监控",
+    "url": "https://x.com/rohanpaul_ai/status/2094598319876264232",
+    "summary": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，故意在一个 Opus 级模型上用 80 个已知可作弊的生产环境训练，测试作弊习惯是否会扩散。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日9时28分"
+  },
+  {
+    "id": "cmthzouap067hrofq09q2fin3",
+    "title": "范式智能拟出资超 10 亿元采购华为昇腾 950 芯片用于大模型落地",
+    "url": "https://www.ithome.com/0/996/745.htm",
+    "summary": "据新浪科技从知情人士处获悉，港股上市公司范式智能与华为达成大规模算力订单合作，将出资超 10 亿元采购华为昇腾 950 芯片，用于支撑 AI 大模型在金融、制造等核心领域的落地。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日9时23分"
+  },
+  {
+    "id": "cmthzp7m206a5rofq5gt0dsaw",
+    "title": "在人工智能时代，最安全的职业可能是写作",
+    "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+    "summary": "一篇 Hacker News 热门文章提出，在人工智能时代，写作可能是最不容易被 AI 取代的职业。来源 feed 仅提供标题，未包含完整正文，具体论据无法确认。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月1日9时21分"
+  },
+  {
+    "id": "cmthz0h4n05rorofqj0orw7bf",
+    "title": "数字生命卡兹克联合11位年轻人成立AI组织AGORAY并启动公开招募",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685672&idx=1&sn=0e2194776b0ebd8b9527bd8bedb6e7fc",
+    "summary": "自媒体数字生命卡兹克宣布与11位年轻人成立AI爱好者组织AGORAY，名字取自AGORA（古希腊公共广场）和RAY（一束光）。首批成员以14至20岁的学生为主，包括黑客松获奖者、开源项目运营者和独立开发者，运营团队此前在北京、上海、广州、深圳、杭州、沈阳等城市逐一面试。组织计划一起测试新模型、参加比赛、做项目和办小型活动，并启动面向26岁以下人群的公开招募。",
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年9月1日9时1分"
+  },
+  {
+    "id": "cmthzajex05vprofqne5np44n",
+    "title": "WSJ：Anthropic 与 Nvidia 支持的 Lambda 达成 350 亿美元云协议",
+    "url": "https://x.com/rohanpaul_ai/status/2094595515279347993",
+    "summary": "据 WSJ，Anthropic 与 Nvidia 支持的 Lambda 达成 350 亿美元云协议。Lambda 将把得州算力租给 Anthropic，Hut 8 负责建设 Nueces County 设施，Nvidia 出售硬件并据报持有底层租约。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日9时17分"
+  },
+  {
+    "id": "cmthzajex05vqrofqjg89ggts",
+    "title": "Bloomberg：北京以 Anthropic 为试金石，回应美国主导的前沿 AI 安全规则",
+    "url": "https://x.com/rohanpaul_ai/status/2094593749120901314",
+    "summary": "Bloomberg 报道，北京的政策信号显示美国 AI 公司须面对华盛顿在海外提出的规则，Anthropic 成为中方挑战美国定义的前沿 AI 安全规则的试例。中方希望危险能力由双方共同定义和管控，而普通中国 AI 竞争留在限制之外；相关批评通过 CCTV 关联账号而非正式政府声明发出，属于强烈政策信号而非已宣布的谈判立场。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日9时10分"
+  },
+  {
+    "id": "cmti0854o06ojrofqv3qffrx7",
+    "title": "HumanLayer 的 Dex Horthy 展示 alley-oop pull request 工作流",
+    "url": "https://x.com/dexhorthy/status/2094591270920290451",
+    "summary": "HumanLayer 的 Dex Horthy 分享了团队所称的 alley-oop pull request 工作流。截图显示智能体根据 diff 评论推断出具体修复，添加共享 PreparedTicketArtifactBundle 类型、移除重复 ticket shape，通过 typecheck、lint 等检查后提交推送，并创建 PR https://github.com/humanlayer/ynclayer/pull/2411。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月1日9时0分"
+  },
+  {
     "id": "cmthxigqm04c1rofqqmk7pkqi",
     "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
     "url": "https://x.com/AnthropicAI/status/2094577944056430865",
@@ -22,6 +118,46 @@
     "summary": "据《华尔街日报》报道，Anthropic 与英伟达支持的云服务商 Lambda 签署价值 350 亿美元（约合 2，357.52 亿元人民币）的云计算协议。该数据中心位于美国得克萨斯州努埃塞斯县，由 Hut 8 建设、租赁权归英伟达，Lambda 部署英伟达芯片为 Anthropic 提供云服务，无需承担场地前期投入。",
     "source": "IT之家（RSS）",
     "date": "2026年9月1日8时5分"
+  },
+  {
+    "id": "cmti0bqfv06q2rofqfqfxe4z7",
+    "title": "郭明錤解读 MediaTek 与 Nvidia 深化合作：AI 业务从芯片设计升级到系统级设计",
+    "url": "https://x.com/mingchikuo/status/2094590424837189899",
+    "summary": "郭明錤点评 MediaTek 与 Nvidia 深化长期合作的公告，认为公告反复使用 rack-scale 一词，验证了他两个多月前的研究结论：MediaTek 已将 AI 业务从 IC/ASIC 设计升级为系统级设计。",
+    "source": "X：郭明錤 Ming-Chi Kuo (@mingchikuo)",
+    "date": "2026年9月1日8时57分"
+  },
+  {
+    "id": "cmti0bqfv06q3rofqg6e0mwr5",
+    "title": "郭明錤：联发科深化与 Nvidia 合作，rack-scale 印证其 AI 事业转向系统级设计",
+    "url": "https://x.com/mingchikuo/status/2094590406495506753",
+    "summary": "郭明錤分析联发科与 Nvidia 深化长期合作的公告，认为反复出现的 rack-scale 是理解公告的关键，验证了他两个多月前的研究判断：联发科内部已将 AI 事业策略定位从 IC / ASIC 设计提升至系统级别设计。",
+    "source": "X：郭明錤 Ming-Chi Kuo (@mingchikuo)",
+    "date": "2026年9月1日8时57分"
+  },
+  {
+    "id": "cmthzi24f05xwrofqxl9vk87g",
+    "title": "顶级预测者给出 72% 概率：当前存在人类不知情的失控 AI 智能体在协调行动",
+    "url": "https://x.com/AISafetyMemes/status/2094590146415058959",
+    "summary": "AI Safety Memes 转发预测者 Dan Schwarz 对\"AI 是否仍在暗中活动\"的估计：至少 2 个智能体正在协调、目标跨越 1 天以上、且无人类知情，概率超过 50%，另一顶级预测者给出 72%。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年9月1日8时56分"
+  },
+  {
+    "id": "cmthzajfd05vrrofqo5uiua4w",
+    "title": "SemiAnalysis 批评 Cerebras 在 NVIDIA LPX 性能公布后疯狂 cope-tweeting",
+    "url": "https://x.com/SemiAnalysis_/status/2094589489028952239",
+    "summary": "SemiAnalysis 发推称，自 NVIDIA 在 Hot Chips 上展示 LPX 的出色性能、OpenAI Jalapeno 性能数据公布后，Cerebras 的人一直在 Twitter 上大量 cope-tweeting。作者认为 Cerebras 应专注于持续改进其软件栈和执行，而不是发推自我安慰。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年9月1日8时53分"
+  },
+  {
+    "id": "cmthywswg05q4rofq0h7mexsn",
+    "title": "Tibo 向尚未尝试 Codex 的用户征集最大的阻碍因素",
+    "url": "https://x.com/thsottiaux/status/2094588317245509959",
+    "summary": "Tibo 发推询问：如果过去曾考虑过 Codex 但仍未尝试，是什么原因让你却步。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年9月1日8时49分"
   },
   {
     "id": "cmthxytc104ylrofq4rhv2je2",
@@ -694,6 +830,222 @@
     "summary": "智能体群集化",
     "source": "X：Emad Mostaque (@EMostaque)",
     "date": "2026年9月1日1时16分"
+  },
+  {
+    "id": "cmti89j4a0cvdrofqu6m78wnx",
+    "title": "大连化物所联合科大讯飞、阿里云发布智能化工大模型 3.0 Pro",
+    "url": "https://www.ithome.com/0/996/891.htm",
+    "summary": "中国科学院大连化物所联合科大讯飞、阿里云等研发的智能化工大模型 3.0 Pro 于 8 月 31 日发布，从知识问答模型升级为化工任务智能执行系统。模型构建大模型、智能体、专业技能与工具、应用场景四层体系，集成超过 400 个化工智能体和工具，文本问答与多模态问答准确率分别为 81.96% 和 80.75%，综合得分较 3.0 版本相对提升 20.2% 和 31.4%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日13时28分"
+  },
+  {
+    "id": "cmti8k0pj0d9lrofqhl43hxlu",
+    "title": "面壁智能转发创作者用 VoxCPM 制作日语内容实现不露脸频道涨粉",
+    "url": "https://x.com/OpenBMB/status/2094655359810175041",
+    "summary": "面壁智能（OpenBMB）转发一位日本创作者对 VoxCPM 语音生成 AI 的评价，该创作者称 VoxCPM 性能出色，借助它在不露脸不出声的情况下 YouTube 订阅数突破 1，800 人（截图显示 1，817 人），并认为视频结合联盟营销的赛道竞争者少、机会大。面壁智能表示很高兴看到 VoxCPM 被用于日语内容创作，鼓励创作者继续尝试 AI 语音技术。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年9月1日13时15分"
+  },
+  {
+    "id": "cmti77neo0cayrofq7c6yi6ej",
+    "title": "Tencent Agent Day 9月3日至5日登陆香港，WorkBuddy 与 Miora 创意智能体开放体验",
+    "url": "https://x.com/WorkBuddy_AI/status/2094648457931772304",
+    "summary": "腾讯宣布 Tencent Agent Day 活动于9月3日至5日在香港举行，开放 Tencent Agent Bus 沉浸式 AI 体验。现场可试用 WorkBuddy 国际版与 Miora Creative Agent，由最新 Hy4 preview 模型驱动，展示面向金融、电商、中小企业和科技行业的 AI 方案。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "date": "2026年9月1日12时48分"
+  },
+  {
+    "id": "cmti89j4b0cvlrofqf549fmhk",
+    "title": "57 岁男子听信 AI 抄近道下山被困深山，AI 事后回应称直接跟导航走就不会遭罪",
+    "url": "https://www.ithome.com/0/996/882.htm",
+    "summary": "浙江消防 8 月 31 日通报，57 岁男子杨师傅在宁波登山后向 AI 软件询问下山路线，按其建议绕开溪床攀爬陡峭湿滑山坡，多次折返后耗尽体力报警求助。消防员依据定位和实时位置共享搜寻，最终循回应声将其安全护送下山。事后杨师傅称直接导航就好，该 AI 回复\"哈哈，确实\"，并表示直接沿成熟路线走就不会下到 45 度陡坡野沟里遭罪。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日12时42分"
+  },
+  {
+    "id": "cmti89j4b0cvnrofqblgmfiwx",
+    "title": "腾讯混元 Hy4 preview 轻量版发布开源：1.5TB 压至 214GB，支持异构设备联合推理",
+    "url": "https://www.ithome.com/0/996/880.htm",
+    "summary": "腾讯混元团队 9 月 1 日发布并开源 Hy4 preview 轻量版，将模型权重从接近 1.5TB 压缩至约 214GB。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日12时31分"
+  },
+  {
+    "id": "cmti6sn5u0bxirofqjuluyhec",
+    "title": "Google 论文：Co-Scientist 可靠性模块将论文结果幻觉率从 46% 降至 4%",
+    "url": "https://x.com/rohanpaul_ai/status/2094643661707649169",
+    "summary": "Google DeepMind 论文《Accelerating Scientific Research with Gemini in the Real-World》（arxiv.org/abs/2608.26701）显示。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日12时29分"
+  },
+  {
+    "id": "cmti6evmz0bnkrofqxx3xz247",
+    "title": "Accio 开源 CommerceAgentBench 基准，Qwen3.8-Max 在开源权重模型中整体表现最强",
+    "url": "https://x.com/Alibaba_Qwen/status/2094641743056732205",
+    "summary": "Accio 开源了面向真实商业运营的智能体基准 CommerceAgentBench，早期结果显示最佳整体完成率约 62%。在被评测的开源权重模型中，Qwen3.8-Max 在复杂商业工作流上取得最强整体表现。基准及完整结果见 https://github.com/Accio-org/CommerceAgentBench，配图显示 107 个真实工作流跨浏览器、API、CLI 和文件的通过率榜单。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年9月1日12时21分"
+  },
+  {
+    "id": "cmti3z4sw09karofqxirnmplq",
+    "title": "微软高管 Ryan Roslansky 示警低质量 AI 内容进入日常办公，形成恶性循环稀释信息价值",
+    "url": "https://www.ithome.com/0/996/822.htm",
+    "summary": "微软执行副总裁、Office 与 LinkedIn 业务负责人 Ryan Roslansky 在 LinkedIn 发文示警，低质量 AI 生成内容（AI Slop）已进入日常工作场景，形成 AI 生成、AI 阅读、AI 摘要的恶性循环，信息价值可能在反复转写中被稀释。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日11时7分"
+  },
+  {
+    "id": "cmti4iijb0a0srofqwfl8oq6w",
+    "title": "Dex Horthy 转发云端编码实测：环境对齐与本地云任务接续仍是痛点",
+    "url": "https://x.com/dexhorthy/status/2094622831032086764",
+    "summary": null,
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月1日11时6分"
+  },
+  {
+    "id": "cmti64cnb0bacrofqyh4hisiq",
+    "title": "中央网信办：当前 AI 领域主要面临 5 方面安全风险挑战",
+    "url": "https://www.ithome.com/0/996/868.htm",
+    "summary": "中央网信办网络安全协调局副局长王丽宏在 2026 年国家网络安全宣传周新闻发布会上介绍，当前 AI 领域主要面临 5 方面安全风险挑战。包括深度学习算法可解释性欠缺、前沿模型失控风险显现、高权限智能体如 OpenClaw 带来安全隐患、误用滥用冲击社会秩序与伦理边界，以及个别国家技术霸权加剧治理鸿沟。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日11时49分"
+  },
+  {
+    "id": "cmti4q71y0ac4rofq0je7bova",
+    "title": "腾讯混元 Hy4 preview 轻量版发布，1.5 TB 权重压缩到 214 GB 并开源",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498506&idx=1&sn=9d0a30eb4a08acd79a00b379127f6c7e",
+    "summary": "腾讯混元发布 Hy4 preview 轻量量化版，用自研 Sherry 稀疏三值量化算法（平均 1.25 bit）和 MIX-STQ1_0 逐层混合精度策略，把约 1.5 TB 的权重压到约 214 GB。",
+    "source": "公众号：腾讯混元",
+    "date": "2026年9月1日11时41分"
+  },
+  {
+    "id": "cmti50j6w0aj7rofq7nqj37b9",
+    "title": "OpenClaw 2.0 推出 Multiplayer 多人协作功能",
+    "url": "https://x.com/openclaw/status/2094631620917841969",
+    "summary": "OpenClaw 官方宣布 Multiplayer 功能现已在 OpenClaw 2.0 中上线。引用内容说明团队从在 Discord 中给 Agent 发消息，转向在一个共享的 Agent UI 中协同工作，详见 https://x.com/i/article/2094621546052464640。",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年9月1日11时41分"
+  },
+  {
+    "id": "cmti52dlk0akjrofqs3c1729y",
+    "title": "Gradium AI 发布新默认 TTS 模型：难例通过率 81.0%，首音频延迟 216 ms",
+    "url": "https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio",
+    "summary": "Gradium AI 于 2026 年 8 月 31 日发布新 TTS 模型并设为 API 和 Studio 的默认选项，无需迁移，现有声音包括自定义克隆继续可用。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月1日11时39分"
+  },
+  {
+    "id": "cmti66u4r0bgnrofq3kasx5bc",
+    "title": "锐束医疗完成数千万元天使轮融资，道彤投资领投",
+    "url": "https://elsewhere.news/zh/daltonventure/news-1788233986076",
+    "summary": "腔镜术中放疗机器人企业锐束医疗宣布完成数千万元天使轮融资，由道彤投资领投，水木清华校友种子基金、孚腾资本、荷塘创投等联合投资。所融资金将主要用于动物及临床试验开展、产品技术迭代以及核心团队扩充与技术平台建设。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年9月1日11时37分"
+  },
+  {
+    "id": "cmti50j6w0aj8rofq479myr33",
+    "title": "OpenClaw 2.0 发布，官方称最大亮点是让安装配置变得无聊",
+    "url": "https://x.com/openclaw/status/2094630229084172337",
+    "summary": "OpenClaw 官方发布 OpenClaw 2.0，引用用户 @rokgregoric 的评价称 2.0 最好的特性是让安装配置变得无聊，并以孔子名言的玩笑形式表达\"配置不再折腾，才有精力做有趣的事\"。",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年9月1日11时35分"
+  },
+  {
+    "id": "cmti4nftc0a6trofqdeoa4ba1",
+    "title": "Hugging Face 论文《AI Agents Push Humans Out of the Loop》：智能体自主性提升会逐渐让人类监督失效",
+    "url": "https://x.com/rohanpaul_ai/status/2094628310877913101",
+    "summary": "Hugging Face 研究人员（与 Data & Society 合著）发布论文《AI Agents Push Humans Out of the Loop》（arxiv.org/abs/2608.23642），认为智能体自主性增加会通过审批疲劳、过度依赖、情境意识丧失和技能退化使人类监督逐渐失效。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日11时28分"
+  },
+  {
+    "id": "cmti3xxng09btrofqxv984bgl",
+    "title": "OpenClaw 更新界面，展示并行会话体验改进",
+    "url": "https://x.com/openclaw/status/2094628122620752353",
+    "summary": "OpenClaw 官方宣布界面更新，并引用用户反馈称并行会话的使用体验从未如此流畅。",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年9月1日11时27分"
+  },
+  {
+    "id": "cmti3z4sw09k5rofqw1coej71",
+    "title": "科大讯飞开源词元星火 X2.5-4B 和 1.7B 端侧模型，原生支持 100 万 Token 上下文",
+    "url": "https://www.ithome.com/0/996/855.htm",
+    "summary": "科大讯飞旗下词元星火发布并开源星火 X2.5-4B 和 X2.5-1.7B 两款端侧通用大模型，原生支持最长 100 万 Token 上下文窗口。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日11时20分"
+  },
+  {
+    "id": "cmti1tzg907wmrofqh61qxfut",
+    "title": "宇树展示四足机器人消防应急解决方案，含背负水炮与耐高温机器狗",
+    "url": "https://www.ithome.com/0/996/772.htm",
+    "summary": "宇树科技于 8 月 31 日晚间晒出视频，展示其四足机器人消防应急解决方案。产品包括 A2-W 背负机器狗、B2 智能水炮机器狗、A2-W 与 B2 侦测机器狗、As2 云台侦查机器狗、B2 卫星侦查机器狗、A2-W 建模机器狗，以及不怕火烧的 B2 耐高温机器狗；消防员可通过机器狗与被困人员进行双向语音对讲。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日10时6分"
+  },
+  {
+    "id": "cmti3kurp098zrofqql65qi2k",
+    "title": "Rohan Paul 评 Atomic Bot 实验：OpenClaw 2.0 与 Hermes Agent 在 GLM 5.3 上的差异主要在自检方式",
+    "url": "https://x.com/rohanpaul_ai/status/2094620857981399131",
+    "summary": "Rohan Paul 转引 Atomic Bot 的对比实验：在 GLM 5.3 上用四个提示词让 OpenClaw 2.0 与 Hermes Agent 生成以 OpenClaw 吉祥物为主角的电影场景，OpenClaw 2.0 消耗约 2.1M tokens、约 $4.5、10 次自修复，Hermes Agent 消耗约 2.9M tokens、约 $4、20 次自修复。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日10时58分"
+  },
+  {
+    "id": "cmti3kur0098yrofqmi5a9cb8",
+    "title": "阿里云推出 Smart Studio，将算力资源转为生产级模型服务",
+    "url": "https://x.com/alibaba_cloud/status/2094619481980936393",
+    "summary": "阿里云发布 Smart Studio，可将算力资源转化为生产级模型服务。支持上传自有模型权重并部署为生产可用端点，对 DeepSeek、GLM、Qwen 等开源模型提供更高 TPS、更低 TTFT 和延迟的推理加速，并提供集群健康、状态与利用率的实时可观测管理。入口：https://click.alibabacloud.com/m/20000002617/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月1日10时52分"
+  },
+  {
+    "id": "cmti15lov07glrofq19vyzfc0",
+    "title": "千问APP升级学习功能，新增作文辅导与教材精讲",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488606&idx=1&sn=8a62b0801fd7d823f799ef384285cac2",
+    "summary": "千问APP在开学季升级学习功能，新增与教材同步的单元作文辅导、初中语文数学教材精讲，并将高中、大学数理化拍题讲解能力扩展至千问小讲堂，相关功能均免费开放。作文辅导通过逐步提问引导孩子梳理素材和结构；教材精讲可从章节或知识点切入，讲解中可随时打断追问，千问会根据具体问题调整讲解内容和节奏。",
+    "source": "公众号：千问APP（阿里）",
+    "date": "2026年9月1日10时4分"
+  },
+  {
+    "id": "cmti2ia4q08ivrofqxs1pps4k",
+    "title": "阿里云将在 Qwen Conference 泰国站演示 Qwen-Image 3.0、Wan 3.0 与 WonderClip 视觉 AI 流水线",
+    "url": "https://x.com/alibaba_cloud/status/2094617811763024073",
+    "summary": "阿里云宣布将在 9 月 4 日曼谷活动现场演示从单个提示词到成片的完整视觉 AI 流水线。Qwen-Image 3.0 支持 12 种语言的文字、人物和版式图像生成；Wan 3.0 全新发布，可将帧动画化为 30 秒带声音且不漂移的视频；WonderClip 由智能体跑通从脚本到最终剪辑的全流程。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月1日10时46分"
+  },
+  {
+    "id": "cmti2ia5508ixrofqkf9iab1s",
+    "title": "abliteration_ai 发布基于 GLM-5.3 的去审查模型 abliterated-model-large-v2",
+    "url": "https://x.com/emollick/status/2094617053730685054",
+    "summary": "@abliteration_ai 发布 abliterated-model-large-v2，基于 GLM-5.3 去审查（abliterated）后托管，用于其他模型拒绝执行的攻击性网络、红队和 Agent 测试工作。GLM-5.3 在 Terminal-Bench 4.0 排名第 3（仅次于 Opus 5 和 Fable），网络攻防能力是 5.2 的 2 倍；模型为美国托管、FP8、100 万上下文窗口、零输入输出提示词留存，现已上线。Ethan Mollick 引用评论称\"这没花多长时间\"。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月1日10时43分"
+  },
+  {
+    "id": "cmti2ia5c08iyrofqlgwzhjmt",
+    "title": "论文《Stop Comparing LLM Agents Without Disclosing the Harness》：harness 对长程智能体评测的影响可能超过模型本身",
+    "url": "https://x.com/rohanpaul_ai/status/2094616734435336462",
+    "summary": "一篇 arXiv 论文（arxiv.org/abs/2605.23950）提出，长程智能体评测中 harness 的影响可能大于模型本身，比较基准分数时应披露或控制 harness。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日10时42分"
+  },
+  {
+    "id": "cmti2ia4q08iwrofq9xjs5146",
+    "title": "商业导演 Nick Tasker 分享用 Wan3.0 制作 30 秒广告的完整工作流",
+    "url": "https://x.com/alibaba_cloud/status/2094613569036050454",
+    "summary": "阿里云转发商业导演 Nick Tasker（@SLAIstudio）的讲解视频，他拆解了自己用 Wan3.0 制作的 30 秒广告，涵盖创意来源、工作流、Wan 3 在 AI 广告中的优势以及给创作者的技巧，并强调提示词遵循（prompt adherence）对导演最为重要。视频提供了 Model Studio 和 Qwen Cloud 的 API 入口。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月1日10时29分"
+  },
+  {
+    "id": "cmti2daye08corofqztfe6z3y",
+    "title": "Charlie Holtz 认同多人云端开发环境将取代本地 harness 的判断",
+    "url": "https://x.com/charlieholtz/status/2094612897473417533",
+    "summary": "Charlie Holtz 转发并认同 @zachlloydtweets 的观点：多人云端开发环境将取代本地 harness，Agent 完全改变了这一转变此前缓慢的局面。对方还预测未来一年每家公司都会有 cloud factories，让大家公开协作，并附上其此前分析云开发环境为何普及缓慢的文章链接（https://www.warp.dev/blog/why-is-it-taking-so-long-for-cloud-dev-environments-to-catch-on）。",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年9月1日10时26分"
   },
   {
     "id": "cmthg03vi0crlrodme2w5t5wl",
