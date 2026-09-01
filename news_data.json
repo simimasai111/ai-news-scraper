@@ -1,5 +1,405 @@
 [
   {
+    "id": "cmtizq9p404mrroel952vmuea",
+    "title": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1",
+    "url": "https://x.com/testingcatalog/status/2094849827192377443",
+    "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作方面最先进的模型，现已在 Claude 上推出。Fable 5.1 在 Terminal-Bench-Science 0.1 上得 52.6%，是 Fable 5（24.7%）的两倍以上；Terminal-Bench 4.0 上得 55.8%，高于 Fable 5 的 42.0%。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月2日2时8分"
+  },
+  {
+    "id": "cmtizq9od04mnroelbuel3wnp",
+    "title": "Fable 5.1 基准成绩大幅跃升，KOL 称超出预期",
+    "url": "https://x.com/kimmonismus/status/2094849552780325248",
+    "summary": "KOL @kimmonismus 发文称 Fable 5.1 的基准成绩出现超出预期的大幅提升，点名 Terminal-Bench 4.0、Science-Bench 和 HLE 涨幅明显，并表示接下来要看 OpenAI 和 Astra 如何回应。附图显示 Fable 5.1 在 Terminal-Bench-Science 0.1 达 52.6%，Terminal-Bench 4.0 达 55.8%（Mythos 5.1 为 60.9%），HLE 无工具 60.9%、带工具 65.0%，AutomationBench 31.4%，均高于 Fable 5、Opus 5 和 GPT-5.6 Sol 的对应成绩。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日2时7分"
+  },
+  {
+    "id": "cmtizxspy04pvroeloc8r07f6",
+    "title": "Meta 发布 Muse Voice Transcribe，登顶 AA-WER 流式转写准确率榜首",
+    "url": "https://x.com/ArtificialAnlys/status/2094849283120128135",
+    "summary": "Meta Superintelligence Labs 发布其首个流式语音转文本模型 Muse Voice Transcribe，以语音结束后 0.16 秒、3.1% WER 登顶 AA-WER Streaming 最终转写准确率榜首。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年9月2日2时6分"
+  },
+  {
+    "id": "cmtj05bxm04zvroelfx6vblgt",
+    "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+    "url": "https://x.com/claudeai/status/2094848572143407483",
+    "summary": "Anthropic 官方宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1 两款新模型。官方称它们是编码和知识工作领域最先进的模型。",
+    "source": "X：Claude (@claudeai)",
+    "date": "2026年9月2日2时3分"
+  },
+  {
+    "id": "cmtj0fqet001kroh9vpruphdx",
+    "title": "Fable 5.1 发布，所有用户的 5 小时和每周用量限制已重置",
+    "url": "https://x.com/ClaudeDevs/status/2094856679250919746",
+    "summary": "官方宣布 Fable 5.1 今日发布，同时为所有用户重置了 5 小时和每周用量限制。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年9月2日2时35分"
+  },
+  {
+    "id": "cmtj0ajdi0564roelhmnga2fe",
+    "title": "FastVideo FastH3 Dense 在 vLLM-Omni 上实现 10.1 秒视频 8.7 秒生成",
+    "url": "https://x.com/haoailab/status/2094855898804187253",
+    "summary": "FastVideo 团队宣布 FastH3 Dense 已可在 vLLM-Omni 上服务。引用的 vLLM 项目演示显示，MiniMax H3 生成一段 10.1 秒、含同步音频的完整 MP4 仅需 8.7 秒，快于播放速度；FastH3 已开源，NVIDIA 提供赞助并参与联合优化。",
+    "source": "X：Sky Computing Lab (@haoailab)",
+    "date": "2026年9月2日2时32分"
+  },
+  {
+    "id": "cmtj05w5e0511roelwugdb9pi",
+    "title": "Anthropic 发布 Enterprise Frontier Safeguards：零数据保留与跨会话滥用监控兼得",
+    "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+    "summary": "Anthropic 宣布 Enterprise Frontier Safeguards（EFS），将零数据保留（ZDR）与针对滥用的先进安全监控结合，数据存储在客户自控的云基础设施中，今秋起分阶段推出。",
+    "source": "Anthropic：Newsroom（网页）",
+    "date": "2026年9月2日2时30分"
+  },
+  {
+    "id": "cmtj0fqfq001nroh9x8mg1s3z",
+    "title": "Claude Fable 5.1 上线 OpenRouter",
+    "url": "https://x.com/OpenRouter/status/2094855056936022304",
+    "summary": "Anthropic 的 Claude Fable 5.1 已上线 OpenRouter，官方称其为 Fable 5 工作负载的直接升级版本，提升最大的方向包括 agentic coding、长时间运行的工作流、视觉代码生成、金融和分析。使用入口：https://openrouter.ai/anthropic/claude-fable-5.1",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年9月2日2时29分"
+  },
+  {
+    "id": "cmtj05jrf0500roelwfya49ki",
+    "title": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，定位为面向编码和知识工作的最先进模型，并称其研究能力展示了 AI 模型将如何助力科学进步。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月2日2时25分"
+  },
+  {
+    "id": "cmtj04zd004z4roelcvb4zbtf",
+    "title": "Yuchen Jin 评 Fable 5.1：在普遍刷榜背景下仍显大幅跃升",
+    "url": "https://x.com/Yuchenj_UW/status/2094853122166591697",
+    "summary": null,
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年9月2日2时21分"
+  },
+  {
+    "id": "cmtizcj5z04gzroeliouvxb1x",
+    "title": "Replit 推出 Auto Mode 智能模型路由，自动节省最高 65% 成本",
+    "url": "https://x.com/Replit/status/2094848232740274453",
+    "summary": "Replit 发布 Auto Mode，通过 Intelligent Model Routing 自动实现最高 65% 的成本节省，无需更改任何设置。工程负责人 Rachael Fuller 介绍了该功能如何为管理员、企业用户和 Replit 创作者提升效率。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年9月2日2时1分"
+  },
+  {
+    "id": "cmtizq9od04mmroel1n8ilbhl",
+    "title": "Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75%",
+    "url": "https://x.com/kimmonismus/status/2094852023673872701",
+    "summary": "Anthropic 发布 Claude Fable 5.1，输入/输出价格维持 $10/$50 per million tokens，缓存读取降 75% 至 $0.25，官方估算典型工作负载成本约降 25%、重度 Agent 场景最高约 45%，但按 token 计费的订阅不享受降价。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日2时16分"
+  },
+  {
+    "id": "cmtizq9p404mqroelo8c70bih",
+    "title": "Anthropic 发布 Claude Fable 5.1，已上线 Claude 与 Claude Code",
+    "url": "https://x.com/testingcatalog/status/2094852015415242825",
+    "summary": "Anthropic 宣布 Claude Fable 5.1 与 Claude Mythos 5.1 发布，Fable 5.1 已在 Claude 和 Claude Code 上线。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月2日2时16分"
+  },
+  {
+    "id": "cmtj0fqet001lroh9hyk6rqu0",
+    "title": "Claude Fable 5.1 上线 Claude Code 与 Claude Platform，缓存读取降价 75%",
+    "url": "https://x.com/ClaudeDevs/status/2094851229734277228",
+    "summary": "Claude Fable 5.1 现已上线 Claude Code 和 Claude Platform，定价与 Fable 5 相同，API 缓存读取便宜 75%。模型在长任务中能更久自主推进、更善于提示用户它已卡住，写作风格也更自然。Anthropic 同时发布了 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码与知识工作领域最先进的模型。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年9月2日2时13分"
+  },
+  {
+    "id": "cmtiy0v6k01dproel63pg10os",
+    "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+    "summary": "Google DeepMind 为 Gemini 3.7 Flash、3.6 Flash 和 3.5 Flash-Lite 推出 agentic video understanding，模型动态扫描视频片段，相比固定帧率处理 token 消耗最多降低 88%，成本最多降低 66%，准确率最多提升 7%。",
+    "source": "Google DeepMind：Blog（RSS）",
+    "date": "2026年9月2日1时8分"
+  },
+  {
+    "id": "cmtixlal307plro9ycpqdp1n5",
+    "title": "Visko 发布 Orbis 1.0 实时可引导视频生成模型",
+    "url": "https://x.com/rohanpaul_ai/status/2094834163438526629",
+    "summary": "Visko 发布首个 Live Model「Orbis 1.0」，一个实时、可引导的视频生成模型，可实时流式生成持续进行的世界，具备持久记忆、交互性和基于物理的无限长度生成。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日1时5分"
+  },
+  {
+    "id": "cmtizq9od04moroelj3iwt6ja",
+    "title": "Fable 5.1 已上线，德国用户也可使用",
+    "url": "https://x.com/kimmonismus/status/2094846872208740701",
+    "summary": "作者发文称 Fable 5.1 已上线，自己在德国也可使用。截图显示 Claude 模型选择菜单中已出现 Fable 5.1，界面提示更新 Claude 即可使用该模型，菜单中还列出 Opus 5、Sonnet 5 和 Haiku 4.5。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日1时56分"
+  },
+  {
+    "id": "cmtizq9oo04mproelrlujl7ii",
+    "title": "Claude 官方支持文档出现 Fable 5.1 提及及 Messages API 思考块新限制",
+    "url": "https://x.com/rohanpaul_ai/status/2094846508386623741",
+    "summary": "Claude 官方支持文档已出现 Fable 5.1 的提及。文档称 Fable 5.1 将改变 Messages API 处理 thought block（模型推理过程记录）的方式以防蒸馏，新的 Fable 5.1 API 账户在多轮对话中将不能再修改 thought block 周边的上下文，如消息、工具或系统提示词。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日1时55分"
+  },
+  {
+    "id": "cmtj042hk04v5roeleb6yh2pi",
+    "title": "Claude Code v2.1.257 发布，默认模型改为 Claude Fable 5.1",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.257",
+    "summary": "Claude Code 发布 v2.1.257，新增 Claude Fable 5.1（claude-fable-5-1）并将其设为默认 Fable 模型，提供 1M 上下文，价格为 $10/$50 per Mtok，缓存读取 $0.25/Mtok。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年9月2日1时53分"
+  },
+  {
+    "id": "cmtizcj5o04gyroelewg39px1",
+    "title": "OpenRouter 现已支持在 Render Workflows 中运行",
+    "url": "https://x.com/OpenRouter/status/2094845816116740600",
+    "summary": "OpenRouter 宣布现已可在 Render Workflows 中运行。每条提示词成为独立的任务运行，由 Render 负责排队、重试和扇出分发，模型调用则由 OpenRouter 路由，避免把 LLM 批处理放在 Web 服务中执行。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年9月2日1时52分"
+  },
+  {
+    "id": "cmtiz2qhy02axroely7c2oiva",
+    "title": "Runway Ruby 新增 ACES 色彩空间导出功能",
+    "url": "https://x.com/runwayml/status/2094844421086884081",
+    "summary": "Runway 官方宣布 ACES 现已在 Runway Ruby 中可用。用户可导出 scene-referred 的 half-float EXR 序列，支持 ACEScg 1.3 和 2.0，可直接接入现有工作流。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年9月2日1时46分"
+  },
+  {
+    "id": "cmtiz0s4v029froelmwkpu76z",
+    "title": "OpenClaw v2026.8.2（又称 OpenClaw 2.0.1）发布，重点修复多个破坏性 bug",
+    "url": "https://x.com/openclaw/status/2094843171931127998",
+    "summary": "OpenClaw 发布 v2026.8.2（又称 OpenClaw 2.0.1），主要修复多处更新导致的破坏性 bug，并就这些 bug 带来的困扰向用户致歉。release 详情见 https://github.com/openclaw/openclaw/releases/tag/v2026.8.2。",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年9月2日1时41分"
+  },
+  {
+    "id": "cmtiz2e5e02a7roellpn9g9zm",
+    "title": "Gemini API 推出 Agentic Video，长视频处理 token 消耗最多降低 88%",
+    "url": "https://x.com/OfficialLoganK/status/2094843143623680264",
+    "summary": "Google 的 Logan Kilpatrick 宣布 Gemini API 推出 Agentic Video，一种处理长视频的新方式，可将 token 消耗最多降低 88% 并提升质量。该功能可在 API 中按单个视频控制，已随 3.7 Flash 等最新模型提供；图中显示 LVBench 准确率从 85.1% 提至 88.6%，LVBench token 节省 88.0%。",
+    "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+    "date": "2026年9月2日1时41分"
+  },
+  {
+    "id": "cmtiynojf01w5roelimzybesh",
+    "title": "Meta 发布实时语音感知模型 Muse Voice Transcribe",
+    "url": "https://x.com/rohanpaul_ai/status/2094843121658216896",
+    "summary": "Meta 推出 Muse Voice Transcribe，为 MSL 首个实时音频感知模型，今日开始推送，自适应延迟下最终转写词错率低至 3.1%。该模型以 80ms 分块处理音频，在单一流式模型内原生处理说话人分离和端点检测，可自行判断何时输出文字、说话人何时切换；通过 Meta Model API、Meta AI for Mac 和 Muse Code 提供。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日1时41分"
+  },
+  {
+    "id": "cmtiz3056045uroel36auhtis",
+    "title": "Google 推出提示词驱动的图像创作工具 Google Pics，将集成进 Workspace",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
+    "summary": "Google 发布图像创作与编辑工具 Google Pics，由 Nano Banana 图像生成模型驱动，将在未来几周内面向大多数 Workspace 客户及 Google AI Pro 或 Ultra 订阅用户推出。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月2日1时35分"
+  },
+  {
+    "id": "cmtiy9xid01lxroelcafkya9m",
+    "title": "Gemini 3.7 Flash 借智能体视频理解能力准确数清鼓掌次数",
+    "url": "https://x.com/googleaidevs/status/2094841365389803900",
+    "summary": "Google AI Developers 演示 Gemini 3.7 Flash 使用新的 agentic video understanding 能力准确数出视频中每一次鼓掌。默认静态处理以固定 1 FPS 摄取视频，拍手这类瞬间动作容易被完全漏掉或与打响指、点击混淆，新能力可自动按需调整处理速度来识别快速动作。",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "date": "2026年9月2日1时34分"
+  },
+  {
+    "id": "cmtiynojk01w6roel778ma2zx",
+    "title": "Anthropic Claude Fable 5.1 与 Mythos 5.1 即将发布",
+    "url": "https://x.com/testingcatalog/status/2094841324340138093",
+    "summary": "Claude Fable 5.1 正在为即将到来的发布做准备，引用消息称将很快官宣。Anthropic 已更新支持页，涉及 Messages API 处理 thought blocks 的方式变更以防止蒸馏，Fable 5.1 与 Mythos 5.1 均预计近期推出。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月2日1时34分"
+  },
+  {
+    "id": "cmtiz2e5602a6roeljyuuzi3l",
+    "title": "论文探究 On-Policy 蒸馏是否真在蒸馏，提出无需监督的 OPSA 方法",
+    "url": "https://x.com/_akhaliq/status/2094841129955176630",
+    "summary": null,
+    "source": "X：AK (@_akhaliq)",
+    "date": "2026年9月2日1时33分"
+  },
+  {
+    "id": "cmtiynoj801w3roeli7c0iv44",
+    "title": "Claude Fable 5.1 与 Mythos 5.1 出现在 Claude Code 2.1.257 模型目录中",
+    "url": "https://x.com/kimmonismus/status/2094840702618198160",
+    "summary": "据 @synthwavedd，Claude Fable 5.1 和 Mythos 5.1 已被添加到即将发布的 Claude Code 2.1.257 中，作者推测 Fable 5.1 可能于当天官宣。截图显示新增 claude-fable-5-1 和 claude-mythos-5-1 目录条目，knowledge cutoff 为 2026 年 6 月，1M 上下文，默认输出 64k、最大 128k，fable 别名默认从 claude-fable-5 切换到 claude-fable-5-1；Mythos 5.1 仅为第一方可用。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日1时31分"
+  },
+  {
+    "id": "cmtiyu82y024jroel1aj3d4mb",
+    "title": "Meta 推出 Muse Voice Transcribe 实时语音转写模型",
+    "url": "https://x.com/alexandr_wang/status/2094840647689851055",
+    "summary": null,
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月2日1时31分"
+  },
+  {
+    "id": "cmtiy6zvl01karoelywqs1u9l",
+    "title": "World Labs 发布多模态世界模型 Atlas",
+    "url": "https://x.com/drfeifei/status/2094840371675283673",
+    "summary": "World Labs 发布从零训练的多模态世界模型 Atlas。模型可生成具有像素级相机控制能力的图像和视频帧，从单张输入图像重建大型场景，通过重帧视频模拟时空，并从一张或多张输入图像原生输出 3D 空间，还能将多张带位姿的图像合成一致的三维世界。作者称其为迄今最好的相机条件世界模型，可能应用于 VFX 到机器人等多个方向。",
+    "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
+    "date": "2026年9月2日1时30分"
+  },
+  {
+    "id": "cmtiz0s4o029eroelvxhpdgfz",
+    "title": "Google DeepMind 为最新 Gemini 模型带来智能体视频理解能力",
+    "url": "https://x.com/GoogleDeepMind/status/2094840179676660097",
+    "summary": "Google DeepMind 宣布为最新 Gemini 模型引入智能体视频理解能力。模型现在能以更高准确率分析视频，同时最多减少 88% 的 token 消耗。",
+    "source": "X：Google DeepMind (@GoogleDeepMind)",
+    "date": "2026年9月2日1时29分"
+  },
+  {
+    "id": "cmtiynoj801w4roela4z8k9y6",
+    "title": "Claude Fable 5.1 出现在官方支持文档中，发布临近",
+    "url": "https://x.com/kimmonismus/status/2094839402237173924",
+    "summary": "Claude Fable 5.1 已出现在官方支持文档中，作者判断发布临近。文档截图显示，Fable 5.1 将调整 Messages API 对 thinking blocks 的处理方式以防蒸馏，多轮对话中新 API 账户将不能再编辑思考块周边的 messages、tools 或 system prompt。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日1时26分"
+  },
+  {
+    "id": "cmtiy6zvs01kbroelor104ux1",
+    "title": "Meta 发布实时音频感知模型 Muse Voice Transcribe",
+    "url": "https://x.com/AIatMeta/status/2094839236016976028",
+    "summary": "Meta Superintelligence Labs 发布 Muse Voice Transcribe，称其为首个实时音频感知模型。模型支持实时流式 ASR、20+ 说话人的 diarization 和 endpointing，多语言且可无缝 code-switching，可通过语言、关键词和上下文偏置提升准确率。该模型在 Artificial Analysis 的流式语音转文本和公开 diarization 基准上排名第一。",
+    "source": "X：AI at Meta (@AIatMeta)",
+    "date": "2026年9月2日1时26分"
+  },
+  {
+    "id": "cmtiynojl01w7roel6q5vt4hi",
+    "title": "Meta 发布 Muse Voice Transcribe 语音转写模型并开放 API",
+    "url": "https://x.com/testingcatalog/status/2094838141068644554",
+    "summary": "Meta（MSL）的 Muse Voice Transcribe 模型上线 Meta models API，主打流式语音转文字 SOTA，训练覆盖 70+ 语言。该模型已用于 Meta 桌面应用的听写和 Muse Code 语音输入，API 提供零数据保留档位，详见 research.meta.ai/blog/introducing-muse-voice-transcribe。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月2日1时21分"
+  },
+  {
+    "id": "cmtiyu839024kroeli475kt1n",
+    "title": "Muse Voice Transcribe is MSL's first real-time audio perception model -- rolling out today. SOTA in …",
+    "url": "https://x.com/finkd/status/2094836602681938385",
+    "summary": "Mark Zuckerberg 宣布 Muse Voice Transcribe 于当日推出，是 MSL 的首个实时音频感知模型。该模型在流式语音转文字上达到 SOTA，并在单一模型内原生支持说话人分离（speaker diarization）和端点检测（endpointing）。",
+    "source": "X：Mark Zuckerberg (@finkd)",
+    "date": "2026年9月2日1时15分"
+  },
+  {
+    "id": "cmtiyipp601qnroelhqbogny1",
+    "title": "Dex Horthy 发布 AI That Works 第 72 期：面向可扩展软件的 Code Mode",
+    "url": "https://x.com/dexhorthy/status/2094836283726328104",
+    "summary": "HumanLayer 的 Dex Horthy 发布直播节目 AI That Works 第 72 期，主题为面向可扩展软件的 Code Mode，直播链接为 https://x.com/i/broadcasts/1wxWjlpWEvmJQ。正文仅包含节目标题与链接，未提供更多细节。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月2日1时14分"
+  },
+  {
+    "id": "cmtiy69lu01jaroelzfvq7cd9",
+    "title": "OpenAI 解析 Basis、Clay、Exa 如何把工作流变成 AI 原生运营能力",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "summary": "OpenAI 发布文章，介绍 Basis、Clay 和 Exa Labs 用 Agent 承接员工入职、账户管理和开发者集成的工作流。Basis 把入职从 2 小时缩短到 30 分钟，Clay 的子智能体每天夜间更新各账户上下文，为销售省下约 1 小时邮件分拣，Exa 用 Codex 监控集成机会并创建 PR、跑测试。文章还给出企业从试点到规模化的六步方法。",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "date": "2026年9月2日1时0分"
+  },
+  {
+    "id": "cmtiy0egr01caroelryj7trtz",
+    "title": "OpenAI 将 ChatGPT Health 与 Epic 电子病历集成，供临床医生导入患者数据",
+    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data",
+    "summary": "OpenAI 宣布将 ChatGPT Health 与 Epic 的电子病历系统集成，Epic 存有超过 3.25 亿患者的数据，临床医生可导入预约记录、化验结果、用药和专科文档并汇总、查看病史和准备就诊；部分部署可在病历界面内直接调用 ChatGPT 做就诊前复习和临床时间线。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月2日1时0分"
+  },
+  {
+    "id": "cmtixlaka07pjro9y4ny48gfv",
+    "title": "Grok 4.6 在 LatchBio 独立生物安全基准中排名居首",
+    "url": "https://x.com/cb_doge/status/2094831079102509527",
+    "summary": "作者转述 LatchBio 对主流 AI 模型的生物安全基准测试结果，称 Grok 4.6 整体表现最强，在全部参测前沿模型中排名第一，是唯一在安全性和有用性两项均超过 50% 的模型。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月2日0时53分"
+  },
+  {
+    "id": "cmtiyodib01zuroelumvkcmcj",
+    "title": "Google Antigravity 系列教程 Part 2：用 generate_image 工具自动化图像生成",
+    "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno",
+    "summary": "这篇是 Google 团队 Elevating Antigravity Agent Skills 五部曲的第二部分，讲解如何在 agent skill 中使用 generate_image 工具，把结构化提示词合成与原生图像生成结合，让 agent 产出符合开发者规范的图像。",
+    "source": "Google AI：DEV 作者专属（RSS）",
+    "date": "2026年9月2日0时51分"
+  },
+  {
+    "id": "cmtiwy2du07e1ro9y4kuwi667",
+    "title": "Google DeepMind 新任负责人 Koray Kavukcuoglu 称站在前沿是唯一要紧的事",
+    "url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters",
+    "summary": "Google DeepMind 负责人 Koray Kavukcuoglu 回应外界质疑，称\"除了站在前沿，没有别的对我们重要的事\"，并承认 Google 当前模型略低于前沿但具备团队、资源和全栈能力来缩小差距。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月2日0时49分"
+  },
+  {
+    "id": "cmtiwx7su07caro9ycmgayjko",
+    "title": "Yuchen Jin 谈 OpenAI 的 GPU 从过剩疑虑变成对抗 Anthropic 编码优势的底牌",
+    "url": "https://x.com/Yuchenj_UW/status/2094828343573254475",
+    "summary": "Yuchen Jin 发推称自己曾认为 OpenAI 过度采购 GPU，随后 Anthropic 主导了编码市场，如今这些 GPU 成为 OpenAI 的超能力。他认为是不断重置、快速追赶，并把编码市场推向双寡头格局。推文引用了 @thsottiaux 的 merch 周边提问。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年9月2日0时42分"
+  },
+  {
+    "id": "cmtiwij9q06x4ro9yjmdy6ch8",
+    "title": "Meta 内部项目 Hatch 将以 Muse 之名发布并开放候补名单",
+    "url": "https://x.com/testingcatalog/status/2094827945843921332",
+    "summary": "Meta 内部代号 Project Hatch 的超级应用将以 Muse 之名发布，上线时采用候补名单（waitlist）形式。被引用内容称 Muse 是对标 ChatGPT 和 Claude 协作类产品的竞品，截图页面显示其定位为个人 AI 智能体，用户可加入候补名单等待开放。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月2日0时41分"
+  },
+  {
+    "id": "cmtiwij9806x1ro9yzort6r3s",
+    "title": "Visko 发布首个 Live Model「Orbis 1.0」，实时流式生成可交互世界",
+    "url": "https://x.com/omarsar0/status/2094827785978069103",
+    "summary": "Visko 团队发布 Orbis 1.0，称其为首个 Live Model，可实时流式生成可交互的动态世界，支持持久记忆、交互性和基于物理的无边界长度生成。作者 Elris Saravia 转评称实时生成交互世界的模型已经到来，并强调其交互、物理基础和持久记忆可带来全新体验。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月2日0时40分"
+  },
+  {
+    "id": "cmtiwij9e06x2ro9yyl0rgc9u",
+    "title": "小北解读 Vercel 用 design.md 让 Agent 生成品牌风格网页的方法",
+    "url": "https://x.com/frxiaobei/status/2094827533871251474",
+    "summary": "小北转述 Vercel 博客：其 Agent 通过 vercel.com/design.md 生成符合品牌风格的页面。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年9月2日0时39分"
+  },
+  {
+    "id": "cmtiwp2vo076yro9y4adbamx2",
+    "title": "Hugging Face CEO 谈机器人 microducks：连合唱演员的工作也难逃机器人",
+    "url": "https://x.com/ClementDelangue/status/2094826553980989719",
+    "summary": "Hugging Face CEO Clément Delangue 转发机器人演示视频并评论，称这是近期他见过最美的机器人作品，认为每只 microduck 都有绑定个体机器人并终身保留的专属音频身份，这让演示更具诗意。引文提及对方准备 4 只 microducks 的用途问题。",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "date": "2026年9月2日0时35分"
+  },
+  {
+    "id": "cmtiwj88v070uro9y27rlys4c",
+    "title": "Google 员工分享如何设计可信的 AI 评测的五条规则",
+    "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
+    "summary": "Google Developer Relations 团队的 Jan-Felix Schmakeit 介绍为 Google 产品的 Agent Skills 设计评测的方法，主张像写单元测试一样建立结构化、自动化的评测流程，而非在终端做 vibe testing。",
+    "source": "Google AI：DEV 作者专属（RSS）",
+    "date": "2026年9月2日0时35分"
+  },
+  {
+    "id": "cmtiwxucx07dcro9ygb7q0ooi",
+    "title": "Sequoia 孵化的 Empirik 出独立公司，获 2100 万美元种子轮融资预测系统故障",
+    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen",
+    "summary": "Empirik 宣布从 Sequoia 孵化后独立，获得 2100 万美元种子轮融资，投资方包括 Sequoia、Canapi 和 Alumni Ventures。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月2日0时31分"
+  },
+  {
+    "id": "cmtiwij9k06x3ro9y0fkit9y4",
+    "title": "Not Diamond 发布模型路由评估方法论，以更低成本达到 Opus xhigh 质量",
+    "url": "https://x.com/rohanpaul_ai/status/2094825346424250522",
+    "summary": "Not Diamond 发布模型路由评估方法论，称在多个主流基准上实现 Pareto 占优，以低 20-80% 的成本超过 Opus xhigh 质量。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日0时30分"
+  },
+  {
     "id": "cmthzouaq067lrofqu1s269uw",
     "title": "英伟达向联发科投资 35 亿美元，在 AI 基础设施、PC 芯片、汽车三大领域达成合作",
     "url": "https://www.ithome.com/0/996/728.htm",
