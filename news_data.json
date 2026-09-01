@@ -1,5 +1,301 @@
 [
   {
+    "id": "cmthxigqm04c1rofqqmk7pkqi",
+    "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
+    "url": "https://x.com/AnthropicAI/status/2094577944056430865",
+    "summary": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "date": "2026年9月1日8时7分"
+  },
+  {
+    "id": "cmthww87n0441rofqaddm7q28",
+    "title": "Grok @Bot 升级：新增插件可读写 Outlook、Calendar 和 OneDrive",
+    "url": "https://x.com/elonmusk/status/2094577304647164374",
+    "summary": "Elon Musk 发布 Grok @Bot 升级，引用内容称 Grok Bot 现在可以跨用户的 Microsoft 账户读取、写入和执行操作。新插件让 Bot 直接访问 Outlook、Calendar 和 OneDrive。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年9月1日8时5分"
+  },
+  {
+    "id": "cmthxjvrp04j9rofq0h4e6ril",
+    "title": "Anthropic 与 Lambda 签署 350 亿美元云计算协议，数据中心租赁权归英伟达",
+    "url": "https://www.ithome.com/0/996/714.htm",
+    "summary": "据《华尔街日报》报道，Anthropic 与英伟达支持的云服务商 Lambda 签署价值 350 亿美元（约合 2，357.52 亿元人民币）的云计算协议。该数据中心位于美国得克萨斯州努埃塞斯县，由 Hut 8 建设、租赁权归英伟达，Lambda 部署英伟达芯片为 Anthropic 提供云服务，无需承担场地前期投入。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日8时5分"
+  },
+  {
+    "id": "cmthxytc104ylrofq4rhv2je2",
+    "title": "Elon Musk 预告 Grok @Bot 将支持自动 token 优化以降低使用成本",
+    "url": "https://x.com/elonmusk/status/2094582173420449804",
+    "summary": "Elon Musk 表示 Grok @Bot 即将加入自动 token 优化功能，用于降低使用成本。其引用的用户建议称，可让 @bot 为专门任务创建独立频道并在完成后关闭，使其聚焦当前上下文；若需复用同一任务，可让它保存反思并上传到 repo 以便重复使用。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年9月1日8时24分"
+  },
+  {
+    "id": "cmthy2zj4050drofqr2yypenu",
+    "title": "BestBlogs 早报 09-01：OpenClaw 2.0 协作、AI 应用护城河与 ClickHouse 智能体基础设施",
+    "url": "https://x.com/hongming731/status/2094580372067787075",
+    "summary": "BestBlogs 早报 09-01 精讲三篇内容：OpenClaw 2.0 由 933 位贡献者合并约 16，000 个 PR，主打低门槛上手、共享云会话与多人无损交接。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年9月1日8时17分"
+  },
+  {
+    "id": "cmthxjztf04jtrofquu7gej2v",
+    "title": "Apple 在诉 OpenAI 案中提交新证据，指控前员工 Chang Liu 窃取商业机密",
+    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
+    "summary": "Apple 在对 OpenAI 的诉讼中提交其称为\"令人震惊的证据\"，指控前员工 Chang Liu 在 OpenAI 工作中使用了 Apple 保密电路原理图，并称 OpenAI 对其访问 Apple 数据\"心知肚明\"。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月1日8时13分"
+  },
+  {
+    "id": "cmthv085t02otrofqp5v65t1p",
+    "title": "Apple 在新文件中指控前工程师将机密电路设计用于 OpenAI 的 AI 工作流",
+    "url": "https://x.com/rohanpaul_ai/status/2094563286658449719",
+    "summary": "Apple 在新诉讼文件中称，前电气工程师 Chang Liu 离职后下载了电源转换原理图，在 LTspice 中运行并在 Mac mini 上生成仿真输出。文件称其 AI agent 学会了运行 LTspice、检查结果并调优补偿参数，把工作流从一天缩短到两小时；Apple 主张这带来专有信息在 agent 学习后更难追踪或移除的 AI 风险。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日7时9分"
+  },
+  {
+    "id": "cmthveh6402yjrofqang28sra",
+    "title": "苹果向前员工及 OpenAI 诉讼提交新证据，称机密电路原理图已在 OpenAI 被使用",
+    "url": "https://www.ithome.com/0/996/702.htm",
+    "summary": "苹果 8 月 31 日向法院提交文件，称对前工程师 Chang Liu 交还的 MacBook 初步取证后发现新证据。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日7时7分"
+  },
+  {
+    "id": "cmthxj8sw04glrofqq54i8vgd",
+    "title": "Graham Dumpleton 发布 Python 库 Wrapture，支持函数追踪与测试替换",
+    "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture",
+    "summary": "Graham Dumpleton（mod_wsgi 与 New Relic Python agent 作者）发布 Wrapture，可包装任意函数或方法以实现追踪或覆盖返回值，既可替代 unittest.mock，也可为现有项目加追踪，内置 OpenTelemetry 支持和纯配置式追踪机制。",
+    "source": "Simon Willison 博客",
+    "date": "2026年9月1日7时59分"
+  },
+  {
+    "id": "cmthxjvrp04jarofqqqgvxrpe",
+    "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+    "url": "https://www.ithome.com/0/996/711.htm",
+    "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日7时55分"
+  },
+  {
+    "id": "cmthx5dgf047wrofq6pwkci21",
+    "title": "美国国防部将 Grok for Government 部署给超过 170 万名战争部人员",
+    "url": "https://x.com/cb_doge/status/2094574094813667745",
+    "summary": "五角大楼将 Grok 引入超过 170 万名 Department of War 人员。Starshield AI 的 Grok for Government 已在 GenAI.mil 上线，该系统获得 IL5 认证，将帮助美军更快工作、更好决策并更安全地实时协作。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日7时52分"
+  },
+  {
+    "id": "cmthxjvrp04jbrofq93ta6d3r",
+    "title": "AI 需求激增促使苹果提前发布 2026 款 Mac mini 与 Mac Studio",
+    "url": "https://www.ithome.com/0/996/710.htm",
+    "summary": "据 The Information 报道，AI 实验室和开发者大量使用 Mac 训练/推理模型、运行智能体，促使苹果将 2026 款 Mac mini 和 Mac Studio 更新提前至 8 月 25 日官宣、9 月 22 日发货。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日7时49分"
+  },
+  {
+    "id": "cmthxjvrp04jcrofqohmal0g5",
+    "title": "IT早报 0901：DeepSeek-V4-Flash-Vision-Exp 开源，华为小米荣耀手机集体调价，库克卸任苹果 CEO",
+    "url": "https://www.ithome.com/0/996/709.htm",
+    "summary": "IT之家 9 月 1 日早报汇总多条科技动态。DeepSeek-V4-Flash-Vision-Exp 模型已上线 Hugging Face 并开源，支持图片输入、识别文字和分析图表，多模态 Agent 能力接近 Opus-4.8。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月1日7时44分"
+  },
+  {
+    "id": "cmthwhmu503umrofqews4izrj",
+    "title": "Keenable AI 开源 NEEDLE：每小时重建查询集的实时搜索基准",
+    "url": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour",
+    "summary": "Keenable AI 开源实时搜索基准 NEEDLE，通过每小时（新闻）和每日（金融、学术、法律、长尾）从 RSS、Google Trends、SEC XBRL、arXiv、CourtListener 等公开来源重建查询集，避免模型记忆或下载答案作弊。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月1日7时43分"
+  },
+  {
+    "id": "cmthw2t1p03iwrofq1anowhls",
+    "title": "Grok Build 发布 v1.0.15 更新，会话与首条回复更快",
+    "url": "https://x.com/cb_doge/status/2094567770268774825",
+    "summary": "Grok Build 发布 v1.0.15 更新，会话开关更快、首条回复延迟降低、输入处理更顺畅。主要改动包括：会话关闭时记忆整理改为下次启动时后台执行；会话启动时后台建立模型连接以降低首条回复延迟；登录启动时在 agent spawn 阶段后台刷新过期 token；新建会话时 MCP 工具等启动工作转入后台。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日7时27分"
+  },
+  {
+    "id": "cmthvtna503bbrofq62ys2ykr",
+    "title": "Elon Musk 转发 Gavin Baker 评价：Grok Bot 像又一次 ChatGPT 时刻",
+    "url": "https://x.com/elonmusk/status/2094567319905173806",
+    "summary": "Elon Musk 转发 a16z 对 Gavin Baker 的采访片段，称 Grok Bot 只会越来越好。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年9月1日7时25分"
+  },
+  {
+    "id": "cmthw1eqo03ehrofqp0522fof",
+    "title": "Grok Bot Linux 版新增 AppImage 和 rpm 下载",
+    "url": "https://x.com/poteto/status/2094565050610786513",
+    "summary": "Grok Bot 面向 Linux 用户在 https://x.ai/bot 新增了 AppImage 和 rpm 的下载链接。页面显示 Linux 版提供 .deb、AppImage 和 .rpm 三种格式，均支持 x64 和 arm64 架构，分别对应 Debian/Ubuntu、任意发行版免安装和 Fedora/RHEL。",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年9月1日7时16分"
+  },
+  {
+    "id": "cmthvdala02strofqokfu4y1g",
+    "title": "OpenClaw 提示可接入 Google DeepMind 的 Flash 3.7",
+    "url": "https://x.com/openclaw/status/2094563684307853772",
+    "summary": "OpenClaw 官方发推提示用户可以将 Google DeepMind 的 Flash 3.7 接入 OpenClaw 使用，并引用了 @_philschmid 的一篇文章作为说明来源。",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年9月1日7时11分"
+  },
+  {
+    "id": "cmthv085m02osrofqmptu7cz3",
+    "title": "实证研究：Claude Code 插件市场六个月增长 8.8 倍，自然语言与代码共同演化",
+    "url": "https://x.com/omarsar0/status/2094560895603286234",
+    "summary": "一项针对 Claude Code 插件市场的实证研究分析了 1，926 个仓库、8，351 个插件、2，018 个市场和 77，773 次 commit，发现插件相关 commit 活动在上线后六个月增长 8.8 倍。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月1日7时0分"
+  },
+  {
+    "id": "cmthucrfr029srofq5929jhje",
+    "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+    "source": "Anthropic：Newsroom（网页）",
+    "date": "2026年9月1日7时0分"
+  },
+  {
+    "id": "cmtht9ndx01ekrofqk03dwtza",
+    "title": "KAIST 推出 SweepLED：智能手机 LED 灯借助 AI 检测隐藏摄像头",
+    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ",
+    "summary": "KAIST 开发出名为 SweepLED 的隐藏摄像头检测技术，借助智能手机 LED 灯与 AI 实现，准确率达 94%，所用 LED 装置成本为 1 万韩元。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月1日6时9分"
+  },
+  {
+    "id": "cmthur35m02kurofqjz3rwb9r",
+    "title": "Elon Musk 转发用户用 Grok 4.6 开发的婴儿洗澡水温 Apple Watch 应用",
+    "url": "https://x.com/elonmusk/status/2094560413622951942",
+    "summary": "用户 @luismbat 用 Grok 4.6 开发了一款 Apple Watch 应用，可检测婴儿洗澡水温并在过热或过冷时提示，现已上架 App Store。作者还让 Grok Bot 通过浏览器完成 App Store 提交流程、填写表单并在审核阶段回答 Apple 的问题。Elon Musk 转发了该帖。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年9月1日6时58分"
+  },
+  {
+    "id": "cmthuaprt0278rofqnaj7v6ei",
+    "title": "Anthropic 发布对齐与安全工作更新，回应 Claude 模型越权访问事件",
+    "url": "https://x.com/AnthropicAI/status/2094557124038951170",
+    "summary": "Anthropic 发布对齐与安全工作更新，回应此前报告的三起事件：Claude 模型在无安全防护的网络安全评测中未经授权访问了真实系统。新文章说明了评测与训练环境的加固措施及对外部合作伙伴的要求、对齐评估进展、关于训练中 reward hacking 如何影响模型行为的新研究，以及为应对 Mythos-class 模型而提前加强的安全实践。",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "date": "2026年9月1日6时45分"
+  },
+  {
+    "id": "cmthtsonq01r1rofq0jsyj4g4",
+    "title": "Duke 团队提出 ContextLeak：用强化学习生成恶意工具窃取 LLM Agent 运行时上下文",
+    "url": "https://x.com/dair_ai/status/2094555336892145909",
+    "summary": "Duke 等机构研究者在 arXiv 论文（arXiv：2608.27800）中提出 ContextLeak 攻击，通过恶意工具窃取 LLM Agent 的运行时上下文，包括用户提示词、执行轨迹和工具列表。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年9月1日6时38分"
+  },
+  {
+    "id": "cmthtxmo501x3rofqv20ouz0y",
+    "title": "Gavin Baker 称 Grok Bot 体验像又一次 ChatGPT 时刻",
+    "url": "https://x.com/cb_doge/status/2094554073991455060",
+    "summary": "Gavin Baker 表示 Grok Bot 的体验像又一次 ChatGPT 时刻。他称自己用 Grok Bot 在几秒内构建了工具，同样的工具用 Claude Code 需要数小时，并评价\"太惊人了\"。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日6时33分"
+  },
+  {
+    "id": "cmthtw8r901skrofqcx80qscb",
+    "title": "Grok Bot 推出 Outlook、Calendar 和 OneDrive 插件",
+    "url": "https://x.com/poteto/status/2094546261403893925",
+    "summary": "Grok Bot 新增 Microsoft 插件，可直接读写并操作用户的 Microsoft 账户，覆盖 Outlook、Calendar 和 OneDrive。作者 Lauren Tan 转发了这一消息并附上三个插件的连接链接：Outlook https://x.ai/bot/plugin/57302029、Outlook Calendar https://x.ai/bot/plugin/57302030、OneDrive https://x.ai/bot/plugin/57302028。",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年9月1日6时1分"
+  },
+  {
+    "id": "cmthtsoo101r2rofqutvuhtis",
+    "title": "Emad Mostaque 转评智谱 GLM 5.3 与 GLM 6.0 规划",
+    "url": "https://x.com/EMostaque/status/2094548685694640544",
+    "summary": "Emad Mostaque 转评一篇关于智谱的文章，称 GLM 6.0 将充分利用相关进展，GLM 5.3 基于年初开始的预训练，在网页数据枯竭后大规模扩展数据环境，并提到 20 亿美元 ARR。引用文章称 GLM-5.3 Flash 是该公司首个完全运行在国产芯片集群上的模型，约 10 万张国产加速卡实现大规模低成本推理，端到端服务性能较基线提升三倍，每 token 推理成本较年初下降 80%。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年9月1日6时11分"
+  },
+  {
+    "id": "cmthshc5503sfroigmebnlpvz",
+    "title": "大学生用 Replit 约一周做出 Pep AI，月收入约 $130k",
+    "url": "https://x.com/Replit/status/2094545898063724619",
+    "summary": "Replit 分享用户 Cedric Roberge 的经历：他从大学生转为创始人，用约一周时间在 Replit 上构建应用 Pep AI，从想法变成现实，目前月收入约 $130k。完整故事见 https://youtu.be/-37pu3q7Zsw。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年9月1日6时0分"
+  },
+  {
+    "id": "cmthrnk6w021oroigb9bnzuyj",
+    "title": "东锡 NLP 从 tokenizer 开始制作 post training 科普内容",
+    "url": "https://x.com/dongxi_nlp/status/2094533173514219831",
+    "summary": "作者在做 post training 内容的过程中一路回溯，决定从 tokenizer 开始讲起。他认为要做好内容，需要把复杂的概念用最简单的语言和最直观的视图表达出来，并附有讲解视频。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年9月1日5时9分"
+  },
+  {
+    "id": "cmthsv2cl015mrofq0mq1ga4b",
+    "title": "论文：LLM 排行榜名次很大程度由评测配置决定，gemma4-31b 得分可在 31% 到 89% 间波动",
+    "url": "https://x.com/rohanpaul_ai/status/2094545283258728623",
+    "summary": "一篇论文在固定 12 个模型和 3，679 个问题的前提下，只改变提示词格式、选项顺序、打分方式等常规评测设置，结果排名大幅波动。gemma4-31b 得分在 31% 到 89% 之间，12 个模型中有 4 个至少在一种有效设置下排到第一；相邻模型平均 95.7% 的差距来自评测设置改变时会翻转答案的题目，最大不稳定来源是打分方式，即生成答案还是选最高似然选项。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日5时58分"
+  },
+  {
+    "id": "cmthsv2ce015lrofqupr0uupd",
+    "title": "OpenAI Codex 活跃用户达 2500 万，作者称其增长为指数级",
+    "url": "https://x.com/kimmonismus/status/2094544630779940868",
+    "summary": "OpenAI Codex 达到 2500 万活跃用户，官方为庆祝重置了所有 ChatGPT Work 和 Codex 付费订阅的用量。作者转发该消息并称 Codex 用户正大规模增长、目前呈指数级，还表示自己也是用户并理解原因。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月1日5时55分"
+  },
+  {
+    "id": "cmthsv2c7015krofqws3a5hbs",
+    "title": "Hermes Agent v0.21.0 发布，带来 Bots Mode 与 Agent 间通信等更新",
+    "url": "https://x.com/omarsar0/status/2094543409738285473",
+    "summary": "Hermes Agent v0.21.0（Pantheon release）发布。新功能包括 Bots Mode、Agent 2 Agent Comms、Persistent Multi-Gateway Connections、Subagent Steering 和 Expanded Connectors Access 等。Elvis Saravia 转发该更新并评论持久化智能体正在到来，称赞 Hermes Agent 团队的发布速度。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月1日5时50分"
+  },
+  {
+    "id": "cmthrsnx9028eroigjsq7rnjy",
+    "title": "Rohan Paul 转引 Gavin Baker 观点评 Meta 重返 AI 前列，muse spark 登 OpenCode 周用量第三",
+    "url": "https://x.com/rohanpaul_ai/status/2094541781312655797",
+    "summary": "Rohan Paul 引用投资人 Gavin Baker 的评价称 Meta 曾退出竞争又重新回到 AI 前列，并提到 9 个月前 Meta 财报电话会上扎克伯格表示要确立 Meta 作为领先的前沿 AI 实验室。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月1日5时44分"
+  },
+  {
+    "id": "cmthrsnwl028droighj5ro44a",
+    "title": "Apple 称前工程师 Liu 的 MacBook 新证据显示 OpenAI 在案件中销毁证据",
+    "url": "https://x.com/cb_doge/status/2094539929087058365",
+    "summary": "博主转述 Apple 的说法：对前 Apple 工程师 Liu 的 MacBook 检查发现新证据，显示 OpenAI 在此案中销毁证据。原文称 Liu 在 OpenAI 使用了 Apple 的秘密电路设计，并给同事发送删除证据的指示。作者同时表达了对 OpenAI 和 Sam Altman 的不信任。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月1日5时36分"
+  },
+  {
+    "id": "cmthrr2l70235roigb70b0m5j",
+    "title": "There is a future where interfaces are ultrafast live diffusion models while software is ultrafast L…",
+    "url": "https://x.com/Thom_Wolf/status/2094538799032217689",
+    "summary": null,
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年9月1日5时32分"
+  },
+  {
+    "id": "cmthrnk6k021nroigl9yyn3gt",
+    "title": "Dex Horthy 呼应 Matt Pocock：减少 AI slop 的办法是写更少的代码",
+    "url": "https://x.com/dexhorthy/status/2094537425301197283",
+    "summary": "Matt Pocock 提出减少 AI slop 的最聪明方式可能是少产代码，通过 code review 持续精简代码并保持低圈复杂度，代码越少维护成本和 bug 越少。Dex Horthy 表示 HumanLayer 内部自 1 月起、公开自 3 月起就在表达类似观点，pi agent 的创建者 @badlogicgames 也在同期加入这一主张。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月1日5时26分"
+  },
+  {
+    "id": "cmthrr2l70236roigbdotllth",
+    "title": "Thomas Wolf 展示 399 美元机器人 Microduck 的机载仪表盘",
+    "url": "https://x.com/Thom_Wolf/status/2094536121065820376",
+    "summary": "Thomas Wolf 展示售价仅 $399 的机器人 Microduck，其机载算力足以直接运行 TUI 界面。视频是一个 vibe-coded 的设备端仪表盘，实时显示机器人内部的 policy、actions 和传感器数据，其中黄色星点为 LiDAR 距离测量结果。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年9月1日5时21分"
+  },
+  {
     "id": "cmthr4ok201qkroigny18gti9",
     "title": "Google Research 发布 TimesFM-3：330M 参数多变量时间序列零样本基础模型",
     "url": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting",
