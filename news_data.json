@@ -1,5 +1,405 @@
 [
   {
+    "id": "cmtkfdnu803c8robqffmnd3z7",
+    "title": "use any model in grok bot！ omnibot maps intents to cursor models once， then routes each ask through…",
+    "url": "https://x.com/ericzakariasson/status/2095212489927688288",
+    "summary": null,
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年9月3日2时9分"
+  },
+  {
+    "id": "cmtkfn4wu03lirobqgcy4gv2s",
+    "title": "NVIDIA 开源 Switchyard：用 Rust 代理在 OpenAI 与 Anthropic API 间路由和翻译 LLM 流量",
+    "url": "https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-proxy-llm-traffic-openai-anthropic-api-translation",
+    "summary": "NVIDIA 发布 Switchyard，一个 Apache 2.0 协议的 Rust 代理和库，用于在多个后端之间路由 LLM 流量，并双向翻译 OpenAI Chat Completions、OpenAI Responses 和 Anthropic Messages 三种格式，包括流式事件。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月3日2时5分"
+  },
+  {
+    "id": "cmtkgszj7020tro8xe8d71kka",
+    "title": "FastVideo 让 FastH3 支持 NVIDIA DGX Spark 与 Apple Silicon 本地运行",
+    "url": "https://x.com/haoailab/status/2095223988201120039",
+    "summary": "FastVideo 宣布 FastH3 现已支持 NVIDIA DGX Spark 和 Apple Silicon（通过 MLX），相比基线 MiniMax H3 实现本地生成 8x 加速。演示中的 15 秒 1344×768 视频片段由两台 NVIDIA DGX Spark 完全本地生成。",
+    "source": "X：Sky Computing Lab (@haoailab)",
+    "date": "2026年9月3日2时55分"
+  },
+  {
+    "id": "cmtkgg7xr01ocro8x821u3izg",
+    "title": "独立创作者 @covacut 宣布加入 OpenAI",
+    "url": "https://x.com/jxnlco/status/2095219855784116579",
+    "summary": "独立创作者 @covacut 宣布在经历一年独立创作后加入 OpenAI，称想扩展谁有资格去想象以及什么成为可能。她邀请艺术家、故事讲述者和创作者与她联系；Jason Liu 转发表示很高兴与她合作。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年9月3日2时38分"
+  },
+  {
+    "id": "cmtkfn78d03lxrobqf1esbtpk",
+    "title": "Haus Research 审计：Perplexity 三分之一的引用页面并不包含被引数字",
+    "url": "https://hausresearch.com/reports/perplexity-citation-audit",
+    "summary": "Haus Research 对 Perplexity 的 sonar 与 sonar-pro 两个搜索模型提出 310 个关于 210 家科技公司的事实问题，抓取全部 cited URL 核验。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月3日2时25分"
+  },
+  {
+    "id": "cmtkfnpup03n1robqoh5tnh4t",
+    "title": "美国司法部在纽约时报版权案中支持 AI 训练属合理使用",
+    "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case",
+    "summary": "美国司法部在纽约时报等起诉 OpenAI 和 Microsoft 的合并诉讼中提交意见，主张用版权材料训练 LLM 属于合理使用，理由是训练复制与模型输出之间存在法律区分，且输出通常与原作缺乏实质性相似。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月3日2时24分"
+  },
+  {
+    "id": "cmtkfuz2a03t2robqxsgy9ruv",
+    "title": "Replit 团队将直播深入介绍 Replit MCP，支持从 ChatGPT、Claude、Slack 管理 Replit 应用",
+    "url": "https://x.com/Replit/status/2095214678431699411",
+    "summary": "Replit 宣布本周五上午 9 点（太平洋时间）直播，团队 Amadeo Pellicce 和 Jean-Luc Thumm 将深入介绍 Replit MCP，该功能已上线，用户可从 ChatGPT、Claude、Slack 或任何 MCP 客户端创建和管理 Replit 应用。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年9月3日2时18分"
+  },
+  {
+    "id": "cmtkftvh603s5robqpv06oqf3",
+    "title": "Google 发布 Gemini 3.8 Flash，六周内第三款 Flash 模型",
+    "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks",
+    "summary": "Google 发布 Gemini 3.8 Flash，称其为此前最佳的推理与编码模型，这是六周内的第三款 Flash 模型，另推出面向漏洞检测与缓解的 Gemini 3.8 Flash Cyber。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年9月3日2时13分"
+  },
+  {
+    "id": "cmtkfkfvl03garobqyr0vwpth",
+    "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+    "summary": "GitHub 工程师 Erik Kristensen 分享了 Copilot 降本的四项改动：选择性压缩工具输出、移除 view 工具行号前缀（线下推理成本降约 5%，线上用户日均推理成本降约 3%）、压缩 task-tool 提示词（每轮省约 1300 token，每活跃小时归一化成本降 2.9%）、后台任务完成后直接交付结果（AI Credits 用量降约 2.3%）。",
+    "source": "GitHub Blog",
+    "date": "2026年9月3日2时0分"
+  },
+  {
+    "id": "cmtkdhxn801gxroc7xdlxyu6u",
+    "title": "Pangram CEO 称我们正危险接近死互联网理论",
+    "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo",
+    "summary": "Pangram CEO Max Spero 做客 TechCrunch Equity 播客，谈 AI 生成内容检测的问题。话题涵盖 Substack 新闻通讯、在线欺诈，以及人类写作的未来。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月3日1时9分"
+  },
+  {
+    "id": "cmtkdhxn801gyroc7pa774cv6",
+    "title": "美国政府就版权材料训练 LLM 争议表态支持 OpenAI",
+    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
+    "summary": "在纽约时报诉 OpenAI 的案件中，特朗普政府提交了一份 20 页法庭简报，为 OpenAI 未经授权使用版权材料训练 LLM 辩护。简报援引特朗普去年签署的行政命令，称限制 LLM 发展将阻碍创新与美国繁荣。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月3日1时9分"
+  },
+  {
+    "id": "cmtkde0y6019groc70cnpg1pr",
+    "title": "Google DeepMind 发布 Gemini 3.8 Flash Cyber，主打漏洞检测与自主修补",
+    "url": "https://x.com/GoogleDeepMind/status/2095196704769237137",
+    "summary": "Google DeepMind 发布 Gemini 3.8 Flash Cyber，面向防守方提供专家级漏洞检测和自主修补能力。官方表示该模型可帮助团队领先应对新出现的威胁，并附推文串介绍具体用法。",
+    "source": "X：Google DeepMind (@GoogleDeepMind)",
+    "date": "2026年9月3日1时6分"
+  },
+  {
+    "id": "cmtkeklpc02vprobqfqk09oea",
+    "title": "Anthropic 上线 Claude 生成文件检测工具",
+    "url": "https://claude.com/check-content",
+    "summary": "Anthropic 上线检测文件是否由 Claude 生成的浏览器工具，文件不上传、仅读取本地嵌入的内容凭证。工具识别基于 C2PA 开放行业标准的加密签名元数据，支持 .png、.jpg、.svg 等文件类型，文本水印检测则通过面向合格机构的私有预览 Detection API 提供。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月3日1时53分"
+  },
+  {
+    "id": "cmtkewysh033frobq4kz8fvfl",
+    "title": "Grok Bot 上线 Android",
+    "url": "https://x.com/elonmusk/status/2095208414196674930",
+    "summary": "Elon Musk 发文确认 Grok @Bot 现已登陆 Android，Grok Bot 现已可以在 Android 平台使用。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年9月3日1时53分"
+  },
+  {
+    "id": "cmtkekj4702v0robqswglfjjd",
+    "title": "Amazon 为 Alexa for Shopping 推出消息真伪验证功能",
+    "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "summary": "Amazon 推出新功能，用户可询问 Alexa for Shopping 某封邮件、短信或电话是否真的来自 Amazon，AI 会将其与 Amazon 历来发送的所有消息记录比对，并分析内容、格式和发件人。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年9月3日1时52分"
+  },
+  {
+    "id": "cmtkepf5802zerobqvbqoykjh",
+    "title": "LongCat-2.0 上线 Command Code 并免费开放使用",
+    "url": "https://x.com/Meituan_LongCat/status/2095207954236805225",
+    "summary": "美团 LongCat 宣布 LongCat-2.0 已在 Command Code 上线并对所有订阅用户免费可用。该模型参数量 1.6T、上下文 1M、激活参数 48B，可通过 npm i -g command-code 安装使用。",
+    "source": "X：美团 LongCat (@Meituan_LongCat)",
+    "date": "2026年9月3日1时51分"
+  },
+  {
+    "id": "cmtkco7k001h9rog0wvgn98io",
+    "title": "美国司法部在 OpenAI 与纽约时报版权诉讼中支持训练属于合理使用",
+    "url": "https://x.com/rohanpaul_ai/status/2095196217634640144",
+    "summary": "美国司法部提交立场声明，正式主张在版权文本上训练 LLM 通常构成合理使用，这是华盛顿首次介入 AI 训练版权诉讼潮，但该文件仅具咨询性、对法院无约束力。司法部区分了获取数据、训练和输出三个环节，认为训练用途不同于发表文章、不会替代原作；并警告一刀切的许可要求会抬高小公司门槛。法院仍需逐案裁定，但采纳该框架会把法律压力更多转向数据获取和具体输出环节。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日1时4分"
+  },
+  {
+    "id": "cmtke47zx01f7robqgdxtjv5c",
+    "title": "Databricks 扩展 Genie Agents：新增深度分析与文件推理能力",
+    "url": "https://www.databricks.com/blog/expanding-genie-agents-deep-analysis-file-reasoning-and-more",
+    "summary": "Databricks 宣布扩展 Genie Agents 能力，新增深度分析、文件推理等功能。此前公司在 Data and AI Summit 上宣布 Genie Spaces 演进为 Genie Agents。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年9月3日1时48分"
+  },
+  {
+    "id": "cmtkethoz031mrobqhp3at0rm",
+    "title": "X Square Robot 发布 TwinDEX 可穿戴双手系统，无需真机演示即可训练灵巧操作",
+    "url": "https://x.com/rohanpaul_ai/status/2095205077711761837",
+    "summary": "X Square Robot 发布 TwinDEX，一对协同设计的三指九自由度灵巧操作接口，一个可穿戴用于数据采集，一个用于机器人部署，两者共享相同的运动学、接触面、外观和传感器。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日1时39分"
+  },
+  {
+    "id": "cmtkdyk5f0176robqsz7prz97",
+    "title": "李飞飞 World Labs 发布多模态世界模型 Atlas",
+    "url": "https://x.com/AYi_AInotes/status/2095204264729817235",
+    "summary": "World Labs 发布多模态世界模型 Atlas，官方称其可生成具有像素级精确相机控制的图像和视频帧，并在 3D 中重建。作者评价其可生成可交互的 3D 世界，认为对 2D 文生视频和三维建模、游戏行业有冲击。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月3日1时36分"
+  },
+  {
+    "id": "cmtkdrshu000crobq6en9qd7d",
+    "title": "Elvis Saravia 推荐 exo harness 并发布入门教程",
+    "url": "https://x.com/omarsar0/status/2095204228687945880",
+    "summary": "Elvis Saravia 称赞 exo harness 出色，并给出入门教程链接 https://academy.dair.ai/labs/intro-to-exo，介绍 exo 如何支持递归自我改进。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月3日1时36分"
+  },
+  {
+    "id": "cmtkehl0l01qgrobqchmqixhb",
+    "title": "Ethan Mollick 试用 Gemini 3.8 Flash 并用同一提示词对比 shader 生成效果",
+    "url": "https://x.com/emollick/status/2095203002210807816",
+    "summary": "Ethan Mollick 称自己获得 Gemini 3.8 Flash 早期访问，认为它是很好的 Flash 模型，但不等同于前沿模型。他用相同提示词让 Gemini 3.8 Flash 快速生成被淹没的新哥特式高塔 twigl shader，并附视频与 Fable 5.1 及此前模型的版本作对比。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月3日1时31分"
+  },
+  {
+    "id": "cmtkdrsij000frobqs08o50gv",
+    "title": "SemiAnalysis 称 OpenAI Jalapeno ASIC 存在一个无人讨论的重大缺陷",
+    "url": "https://x.com/SemiAnalysis_/status/2095202714711953436",
+    "summary": "SemiAnalysis 发推称，OpenAI 的 Jalapeno ASIC 及其系统备受好评，但存在一个几乎无人谈论的重大缺陷，并以六条推文串（1/6）的形式展开分析。附图显示两人手持一块标注 Jalapeno Intelligence Processor 的晶圆纪念牌。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年9月3日1时30分"
+  },
+  {
+    "id": "cmtkdhylf01h7roc7uqoguxuq",
+    "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 Gemini 3.8 Flash Cyber：同一核心模型、两种访问方式",
+    "url": "https://www.marktechpost.com/2026/09/02/google-deepmind-releases-gemini-3-8-flash-and-gemini-3-8-flash-cyber-one-core-model-two-access-envelopes",
+    "summary": "Google DeepMind 发布 Gemini 3.8 Flash 和 Gemini 3.8 Flash Cyber，两者基于同一核心智能，区别在于安全包络和访问方式。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月3日1时20分"
+  },
+  {
+    "id": "cmtkcffai0190rog0psnnjpae",
+    "title": "Anthropic 发布 Claude 商业智能体蓝图，含购物智能体与商家智能体参考实现",
+    "url": "https://claude.com/blog/claude-for-commerce-agents",
+    "summary": "Anthropic 于 9 月 2 日发布在 Claude 上构建商业智能体（commerce agents）的蓝图，包含购物智能体和商家智能体的完整参考实现、护栏及 Claude Code 插件，可在 Claude API、Amazon Bedrock、Microsoft Foundry 或 Google Cloud Vertex AI 上部署。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年9月3日1时1分"
+  },
+  {
+    "id": "cmtkcffah018zrog0zokk6s30",
+    "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
+    "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+    "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
+    "source": "Claude：Blog（网页）",
+    "date": "2026年9月3日1时1分"
+  },
+  {
+    "id": "cmtkdrsi6000drobq014asplq",
+    "title": "Inworld Realtime TTS-2 正式发布，登顶 Artificial Analysis Controlled Voice Arena",
+    "url": "https://x.com/kimmonismus/status/2095199224849670432",
+    "summary": "Inworld 的 Realtime TTS-2 正式全面可用（GA），目前在 Artificial Analysis 的 Controlled Voice Arena 排名第一，官方称其为同级别中最快的 TTS。开发者可在文本中写入从简短情绪标签到完整句子的语气描述来控制语音表达；官方表示研究预览版使用量远超预期，反馈已用于本次 GA 模型。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月3日1时16分"
+  },
+  {
+    "id": "cmtkdpsu801poroc7nvd83ajx",
+    "title": "OpenRouter 推出 Intelligence on Ice 活动，SF 和 NY 咖啡店赠免费额度",
+    "url": "https://x.com/OpenRouter/status/2095199031496761704",
+    "summary": "OpenRouter 宣布 Intelligence on Ice 活动，与 @UseCorgi Cafe 合作，在 SF 或 NY 的门店提供内含免费 OpenRouter credits 的冰焦糖拿铁。用户拍照发帖还有机会获得更多 credits 和周边。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年9月3日1时15分"
+  },
+  {
+    "id": "cmtkdhaxc01g1roc7tr3kvip1",
+    "title": "Google 发布 Gemini 3.8 Flash Cyber 防御型安全模型",
+    "url": "https://x.com/GoogleAI/status/2095197704406065635",
+    "summary": "Google AI 发布 Gemini 3.8 Flash Cyber，专为安全团队等防御者构建，可大规模生成修复漏洞的补丁（patch generation），官方称是其迄今最强的防御模型之一，较 3.5 代大幅提升。",
+    "source": "X：Google AI (@GoogleAI)",
+    "date": "2026年9月3日1时10分"
+  },
+  {
+    "id": "cmtkdrsid000erobq8vn0zy1s",
+    "title": "美国司法部就 OpenAI 版权诉讼提交意见书支持训练属于合理使用",
+    "url": "https://x.com/rohanpaul_ai/status/2095197606884573208",
+    "summary": "美国司法部在 OpenAI 与纽约时报的版权诉讼中提交意见书，主张用受版权文本训练 LLM 一般应属合理使用，称模型训练具有非凡转换性，并以国家安全为由警告全面许可要求会削弱美国 AI 开发者竞争力。该意见书属建议性质、不约束法院，仍将数据获取方式与具体输出是否复制受保护段落作为独立问题留给法院逐案判断。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日1时10分"
+  },
+  {
+    "id": "cmtkcfz8s019trog0x5emk0f6",
+    "title": "Google 发布 Gemini 3.8 Flash，六周内第三款 Flash 模型",
+    "url": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia",
+    "summary": "Google 发布 Gemini 3.8 Flash，含通用版和面向经审核防御者的 3.8 Flash Cyber。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月3日0时59分"
+  },
+  {
+    "id": "cmtkde0yl019hroc7fpor66gf",
+    "title": "Odyssey 发布深夜感言推文",
+    "url": "https://x.com/odysseyml/status/2095194846889734469",
+    "summary": "Odyssey 发布一条配视频的推文，正文仅为 One of those evenings.，未给出具体产品或事件信息。",
+    "source": "X：Odyssey (@odysseyml)",
+    "date": "2026年9月3日0时59分"
+  },
+  {
+    "id": "cmtkco7jp01h8rog06ai87i4k",
+    "title": "Elvis Saravia 称近期 Gemini Flash 模型或为递归自我改进（RSI）飞轮的早期结果",
+    "url": "https://x.com/omarsar0/status/2095193581141033362",
+    "summary": "Elvis Saravia 表示近期 Gemini Flash 模型可能是递归自我改进（RSI）飞轮的早期结果，RSI 正全面展开，复合效应将大幅改变模型进展。他引用他人观察称新的大版本 Flash 迭代约每 3 周一次，效率与性能均在提升，且速度更快、成果更强。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月3日0时54分"
+  },
+  {
+    "id": "cmtkcffgc0192rog057th6i65",
+    "title": "AISLE 在 curl 发现 6 个 CVE，此前 Anthropic Mythos 与 OpenAI Codex Security 均报告零发现",
+    "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+    "summary": "AISLE 称其自主 AI 系统在 Anthropic Mythos 和 OpenAI Codex Security 对 curl 报告零发现后，分析 curl 并提交 29 份报告，其中 6 个被 curl 安全团队确认并授予 CVE 编号（CVE-2026-80229 等），全部为 Low 级别，已在 curl 8.22.0 修复。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月3日0时49分"
+  },
+  {
+    "id": "cmtkcbg5g0163rog0jj4zp3s6",
+    "title": "Google 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber",
+    "url": "https://x.com/demishassabis/status/2095191106665284046",
+    "summary": "Google 发布 Gemini 3.8 Flash 及新的 3.8 Flash Cyber，作者称后者推进网络防御前沿，这是 6 周内第 3 次 Flash 模型更新。",
+    "source": "X：Demis Hassabis (@demishassabis)",
+    "date": "2026年9月3日0时44分"
+  },
+  {
+    "id": "cmtkced610179rog0cz8nzubj",
+    "title": "Yuchen Jin 谈 Fable 5.1 首日体验与 Kimi K3 日常使用感受",
+    "url": "https://x.com/Yuchenj_UW/status/2095191067750781009",
+    "summary": "Yuchen Jin 分享 Fable 5.1 首日使用印象：说话更像正常人，不再有明显的 Claudish 味。他提到其网页搜索仍不如 GPT-5.6 Sol，常漏掉应搜的关键内容，但在前端方面仍明显强于 GPT 模型。他还表示自己的日常主力模型现在是 Kimi K3，称在 Databricks 内部大量实际使用，效果出乎意料地好。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年9月3日0时44分"
+  },
+  {
+    "id": "cmtkbtfix01c3rowyz19plmss",
+    "title": "Zho 发布 AI 视频作品《傀儡谣》以汉字阵转场致敬攻壳机动队",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2095190572277592369",
+    "summary": "Zho 发布 AI 视频作品《傀儡谣》，以汉字阵作为攻壳机动队（Ghost in the Shell）风格的转场。作品借世阿弥《花镜》中「生死去来 棚头傀儡 一线断时 落落磊磊」的傀儡谣意象，表达对智慧体与人类故事走向的看法。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月3日0时42分"
+  },
+  {
+    "id": "cmtkcfd1q018grog03eluywgr",
+    "title": "OpenAI Astra 发布在即，研究人员担忧其架构更难监控",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+    "summary": "OpenAI 推迟发布最强模型 Astra 以加强安全协议，The Information 报道称 Astra 可能采用更不透明的 recurrent depth / looped transformer 技术，内部思考更难监测。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年9月3日0时40分"
+  },
+  {
+    "id": "cmtkfkevo03g1robqgm89uk7w",
+    "title": "llm-gemini 0.34 发布，支持 Gemini 3.8 Flash 并修复异步响应问题",
+    "url": "https://simonwillison.net/2026/Sep/2/llm-gemini",
+    "summary": "llm-gemini 0.34 新增对 Gemini 3.8 Flash 模型 gemini-3.8-flash 的支持，提供 low、medium 和 high 三档思考级别。修复了异步响应未能记录已解析模型版本的问题（#146，感谢 Charlie Tonneslan），另含 #137 修复。",
+    "source": "Simon Willison 博客",
+    "date": "2026年9月3日0时39分"
+  },
+  {
+    "id": "cmtkbz92801nmrowy61g2fsob",
+    "title": "Google AI 团队分享如何为 LLM-as-a-Judge 评测编写可靠的评分标准",
+    "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
+    "summary": "Google AI 团队发布教程，讲解如何为 LLM-as-a-Judge 评测编写可靠的布尔式评分标准，指出模糊提示会导致评估不一致和浪费 token。文中给出四条经验：问题保持原子化且互不重叠、只让评判模型评估客观事实（可用 RFC 2119 术语如 MUST 表述）、只评 prompt 中明确要求的内容、用专家标注的 golden set 校准评判模型直至与人类评分一致。",
+    "source": "Google AI：DEV 作者专属（RSS）",
+    "date": "2026年9月3日0时35分"
+  },
+  {
+    "id": "cmtkccev8016irog09cdd3n0e",
+    "title": "GPT-6-Astra 模型标识被发现在 OpenAI API 中存在",
+    "url": "https://x.com/testingcatalog/status/2095188500727451674",
+    "summary": "TestingCatalog 转发 @mrfanduu 的探测结果，gpt-6-astra 这个模型标识已在 OpenAI API 中被检出为 GATED-EXISTS（404），而 gpt-5.7-astra、gpt-5.7 及 -sol/-luna/-terra/-cyber 变体均返回 400 不存在，gpt-5.6-cyber 对照组同为 404。作者称如果明天真的发布将是重要一周，并猜测 Routing 会先上线。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月3日0时33分"
+  },
+  {
+    "id": "cmtkblmo70192rowyhltyz8oz",
+    "title": "gpt-6-astra 出现特殊 API 响应，OpenAI 下一代模型 Astra 或为 GPT-6",
+    "url": "https://x.com/kimmonismus/status/2095187644162465927",
+    "summary": "作者转发 @synthwavedd 的发现：OpenAI Responses API 对 \"gpt-6-astra\" 返回 404，而无效 slug 返回 400，已知存在的 5.6 Cyber 也返回 404，此前 Bedrock API 曾以类似特征提前一天暴露 Fable 5.1。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月3日0时30分"
+  },
+  {
+    "id": "cmtkbbn6q01j6roz54e8g5zec",
+    "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
+    "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
+    "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
+    "source": "Google Developers Blog（RSS）",
+    "date": "2026年9月3日0时29分"
+  },
+  {
+    "id": "cmtkblmnx0191rowyx7ew9ksm",
+    "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款模型",
+    "url": "https://x.com/fofrAI/status/2095186729355313172",
+    "summary": "Google DeepMind 发布两款新 Gemini 模型：Gemini 3.8 Flash 相比 3.7 Flash 在软件工程、智能体任务和多步推理上有显著提升；3.8 Flash Cyber 面向网络安全，提供漏洞检测与自动修补能力。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年9月3日0时26分"
+  },
+  {
+    "id": "cmtkbdbti01n7roz5n2crpgi9",
+    "title": "Google DeepMind 推出 Fairwind Program，用 Gemini 3.8 Flash Cyber 与 CodeMender 主动防御网络威胁",
+    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises",
+    "summary": "Google DeepMind 推出 Fairwind Program，一项面向政府和可信合作伙伴的有限准入计划，提供 Gemini 3.8 Flash Cyber 网络安全模型与 CodeMender，可自主发现、验证并修复漏洞，在组织安全云环境中数分钟内生成可部署补丁。",
+    "source": "Google DeepMind：Blog（RSS）",
+    "date": "2026年9月3日0时24分"
+  },
+  {
+    "id": "cmtkb9u6z01edroz58tyjtx35",
+    "title": "Grok Bot 现已上线 Android 平台",
+    "url": "https://x.com/testingcatalog/status/2095185324682940697",
+    "summary": "Grok Bot 现已在 Android 平台可用，进入测试阶段。Grok 团队成员 @lingxi 表示 bot 已在 Android 上线，用户可在任意位置 @ 它，并欢迎反馈 bug 和使用体验，团队正在积极修复。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月3日0时21分"
+  },
+  {
+    "id": "cmtkbdbti01n8roz5k5kt1g98",
+    "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+    "summary": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber。",
+    "source": "Google DeepMind：Blog（RSS）",
+    "date": "2026年9月3日0时18分"
+  },
+  {
+    "id": "cmtkb8vpo01bbroz5md3n2pce",
+    "title": "Google 发布 Gemini 3.8 Flash Cyber 网络安全模型",
+    "url": "https://x.com/sundarpichai/status/2095184464800526655",
+    "summary": "Google 发布 Gemini 3.8 Flash Cyber，定位为其最强网络安全模型，具备漏洞发现与大规模修补能力，速度和定价对标 Flash 档。模型在 CyberGym 基准达到 86.2%，CWE-Bench 修补任务 47.2%，内部基准上跨 20 种编程语言的漏洞发现成功率超过 70%。",
+    "source": "X：Sundar Pichai (@sundarpichai)",
+    "date": "2026年9月3日0时17分"
+  },
+  {
+    "id": "cmtkblmo70193rowy9iize4nv",
+    "title": "Gemini 3.8 Flash 在 DeepSWE 得分 73%，定价表现引作者热议",
+    "url": "https://x.com/kimmonismus/status/2095184248995016833",
+    "summary": null,
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月3日0时17分"
+  },
+  {
+    "id": "cmtkblmog0194rowyqp7khum7",
+    "title": "Rohan Paul 点评 Resona：把文档当作 Agent 的知识边界，让对话有方向地走向目标",
+    "url": "https://x.com/rohanpaul_ai/status/2095184185145360536",
+    "summary": "Rohan Paul 转评 @MeetResona 团队推出的直播 AI Agent Resona，该产品面向创作者和教育者，把现有材料变成可实时互动的直播会话。作者认为 Resona 把文档当作 Agent 的知识边界，创作者设定交互目标，Agent 沿方向主动推进讲解，不同于由用户提问驱动的普通文档聊天机器人；引用内容还提到支持 36 种语言切换、可自定时长与定价或免费提供。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日0时16分"
+  },
+  {
     "id": "cmtjc7hs502verobv27z0advr",
     "title": "Tibo 发文表示对前景看涨",
     "url": "https://x.com/thsottiaux/status/2094939684015317363",
