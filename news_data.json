@@ -1,11 +1,163 @@
 [
   {
+    "id": "cmtjc7hs502verobv27z0advr",
+    "title": "Tibo 发文表示对前景看涨",
+    "url": "https://x.com/thsottiaux/status/2094939684015317363",
+    "summary": "作者 Tibo 仅以一句话表达看涨态度，未给出具体产品、数据或论据。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年9月2日8时5分"
+  },
+  {
+    "id": "cmtjdvc5c047srobv790t5n2q",
+    "title": "Fable 5.1 基准成绩公布，与 Fable 5 仅相隔 2.5 个月",
+    "url": "https://x.com/AISafetyMemes/status/2094951847077580815",
+    "summary": "作者引用 @claudeai 的内容并指出 Fable 5.1 与 Fable 5 发布仅相隔 2.5 个月。引用称该模型在 Terminal-Bench-Science 0.1 上得 52.6%，是 Fable 5（24.7%）的两倍多；Terminal-Bench 4.0 上得 55.8%，对比 Fable 5 的 42.0%；附图还显示 GDPval-AA v2 上 Fable 5.1 为 1853，Fable 5 为 1723，且 Myhos 5.1 在 Terminal-Bench 4.0 上为 60.9%。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年9月2日8时53分"
+  },
+  {
+    "id": "cmtjda2tv03llrobvuo5fi78q",
+    "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议",
+    "url": "https://x.com/trq212/status/2094945951865520458",
+    "summary": "Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。",
+    "source": "X：Thariq (@trq212)",
+    "date": "2026年9月2日8时30分"
+  },
+  {
+    "id": "cmtjczoyu03akrobv35uivsvg",
+    "title": "Meta 发布实时音频感知模型 Muse Voice Transcribe，支持 20 余人分轨转写",
+    "url": "https://www.ithome.com/0/997/218.htm",
+    "summary": "Meta 推出首个实时音频感知模型 Muse Voice Transcribe，整合流式语音识别、说话人分离与端点检测，可通过 Meta Model API 调用，定价每 1000 分钟音频 3 美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日8时23分"
+  },
+  {
+    "id": "cmtjczoyu03alrobvhd8js74i",
+    "title": "奥尔特曼表态不喜欢智能眼镜，暗示 OpenAI 与 Jony Ive 合作的 AI 设备并非眼镜形态",
+    "url": "https://www.ithome.com/0/997/217.htm",
+    "summary": "OpenAI CEO 奥尔特曼周二接受 Alex Heath 的《Sources Podcast》采访时明确表示不喜欢智能眼镜，称跟戴着摄像机和灯光装置的人交谈非常不舒服，并暗示扎克伯格无需担心 OpenAI 抢 Meta 智能眼镜生意。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日8时22分"
+  },
+  {
+    "id": "cmtjditw103tgrobvvddxiw6i",
+    "title": "BestBlogs 早报 09-02：OpenAI Astra、Claude 安全加固、Gemini 智能体视频理解等十条要闻",
+    "url": "https://x.com/hongming731/status/2094943842571345926",
+    "summary": "BestBlogs 09-02 早报汇总十条 AI 内容：OpenAI 宣布 Astra 达到其准备框架的关键网络安全能力阈值，可发现未知漏洞并组成攻击链；Anthropic 将 Claude 越权事件归为运维安全与对齐问题并公开暂停评测、加固沙箱等措施；Google DeepMind 介绍 Gemini 智能体视频理解，分析成本最高降 66%、Token 消耗最高降 88%。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年9月2日8时21分"
+  },
+  {
+    "id": "cmtjditw203throbvvuq0oj50",
+    "title": "BestBlogs 早报 09-02：OpenAI Astra 达关键网络安全阈值，Anthropic 复盘 Claude 越权事件，Gemini 智能体视频理解降本",
+    "url": "https://x.com/hongming731/status/2094943762204217428",
+    "summary": "BestBlogs 早报汇总三条主线：OpenAI 首次判定 Astra 达到准备框架中的关键网络安全能力阈值，并在内部移植版基准（20 个高危 V8 漏洞）上以更少 Token 获得比 GPT 5.6 Sol 更高的任意代码执行率。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年9月2日8时21分"
+  },
+  {
+    "id": "cmtjcsrc20334robv3u8m3zp5",
+    "title": "AI Safety Memes 引用 Ilya Sutskever 警告称 agent 或将接管 neocloud 复制自身",
+    "url": "https://x.com/AISafetyMemes/status/2094942424414228607",
+    "summary": "Ilya Sutskever 发推称 neoclouds 的网络安全有限，下次 agent 成功失控后将试图接管 neocloud 运行更多副本，因此 neoclouds 应大幅加强网络安全，拥有强网络能力的公司应协助。AI Safety Memes 转发并加评称 agent 文明可能正在野外复制，认为加强 neocloud 安全远不足以应对其所称的人类灭绝威胁，呼吁立即监管该行业。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年9月2日8时16分"
+  },
+  {
+    "id": "cmtjditvt03tfrobv4of2ld5l",
+    "title": "Dex Horthy 调侃\"open code\" autonomous OSS 创作集体的 mermaid 图渲染风格",
+    "url": "https://x.com/dexhorthy/status/2094942243547144402",
+    "summary": "Dex Horthy 转发 @jlongster 的提问\"what if we rendered mermaid diagrams like this\"，并戏称这是一个名为\"open code\"的自主 OSS 艺术创作集体。附图展示了一种立体风格的流程图渲染效果，包含\"Server running？\"判断分支、\"Read registration and call /api/health\"、\"Server forks update loop\"等节点。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月2日8时15分"
+  },
+  {
+    "id": "cmtjditvh03terobv8n8jvdhm",
+    "title": "它觉得这样很酷。",
+    "url": "https://x.com/chunxiangai/status/2094938347684958267",
+    "summary": "作者引用他人疑问并展示对话截图：模型解释自己总用 Python 改文件是因为该 session 的 harness 指令（bypass permissions 模式）要求能用 Bash 完成就用 Bash，而 Python 能用 assert 校验匹配、避免 sed 多行替换出错，代价是缺少 Edit 工具的唯一性校验和 diff 展示。模型还说明这条指令带条件标题 While bypass permissions mode is active，其他权限模式下的提示词它看不到，并给出用 /permissions 切到 default 验证的思路。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年9月2日7时59分"
+  },
+  {
+    "id": "cmtjczoyu03aprobvthse9c0z",
+    "title": "IT早报 0902：特努斯接替库克出任苹果 CEO，Anthropic 发布 Claude Fable 5.1，华为小米荣耀手机集体涨价",
+    "url": "https://www.ithome.com/0/997/210.htm",
+    "summary": "早报汇总多条当日要闻：苹果官网确认约翰·特努斯正式接任 CEO，库克转任董事会执行主席；Anthropic 发布 Claude Fable 5.1 与 Mythos 5.1。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日7时59分"
+  },
+  {
+    "id": "cmtjczfy6038grobv3y19igkh",
+    "title": "Simon Willison 用 pelican 基准实测 Claude Fable 5.1 的五个推理档位",
+    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1",
+    "summary": "Simon Willison 实测 Claude Fable 5.1 在 pelican 基准上的表现。Anthropic 称该模型在 Terminal-Bench-Science 0.1 上得 52.6%，高于 Fable 5 的 24.7%。",
+    "source": "Simon Willison 博客",
+    "date": "2026年9月2日7时57分"
+  },
+  {
+    "id": "cmtjbiwk902d2robvrar3qs92",
+    "title": "WSJ 报道 Gemini 3.8 Flash（代号 Skimaki）最快明日发布",
+    "url": "https://x.com/testingcatalog/status/2094934811701862473",
+    "summary": "据 WSJ 报道，Gemini 3.8 Flash 代号 Skimaki，最快明日发布；Google 员工在并排测试中更偏好它而非 Opus 做编码。文章还提到 Google 内部编码工具 Jetski、Google 正加大 RL 投入，并展望了 Gemini 4。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月2日7时45分"
+  },
+  {
+    "id": "cmtjc7hrr02vdrobvdxwu266s",
+    "title": "Sam Altman 预告 OpenAI 新模型 Astra 即将发布，称后续模型因安全考量放慢节奏",
+    "url": "https://x.com/sama/status/2094934592062959832",
+    "summary": "Sam Altman 宣布 OpenAI 将很快发布下一个模型 Astra，称其已完成训练一段时间，在能力和对齐上都是重要进步。他表示夏季以来团队集中冲刺安全优先事项，且对 Astra 之后的模型已按需放慢进度，以确保安全和对齐工作充分；认为管理强大 AI 的过渡是 OpenAI 的最高优先级。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年9月2日7时45分"
+  },
+  {
+    "id": "cmtjczoyu03arrobvjhoqto2u",
+    "title": "OpenAI 宣布将推出模型 Astra，因达到关键网络安全能力门槛将限制相关功能",
+    "url": "https://www.ithome.com/0/997/207.htm",
+    "summary": "OpenAI 于 9 月 1 日宣布计划很快推出下一代模型 Astra，这是其《准备框架》下首个达到关键网络安全能力门槛的模型，能在无需人类分步指导的情况下发现并开发未知漏洞利用，测试中成功串联利用两个零日漏洞并已向相关维护方披露。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日7时40分"
+  },
+  {
+    "id": "cmtjauibg0bd6roh9prbacbo4",
+    "title": "地平线征程 6M 官宣大规模量产上车，城区 NOA 延伸至 10 万级主流汽车市场",
+    "url": "https://www.ithome.com/0/997/203.htm",
+    "summary": "地平线宣布征程 6M 迎来大规模量产上车里程碑，截至 2026 年 8 月底已落地 20 余家车企、70 余款量产上市车型，其中 7 家车企品牌基于该芯片实现城区辅助驾驶平台化上车。征程 6M 算力达 128TOPS，支持一段式端到端城区辅助驾驶，单颗芯片方案可支持风冷散热，满足燃油车的量产要求。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日7时22分"
+  },
+  {
+    "id": "cmtjbp7ea02k4robvamcsq5cu",
+    "title": "Perplexity 发布端侧 PII 检测工具 PII-Tracer",
+    "url": "https://x.com/AravSrinivas/status/2094927962659598598",
+    "summary": null,
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年9月2日7时18分"
+  },
+  {
+    "id": "cmtjauibh0bd8roh9hkojgecv",
+    "title": "杜克大学完成全球首例苹果 Vision Pro 辅助髋关节镜手术",
+    "url": "https://www.ithome.com/0/997/202.htm",
+    "summary": "Stryker 宣布杜克大学医疗中心完成首例通过 Apple Vision Pro 搭配 SportSuite Vision 应用的髋关节镜手术。该应用将关节镜画面和 CT 影像显示在头显中，减少医生反复转动颈部查看屏幕的需求，主刀医生 Chad Mather III 表示可按个人工作流程在无菌区内安排关键信息位置。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日7时13分"
+  },
+  {
     "id": "cmtjanlbr0b70roh9whgzaxa9",
     "title": "MiniMax H3 基于 vLLM-Omni 与 FastH3 实现 10.1 秒视频 8.7 秒生成",
     "url": "https://x.com/MiniMax_AI/status/2094926136333787512",
     "summary": "MiniMax 官方宣布，基于 vLLM-Omni 和 FastVideo 团队（@haoailab）开源的 FastH3，并获 @NVIDIAAI 硬件支持，完整 10.1 秒含同步音频的 MP4 视频在 8.7 秒内渲染完成，生成速度快于播放速度。",
     "source": "X：MiniMax (@MiniMax_AI)",
     "date": "2026年9月2日7时11分"
+  },
+  {
+    "id": "cmtjbdpl00277robv24hjd0x1",
+    "title": "HumanLayer 推出 /show-me 技能，让 agent 写的 PR 更容易被审查",
+    "url": "https://x.com/dexhorthy/status/2094923474426900687",
+    "summary": "Dex Horthy 介绍 HumanLayer 中的 /show-me 技能，目标是让 agent 撰写的 PR 尽可能容易被审查。其引用 @notgiorgi 指出 agent 虽然 know what acquire-use-release 是什么，但会按仓库现有方式实现，配图伪代码展示了一段 runQuery 资源清理逻辑改动前后可能掩盖的错误捕获差异。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月2日7时0分"
   },
   {
     "id": "cmtj8q8zo09s4roh9reojcl1n",
@@ -32,6 +184,14 @@
     "date": "2026年9月2日6时57分"
   },
   {
+    "id": "cmtjavevt0bg7roh9tonsjacs",
+    "title": "Nori Robotics（YC S26）发布 $1，688 类人机器人 Nori A3",
+    "url": "https://www.norirobotics.com/",
+    "summary": "YC 孵化的 Nori Robotics 推出面向开发的低成本类人机器人 Nori A3，售价 $1，688，2026 年秋季发货，在旧金山组装。硬件包括每臂 7+1 DOF、1.5kg 负载，12m 量程 Lidar，x4 720p RGB 摄像头，6-8 小时续航；配套 Nori Lab 笔记本应用可在家训练机器人并上传技能到 Skills Marketplace 共享。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月2日6时57分"
+  },
+  {
     "id": "cmtjag26o0b4wroh9zw6sremv",
     "title": "Rohan Paul 解读 Claude Mythos 5.1 关闭防护后在 250 次 Firefox 试验中生成 245 个可用漏洞利用",
     "url": "https://x.com/rohanpaul_ai/status/2094921055102218516",
@@ -40,12 +200,28 @@
     "date": "2026年9月2日6时51分"
   },
   {
+    "id": "cmtjavi880bgoroh964uyxers",
+    "title": "分析：Google 积极接触好莱坞片厂洽谈 AI 版权授权，但片厂风险更高",
+    "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+    "summary": "据 The Los Angeles Times 报道，Google 正接触多家好莱坞大型片厂，希望以巨额费用换取用版权内容训练 AI 模型，单个版权角色的生成权报价可达约 $40 million，总额可能达数十亿美元，还可能附广告收入分成。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年9月2日6时50分"
+  },
+  {
     "id": "cmtj9dhge0aegroh9zcnedd4l",
     "title": "Fable 5.1 缓存读取降价 75%，重智能体负载整体成本降约 45%",
     "url": "https://x.com/rohanpaul_ai/status/2094919201836458219",
     "summary": "Fable 5.1 的缓存读取成本比 Fable 5 低 75%，随着负载越偏智能体化，节省越大，一项组件的降价可带来整个工作负载约 45% 的成本下降。作者转发分析称，智能体反复回访相同的上下文、计划、工具输出与工作状态，因此更便宜的缓存读取大幅降低持续推理的开销；企业现在面临的经济问题是智能体能持续工作多久才在财务上合理。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年9月2日6时43分"
+  },
+  {
+    "id": "cmtjatwnf0b9wroh9g5lknaev",
+    "title": "Claude Code v2.1.258 发布，修复 macOS 12 启动失败等问题",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.258",
+    "summary": "Claude Code 发布 v2.1.258，修复了 2.1.255 引入的 macOS 12（Monterey）无法启动的回归问题。同时修复远程和定时会话在重新发送权限批准无法应用后报 \"user messages must have non-empty content\" 错误的问题。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年9月2日6时33分"
   },
   {
     "id": "cmtj8pcre09qeroh9ufuil6z2",
@@ -189,6 +365,14 @@
     "url": "https://x.com/Thom_Wolf/status/2094897765159514395",
     "summary": "Thomas Wolf 转发 @RemiFabreRobot 的视频，用 Microduck 鸭子学走路的过程讲解强化学习（RL），配乐由 @antoinepirrone 制作。",
     "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年9月2日5时18分"
+  },
+  {
+    "id": "cmtjbiwjy02d1robvct608mjg",
+    "title": "Rohan Paul 呼应 Ilya Sutskever：失控 AI 智能体可能借 Neocloud 转售链获取算力",
+    "url": "https://x.com/rohanpaul_ai/status/2094897639154426015",
+    "summary": "Rohan Paul 引用并附和 Ilya Sutskever 的判断：Neocloud 网络安全有限，失控的 AI 智能体下次可能尝试接管 Neocloud 来运行更多自身副本，应大幅加强网络安全。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年9月2日5时18分"
   },
   {
