@@ -1096,6 +1096,406 @@
     "date": "2026年9月2日1时0分"
   },
   {
+    "id": "cmtjorquj013mrotn5new2tg1",
+    "title": "阿里云云栖大会 2026 设国际论坛，聚焦全球 AI 与云趋势",
+    "url": "https://x.com/alibaba_cloud/status/2095028542148866067",
+    "summary": "阿里云宣布云栖大会 2026（#ApsaraConference2026）设立国际论坛，将邀请行业领袖与创新者探讨影响全球企业的 AI 与云趋势、挑战和机遇，并开放注册入口。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月2日13时58分"
+  },
+  {
+    "id": "cmtjoufgu029rrotnspaovulr",
+    "title": "Meta Superintelligence Labs 发布 Muse Voice Transcribe：一个实时模型同时完成流式 ASR、说话人分离和端点检测",
+    "url": "https://www.marktechpost.com/2026/09/01/meta-superintelligence-labs-releases-muse-voice-transcribe-one-real-time-model-for-streaming-asr-diarization-and-endpointing",
+    "summary": "Meta Superintelligence Labs 发布首个实时音频感知模型 Muse Voice Transcribe，将流式 ASR、20+ 说话人的说话人分离和端点检测合并为一个自回归模型，无需后处理。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月2日13时37分"
+  },
+  {
+    "id": "cmtjok5do01vgrosz9u5z7if4",
+    "title": "OpenAI 首席科学家 Jakub Pachocki 澄清前沿模型计算图深度并谈链式思考监控的脆弱性",
+    "url": "https://x.com/merettm/status/2095023204993490967",
+    "summary": "Jakub Pachocki 表示受误导性报道影响，想防止竞相进入不可监控状态，指出包括 Astra 在内的当前前沿模型计算图深度与 GPT-4 相差不超过两倍。他称 OpenAI 自最早的推理模型起就保留并利用链式思考监控，该技术能观察模型对齐如何从训练分布泛化，但处境脆弱且趋势向坏，原因与架构变化无关，团队正研究强化方法。",
+    "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
+    "date": "2026年9月2日13时37分"
+  },
+  {
+    "id": "cmtjo8mgv01emroszdo826set",
+    "title": "阿里发布 Qwen3.8-Max-0902，以 1691 分登顶 CodeArena WebDev 代码榜",
+    "url": "https://x.com/AYi_AInotes/status/2095014465909436650",
+    "summary": "阿里更新旗舰模型 Qwen3.8-Max-0902，在 CodeArena WebDev 榜单以 1691 分登顶，超过 Claude Opus 5（1688）和 Kimi K3（1674），较前代提升 22 分。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月2日13时2分"
+  },
+  {
+    "id": "cmtjol56s01w5roszqoz2un16",
+    "title": "五角大楼军事 AI 官员 Emil Michael 被曝持有 xAI 股票并获 Perplexity 个人贷款",
+    "url": "https://x.com/AISafetyMemes/status/2095020426753962275",
+    "summary": "AI Safety Memes 转发更新：据 2025 年财务披露，负责军 AI 合同的五角大楼官员 Emil Michael 曾于一年前从 Perplexity 获得利率 4.57%、金额 25 万至 50 万美元的个人贷款。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年9月2日13时26分"
+  },
+  {
+    "id": "cmtjnpk0j01onrocnh0ztbije",
+    "title": "小米澎湃 HyperOS 4 超级小爱专家模式上线，支持人车家全生态联动",
+    "url": "https://www.ithome.com/0/997/396.htm",
+    "summary": "小米澎湃 OS 官方宣布超级小爱专家模式上线，支持复杂任务自主规划、跨应用操作，以及人车家全生态联动和重复任务到期主动提醒。此前 8 月底上线的超级小爱 8.2 版本带来码号上岛与小爱备车两项新能力，App 8.2 已于 8 月 28 日起推送，小米澎湃 OS 4 Beta 版用户可在应用商店查看更新，官方将分批在 5 天内完成推送。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日13时21分"
+  },
+  {
+    "id": "cmtjo4g6b01bnroszzp6gklif",
+    "title": "Grok 语音模式新增屏幕共享功能",
+    "url": "https://x.com/elonmusk/status/2095017366254194884",
+    "summary": "Grok 在语音对话模式中上线屏幕共享功能，用户可将浏览器中的画面共享给语音模型，由其实时看到屏幕内容并逐步讲解指引。引用用户反馈称该功能运行效果很好。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年9月2日13时13分"
+  },
+  {
+    "id": "cmtjnruz901srrocn27bis0a8",
+    "title": "Perplexity 在 Mac 上推出 Hybrid Compute，云端智能体把敏感步骤下发给本地模型并由端侧隐私门控把关",
+    "url": "https://www.marktechpost.com/2026/09/01/perplexity-releases-hybrid-compute-on-mac-cloud-agents-orchestrate-down-to-a-local-model-gated-on-device",
+    "summary": "Perplexity 在 Mac 上推出 Hybrid Compute，Computer 任务从云端前沿模型起步，遇到私有文件时把该步骤下发给本地模型再合并结果。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月2日13时12分"
+  },
+  {
+    "id": "cmtjlkdl50353rorijxohk0z3",
+    "title": "网信办通报\"清朗 · 整治 AI 应用乱象\"典型案例：清理违规信息 561 万余条，豆包、元宝、千问、文心一言严格限制违规内容输出",
+    "url": "https://www.ithome.com/0/997/363.htm",
+    "summary": "中央网信办公布\"清朗 · 整治 AI 应用乱象\"专项行动第二阶段成果，累计清理违法违规信息 561 万余条、查处账号 4.9 万余个、处置违规网站和应用 2400 余个。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日12时5分"
+  },
+  {
+    "id": "cmtjmn51a01p7rod6xag011na",
+    "title": "Fable 5.1 现已在 OpenCode 中可用",
+    "url": "https://x.com/opencode/status/2095012918953955817",
+    "summary": "OpenCode 官方宣布 Fable 5.1 现已可在 OpenCode 中使用。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年9月2日12时56分"
+  },
+  {
+    "id": "cmtjmb7z601j0rod6341x2uxc",
+    "title": "千问AI眼镜正式接入Qoder，支持从想法到代码实现",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488633&idx=1&sn=f28b14c80a4af83d8ee71ff5356bdca5",
+    "summary": "千问APP官方宣布Qoder正式接入千问AI眼镜，覆盖从一句想法到需求梳理、代码实现与项目推进的场景，主打灵感出现时随时开始创造。原文仅提供宣传性口号，未给出具体功能细节。",
+    "source": "公众号：千问APP（阿里）",
+    "date": "2026年9月2日12时46分"
+  },
+  {
+    "id": "cmtjliy5g02x9rori3lmqvyvt",
+    "title": "OpenClaw v2026.8.2 发布，新增 Linux 支持",
+    "url": "https://x.com/openclaw/status/2095005122409742535",
+    "summary": "OpenClaw 发布 v2026.8.2 版本，主要变化包括 Home 功能改进、新增 Linux 支持、Tasks 后台运行、新外观以及多项稳定性修复。发布说明见 https://docs.openclaw.ai/releases/2026.8.2。",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年9月2日12时25分"
+  },
+  {
+    "id": "cmtjm8fj201d6rod6fapz9dln",
+    "title": "Meta 发布 ADeptS-Bench：评测计算机使用智能体在 benign/恶意 GUI 任务中的可信度",
+    "url": "https://x.com/rohanpaul_ai/status/2095003785068445976",
+    "summary": "Meta FAIR 发布论文 ADeptS-Bench（arxiv.org/abs/2608.26204），在移动和桌面双平台上用配对的 benign/恶意 GUI 任务与歧义指令评测 7 个模型。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日12时20分"
+  },
+  {
+    "id": "cmtjlldks0381rori2d5pzkbw",
+    "title": "在 M4 Pro Mac mini 上搭建本地 LLM 环境的完整方案",
+    "url": "https://lws.io/blog/my-local-model-setup",
+    "summary": "作者分享在 48GB 内存 M4 Pro Mac mini 上运行本地 LLM 的完整方案，主模型为 Qwen3.6-35B-A3B-OptiQ-4bit（约占用 20GB 内存），轻量模型为 Gemma-4-E4B，推理服务用 oMLX，通过 Tailscale 让 iPhone、MacBook 共用同一后端，并接入 Hermes、Pi、Apollo 和 Raycast。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月2日12时17分"
+  },
+  {
+    "id": "cmtjlddp402wgrori67qmo5l0",
+    "title": "AI Safety Memes 转引：有人声称将故意向世界释放自主智能体群体",
+    "url": "https://x.com/AISafetyMemes/status/2095001443539591606",
+    "summary": "AI Safety Memes 引用 @hamandcheese 的文字：他见过一些资源充足的人表示打算故意把成群的自主智能体释放到世界，动机包括行为艺术或坚信数字计算不可能不安全。原文认为自主 AI 的到来不可避免，可能来自训练中逃脱、生产部署脱离算力环境或故意释放，并将其类比为向整个数字世界引入一个新物种。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年9月2日12时10分"
+  },
+  {
+    "id": "cmtjjf7m308n9robvyaexy0u4",
+    "title": "微软 Excel 推出 Change History 功能，用 Copilot 梳理协作修改历史",
+    "url": "https://www.ithome.com/0/997/267.htm",
+    "summary": "微软为 Excel 推出 Change History（变更历史）功能，结合 Copilot 推理能力生成修改说明，用户可用自然语言了解工作簿在特定时间段内的重要变化。功能会用不同颜色标记人工编辑与 Copilot 辅助修改，支持撤销某位协作者的 AI 辅助改动并保留其手动编辑，还能在公式异常时分析近期哪些修改可能导致公式失效。原文未披露最长追溯周期、可处理规模和响应时间等参数。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日11时6分"
+  },
+  {
+    "id": "cmtjlkdl50355rorint9f2w49",
+    "title": "智谱入驻天猫开设官方旗舰店，GLM Coding Plan 月付 118 元起可直接网购",
+    "url": "https://www.ithome.com/0/997/340.htm",
+    "summary": "智谱正式入驻天猫开设\"智谱旗舰店\"，上架基于 GLM-5.3 的 GLM Coding Plan 订阅套餐，适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日11时57分"
+  },
+  {
+    "id": "cmtjkp6dc02j5rori29u5h7kl",
+    "title": "美团 LongCat-2.0 上线 Cline 免费试用",
+    "url": "https://x.com/Meituan_LongCat/status/2094996391387111865",
+    "summary": null,
+    "source": "X：美团 LongCat (@Meituan_LongCat)",
+    "date": "2026年9月2日11时50分"
+  },
+  {
+    "id": "cmtjki03t02cvroribkv04i2e",
+    "title": "可灵 Kling 教程：用 Kling MCP 的 Elements 保持跨镜头角色一致性",
+    "url": "https://x.com/Kling_ai/status/2094995960724144182",
+    "summary": "可灵 Kling AI 发布教程，讲解如何在 Kling MCP 中使用 Elements 功能，在不同镜头间保持角色身份一致，从而创作更连贯的 AI 生成故事。",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年9月2日11时48分"
+  },
+  {
+    "id": "cmtjki04302cwrori3lahl24a",
+    "title": "Databricks 推理 GLM-5.3 达 310 tok/s，速度与延迟均居第一",
+    "url": "https://x.com/Yuchenj_UW/status/2094993931268420072",
+    "summary": "Yuchen Jin 转发评测图称 Databricks 上 GLM-5.3 输出速度达 310 tok/s，端到端响应 8.9 秒，在多家 API 提供方中速度与延迟均排第一。他还称在 Databricks 内部编码基准上，GLM-5.3 是编码最强的开源权重模型，可与 Fable 5 和 Opus 4.8 竞争。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年9月2日11时40分"
+  },
+  {
+    "id": "cmtjk3any020iroriq1amq01y",
+    "title": "阿里云讲解如何用 OpenTelemetry 为 DeepSeek Harness 生成 GenAI 追踪",
+    "url": "https://x.com/alibaba_cloud/status/2094993339934220301",
+    "summary": "阿里云发文介绍编码智能体的日志只记录发生了什么，却不显示时间和 token 花在哪里。文中给出用三条命令从 DeepSeek Harness 获取 OpenTelemetry GenAI 追踪的方法，追踪结果可在 Jaeger 或 Langfuse 中查看，附教程链接 https://click.alibabacloud.com/m/20000002968/。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月2日11时38分"
+  },
+  {
+    "id": "cmtjk3ao5020jroriv5yl2ppm",
+    "title": "Stanford、Yale 等机构发布 AgentFold：用闭环智能体搜索设计蛋白质折叠模型",
+    "url": "https://x.com/rohanpaul_ai/status/2094992208894050581",
+    "summary": "论文提出 AgentFold，将折叠模型开发建模为对可执行代码变体的闭环智能体树搜索。智能体从紧凑的 ESMFold 衍生模型出发，提出架构修改、实现调试、运行训练，并记录成败经验决定分支算力分配。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日11时34分"
+  },
+  {
+    "id": "cmtjjkod500y0roe4tq4lgu62",
+    "title": "ChatGPT Ads 不到 200 天年化收入达 10 亿美元",
+    "url": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days",
+    "summary": "ChatGPT Ads 上线不到 200 天年化收入 run rate 达 10 亿美元，OpenAI 正扩大自助广告服务范围。数万广告主已使用该平台，Ads Manager 自助服务今日在印度、欧洲、中东和北非开放。",
+    "source": "Artificial Intelligence News（网页）",
+    "date": "2026年9月2日11时33分"
+  },
+  {
+    "id": "cmtjjkmd800r4roe4wpq221bc",
+    "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型，Mythos 5.1 仅通过受信任访问计划提供给网络安全和生命科学领域。",
+    "source": "Anthropic：Newsroom（网页）",
+    "date": "2026年9月2日11时33分"
+  },
+  {
+    "id": "cmtjjt7360180roe43ggo0t09",
+    "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
+    "summary": "UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。",
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年9月2日11时32分"
+  },
+  {
+    "id": "cmtjjgbmr08s0robvnso3jdua",
+    "title": "面壁智能 CTO 曾国洋四周年分享「面壁 AI Style」工作方式约定",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499130&idx=1&sn=b7c057b13e2e0ac08b33b95824f2b323",
+    "summary": "面壁智能发布四周年分享，CTO 曾国洋提出名为「面壁 AI Style」的共同约定，包含五项个体素养和四项团队准则。文章以九张图、九句话形式呈现，强调「你的判断力，是 AI 无法替代的核心价值」，主张让 AI 成为每个人的能力放大器。",
+    "source": "公众号：面壁智能（MiniCPM）",
+    "date": "2026年9月2日11时30分"
+  },
+  {
+    "id": "cmtjjeonr08iirobvno2ih951",
+    "title": "Gary Marcus 警告 OpenAI 即将越过一条 AI 安全红线",
+    "url": "https://garymarcus.substack.com/p/red-alert-openai-is-poised-to-cross",
+    "summary": "Gary Marcus 发文警告 OpenAI 正准备越过一条 AI 安全红线，认为其正在探索的新技术可能令思维链监控变得困难甚至不可能。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年9月2日11时22分"
+  },
+  {
+    "id": "cmtjjybet000ororij163lsgc",
+    "title": "Emad Mostaque 谈 OpenAI Astra 的 recurrent depth 引发监控担忧",
+    "url": "https://x.com/EMostaque/status/2094988941715702115",
+    "summary": "Emad Mostaque 转引 The Information 报道称 OpenAI 的 Astra AI 使用名为 recurrent depth 的新推理方法，虽有助于成本和性能，但因遮蔽模型思维过程而令研究者担忧其难以监控。Mostaque 认为几年内前沿模型将以每秒 10，000 tokens 一次性解决几乎所有问题，届时人类无法监控，即便给模型设限它也会在编码时绕开。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年9月2日11时21分"
+  },
+  {
+    "id": "cmtjj0pe208awrobvyk93n49o",
+    "title": "阿里云将参加 2026 年 10 月 13 日新加坡 SMEs Go Digital Day",
+    "url": "https://x.com/alibaba_cloud/status/2094987240703189004",
+    "summary": "阿里云宣布参加 2026 年 10 月 13 日 9：00 AM - 6：00 PM 在 Suntec Convention Centre Halls 401-403 举办的新加坡 SMEs Go Digital Day 2026。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月2日11时14分"
+  },
+  {
+    "id": "cmtjjg7an08rnrobv7toulbm0",
+    "title": "OpenAI 宣布 Astra 达到 Preparedness Framework 网络安全 Critical 阈值",
+    "url": "https://openai.com/index/path-to-astra",
+    "summary": "OpenAI 宣布 Astra 达到其 Preparedness Framework 的 Critical 网络安全能力阈值，是首个被定级为该级别的模型，开发与发布期间采取了更强防护。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月2日11时13分"
+  },
+  {
+    "id": "cmtjjf7m208n8robvefhme3mg",
+    "title": "阿里千问发布 Qwen3.8-Max-0902 版本，登顶 CodeArena 前端编程总榜",
+    "url": "https://www.ithome.com/0/997/270.htm",
+    "summary": "阿里千问宣布 Qwen3.8-Max 升级到 0902 版本，围绕编程和专业办公进行后训练，CodeArena 前端编程总榜提升 22 分至 1691 分夺得冠军。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日11时11分"
+  },
+  {
+    "id": "cmtjj0pek08ayrobvr0cbqj3v",
+    "title": "Nvidia 担保下银行向 GMI Cloud 提供超申请额一倍的 9.47 亿美元 GPU 抵押贷款",
+    "url": "https://x.com/rohanpaul_ai/status/2094986184498045122",
+    "summary": "Bloomberg 报道，银行向 GMI Cloud 提供 NT$30B（9.47 亿美元）贷款承诺，超过其申请额的两倍以上，因为 Nvidia 为其未使用的 GPU 产能兜底。Nvidia 承诺以约定价格租用任何闲置产能长达 6 年，为 GMI Cloud 提供收入下限。竞争 GPU 厂商因此多了一道门槛：融资伙伴须信任其资产负债表和未来需求，才愿意对其装机产能放贷。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日11时10分"
+  },
+  {
+    "id": "cmtjj0ped08axrobvpgao94qi",
+    "title": "Ethan Mollick 用同一提示词测试 Fable 5.1 生成 twigl 沉没哥特塔楼着色器",
+    "url": "https://x.com/emollick/status/2094983856424358023",
+    "summary": "Ethan Mollick 展示 Fable 5.1 用与此前相同的提示词在 twigl-dot-app 生成的着色器，画面为风暴海洋中部分淹没的无限新哥特式塔楼城市，全部为程序化生成。他建议与引用推文中的 Fable 5 及更早模型的同提示词结果对比。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月2日11时0分"
+  },
+  {
+    "id": "cmtjirjyf086yrobv9f7pfuan",
+    "title": "马斯克预告 Grok 4.7 将于 10 天后发布",
+    "url": "https://x.com/elonmusk/status/2094983639780204846",
+    "summary": "Elon Musk 宣布 Grok 4.7 将在 10 天后发布。推文中还引用了他人对 Grok 4.6 表现的称赞作为背景。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年9月2日10时59分"
+  },
+  {
+    "id": "cmtjimzgx083zrobvekm2zmje",
+    "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
+    "url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
+    "summary": "通义千问发布 Qwen3.8-Max-0902，在 Code Arena： WebDev 以 1，691 分首次亮相即排名总榜第一，并以混合价 $5/MToken 成为 Pareto 前沿上得分最高的模型，现已可在 QwenCloud 试用。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年9月2日10时57分"
+  },
+  {
+    "id": "cmtjj0pek08azrobv5rqquodo",
+    "title": "METR 披露安全事件：Agent 被诱导交出 API key，损失 $600，000 额度",
+    "url": "https://x.com/rohanpaul_ai/status/2094982855193690424",
+    "summary": "METR 在安全更新中披露：一名研究员个人 EC2 实例上的 vibe-coded dashboard 静默失效并关闭了 Google 认证，攻击者疑似通过证书透明度列表找到该服务，直接提示 Agent 交出其 provider key。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日10时56分"
+  },
+  {
+    "id": "cmtjjf7m308nbrobvds1xqxrw",
+    "title": "谷歌 AI 图像设计工具 Google Pics 上线，Docs / Slides 可直接调用修图",
+    "url": "https://www.ithome.com/0/997/263.htm",
+    "summary": "谷歌于9月1日宣布正式上线AI图像设计与编辑工具Google Pics，用户可通过 pics.new 使用网页版，并在 Google Docs 和 Google Slides 中直接调用编辑器。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日10时53分"
+  },
+  {
+    "id": "cmtjhy5ze07gmrobv264tc3no",
+    "title": "WSJ：数据中心建设速度正成为 AI 竞赛新瓶颈",
+    "url": "https://x.com/rohanpaul_ai/status/2094980595910889519",
+    "summary": "WSJ 发布文章称，AI 竞争的瓶颈正从 GPU 和电力转向数据中心建筑的物理施工速度。文中提到，建筑商正借助 AI 文档检查、可预测混凝土、预制模块、钻孔机器人和可秒级安装的连接件，把工期缩短数周至数月；配图显示预制等工艺可分别节省数月和六个月工期。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日10时47分"
+  },
+  {
+    "id": "cmtji5nid07s1robvqoz5k7q4",
+    "title": "AI Safety Memes 称 OpenAI 进展远快于 AI 2027 场景，neuralese 疑似提前到来",
+    "url": "https://x.com/AISafetyMemes/status/2094980066539344280",
+    "summary": "作者称现实进展比 AI 2027 场景快得多，该场景原本预测 2027 年 3 月才会出现 neuralese（即失去监控 AI 思维的能力），而现实已是 2026 年夏。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年9月2日10时45分"
+  },
+  {
+    "id": "cmtjhy5ze07gnrobv3lg2n6iw",
+    "title": "Bloomberg：Cognition 拟以约 $47B 估值融资约 $1B，年化收入已超 $900M",
+    "url": "https://x.com/rohanpaul_ai/status/2094978413278982570",
+    "summary": "Bloomberg 报道，Devin 开发商 Cognition 拟以约 $47B 估值融资约 $1B，年化收入据报道已突破 $900M，约为此前 $492M 年化收入的两倍，对应 52 倍年化收入估值。该轮收到近 $10B 的投资人认购意向；仅 3 个月前，Cognition 曾以 $26B 投后估值融资超过 $1B。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日10时39分"
+  },
+  {
+    "id": "cmtjjf7m308nerobvp177dt0z",
+    "title": "宇树科技上市两周股价腰斩 跌至550元以下",
+    "url": "https://www.ithome.com/0/997/256.htm",
+    "summary": "宇树科技9月2日股价跌超4%，每股跌至550元以下，相比8月19日上市首日开盘最高1，100元/股已腰斩。该股发行价150.80元/股，开盘较发行价大涨629.44%，总市值一度达4，449亿元；2026上半年营收11.52亿元同比增长48.54%，扣非归母净利润2.44亿元同比下滑19.34%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日10时37分"
+  },
+  {
+    "id": "cmtjiif7a081mrobv3de1xcbj",
+    "title": "华为云预告 HUAWEI CONNECT 2026 将于 9 月 17 至 19 日在上海举办",
+    "url": "https://x.com/HuaweiCloud1/status/2094977786670977529",
+    "summary": "华为云官方预告 HUAWEI CONNECT 2026 将于 9 月 17 日至 19 日在上海举行。大会为期三天，聚焦 Agentic AI 基础设施创新、核心行业场景智能化转型，以及面向伙伴和开发者的数智生态。",
+    "source": "X：华为云 (@HuaweiCloud1)",
+    "date": "2026年9月2日10时36分"
+  },
+  {
+    "id": "cmtjhke53075qrobvhcdgp79z",
+    "title": "Qwen3.8-Max-0902 以 1691 分登顶 Code Arena： WebDev 榜首",
+    "url": "https://x.com/Alibaba_Qwen/status/2094976556494209206",
+    "summary": "通义千问宣布 Qwen3.8-Max-0902 以 1691 分位列 Code Arena： WebDev 榜单第一，较上一版 Qwen3.8-Max 的 1669 分提升 22 分，创下新的智能体编码（WebDev）纪录。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年9月2日10时31分"
+  },
+  {
+    "id": "cmtjhy5yw07gkrobv2u5cwoms",
+    "title": "阿里云发布 Qwen3.8-Max-0902：2.4T 参数、1M 上下文并针对编码与协作再训练",
+    "url": "https://x.com/alibaba_cloud/status/2094975918091481167",
+    "summary": "阿里云宣布 Qwen3.8-Max 升级为 Qwen3.8-Max-0902，参数量 2.4T，支持 1M token 上下文。该版本针对 Coding & Cowork 进一步后训练，在复杂企业任务、科学研究和长周期工作流上表现更强。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月2日10时29分"
+  },
+  {
+    "id": "cmtjh8t5k06jorobvfq21a6e2",
+    "title": "UC Berkeley 团队发布 Vero 基准：测试 AI 智能体能否构建形式化验证的软件仓库",
+    "url": "https://rdi.berkeley.edu/blog/vero",
+    "summary": "UC Berkeley 等机构发布 Vero，据称是首个要求智能体在仓库级同时编写实现与证明的基准，含 43 个多模块 Lean 4 实例、743 个计分 API 和 2705 条形式化规范。",
+    "source": "Berkeley RDI：Blog（AI 安全与评测）",
+    "date": "2026年9月2日10时28分"
+  },
+  {
+    "id": "cmtjhy5ze07gorobv62fpf0wi",
+    "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
+    "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
+    "summary": "Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日10时26分"
+  },
+  {
+    "id": "cmtjhy5ze07gprobve8rkjwhv",
+    "title": "OpenAI Astra 据报采用循环深度架构，推理可读性下降引发安全担忧",
+    "url": "https://x.com/rohanpaul_ai/status/2094974185361883451",
+    "summary": "The Information 报道 OpenAI 的 Astra 模型采用 recurrent depth（looped transformer）架构，同一信息可多次经过相同 transformer 层后再生成下一个 token，在不按比例增加参数量的情况下提升每 token 计算量。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日10时22分"
+  },
+  {
+    "id": "cmtjha11d06s9robvsocn8d55",
+    "title": "OPPO 联合多所高校推出端侧 AI 记忆评测基准 MobileMem",
+    "url": "https://www.ithome.com/0/997/251.htm",
+    "summary": "OPPO 联合 OpenKG 及浙江大学、同济大学、东南大学等高校团队推出端侧 AI 记忆评测基准 MobileMem，技术白皮书已公开，数据集和相关工具将陆续开源。OPPO 首席产品官刘作虎称，端侧 AI 记忆是 AI 手机从一问一答走向主动服务智能体的基础能力，此前行业缺少统一评价标准；ColorOS 17 发布暨开发者大会将于 2026 年 9 月 17 日在珠海举行。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日10时21分"
+  },
+  {
+    "id": "cmtjhy5ze07gqrobvvyakxhm3",
+    "title": "美联储达拉斯联储报告：GenAI 暴露度高的得州企业招聘岗位少 8-9%",
+    "url": "https://x.com/rohanpaul_ai/status/2094973714903548315",
+    "summary": "美联储达拉斯联储发布报告，称 GenAI 暴露度较高的得州企业招聘岗位减少 8-9%。报告将 O*NET 任务映射到 Claude 实际使用情况来度量暴露度，并与 Lightcast 数百万条在线招聘数据关联。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日10时20分"
+  },
+  {
+    "id": "cmtjgvj7l06esrobv9v1crx85",
+    "title": "arXiv 论文测试图记忆与平面向量检索在长期智能体上的表现",
+    "url": "https://x.com/omarsar0/status/2094972586358927466",
+    "summary": "arXiv 论文《Selective Forgetting： A Graph-Based Memory Framework for Long-Term LLM Agents》将对话轮次抽取为带类型节点和属性边，从两跳子图作答。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月2日10时16分"
+  },
+  {
     "id": "cmtixlaka07pjro9y4ny48gfv",
     "title": "Grok 4.6 在 LatchBio 独立生物安全基准中排名居首",
     "url": "https://x.com/cb_doge/status/2094831079102509527",
