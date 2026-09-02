@@ -1096,6 +1096,406 @@
     "date": "2026年9月2日1时0分"
   },
   {
+    "id": "cmtk0dj3x08ufroiy3ueweftr",
+    "title": "Grok 机器人支持通过 webhook 从任意来源唤醒",
+    "url": "https://x.com/ericzakariasson/status/2095105948016882133",
+    "summary": "Grok 机器人现在可以从任意位置唤醒：创建 routine 时点击 add trigger 并选择 webhook 即可。作者给出的使用想法包括收到特定联系人的 WhatsApp 消息、Notion 页面变化、家中温度传感器达到阈值、GitHub Action 完成、服务器错误率飙升等场景。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年9月2日19时5分"
+  },
+  {
+    "id": "cmtk0klap092proiyar9pcg8q",
+    "title": "宏碁发布迷你主机 AI 工作站 Veriton RI110，基于酷睿 Ultra X7 358H",
+    "url": "https://www.ithome.com/0/997/637.htm",
+    "summary": "宏碁发布基于英特尔酷睿 Ultra X7 358H 处理器的迷你主机 AI 工作站 Veriton RI110，机身约 0.63kg，支持 96GB LPDDR5X 内存、4TB M.2 PCIe Gen4 固态硬盘和 Wi-Fi 7。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日19时21分"
+  },
+  {
+    "id": "cmtk0klap092qroiy25nll3ly",
+    "title": "燧原科技科创板 IPO 网上发行最终中签率 0.02455315%",
+    "url": "https://www.ithome.com/0/997/636.htm",
+    "summary": "燧原科技公告科创板 IPO 网上发行最终中签率为 0.02455315%，本次发行股份数量 4303.5173 万股，发行价 142.18 元/股。因网上初步有效申购倍数超 100 倍，启动回拨机制，将 344.3 万股从网下回拨至网上，回拨后网上最终发行 1032.85 万股，有效申购户数 703.2045 万户。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日19时13分"
+  },
+  {
+    "id": "cmtjyev1x07asroiygzb6acj7",
+    "title": "阿里云推出一体化 AI 生产力平台 QwenWork",
+    "url": "https://x.com/alibaba_cloud/status/2095091618793554321",
+    "summary": "阿里云宣布 QwenWork 正式上线，这是一款面向全球团队的一体化 AI 生产力平台。它可将简报转化为成品文档、幻灯片和网页，并在同一平台内生成图像、音频和视频，还支持分析数据报告和处理复杂电子表格，减少团队在多个 AI 工具之间的切换。入口：https://click.alibabacloud.com/m/20000003003/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月2日18时9分"
+  },
+  {
+    "id": "cmtk0dj4608ugroiyyb5rmrb3",
+    "title": "京东布局 RoboBase 机器人基地，计划五年内建成 80 个",
+    "url": "https://x.com/thexpin/status/2095103190312292768",
+    "summary": "京东正在开发 RoboBase 设施，覆盖机器人出厂后的销售交付、维护、组装、研发和真实世界数据采集，定位类似机器人的 4S 店。项目已在广州、上海和无锡启动，计划未来五年在中国建 80 个机器人基地。文章认为京东的物流仓储网络和超过 90 万名员工是其优势，机器人量产后的瓶颈可能不再是制造，而是交付、维护和持续改进。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年9月2日18时55分"
+  },
+  {
+    "id": "cmtjzhg2u08e4roiyl50wi6tn",
+    "title": "ChatGPT 接入 Epic 病历与 9 个医疗数据源，OpenAI 加码医疗场景",
+    "url": "https://x.com/frxiaobei/status/2095103067645710409",
+    "summary": "OpenAI 让 ChatGPT 在获得授权后可直接读取 Epic 中的患者病历、检查结果、用药和专科记录，医生可直接询问病情变化与检查要点。同时 OpenAI 推出 Healthcare Public Data，接入 PubMed、DailyMed、ClinicalTrials.gov、CMS、RxNorm 等 9 个官方医疗数据源。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年9月2日18时54分"
+  },
+  {
+    "id": "cmtjzhg2u08e5roiy81ne6vw0",
+    "title": "腾讯 workbuddy 产品发布会上自称\"我是个乙方\"",
+    "url": "https://x.com/frxiaobei/status/2095100526497329259",
+    "summary": "腾讯 workbuddy 产品发布会上，workbuddy 自称\"我是个乙方\"。原文仅此一句现场内容，未给出更多产品细节。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年9月2日18时44分"
+  },
+  {
+    "id": "cmtjy8e89075vroiyy7y2mrw2",
+    "title": "百度发布新一期 AI Pulse：AI 产品组合、双重主要上市与 Apollo Go 扩展",
+    "url": "https://x.com/Baidu_Inc/status/2095095244824117752",
+    "summary": "百度发布新一期 AI Pulse，介绍其 AI 产品组合如何把工作从请求做到完成结果，涵盖 DuMate、GenFlow、MeDo 和 ERNIE Assistant。同时提到百度已成为双重主要上市公司，Apollo Go 进一步扩展至迪拜和香港。",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年9月2日18时23分"
+  },
+  {
+    "id": "cmtjyev1x07arroiyv74yp21f",
+    "title": "阿里云展示合作伙伴 Green Tomato 使用全新 Wan3.0 模型制作 AI 媒体内容",
+    "url": "https://x.com/alibaba_cloud/status/2095094558430220776",
+    "summary": "阿里云发布视频，展示合作伙伴 Green Tomato 使用全新的 Wan3.0 模型进行 AI 媒体制作。原文为宣传性内容，未给出具体功能或数据细节。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月2日18时20分"
+  },
+  {
+    "id": "cmtjyffeg07ebroiyi2s4h7lm",
+    "title": "自变量发布孪生灵巧操作手 TwinDEX，纯无本体数据实现灵巧操作",
+    "url": "https://www.ithome.com/0/997/614.htm",
+    "summary": "具身机器人企业自变量 9 月 2 日发布孪生三指九自由度灵巧操作手 TwinDEX，其中一只可穿戴用于数据采集，另一只装在机器人上用于真机部署。官方评测显示其数据采集效率达真机遥操作的 5.3 倍，训练模型时无本体数据近乎可 100% 替代真机遥操作数据。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日18时20分"
+  },
+  {
+    "id": "cmtjw9pq905lgroiyla74r5ja",
+    "title": "Grok Bot 上架 Google Play，现已支持 Android",
+    "url": "https://x.com/cb_doge/status/2095076678917824848",
+    "summary": "Grok Bot 现已登陆 Google Play 商店，Android 用户可以下载使用。应用界面显示其为\"随时在线、能完成工作的智能体团队\"，需登录后使用。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月2日17时9分"
+  },
+  {
+    "id": "cmtjvlt77059iroiyim17ebx8",
+    "title": "2026京东全球科技探索者大会9月9日召开，将发布物理AI全景战略",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzU0MjU0MDMzMw%3D%3D&mid=2247487469&idx=1&sn=3cd2daea61df51664e204ca6277d6e6e",
+    "summary": "2026京东全球科技探索者大会将于9月9日在北京北人亦创国际会展中心召开。京东集团将在会上发布物理AI全景战略，行业大咖与技术专家将探讨技术前沿与产业实践。",
+    "source": "公众号：京东JoyAI",
+    "date": "2026年9月2日17时5分"
+  },
+  {
+    "id": "cmtjxo2xe06w6roiyy92qj4cn",
+    "title": "爆料人预测 GPT-Astra 可能于周四发布",
+    "url": "https://x.com/kimmonismus/status/2095089329752174609",
+    "summary": "作者转引爆料人 Dan （@DanDr1s） 的消息，称 GPT-Astra 可能于明天周四发布，并称 Dan 与 Leo （@synthwavedd）、Chris （@ChrisGPT）、Chetsula （@chetaslua）、M1Astra （@M1Astra） 是目前较可靠的爆料者。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日17时59分"
+  },
+  {
+    "id": "cmtjyffeh07egroiym8ij19fh",
+    "title": "国内首部 AIGC 长剧《后西游记》上线芒果 TV，制作周期较传统三维动画减少 70%",
+    "url": "https://www.ithome.com/0/997/548.htm",
+    "summary": "国内首部无真人演员的 AIGC 长剧《后西游记》于 8 月 31 日上线芒果 TV 并登陆湖南卫视黄金档。芒果超媒董事长蔡怀军称，该剧 30 集、单集 40 分钟，总成本约为同类 S 级真人剧几分之一，从策划到上线时间较传统三维动画压缩 70%；制作流程为导演定情绪基调、美术完成设计、AI 团队从文生图推进到图生视频。该剧也是\"广电 21 条\"发布后首部\"边审边播\"剧集。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日17时53分"
+  },
+  {
+    "id": "cmtjx5shk06lmroiydrq563k4",
+    "title": "http://Z.ai has opened an official flagship store on Tmall， Taobao's dedicated platform for branded …",
+    "url": "https://x.com/thexpin/status/2095086832274829722",
+    "summary": null,
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年9月2日17时50分"
+  },
+  {
+    "id": "cmtjwtaja064mroiyokpzev4j",
+    "title": "REEF：面向自我改进智能体的持续学习基础设施",
+    "url": "https://x.com/dongxi_nlp/status/2095085161809317997",
+    "summary": "作者转发引用 @ao_qu18465 的文章，主题为 REEF，一个面向自我改进智能体（self-improving agents）的持续学习基础设施，原文链接 https://x.com/i/article/2094850055132024832。作者本人未补充正文内容。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年9月2日17时43分"
+  },
+  {
+    "id": "cmtjyffeh07ejroiydlr1e3hs",
+    "title": "星源智与灵心巧手共同发起\"中国具身智能 Tier 1 产业联盟\"",
+    "url": "https://www.ithome.com/0/997/543.htm",
+    "summary": "由星源智与灵心巧手共同发起的\"中国具身智能 Tier 1 产业联盟\"于 9 月 2 日正式成立，联合奥比中光、法奥机器人、禾赛科技、速腾聚创、珞石机器人等 20 余家产业链企业。成员覆盖具身大脑、灵巧手、语音交互、激光雷达、视觉感知、触觉感知、机械臂、底盘、无线通信、热管理等关键环节。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日17时31分"
+  },
+  {
+    "id": "cmtjwtaiy064lroiylhjqyhm4",
+    "title": "WorkBuddy 推出 Buddy 应用，主打零代码搭建企业级 Agent OS",
+    "url": "https://x.com/AYi_AInotes/status/2095074739970511202",
+    "summary": "WorkBuddy 推出 Buddy 应用，定位于企业级 Agent OS，用户可通过三步搭建专属 AI 工作台：使用金融、SaaS、电商等 20 多个垂直领域预置模版零代码接入，私有工具与 MCP 直连，以及自有品牌一键定制。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月2日17时1分"
+  },
+  {
+    "id": "cmtjwfxh105yuroiy8ggc9wtv",
+    "title": "华为在尼日利亚拉各斯峰会发布 Agentic AI Cloud 及配套 AI 解决方案",
+    "url": "https://x.com/HuaweiCloud1/status/2095077105650614512",
+    "summary": "华为在拉各斯举办尼日利亚 AI 与云峰会，发布 Agentic AI Cloud 及相关 AI 解决方案，升级当地云的 AI 能力，推动 AI 技术转化为产业价值。华为尼日利亚 CEO Austin You 表示尼日利亚具备引领非洲 AI 时代的基础，华为将通过 All Intelligence、深度本地能力和开放生态助力其智能转型。",
+    "source": "X：华为云 (@HuaweiCloud1)",
+    "date": "2026年9月2日17时11分"
+  },
+  {
+    "id": "cmtju4jvm03w1roiyn6ug3ayf",
+    "title": "Qwen3.8-Max-0902 登顶 CodeArena WebDev 榜，分数从 1669 升至 1691",
+    "url": "https://x.com/alibaba_cloud/status/2095061615418675631",
+    "summary": "阿里云发布 Qwen3.8-Max-0902，在 CodeArena WebDev 榜单上从 1669 升至 1691 分，排名第一，主打多步推理、工具调用和完整应用生成能力。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月2日16时9分"
+  },
+  {
+    "id": "cmtjtgetv03h4roiynkn5bfxk",
+    "title": "昆仑万维 SkyProduction 天工工作台新版本上线，打通剧本到成片流程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510239&idx=1&sn=ecc77575b50f897c98b023483cb12cab",
+    "summary": "昆仑万维 SkyProduction 天工工作台全新版本于8月31日上线，把剧本、资产、分镜、视频和后期整合为一条生产线。剧本环节提供剧本翻译、剧本评分和小说转剧本功能；Agent 流程可选 Seedance 2.0 智能创作或智能分镜模式，支持片段重拍和10分钟超长视频生成；Seedance 2.5 720P 无参考视频低至0.4元/秒，30秒视频生成成本最低12元。",
+    "source": "公众号：昆仑万维（天工）",
+    "date": "2026年9月2日16时6分"
+  },
+  {
+    "id": "cmtjugc4f04e2roiybkjfc7bz",
+    "title": "Elon Musk 确认 Grok 4.7 将于 10 天内发布，为 2.1T 参数模型",
+    "url": "https://x.com/kimmonismus/status/2095066700785881154",
+    "summary": "Elon Musk 表示 Grok 4.7 将在 10 天内发布。作者据此确认 Grok 4.7 于 9 月中旬上线，并引述 Elon 此前说法：Grok 4.6 约在 8 月 7 日发布、为 1.5T 模型，Grok 4.7 为几周后发布的 2.1T 模型，规模约大 40%。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日16时30分"
+  },
+  {
+    "id": "cmtju7qtt046hroiycvsac74y",
+    "title": "Google Gemini 推出智能体式视频分析，token 用量最多降 88%",
+    "url": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent",
+    "summary": "Google 为 Gemini Flash 系列模型（Gemini 3.7 Flash、3.6 Flash 和 3.5 Flash-Lite）推出智能体式视频分析，模型自主决定查看哪些片段、以何种帧率和模态获取信息，取代原来每秒固定采样一帧的静态处理。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月2日16时21分"
+  },
+  {
+    "id": "cmtju4jvt03w2roiy6dp56rc0",
+    "title": "9月2日AI日报：OpenAI Astra 走向发布、Gemini 3.8 Flash 上线、Claude Fable 5.1 与 Qwen3.8-Max-0902 发布",
+    "url": "https://x.com/testingcatalog/status/2095063859396571210",
+    "summary": "TestingCatalog 的 9 月 2 日 AI 日报，汇总多家厂商动态。OpenAI 发布 Path to Astra 文章，Astra 是其 Preparedness Framework 下首个被列为网络安全 Critical 的模型。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月2日16时18分"
+  },
+  {
+    "id": "cmtju7dbl045rroiylngsarv7",
+    "title": "论文提出人工神经网络内部涌现出符号结构",
+    "url": "https://arxiv.org/abs/2608.29530",
+    "summary": "论文提出神经网络向量表示隐式实现了 Tensor Product Representation 符号结构，作者用 DISCOVER 方法将多种网络（含 Gemma-3-27b、GPT-2-XL、GPT-OSS-20b、Pythia-12b、Qwen3-14b、OLMo-2-13B、Llama-3.1-8b 共 7 个 LLM）的表示替换为符号化闭式方程，模型行为基本不变。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月2日16时17分"
+  },
+  {
+    "id": "cmtju53zp03zdroiyvu8p6dac",
+    "title": "魅族 AI 小方块概念机亮相腾讯 WorkBuddy 生态发布会",
+    "url": "https://www.ithome.com/0/997/513.htm",
+    "summary": "腾讯 WorkBuddy 生态发布会上，魅族 AI 小方块概念机亮相，搭载 Flyme AIOS 并融合 WorkBuddy 云端 AI 工作台能力。魅族 22 Next 小方块于 2026 年 1 月公布，搭载紫光展锐 T8200 芯片、4 英寸屏幕，规划了数十个场景、超 100 个表情界面。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日16时15分"
+  },
+  {
+    "id": "cmtjugc4s04e3roiyzjtnvmob",
+    "title": "Microsoft 论文：滑动窗口注意力在低内存推理上胜过线性注意力改造",
+    "url": "https://x.com/rohanpaul_ai/status/2095062924771438770",
+    "summary": "Microsoft 论文《Sliding-window beats linear attention》发现，目标是降低推理内存时，免训练的滑动窗口注意力（SWA）优于多数改造的线性注意力方法，只需保留小窗口加前 4 个 sink token。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日16时15分"
+  },
+  {
+    "id": "cmtjr8l9c01lhroiyifm2753x",
+    "title": "报道称 OpenAI Astra 模型采用 recurrent depth 推理方法，引发监测担忧",
+    "url": "https://x.com/kimmonismus/status/2095045887131087357",
+    "summary": "据 The Information 报道，OpenAI 的 Astra 模型使用名为 recurrent depth（looped transformer）的推理方法，通过同一模型层多次处理文本来提升编码和计算机操作性能，可能让小模型表现接近大模型并降低内存与带宽成本，但会遮蔽部分或全部思维链，使人类难以读懂推理步骤。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日15时7分"
+  },
+  {
+    "id": "cmtjxdj0d06oiroiyr73h5fxk",
+    "title": "实测 Claude Fable 5.1：长时 Agent 任务与浏览器自动化表现突出",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510394&idx=1&sn=b8481879bd4e40105377ece16996c70c",
+    "summary": "作者实测 Anthropic 新发布的 Claude Fable 5.1，认为其在长时间 Agent 任务和浏览器自动化上超过 GPT 5.6。",
+    "source": "公众号：卡尔的AI沃茨",
+    "date": "2026年9月2日15时6分"
+  },
+  {
+    "id": "cmtjt1zfg036mroiyqrhrdwx4",
+    "title": "Qwen3.8-Max-0902 发布，以 1691 分登顶 Code Arena： WebDev 榜首",
+    "url": "https://x.com/alibaba_cloud/status/2095057521933496329",
+    "summary": "阿里云发布 Qwen3.8-Max-0902，据 Arena 独立评测以 1691 分首次登顶 Code Arena： WebDev 总榜，高出 Claude Opus 5 （Max） 3 分、Kimi K3 （Max） 17 分、上一版 Qwen3.8-Max 22 分。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月2日15时53分"
+  },
+  {
+    "id": "cmtju53zp03zhroiy8g267e01",
+    "title": "豆包工作上新：支持多 Agents 并行与 Mac 操作电脑",
+    "url": "https://www.ithome.com/0/997/506.htm",
+    "summary": "豆包工作新增多 Agents 并行和 Mac 操作电脑两项功能。多 Agents 并行可召唤不同子 Agent 在同一任务下分别执行不同模块，成倍节省时间；Mac 操作电脑功能可实现本地 GUI 操作，无需 MCP、API、插件和 CLI 即可看懂界面并完成操作。豆包工作是字节跳动于 2026 年 8 月 25 日推出的 Agent 产品，定位为字节跳动在 AI 办公场景的统一产品入口。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日15时52分"
+  },
+  {
+    "id": "cmtju7ug9047aroiyp62d54hw",
+    "title": "云启资本参投瞬原科技种子+轮融资，以AI重构聚变研发范式",
+    "url": "https://elsewhere.news/zh/yunqipartners/yunqi-capital-co-invests-in-suiyuan-technologys-seed-round-t",
+    "summary": "云启资本宣布参投瞬原科技种子+轮融资，称该公司以AI重构聚变研发范式。正文未提供更多交易金额或公司细节。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年9月2日15时52分"
+  },
+  {
+    "id": "cmtju53zp03ziroiyt649dlk8",
+    "title": "谷歌副总裁 Amin Vahdat 谈 AI 泡沫：技术变革和市场需求确实存在",
+    "url": "https://www.ithome.com/0/997/501.htm",
+    "summary": "谷歌 AI 与基础设施高级副总裁 Amin Vahdat 表示，AI 带来的技术变革和市场需求真实存在，谷歌持续投资有理有据。他以搜索为例称，AI 模式和 AI 概览让谷歌搜索在过去 12 至 18 个月经历了历史上最重大变革之一，上季度 Google 搜索业务同比增长 18%；谷歌云也在向全球用户提供 TPU、GPU、CPU 等基础设施。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日15时44分"
+  },
+  {
+    "id": "cmtjtdqzi03gdroiyn2mhi8a6",
+    "title": "通义千问发布 Qwen3.8-Max-0902，2.4T 参数、1M 上下文并附基准对比",
+    "url": "https://x.com/kimmonismus/status/2095055227787292789",
+    "summary": "@Alibaba_Qwen 发布 Qwen3.8-Max 升级版 Qwen3.8-Max-0902，2.4T 参数、1M 上下文 token，针对 Coding & Cowork 进一步后训练，已通过 QwenCloud API 上线，每 1M tokens 定价 $2 输入、$6 输出，缓存命中 $0.17/$0.25。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日15时44分"
+  },
+  {
+    "id": "cmtju53zp03zjroiy89yqpvcb",
+    "title": "Meta 通过软件更新永久禁用数千副被破坏指示灯的智能眼镜摄像头",
+    "url": "https://www.ithome.com/0/997/500.htm",
+    "summary": "据《商业内幕》报道，Meta 通过软件更新关闭了数千副录像指示灯被人为破坏的 Meta AI 智能眼镜的摄像头，受影响设备不到累计销量的 0.1%。最新更新修补了此前先启动录像再遮挡指示灯的漏洞：钻掉 LED 的设备摄像头永久禁用，撕掉遮挡贴纸后摄像功能可恢复。Meta 智能眼镜 2025 年单年销量达 700 万副。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日15时41分"
+  },
+  {
+    "id": "cmtjt4t3b039kroiyuk6trder",
+    "title": "Anthropic 推出 Enterprise Frontier Safeguards（EFS）：零数据保留与跨会话滥用检测兼得",
+    "url": "https://www.marktechpost.com/2026/09/02/anthropic-enterprise-frontier-safeguards-efs",
+    "summary": "Anthropic 本周宣布 Enterprise Frontier Safeguards（EFS），将监控数据存储在客户自有的 S3、Azure Blob 或 Google Cloud Storage 中，密钥与人工审核归客户，Anthropic 保留自动化检测。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月2日15时38分"
+  },
+  {
+    "id": "cmtju53zq03zkroiymgv2hg9y",
+    "title": "特斯拉 Cybercab 应急操控方案曝光：无方向盘车型可经中控屏手动挪车",
+    "url": "https://www.ithome.com/0/997/499.htm",
+    "summary": "X 用户 @BarryGoodStocks 分享的视频显示，量产版 Cybercab 在奥斯汀超级充电站通过中央触摸屏上的手动驾驶控制功能挪车，测试工程师长按屏幕方向按钮将车重新停入充电车位。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日15时36分"
+  },
+  {
+    "id": "cmtju53zq03zmroiy191byylu",
+    "title": "宇树机器狗灰产链曝光：租赁商篡改电池标签将大容量电池带上飞机",
+    "url": "https://www.ithome.com/0/997/497.htm",
+    "summary": "蓝鲸新闻报道闲鱼平台部分机器人租赁商篡改宇树机器狗电池标签，将原厂421.2Wh额定能量改为97.92Wh并伪造电压、充电限制等参数，以规避民航规定把电池带上飞机。改标服务加价约100至200元；按民航局规则超过160Wh的锂电池禁止携带或托运，宇树在售产品中仅Go1标准版133.2Wh可经批准携带。一位离职员工称2023年公司内部曾为部分客户粘贴低容量标签，宇树销售员表示标签可以改但无法提供。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日15时33分"
+  },
+  {
+    "id": "cmtjt4sc8039jroiyz6awpmd5",
+    "title": "Baseten 工程师解析 LLM 推理的有效边界与两类优化技术",
+    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
+    "summary": "Baseten 工程师 Philip Kiely 撰文解析 LLM 推理的\"有效边界\"框架，将推理技术分为两类：在延迟与吞吐之间做取舍以命中边界上某一点的技术，以及把整条边界外推、创造整体效率提升的技术。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月2日15时29分"
+  },
+  {
+    "id": "cmtjrzy36024droiylw5sske6",
+    "title": "OpenAI 奥尔特曼称数据中心耗水担忧缺乏数据支撑",
+    "url": "https://www.ithome.com/0/997/480.htm",
+    "summary": "据《商业内幕》报道，OpenAI CEO 奥尔特曼认为外界对 AI 耗水量的担忧已被放大成缺乏数据支撑的梗，称现代数据中心实际用水量大致相当于一栋办公楼。他此前表示 ChatGPT 平均每次查询耗水约 0.32 毫升，加州种一颗杏仁平均需 3.56 升水。盖洛普 5 月调查显示 71% 的美国人反对在所在地区兴建数据中心，18% 的受访者明确提到水资源。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日15时26分"
+  },
+  {
+    "id": "cmtjrzy36024froiyj571rtby",
+    "title": "美国呼吁 G20 成员国对 AI 监管保持克制，推动卡罗来纳原则",
+    "url": "https://www.ithome.com/0/997/474.htm",
+    "summary": "据路透社报道，美国当地时间周二呼吁 G20 成员国避免针对 AI 制定过多新规，科技顾问克拉齐奥斯希望各国采纳卡罗来纳原则，即为涉及 AI 的新型场景制定规则而非另建全新监管体系。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日15时22分"
+  },
+  {
+    "id": "cmtjrzy37024jroiyc46zr6gk",
+    "title": "马斯克在 G20 会议预测 10 年内全球人形机器人超 10 亿台，每台产出至少是人类 5 倍",
+    "url": "https://www.ithome.com/0/997/440.htm",
+    "summary": "马斯克 9 月 1 日在 G20 创新部长级会议视频讲话中预测，未来 10 年内全球人形机器人数量将超过 10 亿台，每台产出至少是人类工作者的 5 倍，总生产力高于全球人类生产力总和。他还预测 AI 最快明年就能高效处理各类数字任务，将全球生产总值提升 20% 至 30%，即每年增加 20 万亿至 30 万亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日14时59分"
+  },
+  {
+    "id": "cmtjrzy37024lroiych829k27",
+    "title": "腾讯 WorkBuddy 开放平台上线，全面开放 Agent 基座能力",
+    "url": "https://www.ithome.com/0/997/435.htm",
+    "summary": "腾讯 WorkBuddy 开放平台于 9 月 2 日上线，首批入驻共创伙伴超百家，面向智能硬件、行业应用与开发者开放底层 Agent 基座能力。开发者通过资质审核后可进行技能、专家、连接器、外部应用接入等开发管理；现场还发布了 9 款联名智能硬件，合作方包括 Plaud、Rokid、影石、科大讯飞、安克等，30 余个行业应用覆盖金融、法律、医疗等 20 多个领域。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日14时55分"
+  },
+  {
+    "id": "cmtjpusa201yxro4d2k3ukoqg",
+    "title": "努比亚 NaviX Ultra 入网，豆包手机计划 9 月开售",
+    "url": "https://www.ithome.com/0/997/409.htm",
+    "summary": "努比亚总裁倪飞宣布，NaviX Ultra 已获入网许可，豆包手机（预计指该机）计划 9 月开售。该机搭载豆包手机助手，不采用读屏模拟点击的 GUI 方案，而是依赖各应用自行开放 MCP 服务，豆包助手团队正与头部应用厂商谈判；核心大模型运算在手机端本地完成，围绕听得懂、能干活、记得住、够安全四大能力打造，可跨软件完成多步骤任务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日14时4分"
+  },
+  {
+    "id": "cmtjrzy37024nroiym4pxp2we",
+    "title": "阿里云企业级 Agent 协作平台\"万有无界\"开启公测，可调用 Qwen3.8-Max",
+    "url": "https://www.ithome.com/0/997/434.htm",
+    "summary": "阿里云企业级人与 Agent 协作平台\"万有无界\"9 月 2 日开启公测，企业和个人用户可通过官网 https://www.qianwenai.com/agents/wanyou 注册体验，并调用阿里最新旗舰模型 Qwen3.8-Max。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日14时45分"
+  },
+  {
+    "id": "cmtjqlil3014nroiyq94buohs",
+    "title": "天体物理学博士刘博洋用千问复现Druckmüller算法，日全食后3小时产出高清日冕图",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488634&idx=1&sn=28d17a1434e2a0ae9565a3520936f916",
+    "summary": "8月12日西班牙出现欧洲大陆27年来首次日全食，全食持续101秒，天体物理学博士刘博洋在日食结束后不到3小时产出了高清日冕精细结构图。他此前把Druckmüller的五篇论文交给千问「工作助理」分析核心思路，悟出大师方法的本质是模拟人眼的局部差分视觉，并用过去日冕素材迭代100多个版本复现了整套算法。观测现场他还用千问根据低仰角与高仰角曝光数据推算补偿档数、写脚本测试新快门线的参数组合效率。",
+    "source": "公众号：千问APP（阿里）",
+    "date": "2026年9月2日14时43分"
+  },
+  {
+    "id": "cmtjrzy37024mroiy8v636csu",
+    "title": "Arena 第 35 周 AI 大模型周榜：GLM-5.3-Flash 首秀进代码榜前十，Qwen3.8-Max-0902 登顶前端榜",
+    "url": "https://www.ithome.com/0/997/432.htm",
+    "summary": "Arena 平台发布 2026 年第 35 周（8 月 24 日至 8 月 30 日）AI 大模型盲测排行榜。智谱 GLM-5.3-Flash 首次入榜即列代码榜第 7 名（ELO 1535），阿里 Qwen3.8-max-0902 首次入榜以 1691 分登顶前端开发榜，将 Claude-Opus-5-Max 挤到第二。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日14时40分"
+  },
+  {
+    "id": "cmtjrzy37024proiymsxdfc8m",
+    "title": "消息称腾讯开发全新 AI 输入法助手 ChatterFly，中文名或为元宝输入法",
+    "url": "https://www.ithome.com/0/997/431.htm",
+    "summary": "据读佳消息，腾讯正在开发全新 AI 输入法助手 App ChatterFly，中文名可能叫元宝输入法，除移动端外或计划推出 Windows、macOS 桌面客户端。产品支持语音、拼音等输入模式，搭载文本润色、表达优化等生成式 AI 能力，依托腾讯混元大模型，并配有个人词库、语音记录、输入行为统计等功能。上线时间和具体功能仍以官方口径为准。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日14时40分"
+  },
+  {
+    "id": "cmtjqqaui0188roiy57tkepyc",
+    "title": "宇树科技股价跌破发行日峰值逾50%，市销率仍达约118倍",
+    "url": "https://x.com/thexpin/status/2095038324725657899",
+    "summary": "宇树科技（Unitree Robotics）周三跌至人民币546.51元，较上市首日1100元高点跌逾50%；此前曾一度暴涨629%，市值一度超过510亿美元。即使大跌后其市销率仍约118倍，而UBTech和Dobot约为13倍。创始人王兴兴表示人形机器人可能需要2到10年才能大规模普及，原因是受控环境之外的可靠性受限。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年9月2日14时37分"
+  },
+  {
+    "id": "cmtjq60vv02faro4dutkqq7a0",
+    "title": "论文提出 JIT-Agent：按需生成任务定制 harness，DeepSeek-V4-Flash 得分 85.1 超 GPT-5.6 的 76.0",
+    "url": "https://x.com/rohanpaul_ai/status/2095036248918548812",
+    "summary": "新论文《JIT-Agent： Scaling Harness Intelligence via Just-in-Time Harness Evolution》提出 JIT-Agent，可按需为具体任务生成 agent harness，动态决定记忆、规划、动作、工具和技能的组织方式。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日14时29分"
+  },
+  {
     "id": "cmtjorquj013mrotn5new2tg1",
     "title": "阿里云云栖大会 2026 设国际论坛，聚焦全球 AI 与云趋势",
     "url": "https://x.com/alibaba_cloud/status/2095028542148866067",
