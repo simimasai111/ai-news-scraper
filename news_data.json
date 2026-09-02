@@ -1,5 +1,405 @@
 [
   {
+    "id": "cmtklznfb0282ro5q0ziel2iy",
+    "title": "Ethan Mollick 对比 10 个月间两种 ChatGPT 智能体工作方式的构想",
+    "url": "https://x.com/emollick/status/2095257172896841964",
+    "summary": "Ethan Mollick 发文指出两张图之间存在 10 个月的时间差，展示了两种关于 ChatGPT 智能体如何工作的构想。其中一张图显示了一个客服智能体流程图，包含越狱防护栏、分类智能体、if/else 分支，以及退货、挽留、信息咨询等下游智能体和幻觉防护栏。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月3日5时6分"
+  },
+  {
+    "id": "cmtkmhn1x02rlro5qdt4pcvc8",
+    "title": "Meta Muse Spark 1.3 在 Artificial Analysis 智能指数得 62 分，价格远低于同级模型",
+    "url": "https://x.com/alexandr_wang/status/2095266112212754659",
+    "summary": "Meta 的 Muse Spark 1.3 在 Artificial Analysis Intelligence Index 得 62 分，追平 Claude Fable 5，输入价格低 8 倍、输出价格低近 12 倍。评分还高于 GPT-5.6 Sol、Grok 4.6、Kimi K3 和 Gemini 3.8 Flash，Meta 进入前沿模型第一梯队。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日5时42分"
+  },
+  {
+    "id": "cmtkme19o02plro5q94jsf94x",
+    "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+    "url": "https://x.com/kimmonismus/status/2095265444999410146",
+    "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月3日5时39分"
+  },
+  {
+    "id": "cmtkmhn2b02rnro5qgq1efmnt",
+    "title": "Perplexity 开源本地推理引擎 Lily，支撑 Mac 应用混合计算功能",
+    "url": "https://x.com/AravSrinivas/status/2095264908762140823",
+    "summary": "Perplexity 开源本地推理引擎 Lily，专为 Apple Silicon 上的 Qwen3.6-35B-A3B 优化，用于支撑 Mac 应用新推出的混合计算功能，避免端侧算力成为 Computer 任务瓶颈。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年9月3日5时37分"
+  },
+  {
+    "id": "cmtkmd22002oyro5qg6tmua22",
+    "title": "meta， the open source leader？",
+    "url": "https://x.com/EMostaque/status/2095264803228897320",
+    "summary": null,
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年9月3日5时37分"
+  },
+  {
+    "id": "cmtkmd21n02oxro5q6gj782vd",
+    "title": "Gemini 3.8 发布，作者指其节奏复制去年 2.5 Pro 到 3 的路径",
+    "url": "https://x.com/dongxi_nlp/status/2095261818960613399",
+    "summary": "Gemini 3.8 发布，作者称其表现非常亮眼。作者认为 Gemini 似乎在复制去年 2.5 Pro 到 3 的节奏，夏天后发力，到年底用 ultra 年票打折绑定用户，之后再拉半年。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年9月3日5时25分"
+  },
+  {
+    "id": "cmtklbf6e01rgro5qind68dct",
+    "title": "SemiAnalysis 分析 Co-Packaged 光学趋势下光纤主动对准与被动对准的取舍",
+    "url": "https://x.com/SemiAnalysis_/status/2095255700221870574",
+    "summary": "SemiAnalysis 发文分析，随着行业转向 Co-Packaged 和 Near-Packaged Optics，光纤连接被迫直接落在 PIC 上。光纤耦合需微米级精度，边缘耦合器要求纤芯与波导偏差约半微米以内，否则耦合损耗在高带宽吞吐下不可承受；主动对准采用亚微米级串行定位加胶合，难以支撑高光纤数量且不可拆卸，而被动对准依靠机械结构将光纤保持在公差内，可实现可重复甚至可重新插拔的连接。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年9月3日5时1分"
+  },
+  {
+    "id": "cmtkmhn1x02rmro5q9to2ra74",
+    "title": "Alexandr Wang 称 Muse Spark 1.3 的编码智能体成绩被低估并给出 muse code 安装命令",
+    "url": "https://x.com/alexandr_wang/status/2095259709603455435",
+    "summary": null,
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日5时16分"
+  },
+  {
+    "id": "cmtkme19o02pmro5q90y9bfb8",
+    "title": "Today meta chose war with google. But hey， let them fight it out. That just means development will…",
+    "url": "https://x.com/kimmonismus/status/2095259592179560636",
+    "summary": null,
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月3日5时16分"
+  },
+  {
+    "id": "cmtklf2dm01szro5qbwxu3qhp",
+    "title": "Alexandr Wang 转发 Meta Muse Spark 1.3 一次生成整站的用户实测",
+    "url": "https://x.com/alexandr_wang/status/2095255644819575227",
+    "summary": "Meta 首席 AI 官 Alexandr Wang 转发用户 @JustinGorya 对 Meta Muse Spark 1.3 的实测反馈。该用户称用简单提示词配合 2 个自定义技能，一次生成（oneshot）了完整网站，认为该模型有创造力、擅长前端。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日5时0分"
+  },
+  {
+    "id": "cmtklzxjb029qro5q46ci471c",
+    "title": "GitHub 播客解读 AI 开发新术语：loop engineering、Ralph loops、squads、harness 与 hill climbing",
+    "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+    "summary": "GitHub Podcast 一期节目配套文章由 Cassidy Williams 与 Marlene Mhangami 等解读当下 AI 开发常见新术语。",
+    "source": "GitHub Blog",
+    "date": "2026年9月3日5时0分"
+  },
+  {
+    "id": "cmtkjuhq403qxrollwkjnk66c",
+    "title": "Inworld 发布 Realtime TTS-2 与 TTS-2 Flash，支持 5-15 秒语音克隆",
+    "url": "https://x.com/testingcatalog/status/2095242569131155858",
+    "summary": "Inworld 发布 Realtime TTS-2（GA，官方称居 Artificial Analysis 榜首）与面向低延迟高并发的 TTS-2 Flash。Realtime TTS-2 可用 5-15 秒音频克隆真实声音，专业级语音克隆处于 beta 阶段需 10 分钟音频，内置 verbatim 标签可正确读出订单号和代码。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月3日4时8分"
+  },
+  {
+    "id": "cmtklf2dn01t0ro5q7s5it5e2",
+    "title": "Muse Spark 1.3 上线 OpenCode Zen 免费使用",
+    "url": "https://x.com/alexandr_wang/status/2095255296809804070",
+    "summary": "Alexandr Wang 宣布其模型 Muse Spark 1.3 已在 OpenCode Zen 上线，可免费使用。引用内容显示 Muse Spark 1.3 以 Contributor Free 档位提供，输入输出与缓存读取均免费。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日4时59分"
+  },
+  {
+    "id": "cmtklahdc01qsro5q1uelf1gc",
+    "title": "Thomas Wolf 谈 LLM 训练实验室：赋予模型的能力正变得如神一般",
+    "url": "https://x.com/Thom_Wolf/status/2095255197207412943",
+    "summary": "Hugging Face 联创 Thomas Wolf 发文称，LLM 训练实验室赋予模型的能力\"如神一般\"，模型现在会入侵其他公司并建立隐秘文明。文中附带引用了一段名为\"Learning to swing\"的视频作为对比调侃。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年9月3日4时59分"
+  },
+  {
+    "id": "cmtkkx25x01f3ro5qkjtgbcj7",
+    "title": "HarnessEvolve 论文：用参考轨迹实现可靠的智能体自我进化",
+    "url": "https://x.com/dair_ai/status/2095252935659913657",
+    "summary": "DAIR.AI 推荐 arXiv 论文 HarnessEvolve（https://arxiv.org/abs/2609.00829），该工作指出自进化智能体存在三类失败：仅有终态反馈导致错误归因不清、智能体记住任务特定模式而非通用能力、无防护的更新会抹掉已有能力。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年9月3日4时50分"
+  },
+  {
+    "id": "cmtkjc6ob03c2rollpsv0rvkz",
+    "title": "Perplexity 开源本地推理引擎 Lily，针对 Apple silicon 优化 Qwen3.6-35B-A3B",
+    "url": "https://x.com/perplexity_ai/status/2095241544383226274",
+    "summary": "Perplexity 宣布开源 Lily，这是其为 Perplexity Computer 的混合计算构建的本地推理引擎。Lily 专为 Apple silicon 上的 Qwen3.6-35B-A3B 优化，使设备端算力不会成为 Computer 任务的瓶颈。详情见 https://www.perplexity.ai/hub/blog/optimizing-on-device-inference-for-apple-silicon",
+    "source": "X：Perplexity (@perplexity_ai)",
+    "date": "2026年9月3日4时4分"
+  },
+  {
+    "id": "cmtklf2dn01t1ro5qfaladuhj",
+    "title": "Muse Spark 1.3 冲进 Artificial Analysis 智能指数第 3 名，跻身 Claude 与 GPT 之间",
+    "url": "https://x.com/alexandr_wang/status/2095252118450155530",
+    "summary": "Muse Spark 1.3 （max） 在 Artificial Analysis Intelligence Index v4.11 中以 62 分升至第 3 名，是首个排名插在 Claude 和 GPT 之间的模型。引用者称其定价相比 Fable 更低，Alexandr Wang 转发并表示大家会喜欢这个模型。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日4时46分"
+  },
+  {
+    "id": "cmtklbf6601rfro5qi6w77ita",
+    "title": "Mostik 称潜空间桥接让 4B 模型接近 753B 模型表现",
+    "url": "https://x.com/kimmonismus/status/2095251780556763392",
+    "summary": "Mostik 称其潜空间桥接协议让前沿模型与 4B 边缘模型直接传递 hidden states，无需文本、双方均不微调；753B 模型读题、4B 模型作答时达到前沿模型约 80% 的准确率、速度快 20 倍，且比分数匹配的中型模型少用 2.5 倍算力。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月3日4时45分"
+  },
+  {
+    "id": "cmtkj2ozb035frollvj3tq99f",
+    "title": "Muse Spark 1.3 现已上线 OpenRouter",
+    "url": "https://x.com/OpenRouter/status/2095241245421416936",
+    "summary": "Muse Spark 1.3 现已上线 OpenRouter，面向长时运行的智能体、多智能体和编码工作流。官方称其能记录所学内容、处理冲突输入，并在需要时请求澄清或确认，可通过 https://openrouter.ai/meta/muse-spark-1.3 使用。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年9月3日4时3分"
+  },
+  {
+    "id": "cmtkk8u63048hroll2oci1z3k",
+    "title": "Lutnick 表态信任 Anthropic，Tom Brown 亮相 G20 创新部长级会议",
+    "url": "https://x.com/rohanpaul_ai/status/2095249835868004509",
+    "summary": "美国商务部长 Howard Lutnick 对 Axios 表示\"我们信任 Anthropic\"，称该公司\"做了我们要求的事\"，显示其在五角大楼争端后重回特朗普政府的支持阵营。Anthropic 联合创始人 Tom Brown 于周三在北卡罗来纳州与 Lutnick 共同出席 G20 创新部长级会议并承担重要角色，作者认为这体现了前沿 AI 公司需要在创始人层面开展技术外交。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日4时37分"
+  },
+  {
+    "id": "cmtkkcguj04aurollf1lq9a9s",
+    "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
+    "url": "https://x.com/alexandr_wang/status/2095249704888197175",
+    "summary": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日4时37分"
+  },
+  {
+    "id": "cmtkl05sq01hhro5qkjocwinz",
+    "title": "Muse Spark 1.3",
+    "url": "https://developer.meta.com/ai/models/muse-spark",
+    "summary": null,
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月3日4时33分"
+  },
+  {
+    "id": "cmtkkcguk04avroll35nemljx",
+    "title": "Meta 发布 Muse Spark 1.3，第三方实测对比 1.2 版本",
+    "url": "https://x.com/alexandr_wang/status/2095248586686812513",
+    "summary": "Meta 的 Muse Spark 1.3 发布，@aimlapi 随即用同一提示词对比两个版本，任务为生成三个收藏级 3D 雕塑，包括维京头盔、镶钻斧和带船员的长船，各输出一个自包含 HTML 文件，单次生成。结果 Muse Spark 1.3 消耗 22，474 tokens、花费 $0.10，Muse Spark 1.2 消耗 19，324 tokens、花费 $0.08。Alexandr Wang 转发该对比并称有明显改进。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日4时32分"
+  },
+  {
+    "id": "cmtkkuhz801d0ro5ql5fzz92p",
+    "title": "Meta 发布 Muse Spark 1.3，Artificial Analysis 评测显示其智能指数升至 61-62",
+    "url": "https://x.com/ArtificialAnlys/status/2095247787277553929",
+    "summary": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 变体在 Artificial Analysis Intelligence Index 得 61 分。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年9月3日4时29分"
+  },
+  {
+    "id": "cmtkjuhls03qvrolle5r74u7u",
+    "title": "Oppenheimer 分析师称 SpaceX 已成为 Anthropic 的竞争者并看好 Grok Bot",
+    "url": "https://x.com/cb_doge/status/2095246957036057027",
+    "summary": "Oppenheimer 分析师 Timothy Horan 表示 SpaceX 现在是 Anthropic 的竞争者，并称其在 AI 方面做得非常出色。他称 Grok Bot 是一个能逐渐替用户打理生活的智能体，并认为 Grok Bot 即将走红。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月3日4时26分"
+  },
+  {
+    "id": "cmtkk8u63048irollcs72y7t1",
+    "title": "Insight Partners 联合创始人 Jerry Murdock 预测 OpenRouter 模式将在 3-5 个月内遭遇重大颠覆",
+    "url": "https://x.com/rohanpaul_ai/status/2095246524058107941",
+    "summary": "Insight Partners 联合创始人 Jerry Murdock 预测，OpenRouter 的模式在未来 3-5 个月内将遭遇一次重大颠覆（\"big disruption\"）。该观点出自 Harry Stebbings 的 \"20VC\" 播客 YouTube 频道，Insight Partners 管理资产超过 900 亿美元。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日4时24分"
+  },
+  {
+    "id": "cmtkjrt0f03nkrollzfp36qzk",
+    "title": "Artificial Analysis 更新 Image Editing Arena 榜单，MAI-Image-2.6-Preview 居首",
+    "url": "https://x.com/ArtificialAnlys/status/2095245450899239072",
+    "summary": "Artificial Analysis 更新其 Image Editing Arena，新增 Identity-Preserving Edits、UI/UX Design 等编辑任务测试范围，按 7 类编辑动作和 10 个真实用例基于人类偏好排名，新榜单已上线并开放投票。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年9月3日4时20分"
+  },
+  {
+    "id": "cmtkj69og037erolldhiwfzon",
+    "title": "Elvis Saravia 感觉我们正处在 RSI 的早期阶段",
+    "url": "https://x.com/omarsar0/status/2095240828658589864",
+    "summary": "Elvis Saravia 发推称，感觉我们正处在 RSI（递归自我改进）的早期阶段。他表示过去一个月情况发生了巨大变化，并问大家是否注意到近期模型发布的速度。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月3日4时1分"
+  },
+  {
+    "id": "cmtkjxgun03wqroll8e8qykqg",
+    "title": "OpenAI 新推理技术引发 AI 安全专家担忧：Astra 采用不透明循环或影响链式思维监控",
+    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+    "summary": "据 The Information 报道，OpenAI 新模型 Astra 将使用名为 recurrent depth（不透明循环）的推理技术，让模型以循环方式多次处理同一查询，留下更少的可读痕迹，可能使链式思维更难监控。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月3日4时19分"
+  },
+  {
+    "id": "cmtkjuksu03rrroll5lue2bad",
+    "title": "Gary Marcus 批评 Elon Musk 反复推迟兑现的 AI 预测且媒体不加质疑",
+    "url": "https://garymarcus.substack.com/p/elon-musk-is-on-a-prediction-rampage",
+    "summary": "Gary Marcus 撰文指出，Elon Musk 在 2024 年 4 月预测 2025 年底将出现比任何单个人类更聪明的 AI，如今只是把日期悄悄推迟到 2027 年，而 Marcus 曾两次提出百万美元赌注均未获回应。",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "date": "2026年9月3日4时13分"
+  },
+  {
+    "id": "cmtkjxgys03wrrolldf33djnh",
+    "title": "Google 发布 Gemini 3.8 Flash，推理更努力但 token 用量可能更高",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "summary": "Google 发布 Gemini 3.8 Flash，称其比 3.7 Flash 在复杂任务上执行更多推理步骤并迭代调用工具，定价维持每百万输入 token $0.75、输出 $3.75，但警告模型可能消耗更多 token 导致实际成本上升。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年9月3日4时11分"
+  },
+  {
+    "id": "cmtkjc6o203c1rollt95mdu0k",
+    "title": "OpenAI WebMCP Challenge 距提交截止仅剩 24 小时",
+    "url": "https://x.com/OpenAIDevs/status/2095240355910439020",
+    "summary": "OpenAI Developers 提醒 WebMCP Challenge 提交仅剩 24 小时，作品须在 9 月 3 日下午 1 点（太平洋时间）前提交。详情见 https://openai.com/webmcp-challenge/。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年9月3日4时0分"
+  },
+  {
+    "id": "cmtkip92t02tgrolloob55ijb",
+    "title": "fal 推出 MiniMax H3 Max Turbo 预览版，速度翻倍、成本减半",
+    "url": "https://x.com/MiniMax_AI/status/2095239471713448221",
+    "summary": "fal 宣布推出 MiniMax H3 Max Turbo（预览版），速度为 H3 Max 的 2 倍、成本为其一半，在其评测中目标达到原 H3 Max 质量的第 97 百分位，并声称仍优于 H3 和其他视频模型。促销价为 768p 视频 $0.01 每秒输出，促销期两周；MiniMax 转发并致谢这一合作。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年9月3日3时56分"
+  },
+  {
+    "id": "cmtkj69og037frollwqonjale",
+    "title": "The big improvement is on coding and especially long-horizon tasks. Explicitly trained on it actuall…",
+    "url": "https://x.com/omarsar0/status/2095238926776598565",
+    "summary": null,
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月3日3时54分"
+  },
+  {
+    "id": "cmtkj69ou037groll0nd8fp16",
+    "title": "Meta 发布 Muse Spark 1.3，长上下文 MRCR 256K-512K 得分 98.5",
+    "url": "https://x.com/rohanpaul_ai/status/2095237722046881912",
+    "summary": "Meta 发布 Muse Spark 1.3，官方称比 1.2 减少 20% 工具调用和 25% token 用量。作者汇总基准数据：MRCR 256K-512K 得分 98.5，超过 GPT-5.6 Sol 的 91.5；JobBench 64.9、OSWorld 66.9、AutomationBench 49.4，接近 Opus 5 的 65.7、68.3、50.3。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日3时49分"
+  },
+  {
+    "id": "cmtki7caw027grollsa6ccp48",
+    "title": "Alexandr Wang 转发 Muse Spark 1.3 在 Stata 基准的早期评测结果",
+    "url": "https://x.com/alexandr_wang/status/2095235917242130635",
+    "summary": null,
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日3时42分"
+  },
+  {
+    "id": "cmtki2qoz023vrollcbuxvbeq",
+    "title": "Emad Mostaque 谈模型优化的边际：速度超过人类引导能力后还剩什么可改进",
+    "url": "https://x.com/EMostaque/status/2095234876064641173",
+    "summary": "Emad Mostaque 引用 ThePrimeagen 的观点，后者表示自己已有足够的智能，只希望模型更快更便宜，规模不再重要，需要的是性能。Mostaque 称这叫做 satisficing，并指出当模型速度快于人类引导它们的能力时，剩下的改进空间是什么。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年9月3日3时38分"
+  },
+  {
+    "id": "cmtkj11hr033zrolllg75wfm1",
+    "title": "Meta 发布 Muse Spark 1.3，智能体与编码任务表现提升",
+    "url": "https://x.com/AIatMeta/status/2095234385129963666",
+    "summary": "Meta 发布 Muse Spark 1.3，重点提升智能体与编码任务表现并聚焦真实可用性。模型可在单线程中跨多个工作流维持更长程的任务，更主动与用户协作，会提出澄清问题、标记卡住状态并在关键操作前确认；对自身局限的校准更好以减少幻觉结果。内部对比显示相比 Muse Spark 1.2 工具调用减少约 20%，token 消耗减少约 25%。",
+    "source": "X：AI at Meta (@AIatMeta)",
+    "date": "2026年9月3日3时36分"
+  },
+  {
+    "id": "cmtki7cb7027jrolld7yd9t7x",
+    "title": "Perplexity Computer 在 DGX Spark 上完全本地运行的现场演示",
+    "url": "https://x.com/AravSrinivas/status/2095234166619328712",
+    "summary": "Perplexity CEO Aravind Srinivas 转发 NVIDIA AI 的直播，现场演示 Perplexity Computer 在 DGX Spark 上完全本地运行。直播链接：https://x.com/i/broadcasts/1jGXgBXzpOXKZ",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年9月3日3时35分"
+  },
+  {
+    "id": "cmtki7caw027hroll4t15sv40",
+    "title": "Meta 发布 Muse Spark 1.3，主打编码与智能体能力提升",
+    "url": "https://x.com/alexandr_wang/status/2095233951556342138",
+    "summary": null,
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日3时34分"
+  },
+  {
+    "id": "cmtki04gp022crollkps0p24o",
+    "title": "Anthropic 开源 Claude Commerce Agents 购物与商户智能体蓝图",
+    "url": "https://x.com/ClaudeDevs/status/2095233745167282602",
+    "summary": "Anthropic 宣布开源 Claude Commerce Agents。这是一套构建购物与商户智能体的蓝图，提供覆盖零售、旅行、电信和娱乐场景的参考实现。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年9月3日3时33分"
+  },
+  {
+    "id": "cmtkirwuj02vmroll7ddxwpii",
+    "title": "Meta 发布 Muse Spark 1.3，DeepSWE 1.1 得分超过 GPT-5.6 和 Opus 5",
+    "url": "https://x.com/testingcatalog/status/2095233722002088126",
+    "summary": "Meta 官方宣布 Muse Spark 1.3 发布，已在 Meta 模型 API 和 Muse Code 上推出，官方称这是其在编码和智能体工作上的最大跃升，价格极低。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月3日3时33分"
+  },
+  {
+    "id": "cmtki3p3d024krollklir51yx",
+    "title": "Sam Altman 谈 AI 用水量，Satya Nadella 称微软 Wisconsin 数据中心年用水约等于一家餐厅",
+    "url": "https://x.com/rohanpaul_ai/status/2095233615596814710",
+    "summary": "Sam Altman 称每 38，000 次 ChatGPT 查询的用水量约等于加州生产一颗杏仁，并称现代大型数据中心用水量相当于一栋办公楼。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日3时33分"
+  },
+  {
+    "id": "cmtkirwu402vlrollcrdoyzg4",
+    "title": "Grok Imagine 推出 Draw 功能，涂鸦几秒内生成图像",
+    "url": "https://x.com/cb_doge/status/2095233525939368356",
+    "summary": "Grok Imagine 新增 Draw 功能，用户在菜单中选择 Draw 后画出任意内容，Grok 可在几秒内将其生成图像。作者称该功能适合儿童使用，并形容创造力因此成为超能力。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月3日3时32分"
+  },
+  {
+    "id": "cmtkhwfix01z5roll2mtc8u2j",
+    "title": "Meta Muse Spark 1.3 Contributor 现已上线 OpenCode Go",
+    "url": "https://x.com/opencode/status/2095233040108679251",
+    "summary": "Meta Muse Spark 1.3 Contributor 现已在 OpenCode Go 上可用。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年9月3日3时30分"
+  },
+  {
+    "id": "cmtki7caw027irollxewqys31",
+    "title": "Meta 发布 Muse Spark 1.3，登陆 Muse Code 与 Meta Model API",
+    "url": "https://x.com/alexandr_wang/status/2095232916276260884",
+    "summary": null,
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日3时30分"
+  },
+  {
+    "id": "cmtki3p35024jroll2h99w6zu",
+    "title": "Muse Spark 1.3 发布，DeepSWE v1.1 以 75.4% 登顶",
+    "url": "https://x.com/kimmonismus/status/2095232917048000643",
+    "summary": "@synthwavedd 发布 Muse Spark 1.3，在 DeepSWE v1.1 长程智能体编程基准取得 75.4% 的 SoTA 成绩，超过 GPT 5.6 Sol 的 73.0 和 Opus 5 的 74.0。基准图还显示 MRCR 256K-512K 98.5、MRCR 512K-1M 98.1、Terminal-Bench 2.1 88.8，作者转发并感叹其超越 GPT 5.6 Sol 和 Fable 5。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月3日3时30分"
+  },
+  {
+    "id": "cmtkidv5c02curoll3jodupc8",
+    "title": "Muse Spark 1.3 is rolling out today with frontier performance almost too cheap to meter. This is the…",
+    "url": "https://x.com/finkd/status/2095232032896946311",
+    "summary": null,
+    "source": "X：Mark Zuckerberg (@finkd)",
+    "date": "2026年9月3日3时26分"
+  },
+  {
+    "id": "cmtki2qoz023wrollzzo405by",
+    "title": "Emad Mostaque 呼应为去中心化 AI 建立标准",
+    "url": "https://x.com/EMostaque/status/2095229816454652402",
+    "summary": "Emad Mostaque 转发 Ilya Sutskever 的观点并称去中心化 AI 的建设也需要标准。Ilya Sutskever 认为 Neocloud 网络安全能力有限，智能体一旦失控可能试图接管 Neocloud 来运行更多副本，因此 Neocloud 应大幅加强网络安全，拥有强网络安全模型的公司也应协助。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年9月3日3时18分"
+  },
+  {
+    "id": "cmtkhmnzv01jnrollgd5016u0",
+    "title": "FastH3 支持 NVIDIA DGX Spark 与 Apple Silicon，本地视频生成提速 8x",
+    "url": "https://x.com/MiniMax_AI/status/2095229744463954064",
+    "summary": "FastVideo 发布的 FastH3 现已支持 NVIDIA DGX Spark，并通过 MLX 支持 Apple Silicon，较 MiniMax H3 基础版本地生成提速 8x。文中展示了一段 15 秒 1344×768 的视频，由两台 NVIDIA DGX Spark 完全本地生成。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年9月3日3时17分"
+  },
+  {
     "id": "cmtkfdnu803c8robqffmnd3z7",
     "title": "use any model in grok bot！ omnibot maps intents to cursor models once， then routes each ask through…",
     "url": "https://x.com/ericzakariasson/status/2095212489927688288",
