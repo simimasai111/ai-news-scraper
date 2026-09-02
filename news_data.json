@@ -1,5 +1,117 @@
 [
   {
+    "id": "cmtkqamim023hroal3ieb6bdz",
+    "title": "Meta 发布 Muse Spark 1.3，主打编码与长周期智能体任务",
+    "url": "https://www.ithome.com/0/997/728.htm",
+    "summary": "Meta 于 2026 年 9 月 2 日发布 AI 模型 Muse Spark 1.3，专为延长智能体工作流与增强编码能力设计，Meta 首席 AI 官 Alexandr Wang 称其编码能力超越 GPT-5.6 Sol、与 Claude Fable 5.1 持平。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日7时29分"
+  },
+  {
+    "id": "cmtkpafm7016uroall9a4yysv",
+    "title": "TechCrunch Disrupt 2026 公布 Builders Stage 议程，聚焦创业 scaling 策略",
+    "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
+    "summary": "TechCrunch Disrupt 2026 将于 10 月 13-15 日在旧金山 Moscone Center 举行，Builders Stage 议程首次公布，涵盖 Gamma CEO Grant Lee、Google 产品 VP Robby Stein 等嘉宾。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月3日7时1分"
+  },
+  {
+    "id": "cmtkqamim023jroalayp4jog8",
+    "title": "西班牙公司 Multiverse Computing 推出 Quasar 438B 模型，1M 词元上下文",
+    "url": "https://www.ithome.com/0/997/726.htm",
+    "summary": "西班牙 AI 公司 Multiverse Computing 推出 4，380 亿参数的推理模型 Quasar 438B，在 Artificial Analysis Intelligence Index v4.1.1 得分 43，为参与比较的欧洲模型中最高。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日7时16分"
+  },
+  {
+    "id": "cmtkngkzd04u7ro5qvo3kczcz",
+    "title": "FM-Bench 论文：让 15 个前沿模型运营足球俱乐部 20 年检验长时程决策能力",
+    "url": "https://x.com/rohanpaul_ai/status/2095271963828851106",
+    "summary": "arXiv 论文 FM-Bench（Football Management Benchmark）让 15 个前沿模型在 20 个模拟赛季、约 340 到 400 个决策点的环境中管理足球俱乐部，涉及转会、合同、现金和投资。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日6时5分"
+  },
+  {
+    "id": "cmtkpafm7016vroalchmww2ea",
+    "title": "消息称 Palo Alto Networks 以 5 亿美元收购 Thrive 投资的 AI IT 服务台创企 Console",
+    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+    "summary": "据知情人士，Palo Alto Networks 以 5 亿美元现金加股票收购成立两年、用 AI 智能体自动化 IT 服务台任务的 Console，官方公告未披露条款。Console 曾融资 2900 万美元，出售前估值 1.57 亿美元；其智能体功能将并入 Palo Alto 的 Cortex 平台，让安全团队用自然语言调查和解决告警，这是该公司 2026 年的第七笔收购。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月3日6时44分"
+  },
+  {
+    "id": "cmtkplqlf01hbroals8nfxiqg",
+    "title": "Fable 5.1 对比 Fable 5 与 Opus 5：单图重建《魔戒》3D 场景编码实测",
+    "url": "https://x.com/rohanpaul_ai/status/2095281428741415167",
+    "summary": "@thehypedotnews 用 Three.js 让 Fable 5.1、Fable 5 和 Opus 5 分别从单张参考图程序化重建 bag end、barad-dûr、rivendell 三个《魔戒》场景，全程经 OpenRouter 运行。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日6时43分"
+  },
+  {
+    "id": "cmtkp7dyy014sroale10jhf8j",
+    "title": "用户询问 Conductor 何时支持 Muse 订阅，Charlie Holtz 回应是否是时候做了",
+    "url": "https://x.com/charlieholtz/status/2095280529365205004",
+    "summary": "用户 @marcgayle 询问 Charlie Holtz 团队何时在 Conductor 中加入 Muse 订阅支持，Charlie Holtz 转发该提问并回应\"is it time to do this？！\"，未给出具体时间或计划。",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年9月3日6时39分"
+  },
+  {
+    "id": "cmtkqa18m020froalmj0e42ol",
+    "title": "Claude Code v2.1.259 发布：新增 managed MCP 服务器配置与无人值守权限模式",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.259",
+    "summary": "Claude Code 发布 v2.1.259。新增 managedMcpServers 托管设置供组织向所有用户提供 HTTP/SSE MCP 服务器，新增 --permission-prompts none 支持无人值守 headless 场景下自动拒绝权限请求，并支持 GitLab MR（glab）命令识别与 claude plugin validate -- 输出。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年9月3日6时33分"
+  },
+  {
+    "id": "cmtko7u4u05ioro5qkdwvt5f1",
+    "title": "TechCrunch Disrupt 2026 推出 Real World AI 舞台，聚焦数字与物理世界交融",
+    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+    "summary": "TechCrunch Disrupt 2026 推出新的 Real World AI 舞台，聚焦数字与物理世界的交汇及其持续融合的多种方式。标题提到舞台将包含 Nvidia、机器人与灭绝动物等元素，正文仅介绍该舞台的主题方向。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月3日6时24分"
+  },
+  {
+    "id": "cmtko4sr605bero5q2m6xa8iz",
+    "title": "Ethan Mollick 引述法律备忘录案例，指出廉价低推理模型在法律基准上表现不佳",
+    "url": "https://x.com/emollick/status/2095276496671953297",
+    "summary": "Ethan Mollick 引述 Prinz 对 AI 系统的法律基准测试结果，称最新模型表现很好，但更便宜、低推理能力的模型表现不佳，并追问如何让厂商有动力提供好的模型。其引用的律师案例显示，一份由法律部门大量借助 AI 完成的备忘录格式精美，却在监管审批判断上得出完全错误的结论，还遗漏了两条导致交易被法律禁止的原因。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月3日6时23分"
+  },
+  {
+    "id": "cmtkoj5hk05v1ro5qabavx5ii",
+    "title": "ProximalHQ 发布 FrontierSWE v2 超长程编码基准，Claude Fable 5.1 大幅领先",
+    "url": "https://x.com/omarsar0/status/2095276262415577550",
+    "summary": null,
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月3日6时22分"
+  },
+  {
+    "id": "cmtkofmc305ssro5qsv80x4ix",
+    "title": "Boris Cherny 演示 Fable 5.1 让 Slack 中的 Claude Tag 更实用",
+    "url": "https://x.com/bcherny/status/2095276133214491086",
+    "summary": "Boris Cherny 演示 Fable 5.1 让 Slack 中的 Claude Tag 更实用，可从 metrics 电子表格和 Slack 其他数据临时搭建领导层汇报幻灯片，并在继续之前发现一份与数字不符的供应商报告并加以标出。Claude Tag 现已在 Team 和 Enterprise 套餐的 Slack 中提供。",
+    "source": "X：Boris Cherny (@bcherny)",
+    "date": "2026年9月3日6时22分"
+  },
+  {
+    "id": "cmtkoj5hv05v2ro5qbtabgk28",
+    "title": "Broadcom 财报：预计 AI 芯片收入在 2027 和 2028 年翻倍至 $115B 和 $230B",
+    "url": "https://x.com/rohanpaul_ai/status/2095275817991557451",
+    "summary": "Broadcom 最新季度财报显示，AI 半导体收入达 $16.7B，同比增长 221%，占总收入 $29.6B 的约 56%。公司预计 2027 年 AI 半导体收入达 $115B、2028 年达 $230B，连续两年翻倍；Q4 指引 AI 收入 $21.7B、同比增长 236%，总收入指引 $34.8B。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日6时20分"
+  },
+  {
+    "id": "cmtkoi7do05uero5q3i8eri9x",
+    "title": "东锡 NLP 谈 AI 从 token 编号起步学语言与人类组合理解的差异",
+    "url": "https://x.com/dongxi_nlp/status/2095274023072755917",
+    "summary": "作者提出人类先学单个词再通过组合与经历理解复杂意义，例如从流、星、雨理解流星雨。AI 则先在庞大语料中建立 token 与编号的对应关系，再通过神经网络学习编号间的联系来逼近语言意义。作者认为 AI 语言的这种苍白感从起点就已注定。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年9月3日6时13分"
+  },
+  {
     "id": "cmtklznfb0282ro5q0ziel2iy",
     "title": "Ethan Mollick 对比 10 个月间两种 ChatGPT 智能体工作方式的构想",
     "url": "https://x.com/emollick/status/2095257172896841964",
@@ -8,12 +120,36 @@
     "date": "2026年9月3日5时6分"
   },
   {
+    "id": "cmtknk8c904voro5qijl305qr",
+    "title": "Alexandr Wang 转发 muse spark 1.3 与 fable 5.1 同题对比测试",
+    "url": "https://x.com/alexandr_wang/status/2095269953608032361",
+    "summary": "Alexandr Wang 引用 @notjazii 的对比测试并评价 muse spark 1.3 表现相当不错。同一提示词、最高推理档位下，muse spark 1.3 一分钟完成且费用几乎可忽略，fable 5.1 用了 70 分钟、花费 $13。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日5时57分"
+  },
+  {
+    "id": "cmtknk8c904vpro5q4m84pguh",
+    "title": "Alexandr Wang 回应 Meta 是否为前沿 AI 实验室",
+    "url": "https://x.com/alexandr_wang/status/2095268735821255023",
+    "summary": "Meta 首席 AI 官 Alexandr Wang 转引 @EMostaque 的提问「meta， the frontier ai lab？」，并以「that's us dawg」回应，确认所指即 Meta 自己。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日5时52分"
+  },
+  {
     "id": "cmtkmhn1x02rlro5qdt4pcvc8",
     "title": "Meta Muse Spark 1.3 在 Artificial Analysis 智能指数得 62 分，价格远低于同级模型",
     "url": "https://x.com/alexandr_wang/status/2095266112212754659",
     "summary": "Meta 的 Muse Spark 1.3 在 Artificial Analysis Intelligence Index 得 62 分，追平 Claude Fable 5，输入价格低 8 倍、输出价格低近 12 倍。评分还高于 GPT-5.6 Sol、Grok 4.6、Kimi K3 和 Gemini 3.8 Flash，Meta 进入前沿模型第一梯队。",
     "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
     "date": "2026年9月3日5时42分"
+  },
+  {
+    "id": "cmtknfnil04tkro5q7z2bayh7",
+    "title": "meta， the frontier ai lab？",
+    "url": "https://x.com/EMostaque/status/2095265721412452579",
+    "summary": null,
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年9月3日5时40分"
   },
   {
     "id": "cmtkme19o02plro5q94jsf94x",
