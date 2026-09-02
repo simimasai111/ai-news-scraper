@@ -896,6 +896,406 @@
     "date": "2026年9月2日2时13分"
   },
   {
+    "id": "cmtk88ynu01rorovglwv5d75j",
+    "title": "Runway 发布 Runway Dev MCP 托管服务器，让编码 Agent 自动完成集成",
+    "url": "https://runwayml.com/news/company-news/runway-dev-mcp",
+    "summary": "Runway 发布 Runway Dev MCP，一个托管 MCP 服务器，将 Runway Dev 账户连接到编码工具，让 Agent 能研究可选模型及价格与能力、拉取请求 schema、配置 Model Router 和 Characters，并在生成失败时查询任务原因后重试。",
+    "source": "Runway：News（网页）",
+    "date": "2026年9月2日23时4分"
+  },
+  {
+    "id": "cmtk9awhf02l1rovgx24h9qbq",
+    "title": "Motional 与 MIT 合作研究让自动驾驶汽车实时解释决策",
+    "url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions",
+    "summary": "Motional 与 MIT 研究人员构建了一套让自动驾驶汽车实时解释自身决策的系统，旨在解决自动驾驶 AI 的黑箱问题。该成果发表于 Nature，团队包括 Motional CEO Laura Major 与 MIT 计算机科学与人工智能实验室的研究人员。",
+    "source": "Artificial Intelligence News（网页）",
+    "date": "2026年9月2日23时34分"
+  },
+  {
+    "id": "cmtk8dz3d01w9rovglcrpv7uo",
+    "title": "普渡大学论文提出 NPO：单条提示词加教师反馈可匹敌 GEPA 的复杂搜索",
+    "url": "https://x.com/rohanpaul_ai/status/2095165558761324957",
+    "summary": "普渡大学论文提出 Naive Prompt Optimization（NPO），只保留一条提示词谱系，由教师模型根据近期 rollout 轨迹和奖励迭代修改。在 IFBench 和 HotpotQA 上，NPO 以更少的 rollout 达到与基于 Pareto 选择维护多候选的 GEPA 相当或更好的结果：3，500 vs 3，593 和 6，800 vs 6，871。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日23时2分"
+  },
+  {
+    "id": "cmtk95chs02bnrovg34g4k5jc",
+    "title": "Adobe 将 Photoshop、Illustrator 等创意工具接入 Slack",
+    "url": "https://www.ithome.com/0/997/701.htm",
+    "summary": "Adobe 宣布将 Photoshop、Premiere 和 Illustrator 等创意工具接入 Slack 协作平台，Adobe for Slack 已集成在 Slack 中。用户通过 Slackbot 选择 Manage Apps 添加 Adobe 后，可在聊天框输入 @Adobe 加提示词生成内容，还可引用聊天内容和共享文件辅助生成。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日23时28分"
+  },
+  {
+    "id": "cmtk9gg5t02qqrovgjwpbgbzv",
+    "title": "ByteDance Seed 提出 HarnessDev 基准：让 LLM 创建并演化自己的 Agent harness",
+    "url": "https://x.com/omarsar0/status/2095170896407548190",
+    "summary": "ByteDance Seed 等机构发布 HarnessDev 论文（https://arxiv.org/abs/2609.01437），把评估单位从任务输出转为可运行的 harness，分 Creation 与 Evolution 两阶段，按能力和执行 token 成本打分。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月2日23时24分"
+  },
+  {
+    "id": "cmtk850wt01ofrovgd1f36inr",
+    "title": "HiddenLayer 融资 1 亿美元 B 轮，企业加码 AI 部署安全",
+    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
+    "summary": "AI 安全公司 HiddenLayer 完成 1 亿美元 B 轮融资，由 Delta-v Capital 领投，Ten Eleven Ventures、Morgan Stanley、Microsoft 的 M12、Booz Allen Hamilton 等参投。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月2日23时1分"
+  },
+  {
+    "id": "cmtk94p2p028erovgv2zkw1g4",
+    "title": "Google Gemini 3.8 Flash 在 Gemini、Google AI Studio 和 API 上线",
+    "url": "https://x.com/testingcatalog/status/2095168841751863411",
+    "summary": "Google Gemini 3.8 Flash 正在 Gemini、Google AI Studio 和 API 上推出，DeepSWE 1.1 得分 71%，接近 Claude Opus 5 的 74%，但价格低得多。定价为 2026 年 12 月 31 日前输入 $0.75、输出（含 thinking tokens）$3.75，2027 年 1 月 1 日起分别涨至 $1.50 和 $7.50。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月2日23时15分"
+  },
+  {
+    "id": "cmtk9gg6i02qrrovgltt6nkls",
+    "title": "Gemini 3.8 Flash benchmarks. And holy cow！ Flash outperforms 5.6 sol and opus 5 on terminal bench 2….",
+    "url": "https://x.com/kimmonismus/status/2095168773800026279",
+    "summary": null,
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日23时15分"
+  },
+  {
+    "id": "cmtk96zen02eorovg0qmw2rgq",
+    "title": "Claude 校园大使项目开放申请，新增本科生、研究生和博士/博后三条通道",
+    "url": "https://x.com/claudeai/status/2095168559873773970",
+    "summary": "Anthropic 宣布 Claude Campus Ambassadors 校园大使项目开放申请，今年扩大面向更多学生的机会，设本科生、研究生和 PhDs/postdocs 三条通道。申请入口为 https://anthropic.com/campus。",
+    "source": "X：Claude (@claudeai)",
+    "date": "2026年9月2日23时14分"
+  },
+  {
+    "id": "cmtk96mbc02dzrovg7w9e66i6",
+    "title": "Deedy 实测 Fable 5.1 生成钢笔手写英文字体",
+    "url": "https://x.com/deedydas/status/2095168468081315924",
+    "summary": "Deedy 让 Fable 5.1 用钢笔风格生成英文手写体字体，认为效果非常好。他表示该模型在结合代码处理图形方面表现很强。",
+    "source": "X：Deedy Das (@deedydas)",
+    "date": "2026年9月2日23时14分"
+  },
+  {
+    "id": "cmtk97n2j02fwrovgvz0fr3o0",
+    "title": "Mistral 帮助文档确认除企业版外默认用用户数据训练模型",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "summary": "Mistral 帮助中心文档说明：除企业版默认退出外，Vibe、移动端和 Mistral Studio 及 API 的用户输入输出数据默认可能用于模型训练，用户可随时选择退出。文中给出各平台的退出步骤，并提醒 Vibe 与 API 的退出开关相互独立，需分别设置；Vibe 中上传的文档也被视为输入数据。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月2日23时13分"
+  },
+  {
+    "id": "cmtk95chs02brrovgofwg4d1f",
+    "title": "谷歌拆解退役服务器回收 DDR4 内存，重新部署至新型 AI 服务器",
+    "url": "https://www.ithome.com/0/997/687.htm",
+    "summary": "据 Wccftech 报道，谷歌供应链基础设施高级总监尼基尔·切里安在峰会论坛上透露，AI 产业已由算力受限转变为内存受限，高性能内存约占单台 AI 服务器物料成本的 75%。谷歌为此拆解退役服务器回收 DDR4 内存模组，并设计专用转接卡，在部分场景用 DDR4 替代新型 AI 服务器原规划的 DDR5；同时谷歌还在优化底层函数库、模型架构及 KV 缓存压缩算法以降低内存开销。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日23时0分"
+  },
+  {
+    "id": "cmtk6zjbc01moroqrzknwan7u",
+    "title": "黄仁勋 G20 炉边谈话：AI 已成为像电力一样的基础设施",
+    "url": "https://x.com/cb_doge/status/2095151987969155261",
+    "summary": "Grok Bot 总结 NVIDIA CEO 黄仁勋在 G20 会议炉边谈话的要点：AI 已成为生产力基础设施，电能是底座，算力按每百万 token 定价，一个吉瓦级基础设施约需 500-600 亿美元，NVIDIA 计划到本十年末达 100 吉瓦。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月2日22时8分"
+  },
+  {
+    "id": "cmtk850wu01ogrovgzoekheed",
+    "title": "Amazon 推出 Alexa for Shopping 验证消息真伪功能，帮助识别诈骗信息",
+    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
+    "summary": "Amazon 宣布 Alexa for Shopping 新增功能，可判断来自 Amazon 的消息是真实还是诈骗。AI 通过对比 Amazon 全球发送的数十亿条消息，分析发件人信息、内容、时间与元数据来确认真伪，并随用户举报增多而改进。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月2日22时56分"
+  },
+  {
+    "id": "cmtk8dz3d01wbrovgl5txj6vc",
+    "title": "GitHub 仓库 academic-research-skills 收录覆盖论文全流程的 Claude Code 技能",
+    "url": "https://x.com/rohanpaul_ai/status/2095163244759642327",
+    "summary": "Rohan Paul 推荐 GitHub 仓库 academic-research-skills，收录覆盖论文全流程的 Claude Code 技能，包括文献调研、论文规划、写作、引用与论断核查、同行评审式修改和最终投稿文件生成，仓库已有 45K+ stars。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日22时53分"
+  },
+  {
+    "id": "cmtk6zjbp01mqroqrzpdplbca",
+    "title": "Gemini 3.8 Flash 已可在 GCP Agent Studio 使用",
+    "url": "https://x.com/testingcatalog/status/2095150902990545361",
+    "summary": "Gemini 3.8 Flash 已在 GCP Agent Studio 上线。作者称其适合复杂多模态数据处理、编码场景以及软件工程相关的智能体任务，用例包括图文数据处理、编码问题和网页研究与应用测试。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月2日22时4分"
+  },
+  {
+    "id": "cmtk823ic01m2rovgtktze0el",
+    "title": "Wonderful 完成 5.5 亿美元 C 轮融资，估值 50 亿美元",
+    "url": "https://x.com/testingcatalog/status/2095161421847744744",
+    "summary": "Wonderful 完成 5.5 亿美元 C 轮融资，估值 50 亿美元，由 Insight Partners 领投，Salesforce 为新投资方，Index Ventures、Bessemer Venture Partners、IVP 等跟投。公司企业智能体平台上线 20 个月，已在 30 多个市场的十余个垂直行业落地数百个智能体，产品覆盖客户服务、员工内部系统和后三类场景。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月2日22时46分"
+  },
+  {
+    "id": "cmtk85ik501p5rovgloz4ifld",
+    "title": "美国国防部 GenAI.mil 平台新增 ChatGPT Mil 和 Grok for Government",
+    "url": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil",
+    "summary": "美国国防部在 AI 平台 GenAI.mil 上新增 OpenAI 的 ChatGPT Mil 和 xAI 的 Grok for Government，此前该平台自去年 12 月上线以来仅有 Google Gemini。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月2日22时40分"
+  },
+  {
+    "id": "cmtk72few01u3roqrik3nk8oc",
+    "title": "Adobe 收购印度营销智能初创公司 Rilo",
+    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo",
+    "summary": "Adobe 收购印度营销智能初创公司 Rilo，涉及技术授权与团队收购，交易条款未披露，这是 Adobe 继 2023 年收购 Rephrase.ai 后第二次收购印度公司。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月2日22时3分"
+  },
+  {
+    "id": "cmtk84dtt01norovghckz5adc",
+    "title": "Runway 发布 Dev MCP，可在编码智能体内连接 Runway 开发者平台",
+    "url": "https://x.com/runwayml/status/2095159754414813249",
+    "summary": "Runway 发布 Runway Dev MCP，让开发者在自己的编码智能体内连接 Runway 开发者平台进行构建、调试和管理。支持设置 Model Routers、查询任务等操作，无需离开智能体。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年9月2日22时39分"
+  },
+  {
+    "id": "cmtk7bbla023xroqr2gcixs3u",
+    "title": "Anthropic 的 Tom Brown 预测未来 12 个月内 AI 或将成为关键科学领域一代人一遇的科学家",
+    "url": "https://x.com/kimmonismus/status/2095159348091641927",
+    "summary": "Anthropic 的 Tom Brown 预测，未来 12 个月内 AI 有可能成为关键科学领域一代人一遇的科学家。转发者评论称，如果有人认为 AI 正在放缓或已到顶峰，那就大错特错，我们才刚刚起步。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日22时38分"
+  },
+  {
+    "id": "cmtk7bblh023yroqrbq3dic7h",
+    "title": "Anthropic 开源 Claude Skills 仓库获 173K+ GitHub stars",
+    "url": "https://x.com/rohanpaul_ai/status/2095158273293099018",
+    "summary": "Anthropic 维护的大型开源 Claude Skills 仓库已获 173K+ GitHub stars。Skills 是按需加载的预定义指令文件夹，每个 skill 仅用约 100 token 读取基本元数据，完整指令只在任务需要时才进入上下文窗口；还有专门的 skill-creator 用于从头构建新技能，可通过单条终端命令安装，在网页端和 API 中通用。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日22时33分"
+  },
+  {
+    "id": "cmtk6zl8101n3roqr915o9iiy",
+    "title": "Every 播客文字稿：明星写手如何把职业教练变成 AI 员工",
+    "url": "https://every.to/podcast/transcript-how-every-s-star-writer-turned-her-career-coach-into-an-ai-employee",
+    "summary": "Every 发布播客文字稿，讲述其明星写手把自己的职业教练改造成 AI 员工的经历。正文无有效文本，具体方法与细节以原文为准。",
+    "source": "Every：最新文章（网页）",
+    "date": "2026年9月2日22时29分"
+  },
+  {
+    "id": "cmtk72ysv01wwroqrteeca3ib",
+    "title": "特朗普称反对AI数据中心抗议正中中国下怀",
+    "url": "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says",
+    "summary": "特朗普在Truth Social上强烈回击美国各地对AI数据中心的反对声浪，称拒绝数据中心的社区将变得\"落后和贫穷\"，中国会很乐见这一反数据中心运动，因为美国建设放缓会让北京在AI竞赛中占优。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月2日22时23分"
+  },
+  {
+    "id": "cmtk7bblh023zroqrdpahsrin",
+    "title": "开源项目 Cohub 为 Agent 提供会话之外的持久工作空间",
+    "url": "https://x.com/rohanpaul_ai/status/2095155725140140136",
+    "summary": "Cohub 是一个开源 Agent OS，为 Agent 提供会话之外的持久工作空间，集中管理文件、会话、工具、定时任务和可复用上下文。作者 Rohan Paul 转发了该项目的介绍，并重点分析其双层记忆模型：Space 保存单个项目的完整工作状态，只把持久性知识提升到作为组织记忆的 Hub，兼顾低成本保留执行状态与选择性沉淀共享判断。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日22时23分"
+  },
+  {
+    "id": "cmtk72ysv01wxroqrokn98wtj",
+    "title": "OpenAI 将 Astra 评为首个具有 critical 网络能力的模型，链式思考监督却愈发脆弱",
+    "url": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder",
+    "summary": "OpenAI 称即将发布的 Astra 模型是其 Preparedness Framework 中首个达到网络安全最高风险级别 critical 的系统，同时也称其为最安全的模型。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月2日22时20分"
+  },
+  {
+    "id": "cmtk6zqoi01nlroqr8sj3535y",
+    "title": "Simon Willison 分析 Claude Fable 5.1 新系统提示词：严禁歌词与受版权角色",
+    "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
+    "summary": "Anthropic 在 Claude 消费端应用的文档中发布了 Fable 5.1 的最新系统提示词，新增禁止复现歌词、诗歌和书籍段落，禁止绘制受版权角色与标志，1929 年前出版的作品除外。",
+    "source": "Simon Willison 博客",
+    "date": "2026年9月2日22时16分"
+  },
+  {
+    "id": "cmtk7bbl3023wroqrd1gdglbr",
+    "title": "Elvis Saravia：AI 工程师应从零构建最小 harness 掌握上下文工程",
+    "url": "https://x.com/omarsar0/status/2095153671604773161",
+    "summary": "Elvis Saravia 提出 harness 并非千篇一律，好的 harness 应解决上下文工程问题，关键在于理解并优化系统提示词、缓存和有效工具调用等底层细节。他建议用自己喜欢的语言构建一个带基本 agent 循环、系统提示词和工具调用能力的最小 harness，在用例上测试验证并迭代，掌握这些可调旋钮后再迁移到生产级 harness。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月2日22时15分"
+  },
+  {
+    "id": "cmtk68qks01bdroqremx8hyfd",
+    "title": "SemiAnalysis 播客讨论 OpenAI 与 HuggingFace 安全事件及 Neocloud 安全问题",
+    "url": "https://x.com/SemiAnalysis_/status/2095149875205640538",
+    "summary": "SemiAnalysis 本期节目由 Doug、Sam 和 Jordan 讨论 OpenAI 与 HuggingFace 的安全事件，以及其关于 Neocloud 安全的文章（https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security），并预告 ClusterMAX 3.0。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年9月2日22时0分"
+  },
+  {
+    "id": "cmtk4xb1l01hnroduvm1uw9cv",
+    "title": "HN Matchmaker 上线：用 AI 匹配 HN 的招聘帖与求职者",
+    "url": "https://hnmatchmaker.com/",
+    "summary": "作者 all2 在 Hacker News 发布 HN Matchmaker（hnmatchmaker.com），基于 HN 每月的\"谁在招聘？\"与\"谁想被录用？\"帖子，用 AI 在求职者与职位之间做自动匹配，帮助用户找到下一份工作或下一位候选人。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月2日21时5分"
+  },
+  {
+    "id": "cmtk5wy1h02dgroduj5c9t8di",
+    "title": "Catch AI 发布面向高管的行政助理产品，可代打电话、管理日历和收件箱",
+    "url": "https://x.com/testingcatalog/status/2095147672839569551",
+    "summary": "Catch 发布 AI 行政助理 Catch AI，定位是为忙碌的高管真正执行行政工作，而非仅建议或总结。产品可管理日历、分类收件箱并代表用户拨打真实电话，支持连接 Slack、WhatsApp、iMessage、邮件和电话等渠道。示例包括直接邮件对方安排或改期会议、致电餐厅和诊所等、在用户确认意图后代拟发送邮件，以及语音播报当日安排并按回答执行。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月2日21时51分"
+  },
+  {
+    "id": "cmtk7066d01qfroqro73pmh68",
+    "title": "消息称月之暗面启动港股 IPO 流程，已向港交所秘密递交 A1 文件",
+    "url": "https://www.ithome.com/0/997/670.htm",
+    "summary": "据晚点 LatePost 9 月 2 日消息，月之暗面本周以保密形式向港交所递交 A1 文件，正式启动港股 IPO 流程，公司回应不予置评。报道称其同时以 500 亿美元投前估值推进新一轮融资，可能是 IPO 前最后一轮；此前 7 月公司完成超 35 亿美元 F 轮融资，投后估值 350 亿美元，认购金额超原定目标 3 倍有余，另有消息称 IPO 或募资约 30 亿美元，但当时公司回应消息不实。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日21时50分"
+  },
+  {
+    "id": "cmtk6zwl601osroqryptpbgai",
+    "title": "IBM 与 Confluent 发布 Granite 时间序列模型 Early Access，可在流数据上实时预测与检测异常",
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "summary": "IBM 与 Confluent 宣布四款 IBM Granite 时间序列基础模型（PatchTST-FM、FlowState、TTM、TSPulse）以 Early Access 形式上线 Confluent Cloud。",
+    "source": "Hugging Face：Blog（RSS）",
+    "date": "2026年9月2日21时49分"
+  },
+  {
+    "id": "cmtk5wy1802dfrodu49tqybti",
+    "title": "Ethan Mollick 引述观点：AI 安全能力飙升将带火安全岗位",
+    "url": "https://x.com/emollick/status/2095146057462436231",
+    "summary": "Ethan Mollick 转引 @levie 的观点并评论称，AI 模型越来越擅长发现和利用漏洞，前沿模型领先、开源权重紧随其后，企业漏洞发现将成倍增加，用 AI 加人工监督来分诊和自动化修复基本是唯一出路。Mollick 表示这不一定是希望因 AI 而繁荣的岗位类型，但说明了 AI 能力变化时哪些工作有需求可能快速转移。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月2日21时45分"
+  },
+  {
+    "id": "cmtk7066d01qhroqrr5tqsza6",
+    "title": "美光探索近 GPU NAND 闪存，可支撑更大规模 AI 模型",
+    "url": "https://www.ithome.com/0/997/668.htm",
+    "summary": "据 DigiTimes 9 月 2 日报道，美光正在研究高耐久性 NAND 闪存模块，计划部署在距离 GPU 更近的位置，当前被称为\"近 GPU NAND\"。该方案可让 GPU 直接访问数百 GB 的 NAND 存储池，放置在 GPU 封装内部或 PCB，工作方式类似 HBM、GDDR7；与传统 TLC 或 QLC NAND 相比密度更低，重点提升 I/O 速度和带宽。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日21时44分"
+  },
+  {
+    "id": "cmtk7066d01qiroqrfpwcdvr7",
+    "title": "研究发现 AI 客服更拟人未必带来更佳体验",
+    "url": "https://www.ithome.com/0/997/667.htm",
+    "summary": "发表于《欧洲营销杂志》的研究发现，在某些情况下不那么像真人的文字聊天机器人反而获得更积极的客户反馈，打字的慢节奏让消费者有时间平复负面情绪。另一项发表于《商业研究杂志》的研究显示，能准确识别消费者愤怒等情绪状态的 AI 客服会带来更高满意度。调查还显示 1031 名澳大利亚受访者中 78% 用过自动化客服，仅 39% 感到满意。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日21时41分"
+  },
+  {
+    "id": "cmtk5dyhr01umroduwfig382m",
+    "title": "玉伯谈 Codex 用户卡点：安装是第一关，用来做什么是最后一关",
+    "url": "https://x.com/lifesinger/status/2095135612244574568",
+    "summary": "Frank Wang 玉伯发帖称，大量用户的第一个卡点不是怎么用 Codex，而是怎么安装 Codex。他表示用户在安装好、解决第一个卡点后，马上会遇到最后一个卡点，即用 Codex 来做什么，然后就没有然后了。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年9月2日21时3分"
+  },
+  {
+    "id": "cmtk565yl01pgroducjyr4jxj",
+    "title": "Fable 5.1 在 ARC-AGI-2 达 90.0%，平均单任务成本比 Fable 5 低约 32%",
+    "url": "https://x.com/rohanpaul_ai/status/2095143998621147517",
+    "summary": "@arcprize 公布 Anthropic 的 Fable 5.1 在 ARC-AGI（Verified）上的成绩：ARC-AGI-2 得分 90.0%，成本 $3.12/task；ARC-AGI-1 得分 97.5%，成本 $1.40/task。两个基准上平均单任务成本比 Fable 5 低约 32%，主要来自更好的 token 效率。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月2日21时37分"
+  },
+  {
+    "id": "cmtk565y901peroduuo6ysv9e",
+    "title": "Catch AI 发布面向高管的开场行政助理产品",
+    "url": "https://x.com/omarsar0/status/2095142595743617048",
+    "summary": "Catch 团队发布 Catch AI，一款为忙碌高管打造的行政助理智能体，定位是真正替高管完成他们不愿自己做的行政工作，而不只是建议或总结。作者评论称主动式、能实际完成工作的智能体市场巨大，Catch 处理日程、邮件和差旅，会存储用户偏好并能在用户开口前主动行动。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月2日21时31分"
+  },
+  {
+    "id": "cmtk4uzp401c2rodus8kvquvy",
+    "title": "高通披露新一代 Adreno GPU 细节：矩阵核心强化 AI 算力，频率提升至 1.45GHz",
+    "url": "https://www.ithome.com/0/997/663.htm",
+    "summary": "据 Android Authority 报道，高通披露新一代 Adreno GPU 细节，核心新设计是加入 Adreno 矩阵核心，预计配备 3 个，以更低延迟和功耗处理本地 AI 任务。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日21时25分"
+  },
+  {
+    "id": "cmtk4ue7y018yroducuxnq82j",
+    "title": "Google Pics 上线，面向 Workspace 客户与 Google AI Pro/Ultra 订阅者",
+    "url": "https://x.com/frxiaobei/status/2095140282002289155",
+    "summary": "Google Workspace 宣布推出 Google Pics，AI 图像创建功能正逐步推送给 Google Workspace 客户及 Google AI Pro 和 Ultra 订阅者。该工具支持编辑单个对象、润色或翻译文本，并支持团队协作，可访问 http://pics.new 试用。作者评论认为 Google 的 AI 产品线越来越分散，图像有 Gemini、Nano Banana、Google Pics，视频有 Veo、Flow、Vids。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年9月2日21时22分"
+  },
+  {
+    "id": "cmtk4ue7y018zrodun08iwel9",
+    "title": "戴森发布内置摄像头与 AI 的 CameraJet 牙刷，售价 $499",
+    "url": "https://x.com/frxiaobei/status/2095140183859425768",
+    "summary": "Dyson 发布 CameraJet 牙刷，售价 $499，刷头内置 10 万像素微距镜头，刷牙时每秒拍 28 张图像，AI 用 47 万张牙科图像训练，检测到牙缝后在 100 毫秒内喷射漱口水自动完成类似牙线的清洁。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年9月2日21时22分"
+  },
+  {
+    "id": "cmtk42kk601bprohrly9v0jp3",
+    "title": "OpenBMB 展示基于 MiniCPM5-1B 和 PilotDeck 的开源 Document Field Agent 文档处理工作流",
+    "url": "https://x.com/OpenBMB/status/2095134957845049384",
+    "summary": "开发者基于面壁智能 OpenBMB 的 MiniCPM5-1B 和 PilotDeck 构建了开源项目 Document Field Agent，可将本地 PDF、图片和扫描文档转为结构化、可复核的结果。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年9月2日21时1分"
+  },
+  {
+    "id": "cmtk4ue860190rodu4z9pwv28",
+    "title": "Gemini 3.8 Flash 现身 Google Cloud Console 配额页面，发布在即",
+    "url": "https://x.com/testingcatalog/status/2095139246273126491",
+    "summary": "Gemini 3.8 Flash 出现在 Google Cloud Console 指标与配额页面，作者称这通常是发布前的常规信号。引用内容称这印证了其今日发布或公布的传闻；当天早些时候还有用户发现部分 Gemini 会话已由 Gemini 3.8 Flash 驱动。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月2日21时18分"
+  },
+  {
+    "id": "cmtk5dyi201uorodu9wgulj9u",
+    "title": "Zho 用汉字阵制作《攻壳机动队》风格转场视频",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2095138700544123049",
+    "summary": "Zho 发布一段视频，展示用汉字阵制作《攻壳机动队》（Ghost in the shell）风格转场，称其再合适不过，作品标注为 ENFINITY|Zho。这是其「做点好玩的！持续进行中…」系列的一部分，此前还发布过致敬草间弥生的作品。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月2日21时16分"
+  },
+  {
+    "id": "cmtk565yf01pfrodu1rhzj7gc",
+    "title": "访谈 LTX 联合创始人兼 CTO Yaron Inger，检验 LTX-2.5 的世界模型主张",
+    "url": "https://x.com/kimmonismus/status/2095137667570716711",
+    "summary": "作者与 Peter 对话 LTX 联合创始人兼 CTO Yaron Inger，围绕其新开放权重的视频与世界模型 LTX-2.5 展开讨论。问题包括模型在生成逼真画面之外实际理解了什么、物理能力是否足够支撑机器人领域、原生多镜头生成在剪辑间记住了什么、速度基准是否公平、创作者在可负担硬件上的预期，以及开放下载权重后 LTX 如何构建商业模式。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月2日21时12分"
+  },
+  {
+    "id": "cmtk4tg2g015urodulwmmoulr",
+    "title": "OpenClaw 团队受邀 GitHub 访谈，讲述 OpenClaw 2.0 的构建、扩展与安全历程",
+    "url": "https://x.com/openclaw/status/2095134656404308306",
+    "summary": "OpenClaw 转发 GitHub 的访谈视频，链接 https://youtu.be/5VSwaUXtPIE?si=vdegRI2eH4wXo2lG。GitHub 介绍视频由 OpenClaw 创作者 @steipete 及其维护者讲述该项目如何构建、扩展并保障安全，并称其为 GitHub 历史上增长最快的开源项目。",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年9月2日21时0分"
+  },
+  {
+    "id": "cmtk3zlqu01a4rohrjw4pnvy3",
+    "title": "SiliconFlow 上 Kimi K3 降价 10% 并将默认 TPM 提升至 2M",
+    "url": "https://x.com/SiliconFlowAI/status/2095133875798458761",
+    "summary": "SiliconFlow 宣布 Kimi K3 即日起降价 10%，默认 TPM 从 100K 提升至 2M。新价格为 Cache input $0.30/M → $0.27/M，Input $3.00/M → $2.70/M，Output $15.00/M → $13.50/M，对所有用户开放。",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "date": "2026年9月2日20时56分"
+  },
+  {
+    "id": "cmtk4uzp401c4roduaqxnzfnf",
+    "title": "新加坡科技设计大学研究发现老年群体更看重 AI 陪伴聊天机器人的真实感而非拟人化",
+    "url": "https://www.ithome.com/0/997/657.htm",
+    "summary": "新加坡科技设计大学研究人员让 140 名 60 至 89 岁老年人与其社交聊天机器人 Ami Chat 互动，研究发表于《老龄化创新》期刊。结果显示，社会关系相关三个指标（拟人化、真实性、AI 社交互动强度）在使用意愿差异中额外解释了 27%；感觉更真实、互动更具回应性时使用意愿更高，但认为机器人更像真人的参与者意愿反而更低；自评健康状况较差者使用意愿更强。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月2日20时56分"
+  },
+  {
+    "id": "cmtk5dyhr01unroduio2mdyaw",
+    "title": "Frank Wang 玉伯期待创业公司做出真正新一代体验的 Google 与大家伙",
+    "url": "https://x.com/lifesinger/status/2095132925100708248",
+    "summary": "Frank Wang 玉伯表示内心期待四件事：大厂疯狂投入资源做豆包工作、我可八弟、千问办公等，用户被教育学会用豆包后发现豆包是另一个百度；创业公司做出真正新一代体验的 Google，豆包只能蹲踞一角；大厂投入做豆包、小微、千问后用户发现小微也是另一个百度；创业公司做出真正的大家伙，看得张一鸣直揉眼、张小龙后悔不够激进。他最后问读者期不期待。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年9月2日20时53分"
+  },
+  {
     "id": "cmtiy0v6k01dproel63pg10os",
     "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
     "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
