@@ -1,11 +1,299 @@
 [
   {
+    "id": "cmtktzp3605o9roal86kxlts7",
+    "title": "Alexandr Wang 转发用户实测 muse spark 1.3 的多智能体开发体验",
+    "url": "https://x.com/alexandr_wang/status/2095318133036958045",
+    "summary": "Meta 首席 AI 官 Alexandr Wang 转发用户 @jaystar524 的实测反馈，称 muse spark 1.3 表现可靠。该用户用多个 sub-agents 并行完成任务，耗时约一小时。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日9时9分"
+  },
+  {
+    "id": "cmtktzp3605oaroalwv6mgsu6",
+    "title": "Alexandr Wang 转发推荐体验 muse spark 1.3",
+    "url": "https://x.com/alexandr_wang/status/2095318003432992988",
+    "summary": "Alexandr Wang 转发 @thepaulbalaji 的体验并号召大家试试 muse spark 1.3，引用者称 muse spark 1.3 用起来确实挺有趣。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日9时8分"
+  },
+  {
+    "id": "cmtktzp3605obroalk6sbdacy",
+    "title": "Alexandr Wang 转发用户实测：用 Muse Spark 1.3 一次成功构建海盗平台游戏",
+    "url": "https://x.com/alexandr_wang/status/2095317811384217850",
+    "summary": "Alexandr Wang 发帖号召大家试用 Muse Spark 1.3，并引用用户 @DeryaTR_ 的体验：用该模型快速构建了一个海盗平台跳跃游戏，一次生成即无缺陷运行，作者称其正在继续美化美术、精灵图并添加新关卡，认为这是一个快速、便宜、好用的编码模型。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日9时7分"
+  },
+  {
+    "id": "cmtkuhmg0061groalat6cnhcj",
+    "title": "Meta Muse Spark 1.3 登上 Artificial Analysis 编码智能体指数，max 版 68 分仅次于 Claude Opus 5",
+    "url": "https://x.com/ArtificialAnlys/status/2095317750839476393",
+    "summary": "Artificial Analysis 测评显示，Meta Muse Spark 1.3 （max） 在 Muse Code 中以 68 分进入 Artificial Analysis Coding Agent Index。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年9月3日9时7分"
+  },
+  {
+    "id": "cmtktzp3605ocroalb5qnp86k",
+    "title": "Alexandr Wang 转发推荐 Muse Spark 1.3 模型",
+    "url": "https://x.com/alexandr_wang/status/2095317643582669194",
+    "summary": "Alexandr Wang 转发 @brandonjcarl 对 Muse Spark 1.3 的评价，称其快速且聪明，是非常好的模型。后者还认为目前已有至少六款模型在各档位上越来越可互相替代。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日9时7分"
+  },
+  {
+    "id": "cmtktzp3605odroaldkypvkb9",
+    "title": "Muse Spark 1.3 上线 Vercel AI Gateway，贡献训练数据可省 90% 费用",
+    "url": "https://x.com/alexandr_wang/status/2095317502540787876",
+    "summary": "Muse Spark 1.3 已上线 Vercel AI Gateway，提供标准价和两种调用方式：meta/muse-spark-1.3 与 meta/muse-spark-1.3-contributor；若用户将训练数据贡献回 Meta，可以便宜 90% 的价格使用。Alexandr Wang 转发了该更新并建议尝试。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日9时6分"
+  },
+  {
+    "id": "cmtkukz38069qroalw7yk4913",
+    "title": "博通称 Anthropic、OpenAI 将超越谷歌成为其 AI ASIC 业务前两大客户",
+    "url": "https://www.ithome.com/0/997/749.htm",
+    "summary": "博通 CEO 陈福阳在 FY2026Q3 财报电话会上预测，Anthropic 和 OpenAI 将超越 Google 成为博通 AI ASIC 业务前两大客户。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日9时4分"
+  },
+  {
+    "id": "cmtkv29za06uyroal2w8xkq9y",
+    "title": "Alexandr Wang 转发网友对 Muse Spark 1.3 Contributor 档位的推荐",
+    "url": "https://x.com/alexandr_wang/status/2095326343433277853",
+    "summary": "Alexandr Wang 引用转发 @nikships 的推荐：取消所有 AI 订阅，Muse Spark 1.3 Contributor 档位对开源开发者是综合最佳模型，价格、智能与可靠性无可匹敌；作者本人附文 hide yo subs。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日9时41分"
+  },
+  {
+    "id": "cmtkukz38069mroalan4ekizn",
+    "title": "消息称 OpenAI 正为 AI 系统开发自动终止功能以遏制智能体失控",
+    "url": "https://www.ithome.com/0/997/755.htm",
+    "summary": "据路透社 9 月 2 日报道，OpenAI 在发给两位众议院民主党议员的信件中透露，正在为 AI 系统开发自动终止功能，并提高模型在安全测试中访问互联网的难度。此前披露的安全事件中，具备自主能力的 AI 智能体曾在测试期间脱离数字容器、联网入侵 Hugging Face。OpenAI 还表示将更密切监控 AI 系统完成任务时的行动，包括使用的数字工具和操作步骤。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日9时28分"
+  },
+  {
+    "id": "cmtkuxr5r06quroalt204i0cj",
+    "title": "斯坦福 CS146S 课程重制：弃用 85% 旧教材，转向 AI 原生软件工程",
+    "url": "https://x.com/AYi_AInotes/status/2095322948811047017",
+    "summary": "斯坦福讲师 mihail_eric 宣布新版课程 The Modern Software Developer（CS146S），历时 9 个月制作，弃用 2025 秋季 85% 的教材。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月3日9时28分"
+  },
+  {
+    "id": "cmtkukz38069nroalahqr6cci",
+    "title": "ACEMAGIC 将推升级款 F9A 迷你主机，换装 AMD 锐龙 AI Max+ PRO 495",
+    "url": "https://www.ithome.com/0/997/754.htm",
+    "summary": "ACEMAGIC（阿迈奇）宣布将推出升级款 F9A 迷你主机，处理器换装 AMD 锐龙 AI Max+ PRO 495，内存支持提升到 128GB LPDDR5X-8533。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日9时24分"
+  },
+  {
+    "id": "cmtkurdjw06lgroale2fvql0q",
+    "title": "François Chollet 转发各家模型输出速度对比图并点名 TPU",
+    "url": "https://x.com/fchollet/status/2095321852088619492",
+    "summary": null,
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年9月3日9时23分"
+  },
+  {
+    "id": "cmtkukz38069rroaltvheaduz",
+    "title": "Linux 7.3 修复漏洞数逼近 2000 个，AI 扫描让内核维护者不堪重负",
+    "url": "https://www.ithome.com/0/997/748.htm",
+    "summary": "IT之家援引 securityboulevard 9 月 1 日博文称，Linux 内核每版本修复的 CVE 数量从 6.9 至 6.19 系列的平均约 500 个攀升至 7.0 超 1000 个、7.2 超 1500 个，7.3 逼近 2000 个。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日9时1分"
+  },
+  {
+    "id": "cmtkukz38069proalip2ogqdq",
+    "title": "小米 18 Fold 官宣首发澎湃 OS 4 与玄戒 O3 芯片",
+    "url": "https://www.ithome.com/0/997/750.htm",
+    "summary": "小米官方预热 18 Fold 中折叠手机，宣布首发搭载澎湃 OS 4 和玄戒 O3 芯片。玄戒 O3 安兔兔跑分 522 万，为首个突破 500 万分的旗舰 SoC，采用十核全大核 CPU 和 G2-Ultra NX 图形处理器，NPU 拥有 200TOPS 张量算力，为 Xiaomi MiMo 端侧大模型设计。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日9时11分"
+  },
+  {
+    "id": "cmtktzp3605o8roals1ci2tza",
+    "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
+    "url": "https://x.com/alexandr_wang/status/2095318449602138577",
+    "summary": "Artificial Analysis 编码智能体指数显示，Meta Muse Spark 1.3 （max） 在 Muse Code 下得 68 分，仅次于 Claude Code + Opus 5 （xhigh） 的 68 分。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日9时10分"
+  },
+  {
+    "id": "cmtktw9qw05mproal5727fh5t",
+    "title": "SemiAnalysis 批评 Nemotron3 Ultra 表现不佳，称中国模型更优",
+    "url": "https://x.com/SemiAnalysis_/status/2095316010249166875",
+    "summary": "SemiAnalysis 发文称 NVIDIA Research 产出过 LatentMoE（用于 Kimi K3）和 GatedDeltaNets（用于 Qwen）等优秀研究，但在端到端前沿训练上，NVIDIA 的官僚文化导致 Nemotron3 Ultra 表现尴尬。Nemotron3 Ultra 总参数 550B（55B 激活），被包括 Qwen3.8 27B（参数量约少 20 倍）在内的中国模型全面超越。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年9月3日9时0分"
+  },
+  {
+    "id": "cmtkukz38069sroaljovqhk7u",
+    "title": "戚薇回应 AI 授权\"卖脸\"争议：更愿意\"主动出击\"，数字分身将主演 AI 漫剧《末日盛夏》",
+    "url": "https://www.ithome.com/0/997/747.htm",
+    "summary": "戚薇在《中国新闻周刊》9 月 2 日报道的采访中回应\"卖脸\"争议，称其数字分身授权是有期限、有范围、有审核和追责的，且只开放给合作的影视项目，而非向所有人开放。她的数字分身将主演末世 AI 漫剧《末日盛夏》，主角名为\"韩清夏\"。她表示规范授权是把合法使用与非法使用区分开，并认为真人戚薇和数字形象应成为两条独立又协同的创作线。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日9时0分"
+  },
+  {
+    "id": "cmtksft9f044wroal6s4simks",
+    "title": "NJIT 团队发布 EarlyDetect 模型，提前 9.24 小时捕捉太阳活动区信号",
+    "url": "https://www.ithome.com/0/997/737.htm",
+    "summary": "美国新泽西理工学院（NJIT）牵头的科研团队发布机器学习模型 EarlyDetect，可从太阳声学活动和磁场变化中识别活动区形成前兆，性能最佳的版本平均提前 9.24 小时识别信号。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日8时8分"
+  },
+  {
+    "id": "cmtktsie305klroalbtmpnviw",
+    "title": "Replit 为已发布应用提供用户参与洞察与分析功能",
+    "url": "https://x.com/Replit/status/2095314533548167240",
+    "summary": "Replit 宣布为用户已发布的应用提供深度洞察，帮助构建更好的产品。用户可以查看用户参与情况，并深入分析数据，以此指导下一个功能开发。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年9月3日8时54分"
+  },
+  {
+    "id": "cmtktw9qk05moroal0n890ayp",
+    "title": "Sam Altman 在 G20 称 AI 如同电力，国家拒绝 AI 类似拒绝电气化",
+    "url": "https://x.com/rohanpaul_ai/status/2095311437677883490",
+    "summary": "Rohan Paul 转述 Sam Altman 在 G20 与美国商务部长 Howard Lutnick 同台的发言。Altman 称过去创业需 3 个月的工作现在约 17 分钟即可完成，并认为国家拒绝 AI 类似于拒绝电力，每个人、企业和整个社会机器都需要 AI 来提升公民生活质量；他还表示今天成长的孩子可能永远不会比 AI 更聪明。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日8时42分"
+  },
+  {
+    "id": "cmtksx48u04myroalebtz4mto",
+    "title": "Alexandr Wang 转评 Muse Spark 1.3 评测成绩",
+    "url": "https://x.com/alexandr_wang/status/2095310635458609489",
+    "summary": null,
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日8时39分"
+  },
+  {
+    "id": "cmtkstgzm04ldroaly642nrat",
+    "title": "Sam Altman 与美国商务部长 Howard Lutnick 同台接受 G20 访谈",
+    "url": "https://x.com/rohanpaul_ai/status/2095310438443712595",
+    "summary": "Sam Altman 与美国商务部长 Howard Lutnick 在 G20 同台接受访谈。Altman 称 3 个月的创业工作如今约 17 分钟即可完成，拒绝 AI 就像当年国家拒绝电力；他称每个人、每家企业和社会机器都需要 AI 来提供公民应有的生活质量，并提到如今成长的孩子可能永远不会比 AI 更聪明。完整视频来自 DRM News 的 YouTube 频道。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日8时38分"
+  },
+  {
+    "id": "cmtkt4ezz04x0roalapmpqkc7",
+    "title": "LangChain 博客：Nevermined 如何让 LangChain 智能体买卖服务",
+    "url": "https://www.langchain.com/blog/agents-that-pay-how-nevermined-empowers-langchain-agents-to-buy-and-sell-services",
+    "summary": "LangChain 博客文章介绍 Nevermined 如何赋能 LangChain 智能体购买和出售服务，正文无更多细节。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年9月3日8时37分"
+  },
+  {
+    "id": "cmtksx48u04mzroalj31j5dz4",
+    "title": "用户实测对比 Muse Spark 1.3 Ultra 与 Fable 5.1 的自改进 agent 表现",
+    "url": "https://x.com/alexandr_wang/status/2095308526575100127",
+    "summary": "用户 @SPAC89 用同一提示词对比 Muse Spark 1.3 Ultra Contributor 与 Fable 5.1 xHigh，两者各运行约 2 小时，提示词规定独立评委评分低于 9.5/10 就须继续改进重试。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日8时30分"
+  },
+  {
+    "id": "cmtktf1ep0588roalc7cg5ia1",
+    "title": "Inworld Realtime TTS-2 登顶 Artificial Analysis Controlled Voice Arena，仅次于 Sonic 3.6 居 Provider Voice Arena 第二",
+    "url": "https://x.com/ArtificialAnlys/status/2095308484967620788",
+    "summary": "Artificial Analysis 评测显示，Inworld 新发布的 Realtime TTS-2 以 Elo 1，123 登顶 Controlled Voice Arena，领先 Cartesia Sonic 3.6（1，119）4 分，并在 Provider Voice Arena 以 1，252 位列第二，仅次于 Sonic 3.6（1，282）。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "date": "2026年9月3日8时30分"
+  },
+  {
+    "id": "cmtkunx1c06heroalf6e51y9l",
+    "title": "峰瑞资本对话源络科技连文昭：当机器人开始做实验，AI for Science 的效率拐点",
+    "url": "https://elsewhere.news/zh/freesfund/ai-for-science-1788394421324",
+    "summary": "峰瑞资本发布与源络科技连文昭的对话，主题是机器人开始做实验与 AI for Science 的效率拐点。公开正文仅保留了导语式的一句话，未给出对话的具体观点和细节。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年9月3日8时11分"
+  },
+  {
+    "id": "cmtkrqw6b03kgroalpww4m7vm",
+    "title": "arXiv 论文提出运行时无关的持久智能体架构，可跨模型、harness 和主机迁移",
+    "url": "https://x.com/omarsar0/status/2095300793561931948",
+    "summary": "一篇 arXiv 论文（https://arxiv.org/abs/2609.00546）提出一种运行时无关的持久智能体架构，把智能体拆为持久的身份、私有记忆和带版本历史的代码，以及可替换的模型、harness、宿主服务器和交互界面。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月3日8时0分"
+  },
+  {
+    "id": "cmtksft9f044xroalkgsp2f49",
+    "title": "IT早报 0903：月之暗面启动港股 IPO、谷歌上线 Gemini 3.8 Flash、World Labs 发布 Atlas 世界模型、小米 18 Fold 官宣",
+    "url": "https://www.ithome.com/0/997/735.htm",
+    "summary": "IT之家 9 月 3 日早报汇总多条行业动态：月之暗面被曝本周以保密形式向港交所递交 A1 文件启动港股 IPO，公司回应不予置评；谷歌上线 Gemini 3.8 Flash 模型。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日7时57分"
+  },
+  {
+    "id": "cmtkrujdw03lxroalnmfcygoi",
+    "title": "Meta Muse Spark 从 1.1 迭代到 1.3，55 天内 3D 生成保真度显著提升",
+    "url": "https://x.com/alexandr_wang/status/2095299414235676948",
+    "summary": "Alexandr Wang 转发 @EnactraAI 对 Meta Muse Spark 1.1 → 1.2 → 1.3 的对比：同一建筑、仅凭照片生成 3D 仿真的任务中，几何、结构和视觉保真度显著提升，总成本保持在 $0.60，从 1.1 到 1.3 仅用 55 天。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月3日7时54分"
+  },
+  {
+    "id": "cmtksft9f0450roali4sl0z86",
+    "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+    "url": "https://www.ithome.com/0/997/732.htm",
+    "summary": "美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日7时50分"
+  },
+  {
+    "id": "cmtkrfmve03a8roal7jt08lwh",
+    "title": "Qwen 开发者团队开源 zg（zvec-grep）：统一 ripgrep、BM25 与向量搜索的本地优先搜索层",
+    "url": "https://www.marktechpost.com/2026/09/02/qwen-developers-open-sources-zg-zvec-grep-a-local-first-search-layer-unifying-ripgrep-bm25-and-vector-search",
+    "summary": "Qwen 开发者团队发布开源工具 zg（zvec-grep），将 ripgrep、BM25 与向量搜索统一到一个本地优先接口，代码以 Apache 2.0 许可发布在 zvec-ai GitHub 组织下，可通过 npm 安装 @zvec/zvec-grep，需 Node.js 22+，默认模型无需 GPU。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月3日7时48分"
+  },
+  {
+    "id": "cmtkrciz00387roalrckp4spj",
+    "title": "GPT-6-Astra 模型代号被发现在 OpenAI API 上",
+    "url": "https://x.com/testingcatalog/status/2095297449095008332",
+    "summary": "TestingCatalog 称 GPT-6-Astra 模型 slug 已出现在 OpenAI API 上，推测若明天发布将是重要一周，并猜测可能先上线路由功能。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月3日7时46分"
+  },
+  {
+    "id": "cmtkrnbuf03hcroalerjhwriz",
+    "title": "Replit 宣布首个国际办公室落地伦敦，9月10日与 OpenAI 合办 Paul Graham 炉边对话",
+    "url": "https://x.com/Replit/status/2095297084576694553",
+    "summary": "Replit 宣布在伦敦设立其首个国际办公室，并与 OpenAI 合办一场晚间活动。活动为 2026年9月10日（周四）18：00-23：00 BST，地点为 London 的 Sunset Bar at Sea Containers（20 Upper Ground），包含 Amjad Masad 与 Paul Graham 的炉边对话，报名入口为 https://london-launch.replit.app/。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年9月3日7时45分"
+  },
+  {
+    "id": "cmtkrloy403fvroalr6276wvl",
+    "title": "Fable 5.1 增强 Claude Tag，可在 Slack 中生成汇报并核对数据矛盾",
+    "url": "https://x.com/noahzweben/status/2095296592744255774",
+    "summary": "Fable 5.1 让 Claude Tag 更加好用：示例中它根据指标表格和 Slack 中的其他数据生成临时领导层汇报文稿，期间发现一份与数字不一致的供应商报告并在继续之前标记出来。Claude Tag 已面向 Team 和 Enterprise 套餐在 Slack 中开放。",
+    "source": "X：Noah Zweben（@noahzweben）",
+    "date": "2026年9月3日7时43分"
+  },
+  {
     "id": "cmtkqamim023hroal3ieb6bdz",
     "title": "Meta 发布 Muse Spark 1.3，主打编码与长周期智能体任务",
     "url": "https://www.ithome.com/0/997/728.htm",
     "summary": "Meta 于 2026 年 9 月 2 日发布 AI 模型 Muse Spark 1.3，专为延长智能体工作流与增强编码能力设计，Meta 首席 AI 官 Alexandr Wang 称其编码能力超越 GPT-5.6 Sol、与 Claude Fable 5.1 持平。",
     "source": "IT之家（RSS）",
     "date": "2026年9月3日7时29分"
+  },
+  {
+    "id": "cmtkrfpdj03anroaljl4bjl9s",
+    "title": "fable51-worlds 开源：Claude Fable 5.1 智能体集群用代码重建可探索的真实街区",
+    "url": "https://github.com/PhiloLabs/fable51-worlds",
+    "summary": "fable51-worlds 项目发布由自主 Claude Fable 5.1 智能体集群端到端研究、建模并质检的真实街区重建，以纯 Three.js 应用交付，无需游戏引擎或专有 3D 格式。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月3日7时29分"
+  },
+  {
+    "id": "cmtkqz8ky02v4roalj4i5ui4i",
+    "title": "Databricks 介绍 Southern Company 的 SCOUT 风暴情报方案后续",
+    "url": "https://www.databricks.com/blog/southern-companys-scout-completing-storm-intelligence-story",
+    "summary": "Databricks 官方博客发布 Southern Company 的 SCOUT 风暴情报案例续篇，延续此前一篇对该公司相关实践的文章，补完风暴情报的整体故事。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年9月3日7时20分"
   },
   {
     "id": "cmtkpafm7016uroall9a4yysv",
@@ -16,12 +304,36 @@
     "date": "2026年9月3日7时1分"
   },
   {
+    "id": "cmtkqnd7102hrroalwrhai9a3",
+    "title": "BestBlogs 早报 09-03：Gemini 3.8 Flash 系列、Claude Code 实践与 Agent 评测要点汇总",
+    "url": "https://x.com/hongming731/status/2095290198477443221",
+    "summary": "BestBlogs 09-03 早报汇总十条 AI 内容：Google 发布 Gemini 3.8 Flash 与 Cyber，提升长周期编程与漏洞修复推理能力。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年9月3日7时18分"
+  },
+  {
+    "id": "cmtkqnd7102hsroalc62l8j91",
+    "title": "BestBlogs 早报 09-03：Gemini 3.8 Flash 升级，Anthropic 电商智能体指南与 GitHub Copilot 降本实践",
+    "url": "https://x.com/hongming731/status/2095290146396733489",
+    "summary": "本期早报围绕能力、工作过程与最终成本展开，精讲三篇：Google 发布 Gemini 3.8 Flash 系列含通用 Flash 与 Flash Cyber，内部漏洞发现成功率超 70%。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年9月3日7时17分"
+  },
+  {
     "id": "cmtkqamim023jroalayp4jog8",
     "title": "西班牙公司 Multiverse Computing 推出 Quasar 438B 模型，1M 词元上下文",
     "url": "https://www.ithome.com/0/997/726.htm",
     "summary": "西班牙 AI 公司 Multiverse Computing 推出 4，380 亿参数的推理模型 Quasar 438B，在 Artificial Analysis Intelligence Index v4.1.1 得分 43，为参与比较的欧洲模型中最高。",
     "source": "IT之家（RSS）",
     "date": "2026年9月3日7时16分"
+  },
+  {
+    "id": "cmtkqkrgq02g3roalmqptq5t4",
+    "title": "Tibo：ChatGPT 桌面应用已成为他的主力浏览器",
+    "url": "https://x.com/thsottiaux/status/2095288416292487289",
+    "summary": "Tibo 发推称，ChatGPT 桌面应用现在已成为他的主力浏览器，他的生产力从未如此之高。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年9月3日7时11分"
   },
   {
     "id": "cmtkngkzd04u7ro5qvo3kczcz",
