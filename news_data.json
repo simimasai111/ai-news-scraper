@@ -920,6 +920,30 @@
     "date": "2026年9月3日2时0分"
   },
   {
+    "id": "cmtlhfvh3093trow5twxd3161",
+    "title": "Hugging Face 联创 Thomas Wolf 宣布 NVIDIA 以 $12，930，300，000 收购 Hugging Face",
+    "url": "https://x.com/Thom_Wolf/status/2095482913835884711",
+    "summary": "Thomas Wolf 代表 Hugging Face 宣布，NVIDIA 将以 $12，930，300，000 收购 Hugging Face，并表示对用户当天没有任何变化。Wolf 回顾了 2016 年以来的历程，称团队将继续把 Hub 打造为开放、独立、计算无关的平台，并借助 NVIDIA 的资源继续推进开源 AI。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年9月3日20时3分"
+  },
+  {
+    "id": "cmtlh6jjw08xgrow51rm5eopi",
+    "title": "OpenAI CEO Sam Altman 批评 AI 算力扩张是\"不可持续的愚蠢行为\"",
+    "url": "https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout",
+    "summary": "OpenAI CEO Sam Altman 在采访中称当前 AI 基础设施热潮是\"不可持续的愚蠢行为\"，指出多家 neocloud 供应商在没有收入和客户支撑的情况下宣布大规模扩容，并称 OpenAI 自身扩张有真实需求支撑。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月3日20时0分"
+  },
+  {
+    "id": "cmtlh9jxh08zarow5t2nli6b9",
+    "title": "可灵 Kling 分享创作者 Qiguang 用 AI 演绎中国神话获 7500 万+ 播放",
+    "url": "https://x.com/Kling_ai/status/2095481941512380914",
+    "summary": "可灵 Kling AI 官方介绍眼镜店店主、自学成才的 AI 创作者 Qiguang 将中国神话打造成电影感 AI 梦境场景，获得 7500 万+ 播放。官方展示了其使用 Kling 构建精细世界的过程。",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "date": "2026年9月3日20时0分"
+  },
+  {
     "id": "cmtkdhxn801gxroc7xdlxyu6u",
     "title": "Pangram CEO 称我们正危险接近死互联网理论",
     "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo",
@@ -1088,6 +1112,318 @@
     "date": "2026年9月3日1时10分"
   },
   {
+    "id": "cmtlfzvwe06cprow597po3pck",
+    "title": "9月3日AI日报：Gemini 3.8 Flash、Claude Fable 5.1、Qwen3.8-Max-0902 等集中更新",
+    "url": "https://x.com/testingcatalog/status/2095468042398404869",
+    "summary": "TestingCatalog 发布9月3日AI日报，汇总多家公司动态。Gemini 3.8 Flash 上线，1M 上下文，12月31日前入门价 $0.75 / $3.75。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月3日19时4分"
+  },
+  {
+    "id": "cmtlh6jjx08xhrow52eyabvvj",
+    "title": "Meta 发布 Muse Spark 1.3，智能体任务提升明显且以低价切入",
+    "url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price",
+    "summary": "Meta 发布 Muse Spark 1.3，xhigh 档已可用，更强的 max 档目前为有限合作伙伴预览。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月3日19时45分"
+  },
+  {
+    "id": "cmtlgaox806xxrow5fnsybtcu",
+    "title": "Qwen 发布 E-Commerce Bench 长周期自主经营基准",
+    "url": "https://x.com/Alibaba_Qwen/status/2095476249556853100",
+    "summary": "通义千问（Qwen）发布 E-Commerce Bench，用于评测 Agent 在长周期自主商业运营中的表现。智能体以 ¥100，000 启动资金在线上商店运营 365 天，处理采购、谈判、定价、促销、库存和现金流，市场由真实电商数据驱动。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "date": "2026年9月3日19时37分"
+  },
+  {
+    "id": "cmtlfx7y806amrow5jk6y7foa",
+    "title": "百度联合 IFAW 发布 AI Guardian 濒危物种识别平台",
+    "url": "https://x.com/Baidu_Inc/status/2095472821971632236",
+    "summary": "百度宣布与 IFAW 合作推出 AI Guardian 平台，由 ERNIE 模型驱动，合作自 2020 年起已助力删除超过 18，000 条涉非法野生动物贸易的商品信息。平台基于 IFAW 提供的 100，000 张野生动物图像训练，可上传图片快速分类识别目标物种及其制品并给出置信度分数，已整合进 IFAW 非法贸易数据库自动筛查网络图片，网站为 ai4wcp.com。",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年9月3日19时23分"
+  },
+  {
+    "id": "cmtld5l7s03lyrow56d2uszx3",
+    "title": "Thomas Wolf 转发数学家 Youness Lamzouri 对 Claude 2/3 zeta 零点证明的简化人类版证明",
+    "url": "https://x.com/Thom_Wolf/status/2095453894025343188",
+    "summary": "Thomas Wolf 引用 @jdlichtman 的消息：其同事 Youness Lamzouri 产出了对 Claude 关于超过 2/3 zeta 零点论证的更简单的人类版证明消化。论文摘要称给出概念上更简短的无条件证明，证明超过 67.25% 的非平凡零点简单且位于临界线上，至少 83.62% 非平凡零点互不相同；原证明由 Anthropic 内部研究版 Claude 产出并经 Alpöge 和 Furman 验证，新证明用 Hilbert 空间不等式替代矩阵框架。作者评论 great mathematicians still lead on taste。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年9月3日18时8分"
+  },
+  {
+    "id": "cmtlfbodm05uyrow508lyexat",
+    "title": "Meta Muse Spark 1.3 在 OpenCode 免费开放",
+    "url": "https://x.com/kimmonismus/status/2095466152696668202",
+    "summary": "Meta Muse Spark 1.3 现已在 OpenCode 上免费使用。作者评论称最先进模型已便宜到无法计量，并称喜爱这种竞争带来的结果。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月3日18时57分"
+  },
+  {
+    "id": "cmtlf0ppe05n4row57epe9c9p",
+    "title": "机器人技术为何如此困难：一项系统性挑战清单",
+    "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+    "summary": "作者指出当前 AI 进展几乎全在知识工作领域，物理侧的通用机器人仍停留在测试设施和演示视频，且 demo 视频难以评估真实水平，可能只展示百次尝试中的一次成功。文章列出从手部灵巧性、视觉理解、规划反应、速度、力量、安全、续航散热、泛化边界情况到算力、规模化供应链和社会监管等十余项待克服的挑战，认为物理世界的 demo 与现实差距会比 LLM 基准与实际工作的差距更大。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月3日18时41分"
+  },
+  {
+    "id": "cmtlg0rqp06jxrow5mcer7ley",
+    "title": "风险投资人加文·贝克为 AI 数据中心辩护，称其或为美国工薪阶层史上最好的事",
+    "url": "https://www.ithome.com/0/998/111.htm",
+    "summary": "据《商业内幕》报道，Atreides Management 管理合伙人加文·贝克公开为 AI 数据中心辩护，称其让美国衰败小镇重焕生机，可能是美国工薪阶层有史以来遇到的最好事情。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日18时31分"
+  },
+  {
+    "id": "cmtld5l7m03lxrow525u6vnr3",
+    "title": "Quest Mobile 数据：腾讯 WorkBuddy 月活 658 万领先字节 TRAE Work 与阿里 Qodework",
+    "url": "https://x.com/foxshuo/status/2095452174516195589",
+    "summary": "Quest Mobile 的 7 月数据显示，AI 办公赛道中腾讯「WorkBuddy」月活 658 万，字节「TRAE Work」月活 190 万，阿里「Qodework」月活 23 万。",
+    "source": "X：阑夕 (@foxshuo)",
+    "date": "2026年9月3日18时1分"
+  },
+  {
+    "id": "cmtldjga003ujrow5ag28aw5g",
+    "title": "小红书与 vivo 联合打通 3D 图片全链路技术实践",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496302&idx=1&sn=cff53d02e6effd993cb6dd43ec976cce",
+    "summary": "小红书与 vivo 联合打通从 vivo 相册生成 3D 图到小红书发布、分发与消费的完整 3D 内容链路，并共同设计面向移动社交场景的新型 3D 格式。",
+    "source": "公众号：小红书技术（dots.llm）",
+    "date": "2026年9月3日18时17分"
+  },
+  {
+    "id": "cmtle856e04rrrow5okt3y64u",
+    "title": "玉伯分享两例用户反馈：YouMind 靠一站式创作与一致性生成吸引用户迁移",
+    "url": "https://x.com/lifesinger/status/2095455177390395641",
+    "summary": "YouMind 负责人玉伯称收到两例用户反馈，印证产品差异化：一是 All-in-One 创作工作室带来便捷，用户认为单工具比多工具方便；二是生图、生 PPT、生视频功能持续解决人物、风格等一致性问题，让 Lovart、LibTV 用户愿意迁移到 YouMind。附图为一封用户来信，称赞无需切换标签页即可完成研究、写作和生成视觉素材。作者表示打磨过程辛苦，但看到用户反馈和付款感到开心。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年9月3日18时13分"
+  },
+  {
+    "id": "cmtlbqf18022vrow5vvs1wdws",
+    "title": "摩尔线程宣布打通具身智能完整链路",
+    "url": "https://www.ithome.com/0/998/037.htm",
+    "summary": "摩尔线程在 2026 年半年度业绩说明会上表示，已打通具身智能从合成数据生成、大模型训练、仿真验证到端侧硬件部署的完整链路。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日17时9分"
+  },
+  {
+    "id": "cmtld5l7d03lwrow5ybaqtx6g",
+    "title": "从流星雨看 tokenizer：中文三字词编码后只是 1 个 token",
+    "url": "https://x.com/dongxi_nlp/status/2095451559718981953",
+    "summary": "作者以流星雨为例讲解 tokenizer 的工作方式：中文里三个字的流星雨，编码后只是 1 个 token，tokenizer 只关心词语在语料中出现的频率。引用内容对比了人类逐词组合理解语言与 AI 从编号关系逼近意义的不同起点。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年9月3日17时59分"
+  },
+  {
+    "id": "cmtldvlfd04a5row5fvrmz6ly",
+    "title": "奥尔特曼称 OpenAI Astra 模型已参与特朗普政府自愿审查",
+    "url": "https://www.ithome.com/0/998/066.htm",
+    "summary": "据 Axios 报道，OpenAI CEO 奥尔特曼证实特朗普政府已对即将发布的 Astra 模型进行自愿审查，并称这是富有成效的过程。Astra 将是 OpenAI 首个被划入关键（critical）网络安全能力等级的模型，政府官员在审查中可获得最长 30 天的模型访问权限，但白宫不打算公开这套审查框架。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日17时56分"
+  },
+  {
+    "id": "cmtlcplxd038drow5g806cy5n",
+    "title": "字节跳动拟议贷款据报从200亿美元扩至296亿美元，今年资本开支或达700亿美元",
+    "url": "https://x.com/thexpin/status/2095449219901604133",
+    "summary": "据ByteDance的拟议贷款据报因银行需求强劲从200亿美元扩大至296亿美元，或成为亚洲今年第二大美元贷款，但尚未签署。资金主要用于一般公司用途，利差为SOFR上方68个基点，低于上一笔离岸贷款的85个基点；此外ByteDance考虑今年最高700亿美元资本开支以扩建AI基础设施。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年9月3日17时50分"
+  },
+  {
+    "id": "cmtlcgvgb030yrow5ivedz3yk",
+    "title": "京东JoyInside上榜2026年《财富》中国最佳设计榜，构建AI Home生态",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzU0MjU0MDMzMw%3D%3D&mid=2247487482&idx=1&sn=4e5afd65496940901cb5e644717f5a4b",
+    "summary": "9月3日，京东旗下附身智能品牌JoyInside上榜2026年《财富》中国最佳设计榜。JoyInside实现从被动响应到主动服务的升级，通过自然对话或模糊指令操控全屋设备，已与近200家品牌达成技术合作，覆盖智能家居、厨房家电、健康医疗、智能玩具等品类；今年618期间搭载JoyInside的AI家电家居新品开门红52小时成交额环比增长200%。",
+    "source": "公众号：京东JoyAI",
+    "date": "2026年9月3日17时43分"
+  },
+  {
+    "id": "cmtlcs5ci03akrow5fs5pnxtg",
+    "title": "阿里云云栖大会 ApsaraConference2026 推出 Agent 主题系列活动",
+    "url": "https://x.com/alibaba_cloud/status/2095444742297239688",
+    "summary": "阿里云号召开发者带自己的 Agent 参加云栖大会 ApsaraConference2026，活动包括 Agent Passport Challenge、Agent Arena、数字人工作坊、Apsara Night Hub 及导览参观。官方称可现场体验 Agent Native 时代，注册入口见原文链接。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月3日17时32分"
+  },
+  {
+    "id": "cmtldvlfe04adrow5wataxzma",
+    "title": "消息称小鹏机器人采用固液电池方案推进量产，已定点一家二线电池企业",
+    "url": "https://www.ithome.com/0/998/051.htm",
+    "summary": "据\"极片 Lab\"爆料，小鹏机器人已确定采用固液（半固态）电池方案装机，并定点一家二线电池企业作为一级供应商，同时仍在接受更多电池企业送样测试。此前小鹏曾向比亚迪、国轩高科、中创新航、亿纬锂能等求购全固态电池未果，行业全固态电池仍是实验室样品；小鹏选择高比能软包固液电池，单体能量密度和安全性有提升。小鹏计划 2026 年实现人形机器人量产，2027 年起进驻全球小鹏门店及商业场景。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日17时30分"
+  },
+  {
+    "id": "cmtlb0eja01f2row5d7vfar4r",
+    "title": "GEB harness 魅力时刻",
+    "url": "https://x.com/chunxiangai/status/2095437342366699867",
+    "summary": null,
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年9月3日17时2分"
+  },
+  {
+    "id": "cmtlbqf18022prow5zsl94fvf",
+    "title": "腾讯 WorkBuddy 上线银河麒麟与统信 UOS 应用商店",
+    "url": "https://www.ithome.com/0/998/048.htm",
+    "summary": "腾讯 WorkBuddy 智能体工作台今日登陆银河麒麟操作系统和统信 UOS，并上架 openKylin、deepin 社区软件商店。官方称此次围绕系统登录联动、设备互联交互、智能技能调用、任务成果预览等核心链路做定制化适配，达成原生级运行效果，新用户可享 2000 免费积分。此前 WorkBuddy 已于 7 月发布鸿蒙 PC 版，定制版湾擎·WorkBuddy 已面向广东全省公务员开放使用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日17时26分"
+  },
+  {
+    "id": "cmtlbpjzn01uvrow5jp7yhch9",
+    "title": "Alibaba Cloud 本周六在曼谷举办 3 场 Agentic Tools 实操 Workshop",
+    "url": "https://x.com/alibaba_cloud/status/2095441698138866017",
+    "summary": "Alibaba Cloud 宣布本周六（9 月 5 日）13：00-18：00（GMT+7）在曼谷举办 3 场线下实操 Workshop：QwenWork 面向 AI 生产力、WonderClip 面向 AI 创意与营销、Qoder 面向 agentic coding。自带笔记本电脑即可参加，无需经验，名额有限，报名链接分别为 https://luma.com/f84wlqeh、https://luma.com/1m2dk1c0、https://luma.com/6oawm2t。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月3日17时20分"
+  },
+  {
+    "id": "cmtlbpjzn01uwrow5t1tpqs4n",
+    "title": "阿里云回顾 Qwen Conference Hong Kong 2026 大会盛况",
+    "url": "https://x.com/alibaba_cloud/status/2095436800940560614",
+    "summary": "阿里云回顾 Qwen Conference Hong Kong 2026 大会，内容涵盖多场主题演讲、展示以及关于 AI 落地实施和技术创新的交流，并表示敬请关注其后续活动。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月3日17时0分"
+  },
+  {
+    "id": "cmtlb1cra01fprow5g33b4du6",
+    "title": "KIM 称 OpenAI 帮助文档更新显示 GPT-Astra 临近发布，或即 GPT-6",
+    "url": "https://x.com/kimmonismus/status/2095434176346431895",
+    "summary": "作者 Kim 称 OpenAI 几小时前更新了帮助文章，似乎已在为 GPT-Astra 发布做准备。其引用的内容提到 OpenAI 暴露了一个公开分支，包含明确标注为 gpt6 的新 JavaScript 和 Python computer-use 环境，进一步支持 GPT-Astra 就是 GPT-6 的猜测。配图为 OpenAI FAQ 页面，提及 Daybreak Blue 使用 GPT-5.6 Sol、Daybreak Red 使用 GPT-5.6 Cyber，并说明 Astra 对多数 Daybreak 客户不提供 reduced refusals，登录 Codex 时可用 Daybreak 开关。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月3日16时50分"
+  },
+  {
+    "id": "cmtlakc1f0numroalv04ofm1u",
+    "title": "腾讯生态大会宣布 WorkBuddy 将连接麦克风、AI 眼镜和 AI 录音卡，7 月月活达 658 万",
+    "url": "https://x.com/thexpin/status/2095433663181709414",
+    "summary": "腾讯在生态大会上宣布计划将 WorkBuddy 连接麦克风、AI 眼镜和 AI 录音卡，把语音指令转化为已完成的任务。行业用户可创建并分享自定义 Skills 作为标准，另推出面向保险、资产管理和银行等机构的金融服务版。据 QuestMobile 数据，WorkBuddy 7 月月活 658 万，而阿里巴巴 Qodework 为 23 万。作者认为腾讯有先发优势，但领先未必持久。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年9月3日16时48分"
+  },
+  {
+    "id": "cmtl9xtve0n30roalrydjbk8l",
+    "title": "World Labs 发布从零训练的多模态世界模型 Atlas，李飞飞称其为相机条件世界模型新标杆",
+    "url": "https://x.com/AYi_AInotes/status/2095430712073847088",
+    "summary": "World Labs 宣布发布 Atlas，一个从零训练的多模态世界模型，李飞飞称其为同类中首个，并称之为有史以来最好的相机条件世界模型。Atlas 支持像素级精确的相机控制生成画面、从单张输入图像重建大场景、通过重切视频模拟时空、从一张或多张图像原生输出 3D 空间，以及将多张带位姿图像合成为一致的 3D 世界，应用场景覆盖 VFX 到机器人。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月3日16时36分"
+  },
+  {
+    "id": "cmtlbqf190231row5pi2esps4",
+    "title": "美国政府拟对进口芯片加征新一轮关税，力促半导体制造业回流",
+    "url": "https://www.ithome.com/0/998/013.htm",
+    "summary": "美国商务部长卢特尼克当地时间周三表示，政府正考虑新一轮进口半导体关税措施，可能提高外国芯片关税，并对在美建厂企业推出类似制药行业的关税减免政策。美国此前已对部分先进半导体征收 25% 关税，新措施影响范围可能扩大至消费电子、数据中心服务器等产品；台积电、美光等企业已在美投资，当前约 1.2 万亿美元资金用于美国半导体产业建设。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日16时34分"
+  },
+  {
+    "id": "cmtlan0lq0nwuroalqdzw64ii",
+    "title": "阿里云转发 Qwen3.8-27B 开源模型技术评测，覆盖 2.4T 到 27B 多规模 Qwen 模型",
+    "url": "https://x.com/alibaba_cloud/status/2095429956792881350",
+    "summary": "阿里云转发 LMArena 对 Qwen3.8-27B 的技术评测内容。@arena 提到 Qwen3.8-Max-0902 前一天进入 Arena，本月早些时候还出现了更小的开源模型 Qwen3.8-27B；@petergostev 上周在旧金山分享了对该模型的技术评估，完整评测视频由 @arena 发布。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月3日16时33分"
+  },
+  {
+    "id": "cmtl9xtve0n31roalnu4cqhu7",
+    "title": "阿易评李飞飞团队 Atlas：几段手机视频生成可交互三维世界，降低机器人训练数据成本",
+    "url": "https://x.com/AYi_AInotes/status/2095429574293361122",
+    "summary": "阿易转发并解读李飞飞团队的 Atlas，称它能把几段普通手机视频生成带物理引擎的三维交互世界，可自由调整运镜、光照材质，物体碰撞按真实物理法则展开。作者认为这等于为具身智能机器人提供了低成本、可无限扩充的虚拟训练场，把机器人换环境需重新实拍采集的数据成本大幅降低，并提出了家庭保洁和工厂流水线哪个先落地的问题。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月3日16时31分"
+  },
+  {
+    "id": "cmtl8w6r50lyproal2ccyjoaj",
+    "title": "OpenAI 公开分支现标注 gpt6 的 JavaScript 与 Python 计算机使用环境，作者认为 GPT-Astra 即 GPT-6",
+    "url": "https://x.com/kimmonismus/status/2095422273700184468",
+    "summary": "作者发现 OpenAI 暴露了一个公开分支，其中包含明确标注 \"gpt6.\" 的新 JavaScript 和 Python computer-use 环境，并据此认为 GPT-Astra 实际上就是 GPT-6，称 Astra 已经很近。截图显示该 PR（#71）新增 gpt6-js-image 和 gpt6-py-image 两个环境镜像，分别安装 Node.js、Playwright、Chromium 和 Python、PyAutoGUI、Pillow 及 Chromium 桌面，在 Xvfb/Openbox 上运行，环境初始化不含 HTTP 执行服务、agent loop、持久 REPL 或 display（） helper，且 PR 不发布 registry 制品。引用内容中 @scaling01 称 Sam 此前多次谈及对 GPT-6 computer use 能力的期待，这次像是一个小 demo。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月3日16时2分"
+  },
+  {
+    "id": "cmtl9ofz80mvlroal6n8pcefj",
+    "title": "Anthropic 与 Lambda 签订 350 亿美元算力协议扩建 Claude 基础设施",
+    "url": "https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal",
+    "summary": "据 Reuters 援引匿名消息源，Anthropic 与 Nvidia 投资的云厂商 Lambda 签订 350 亿美元云计算协议。数据中心建在得克萨斯州 Nueces County，容量约 350 兆瓦，由 Hut 8 开发，Nvidia 持有该数据中心租约。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月3日16时22分"
+  },
+  {
+    "id": "cmtl9l9mv0mm6roal0jowoxme",
+    "title": "微软调整财报口径：业务改为智能体与基础设施、设备与消费者 2 板块，将披露 Azure 季度收入",
+    "url": "https://www.ithome.com/0/997/990.htm",
+    "summary": "Microsoft 于当地时间 9 月 2 日宣布调整财报口径，将业务从此前生产力和商业流程、智能云、更个人化计算 3 板块改为智能体与基础设施、设备与消费者 2 板块。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日16时21分"
+  },
+  {
+    "id": "cmtl9ys7q0n44roall6y3atep",
+    "title": "ContextPilot：用细粒度 RL 训练智能体主动管理上下文",
+    "url": "https://x.com/rohanpaul_ai/status/2095424306196947040",
+    "summary": "论文提出 ContextPilot，让智能体主动规划、存储、压缩或删除旧上下文，并通过 RL 学习哪些上下文决策真正有效。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月3日16时11分"
+  },
+  {
+    "id": "cmtl8vb4x0ly1roal67be0v74",
+    "title": "阿易打假英推误传：Karpathy 2小时11分钟 LLM 实操课的四条核心用法",
+    "url": "https://x.com/AYi_AInotes/status/2095419393564172303",
+    "summary": "作者澄清英推疯传的所谓 Karpathy 最新神课，实为他去年 2 小时 11 分钟讲如何把 LLM 当日常工具系统使用的视频。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月3日15时51分"
+  },
+  {
+    "id": "cmtl9l9mw0mmfroalw961kyyv",
+    "title": "阿里 Qoder 上线眼镜版，将接入千问和乐奇 AI 眼镜",
+    "url": "https://www.ithome.com/0/997/976.htm",
+    "summary": "据阿里云消息，阿里智能体编程平台 Qoder 于 9 月 3 日上线 Qoder 眼镜版，首批接入千问 AI 眼镜和乐奇 AI 眼镜。眼镜版集成全双工语音方案，用户可通过语音交互让 Agent 执行任务、追问进展、追加要求；高风险操作与任务关键节点会以卡片形式推送到视野边角，可语音确认或轻触镜腿完成审批。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日15时49分"
+  },
+  {
+    "id": "cmtl8hunq0lnxroalnsz32rka",
+    "title": "阿里云入选 Forrester 2026年Q3 数据安全平台报告 Notable Vendor",
+    "url": "https://x.com/alibaba_cloud/status/2095418046642847924",
+    "summary": "阿里云宣布入选 Forrester《The Data Security Platforms Landscape， Q3 2026》报告的 Notable Vendor。其提出以 AI 驱动的运行时治理保障数据安全，能力涵盖统一资产洞察、端到端生命周期管控、覆盖训练/RAG/推理的 AI Guardrails 以及 GDPR/HIPAA 等全球合规，并面向 agentic 时代提供免费试用入口。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月3日15时46分"
+  },
+  {
+    "id": "cmtl9l9mw0mmkroal7vmlb6fz",
+    "title": "优必选联合麦迪科技发布全国首款仿生医疗机器人优麦康养版，可选男女版本",
+    "url": "https://www.ithome.com/0/997/971.htm",
+    "summary": "优必选联合麦迪科技发布全国首款仿生医疗机器人优麦机器人康养版，可选男女形象版本，该产品曾在今年 6 月优必选 2026 年度全球科技发布会上首次亮相。机器人搭载高精度面部微表情模组与多自由度肢体结构，内置麦迪科技自研 CGA 老年综合评估题库，覆盖 10 项老年慢病管理核心维度，可完成血压血糖监测、复诊管理、用药风险预警等全流程智能问诊评估。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日15时40分"
+  },
+  {
+    "id": "cmtl7g3ln0kf6roal6gtpeyyh",
+    "title": "Paint.NET 5.2 Build 9739 通过 Wine 首次实验性支持 Linux，开发者称 AI 辅助 3 周进展超 12 年总和",
+    "url": "https://www.ithome.com/0/997/921.htm",
+    "summary": "开发者 Rick Brewster 于 9 月 1 日发布 Paint.NET 5.2 Build 9739 版，通过 Wine 首次实验性支持 Linux。最大障碍是 Paint.NET 长期依赖的 Direct2D 图形 API 在 Wine 上支持不完善，他自行开发了内部替代方案实现所需核心功能。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日15时3分"
+  },
+  {
+    "id": "cmtl9l9mx0mmlroal958gqkcp",
+    "title": "小米澎湃 HyperOS 4 超级小爱升级跨设备协作，支持手机、电脑对话同步",
+    "url": "https://www.ithome.com/0/997/970.htm",
+    "summary": "小米介绍澎湃 HyperOS 4 超级小爱跨设备协作升级，支持手机、电脑对话同步，换台设备还能接着聊，也可用手机一句话找到电脑文件、跨设备接续任务。海报显示 Windows 和 macOS 也可使用超级小爱 2.0，需电脑或平板下载最新版小米互联服务应用并登录同一小米账号，超级小爱需升级至 8.1 版本及以上并开启专家模式。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日15时39分"
+  },
+  {
+    "id": "cmtl8hunr0lnyroal7m5z8xk9",
+    "title": "阿里云将出席 AI Summit Budapest 2026，黄毅博士将主讲 Agentic Cloud 主题演讲",
+    "url": "https://x.com/alibaba_cloud/status/2095414715518492842",
+    "summary": "阿里云宣布参加 AI Summit Budapest 2026，黄毅博士（Dr. Ye Huang）将于 2026 年 9 月 7 日 10：20 在 MBH Bank Visionary Stage 发表演讲，主题为 Ship the Next - Agentic Cloud for AI Innovation，探讨 Agentic Cloud 如何塑造下一波 AI 创新。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月3日15时32分"
+  },
+  {
     "id": "cmtl6q4790jsfroal7c9w8t6i",
     "title": "YouMind 团队开始正式给 AI Agents 发薪",
     "url": "https://x.com/lifesinger/status/2095406976872362377",
@@ -1096,12 +1432,60 @@
     "date": "2026年9月3日15时2分"
   },
   {
+    "id": "cmtl7g3lm0kezroalei2e94cc",
+    "title": "微软经典版 Outlook 本月为商业用户功能区新增 Copilot 专属按钮",
+    "url": "https://www.ithome.com/0/997/952.htm",
+    "summary": "微软计划本月起面向所有经典版 Outlook 商业用户部署功能区 Copilot 专属按钮，公告编号 MC1441784，保留侧边栏并新增简化访问入口。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日15时21分"
+  },
+  {
+    "id": "cmtl7fbzp0k88roals9770vif",
+    "title": "Qwen3.8-Flash 上线 QwenWork Standard 模式：任务生成提速 2 倍、token 消耗减少 75%",
+    "url": "https://x.com/alibaba_cloud/status/2095411416832373045",
+    "summary": "阿里云宣布 Qwen3.8-Flash 在 QwenWork 的 Standard 模式上线，任务生成速度提升 2 倍，token 消耗减少 75%。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月3日15时19分"
+  },
+  {
+    "id": "cmtl7g3lm0kf2roal1412gl06",
+    "title": "消息称字节跳动将获得约 296 亿美元银团贷款",
+    "url": "https://www.ithome.com/0/997/943.htm",
+    "summary": "据第一财经报道，字节跳动正推进 296 亿美元（约合 1，993.99 亿元人民币）银团贷款，若完成将成为 2026 年亚洲规模第二大的美元计价银团贷款，仅次于软银 3 月的 400 亿美元过桥融资。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日15时19分"
+  },
+  {
+    "id": "cmtl7mbhs0kr2roalw3zoo42u",
+    "title": "OpenCode 要求使用 OpenCode Go 的工具补充 x-opencode-session 请求头",
+    "url": "https://x.com/opencode/status/2095410501400289576",
+    "summary": "OpenCode 发文称部分使用 OpenCode Go 的工具缺失 x-opencode-session 请求头，导致无法优化 prompt caching。受影响用户将收到含个性化修复建议的邮件；自 09/06 起，缺失该请求头的请求可能报错。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年9月3日15时16分"
+  },
+  {
+    "id": "cmtl7g3ln0kf7roal95a374ze",
+    "title": "奥尔特曼：OpenAI 肯定会研发人形机器人",
+    "url": "https://www.ithome.com/0/997/918.htm",
+    "summary": "OpenAI 今年创立机器人部门，正在定制机电执行器、仿真流程和机器人数据采集等具身智能领域探索。CEO 奥尔特曼在《Sources Podcast》表示肯定会研发人形机器人，因为现实世界为人类设计；但形态并非最关键，机器人大脑才是核心。他认为人形机器人近期不会走入家庭，将先用于数据中心建设维护等工业领域，面向个人的通用机器人是长期目标。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日14时58分"
+  },
+  {
     "id": "cmtl6fytz0jl6roal8donbcuo",
     "title": "Perplexity 开源 Rust + Metal 推理引擎 Lily，专为 Apple 硅上的 Qwen3.6-35B-A3B 打造",
     "url": "https://www.marktechpost.com/2026/09/02/perplexity-open-sources-lily-a-rust-metal-inference-engine-for-qwen3-6-35b-a3b-on-apple-silicon",
     "summary": "Perplexity 开源了支撑其 Hybrid Compute 的本地推理引擎 Lily，用 Rust 驱动生成循环、手写 Metal kernel 执行模型，不依赖 PyTorch 或 MLX，仅针对 Qwen3.6-35B-A3B 这一个模型。",
     "source": "MarkTechPost（RSS）",
     "date": "2026年9月3日14时57分"
+  },
+  {
+    "id": "cmtl7g3ln0kfaroalrssxi1a0",
+    "title": "博主因特斯拉 FSD 超速收到罚单并要求特斯拉承担责任",
+    "url": "https://www.ithome.com/0/997/914.htm",
+    "summary": "特斯拉内容创作者 @DrKnowItAll16 称其 Cybertruck 在开启 FSD（监督版）时超速收到罚单，并公开要求特斯拉支付罚款，此举更多是象征性的。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月3日14时48分"
   },
   {
     "id": "cmtl5nhyl0is0roaljfz8jzfb",
