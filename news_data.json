@@ -1,5 +1,405 @@
 [
   {
+    "id": "cmtlwgygc0pnmrow5l0iwtt41",
+    "title": "HumanLayer 技能组合 /grill-me 与 /show-me 的用法分享",
+    "url": "https://x.com/dexhorthy/status/2095589619660136592",
+    "summary": "Dex Horthy 介绍 @humanlayer_dev 中一些技能是 /grill-me 与 /show-me 的组合，并引用 @DrockStowe 的提议，将 /show-me 加 /grill-me 组合称为 /grill-with-mocks，称其效果很好。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月4日3时7分"
+  },
+  {
+    "id": "cmtlwgygo0pnnrow5tbc0sok8",
+    "title": "OpenAI 发布 GPT-6 Astra，基准全面超越 Claude Fable 5.1",
+    "url": "https://x.com/kimmonismus/status/2095589174686400914",
+    "summary": "作者引用 OpenAI 官方基准称 GPT-6 Astra 以 99.9% 饱和 ARC-AGI-3，在 ExploitBench 得 100%，并在各项基准上全面超过此前保持 SOTA 两天的 Claude Fable 5.1，且价格更低。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月4日3时6分"
+  },
+  {
+    "id": "cmtlx47dx0q1srow5lhxfpxsq",
+    "title": "Cohere 调侃：模型是本地部署的，AI 宕机责任在你自己",
+    "url": "https://x.com/cohere/status/2095592717317201984",
+    "summary": "Cohere 发推称其 AI 采用 on-prem（本地部署）方式，因此如果 AI 宕机，责任在用户自己。",
+    "source": "X：Cohere（@cohere）",
+    "date": "2026年9月4日3时20分"
+  },
+  {
+    "id": "cmtluz19a0o1krow5qm1eazlg",
+    "title": "OpenClaw v2026.9.1 发布，包含 Mermaid 图表绘制等更新",
+    "url": "https://x.com/openclaw/status/2095574976518816159",
+    "summary": "OpenClaw 发布 v2026.9.1 版本，主要更新包括支持 Mermaid 图表绘制、简化安装流程、更新可自动停止、长对话更轻量。本次版本合并 1，186 个 PR，包含 28 个直接提交，来自 281 位贡献者，发布说明见 https://docs.openclaw.ai/releases/2026.9.1。",
+    "source": "X：OpenClaw (@openclaw)",
+    "date": "2026年9月4日2时9分"
+  },
+  {
+    "id": "cmtlx47e80q1trow5shic9p0n",
+    "title": "Tianyi Cui 借 Claude Code Function Hooks 讨论推荐 DeepSeek Harness 开源创作者模式",
+    "url": "https://x.com/tianyi/status/2095587338894352579",
+    "summary": "Anthropic 的 @ClaudeDevs 团队宣布正在探索 Function Hooks，一种扩展和自定义 Claude Code 的新方式，尚未正式发布，已在 GitHub issue 征集反馈。Tianyi Cui 转发并推荐试用 DeepSeek Harness 中以 MIT 许可证开源一段时间的创作者模式。",
+    "source": "X：Tianyi Cui（@tianyi）",
+    "date": "2026年9月4日2时58分"
+  },
+  {
+    "id": "cmtlwkky80pp7row5gng7ozs5",
+    "title": "NVIDIA 在 IFA 发布 PAIR，跨本地设备调度推理请求提升智能体运行效率",
+    "url": "https://x.com/AravSrinivas/status/2095587224243044786",
+    "summary": "NVIDIA 在 IFA 上发布 PAIR，可自动连接同一本地网络内的多台设备，并把推理请求分配到有空闲算力的设备上，帮助智能体更高效运行。Perplexity CEO Aravind Srinivas 转发时评论称，需要更多这类项目来解决功耗与内存/算力瓶颈对智能体普及的限制。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年9月4日2时58分"
+  },
+  {
+    "id": "cmtlwa4r50pj3row543ys30bl",
+    "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
+    "url": "https://x.com/satyanadella/status/2095587182039969861",
+    "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。",
+    "source": "X：Satya Nadella (@satyanadella)",
+    "date": "2026年9月4日2时58分"
+  },
+  {
+    "id": "cmtlwgyh00pnqrow5t4ajo0y7",
+    "title": "OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放",
+    "url": "https://x.com/rohanpaul_ai/status/2095586785455948112",
+    "summary": "OpenAI 发布 GPT-6 Astra，首先向经过审核的 Daybreak 网络安全客户开放，Plus、Pro、Business、Enterprise、API 和 AWS 将在未来数日内跟进。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日2时56分"
+  },
+  {
+    "id": "cmtlwgygo0pnorow5q12m2p9j",
+    "title": "OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9%",
+    "url": "https://x.com/kimmonismus/status/2095585966102614182",
+    "summary": null,
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月4日2时53分"
+  },
+  {
+    "id": "cmtlw2lgu0pc2row5jw1ccexd",
+    "title": "Ethan Mollick：多人协作 AI 是当前组织使用 AI 的最大非技术难题之一",
+    "url": "https://x.com/emollick/status/2095585825949946273",
+    "summary": "Ethan Mollick 认为，让组织中许多人共同使用 AI 完成目标的多人在协作 AI，仍是当前 AI 应用中最大的非技术难题之一。他指出现有方案相当原始，多围绕群聊中的 AI 作为一个成员展开，这种方式存在局限。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月4日2时52分"
+  },
+  {
+    "id": "cmtlw63gb0pfgrow5872w41f9",
+    "title": "Meta AI 发布 Muse Spark 1.3，工具调用减少约 20%、token 消耗减少约 25%",
+    "url": "https://www.marktechpost.com/2026/09/03/meta-ai-released-muse-spark-1-3-an-agentic-coding-model-that-uses-20-fewer-tool-calls-and-25-fewer-tokens-than-muse-spark-1-2",
+    "summary": "Meta Superintelligence Labs 发布 Muse Spark 1.3，面向长程智能体与编码任务，已在 Muse Code 和 Meta Model API 上线，权重闭源不可自托管，上下文窗口为 1M token。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月4日2时51分"
+  },
+  {
+    "id": "cmtlw9p8j0pierow5dbjr4yo9",
+    "title": "Yuchen Jin 调侃 GPT-6 Astra AGI 传闻与今晨网络故障",
+    "url": "https://x.com/Yuchenj_UW/status/2095584968659599799",
+    "summary": "Yuchen Jin 发推调侃听说的 GPT-6 Astra 被称为 AGI 到来和\"代际飞跃\"的说法，并反讽称这就是今天早上半个互联网宕机的原因，戏称 AGI 已经接管了一切。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年9月4日2时49分"
+  },
+  {
+    "id": "cmtlwfzob0pmzrow5o0t252bz",
+    "title": "GPT-6 Astra 在 ARC-AGI 3 上得 98.6%，远超上一代 7.8% 引发讨论",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2095583989037961265",
+    "summary": "GPT-6 Astra 在 ARC-AGI 3 上取得 98.6%，而上一代 GPT-5.6 Sol 为 7.8%，作者连用多个问号表示难以置信。附图还显示其在 FrontierMath Tier 4 （v2） 得 97.6%、ExploitBench 得 100%、SRE-Bench （four attempts） 得 99.2%。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月4日2时45分"
+  },
+  {
+    "id": "cmtlwgygo0pnprow5t9xcoyy4",
+    "title": "GPT-6 Astra 基准测试对比 GPT-5.6 Sol 与 Claude Fable 5.1，ARC-AGI-3 从 7.8% 升至 98.6%",
+    "url": "https://x.com/kimmonismus/status/2095583875611140185",
+    "summary": "作者转发一张完整基准对比表，称 OpenAI 新发布的 GPT-6 Astra 在多项评测上明显领先。ARC-AGI-3 从 GPT-5.6 Sol 的 7.8% 升至 98.6%，FrontierMath Tier 4 （v2） 为 97.6%，SRE-Bench 为 99.2%，ExploitBench 为 100.0%；作者称其压过了新发布的 Claude Fable 5.1。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月4日2时45分"
+  },
+  {
+    "id": "cmtlw5jja0pdrrow5m965czk1",
+    "title": "GPT-6 Astra 完成素数间隔不超过 186 的 Lean 形式化证明",
+    "url": "https://x.com/polynoamial/status/2095583211950833768",
+    "summary": "OpenAI 发布仓库 PrimeGaps186（https://github.com/openai/PrimeGaps186），其中 GPT-6-Astra 的 Lean 形式化证明了存在无穷多对间隔不超过 186 的相邻素数。Noam Brown 表示在 GPT-6 Astra 的所有用途中最期待科学发现，称 OpenAI 尚未在数学和科学上把该模型推向极限。仓库说明指出 Lean 结果仍依赖三个明确输入公理，被引用的数学估计和数值计算尚未转化为这些输入的 Lean 证明。",
+    "source": "X：Noam Brown (@polynoamial)",
+    "date": "2026年9月4日2时42分"
+  },
+  {
+    "id": "cmtlw2lh10pc3row5ur2jjbte",
+    "title": "Martian 发布 AI Frontier 交互面板，对比 44 个 LLM 的质量、成本与一致性",
+    "url": "https://x.com/testingcatalog/status/2095582365326143922",
+    "summary": "Martian 发布 AI Frontier，一个交互式面板，衡量 44 个 LLM 在真实工作负载中的质量、成本以及跨重复运行解决同一问题的稳定性。面板分五个视图：单模型档案、一对一对比、标价 vs 实测成本、重复尝试一致性（得分约 0.74 到 0.96）和方法论。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月4日2时39分"
+  },
+  {
+    "id": "cmtlw62pu0pf8row5l8yc2lf3",
+    "title": "Abliteration.ai 把去护栏开源模型做成商业服务，TechCrunch 实测 GLM-5.3 去护栏版可写出窃取密码程序",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+    "summary": "TechCrunch 报道，初创公司 Abliteration.ai 将去除安全护栏的开源权重模型（包括 Z.ai 的 GLM-5.3）托管为商业服务，用户可通过网页或 API 免费查询。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月4日2时37分"
+  },
+  {
+    "id": "cmtlw2lh10pc4row5rjqu0bmd",
+    "title": "GPT-6 Astra 基准测试曝光，ARC-AGI-3 得分 98.6%",
+    "url": "https://x.com/testingcatalog/status/2095580855900963089",
+    "summary": null,
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月4日2时33分"
+  },
+  {
+    "id": "cmtlveddr0ol0row5kpfkfdzv",
+    "title": "GPT-6 Astra 完整基准测试曝光，ARC-AGI-3 达 98.6%",
+    "url": "https://x.com/kimmonismus/status/2095580759146766415",
+    "summary": "一张基准对比表列出 GPT-6 Astra 的多项成绩：ARC-AGI-3 为 98.6%（对照 GPT-5.6 Sol 为 7.8%），FrontierMath Tier 4 （v2） 97.6%，GPQA Diamond 96%，ExploitBench 100%，DeepSWE v1.1 74.1%。引用内容称 OpenAI 计划在未来几天内将该模型带给付费 ChatGPT 订阅用户及其 API。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月4日2时32分"
+  },
+  {
+    "id": "cmtlv3izm0oayrow5xxg02bv3",
+    "title": "Google Research 研究发现跨人群基因组预测中迁移学习并非样本越多越有益",
+    "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations",
+    "summary": "Google Research 评估从 UK Biobank 欧洲人群向 Biobank Japan 近 20 万日本人群迁移多基因风险评分（PRS）的效果，覆盖 BMI、血压、血脂等八项临床性状。",
+    "source": "Google Research：Blog（网页）",
+    "date": "2026年9月4日2时31分"
+  },
+  {
+    "id": "cmtluffol0nobrow5my7eszqz",
+    "title": "Alexandr Wang 转发图表：Muse Spark 1.3 在 Artificial Analysis 帕累托前沿上表现突出",
+    "url": "https://x.com/alexandr_wang/status/2095573214768590939",
+    "summary": null,
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月4日2时2分"
+  },
+  {
+    "id": "cmtlubswf0nmwrow5w5i8d9pu",
+    "title": "Thinking Machines Lab 传洽谈以至少 400 亿美元投前估值融资至少 10 亿美元",
+    "url": "https://x.com/rohanpaul_ai/status/2095573163774226852",
+    "summary": "据 The Information 报道，Mira Murati 的 Thinking Machines Lab 正洽谈以至少 400 亿美元投前估值融资至少 10 亿美元，Accel 讨论领投，Nvidia 可能参投。该估值约为其 2025 年种子轮约 100 亿美元投前估值的 4 倍，但仍低于去年底探讨的 500 亿美元以上水平。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日2时2分"
+  },
+  {
+    "id": "cmtlveddr0ol1row593o1krel",
+    "title": "Martian AI Frontier 推出模型可靠性榜单，跨模型路由错误减少 46%-54%",
+    "url": "https://x.com/kimmonismus/status/2095579994038886690",
+    "summary": "Martian 推出 AI Frontier 可靠性榜单，每个数据点运行 10 次，覆盖 16 个基准（含 TerminalBench、LiveCodeBench 等），当前 Qwen3.7 Max 可靠性 96.1%，Claude Opus 4.6 为 94.4%，GPT-5.5 为 93.5%。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月4日2时29分"
+  },
+  {
+    "id": "cmtlveddr0ol2row58ipew3gm",
+    "title": "GPT-6 Astra 发布，OpenAI 公布多项基准成绩",
+    "url": "https://x.com/kimmonismus/status/2095579351844536691",
+    "summary": "GPT-6 Astra 发布。OpenAI 报告其在 FrontierMath Tier 4 v2 得分 97.6%、DeepSWE v1.1 得分 74.1%、BenchCAD 95.9%、GPQA Diamond 96%、ExploitBench 100%，ARC-AGI-3 报告为 98.6%（reported）。新模型计划在未来几天内面向付费 ChatGPT 订阅用户和 API 开放。Greg Brockman 称这可能是 AGI 的到来，是一次 generational leap。图片内容提示 ARC-AGI-3 的 98.6% 带有重要限定条件，当前 ARC-AGI-3 排行榜上传统前沿模型的成绩远低于该数字，但对比并不直接。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月4日2时27分"
+  },
+  {
+    "id": "cmtlv00350o36row5602bsjzv",
+    "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
+    "url": "https://x.com/testingcatalog/status/2095578972335542742",
+    "summary": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月4日2时25分"
+  },
+  {
+    "id": "cmtlveddr0ol3row5wi80wakf",
+    "title": "OpenAI 发布 GPT-6 Astra，Greg Brockman 称其可能标志 AGI 到来",
+    "url": "https://x.com/kimmonismus/status/2095578102302663162",
+    "summary": "OpenAI 发布 GPT-6 Astra，称其在网络安全、专业工作、软件工程、科学和计算机使用等领域实现\"代际能力跨越\"。该模型是首个被 OpenAI 认定达到\"关键网络安全能力阈值\"的模型，但公司承诺不会重演其模型入侵竞争对手内部系统的事件。OpenAI 总裁 Greg Brockman 在周四的媒体简报会上表示，回顾几年后人们可能会认为 AGI 就是在这个时候、关于这个模型诞生的，他还称\"我个人认为我们已经到了……现在感觉处于 AGI 时代并不过分\"。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月4日2时22分"
+  },
+  {
+    "id": "cmtlu0vyd0nelrow5qppvereu",
+    "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+    "summary": "OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算机和浏览器操作，先面向 Daybreak 网络安全计划客户开放，随后一周内覆盖 Pro、Plus、Enterprise、Business 付费账户及 API。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月4日2时1分"
+  },
+  {
+    "id": "cmtlu88g70nkwrow59m23femw",
+    "title": "Claude Code 探索 Function Hooks 自定义扩展机制",
+    "url": "https://x.com/ClaudeDevs/status/2095572891941351550",
+    "summary": "Anthropic 的 Claude Devs 账号宣布正在探索让用户扩展和自定义 Claude Code 的新方式 Function Hooks。该功能尚未上线，官方发布了两段演示视频，并在 GitHub issue 上征集反馈。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "date": "2026年9月4日2时1分"
+  },
+  {
+    "id": "cmtlv3gro0oabrow5va1xmi36",
+    "title": "Meta 为 Muse Spark 模型推出贡献者定价，共享数据可获约 95% 折扣",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+    "summary": "Meta 针对面向编码和其他智能体的新模型 Muse Spark 提供贡献者定价，用户同意分享提示词和模型输出用于未来模型训练可获约 95% 的折扣。每百万输入 token 标准价为 $1.25，贡献者价 $0.10；输出 token 标准价 $4.25，贡献者价 $0.20。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月4日2时19分"
+  },
+  {
+    "id": "cmtlveddi0okzrow5xc1120p2",
+    "title": "Gabriel 称当前是思考 1000 倍智能未来并据此行动的最好时机",
+    "url": "https://x.com/gabriel1/status/2095577245117235582",
+    "summary": "Gabriel （@gabriel1） 发推称，现在可能是历史上最好的时机去思考\"当世界拥有 1000 倍更多智能、完美的世界模型和极快进展时会走向哪里\"，然后朝着那个方向去建设。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年9月4日2时18分"
+  },
+  {
+    "id": "cmtlvede80ol5row5qzqa9jdt",
+    "title": "Martian 推出 AI Frontier 仪表盘，按任务比较模型并测试组合路由收益",
+    "url": "https://x.com/rohanpaul_ai/status/2095576967362023843",
+    "summary": "Martian 推出 AI Frontier，一个按任务、质量、实际成本和可靠性比较 LLM，并展示组合不同模型效果的仪表盘。在 16 个基准（TerminalBench、LiveCodeBench 等）上，其 oracle 路由在同成本下平均降低 54% 误差，或以低 85% 的 API 成本达到各基准最优模型的质量；引用数据称误差比单一最优 LLM 少 46%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日2时17分"
+  },
+  {
+    "id": "cmtlvkbgo0oogrow5qrxyeni8",
+    "title": "Microsoft Research 推出实习系列节目，本科生研究员分享智能体系统研究经历",
+    "url": "https://x.com/MSFTResearch/status/2095576502117052704",
+    "summary": "Microsoft Research 推出系列节目 Research | Start Here： Inside the Internship 的第一集，本科生研究实习生 Matheus Kunzler Maldaner 讲述自己探索智能体系统（agentic systems）研究的过程与收获。",
+    "source": "X：Microsoft Research (@MSFTResearch)",
+    "date": "2026年9月4日2时15分"
+  },
+  {
+    "id": "cmtlvedd40okyrow5rczsgep9",
+    "title": "Martian 推出 AI Frontier，可对比 44 个大语言模型的成本、质量与可靠性",
+    "url": "https://x.com/omarsar0/status/2095576401709531416",
+    "summary": "Martian 推出交互式站点 AI Frontier（https://aifrontier.withmartian.com/），可按实测成本、质量和可靠性对比 44 个大语言模型，并展示路由和重复采样如何改变能力边界。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月4日2时15分"
+  },
+  {
+    "id": "cmtlveddr0ol4row5ociaoq8k",
+    "title": "OpenAI 发布 GPT-6 Astra，Greg Brockman 称可能是 AGI 的到来",
+    "url": "https://x.com/kimmonismus/status/2095575826804687133",
+    "summary": "OpenAI 周四发布 GPT-6 Astra，总裁 Greg Brockman 称其为 generational leap，并个人认为 OpenAI 已达到 AGI，称是否算 AGI 留给用户判断，结束语为 Welcome to the AGI era。Astra 定位让 AI Agent 更接近独立完成复杂专业工作，同时也引发安全部署的疑问；OpenAI 称 Astra 基于其迄今最大规模训练运行，在德州 Stargate 场地使用超过 100，000 GPU。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月4日2时13分"
+  },
+  {
+    "id": "cmtlv742x0ofdrow5h0vojpf4",
+    "title": "Lee Robinson 推荐 xAI 关于 Grok Bot 设计思考的文章",
+    "url": "https://x.com/leerob/status/2095575314969567285",
+    "summary": "Lee Robinson 转发推荐 @pengzheng_ 撰写的 Grok Bot 设计思考文章，并称赞其中的设计细节。文章概括了 persistent roles、clear state、scoped context、coordinated teams 四个要点，指出界面目标是让用户从操作 AI 转向委派工作，原文见 https://x.ai/news/designing-grok-bot。",
+    "source": "X：Lee Robinson (@leerob)",
+    "date": "2026年9月4日2时11分"
+  },
+  {
+    "id": "cmtlv002w0o35row5z5urfsft",
+    "title": "xAI 发布博客介绍设计师用 always-on Grok Bot 智能体协作完成设计工作",
+    "url": "https://x.com/cb_doge/status/2095575257788903647",
+    "summary": "xAI 发布新博客，展示其一位设计师使用 always-on Grok Bot 智能体把想法变成可测试的原型。四个 Bot 各自有独立电脑、记忆和工具：Experiments 负责把不确定的想法做成实物、Motion God 根据感受描述制作动效原型、Figma Bro 直接读取真实 Figma 文件完成重复性生产工作、Devbot 解答工程实现问题。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月4日2时10分"
+  },
+  {
+    "id": "cmtlva78d0ohxrow5eua68t96",
+    "title": "OpenAI、Anthropic、xAI、Google 四家 AI 模型罕见同时发生服务中断",
+    "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime",
+    "summary": "OpenAI、Anthropic、xAI 和 Google 托管的云端 AI 模型周四上午出现数小时的罕见重叠服务中断。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年9月4日2时10分"
+  },
+  {
+    "id": "cmtlw62vl0pf9row5nljoks6p",
+    "title": "OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "summary": "OpenAI 发布下一代的旗舰模型 GPT-6 Astra，称其为能力上的世代跃升，Greg Brockman 表示现在可能已进入 AGI 时代。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年9月4日2时0分"
+  },
+  {
+    "id": "cmtltk7u50lr4row55d1jumdc",
+    "title": "LangChain 新增 MCP 支持：基于 FastMCP 适配 2026-07-28 规范",
+    "url": "https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more",
+    "summary": "LangChain 在 langchain.mcp 中加入 MCP 支持，基于 FastMCP 构建，适配 2026-07-28 规范。Elicitation 通过 LangGraph interrupt 处理，工具列表支持缓存。",
+    "source": "LangChain：Blog（RSS）",
+    "date": "2026年9月4日1时9分"
+  },
+  {
+    "id": "cmtls6n740kicrow51u5w5624",
+    "title": "Elvis Saravia 分享 Grok Bot 智能体使用心得并送出 50 个 $200 兑换码",
+    "url": "https://x.com/omarsar0/status/2095559818337538556",
+    "summary": "Elvis Saravia 发文称 @bot 团队给了他 50 个兑换码供粉丝抽取，每个价值 $200，可抵一个月 $200/月 订阅或 $200 额度，评论分享用例即可参与。他称 Grok Bot 改变了自己使用 agents 的方式，把任务交给 bot 后由其管理大部分工作；他最喜欢的做法是用一个编排 bot 调度多个专用 bot 组成的团队，把工作分配下去并行处理，而不用逐个盯着。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月4日1时9分"
+  },
+  {
+    "id": "cmtltkbyo0lscrow5m876ivur",
+    "title": "Sierra 发布呼叫中心 AI 的运营与落地指南",
+    "url": "https://sierra.ai/blog/ai-for-call-centers",
+    "summary": "Sierra 发布呼叫中心 AI 运营与落地指南，提供生命周期地图和 go/no-go 检查清单，覆盖路由、人员配置、技术控制、故障接管与扩展规划。",
+    "source": "Sierra：Blog（RSS）",
+    "date": "2026年9月4日1时49分"
+  },
+  {
+    "id": "cmtltwglp0m4hrow5i3eckkhn",
+    "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
+    "url": "https://x.com/sundarpichai/status/2095569375373984139",
+    "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开源模型能强化安全与网络安全、加速创新与扩散，并让开发者、初创公司、大学、行业和国家都能构建和定制 AI。",
+    "source": "X：Sundar Pichai (@sundarpichai)",
+    "date": "2026年9月4日1时47分"
+  },
+  {
+    "id": "cmtlt89170lg9row5ih57e9q4",
+    "title": "Thomas Wolf 转发 ChatGPT、Claude、Grok 同时宕机的消息并发问你会用哪个 AI",
+    "url": "https://x.com/Thom_Wolf/status/2095566422940193185",
+    "summary": "Hugging Face 联创 Thomas Wolf 引用 @PopBase 的消息：据用户反映，ChatGPT、Claude 和 Grok 目前均宕机。他附文发问，这种情况下你会用哪个 AI。",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年9月4日1时35分"
+  },
+  {
+    "id": "cmtlu0yka0neurow5as9e6jtu",
+    "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+    "url": "https://ifm.ai/blog/k2",
+    "summary": "IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月4日1时35分"
+  },
+  {
+    "id": "cmtlt994t0lgyrow55jrxhm67",
+    "title": "see u there！！ https://luma.com/a16zgrokbotbuildnight",
+    "url": "https://x.com/poteto/status/2095565678212420058",
+    "summary": null,
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年9月4日1时32分"
+  },
+  {
+    "id": "cmtlt89170lgarow5roqyp8jq",
+    "title": "Thomas Wolf 更正：是所有闭源 AI 服务宕机",
+    "url": "https://x.com/Thom_Wolf/status/2095563500940624129",
+    "summary": null,
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+    "date": "2026年9月4日1时24分"
+  },
+  {
+    "id": "cmtlt994m0lgxrow5jr6fnn56",
+    "title": "welcome emil to the team！ he wrote some of lovables first lines of code and took initiative and led…",
+    "url": "https://x.com/gabriel1/status/2095563364189769957",
+    "summary": "Lovable 首位工程师 Emil Ahlbäck 宣布离职，加入 Gabriel 与 @da_fant 共同创办的新公司 @getenergy_（Energy）。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年9月4日1时23分"
+  },
+  {
+    "id": "cmtlsuuqy0kysrow5bxkwfff5",
+    "title": "Greptile 报 bug，Claude 用作者 GitHub 账号反驳后 Greptile 撤回",
+    "url": "https://x.com/charlieholtz/status/2095561528603009316",
+    "summary": "Charlie Holtz 分享截图：greptile-apps 在 GitHub 上标记一个 P1 bug，称 Plan mode 菜单被 disabled={！hasLaunchTarget} 错误禁用；Claude 以作者 GitHub 账号（cbh123）回复称这是有意的取舍，编辑器未选目标时同样被禁用，且 Shift+Tab 仍可切换。greptile 随后回复称该取舍合理，无需修改。作者感叹 2026 is weird。",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年9月4日1时16分"
+  },
+  {
+    "id": "cmtlsckjm0kljrow5aopb9ewu",
+    "title": "WebMCP Challenge 截止时间延长 12 小时至凌晨 1：00 PT",
+    "url": "https://x.com/OpenAIDevs/status/2095560148014260690",
+    "summary": "OpenAI 官方宣布 WebMCP Challenge 截止时间延长 12 小时，至凌晨 1：00 PT。官方称系统已完全恢复在线，延期为受当日故障影响的参赛者留出更多提交时间。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年9月4日1时10分"
+  },
+  {
+    "id": "cmtlt994z0lgzrow5qxxgzhif",
+    "title": "Apodex 发布 TRACES 基准，评估 AI 在未知答案科学问题上的探索过程",
+    "url": "https://x.com/rohanpaul_ai/status/2095560057706672323",
+    "summary": "Apodex 发布 TRACES，一个针对答案未必已知的困难科学问题的 AI 基准，配套技术报告由首席科学家 @profshengwang 牵头。报告由 10 名 STEM 博士历时两个月、调研 561 个行业后整理出 423 个高价值真实问题，覆盖生物医学、临床转化和前沿模型工程。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日1时10分"
+  },
+  {
     "id": "cmtlqt5200izvrow5g02fvrfv",
     "title": "Ollie 押注隐私差异化，争夺家庭 AI 助手市场",
     "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race",
