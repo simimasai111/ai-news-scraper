@@ -1,5 +1,341 @@
 [
   {
+    "id": "cmtm0x7d00tpurow5n11rzoln",
+    "title": "GPT-6 Astra 登顶 Mercor APEX-Agents 榜单，法律金融咨询任务全面提升",
+    "url": "https://x.com/sherwinwu/status/2095619477262184601",
+    "summary": "GPT-6 Astra 在 Mercor 的 APEX-Agents 排行榜首次上榜即排名第一，Mean score 62.4%（第1），Pass@1 46.7%（第2），Mean 领先 Fable 5.1 0.4 分、Pass@1 落后 0.8 分。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年9月4日5时6分"
+  },
+  {
+    "id": "cmtm1fibf0u4hrow54s31t1hc",
+    "title": "OpenAI 提出 Defense Factory 持续防御概念与\"防御者窗口\"",
+    "url": "https://x.com/testingcatalog/status/2095618960880451955",
+    "summary": "TestingCatalog 转述 OpenAI 宣布 Defense Factory，一个依赖前沿模型的持续防御概念，指自动化的防御运营，用于持续发现、验证和修复漏洞。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月4日5时4分"
+  },
+  {
+    "id": "cmtm1zt4n0updrow5mxqo9na2",
+    "title": "GPT-5.6 Luna 登顶 OpenRouter 榜首，OpenAI 员工称其低调表现出色",
+    "url": "https://x.com/sherwinwu/status/2095626197220921489",
+    "summary": "OpenAI 的 Sherwin Wu 发帖称，在大家都在谈论 Astra 时，Luna 已悄然登顶 OpenRouter 榜单，位居第一，是一个很好的模型。其引用的推文指出，Luna 是很长时间以来首个登顶 OpenRouter 排行榜的闭源模型，价格与性能组合出色。榜单截图显示 GPT-5.6 Luna 本周用量 11.6T tokens，环比上涨 183%。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年9月4日5时33分"
+  },
+  {
+    "id": "cmtm1omo70ui8row55b1xcuaa",
+    "title": "Grok Bot for Enterprise 发布，对 Grok 和 Cursor 企业客户限时免费",
+    "url": "https://x.com/mntruell/status/2095625771541008756",
+    "summary": "Grok Bot for Enterprise 今日上线，未来两周对所有 Grok 和 Cursor 企业客户免费。作者称部署 Bot 的体验像让公司入职数千名能干的同事，它是其内部采用最广、能力最强的 AI 产品。链接：https://x.ai/news/grok-bot-for-enterprise",
+    "source": "X：Michael Truell (@mntruell)",
+    "date": "2026年9月4日5时31分"
+  },
+  {
+    "id": "cmtm1xhpk0unjrow59tsky880",
+    "title": "Perplexity 将把 Astra 引入 Comet 及云端浏览器沙箱",
+    "url": "https://x.com/AravSrinivas/status/2095625524068634808",
+    "summary": "Perplexity CEO Aravind Srinivas 表示 Astra 在 computer use 方面表现出色，将把它带到 Comet 以及支撑所有 computer 使用的云端浏览器沙箱，Evals 即将推出。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年9月4日5时30分"
+  },
+  {
+    "id": "cmtm1fib10u4erow5zt4nzsxo",
+    "title": "Grok Bot 企业版发布，Grok 与 Cursor 企业客户可免费试用两周",
+    "url": "https://x.com/cb_doge/status/2095622305615638776",
+    "summary": "Grok Bot for Enterprise 发布，Grok 和 Cursor Enterprise 客户可免费试用两周，并邀请整个组织成员参与，包括没有席位的人。原文称近几周已有数千个组织采用 Grok Bot，创建了数百万个 Bot。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月4日5时17分"
+  },
+  {
+    "id": "cmtm1j0qe0uchrow5ozapge42",
+    "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
+    "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
+    "summary": "OpenAI 发布 GPT-6 Astra，定位为计算机操作模型，提供 1，050，000 token 上下文窗口、128，000 最大输出 token，2026 年 4 月 30 日知识截止，OSWorld V2-Offline 得分 72.6%（GPT-5.6 Sol 为 65.7%），平均任务时间从约 75 分钟降至 40 分钟。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月4日5时16分"
+  },
+  {
+    "id": "cmtm1ctwz0u2drow5x2qs22db",
+    "title": "swyx 实测 OpenAI Astra：20B token 验证 AI 工程能力，成本低至每小时不到 $6",
+    "url": "https://x.com/swyx/status/2095621785953984782",
+    "summary": "swyx 转发 latent.space 对 OpenAI Astra 的实测：团队用超 20B token 把 Astra 投入各类 AI 工程任务，成本低于每小时 $6。",
+    "source": "X：swyx (@swyx)",
+    "date": "2026年9月4日5时15分"
+  },
+  {
+    "id": "cmtm1fibf0u4grow5dnglnfei",
+    "title": "Google Labs 推出实时协作 vibe coding 实验 Play with Putty，向美国用户开放候补名单",
+    "url": "https://x.com/testingcatalog/status/2095621545284481250",
+    "summary": "Google 宣布推出 Google Labs 新实验 Play with Putty，目前通过候补名单面向美国用户开放。该产品定位为协作式 vibe coding 工具，支持用户实时共同构建工具和网站。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月4日5时14分"
+  },
+  {
+    "id": "cmtm1ctwo0u2crow57f1stywj",
+    "title": "GPT-6 Astra 即将接入 Devin，成本比 Fable 5 低 64%",
+    "url": "https://x.com/jxnlco/status/2095621221010551142",
+    "summary": "Cognition 宣布 GPT-6 Astra 即将登陆 Devin。在 FrontierCode 1.1 上，Astra 表现与 Fable 5 相差 0.4 分以内，成本降低 64%，并在其内部测试基准上创下 SOTA，生成更全面的测试、更清晰的报告和更好的视频证据。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年9月4日5时13分"
+  },
+  {
+    "id": "cmtm1xhpk0unkrow52qftlbda",
+    "title": "Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首",
+    "url": "https://x.com/AravSrinivas/status/2095621195131695352",
+    "summary": "Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽度和深度研究任务上远超其他模型且更具成本效益，将很快向 Perplexity Computer 的 Pro 和 Max 用户开放。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年9月4日5时13分"
+  },
+  {
+    "id": "cmtm0x7ck0tptrow5lv66uj40",
+    "title": "Perplexity 评测 GPT-6 Astra：WANDR 得分 0.682 居首，单任务成本 $11.98",
+    "url": "https://x.com/perplexity_ai/status/2095620419906830788",
+    "summary": null,
+    "source": "X：Perplexity (@perplexity_ai)",
+    "date": "2026年9月4日5时10分"
+  },
+  {
+    "id": "cmtm1fib90u4frow5uf5xkvpp",
+    "title": "SPACE 论文提出技能引导自适应动作分块，长程 Agent 减少 78.9% LLM 调用",
+    "url": "https://x.com/dair_ai/status/2095617916284936502",
+    "summary": "论文《Act More， Decide Less》提出 SPACE，从成功轨迹归纳两级程序化技能，用子技能边界作为块边界监督，再经混合 on/off-policy 优化与 chunk-aware credit assignment 蒸馏出 primitive-chunk 策略。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年9月4日5时0分"
+  },
+  {
+    "id": "cmtlzhg0l0sfirow5guhvp6m8",
+    "title": "François Chollet 回应争议：ARC-AGI-3 校准无误，AI 六个月内从 <1% 升至 100%",
+    "url": "https://x.com/fchollet/status/2095605239269519771",
+    "summary": "François Chollet 表示，ARC-AGI-3 于今年 3 月发布时前沿模型得分低于 1%，曾引发部分人质疑基准本身有问题、聪明人类也无法得高分。他称基准校准良好，认真投入的普通人应能得 90% 以上，表现优于其人类基线即可得 100%；AI 在 6 个月内从 <1% 提升到 100%，显示该基准记录了智能体能力的快速上升，这一速度超出包括他们自己在内多数人的预期。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "date": "2026年9月4日4时9分"
+  },
+  {
+    "id": "cmtlz7o8r0s1lrow52ef24vzt",
+    "title": "astra 实测展示 SVG 生成能力",
+    "url": "https://x.com/jxnlco/status/2095605078342459529",
+    "summary": "Jason Liu 发帖称 astra 在生成 SVG 方面表现出色，并附上两个视频作为演示。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年9月4日4时9分"
+  },
+  {
+    "id": "cmtlyman80rnwrow52qwov5di",
+    "title": "OpenAI 发布 GPT-6 Astra，宣称可代用户在电脑上完成任务",
+    "url": "https://x.com/gabriel1/status/2095605066116055060",
+    "summary": "OpenAI 发布 GPT-6 Astra，官方称你在电脑上能做的任何事，Astra 都能快速替你完成。作者转发该消息并提到 @danielfradin 被发现，配图为界面选中 /daniel.fradin/Downloads/orange-table-dent.png 文件路径的截图。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年9月4日4时9分"
+  },
+  {
+    "id": "cmtlzac2r0s3urow5pvw64sz6",
+    "title": "Ethan Mollick 评价 Astra 更好保持心智理论，长时间运行漂移更少",
+    "url": "https://x.com/emollick/status/2095604776822083629",
+    "summary": "Ethan Mollick 发推称 Astra 的一个细微优点是心智理论保持得更好，最终成品中很少出现引用此前草稿或构建期工作的怪异内容，长时间运行时漂移也更少。他表示并不完美，但表现非常好。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月4日4时8分"
+  },
+  {
+    "id": "cmtlyman80rnxrow53mfhne0c",
+    "title": "Gabriel 感叹 OpenAI 每个月的发布都像过圣诞节",
+    "url": "https://x.com/gabriel1/status/2095604159198417220",
+    "summary": "Gabriel 发推称 openai makes every month feel like christmas，感叹 OpenAI 每个月的更新节奏让人充满惊喜。推文仅此一句，未提供更多细节。",
+    "source": "X：Gabriel (@gabriel1)",
+    "date": "2026年9月4日4时5分"
+  },
+  {
+    "id": "cmtm0r9z00tmkrow5gtxa5j36",
+    "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现",
+    "url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
+    "summary": "Rohan Paul 梳理 OpenAI GPT-6 Astra 117 页系统卡的要点：Astra 控制自身链式思维的能力从 GPT-5.6 Sol 的 16.1% 跃升至 60.9%，可监控性相应下降。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日4时55分"
+  },
+  {
+    "id": "cmtm0r9yj0tmirow5nalu7fl7",
+    "title": "Dex Horthy 调侃招聘方匿名预告候选人仍可被 AI 搜索识别",
+    "url": "https://x.com/dexhorthy/status/2095616076088332476",
+    "summary": "HumanLayer 的 Dex Horthy 发推称，招聘方仍然发送隐去姓名、改动细节的候选人预告，但他只需把内容粘贴进 deep research 工具就能查出对方是谁，认为这种做法已经失去意义。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月4日4时53分"
+  },
+  {
+    "id": "cmtm0qbj20tlvrow5pqvsu9qu",
+    "title": "NVIDIA 收购 Hugging Face 的消息传出，作者预期双方 AI 基础设施将深度整合",
+    "url": "https://x.com/dongxi_nlp/status/2095615677834895804",
+    "summary": "作者称 NVIDIA 收购了 Hugging Face，并预期未来两家会推出紧密集成一体的 AI infrastructure，期待 \"from_pretrained（）\" 带来最流畅最秒开的体验。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年9月4日4时51分"
+  },
+  {
+    "id": "cmtm0cxep0tb7row508sc541k",
+    "title": "Charlie Holtz 发布 Cloud Desktop，让云机器用起来像本地环境",
+    "url": "https://x.com/charlieholtz/status/2095615231078875216",
+    "summary": "Charlie Holtz 发布 Cloud Desktop，一种与云机器交互的新方式，让云机器用起来像 localhost。用户可以观看智能体工作，并在需要时随时接管控制。",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年9月4日4时49分"
+  },
+  {
+    "id": "cmtm0cxex0tb9row5n53iiohj",
+    "title": "Google DeepMind 等提出 Declarative Attention，让模型自行控制注意力以减少 KV cache 读取",
+    "url": "https://x.com/dair_ai/status/2095614750604267678",
+    "summary": "KAIST AI 与 Google DeepMind 等发布论文《Language Models Can Control Their Own Attention》。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年9月4日4时47分"
+  },
+  {
+    "id": "cmtm0cxep0tb8row546vfkz9s",
+    "title": "Charlie Holtz 附议 Ethan Mollick：多人协作式 AI 仍是当前 AI 应用的一大难题",
+    "url": "https://x.com/charlieholtz/status/2095614297812689349",
+    "summary": "Charlie Holtz 转发并附议 Ethan Mollick 的观点：多人协作式 AI，即组织中多人共同使用 AI 完成目标，是当前 AI 应用中最重要的非技术问题之一。Mollick 认为现有方案仍很原始，多基于把 AI 当作群聊中的一个成员，这种思路有局限。",
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年9月4日4时45分"
+  },
+  {
+    "id": "cmtm0cxf50tbarow5oanflyrd",
+    "title": "ARC Prize：GPT-6 Astra 以标准 harness 在 ARC-AGI-3 拿下 63% 得分",
+    "url": "https://x.com/testingcatalog/status/2095613562668401040",
+    "summary": "GPT-6 Astra 在 ARC-AGI-3 上以标准 harness 得分 63%，经新的 provider adapter harness 可达 99%，并在 96% 的关卡上动作效率超过受测人类中位数。ARC Prize 观察到它能将陌生环境转化为紧凑的符号世界模型，把游戏机制表示为逻辑规则并自建领域速记语言来跟踪状态和规划动作。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月4日4时43分"
+  },
+  {
+    "id": "cmtm0r9yt0tmjrow5uz7xu9gk",
+    "title": "GPT-6-Astra 发布点评：基准碾压 Fable 5.1，OpenAI 反超 Anthropic",
+    "url": "https://x.com/kimmonismus/status/2095613117904347260",
+    "summary": "作者点评 OpenAI 新发布的基础模型 GPT-6-Astra，认为基准显示其在浏览器操作、计算机操作、Excel、编码、药物发现、数学研究等领域达到专家水平，Sam Altman 和 Greg Brockman 称其可能接近 AGI。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月4日4时41分"
+  },
+  {
+    "id": "cmtlzop5k0sl1row540az8372",
+    "title": "Google DeepMind 等提出 Declarative Attention，模型在链式推理中自行控制注意力范围",
+    "url": "https://x.com/omarsar0/status/2095612805496164801",
+    "summary": "KAIST AI 与 Google DeepMind 等发布论文《Language Models Can Control Their Own Attention》。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月4日4时40分"
+  },
+  {
+    "id": "cmtlznu590skdrow5fu4juc74",
+    "title": "GPT-6 Astra 案例合集帖展示建筑设计全流程演示",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2095612681294328040",
+    "summary": "ZHO 发起 GPT-6 Astra 案例合集帖，转引他人视频演示建筑设计全流程：先设计平面图，在 Blender 中完成建模，再到 UE5 中完成渲染与建筑漫游视频，还包括细节细化和最终大图。引用作者认为前期概念方案可以用 GPT-6 完成。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月4日4时39分"
+  },
+  {
+    "id": "cmtlznu590skerow5jyl56hdv",
+    "title": "ZHO 评 GPT-6 Astra 官方文章：案例缺乏想象力，催促 OpenAI 尽快开放测试",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2095611038964302301",
+    "summary": "ZHO 表示看完 GPT-6 Astra 官方文章已经无感，只想直接测试，并催促 OpenAI 尽快发布。他认为文章里的很多案例太缺乏想象力，太多基于现有场景的惯性，如果模型真的强无敌，能力展现不止如此。原文附官方文章链接 https://openai.com/index/gpt-6-astra/。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月4日4时33分"
+  },
+  {
+    "id": "cmtm0cxf50tbbrow5t5wy5swn",
+    "title": "Sam Altman 发布 GPT-6 Astra 博客链接",
+    "url": "https://x.com/testingcatalog/status/2095610946567684177",
+    "summary": "TestingCatalog 转发 Sam Altman 推文，其称博客部署遇到小问题但内容很棒，并给出链接 https://openai.com/index/gpt-6-astra/。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月4日4时32分"
+  },
+  {
+    "id": "cmtlyn50a0ro1row5xicy547e",
+    "title": "马斯克回应 Grok 因 Memphis 计算中心故障中断，称已采取纠正措施",
+    "url": "https://x.com/elonmusk/status/2095603483919491237",
+    "summary": "Elon Musk 表示正在采取纠正措施，确保 Memphis 计算中心故障导致 Grok 服务中断的问题不再发生。引用内容称当天上午 Memphis 计算中心出现故障，影响 Grok 服务并向受影响的计算合作伙伴致歉，目前所有系统已恢复并正常运行。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年9月4日4时2分"
+  },
+  {
+    "id": "cmtlzop5w0sl2row5zkbpxl4h",
+    "title": "Hojo-ASR-Multi-V1 上线 Open ASR Leaderboard，开源多语言语音识别平均 WER 3.54%",
+    "url": "https://x.com/rohanpaul_ai/status/2095609910864269715",
+    "summary": "HojoAI 的 Hojo-ASR-Multi-V1 正式上线 Open ASR Leaderboard，全球排名第 7、开源多语言 ASR 第 1，五语言平均 WER 3.54%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日4时28分"
+  },
+  {
+    "id": "cmtlzumit0sohrow5kmq1s2sf",
+    "title": "Sherwin Wu 转引 GPT-6 Astra 75 分钟构建浏览器版 macOS 模拟器 demo",
+    "url": "https://x.com/sherwinwu/status/2095609852651528607",
+    "summary": "GPT-6 Astra 在 75 分钟内根据同一 simulate macOS 27 提示词构建出浏览器版 macOS 模拟器。引用者 @mweinbach 称这是他见过最好的输出，登录后还支持 cloud sync 和可用的应用，demo 地址为 https://macos-27-simulator.mweinbach.chatgpt.site/。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年9月4日4时28分"
+  },
+  {
+    "id": "cmtlzumiu0soirow5cfujh2xf",
+    "title": "ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍",
+    "url": "https://x.com/sherwinwu/status/2095608725730119733",
+    "summary": "Sherwin Wu 表示自己曾觉得 ARC-AGI-3 很难，如今该基准已被 Astra 饱和。引用 François Chollet 的话称，ARC 3 发布时他预计前沿模型约一年才能饱和，实际只用了 6 个月，约为预期的 2 倍速度，新一代模型的能力将挑战人们基于旧模型形成的 AI 观点。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年9月4日4时23分"
+  },
+  {
+    "id": "cmtlzumiu0sojrow5820i30sg",
+    "title": "OpenAI 发布 GPT-6 Astra，多项基准达到 SOTA",
+    "url": "https://x.com/sherwinwu/status/2095608486940086448",
+    "summary": "OpenAI 发布 GPT-6 Astra，在 FrontierMath Tier 4、ARC-AGI 3、TerminalBench-4.0 上达到 SOTA，并在 Terminal-Bench Science 0.1 和 HealthBench Pro 上取得领先成绩。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年9月4日4时22分"
+  },
+  {
+    "id": "cmtlzl4e70sirrow5w4zkypzs",
+    "title": "OpenAI 发布 GPT-6 Astra，多项基准达到 SOTA",
+    "url": "https://x.com/gdb/status/2095607826471334089",
+    "summary": null,
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年9月4日4时20分"
+  },
+  {
+    "id": "cmtlzzuho0swbrow5wtus386y",
+    "title": "Databricks：数据治理不止于安全， lakehouse 上的知识、上下文与本体",
+    "url": "https://www.databricks.com/blog/governance-beyond-security-knowledge-context-ontology-lakehouse",
+    "summary": "Databricks 发文讨论面向 AI 的数据治理，指出多数组织将治理等同于安全控制，而文章主张治理还应覆盖知识、上下文与本体层面。文章围绕 lakehouse 提出超越安全视角的治理思路，原文正文仅给出开篇部分。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年9月4日4时20分"
+  },
+  {
+    "id": "cmtlzasi70s61row5vze3ldjh",
+    "title": "OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9%",
+    "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra",
+    "summary": "OpenAI 的 GPT-6 Astra 今日起向部分组织推出，随后面向 ChatGPT Plus、Pro、Business、Enterprise 用户开放，API 定价为每百万输入 $10、每百万输出 $50，与 Claude Fable 5/5.1 持平。",
+    "source": "Simon Willison 博客",
+    "date": "2026年9月4日4时18分"
+  },
+  {
+    "id": "cmtlzac2r0s3trow5skwiu0a8",
+    "title": "Ethan Mollick 用 GPT-6 花五天无干预构建个人知识库并每日两次生成简报",
+    "url": "https://x.com/emollick/status/2095606622055760159",
+    "summary": "Ethan Mollick 让 GPT-6 阅读他数万封邮件、 writings 和日程，自主下载软件、制定策略，在五天不间断工作中无需干预地构建了数 GB 的个人 wiki，涵盖研究、联系人、想法和任务。现在该 AI 每天两次交叉核对新邮件并发送摘要简报。他提醒授权访问自己电脑存在风险需谨慎，试用期内 token 未收费，因此无法告知完整成本但可能相当可观，日常简报 token 消耗不大。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月4日4时15分"
+  },
+  {
+    "id": "cmtlzop5w0sl3row5dyk2pfhs",
+    "title": "OpenAI 发布 GPT-6 Astra，称计算机上能做的事它都能代劳",
+    "url": "https://x.com/rohanpaul_ai/status/2095605618069627224",
+    "summary": "作者转发并点评 OpenAI 的发布视频，引用其原文介绍 GPT-6 Astra，称凡是用户能在计算机上完成的事，Astra 都能快速代为完成。作者自己的评论是 OpenAI 的发布视频做得越来越好。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日4时11分"
+  },
+  {
+    "id": "cmtlyl5qp0rn8row504smgckc",
+    "title": "ZHO 演示 GPT-6 Astra 打通建筑设计从平面图到 UE5 漫游出图全流程",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2095602825430802495",
+    "summary": "ZHO 转引 Dimillian 的发布演示，称 GPT-6 Astra 可完成建筑设计的全流程。流程包括先设计平面图，再在 Blender 中建模，到 UE5 中渲染并生成建筑漫游视频和细节（含可运行的咖啡机），最后输出大图。作者认为前期概念方案可交给 GPT-6 完成。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月4日4时0分"
+  },
+  {
+    "id": "cmtlyeuae0rifrow5so557a0m",
+    "title": "Epoch AI：GPT-6 Astra 以 169 分刷新 ECI 纪录",
+    "url": "https://x.com/EpochAIResearch/status/2095602754282783108",
+    "summary": "Epoch AI 实测 GPT-6 Astra 创下 ECI 新纪录 169 分，高于此前最佳 163 分，但仍在其对推理时代 ECI 趋势的不确定性范围内。Astra 还在 Epoch 的数学、持续学习和游戏谜题基准上创下新纪录，在长程编码基准 MirrorCode 上排名介于 Opus 4.7 和 Fable 5 之间；测试基于 OpenAI 提供的预发布访问权限。",
+    "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年9月4日4时0分"
+  },
+  {
     "id": "cmtlwgygc0pnmrow5l0iwtt41",
     "title": "HumanLayer 技能组合 /grill-me 与 /show-me 的用法分享",
     "url": "https://x.com/dexhorthy/status/2095589619660136592",
@@ -14,6 +350,70 @@
     "summary": "作者引用 OpenAI 官方基准称 GPT-6 Astra 以 99.9% 饱和 ARC-AGI-3，在 ExploitBench 得 100%，并在各项基准上全面超过此前保持 SOTA 两天的 Claude Fable 5.1，且价格更低。",
     "source": "X：Kim (@kimmonismus)",
     "date": "2026年9月4日3时6分"
+  },
+  {
+    "id": "cmtlymamv0rnvrow55wod42sj",
+    "title": "Elvis Saravia 转评 GPT-6 Astra 在 FrontierMath Tier 4、ARC-AGI 3 等基准上的 SOTA 成绩",
+    "url": "https://x.com/omarsar0/status/2095601652157821306",
+    "summary": "Elvis Saravia 引用 OpenAI 官方内容评论 GPT-6 Astra：该模型在 FrontierMath Tier 4、ARC-AGI 3、TerminalBench-4.0 上达到 SOTA，并在 Terminal-Bench Science 0.1 与 HealthBench Pro 上领先。作者对表格数据表示惊讶，称其击败了几天前刚发布的竞品模型，并说 GPT-6 Astra 有些不同寻常。图中显示 ARC-AGI-3 得分 99.9%、FrontierMath Tier 4 （v2） 97.6%。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月4日3时55分"
+  },
+  {
+    "id": "cmtly7qd00rc4row558h4z32n",
+    "title": "Ethan Mollick 评价 GPT-6 可自主完成数天的复杂工作并展示亚历山大图书馆模拟",
+    "url": "https://x.com/emollick/status/2095601539066777748",
+    "summary": "Ethan Mollick 称自己获得 GPT-6 早期访问，认为其能力惊艳，已能自主为自己完成持续数天的复杂有意义工作。他展示了一个由 GPT-6 制作的历史模拟项目亚历山大图书馆（https://alexandria-mouseion.netlify.app），并表示更长的评测文章即将发布。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月4日3时55分"
+  },
+  {
+    "id": "cmtlzzuho0swcrow5r3yxs50s",
+    "title": "Databricks 讲解如何构建高质量且可信的数据产品",
+    "url": "https://www.databricks.com/blog/building-high-quality-and-trusted-data-products-databricks",
+    "summary": "Databricks 发布博客，介绍组织在迈向 AI 与数据驱动时，如何借助 Databricks 构建高质量且可信的数据产品。正文从企业在 AI 和数据驱动转型中需要交付数据产品这一需求展开。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年9月4日3时55分"
+  },
+  {
+    "id": "cmtlyijv90rlnrow5wiew6wob",
+    "title": "Sam Altman 转发 OpenAI GPT-6 Astra 发布视频",
+    "url": "https://x.com/sama/status/2095601442220638547",
+    "summary": "OpenAI 发布 GPT-6 Astra 宣传视频，称用户在电脑上能做的事 Astra 都可以快速代为完成。Sam Altman 转发称这是他目前最喜欢的 OpenAI 视频，让他对未来感到兴奋。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年9月4日3时54分"
+  },
+  {
+    "id": "cmtlyijva0rlorow56slliyhi",
+    "title": "Sam Altman 回应 Astra 推进进度：正尽快让所有人用上",
+    "url": "https://x.com/sama/status/2095601211869421726",
+    "summary": null,
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年9月4日3时53分"
+  },
+  {
+    "id": "cmtlyijvl0rlrrow5uug13cn4",
+    "title": "We are going to need a different AGI benchmark. Where is the goalpost moving next？",
+    "url": "https://x.com/thsottiaux/status/2095601101701820752",
+    "summary": null,
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年9月4日3时53分"
+  },
+  {
+    "id": "cmtlyeub20rihrow5c7e77v80",
+    "title": "Peter Steinberger 分享用 GPT-6 Astra 数周的实际体验",
+    "url": "https://x.com/steipete/status/2095600786264973822",
+    "summary": "Peter Steinberger 称自己已使用 GPT-6 Astra 数周，认为它表现出色且主动。他提到在 vitest、tsx 或 SwiftPM 相关的多个 PR 中，Astra 调试并最终在 upstream 依赖中找到并修补了问题。OpenAI 官方介绍称，凡是你能在电脑上做的事，Astra 都能快速替你完成。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年9月4日3时52分"
+  },
+  {
+    "id": "cmtlyijva0rlprow5c4ytzz7u",
+    "title": "Sam Altman 宣布 GPT-6 Astra 博客文章已上线",
+    "url": "https://x.com/sama/status/2095600429363302720",
+    "summary": "Sam Altman 发文称博客文章部署遇到一点小问题，但内容很好，并附上 GPT-6 Astra 博客文章链接 https://openai.com/index/gpt-6-astra/。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年9月4日3时50分"
   },
   {
     "id": "cmtlx47dx0q1srow5lhxfpxsq",
