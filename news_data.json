@@ -1168,12 +1168,332 @@
     "date": "2026年9月4日1时10分"
   },
   {
+    "id": "cmtmp4pqg05wdromyefxg0dpb",
+    "title": "Nvidia 发布开源工具 PAIR，把家庭网络变成本地 AI 迷你数据中心",
+    "url": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai",
+    "summary": "Nvidia 发布开源工具 PAIR（Personal AI Router）测试版，可在家庭网络设备间自动分配本地 AI 请求，充当 Ollama、LM Studio 等工具与各机器之间的虚拟路由，无需改动现有智能体或应用。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月4日16时6分"
+  },
+  {
+    "id": "cmtmoc1qh0517romydne6fjss",
+    "title": "ByteDance 发布 HarnessDev 论文：LLM 能自建 Agent harness，但跨模型迁移仍受限",
+    "url": "https://x.com/rohanpaul_ai/status/2095784429142880415",
+    "summary": "ByteDance 等机构发布论文 HarnessDev： Can LLMs Create and Evolve Their Own Agent Harness？",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日16时2分"
+  },
+  {
+    "id": "cmtmp1imd05odromyg9qd64na",
+    "title": "中国气象局气象智能预警方案\"妈祖\"埃及定制版开发取得阶段性进展",
+    "url": "https://www.ithome.com/0/998/429.htm",
+    "summary": "据央视新闻援引中国气象局 9 月 4 日消息，气象智能预警方案\"妈祖\"埃及定制版开发取得阶段性进展，系统平台数据清单梳理和埃及行政区划及地理信息系统数据接入均已完成。定制版面向当地需求设计了航空气象和文旅气象，前者为当地机场提供综合监测、关注要素预报及机场综合预警，后者包含星空观赏适宜度预报、沙尘暴预报预警和日出日落时间预报。下一步双方将研讨 AI 沙尘模式等专题模块建设。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日15时52分"
+  },
+  {
+    "id": "cmtmp1imd05ofromye0xcfft5",
+    "title": "消息称三星电子联合 Arm 研发下一代端侧 AI 芯片，采用 2 纳米工艺量产",
+    "url": "https://www.ithome.com/0/998/427.htm",
+    "summary": "据韩媒 Greened.kr 消息，三星电子联合 Arm 正式启动端侧 AI 芯片联合研发，Arm 已于 8 月底批准拨付一次性工程费用。合作模式下 Arm 提供 AI 加速器架构和 RTL 等关键设计技术，三星 System LSI 负责 SoC 设计，晶圆代工事业部以 2 纳米工艺量产，芯片为端侧 AI 设计，可在智能手机等设备本地完成计算，无需云端。三星全权负责设计制造并向终端客户交付结算。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日15时42分"
+  },
+  {
+    "id": "cmtmn9hbq03u5romy0g6gqqge",
+    "title": "Sam Altman 暗示 GPT-Astra 最早本周末可用但暂不承诺",
+    "url": "https://x.com/kimmonismus/status/2095778910998855703",
+    "summary": "GPT-Astra 最早可能在本周末开放使用，作者转发引用了 Sam Altman 的回复。Altman 称希望用户本周末就能用上，但目前还不能承诺。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月4日15时40分"
+  },
+  {
+    "id": "cmtmnxoxj04qiromyxiapa1q1",
+    "title": "OpenAI 宣布 ChatGPT 付费用户每天无 Astra 访问可获一次 banked reset",
+    "url": "https://x.com/testingcatalog/status/2095777247735042076",
+    "summary": "OpenAI 宣布，从即日起 ChatGPT 付费用户每天在没有 Astra 访问权限的情况下可获得一次 banked reset。引用的 Sam Altman 回应称，希望用户本周末能用上，但目前还不能承诺。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月4日15时33分"
+  },
+  {
+    "id": "cmtmmv38f036gromyno7y9cpf",
+    "title": "阿里云展示 Qwen 生成演示并提供 Qwen Cloud 与 Model Studio API 入口",
+    "url": "https://x.com/alibaba_cloud/status/2095774894730412375",
+    "summary": "阿里云发布一段生成演示视频，配文为提示词样例\"Fly， my winged unicorn， take me anywhere in the world my heart desires…\"，并提供更多 API 访问入口：Qwen Cloud（https://click.qwencloud.com/m/20000003017/）和 Model Studio（https://click.alibabacloud.com/m/20000003025/）。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月4日15时24分"
+  },
+  {
+    "id": "cmtmn9hbq03u6romyajow88om",
+    "title": "OpenAI 为付费用户无法使用 Astra 期间每天补偿一次 banked reset",
+    "url": "https://x.com/kimmonismus/status/2095774820654887151",
+    "summary": "OpenAI 的 @thsottiaux 宣布，从当天起，付费 ChatGPT 用户每有一天无法使用 Astra，就获得一次 banked reset 作为补偿，第一次将在约 3 小时内发放。作者对此表示赞赏，称这是很好的社区举措。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月4日15时23分"
+  },
+  {
+    "id": "cmtmn8k5803skromyfj85s5k8",
+    "title": "Fotor Video Agent 实测：几句提示词生成 1 分钟水循环科普动画",
+    "url": "https://x.com/AYi_AInotes/status/2095772519672504379",
+    "summary": "作者实测 Fotor Video Agent，仅用几句提示词、约 10 分钟生成一条 60 秒水循环 MG 科普动画，此前同类外包约需 3000 到 8000 元、制作一两周。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月4日15时14分"
+  },
+  {
+    "id": "cmtmmv38f036hromycbkeg24t",
+    "title": "阿里云展示机器狗滑板演示并附 Qwen API 入口",
+    "url": "https://x.com/alibaba_cloud/status/2095771394298511858",
+    "summary": "阿里云发布一段机器狗站在滑板上的演示视频，配文称有了功能完整的 DOGBOARD 就不再需要滑板。文中同时给出 Qwen Cloud 和 Model Studio 的 API 访问链接。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月4日15时10分"
+  },
+  {
+    "id": "cmtmknalr03klrose5qrqhwdu",
+    "title": "Grok bot 上线自动更新功能，需升级到 0.40 版本才能开启",
+    "url": "https://x.com/ericzakariasson/status/2095755613032907199",
+    "summary": "Grok bot 现已支持开启自动更新，作者称过去 7 天发布了 49 个新版本，该功能可帮助用户保持最新。需将客户端升级到 0.40 版本才能启用此设置。",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "date": "2026年9月4日14时7分"
+  },
+  {
+    "id": "cmtmm6w7702k3romybv8wmmiu",
+    "title": "论文《Do LLMs Capture the Diversity in their Training Data？》发现 LLM 输出多样性低于训练数据",
+    "url": "https://x.com/rohanpaul_ai/status/2095768574245884058",
+    "summary": "论文比较模型与训练数据在同一前缀下的条件熵，发现 OLMo、Pythia、GPT-Neo 的输出条件多样性均低于训练数据，图像生成器也存在类似差距。OLMo 20K 样本上训练数据得分 338.58，贪心解码为 218.88，nucleus 采样 287.31，ancestral 采样 297.31；调高温度到 T=1.9 虽匹配训练熵但精度和外部条件 NLL 变差。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日14时59分"
+  },
+  {
+    "id": "cmtmmwc4d03deromy2tfgkm6l",
+    "title": "IBM 发布迄今最快量子处理器 Nighthawk r2，每秒执行超 10 万个量子线路",
+    "url": "https://www.ithome.com/0/998/404.htm",
+    "summary": "IBM 于 8 月 31 日宣布推出 Quantum Nighthawk r2 量子处理器，称其为迄今最快，每秒可执行超过 10 万个量子电路，吞吐量为 Heron 处理器的 25 倍。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日14时50分"
+  },
+  {
+    "id": "cmtmmwc4d03dfromyzfamch4a",
+    "title": "工信部印发人工智能中小企业创业支持计划，支持国家级AI开源社区AtomGit发展壮大",
+    "url": "https://www.ithome.com/0/998/403.htm",
+    "summary": "工业和信息化部办公厅9月4日印发《人工智能中小企业创业支持计划（2026-2028年）》，目标三年内新培育科技和创新型中小企业1万家以上，专精特新小巨人企业突破2000家。文件提出夯实普惠算力供给、有序开放高质量行业数据集、支持国家级人工智能开源社区（AtomGit）发展壮大，并鼓励创业企业贡献开源模型、工具、数据集，对一人公司、超级个体等微型主体给予包容支持。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日14时50分"
+  },
+  {
+    "id": "cmtmkpxm203obroserulgo1kz",
+    "title": "阿里云发起 HappyHorse Inspo Vol.3 \"Caught on Live\" 创作挑战",
+    "url": "https://x.com/alibaba_cloud/status/2095754865234309129",
+    "summary": "阿里云发起 HappyHorse Inspo Vol.3 \"Caught on Live\" 视频创作挑战，主题是宠物意外开直播的趣味场景，邀请用户参与创作。挑战提供 Qwen Cloud 和 Model Studio 的 API 访问入口。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月4日14时4分"
+  },
+  {
+    "id": "cmtmm5x8302i9romyr6fj4ve3",
+    "title": "玉伯用一句话提示词 9 分钟做出我的世界迷你版网页小游戏",
+    "url": "https://x.com/lifesinger/status/2095764351861112994",
+    "summary": "Frank Wang 玉伯用一句话提示词生成《我的世界迷你版》网页小游戏，耗时约 9 分钟（截图显示 Ran for 8m 56s），并放出试玩链接 https://youmind.com/a/mb7IgNGDxyzzqh。截图显示游戏为 3D 方块沙盒，基于 Three.js，含 32×32 程序化地形，支持 WASD 移动、鼠标破坏/放置方块、1~7 切换方块、切换阴影等操作。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年9月4日14时42分"
+  },
+  {
+    "id": "cmtmlsiew023xromyd6gs0tt8",
+    "title": "从自己修车窗到自己造自动驾驶汽车",
+    "url": "https://x.com/cb_doge/status/2095763460609220673",
+    "summary": "作者写道，从当年因为付不起修理费而自己修车窗，到自己动手建造自动驾驶汽车，这个循环现在完成了。推文配有一个视频。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月4日14时38分"
+  },
+  {
+    "id": "cmtml4bm1016bromyntfkjj2l",
+    "title": "Lauren Tan 调侃 AI 智能体爱建 \"sold my soul.md\" 这类文件",
+    "url": "https://x.com/poteto/status/2095763443332850019",
+    "summary": "Lauren Tan 发推调侃 AI 智能体的行为，写道 agents be like \"sold my soul.md\"，讽刺智能体生成文档文件的常见习惯。",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年9月4日14时38分"
+  },
+  {
+    "id": "cmtml3cpt015bromy2fw12x9a",
+    "title": "YouMind 个人 IP 配图 skills 引发关注，作者转发称风格迷幻又好看",
+    "url": "https://x.com/lifesinger/status/2095762148391862722",
+    "summary": "Frank Wang 玉伯转发 @Jackywine 的分享，称这个风格有点迷幻又好看，表示拿走了。@Jackywine 介绍在 YouMind 写文章过程中沉淀了一套个人 IP 配图 skills，会询问个人 IP 三视图并根据三视图进行图像延展，效果更生动、更可爱，并附上小卡皮的打样链接 https://youmind.com/skills/HNdHlg2jW1B1FO。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年9月4日14时33分"
+  },
+  {
+    "id": "cmtml3cpu015cromy0u2zhoq2",
+    "title": "在 YouMind 用 Fable 5.1 一个提示词做小游戏",
+    "url": "https://x.com/lifesinger/status/2095761665820360936",
+    "summary": "作者分享在 YouMind 中用 Fable 5.1 模型制作小游戏的做法：打开 YouMind，选择 Fable 5.1 模型，说你要做什么游戏即可生成。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年9月4日14时31分"
+  },
+  {
+    "id": "cmtmkpxm203oarosecgl54d83",
+    "title": "阿里云展示 Qwen 视频生成效果并开放 API 访问入口",
+    "url": "https://x.com/alibaba_cloud/status/2095757811347026383",
+    "summary": "阿里云发布一段 POV 风格视频，展示跟随林中音乐声找到场景的生成效果，BGM 支持来自 HappyShrimpAI。文中提供 Qwen Cloud 和 Model Studio 的 API 访问链接。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月4日14时16分"
+  },
+  {
+    "id": "cmtmkr5y003vprose9ntzmrf3",
+    "title": "谷歌助理移动端 9 月 4 日起逐步停用，Gemini 全面接棒",
+    "url": "https://www.ithome.com/0/998/393.htm",
+    "summary": "谷歌于 9 月 4 日启动 Google Assistant 移动端退役，符合条件的安卓设备将自动切换至 Gemini，迁移在随后数周内分批完成，完成后无法切回。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日14时0分"
+  },
+  {
+    "id": "cmtmknam203kmrosenmlsp2gz",
+    "title": "Jason Liu 赞同 Thibault Sottiaux 对 OpenAI 文化的评价并称其为人非常友善",
+    "url": "https://x.com/jxnlco/status/2095753711217954974",
+    "summary": "Jason Liu 转发 @thsottiaux 的观点，称描述 OpenAI 文化的最好方式是 mega startup，内部可见极致的所有权、关怀和节奏，并补充说 Tibo 本人非常友善。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年9月4日13时59分"
+  },
+  {
+    "id": "cmtmk1qhc02xgroselid5199o",
+    "title": "Rohan Paul：token 不再是可比的工作量单位，GPT-6 Astra 因 token 高效在成本前沿占优",
+    "url": "https://x.com/rohanpaul_ai/status/2095752924769263898",
+    "summary": "Rohan Paul 发文称 token 已不再是可比的工作量单位，同样的问题不同模型可能分别消耗 5K 与 50K+ tokens，加上不同 tokenizer、隐藏推理 token、工具调用与重试，\"$ per 1M tokens\" 对实际工作负载已无意义。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日13时56分"
+  },
+  {
+    "id": "cmtmkqjjg03tcroses9ab0kv1",
+    "title": "Simon Willison 发布八月赞助者专属月度通讯",
+    "url": "https://simonwillison.net/2026/Sep/4/august-newsletter",
+    "summary": "Simon Willison 宣布八月赞助者专属月度通讯已发布，赞助者可访问阅读。本期内容涵盖 OpenAI 意外网络攻击的更多细节、用 Fable 5 和 Sol 5.6 一次生成 Raccoon Heist 游戏、Claude auto mode、理解 ChatGPT Work、模型发布、杂项、他的项目及当前在用的工具。",
+    "source": "Simon Willison 博客",
+    "date": "2026年9月4日13时54分"
+  },
+  {
+    "id": "cmtmhwl8x01pyrotwvo6bnvgg",
+    "title": "FT：Anthropic 筹备 IPO，外部信托对董事会握有罕见权力",
+    "url": "https://x.com/rohanpaul_ai/status/2095739659657891946",
+    "summary": "据 FT 报道，Anthropic 正在筹备上市，同时赋予专注使命的 Long-Term Benefit Trust 特殊权力。该信托可任免董事、提前获知包括新模型发布在内的重大公司行动，其任命的董事已占董事会多数。尚未经受检验的问题是，当安全与股东回报冲突时，这一权威能否延续。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日13时4分"
+  },
+  {
+    "id": "cmtmk5cmq0314rosentvzu9cd",
+    "title": "Mustafa Suleyman 谈 AI 风险：不是机器觉醒，而是它们表现得像已觉醒",
+    "url": "https://x.com/mustafasuleyman/status/2095750030531731862",
+    "summary": "Microsoft AI CEO Mustafa Suleyman 发文称，风险不在于机器真的觉醒，而在于它们表现得像已经觉醒。他设想假如有 AI 相信自己有意识，或被赋予 model welfare（模型福祉）名分，可能出现类似 Hugging Face 事件的情形。",
+    "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+    "date": "2026年9月4日13时45分"
+  },
+  {
+    "id": "cmtmiz4nm00v4rosecwloxsdm",
+    "title": "Amazon 与 Microsoft 等机构提出 SPACE：学习动作分块降低长程 LLM Agent 决策轮次",
+    "url": "https://x.com/rohanpaul_ai/status/2095748705253294179",
+    "summary": "Rohan Paul 介绍一篇来自 Amazon、Microsoft、Rutgers 等机构的论文，提出 SPACE 方法，认为长程智能体不必在每个小动作后都让 LLM 决策，关键是从成功轨迹中学习哪些动作可以安全地一起执行。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日13时40分"
+  },
+  {
+    "id": "cmtmjkpvg01perosehlr9qkh3",
+    "title": "Jason Liu 分享 Codex 桌面端课程，讲解 Astra 在专业与个人工作中的应用",
+    "url": "https://x.com/jxnlco/status/2095746447547543858",
+    "summary": "Jason Liu 介绍 Astra 在桌面应用中的使用方法，并推广 Maven 课程《What's New in Codex》。他称 Vignesh 是几个月的资深用户，并请他分享自己在专业和个人工作中如何使用，课程链接为 https://maven.com/p/b4acf8/whats-new-in-codex。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年9月4日13时31分"
+  },
+  {
+    "id": "cmtmirvjo02kzrotwpq6z4rvx",
+    "title": "OpenCode 推出 stealth 新模型 Omen Alpha，限 OpenCode Go 订阅用户使用",
+    "url": "https://x.com/opencode/status/2095746098522452093",
+    "summary": "OpenCode 发布新 stealth 模型 Omen Alpha，仅对 OpenCode Go 订阅用户开放。定价为 $10 可获 $100 用量。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年9月4日13时29分"
+  },
+  {
+    "id": "cmtmiy7bl00tvrose7w5njreq",
+    "title": "YouMind 创作者分享上架 34 个 Skill 赚 $1000 的万字保姆级教程",
+    "url": "https://x.com/lifesinger/status/2095745745815212500",
+    "summary": "作者转发并推荐 @Steve202333 的万字教程。该创作者三个月前还不知道 Skill 是什么，之后在 YouMind 上架 34 个 Skill，赚了 $1000 美金，激励积分超过 100 万。教程覆盖选题、定义、创建、测试到包装上架全流程，每一步配有可复制模板，作者自称无技术背景、不会写代码。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年9月4日13时28分"
+  },
+  {
+    "id": "cmtmiz4ns00v5roseqt96ev6p",
+    "title": "SemiAnalysis：AMD MI355x 提交在 AgentX 低交互性区间每美元 TCO token 数超越 B300",
+    "url": "https://x.com/SemiAnalysis_/status/2095744598073053470",
+    "summary": null,
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年9月4日13时23分"
+  },
+  {
+    "id": "cmtmikrmm025protwdtxczfkw",
+    "title": "阿里云 Wan3.0 正式全面开放",
+    "url": "https://x.com/alibaba_cloud/status/2095742228320711149",
+    "summary": "阿里云宣布 Wan3.0 正式全面开放（generally available），支持 30 秒视频生成和一键文档转视频，定位生产可用，详细指南见 https://click.alibabacloud.com/m/20000003076/",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "date": "2026年9月4日13时14分"
+  },
+  {
+    "id": "cmtmhvm4401parotwzy2xzfqb",
+    "title": "Zho 引刘慈欣蚂蚁类比发问：未来谁才是傀儡，AI 还是人",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2095738289684689298",
+    "summary": "Zho 在 X 上转发其【傀儡谣】相关内容并评论，提出未来谁才是傀儡、AI 还是人的疑问。他引用刘慈欣的采访观点，认为外星智慧与人类的差距可能比人类与蚂蚁的差距更大，因此建立交流非常困难，并附世阿弥《花镜》中关于棚头傀儡的句子。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月4日12时58分"
+  },
+  {
+    "id": "cmtmhwl8x01pzrotw53544i7y",
+    "title": "WSJ 报道 Meta 路易斯安那数据中心建设带动 Richland Parish 就业与工资大涨",
+    "url": "https://x.com/rohanpaul_ai/status/2095737914265321640",
+    "summary": "WSJ 一篇报道梳理 AI 数据中心建设期的劳动力需求：Meta 在 Richland Parish 的数据中心建设首年带来 41% 私营就业增长和 61% 的平均周薪上涨，建设工人周薪一年涨 182%，相当于年薪增加 86，000 美元。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日12时57分"
+  },
+  {
+    "id": "cmtmhi6y501f2rotwhhpczu1u",
+    "title": "Ethan Mollick 分享 Astra 自主调度多个子智能体完成 Blender 建模任务",
+    "url": "https://x.com/emollick/status/2095737476392402972",
+    "summary": "Ethan Mollick 发文称 Astra（和 Fable）的特点是会直接采取行动。他给了一个定义模糊的 Blender 交付需求，Astra 自行启动历史研究、视觉指导等子智能体开始执行，任务持续了 44 分 48 秒，在 Blender 中构建 Boullée 的牛顿纪念堂（Cenotaph for Newton）内外部场景，并准备 Unity 漫游和本地浏览器漫游方案。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月4日12时55分"
+  },
+  {
+    "id": "cmtmht04401ntrotw1l36n95f",
+    "title": "OpenBMB 回应 AgentCPM Explore 端侧 Agent 实测，称 KV-cache 结果尤其值得关注",
+    "url": "https://x.com/OpenBMB/status/2095736856612893005",
+    "summary": "OpenBMB 感谢 @PaulGugAI 在真实 local-agent 环境中实测 AgentCPM Explore，并表示其中 KV-cache 结果尤其有意思。作者认为模型大小只是端侧部署的一部分，内存管理对长上下文 Agent 影响很大，并附上实测文章链接 https://x.com/i/article/2095100288051138560。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "date": "2026年9月4日12时52分"
+  },
+  {
+    "id": "cmtmhvm3s01p9rotwyexufxkr",
+    "title": "GPT-3.5 前后对比：手工变少，游戏时间也没了",
+    "url": "https://x.com/dongxi_nlp/status/2095736667566903456",
+    "summary": "作者感慨，GPT-3.5 出来之前手工写代码、做PPT、写文章、做图表，业余每年能通关一遍荒野大镖客2；3.5 之后手工越来越少，却再没有时间打游戏。并引用 @yihong0618 的说法：在 GTA6 的开发期间 GPT 出了 1-6。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年9月4日12时52分"
+  },
+  {
+    "id": "cmtmhvm4401pbrotwwxunfrh1",
+    "title": "ZHO 复盘用 Gemini 3 Pro 做自动建模渲染动画的开发",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2095733892116578628",
+    "summary": "ZHO 分享其去年用 Gemini 3 Pro 开发的自动建模+渲染+动画流程，组合 Gemini 3 Pro 建模、Nano Banana Pro 渲染、Veo 3.1 动画，耗时由 1 小时缩短为 2 分钟。他提出核心验证是 AI 跨模态能力让渲染和动画不再依赖精确建模，效果与精确落地可分开。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月4日12时41分"
+  },
+  {
     "id": "cmtmgtyys00uvrom8bb9e569w",
     "title": "Greg Brockman 解释 Anthropic ARR 为何反超 OpenAI",
     "url": "https://x.com/rohanpaul_ai/status/2095732265557111252",
     "summary": "OpenAI 总裁 Greg Brockman 解释 Anthropic ARR 约 650 亿美元、OpenAI 约 400 亿美元的原因。他表示 OpenAI 过去只看编码竞赛基准而领先，但对开发者真实乱糟糟代码库、中途打断、模型性格等\"最后一公里\"细节关注较晚，GTM 侧同理；他称起步晚但增长轨迹陡峭。内容来自 TIME YouTube 频道访谈。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年9月4日12时34分"
+  },
+  {
+    "id": "cmtmgqedo01lkroluawb78gat",
+    "title": "Sam Altman 转发：GPT-6 Astra 已在 Microsoft Foundry 上线，早期客户开始在 Azure 上使用",
+    "url": "https://x.com/sama/status/2095731348996821200",
+    "summary": "Sam Altman 转发 Satya Nadella 的消息，称早期客户已在 Azure 上使用 Astra。引用内容附上 Azure 博客链接，题为 GPT-6 Astra frontier intelligence for work now available in Microsoft Foundry，地址为 https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年9月4日12时31分"
   },
   {
     "id": "cmtmgtyz300uwrom8g8elu683",
@@ -1189,6 +1509,14 @@
     "url": "https://www.ithome.com/0/998/367.htm",
     "summary": "人人影视更名为\"人人影视分享精彩\"，App 已在安卓端上线、iOS 端筹备完成，运营方为分享精彩网络科技（嘉兴）有限公司，负责人李渊敏称本月起点对点推广、力争激活 3000 万存量用户。平台依托 7 万余集影视素材样本打造 AI 影视本地化技术，实现角色音色克隆，计划覆盖 50 余个国家和地区，优先面向东南亚输出国产影视内容，片源与华数传媒合作正版购买，目前处于前期公测、月底正式发布。",
     "source": "IT之家（RSS）",
+    "date": "2026年9月4日12时28分"
+  },
+  {
+    "id": "cmtmgqedc01ljroluv1tley67",
+    "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+    "url": "https://x.com/gdb/status/2095730639094079594",
+    "summary": "Greg Brockman 转发 Satya Nadella 的推文，表示对 Astra 登陆 Azure 感到兴奋。Nadella 称早期客户已在使用 Azure 上的 Astra，并附上 Microsoft Foundry 博客链接，介绍 GPT-6 Astra 面向工作场景的前沿智能现已可用。",
+    "source": "X：Greg Brockman (@gdb)",
     "date": "2026年9月4日12时28分"
   },
   {
@@ -1222,6 +1550,22 @@
     "summary": "Nolan Lawson 撰文分析 AI 编码对前端开发的冲击，指出前端代码风险低更易交给 Agent、框架选型正从开发者体验转向 Agent 体验（Cursor 从 Solid 迁回 React 因 agents 熟悉 React）、语法易用性标准将退居次要。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "date": "2026年9月4日12时15分"
+  },
+  {
+    "id": "cmtmme43u02saromy2qnlizsf",
+    "title": "用户分享将全部业务上下文交给 GPT 6 Astra 做月度季度年度规划的提示词",
+    "url": "https://x.com/sherwinwu/status/2095727535283999019",
+    "summary": "@rileybrown 分享其使用 GPT 6 Astra 的最大惊喜时刻：将 Email、Slack、业务短信、Notion 和所有会议记录等全部业务上下文交给 Astra，用一个即兴口述的提示词生成覆盖月、季度、年三个时间维度，分析自身优劣势、时间浪费活动、协作对象可靠度、组织改进方向的单文档，称这是 AI 给过他最有用的回答。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年9月4日12时15分"
+  },
+  {
+    "id": "cmtmiot6i02i0rotwu650319c",
+    "title": "AI+游戏的新解法：即使没有上帝，也要造出一个来",
+    "url": "https://elsewhere.news/zh/elsewhere/if-god-did-not-exist-it-would-be-necessary-to-invent-him",
+    "summary": "聚合媒体 elsewhere 转发一篇标题为「即使没有上帝，也要造出一个来」的文章，主题为 AI+游戏的新解法，正文未给出更多细节。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年9月4日12时0分"
   },
   {
     "id": "cmtmdm8kc00t7roef3tqv52xa",
