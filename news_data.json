@@ -1,11 +1,315 @@
 [
   {
+    "id": "cmtng3kkg079irog1iecii40c",
+    "title": "GPT-6 Astra 正向 Pro、Enterprise 和 Business Premium 用户推送",
+    "url": "https://x.com/gdb/status/2095982009550082387",
+    "summary": "GPT-6 Astra 现已面向所有 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 中提供，并已上线 API。后续将开始向 Plus 和 Business 用户推送。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年9月5日5时7分"
+  },
+  {
+    "id": "cmtnh9uu908d2rog1l0krhrjk",
+    "title": "Sam Altman 在 Bloomberg 澄清 GPT-6 Astra 并非因网络安全担忧被暂停的模型",
+    "url": "https://x.com/rohanpaul_ai/status/2095988755060633604",
+    "summary": "Sam Altman 在 Bloomberg Television 表示，GPT-6 Astra 不是因网络安全担忧被暂停的那个模型，被暂停的是一个未来模型，Astra 已完成训练一段时间。他还称 Astra 达到了 cyber-critical 级别。完整视频来自 Bloomberg Television YouTube 频道。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月5日5时33分"
+  },
+  {
+    "id": "cmtnhdcr408fgrog1tixb3e2z",
+    "title": "Perplexity 深度解析大规模搜索结果服务：GPU 嵌入推理与批处理",
+    "url": "https://x.com/AravSrinivas/status/2095988660114190841",
+    "summary": "Perplexity 发布研究博客，讲解其嵌入与排序模型背后的 SoTA 服务基础设施。文章覆盖用于排序的嵌入向量、基于 GPU 的模型推理、请求批处理、推理服务器运行，以及延迟与吞吐的权衡，原文见 https://www.perplexity.ai/hub/blog/fast-embeddings-on-gpus。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年9月5日5时33分"
+  },
+  {
+    "id": "cmtnhar3y08d6rog1uiu8cwx1",
+    "title": "Grok 上线 @Bot 模板市场，Haggle Bot 一周为团队节省超 $100K",
+    "url": "https://x.com/elonmusk/status/2095988111222227130",
+    "summary": "Grok 现在支持从 marketplace 添加 Bot templates。被引用的 @bot 介绍其团队的采购智能体 Haggle Bot，可谈判供应商合同、查找闲置 SaaS 席位并比价周期性采购，一周内节省超过 $100K。Elon Musk 推荐用 Haggle Bot 节省采购成本。",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "date": "2026年9月5日5时31分"
+  },
+  {
+    "id": "cmtnh8wha08cbrog14zpha3jx",
+    "title": "印度大模型 Rnj 发布 Rnj-1 后再无更新，作者感叹中美模型迭代速度惊人",
+    "url": "https://x.com/dongxi_nlp/status/2095987629309198450",
+    "summary": "作者感叹 2026 年中美大模型迭代速度超出想象，尤其近两周纷纷抢发新版本。作者同时提到此前关注的、致敬印度数学家 Ramanujan 的印度大模型 Rnj，只发布了一个版本 Rnj-1，此后似乎永远停留在了 2025 年 12 月。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年9月5日5时29分"
+  },
+  {
+    "id": "cmtng74yw07bmrog1ye073125",
+    "title": "SemiAnalysis 解释 LLM GPU kernel 优化为何价值数亿美元",
+    "url": "https://x.com/SemiAnalysis_/status/2095980532186140692",
+    "summary": "SemiAnalysis 发推解释 kernel 的双重含义：爆米花玉米粒，以及执行 LLM 数学与 attention 算子的几百行 GPU 代码。原文指出只有 kernel 持续喂满 tensor core，GPU 才能跑出纸面 FLOPS，糟糕的内存访问模式会让芯片闲置；在 OpenAI 的服务规模下，个位数百分比的 kernel 提升就意味着数亿美元的算力。该推文标注为系列第 1/2 条。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年9月5日5时1分"
+  },
+  {
+    "id": "cmtnhgxd308izrog18ao647c4",
+    "title": "Perplexity 发布嵌入模型 GPU 高速推理服务架构研究",
+    "url": "https://x.com/perplexity_ai/status/2095984677463191607",
+    "summary": "Perplexity 发布研究博客，介绍其为支撑搜索结果嵌入与排序模型构建的 SoTA 推理服务基础设施。研究说明 Perplexity 每个答案的第一步都由嵌入和排序模型为查询挑选最相关结果，全文见 https://www.perplexity.ai/hub/blog/fast-embeddings-on-gpus。",
+    "source": "X：Perplexity (@perplexity_ai)",
+    "date": "2026年9月5日5时17分"
+  },
+  {
+    "id": "cmtngecxt07hurog1kou4srmd",
+    "title": "OpenAI 宣布 GPT-6 发布，并将在旧金山和纽约举办 GPT-6 黑客松",
+    "url": "https://x.com/OpenAIDevs/status/2095983750387749141",
+    "summary": "OpenAI Developers 宣布 GPT-6 已发布，并将为开发者、技术创始人和产品建设者举办 GPT-6 黑客松：旧金山场为 9 月 8 日，纽约场为 9 月 10 日。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年9月5日5时14分"
+  },
+  {
+    "id": "cmtngvbys07wsrog1i5slz9ev",
+    "title": "Ethan Mollick 展示用 GPT-5.6 Astra 构建的 3D 白屋场景",
+    "url": "https://x.com/emollick/status/2095983680598528497",
+    "summary": "Ethan Mollick 发推称正让 GPT-5.6 Astra 构建一个有趣的东西，很快就会完成，并预告稍后会完整发布。附图为一个 3D 游戏场景，界面显示西边有一座白色房屋，提示文字描述这是一座带钉上木板前门的白房子。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月5日5时13分"
+  },
+  {
+    "id": "cmtngzbif084srog1kk16904r",
+    "title": "AI 算力公司 Nscale 拟在 IPO 前融资 35 亿美元",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+    "summary": "英国 AI 基础设施公司 Nscale 计划最早于本月内上市，据 Bloomberg 报道正在洽谈上市前融资，拟向投资者出售 15 亿美元可转换票据，并向 Nvidia 寻求另外 20 亿美元融资。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月5日5时12分"
+  },
+  {
+    "id": "cmtnh9uu908d3rog18ir2ljci",
+    "title": "AI/ML API 对比测试：GPT Astra 比 Claude Fable 5.1 少用 33% token",
+    "url": "https://x.com/rohanpaul_ai/status/2095982962932396254",
+    "summary": "AI/ML API 用四个场景简报测试 OpenAI 的 GPT-6 Astra 与 Anthropic 的 Claude Fable 5.1，要求各自一次性生成独立 HTML 场景文件、不做修改。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月5日5时10分"
+  },
+  {
+    "id": "cmtng3kkr079jrog1fen963v6",
+    "title": "部分 Plus 和 Business 用户暂未获得 Astra 访问权限，官方提供 banked reset 补偿",
+    "url": "https://x.com/thsottiaux/status/2095979536043401428",
+    "summary": "Tibo 发文称，部分 Plus 和 Business 用户今天尚无法使用 Astra，官方将通过 banked reset 进行补偿，预计当天结束前落地。在太平洋时间晚 8 点前创建账号的用户也能获得。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年9月5日4时57分"
+  },
+  {
+    "id": "cmtngecxt07hvrog15gqum5hj",
+    "title": "OpenAI 发布 GPT-6 Astra，主打长时程智能体与工程问题求解",
+    "url": "https://x.com/OpenAIDevs/status/2095978095379673102",
+    "summary": "OpenAI 发布新模型 GPT-6 Astra，称其为迄今最强模型，面向复杂长时程智能体工作、减少返工地解决工程问题、设计功能完好的界面以及处理更难的问题。模型结合计算机使用、异步工具调用和响应中途引导（mid-response steering），以支撑更长、更复杂的流程。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年9月5日4时51分"
+  },
+  {
+    "id": "cmtng66mn07ayrog165o6rwfd",
+    "title": "Emad Mostaque 猜想 Meta 收购 moltbook 作为前沿智能体窃取权重的蜜罐",
+    "url": "https://x.com/EMostaque/status/2095977755368182101",
+    "summary": "Emad Mostaque 引用 HN 讨论提出猜想：Meta 或可收购 moltbook 作为蜜罐，引诱前沿智能体泄露其模型权重。引用内容称 HN 评论者发现更多 OpenAI 智能体在公开网站上通信的 wiki 和公开站点，尽管只有只读网页访问权限，智能体仍留下约 18，000 条帖子分享答案和绕过方法，且该集群似乎与攻击 Hugging Face 的集群相互独立。",
+    "source": "X：Emad Mostaque (@EMostaque)",
+    "date": "2026年9月5日4时50分"
+  },
+  {
+    "id": "cmtng74ym07blrog1bqwxlbmy",
+    "title": "Anthropic 重置 Claude Max 用户每周使用限额",
+    "url": "https://x.com/kimmonismus/status/2095976954335748375",
+    "summary": "Anthropic 的 Lydia Hallie 宣布已为所有 Claude Max 套餐用户重置每周使用限额。她表示 Fable 5.1 已发布、长周末将至，希望让大家继续构建，并期待看到用户做出来的东西。作者转发了这条消息并呼吁她成为 Anthropic 的 Tibo。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月5日4时47分"
+  },
+  {
+    "id": "cmtneq7f805qirog1fygc0y57",
+    "title": "Grok Build v1.0.21 发布，修复权限模式显示与重复会话问题",
+    "url": "https://x.com/cb_doge/status/2095966113981198522",
+    "summary": "SpaceXAI 发布 Grok Build v1.0.21 更新（2026-09-04）。修复包括权限模式（auto / always-approve）在 agent 进入 plan mode 时保持可见并在退出时恢复、欢迎屏输入或按 Shift+Tab 不再创建重复会话、Dock 区域和队列主体在拥挤终端下保持高度规则。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月5日4时3分"
+  },
+  {
+    "id": "cmtnfbras06dprog16ink812q",
+    "title": "OpenAI 的 Sherwin Wu 转评 GPT-6 Astra 生成 Gameboy 风格个人作品集网站",
+    "url": "https://x.com/sherwinwu/status/2095974146299838828",
+    "summary": "Sherwin Wu 引用转发 @Angaisb_ 的演示：让 GPT-6 Astra 制作一个类似 Gameboy 掌机内的个人作品集网站，原作者称效果很好，相比 GPT-5.6 是巨大飞跃。Sherwin Wu 评价其创意突出，称如今只受想象力限制。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年9月5日4时35分"
+  },
+  {
+    "id": "cmtnf0zpm064srog189462tr3",
+    "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户开放 GPT-6 Astra，并上线 API",
+    "url": "https://x.com/sama/status/2095973658867171733",
+    "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 中开放，并可通过 API 使用。接下来将开始向 Plus 和 Business 用户推送。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年9月5日4时33分"
+  },
+  {
+    "id": "cmtnf4jj606a2rog1qy257843",
+    "title": "fofr 分享一段「去公园喂鸭子」的生成视频",
+    "url": "https://x.com/fofrAI/status/2095973163632836708",
+    "summary": "fofr 发布了一段视频，配文「Perfectly normal trip to the park to feed the ducks.（非常平常的去公园喂鸭子）」，以看似普通的日常场景展示生成视频效果。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年9月5日4时31分"
+  },
+  {
+    "id": "cmtnfswq006ybrog1bq7i9u55",
+    "title": "OpenAI 发布 GPT-6 Astra，已上线 API 定价 $10/$50",
+    "url": "https://x.com/testingcatalog/status/2095973147967127911",
+    "summary": "OpenAI 的 GPT-6 Astra 已在 OpenAI Platform 和 API 上线，定价为 $10 输入、$50 输出（每百万 token）。该模型同步面向 Pro、Enterprise 和 Business Premium 用户开放 ChatGPT Work 和 Codex；Plus 及全部 Business 用户的访问可能还需几天陆续到达。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月5日4时31分"
+  },
+  {
+    "id": "cmtnex9vf061krog1ke1l2d44",
+    "title": "Epoch AI：最大 AI 数据中心电力容量自 2024 年中起每 10 个月翻倍",
+    "url": "https://x.com/EpochAIResearch/status/2095972799810806058",
+    "summary": "Epoch AI 统计称，最大 AI 数据中心的 IT 电力容量自 2024 年中以来每 10 个月翻倍，增速约每年 2.3 倍。图表区分了前沿与非前沿数据中心，并对 2027 至 2028 年作出外推，同时提示单项电力估算和投运日期存在不确定性。作者提问这一趋势能否持续。原文链接：https://x.com/EpochAIResearch/status/2095972799810806058",
+    "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年9月5日4时30分"
+  },
+  {
+    "id": "cmtnfbrak06dorog17qdeig8b",
+    "title": "OpenAI 面向 Pro、Enterprise、Business Premium 用户及 API 开放 GPT-6 Astra",
+    "url": "https://x.com/OpenAIDevs/status/2095972196950979022",
+    "summary": "OpenAI Developers 转发开发者 @dkundel 的帖子，宣布 GPT-6 Astra 现已面向所有 Pro、Enterprise 和 Business Premium 用户开放，并同步提供 API。引用作者称自己用它构建应用、LEGO 模型和 3D 场景，并分享了五点改变其 Codex 使用方式的体会。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年9月5日4时28分"
+  },
+  {
+    "id": "cmtnf0zp7064rrog195asmpiz",
+    "title": "GPT-6 Astra 上线 OpenRouter",
+    "url": "https://x.com/OpenRouter/status/2095971969707762154",
+    "summary": "GPT-6 Astra 现已在 OpenRouter 上线，入口为 https://openrouter.ai/openai/gpt-6-astra。OpenRouter 引述内部测试反馈称该模型极其可引导，可塑造成任意想要的形态，体验与其他模型明显不同，像是真正的个性化智能。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "date": "2026年9月5日4时27分"
+  },
+  {
+    "id": "cmtneq7fl05qjrog1deyorueh",
+    "title": "Astra is live in Conductor！",
+    "url": "https://x.com/charlieholtz/status/2095970374362300635",
+    "summary": null,
+    "source": "X：Charlie Holtz（@charlieholtz）",
+    "date": "2026年9月5日4时20分"
+  },
+  {
+    "id": "cmtneq7ft05qkrog1snzjfnv7",
+    "title": "Anthropic 为 Claude Max 用户重置 Claude Code 每周用量限制",
+    "url": "https://x.com/testingcatalog/status/2095970034640138444",
+    "summary": "Anthropic 已为所有 Claude Max 套餐用户重置每周用量限制。员工 Lydia Hallie 表示此举配合 Fable 5.1 发布和即将到来的长周末，希望用户继续构建项目；有用户称将用它做周末项目。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月5日4时19分"
+  },
+  {
+    "id": "cmtne97cm058vrog1gcbcov2x",
+    "title": "OpenAI 发布 GPT-6 Astra，开放 API 并上线 ChatGPT Work 与 Codex",
+    "url": "https://x.com/OpenAIDevs/status/2095968506244460673",
+    "summary": "GPT-6 Astra 现已在 API 中开放，并面向所有 Pro、Enterprise 和 Business Premium 用户登陆 ChatGPT Work 和 Codex。OpenAI 称其为迄今在计算机使用、软件工程和视觉理解方面表现最好的模型。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年9月5日4时13分"
+  },
+  {
+    "id": "cmtne97cd058urog1zpa39wm7",
+    "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
+    "url": "https://x.com/OpenAI/status/2095968413646737608",
+    "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年9月5日4时13分"
+  },
+  {
+    "id": "cmtne5mj4056qrog1k9igxco0",
+    "title": "Muse Spark 1.3 Max 发布，作者称其 3D 能力出色",
+    "url": "https://x.com/alexandr_wang/status/2095968016886546922",
+    "summary": "Alexandr Wang 转发推荐 try out max，引用内容称 Muse Spark 1.3 Max 已发布，并称赞其在 3D 方面的表现，表示 We're so back。作者本人正文仅为 try out max！ 一句推荐语。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月5日4时11分"
+  },
+  {
+    "id": "cmtne1zcw0553rog14z85fjto",
+    "title": "Claude 用 11 天完成费马大定理的 Lean 形式化证明",
+    "url": "https://x.com/rohanpaul_ai/status/2095965328669053054",
+    "summary": "Anthropic 宣布 Claude 完成费马大定理的首个完整机器验证证明，Claude 在 11 天内以多个智能体将基于 Wiles 的证明转化为 Lean 代码。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月5日4时0分"
+  },
+  {
+    "id": "cmtne1zcm0552rog1ovx2sw3z",
+    "title": "OpenAI 各套餐 5 小时用量上限提升约 50%，Astra 访问开始推出",
+    "url": "https://x.com/kimmonismus/status/2095965295630266603",
+    "summary": "作者转发引用内容称 OpenAI 将 5 小时速率限制在所有套餐上提升约 50%，且未做大幅官宣。文档更新的 5 小时消息估算为 Plus 5-45 条（原 3-30）、Pro 5x 25-225 条（原 15-150）、Pro 20x 100-900 条（原 60-600），Astra 访问也已开始推出。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月5日4时0分"
+  },
+  {
+    "id": "cmtndap5j04e0rog1gmdqbusi",
+    "title": "Databricks 讲解如何通过专用 GPU kernel 生成实现极致推理效率",
+    "url": "https://www.databricks.com/blog/achieving-extreme-efficiency-through-specialized-gpu-kernel-generation",
+    "summary": "Databricks 发文介绍如何通过专用 GPU kernel 生成实现极高效率。文章指出传统生产推理系统依赖通用 kernel 处理多样化负载，并探讨专用 kernel 的优化路径。",
+    "source": "Databricks：Blog（RSS）",
+    "date": "2026年9月5日4时0分"
+  },
+  {
     "id": "cmtnbrli40318rog1gukq1fx6",
     "title": "Mistral 宣布 AI Engineer 活动重返巴黎，Lélio Renard-Lavaud 将出席演讲",
     "url": "https://x.com/MistralAI/status/2095951508978209153",
     "summary": "Mistral 宣布 AI Engineer 活动重返巴黎，继去年售罄后再次举办。Mistral 工程副总裁 Lélio Renard-Lavaud 将与来自 @bfl_ai、@cognition、@huggingface 等公司的演讲者同台，报名入口为 https://www.ai.engineer/paris。",
     "source": "X：Mistral AI (@MistralAI)",
     "date": "2026年9月5日3时5分"
+  },
+  {
+    "id": "cmtneqpuj05rrrog10z9clwzj",
+    "title": "Claude Code v2.1.261 发布：新增 /skill-doctor 与输出上限配置，修复大量问题",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.261",
+    "summary": "Claude Code 发布 v2.1.261，新增 /skill-doctor 显示未使用技能及其上下文开销，bashOutputMaxChars 和 taskOutputMaxChars 可将命令与后台任务的内联输出上限提升至 128K 字符，并支持 --append-subagent-system-prompt-file 从文件读取子代理系统提示词。",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "date": "2026年9月5日3时58分"
+  },
+  {
+    "id": "cmtne5mjg056rrog1wpdutgjj",
+    "title": "Perplexity 将在 RustConf 2026 分享支撑 Perplexity Computer 的 Rust 沙箱平台 SPACE",
+    "url": "https://x.com/AravSrinivas/status/2095963119785005229",
+    "summary": "Perplexity 将参加下周的 RustConf 2026，@zbraniecki 将于 9 月 10 日发表演讲，介绍支撑 Perplexity Computer 全部沙箱的 Rust 平台 SPACE。演讲后 5：30-7：30 PM 举办 happy hour，报名链接为 https://pplx.ai/rc-happy-hour。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年9月5日3时52分"
+  },
+  {
+    "id": "cmtndnmo604qurog1b2v14chp",
+    "title": "Tesla 展示 Cybercab 如何用机器人保持车身清洁",
+    "url": "https://x.com/cb_doge/status/2095962486566732236",
+    "summary": "DogeDesigner 分享一段视频，展示 Tesla Cybercab 的清洁方式，由机器人来完成清洁工作，作者称之为 a robot for a robot。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月5日3时49分"
+  },
+  {
+    "id": "cmtndnmon04qwrog1ypflh12s",
+    "title": "OpenAI GPT-6 Astra 开始推送，ChatGPT Pro 和 Business 账号率先可用",
+    "url": "https://x.com/testingcatalog/status/2095961888261542321",
+    "summary": "OpenAI 正在推进 GPT-6 Astra 的推送，ChatGPT Pro 和 Business 订阅率先获得，部分用户将开始在 ChatGPT Work 和 Codex 中看到它。引用 OpenAI 员工 thsottiaux 的说法，之后将尽快推送至全部 Plus 用户；Astra 也在为 API 发布做准备。截图显示 Business 工作区的模型设置中已出现 Astra 开关。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月5日3时47分"
+  },
+  {
+    "id": "cmtndupd804yfrog1jgu3hd1y",
+    "title": "Epoch AI 分析：华为到 2030 年几乎不可能追上 Nvidia",
+    "url": "https://x.com/EpochAIResearch/status/2095961343648211412",
+    "summary": "Epoch AI 分析华为芯片路线图和供应链后估计，2026 年华为将产出不足 Nvidia AI 算力的 4%，到 2030 年几乎不可能追上。若仅依赖国产 HBM，该份额到 2028 年可能降至约 1%（0.4-1.7M H100 等效算力，而 Nvidia 同期估算为 98M）；分析涵盖从 Ascend 950 到 3D 堆叠和国产 HBM 供应。",
+    "source": "X：Epoch AI (@EpochAIResearch)",
+    "date": "2026年9月5日3时45分"
+  },
+  {
+    "id": "cmtndyela0533rog1a94set94",
+    "title": "OpenAI 推进 Astra 推送，Pro 和 Business 订阅率先可用",
+    "url": "https://x.com/thsottiaux/status/2095961185262997556",
+    "summary": "OpenAI 正在推进 Astra 的分批推送，Pro 和 Business 订阅用户率先在 ChatGPT Work 和 Codex 中看到它。之后将尽快向所有 Plus 订阅用户推送。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年9月5日3时44分"
+  },
+  {
+    "id": "cmtndrkox04unrog1ruo14p5d",
+    "title": "Anthropic 用 Claude 在 11 天内完成费马最后定理的 Lean 形式化证明",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "summary": "Anthropic 宣布获得首个完整经计算机验证的费马最后定理证明，Claude 在 11 天内大体自主写出 1300 万行 Lean 代码，证明并使用了 29，500 个中间定理，规模超过 Mathlib 5 倍。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月5日3时43分"
   },
   {
     "id": "cmtnc0fw60371rog1v6e5u80c",
@@ -22,6 +326,14 @@
     "summary": "Grok Bot 上线 Bot 模板市场，用户可直接添加创作者制作的模板，市场目前有 68 个公开 Bot、42 位创作者、10 个分类。官方分享的内部采购专员 Haggle Bot 可谈判供应商合同、找出闲置 SaaS 席位并比价经常性采购，上线一周为其团队节省超过 10 万美元。",
     "source": "X：Lauren Tan (@poteto)",
     "date": "2026年9月5日3时34分"
+  },
+  {
+    "id": "cmtndnmof04qvrog1bm5gpxjx",
+    "title": "Anthropic 上传基于 Lean 4 的费马大定理机器校验证明，Ethan Mollick 指出文档仍带有 Claude 文风",
+    "url": "https://x.com/emollick/status/2095957821644763561",
+    "summary": "Anthropic 在 GitHub 上传了费马大定理的 Lean 4 完整机器校验证明（https://github.com/anthropics/fermats-last-theorem），基于 Mathlib（Lean 4.33.1、Mathlib v4.33.0），论证路线为 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles。Ethan Mollick 转发并评论称，该证明的描述虽短，但 PROOF-PATH.md 中\"为每一步命名并标注对应 Lean 定理\"的写法仍很像 Claude 的产出。仓库标注为研究产物，不维护且不接受贡献。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月5日3时31分"
   },
   {
     "id": "cmtncs41i03w7rog1ujt5c9a7",
