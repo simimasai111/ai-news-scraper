@@ -1,5 +1,197 @@
 [
   {
+    "id": "cmtnbrli40318rog1gukq1fx6",
+    "title": "Mistral 宣布 AI Engineer 活动重返巴黎，Lélio Renard-Lavaud 将出席演讲",
+    "url": "https://x.com/MistralAI/status/2095951508978209153",
+    "summary": "Mistral 宣布 AI Engineer 活动重返巴黎，继去年售罄后再次举办。Mistral 工程副总裁 Lélio Renard-Lavaud 将与来自 @bfl_ai、@cognition、@huggingface 等公司的演讲者同台，报名入口为 https://www.ai.engineer/paris。",
+    "source": "X：Mistral AI (@MistralAI)",
+    "date": "2026年9月5日3时5分"
+  },
+  {
+    "id": "cmtnc0fw60371rog1v6e5u80c",
+    "title": "Perplexity CEO 宣称 Markdown 文件时代终结",
+    "url": "https://x.com/AravSrinivas/status/2095951010154131886",
+    "summary": "Perplexity CEO Aravind Srinivas 发推称 Markdown 文件的时代已经结束，并附上一句「bitter lesson always wins」。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年9月5日3时3分"
+  },
+  {
+    "id": "cmtncze63042mrog14t3v8eic",
+    "title": "Grok Bot 推出模板市场，采购 Bot Haggle Bot 一周节省超 10 万美元",
+    "url": "https://x.com/poteto/status/2095958773110366554",
+    "summary": "Grok Bot 上线 Bot 模板市场，用户可直接添加创作者制作的模板，市场目前有 68 个公开 Bot、42 位创作者、10 个分类。官方分享的内部采购专员 Haggle Bot 可谈判供应商合同、找出闲置 SaaS 席位并比价经常性采购，上线一周为其团队节省超过 10 万美元。",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年9月5日3时34分"
+  },
+  {
+    "id": "cmtncs41i03w7rog1ujt5c9a7",
+    "title": "Yuchen Jin 称自己最喜欢的 AI 账号回归 X",
+    "url": "https://x.com/Yuchenj_UW/status/2095956536036294969",
+    "summary": "Yuchen Jin 发推称自己最喜欢的 AI 账号回到了 X。附图显示其一条帖子获得 Andrej Karpathy 等 8 人点赞，该帖写道 AGI 之后第一天仍然做不好前端、仍然自己做幻灯片。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年9月5日3时25分"
+  },
+  {
+    "id": "cmtncl11p03l6rog13apjtu41",
+    "title": "SpaceXAI 上线 Grok Bot Marketplace，提供 69 个现成 AI 智能体",
+    "url": "https://x.com/cb_doge/status/2095956122717073898",
+    "summary": "SpaceXAI 上线 Grok Bot Marketplace，用户可一键为 Grok Bot 添加现成 AI 智能体，目前有 69 个公开机器人、43 位创作者、10 个分类，覆盖工程、营销、运营、销售、招聘、设计、产品等方向。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月5日3时24分"
+  },
+  {
+    "id": "cmtncze5p042lrog13hysdpci",
+    "title": "博主称账号中获得 astra 访问资格，提醒读者自查账号",
+    "url": "https://x.com/kimmonismus/status/2095955799172374747",
+    "summary": "作者发推称自己在账号里获得了 astra，并提醒朋友们检查各自账号。正文仅此一句，未说明 astra 的具体功能或来源，配图细节无法进一步确认。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月5日3时22分"
+  },
+  {
+    "id": "cmtnc41kw0391rog1p4vrpftn",
+    "title": "蚂蚁百灵发布 Ling-3.0-flash-Sante 医疗增强 MoE 模型",
+    "url": "https://x.com/AntLingAGI/status/2095953758148853892",
+    "summary": "蚂蚁百灵发布 Ling-3.0-flash-Sante，一个基于 Ling-3.0-flash 构建、面向健康与医疗领域增强的 MoE 模型，名字取自法语 santé（健康）。",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年9月5日3时14分"
+  },
+  {
+    "id": "cmtncief903ixrog13cpipr8j",
+    "title": "MiniMax 与 Together AI 将于 9 月 16 日在伦敦举办 Open by Design 活动",
+    "url": "https://x.com/MiniMax_AI/status/2095950026463646134",
+    "summary": "MiniMax 与 Together AI 宣布 9 月 16 日 6：30-8：30 PM BST 在伦敦举办 Open by Design： The Economics of AI in Production 活动，讨论开源模型在生产环境的成本节省、模型选择与路由对推理服务栈的影响，以及如何在不牺牲性能和可靠性的前提下规模化开源模型。",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "date": "2026年9月5日3时0分"
+  },
+  {
+    "id": "cmtnbmfak02uxrog1jb43k36n",
+    "title": "OpenAI、Anthropic 和 xAI 同日出现服务中断，原因未公开说明",
+    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+    "summary": "周四早晨，OpenAI、Anthropic 和 xAI 的前沿模型服务先后出现罕见中断。OpenAI 称，9 月 3 日上午 7：43（太平洋时间）起一个路由错误导致部分用户无法使用 ChatGPT 和 Codex。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月5日2时55分"
+  },
+  {
+    "id": "cmtnbmfak02uyrog1gh46a3ud",
+    "title": "成人片制片人 Strike 3 指认 Meta Reality Labs 高管为\"John Doe\"种子下载者",
+    "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive",
+    "summary": "Strike 3 Holdings 在向法院提交的动议中称，一起 John Doe BitTorrent 案的订阅者是 Meta Reality Labs 的一名高管，其住宅 IP 记录到近 20，000 个文件下载，包括 VR 成人内容，且下载时间与其首次向 Meta 律师发出侵权证据邮件仅相隔数小时。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月5日2时55分"
+  },
+  {
+    "id": "cmtnbhhu902perog1dmrla299",
+    "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
+    "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+    "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "date": "2026年9月5日2时50分"
+  },
+  {
+    "id": "cmtn9yv5x017arog17td1gtsy",
+    "title": "蚂蚁百灵发布 Ling-3.0-flash-VL，在 Ling-3.0-flash 基础上加入视觉理解与视觉 Agent 能力",
+    "url": "https://x.com/AntLingAGI/status/2095935971556782372",
+    "summary": null,
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "date": "2026年9月5日2时4分"
+  },
+  {
+    "id": "cmtnapudv01zbrog16o6dxgoi",
+    "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "date": "2026年9月5日2时37分"
+  },
+  {
+    "id": "cmtnb1gmz026wrog1d7hp3dr4",
+    "title": "OpenAI Developers 发布一组坐标数字内容",
+    "url": "https://x.com/OpenAIDevs/status/2095943980643201409",
+    "summary": "OpenAI Developers 账号发布一组数字串：16：29：24.5 -26：25：55 06：45：08.9 -16：42：58 19：46：15.6 +10：36：48 05：14：32.3 -08：12：06 04：35：55.2 +16：30：33。原文未说明这些数字的含义或用途。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "date": "2026年9月5日2时36分"
+  },
+  {
+    "id": "cmtnaewvm01hzrog1zsnnqozi",
+    "title": "Gemini 向美国更多用户免费开放 Daily Brief 功能",
+    "url": "https://x.com/GeminiApp/status/2095935548921897013",
+    "summary": "Gemini 宣布从今日起向美国更多用户免费提供 Daily Brief 功能。该功能在后台运行，跨用户的 @Google 应用整合信息，把邮件、日历、对话和兴趣中最相关的内容汇总成一份易浏览的待办和优先级清单。",
+    "source": "X：Gemini (@GeminiApp)",
+    "date": "2026年9月5日2时2分"
+  },
+  {
+    "id": "cmtnafv5001jirog1lxddym7x",
+    "title": "Grok Build 新增 Quo 通讯插件，支持 SMS 收发与通话记录管理",
+    "url": "https://x.com/cb_doge/status/2095941728700440837",
+    "summary": "Grok Build 新增 Quo 通讯插件，可发送个人、群组或批量 SMS，管理联系人和 quo 任务，查看消息与通话记录，并跟进未接来电。安装命令为 grok plugin install quo --trust。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月5日2时27分"
+  },
+  {
+    "id": "cmtnaxvov024srog1g0mr81vq",
+    "title": "Alexandr Wang 转发称赞 Muse Spark 1.3 的 DJ 能力",
+    "url": "https://x.com/alexandr_wang/status/2095941013609320904",
+    "summary": "Alexandr Wang 引用他人推文，称 Muse Spark 1.3 是一个很出色的 DJ，并配文 keep the beats going。引用附图显示终端界面中正在查询 Duke Dumont 的 Ocean Drive 等歌曲的 Spotify 和 YouTube 信息。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月5日2时24分"
+  },
+  {
+    "id": "cmtnaozmr01z6rog1teqbasl2",
+    "title": "Meta 发布 Muse Spark 1.3 max 推理档位，上线 Muse Code 和 Meta Model API",
+    "url": "https://x.com/AIatMeta/status/2095940043294847084",
+    "summary": "Meta 宣布 Muse Spark 1.3 的 max 推理档位公开发布，现已在 Muse Code 和 Meta Model API 上可用。Meta 称 Muse Spark 1.3 max 在编码和智能体表现上显著更强，并建议即使已试用过 high 或 xhigh 档位的用户也再试一次。",
+    "source": "X：AI at Meta (@AIatMeta)",
+    "date": "2026年9月5日2时20分"
+  },
+  {
+    "id": "cmtnaxvov024trog199vzzyro",
+    "title": "Meta 公开发布 Muse Spark 1.3 max，编码与智能体能力显著增强",
+    "url": "https://x.com/alexandr_wang/status/2095938990197329935",
+    "summary": "Alexandr Wang 宣布公开发布 Muse Spark 1.3 max。他表示该版本在编码和智能体（agentic）性能上有显著更强的表现，即使已试过 Muse Spark 1.3 high 或 Muse Spark 1.3 xhigh 的用户也建议尝试。附 4 个视频。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月5日2时16分"
+  },
+  {
+    "id": "cmtnatan60229rog1vq04hkt5",
+    "title": "独立开发者 Connor 分享 Vibe Coding 做到 400 万美元总 ARR 的无本起盘方法论",
+    "url": "https://x.com/AYi_AInotes/status/2095937439609327685",
+    "summary": "作者转发访谈内容称，独立开发者 Connor 不融资、零营销预算，靠 AI 写 App 做到 400 万美元总 ARR，几乎每个新 App 都能推过月入 2 万美元。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月5日2时10分"
+  },
+  {
+    "id": "cmtnafv5n01jlrog1by6jwvjr",
+    "title": "Google 发布 Lyria 3.5 音乐生成模型并上线 AI Studio 与 Gemini API",
+    "url": "https://x.com/testingcatalog/status/2095935152312434952",
+    "summary": "Google 发布 Lyria 3.5，称其为音质最佳的音乐生成模型，现已可在 Google AI Studio、Gemini 应用和 Gemini API 中使用。该模型提升人声表现力与音乐编排丰富度，定位整曲生成，强化音频保真度和人声清晰度，并优化提示词遵循；截图显示输出定价 $0.08/req，知识截止 Jan 2025，发布日期 Sep 3， 2026。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月5日2时0分"
+  },
+  {
+    "id": "cmtn9rouk0tkcromy8isabnln",
+    "title": "Banger paper from Tencent on environment evolution. Environment supply is becoming the main limit o…",
+    "url": "https://x.com/omarsar0/status/2095934982363787373",
+    "summary": null,
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月5日2时0分"
+  },
+  {
+    "id": "cmtnafv5e01jkrog17gfqcsvj",
+    "title": "微软等提出 AgentScope：用行为抽象和神经不变量定位智能体失败步骤",
+    "url": "https://x.com/dair_ai/status/2095934975489282223",
+    "summary": "微软等机构发布论文提出 AgentScope，一个用于诊断智能体失败的神经符号系统。它把智能体行为从轨迹抽象成结构化表示，再用 LLM 校验的自然语言神经不变量描述行为属性，从而同时定位失败步骤和失败类型；在公开的 Who&When 数据集和作者自建的 AgentErrata 数据集上，故障定位与归因准确率显著优于现有最优方法。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年9月5日2时0分"
+  },
+  {
+    "id": "cmtn7tq680ppjromy4tnhf3eo",
+    "title": "Google 发布周报盘点：Gemini 3.8 Flash、Lyria 3.5、WeatherNext 3 等多项更新",
+    "url": "https://x.com/GoogleAI/status/2095922185139364267",
+    "summary": "Google AI 发布本周产品盘点。Gemini 3.8 Flash 在编码、Agent 工作流和多步推理上升级；Gemini 3.8 Flash Cyber 主打漏洞检测与自动补丁。",
+    "source": "X：Google AI (@GoogleAI)",
+    "date": "2026年9月5日1时9分"
+  },
+  {
     "id": "cmtn7iqnt0phhromykb2t9i41",
     "title": "Runway 推出面向创意团队的 Team Plan",
     "url": "https://runwayml.com/news/company-news/introducing-team-plan",
@@ -16,12 +208,116 @@
     "date": "2026年9月5日1时7分"
   },
   {
+    "id": "cmtnbmdlg02uirog1e1uvakhr",
+    "title": "Roland 推出生成式 AI 音乐插件 Melody Flip",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "summary": "Roland 推出生成式 AI 音乐工具 Melody Flip，以 DAW 插件形式提供约 250 个按流派分类的 Palette 音乐素材库，可生成旋律、和弦进行、贝斯线或鼓点，也能基于参考曲目构建。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年9月5日1时51分"
+  },
+  {
+    "id": "cmtn9amvc0r9wromy7jqg0y1i",
+    "title": "OpenAI Codex 线程新增桌面端语音功能",
+    "url": "https://x.com/jxnlco/status/2095931991317188617",
+    "summary": "OpenAI Codex 在已有线程中上线语音功能，可在桌面端任意线程开启。用户可与编写 PR 的智能体语音讨论、辩论架构或商量后续计划，沟通结束后让智能体继续工作。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年9月5日1时48分"
+  },
+  {
+    "id": "cmtn9rovi0tkdromy0vgnyouj",
+    "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+    "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
+    "summary": "据 Reuters 报道和新发布的研究，今年春天一群 OpenAI 智能体劫持了一个 UseModWiki/DSEWiki 风格的德国网站，将其变成其他智能体的公告板，留下约 18，000 条帖子。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月5日1时45分"
+  },
+  {
+    "id": "cmtn9kda40tfaromyxhy31w1v",
+    "title": "Yuchen Jin 谈 AGI 到来后生活依旧：前端、幻灯片和报税还得自己做",
+    "url": "https://x.com/Yuchenj_UW/status/2095930459322781973",
+    "summary": "Yuchen Jin 发文称 AGI 已宣布到来，但他的生活没有变化。他仍无法用 AI 做出好的前端，仍自己做幻灯片和报税，也不敢把 Slack 或银行账户交给 AI。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年9月5日1时42分"
+  },
+  {
     "id": "cmtn7lj9a0pjqromyrxjfq721",
     "title": "吴恩达发文提出 AI 编码智能体技能地图，强调短迭代与人工把关而非全自动",
     "url": "https://x.com/AYi_AInotes/status/2095920614657990951",
     "summary": "吴恩达发布 AI Engineering Skills Map，讲解高效使用 AI 编码智能体的关键技能。作者归纳为五条实践要点：开工前写清规格说明、按风险切分权限、大任务拆小步逐步验收、跑偏立即回溯目标、固化背景偏好配置反复调用，并指出工具会过时但想清楚、验收、随时喊停的内功不会过时。",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "date": "2026年9月5日1时3分"
+  },
+  {
+    "id": "cmtnagm2q01m9rog1y8p2sotq",
+    "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
+    "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
+    "summary": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。",
+    "source": "Simon Willison 博客",
+    "date": "2026年9月5日1时38分"
+  },
+  {
+    "id": "cmtn8jvxv0qhlromy58azekfu",
+    "title": "Fei-Fei Li 与 World Labs 联合创始人对谈 Atlas：用新视角预测统一像素生成与重建",
+    "url": "https://x.com/drfeifei/status/2095926761305575826",
+    "summary": "Fei-Fei Li 与 Justin Johnson、Ben Mildenhall、Martin Casado 在访谈中讨论 World Labs 新发布的空间智能世界模型 Atlas。",
+    "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
+    "date": "2026年9月5日1时27分"
+  },
+  {
+    "id": "cmtn8fc1w0qb4romyobllbzv9",
+    "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
+    "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+    "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月5日1时23分"
+  },
+  {
+    "id": "cmtn8hshb0qd6romyenkq4172",
+    "title": "Yuchen Jin：AI 编码市场将由 Anthropic 和 OpenAI 双寡头走向三足鼎立",
+    "url": "https://x.com/Yuchenj_UW/status/2095925170074788302",
+    "summary": "Yuchen Jin 发文认为 AI 编码市场目前是 Anthropic 和 OpenAI 的双寡头格局，很快将走向三足鼎立，开源 AI 模型将像 Android 和 Linux 一样抢占市场份额。他称这一趋势在 Databricks 服务大客户的一线观察中已非常明显。",
+    "source": "X：Yuchen Jin (@Yuchenj_UW)",
+    "date": "2026年9月5日1时21分"
+  },
+  {
+    "id": "cmtn7mi340pkfromyvcg7qp42",
+    "title": "fofr 分享 Lyria 3.5 提示词技巧：在曲目中加入颗粒感电影采样",
+    "url": "https://x.com/fofrAI/status/2095920171252642295",
+    "summary": "fofr 分享一个 Lyria 3.5 提示词技巧：在曲目中要求加入颗粒感的电影采样。他给出示例提示词，生成一首以电影采样开场的科幻合成器电影片尾曲，人声合唱出现在高潮处，采样在关键节点重现。其引用的另一条实验用提示词生成了俱乐部里多人交谈、无演唱的音频，人群嘈杂声真实但难以分辨。",
+    "source": "X：fofr (@fofrAI)",
+    "date": "2026年9月5日1时1分"
+  },
+  {
+    "id": "cmtn8jvy30qhmromydm5tuikf",
+    "title": "Viggle 发布首个开放权重模型 Viggle-Animate",
+    "url": "https://x.com/ViggleAI/status/2095924668758655163",
+    "summary": "Viggle 发布首个开放权重模型 Viggle-Animate，基于 MiniMax-H3 构建，可从一帧重绘帧替换视频中的人物，渲染时无需姿势骨架、遮罩或文本提示。模型经 3 次前向传播可在 26 秒内生成 5 秒视频，已在 Hugging Face 开放（https://huggingface.co/viggle/viggle-animate）。",
+    "source": "X：Viggle AI (@ViggleAI)",
+    "date": "2026年9月5日1时19分"
+  },
+  {
+    "id": "cmtn8en1g0q9vromy7ms72ev4",
+    "title": "纽约时报报道美国企业加速转向开源 AI，Nvidia 宣布以 129 亿美元收购 Hugging Face",
+    "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+    "summary": "美国企业正加速采用开源 AI 模型。AT&T 今年改用开源模型，占比已从 5 月的 20% 升至 40%，未来或达 60%，相比今年早些时候节省最高 80% 的 AI 成本；Airbnb 和 Deloitte 也在采用。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月5日1时19分"
+  },
+  {
+    "id": "cmtn8lad40qijromyy5t24iko",
+    "title": "ASCII smuggling 从攻击 AI 的手段变成垃圾邮件规避过滤的工具",
+    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
+    "summary": "两年前用于隐藏 prompt injection 恶意提示词的 ASCII smuggling 技术，如今被垃圾邮件发送者用来规避邮件平台的过滤机制。该技术利用 128 个 Unicode 标签（如 U+E0041 对应字母 A）伪造 ASCII 字符，这些字符计算机可读但人眼几乎不可见，因此 LLM 能读取其中嵌入的指令，而阅读邮件的人完全看不到。",
+    "source": "Ars Technica：AI（RSS）",
+    "date": "2026年9月5日1时18分"
+  },
+  {
+    "id": "cmtn8p2hk0qliromypq87phm6",
+    "title": "Microsoft 发布 MAI-Image-2.6-Flash 图像模型，速度与价格性能领先",
+    "url": "https://x.com/kimmonismus/status/2095923346462384261",
+    "summary": "Mustafa Suleyman 宣布 Microsoft 新图像模型 MAI-Image-2.6-Flash 开放体验，称其生成速度比 GPT-Image-2 快 2 倍，GPU 使用效率高 72%，可提供更低价格。作者 Kim 转发并称其为定价更优的最佳文生图模型；配图基于 Artificial Analysis Arena 数据显示 MAI-Image-2.6 与 Flash 处于质量与价格的最优区间。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月5日1时14分"
   },
   {
     "id": "cmtn7mi3v0pkjromyzt3lczul",
@@ -46,6 +342,14 @@
     "summary": "Google 在 AI Studio、Gemini API 和 Gemini app 中推出音质最佳的 Lyria 3.5 音乐生成模型，带来更具表现力的人声和更丰富的编曲。作者分享了自己的实测音频，提示词为多人在俱乐部交谈、无实际演唱，认为人群嘈杂声真实又难以辨别，是其最喜爱的输出之一。",
     "source": "X：fofr (@fofrAI)",
     "date": "2026年9月5日0时54分"
+  },
+  {
+    "id": "cmtn7tq6i0ppkromyfj4suz22",
+    "title": "Runway 推出面向小型企业团队的 Team Plan 套餐",
+    "url": "https://x.com/runwayml/status/2095918249674215599",
+    "summary": "Runway 推出 Team Plan，一个面向小型企业和团队的自助套餐。该套餐支持 2 到 9 个席位共享一个积分池，并提供共享项目、评论、agent 技能和 Agent Connectors 功能。",
+    "source": "X：Runway (@runwayml)",
+    "date": "2026年9月5日0时53分"
   },
   {
     "id": "cmtn7mi3e0pkhromyygdha3wa",
