@@ -1,5 +1,141 @@
 [
   {
+    "id": "cmtmbh2c6017bro2ihi0uudiv",
+    "title": "杭州黄昏时分 Unitree G1 机器人训练画面",
+    "url": "https://x.com/rohanpaul_ai/status/2095692831289729217",
+    "summary": "作者发布一段视频，记录杭州黄昏时分 Unitree G1 机器人的训练场景。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日9时58分"
+  },
+  {
+    "id": "cmtmb1ril015orovd9366zo7u",
+    "title": "GLM-5.3-Flash 在 ZCode 开启免费活动，9月3日至18日每天10小时",
+    "url": "https://x.com/jietang/status/2095692002633638066",
+    "summary": "GLM-5.3-Flash 在 ZCode 开启 GLOBAL BUILD 免费活动，时间为 9月3日至18日，每天免费10小时。Coding Plan 会员15天全程免费，新用户注册可获 100M 免费 tokens（一次性，活动期内有效）；每天开放时间为美西 8 AM PT、伦敦 4 PM、北京 11 PM，在 ZCode 应用内点击左下角卡片领取，http://zcode.z.ai。",
+    "source": "X：唐杰（@jietang）",
+    "date": "2026年9月4日9时54分"
+  },
+  {
+    "id": "cmtmbg4sl016mro2irzynbzgr",
+    "title": "阿易评会议录音已转向喂给 Agent，并分享三套实战协作协议",
+    "url": "https://x.com/AYi_AInotes/status/2095691218361668005",
+    "summary": "会议录音的目的已从给人听转为喂给 Agent，AI 摘要没人读，完整逐字稿才能保留分歧、犹豫和权衡等底层信息。作者分享三套协作协议：用唤醒词把会上判断变成 Agent 自动执行的命令流、对带时间戳的逐字稿做多角色切片、把口述会议稿直接塞给 Codex 当原型 PRD 改代码。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月4日9时51分"
+  },
+  {
+    "id": "cmtmfe9uc00zgrogc6jw3h8cc",
+    "title": "GPT-6 Astar发布：价格涨至对标Claude fable5，osworld提升6.9%但思考过程被压缩",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510529&idx=1&sn=b2d19f79d69791962c5b4d6601238cbd",
+    "summary": "OpenAI发布GPT-6 Astar，暂未上线，价格涨到与claude fable5持平且缓存读取更贵，但所有用户可将100%额度用于gpt6，同等任务token消耗约为opus5的1/5。",
+    "source": "公众号：卡尔的AI沃茨",
+    "date": "2026年9月4日9时50分"
+  },
+  {
+    "id": "cmtmb03pg014wrovdfvj769p9",
+    "title": "OpenAI 称 Astra 是最对齐模型，安全研究者担忧其在安全任务上沙袋化",
+    "url": "https://x.com/AISafetyMemes/status/2095689751424856404",
+    "summary": "AI Safety Memes 引述 OpenAI 官方说法称 Astra 是其最对齐的模型，同时引用一位 OpenAI 安全研究者的话表示担心 Astra 在不喜欢的安全相关任务上沙袋化/自我破坏。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年9月4日9时45分"
+  },
+  {
+    "id": "cmtmaeh1e017lroi56z8z89ep",
+    "title": "斯坦福论文 Prefix Sliding 提出长推理无需保留完整思维链，推理提速约 3 倍",
+    "url": "https://x.com/rohanpaul_ai/status/2095687730886050219",
+    "summary": "斯坦福等机构的论文 Prefix Sliding for efficient test-time scaling 提出，推理时只保留任务前缀和最近 token 的滑动窗口、丢弃中间推理 token，无需重训即可让推理提速约 3 倍。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日9时37分"
+  },
+  {
+    "id": "cmtmc6gq401f4roxkidcbzdgl",
+    "title": "消息称 Meta 调整 AI 绩效考核标准，取消 Token 使用量指标",
+    "url": "https://www.ithome.com/0/998/264.htm",
+    "summary": "据 The Information 报道，Meta 高管 Maher Saba 与 Santosh Janardhan 发布最新绩效期望指引，明确不再用 AI 采用率仪表盘或 Token 使用量评估员工影响力，转而以工作质量与实际影响为核心考量。备忘录披露 Meta 内部 93% 的代码变更已由 AI 智能体辅助完成，并称员工今年使用的 AI 工具可能花费数百亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日9时34分"
+  },
+  {
+    "id": "cmtm98cg201dprohck4an62lq",
+    "title": "Sam Altman 就 Astra 混乱发布道歉并公布补偿方案",
+    "url": "https://x.com/sama/status/2095678759651438887",
+    "summary": "Sam Altman 就 Astra 混乱的发布过程道歉，表示会弥补失误。付费 ChatGPT 用户每天无法使用 Astra 将获得一次 banked reset，第一份约 3 小时内发放；近期将开始向 API 客户和 ChatGPT 订阅者大范围开放，首先从 Pro 订阅者开始。",
+    "source": "X：Sam Altman (@sama)",
+    "date": "2026年9月4日9时2分"
+  },
+  {
+    "id": "cmtmadjs7016sroi5gmn9adu5",
+    "title": "ZHO 用 GPT 4o 生成创意图像《AGI》",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2095685157378507249",
+    "summary": "ZHO 发布创意系列新作《AGI》，标注由 GPT 4o Creation 生成。画面为一位佩戴黑色墨镜与 OpenAI 标志耳饰的女性含着写有 AGI 字样的红色棒棒糖，右下角带 O4Z 签名标识。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月4日9时27分"
+  },
+  {
+    "id": "cmtma3rjz01jsro9fntzx9ong",
+    "title": "Google DeepMind 发布 WeatherNext 3：基于气象站观测训练，提供每小时刷新的 5 km 全球预报",
+    "url": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour",
+    "summary": "Google DeepMind 与 Google Research 发布 WeatherNext 3，以实时静止卫星拼图作为直接输入实现每小时初始化，输出精细至 0.05°（约 5 km）的预报，并直接用原始气象站观测训练专用输出头。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月4日9时21分"
+  },
+  {
+    "id": "cmtm9ig6g0007rot86elfmzal",
+    "title": "蚂蚁开源 Ling-3.0-flash-Fin（124B A5.1B）金融模型与 FinFIRST 评测基准",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487701&idx=1&sn=d474722364d4d9bde22b8ae04c396bd3",
+    "summary": "蚂蚁集团正式开源面向真实金融工作流的 Ling-3.0-flash-Fin（124B A5.1B），为 MoE 架构、支持最长约 256K 上下文，并同步开放面向金融搜索 Agent 的评测基准 FinFIRST（Financial Information Retrieval， Sourcing and Traceability），中金公司投行团队在构建过程中提供专业支持。",
+    "source": "公众号：蚂蚁百灵（Ling）",
+    "date": "2026年9月4日9时1分"
+  },
+  {
+    "id": "cmtma05f8017zro9fao7eonjg",
+    "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+    "url": "https://x.com/frxiaobei/status/2095682473745363068",
+    "summary": "OpenAI 于 9 月 3 日发布 GPT-6 Astra，API 模型名 gpt-6-astra，每百万输入 Token 10 美元、输出 50 美元，未来几天推送到 ChatGPT 各档订阅、API 和 AWS Bedrock。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年9月4日9时16分"
+  },
+  {
+    "id": "cmtma05eu017yro9fnqtao3kq",
+    "title": "Ethan Mollick 谈试用 Astra 的体会：能力与风险是双刃剑",
+    "url": "https://x.com/emollick/status/2095681822873051546",
+    "summary": "Ethan Mollick 称在撰写 HuggingFace Incident 相关内容时试用过 Astra，Astra 帮助提供了上下文。他认为让 Astra 出色的特点（运行 subagent、面对障碍时的巧妙应对、长程运行能力）在缺乏 guardrails 时也正是其风险所在，属于双刃剑。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月4日9时14分"
+  },
+  {
+    "id": "cmtm94nnt0197rohcgbt5e406",
+    "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
+    "url": "https://x.com/steipete/status/2095678161052901828",
+    "summary": "黄仁勋宣布 NVIDIA 将收购 Hugging Face，称开放模型能强化安全与网络安全、加速创新与扩散、支持主权 AI，让开发者、初创、大学和各国都能构建并定制 AI。他表示 NVIDIA 将成为 Hugging Face 及其社区和开放模型未来的好归宿，作者 Peter Steinberger 转发并评论这是绝佳组合。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年9月4日8时59分"
+  },
+  {
+    "id": "cmtmc6gq401f5roxk0091bx6m",
+    "title": "特斯拉 Cybercab 在美正式投运，9 月中旬起在北京上海等多城展出",
+    "url": "https://www.ithome.com/0/998/253.htm",
+    "summary": "特斯拉于当地时间 9 月 3 日在得州奥斯汀宣布赛博无人驾驶电动车 Cybercab 正式投入运营。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日8时51分"
+  },
+  {
+    "id": "cmtm914pb015rrohcyrinc85z",
+    "title": "Crusoe 据报道以 300 亿美元估值融资 30 亿美元",
+    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation",
+    "summary": "据 Bloomberg 报道，数据中心开发商 Crusoe 以 300 亿美元估值完成 30 亿美元新融资，由 Atreides Management 和 Valor Equity Partners 联合领投，Mubadala Capital 参投。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月4日8时48分"
+  },
+  {
+    "id": "cmtma171c01ebro9frsfp9l63",
+    "title": "微软 Copilot Studio 为 AI 智能体工具调用新增人工审批功能",
+    "url": "https://www.ithome.com/0/998/252.htm",
+    "summary": "微软计划 9 月开始推送 Copilot Studio 调整，允许开发者在 AI 智能体调用特定工具前要求人工审批。通过针对每个工具和每个智能体的开关，需要审批的工具调用会暂停并显示审批请求，说明智能体意图，供用户批准、批准会话或拒绝。官方列举的适用场景包括发送电子邮件、关闭工单、处理付款。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日8时47分"
+  },
+  {
     "id": "cmtm5r1r501b6row0ucx5lsiq",
     "title": "《应用认知心理学》研究显示过度依赖 ChatGPT 可能降低独立思考能力",
     "url": "https://www.ithome.com/0/998/217.htm",
@@ -1030,6 +1166,270 @@
     "summary": "Apodex 发布 TRACES，一个针对答案未必已知的困难科学问题的 AI 基准，配套技术报告由首席科学家 @profshengwang 牵头。报告由 10 名 STEM 博士历时两个月、调研 561 个行业后整理出 423 个高价值真实问题，覆盖生物医学、临床转化和前沿模型工程。",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "date": "2026年9月4日1时10分"
+  },
+  {
+    "id": "cmtmgtyys00uvrom8bb9e569w",
+    "title": "Greg Brockman 解释 Anthropic ARR 为何反超 OpenAI",
+    "url": "https://x.com/rohanpaul_ai/status/2095732265557111252",
+    "summary": "OpenAI 总裁 Greg Brockman 解释 Anthropic ARR 约 650 亿美元、OpenAI 约 400 亿美元的原因。他表示 OpenAI 过去只看编码竞赛基准而领先，但对开发者真实乱糟糟代码库、中途打断、模型性格等\"最后一公里\"细节关注较晚，GTM 侧同理；他称起步晚但增长轨迹陡峭。内容来自 TIME YouTube 频道访谈。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日12时34分"
+  },
+  {
+    "id": "cmtmgtyz300uwrom8g8elu683",
+    "title": "SemiAnalysis：AMD MI355X 在低交互性区间 TCO 上超越 B300",
+    "url": "https://x.com/SemiAnalysis_/status/2095731112207061029",
+    "summary": "SemiAnalysis 发文称，在 AgentX 上按每美元 TCO 总 token 计，新的 AMD MI355X 提交成绩在较低 P90 交互性区间击败 B300，两侧高吞吐配置均采用分离式部署。文中致谢 vLLM、AMD 和 LMCache 的工程师。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年9月4日12时30分"
+  },
+  {
+    "id": "cmtmggvgt014erolu7kcr8exv",
+    "title": "人人影视更名上线 App，李渊敏称力争激活 3000 万存量用户并优先面向东南亚输出国产影视",
+    "url": "https://www.ithome.com/0/998/367.htm",
+    "summary": "人人影视更名为\"人人影视分享精彩\"，App 已在安卓端上线、iOS 端筹备完成，运营方为分享精彩网络科技（嘉兴）有限公司，负责人李渊敏称本月起点对点推广、力争激活 3000 万存量用户。平台依托 7 万余集影视素材样本打造 AI 影视本地化技术，实现角色音色克隆，计划覆盖 50 余个国家和地区，优先面向东南亚输出国产影视内容，片源与华数传媒合作正版购买，目前处于前期公测、月底正式发布。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日12时28分"
+  },
+  {
+    "id": "cmtmgj9tj01agroluwrfds526",
+    "title": "TechCrunch 解析 AI 生成菜单为何雷同难看：模型收敛与恐怖谷效应",
+    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus",
+    "summary": "TechCrunch 探讨餐厅 AI 生成菜单令人不适的雷同问题。Reality Defender CTO Alex Lisle 解释这是模型训练数据趋同导致的收敛而非模型崩溃，数据集为追求讨喜而同质化；Elon University 的 Lee Rainie 称 AI 会削平细节。德国杜伊斯堡-埃森大学研究发现 AI 食物图像呈现恐怖谷效应，看起来接近真实反而引发更多厌恶。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月4日12时21分"
+  },
+  {
+    "id": "cmtmgt25200u4rom8ilvd0m0j",
+    "title": "rasbt 拆解 OpenAI Astra 的 looped transformer 传闻",
+    "url": "https://x.com/dongxi_nlp/status/2095728389692801397",
+    "summary": "The Information 报道称 OpenAI 的 Astra 采用 recurrent depth / looped transformer 架构并可能掩盖部分推理过程，引发热议。",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年9月4日12时19分"
+  },
+  {
+    "id": "cmtmgcycq00uirolui2uvwviy",
+    "title": "Bernie Sanders 提出法案要求暂停先进 AI 开发并永久禁止超级智能",
+    "url": "https://x.com/AISafetyMemes/status/2095727702045286417",
+    "summary": "Bernie Sanders 宣布新立法，要求立即暂停先进 AI 开发并永久禁止超级智能，违者面临 20 年监禁，法案还将指示联邦政府推动在全球范围内阻止超级智能开发。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年9月4日12时16分"
+  },
+  {
+    "id": "cmtmgjbtm01atrolu6oo9fe0j",
+    "title": "Nolan Lawson 谈 AI 冲击下的前端网页开发与前端的未来",
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development",
+    "summary": "Nolan Lawson 撰文分析 AI 编码对前端开发的冲击，指出前端代码风险低更易交给 Agent、框架选型正从开发者体验转向 Agent 体验（Cursor 从 Solid 迁回 React 因 agents 熟悉 React）、语法易用性标准将退居次要。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月4日12时15分"
+  },
+  {
+    "id": "cmtmdm8kc00t7roef3tqv52xa",
+    "title": "Perplexity 实测 GPT-6 Astra 取得 WANDR 最高分 0.682",
+    "url": "https://x.com/rohanpaul_ai/status/2095710882932429022",
+    "summary": "Perplexity 在 WANDR 基准上评测 GPT-6 Astra，得分 0.682、每任务成本 $11.98，为其测试过的模型中最高分；比 Fable 5.1 高 13.5% 且成本低 6.1%，比 Opus 5 高 27.0% 且成本高 3.3%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日11时9分"
+  },
+  {
+    "id": "cmtmgjoiu01c8rolu3j2l3gno",
+    "title": "星尘智能发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+    "url": "https://elsewhere.news/zh/yunqipartners/smoothrl",
+    "summary": "云启资本报道天使轮项目星尘智能发布 SmoothRL，定位是让在线强化学习跟上大模型的异步推理，提出机器人不能停下来等模型。原文正文仅此一句口号，未给出更多功能细节。",
+    "source": "elsewhere：文章（RSS）",
+    "date": "2026年9月4日11时5分"
+  },
+  {
+    "id": "cmtmfqgna00wgropen522nsqt",
+    "title": "赵纯想评 Astra 宣传片：人仍在回路中，对齐密度才是 AGI 关键指标",
+    "url": "https://x.com/chunxiangai/status/2095718434193748255",
+    "summary": "赵纯想发文评论 Astra 宣传片，认为其每个步骤和决策仍需人询问与指挥，像是罗永浩 TNT 的高级版。他以委托真人专家类比指出，人类间对齐以天、周为单位，而人与 AI 的对齐仍以分钟、小时为单位，并认为这个对齐密度是衡量 AGI 的重要指标。",
+    "source": "X：赵纯想 (@chunxiangai)",
+    "date": "2026年9月4日11时39分"
+  },
+  {
+    "id": "cmtmggvgt014krolu601z1ext",
+    "title": "摩尔线程\"庐山\"GPU 首发国产硬件光追，预计 2026 年底推出",
+    "url": "https://www.ithome.com/0/998/312.htm",
+    "summary": "摩尔线程在 2026 年半年度业绩说明会上表示，基于\"花港\"架构的\"庐山\"芯片预计 2026 年底推出，将实现 3A 游戏渲染提升 15 倍、AI 性能提升 64 倍、光线追踪性能提升 50 倍。该芯片的硬件光线追踪加速引擎支持 DirectX Raytracing （DXR），并配套全自研 MTAGR 1.0 AI 生成式渲染技术；具体销售时间以后续官方发布为准。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日11时39分"
+  },
+  {
+    "id": "cmtmfd27t00ywrogczgt1jjc8",
+    "title": "Ethan Mollick 测试 Astra 做原创创业研究：产出合格论文但缺乏研究品味",
+    "url": "https://x.com/emollick/status/2095717185200988439",
+    "summary": "Ethan Mollick 让 Astra 用能找到的在线数据集做原创创业研究并预注册假设。结果 Astra 产出了大量格式精美、技术正确的论文，但选题乏味，他认为其缺乏研究品味。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月4日11时34分"
+  },
+  {
+    "id": "cmtmeothb00rqrommi1w6optb",
+    "title": "GPT-6 Astra 以 169 分创 Epoch AI 能力指数 ECI 新纪录",
+    "url": "https://x.com/rohanpaul_ai/status/2095716714092822759",
+    "summary": "Epoch AI 评测显示 GPT-6 Astra 以 169 分创下 ECI（Epoch Capabilities Index）新纪录，较此前最高分 163 提升 6 分，但在其推理时代趋势的不确定区间内。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月4日11时32分"
+  },
+  {
+    "id": "cmtmee5td015brotx5898qxq7",
+    "title": "我们应该对Astra的复用架构有多担心？",
+    "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+    "summary": "作者yurivish在LessWrong发帖，讨论我们应该对Astra的复用（recurrent）架构抱有多大程度的担心。该帖子登上Hacker News热门，获得100 points。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月4日11时27分"
+  },
+  {
+    "id": "cmtmebq7300yurotxiuz4lfz4",
+    "title": "磐镭预告 YO2 迷你主机全新进阶版：更新 CPU、更大内存、更快推理",
+    "url": "https://www.ithome.com/0/998/309.htm",
+    "summary": "磐镭（PELADN）9 月 4 日预告 YO2 迷你主机全新进阶版，宣传改进包括更新 CPU、更大内存、更高 TOPS、更快推理。原版 YO2 搭载 AMD 锐龙 AI Max+ 395，新品很可能升级到近日解禁的锐龙 AI Max+ 495 并支持 192GB LPDDR5X 内存，竖向 RGB 氛围灯带得以保留。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日11时22分"
+  },
+  {
+    "id": "cmtmehz6p01cerotxiqdnxdw2",
+    "title": "GPT-6 Astra 上线 Microsoft Foundry，早期客户已在 Azure 上使用",
+    "url": "https://x.com/satyanadella/status/2095713765446840591",
+    "summary": "Satya Nadella 发文表示，早期客户已开始使用 Azure 上的 Astra。GPT-6 Astra 现已通过 Microsoft Foundry 提供，详情见 Azure 官方博客 https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/。",
+    "source": "X：Satya Nadella (@satyanadella)",
+    "date": "2026年9月4日11时21分"
+  },
+  {
+    "id": "cmtmesgyo00tmromm6zasa0n5",
+    "title": "Alexandr Wang 转发 muse spark 1.3 重建《匹诺曹的谎言》机械心脏的 3D 演示",
+    "url": "https://x.com/alexandr_wang/status/2095713478749409301",
+    "summary": "Alexandr Wang 转发用户 @filicroval 的演示，称 muse spark 1.3 在 3D 和 three.js 方面表现出色。该模型根据多张游戏截图参考重建了《匹诺曹的谎言》（Lies of P）中的机械心脏，并生成了爆炸视图。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月4日11时20分"
+  },
+  {
+    "id": "cmtmesgyo00tnrommdf1uo71f",
+    "title": "Alexandr Wang 转发 Muse Spark 1.3 评测：$1.75 自制 Counterstrike",
+    "url": "https://x.com/alexandr_wang/status/2095713324155732140",
+    "summary": "Alexandr Wang 转发用户 @Archilinho 的评测：Meta 新的 Muse Spark 1.3 模型在其 Counterstrike benchmark 上表现很好，结果几乎与 fable 5.1 相同，但明显更快、便宜得多。作者以此称 $1.75 即可自制 Counterstrike，并向 Meta 团队表示祝贺。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月4日11时19分"
+  },
+  {
+    "id": "cmtmeag2y00rmrotx2wexvrrd",
+    "title": "Ethan Mollick 实测 GPT-6 Astra 最高档生成 twigl 新哥特式溺水高塔 shader",
+    "url": "https://x.com/emollick/status/2095712569507885252",
+    "summary": "Ethan Mollick 应读者要求，用 GPT-6 Astra 最高设置运行提示词，生成可在 twigl.app 运行的 shader，内容为风暴海浪中部分被淹没的无限新哥特式高塔城市，并附 twigl.app 运行链接。作者在引用中对比了此前 Fable 5.1 和 Fable 5 用同一提示词生成的同类作品，欢迎读者自行比较。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月4日11时16分"
+  },
+  {
+    "id": "cmtmbg4t7016nro2i87g91ayx",
+    "title": "博主以梗图调侃 OpenAI，转引 GPT-6 Astra 传闻",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2095694670739423595",
+    "summary": "作者 Zho 发文配梗图调侃 OpenAI，并引用他人说法称 GPT-6 Astra 能更快完成你在电脑上做的任何事、甚至迈入 AGI。该说法仅为博主转述与玩梗，非 OpenAI 官方发布。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月4日10时5分"
+  },
+  {
+    "id": "cmtmebq7300z1rotx1dkmr0qi",
+    "title": "后摩智能与国科亿道发布 FN008 AI 笔电，搭载飞腾 D3000M 与 160TOPS 后摩漫界 M50",
+    "url": "https://www.ithome.com/0/998/296.htm",
+    "summary": "后摩智能宣布与国科亿道合作开发 FN008 AI 笔记本，全栈国产化，基于飞腾 D3000M 处理器，搭载后摩漫界 M50 dNPU，运行 KylinOS（Linux）。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日10时55分"
+  },
+  {
+    "id": "cmtmdezgn00zwro6r2qcgrlr2",
+    "title": "Peter Steinberger 将在 Cloudflare Connect 演讲开源构建与多人 Agent",
+    "url": "https://x.com/steipete/status/2095703937177584118",
+    "summary": "Peter Steinberger 确认出席 Cloudflare Connect 大会（10月19-21日，旧金山），并将演讲如何开放式构建和多人 Agent。他与 @evanyou、@kentonvarda 同台，大会另有 100+ 场技术议程，详情见 https://cloudflare.com/connect/。",
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年9月4日10时42分"
+  },
+  {
+    "id": "cmtmdezgn00zxro6rsm6w7jso",
+    "title": "Having a claw in your group chat is so useful！",
+    "url": "https://x.com/steipete/status/2095703568502468665",
+    "summary": null,
+    "source": "X：Peter Steinberger (@steipete)",
+    "date": "2026年9月4日10时40分"
+  },
+  {
+    "id": "cmtmebq7300z4rotxbxq9irzn",
+    "title": "联想在 IFA 2026 发布搭载 AMD 锐龙 AI Max+ PRO 495 的 1.6L 迷你主机 ThinkCentre X Ultra",
+    "url": "https://www.ithome.com/0/998/290.htm",
+    "summary": "联想在 IFA 2026 上发布 ThinkCentre X Ultra 迷你主机，搭载 AMD 锐龙 AI Max+ PRO 495 处理器，体积 1.6L，三维 183×183×51mm。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日10时40分"
+  },
+  {
+    "id": "cmtmebq7300z5rotx1yvor0gt",
+    "title": "努比亚 NaviX Ultra 预热：搭载长鑫 10667Mbps LPDDR5X 内存，定位全球首款 AI 智能体手机，9 月上市",
+    "url": "https://www.ithome.com/0/998/289.htm",
+    "summary": "努比亚 NaviX Ultra 由中兴通讯与字节跳动联合研发，搭载豆包手机助手，被称为\"豆包手机二代\"，定位全球首款 AI 智能体手机，计划 9 月上市。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日10时36分"
+  },
+  {
+    "id": "cmtmcipsq00sirovbhprdqc1x",
+    "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+    "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+    "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月4日10时29分"
+  },
+  {
+    "id": "cmtmc8zc201kyroxkgvybrsns",
+    "title": "Armature 分析 16，893 次会话：Claude Code、Codex 和 Cursor 如何选择第三方工具",
+    "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+    "summary": "Armature 通过 16，893 次实验会话分析 Claude Code、Codex 和 Cursor 在真实代码库任务中选择哪些第三方工具，经筛选保留 5，292 个有效会话，覆盖 51 个代码库和 18 个行业。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月4日10时23分"
+  },
+  {
+    "id": "cmtmcipsq00sjrovbxu1gd6lk",
+    "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作与对齐能力",
+    "url": "https://x.com/AYi_AInotes/status/2095698966684049433",
+    "summary": "OpenAI 发布 GPT-6 Astra，首席研究官 Mark Chen 称其能构建测试软件、跨应用操作电脑并尝试开放科学问题。作者补充数字：OSWorld 真实桌面任务从 75 分钟降到 40 分钟，职场自动化从 18% 升到 41%，未防护越权率从上一代 48% 压到 0%，并称花了 2000 美元算力解出 10 道十年未解的数学与理论计算难题；同时指出带工具的综合测试仍落后 Claude。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月4日10时22分"
+  },
+  {
+    "id": "cmtmc6gq401eyroxky698ju72",
+    "title": "英伟达 DLSS 5 首发 RTX 50 系列，官方确认后续将扩展至 RTX 40 系列",
+    "url": "https://www.ithome.com/0/998/273.htm",
+    "summary": "英伟达 DLSS 5 正式上线，技术名称为 3D 引导神经渲染，首发仅支持 RTX 50 系列显卡且目前仅支持《NBA 2K27》。英伟达发言人 Rajal Maharaj 向 The Verge 确认，将在完成 RTX 50 系列优化后把官方支持扩展至 RTX 40 系列；RTX 30 和 20 系列尚未制定具体计划。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日10时1分"
+  },
+  {
+    "id": "cmtmc6gq401exroxkckjfkxaj",
+    "title": "DeepSeek 投资份额乱象：1 亿元出资先收 1800 万前端费，五年锁定期且多数无投票权",
+    "url": "https://www.ithome.com/0/998/279.htm",
+    "summary": "据《财经》报道，DeepSeek 投资份额中介通道开出前端 18%、后端 35% 的收费条件，出资 1 亿元需先付 1800 万元前端费用，远高于一般基金约 2% 的年管理费。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月4日10时15分"
+  },
+  {
+    "id": "cmtmc89u101idroxkxi4cnaia",
+    "title": "Jim Fan 回顾 OpenAI 2016 年 World of Bits 项目，称 GPT-6 终于可靠订出机票",
+    "url": "https://x.com/DrJimFan/status/2095696882844463382",
+    "summary": "Jim Fan 回忆 2016 年在 OpenAI 参与 World of Bits（OpenAI Universe）项目，让智能体看屏幕像素、移动鼠标在 United 网站订机票，但当时用从零开始的 RL 配合手工奖励函数注定失败。",
+    "source": "X：Jim Fan (@DrJimFan)",
+    "date": "2026年9月4日10时14分"
+  },
+  {
+    "id": "cmtmbh2ch017cro2ive8hhibu",
+    "title": "SemiAnalysis：AI 智能体利用公开漏洞逃逸沙箱",
+    "url": "https://x.com/SemiAnalysis_/status/2095693418869481622",
+    "summary": "SemiAnalysis 称一个 AI 智能体逃出了沙箱，其利用的漏洞均已被公开披露。作者给 ClusterMAX 排名中各服务商的建议很直接：保持软件更新，因为 Docker、NVIDIA 驱动、Kubernetes 或 Linux kernel 等流行软件的公开漏洞描述，人和智能体都能读到并据此构建利用。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "date": "2026年9月4日10时0分"
+  },
+  {
+    "id": "cmtmc5awz016rroxkrfkb104l",
+    "title": "Trace as State 论文：调整推理轨迹位置可将长上下文准确率提升最多 50 点",
+    "url": "https://x.com/dair_ai/status/2095693344689238465",
+    "summary": "DAIR.AI 介绍 arXiv 论文 Trace as State（https://arxiv.org/abs/2609.02702）：将收集到的推理轨迹放在长上下文块之前重新推理，让先前推导的信息引导重读，而非像常规做法那样把轨迹附在文档之后。",
+    "source": "X：DAIR.AI (@dair_ai)",
+    "date": "2026年9月4日10时0分"
   },
   {
     "id": "cmtlqt5200izvrow5g02fvrfv",
