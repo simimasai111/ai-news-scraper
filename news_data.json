@@ -904,6 +904,38 @@
     "date": "2026年9月5日2时0分"
   },
   {
+    "id": "cmtoji6kh01avrocxb1tq3cks",
+    "title": "OpenAI 发布 GPT-6 Astra 模型，布罗克曼称\"欢迎来到 AGI 时代\"",
+    "url": "https://www.ithome.com/0/998/833.htm",
+    "summary": "OpenAI 发布新模型 GPT-6 Astra，距 GPT-5 系列约一年、GPT-5.6 升级约两个月。OpenAI 总裁布罗克曼在媒体电话会议上称\"欢迎来到 AGI 时代\"，并表示未来人们回看可能认为 AGI 从这个模型开始。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日22时46分"
+  },
+  {
+    "id": "cmtoglwtx021xroe8vdt7mod3",
+    "title": "Anthropic 工程师 60 分钟多 Agent 架构课被整理成四级实践方法",
+    "url": "https://x.com/AYi_AInotes/status/2096237863247765704",
+    "summary": "作者推荐并整理了一段 60 分钟的多 Agent 架构课程视频，称其出自 Anthropic 资深工程师，将核心内容归纳为四级台阶：用计划模式与 CLAUDE.md 筑底。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月5日22时3分"
+  },
+  {
+    "id": "cmtoglwtx021yroe8i0vv9rtk",
+    "title": "OpenAI Codex 架构师谈新一代 Coding Agent 如何给 AGENTS.md 和 Skill 瘦身",
+    "url": "https://x.com/AYi_AInotes/status/2096236132812116025",
+    "summary": "作者转发 OpenAI Codex 架构师 @pvncher 的文章，指出新一代 Coding Agent 时代，为弱模型搭建的长提示词和 Skill 脚手架正在烧 Token 并引发早停。官方给出 5 条规则：Skill 描述只写触发条件、删掉 AGENTS.md 里的每次必读文档、对安全测试环境彻底放权、开工只锁完成标准不写细步骤，并附上可直接复制的仓库自检审计 Prompt 和放权模板。",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "date": "2026年9月5日21时56分"
+  },
+  {
+    "id": "cmtohcm5a02ndroe82aw1nytf",
+    "title": "HTC 黄昭颖称手机难再创新突破，资源转向 AI 眼镜 VIVE Eagle",
+    "url": "https://www.ithome.com/0/998/828.htm",
+    "summary": "9 月 3 日，HTC 为 AI 智能眼镜 VIVE Eagle 新增圆框款式并升级软件功能，同时登陆欧洲、北美和澳大利亚市场。高级副总裁黄昭颖在采访中表示，智能手机已很难找到新的创新突破，U24 Pro 预计今年底逐步进入产品周期尾声，资源将转向 AI 眼镜；若未来出现新的突破技术仍可能重新评估手机业务。据报道，VIVE Eagle 自 2025 年推出后，该品类今年营收规模已超越智能手机。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日21时46分"
+  },
+  {
     "id": "cmtofayvo02uoroht238ucfjw",
     "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
     "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
