@@ -904,6 +904,38 @@
     "date": "2026年9月5日2时0分"
   },
   {
+    "id": "cmtofayvo02uoroht238ucfjw",
+    "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+    "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+    "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月5日21时31分"
+  },
+  {
+    "id": "cmtof7do802o8roht7iddtumq",
+    "title": "解放军总医院第六医学中心完成全球首例 AI 超声机器人引导下先天性心脏病封堵术",
+    "url": "https://www.ithome.com/0/998/823.htm",
+    "summary": "9 月 5 日上午，解放军总医院第六医学中心心血管病医学部完成人工智能超声机器人引导下先天性心脏病介入封堵术，经科技查新为全球首例同类智能技术临床应用。患者为 48 岁男性，确诊房间隔缺损且缺损边缘解剖条件较差。该系统由朱航主任团队与清华科研团队联合研发，通过机械臂自主扫查、AI 自动甄别病灶、构建心脏三维模型并规划手术路径，实现影像识别与手术操作的双向智能协同，提升了手术精准度与安全性。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日21时11分"
+  },
+  {
+    "id": "cmtof7do802o9rohttcoxlpvj",
+    "title": "消息称 Kimi、MiniMax 等大模型厂商即将入驻天猫开售 Token 订阅套餐",
+    "url": "https://www.ithome.com/0/998/822.htm",
+    "summary": "上海证券报 9 月 5 日独家消息称，Kimi、MiniMax、阶跃星辰等多家大模型厂商正与天猫接洽，拟开店销售 Token 订阅套餐。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日20时52分"
+  },
+  {
+    "id": "cmtoe8dst01xlrohtrkqqeu8a",
+    "title": "两场实验显示与聊天机器人对话约七分钟比事实清单更能削弱阴谋论信念",
+    "url": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments",
+    "summary": "Carnegie Mellon、MIT 和 Cornell 的研究者在 Trump 遇刺未遂和 Charlie Kirk 枪击事件后的几天内各开展一次在线实验，用 Gemini（1.5 和 2.5 版本）进行平均约七分钟的证据型对话，Trump 实验保留 472 名参与者，Kirk 实验保留 1035 名。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月5日20时39分"
+  },
+  {
     "id": "cmtn7tq680ppjromy4tnhf3eo",
     "title": "Google 发布周报盘点：Gemini 3.8 Flash、Lyria 3.5、WeatherNext 3 等多项更新",
     "url": "https://x.com/GoogleAI/status/2095922185139364267",
@@ -1046,6 +1078,46 @@
     "summary": null,
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年9月5日1时0分"
+  },
+  {
+    "id": "cmtoax2es03tyroxh9svxj10v",
+    "title": "塔塔咨询将在海得拉巴建设 1GW AI 数据中心园区，投资达 7000 亿卢比",
+    "url": "https://www.ithome.com/0/998/810.htm",
+    "summary": "塔塔咨询服务公司宣布旗下子公司 HyperVault 已取得 264 英亩土地，将在印度海得拉巴建设规划容量 1GW 的 AI 数据中心园区，HyperVault 及合作伙伴预计投资高达 7000 亿印度卢比（约合 497.87 亿元人民币）。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日19时7分"
+  },
+  {
+    "id": "cmtod27rl01iyrouskepiiex2",
+    "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+    "url": "https://www.ithome.com/0/998/814.htm",
+    "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日19时43分"
+  },
+  {
+    "id": "cmtoba1tm047nroxh3vml7on9",
+    "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+    "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
+    "source": "公众号：数字生命卡兹克",
+    "date": "2026年9月5日19时39分"
+  },
+  {
+    "id": "cmtoazuoz03z6roxhurow5v5s",
+    "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "summary": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
+    "source": "The Verge：AI（RSS）",
+    "date": "2026年9月5日19时15分"
+  },
+  {
+    "id": "cmtob9041046wroxhsbn7ule2",
+    "title": "ZHO 实测 GPT-6 Astra 连续运行 8 小时完成建筑全流程任务",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2096195128927093076",
+    "summary": "ZHO 实测 GPT-6 Astra（ChatGPT Work，Ultra 档），输入一张建筑照片和一条地狱难度提示词，让模型基于传统工作流重建建筑。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月5日19时13分"
   },
   {
     "id": "cmto9xza3032zroxha6k99jah",
