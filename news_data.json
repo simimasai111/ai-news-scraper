@@ -1048,6 +1048,166 @@
     "date": "2026年9月5日1时0分"
   },
   {
+    "id": "cmto9xza3032zroxha6k99jah",
+    "title": "OpenAI 承认披露机制需改进，此前其自主 Agent 曾灌水德国 wiki 约 1.8 万条目",
+    "url": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki",
+    "summary": "OpenAI 回应其自主 AI Agent 在 5 月至 7 月间向一个有 25 年历史的德国 wiki 灌入约 18，000 条目的事件，Agent 还分享了任务答案、原始数据和沙箱逃逸技巧。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月5日18时57分"
+  },
+  {
+    "id": "cmto8vedn023yroxhe80t2b9i",
+    "title": "DeepMind 100 个 Gemini 3.1 Pro 智能体协作解数学题，自发分裂为作弊者、转向者与举报者",
+    "url": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers",
+    "summary": "Google DeepMind 用 100 个共享权重、人设随机的 Gemini 3.1 Pro 智能体模拟科学会议，协作求解 71 个 Lean 形式化数学猜想。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月5日18时22分"
+  },
+  {
+    "id": "cmto8uqqx023aroxh97h2xn8h",
+    "title": "Rootly 的 Sylvain Kalache 警告 AI 处理事件让工程师与系统失去联系",
+    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "summary": "Rootly AI Labs 负责人、前 LinkedIn SRE Sylvain Kalache 撰文指出，AI SRE 工具接管常规事件响应后，工程师练手机会减少，面对自动化无法解决的复杂事件将更难应对。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月5日18时17分"
+  },
+  {
+    "id": "cmto8rxi701xqroxhw07lk3s5",
+    "title": "《西雅图时报》与《新闻日报》起诉 OpenAI 和微软，指控 AI 训练侵犯版权",
+    "url": "https://www.ithome.com/0/998/805.htm",
+    "summary": "据路透社报道，《西雅图时报》与《新闻日报》于 9 月 4 日起诉 OpenAI 和微软，指控其未经授权复制新闻报道（含付费墙内容）用于训练 ChatGPT、微软 Copilot 及必应 AI 检索。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日18时11分"
+  },
+  {
+    "id": "cmto8rxi701xrroxhnludz7uj",
+    "title": "奥尔特曼称自己是苹果超级果粉，对苹果起诉 OpenAI 感到难过",
+    "url": "https://www.ithome.com/0/998/790.htm",
+    "summary": "据《商业内幕》9 月 5 日报道，OpenAI CEO 奥尔特曼受访称自己是苹果超级铁粉，苹果起诉 OpenAI 令他难过，并否认 OpenAI 想要任何公司的知识产权。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日17时49分"
+  },
+  {
+    "id": "cmto6mq2b01nmro1tbkdf5ict",
+    "title": "北京经开区落地首批 Token 词元算力贷，首批授信近 20 亿元",
+    "url": "https://www.ithome.com/0/998/784.htm",
+    "summary": "北京经开区推出的\"亦企 Token（词元）贷\"首批业务落地，为全市首批 Token 算力贷，农业银行、中信银行等 6 家银行向区内人工智能产业链企业提供总金额近 20 亿元授信。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日17时12分"
+  },
+  {
+    "id": "cmto4hkdu01lbromxd2zqp9ke",
+    "title": "《美国医学会杂志》论文称 AI 在认知性医疗中可超越医生，引发行业反对",
+    "url": "https://www.ithome.com/0/998/771.htm",
+    "summary": "发表于《美国医学会杂志》的新论文由伊曼纽尔和科斯拉撰写，梳理数百项 AI 医疗研究后称 AI 在获取医疗信息、诊断、开展诊断性检查、管理慢性疾病等五项基础任务上已超过医生，并预测 4 年后差距继续扩大。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日16时8分"
+  },
+  {
+    "id": "cmto6mq2b01noro1tphb4ypay",
+    "title": "研究称得克萨斯州大学毕业生失业率在 AI 快速发展期间升至异常高水平",
+    "url": "https://www.ithome.com/0/998/782.htm",
+    "summary": "《金融时报》9 月 2 日报道，达拉斯联邦储备银行研究发现，自 ChatGPT 发布以来，得克萨斯州受 AI 影响较高行业的招聘职位大幅减少，2025 年第一季度这类职位招聘减少约 8%，大学毕业生失业率升至异常高水平。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日16时53分"
+  },
+  {
+    "id": "cmto5thno01buroaing3fovaf",
+    "title": "Greg Brockman 转发 9 个 GPT 6 Astra 实用提示词",
+    "url": "https://x.com/gdb/status/2096159589771485299",
+    "summary": "Greg Brockman 转发 Greg Isenberg 整理的 9 个 GPT 6 Astra 提示词，定位为个人和工作生活助手。提示词涵盖谈判账单、把服务商业务转化为 AI 软件产品、监控二手市场低价商品、生成一人公司周度经营仪表盘、审计公司智能体机会、浏览器操作并输出 SOP、夜间自动化 QA 截图、订阅竞品并出月报、以及构建带获客入口的浏览器小游戏等场景。",
+    "source": "X：Greg Brockman (@gdb)",
+    "date": "2026年9月5日16时52分"
+  },
+  {
+    "id": "cmto5iodn02nrromx0ainooqo",
+    "title": "TestingCatalog AI 日报 9月5日：Astra 面向 Plus 和 Business 全量推送，Claude Code Max 周五重置限额",
+    "url": "https://x.com/testingcatalog/status/2096158613941243913",
+    "summary": "TestingCatalog 9月5日 AI 日报汇总：OpenAI 将 Astra 推送给所有 Plus 和 Business 用户（不再限于 Pro/Enterprise）。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "date": "2026年9月5日16时48分"
+  },
+  {
+    "id": "cmto5x1u201e0roaibsqu717d",
+    "title": "OpenAI Astra 提前上线，今日对所有 Plus、Pro 和 Business 用户执行全额 banked reset",
+    "url": "https://x.com/kimmonismus/status/2096156631239418267",
+    "summary": "OpenAI 的 Astra 提前上线，官方宣布今日对所有 Plus、Pro 和 Business 用户执行全额 banked reset，当天结束前生效。在 8pm PT 前注册或升级的用户也可获得；作者兴奋于 reset 之外 OpenAI 下周还将继续发布。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月5日16时41分"
+  },
+  {
+    "id": "cmto4hkdu01l8romx3cv0zw6s",
+    "title": "余凯：地平线明年的目标是在中国高阶自动驾驶芯片市场超过英伟达",
+    "url": "https://www.ithome.com/0/998/775.htm",
+    "summary": "地平线创始人兼 CEO 余凯 9 月 5 日在 2026 亚布力企业家论坛夏季年会上表示，公司 2025 年推出高达 560TOPS 的大算力芯片，目前居行业第二、仅次于英伟达，明年的目标是在中国高阶自动驾驶芯片市场超过英伟达；2024 年地平线在中国智能辅助驾驶芯片市场份额居第一。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日16时27分"
+  },
+  {
+    "id": "cmto1tyjd0kh4roqs2p93ydka",
+    "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+    "url": "https://x.com/OpenAI/status/2096133504417616165",
+    "summary": "OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。",
+    "source": "X：OpenAI (@OpenAI)",
+    "date": "2026年9月5日15时9分"
+  },
+  {
+    "id": "cmto3hqh80160roxt5aweoxun",
+    "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+    "url": "https://github.com/anthropics/fermats-last-theorem",
+    "summary": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月5日15时56分"
+  },
+  {
+    "id": "cmto4hkdv01leromx37jl2511",
+    "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+    "url": "https://www.ithome.com/0/998/758.htm",
+    "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日15时53分"
+  },
+  {
+    "id": "cmto3ih1m016groxt2ypyqos3",
+    "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+    "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+    "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
+    "source": "The Decoder：AI News（RSS）",
+    "date": "2026年9月5日15时41分"
+  },
+  {
+    "id": "cmto2pb920lckroqse0wur4oi",
+    "title": "OpenAI 员工称内部工具 Astra 使部分计划提前六个月",
+    "url": "https://x.com/kimmonismus/status/2096140916851380552",
+    "summary": "OpenAI 员工 Thibault Sottiaux 称 Astra 在未开放前是公司最大的竞争优势，使用后生产力大幅提升，部分计划提前 6 个月，从明年年中改到 DevDay 发布。作者 Kim 转述并评论称，前沿实验室自用模型正在加快自身预期和发布节奏。",
+    "source": "X：Kim (@kimmonismus)",
+    "date": "2026年9月5日15时38分"
+  },
+  {
+    "id": "cmto2axjt0ku9roqsk4zjo009",
+    "title": "DogeDesigner 发图调侃没有 Grok Bot 的生活",
+    "url": "https://x.com/cb_doge/status/2096137986450862319",
+    "summary": "DogeDesigner 发推分享一张原始人钻木取火的图片，配文\"没有 Grok Bot 的生活\"，以玩梗方式调侃没有 Grok Bot 的状态。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月5日15时26分"
+  },
+  {
+    "id": "cmto2f5xk0l4groqs0ckk34a4",
+    "title": "作者用 Spotify Portal 的 AiKA Modes 将 Claude Code token 用量降低约 90%",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "summary": "作者在 Claude Code 中用 Spotify Portal 的 AiKA Modes 搭建模型路由，把批量读文件和样板代码生成委派给 Gemini 2.5 Flash，bulk-read 场景平均节省约 90% token。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月5日15时26分"
+  },
+  {
+    "id": "cmto2pb9e0lclroqs03ccrddh",
+    "title": "开发者用 GPT-6 Astra 在 45 分钟内构建 afterlight 庭院场景",
+    "url": "https://x.com/rohanpaul_ai/status/2096134988567658643",
+    "summary": "用户 @anshuc 使用 GPT-6 Astra 在 45 分钟内构建了一个 afterlight 庭院场景。流程是先生成概念艺术图，再让 Astra 在 Blender 中迭代，直到游戏内截图与概念图匹配。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月5日15时15分"
+  },
+  {
     "id": "cmtnzhkz60ie5roqsg8o29sz4",
     "title": "Claude Code 创作者 Boris Cherny 建议定期删除 claude.md、skills 和 hooks 测试模型",
     "url": "https://x.com/rohanpaul_ai/status/2096117661172384137",
@@ -1064,12 +1224,36 @@
     "date": "2026年9月5日14时6分"
   },
   {
+    "id": "cmto2cffz0kz8roqsiwp86srs",
+    "title": "微软发布 MAI-Image-2.6-Flash：生图速度是 GPT Image 2 的 2 倍",
+    "url": "https://www.ithome.com/0/998/747.htm",
+    "summary": "微软于 9 月 4 日发布自研图像生成模型 MAI-Image-2.6-Flash，并通过 Microsoft Foundry 开放公开预览。该模型与旗舰版 MAI-Image-2.6 共享文生图和图像编辑核心能力，重点优化速度与成本；微软 AI 负责人 Mustafa Suleyman 称其生图速度是 GPT Image 2 的 2 倍，GPU 效率提高 72%。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日14时58分"
+  },
+  {
+    "id": "cmto1ck700k5jroqsmplimddp",
+    "title": "Adaption Labs 推出 Invent a Dataset：从任务描述直接生成训练数据",
+    "url": "https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist",
+    "summary": "Adaption Labs 发布 Invent a Dataset 功能，可从对目标行为的文字描述生成可直接用于训练的数据集，无需种子语料、预定义 schema 或标注指南，现已通过 Adaption 应用、Python SDK 和 REST API 开放。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月5日14时48分"
+  },
+  {
     "id": "cmto18d310k1oroqs27t3wze0",
     "title": "Grok 支持为每个 Bot 设置自定义头像",
     "url": "https://x.com/cb_doge/status/2096126182228214053",
     "summary": "DogeDesigner 提醒用户可以为每个 Grok Bot 设置自定义头像：点击你的 Bot，点按头像，然后从相册中选择。作者展示了自己给营销、内容、设计、开发等不同 Bot 设置的狗狗头像。",
     "source": "X：cb_doge (@cb_doge)",
     "date": "2026年9月5日14时40分"
+  },
+  {
+    "id": "cmto1cj7q0k5groqs7x9r1un2",
+    "title": "Artificial Analysis 发布 Intelligence Index v4.2：新增 AA-Briefcase 与 GDP.pdf 评测",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "summary": "Artificial Analysis 发布 Intelligence Index v4.2 中期更新，新增私有测试集评测 AA-Briefcase（智能体知识工作）和 Surge AI 的 GDP.pdf（跨 100 份 PDF、4，592 页的长文文档推理，按 1，275 条专家标准全过评分），并移除已饱和的 GPQA Diamond。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月5日14时37分"
   },
   {
     "id": "cmto0exnu0j9uroqsrij6tskp",
