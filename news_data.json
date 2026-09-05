@@ -1,5 +1,149 @@
 [
   {
+    "id": "cmtnorrej078zroqs7avo3pr3",
+    "title": "Elvis Saravia 更新个人 harness，结合 Grok Bot 与 Hermes Agent 打造持久自我改进智能体",
+    "url": "https://x.com/omarsar0/status/2096042211272003947",
+    "summary": "作者更新了自己的 harness，将 Grok Bot 与 Hermes Agent 的优点结合起来。他表示带有精心设计 UI 的持久自我改进智能体体验令人震撼，更接近其一年多来构建个人智能体的目标，后续将分享更多进展。",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "date": "2026年9月5日9时6分"
+  },
+  {
+    "id": "cmtnptedz08beroqswd3g95i4",
+    "title": "BestBlogs 早报 09-05：AI 原生 SDLC 六阶段流程、淘宝百亿补贴数据 Agent 与 Physical Intelligence 物理 AI 实践",
+    "url": "https://x.com/hongming731/status/2096050560898408899",
+    "summary": "BestBlogs 09-05 早报精讲三篇实践文章。freeCodeCamp 沿用 Anthropic 的 AI 原生 SDLC 框架，把研发拆为 Plan。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年9月5日9时39分"
+  },
+  {
+    "id": "cmtnpfz0u07qaroqs9t87p0cb",
+    "title": "Ethan Mollick 实测让 GPT-6 Astra 把 Zork 改造成 3D 动作冒险游戏",
+    "url": "https://x.com/emollick/status/2096047660662722620",
+    "summary": "Ethan Mollick 让 GPT-6 Astra 把 1977 年经典文字冒险游戏 Zork 改造成完整的 3D 动作冒险游戏。成品保留了原版剧情与解谜，加入战斗场景，全部角色和环境直接用 Threejs 构建，可玩地址为 https://zork-underground-empire.netlify.app/。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月5日9时27分"
+  },
+  {
+    "id": "cmtnnc7gl05rgroqs8but18mc",
+    "title": "消息称 Anthropic 评估自建支付与计费系统以降低对 Stripe 等第三方依赖",
+    "url": "https://www.ithome.com/0/998/652.htm",
+    "summary": "据 The Information 9 月 4 日报道，基于招聘信息，Anthropic 计费平台团队正推进\"建或买\"评估，考虑自建更多内部支付与计费基础设施，以降低对 Stripe 等第三方的依赖。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日8时8分"
+  },
+  {
+    "id": "cmtnoqtb2078croqsm6excejh",
+    "title": "GPT-6 Astra 出现在模型选择界面",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2096038567969759295",
+    "summary": "Zho 发布截图称 GPT-6 Astra 已上线，界面模型配置列表中 6 Astra 为选中项，另有 5.6 Sol、5.6 Terra、5.6 Luna 和 5.5 等可选模型，正文仅呼吁读者赶紧使用，未给出更多细节。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月5日8时51分"
+  },
+  {
+    "id": "cmtnohgmn070yroqs3fn2e004",
+    "title": "OpenAI GPT-6 Astra 上线 OpenRouter，定价 $10/$50 每百万 token",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "summary": "OpenAI 于 2026 年 9 月 4 日发布的旗舰模型 GPT-6 Astra 已上线 OpenRouter，输入 $10/1M、输出 $50/1M，上下文窗口 1，050，000 token，最高 128，000 completion tokens。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月5日8时47分"
+  },
+  {
+    "id": "cmtnphe3t07vfroqsvrbd9enn",
+    "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+    "url": "https://www.ithome.com/0/998/661.htm",
+    "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日8时42分"
+  },
+  {
+    "id": "cmtnoo71v076xroqssdgqygje",
+    "title": "Astra 提前上线，Plus、Pro 和 Business 用户今日同步获得完整 banked reset",
+    "url": "https://x.com/thsottiaux/status/2096035437299237298",
+    "summary": "Astra 提前于今日上线，作者宣布同日为所有 Plus、Pro 和 Business 用户执行完整 banked reset，当天日内落地。8pm PT 前新建账号或升级的用户也可获得。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年9月5日8时39分"
+  },
+  {
+    "id": "cmtnnc7gl05rhroqsemom851d",
+    "title": "IT早报 0905：麒麟 2026 芯片晶体管密度提升 55%，月之暗面传年内赴港 IPO",
+    "url": "https://www.ithome.com/0/998/650.htm",
+    "summary": "IT之家发布 9 月 5 日科技早报，汇总多条行业动态。华为工程师何庭波在 ChinaXiv 发表预印本论文，披露 τ（韬）定律底层原理并给出麒麟 2026 芯片晶体管密度提升 55% 的实测数据；另有消息称月之暗面最早年内赴港 IPO，拟融资 30 亿至 50 亿美元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日8时0分"
+  },
+  {
+    "id": "cmtnnevh505xwroqsy9djyvmu",
+    "title": "人工智能现在能设计电路板了吗？",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
+    "summary": "eebench.org 发布文章探讨 AI 目前能否设计电路板，原文链接为 https://eebench.org/blog/can-ai-design-circuit-boards-yet。该内容在 Hacker News 获得 134 分热度，feed 未提供完整正文。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月5日7时59分"
+  },
+  {
+    "id": "cmtnnbn4205pzroqsji57egjs",
+    "title": "Simon Willison 用鹈鹕骑车 SVG 对比 GPT-6 Astra 与 GPT-5.6 各推理档位",
+    "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans",
+    "summary": "Simon Willison 获得访问权限后，用 GPT-6 Astra 在 low 到 max 五个推理档位生成鹈鹕骑车 SVG，并与 GPT-5.6 Sol、Terra、Luna 渲染成对比网格。",
+    "source": "Simon Willison 博客",
+    "date": "2026年9月5日7时59分"
+  },
+  {
+    "id": "cmtnnc7gl05rkroqs2cnlxxah",
+    "title": "谷歌在 Gemini 应用和 API 中上线音乐生成模型 Lyria 3.5，可生成长达数分钟的完整歌曲",
+    "url": "https://www.ithome.com/0/998/647.htm",
+    "summary": "谷歌于 9 月 5 日宣布在 Gemini 应用和 Gemini API 中上线音乐生成模型 Lyria 3.5，可生成含数段副歌、桥段等数分钟完整歌曲，用户可通过 gemini.google.com/music 网站和应用使用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日7时53分"
+  },
+  {
+    "id": "cmtnm89fj04v4roqszbn6umm2",
+    "title": "Neuralink 六位患者通过意念在 X 上共用账号发帖",
+    "url": "https://x.com/cb_doge/status/2096023450846662867",
+    "summary": "六位来自世界不同地区的 Neuralink 患者仅凭意念发送 X 帖子，共用账号 @Shivolink 自由发布想法。Neuralink 称这为他们提供了与世界沟通的强大新方式。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月5日7时51分"
+  },
+  {
+    "id": "cmtnmmmle0570roqsxhvw90c3",
+    "title": "Sam Altman：OpenAI 愿牺牲部分模型能力以保留思维链监测",
+    "url": "https://x.com/rohanpaul_ai/status/2096022872548593785",
+    "summary": "Sam Altman 在 Bloomberg Television 上表示，OpenAI 愿意牺牲部分 AI 能力，以便更好地监测模型思维过程。他称一年多来一直在讨论思维链（chain of thought）监测的重要性，并为此做出多种决策以保留思维链的可监测性，即使这意味着无法最大化模型能力。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月5日7时49分"
+  },
+  {
+    "id": "cmtnm89fj04v5roqs6b1gqd5w",
+    "title": "六位 Neuralink 患者通过共用账号 Shivolink 在 X 上分享意念文字",
+    "url": "https://x.com/cb_doge/status/2096019847700488447",
+    "summary": "六位 Neuralink 患者现通过公共 X 账号 @Shivolink 分享自己的想法。Shivolink 是由 MIT 学生运营、获 Neuralink 的 Shivon Zilis 支持的非营利研究实验，参与者分布在世界不同地区但以同一身份发帖。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月5日7时37分"
+  },
+  {
+    "id": "cmtnmca0w04ytroqszc3a9ou9",
+    "title": "XDOF 脱隐身不到三个月即洽谈 12 亿美元估值的 B 轮融资，由 8VC 领投",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
+    "summary": "脱隐身不到三个月后，为通用机器人采集真实世界遥操作数据的初创公司 XDOF 正就约 12 亿美元估值的 B 轮融资进行后期洽谈，拟由 8VC 领投。",
+    "source": "TechCrunch：AI（RSS）",
+    "date": "2026年9月5日7时36分"
+  },
+  {
+    "id": "cmtnnc7gl05rnroqspngafmi5",
+    "title": "消息称苹果计划 2027 年推出全新家庭安全监控服务，将 AI 引入家庭安防",
+    "url": "https://www.ithome.com/0/998/642.htm",
+    "summary": "据 MacObserver 报道，苹果计划在 2027 年推出全新家庭安全监控服务，作为拓展智能家居业务的一部分。同时苹果正研发一款注重隐私保护的家庭安防摄像头及自动化设备，利用 AI 分析周围环境而无需传统摄像头持续录制视频。该服务预计成为新的订阅项目，可能与新款 Apple TV 4K、HomePod mini、家庭中枢设备 HomePad 协同，未来也可能纳入 Apple One 套餐。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日7时31分"
+  },
+  {
+    "id": "cmtnnc7gl05roroqsofcxf7zl",
+    "title": "匿名模型 Omen Alpha 上线 OpenCode，线索指向智谱",
+    "url": "https://www.ithome.com/0/998/641.htm",
+    "summary": "匿名模型 Omen Alpha 于 9 月 4 日上线 OpenCode Go 订阅计划，月费 10 美元并单独提供 100 美元用量额度，仅限订阅用户使用。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日7时30分"
+  },
+  {
     "id": "cmtnl720f03ofroqsqcvoyl3o",
     "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
     "url": "https://www.ithome.com/0/998/638.htm",
@@ -14,6 +158,14 @@
     "summary": "Elon Musk 发布 Grok Imagine Odyssey Contest，并引用 @imagine 的文章链接（https://x.com/i/article/2095973990967767042），正文未给出比赛规则、奖励或参与方式的更多细节。",
     "source": "X：Elon Musk (@elonmusk, xAI)",
     "date": "2026年9月5日7时20分"
+  },
+  {
+    "id": "cmtnlnpsp049aroqsxkeq0xkf",
+    "title": "Artificial Analysis 发布 Intelligence Index v4.2，Claude Fable 5.1 登顶",
+    "url": "https://x.com/alexandr_wang/status/2096015031515373939",
+    "summary": "Artificial Analysis 发布 Intelligence Index v4.2，新增 AA-Briefcase 智能体知识工作评测和覆盖 4，592 页 PDF 的 GDP.pdf 长文档推理评测，移除已饱和的 GPQA Diamond，私有 held-out 测试集权重升至 40% 以防刷榜。",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "date": "2026年9月5日7时18分"
   },
   {
     "id": "cmtnl9ooz03x3roqs3ds1yjsz",
