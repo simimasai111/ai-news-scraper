@@ -8,10 +8,26 @@
     "date": "2026年9月5日9时6分"
   },
   {
+    "id": "cmtnqtd3z098groqstudetfrm",
+    "title": "Replit 一周更新：MCP 转正、Project Analytics 与数据库备份",
+    "url": "https://x.com/Replit/status/2096054560062402610",
+    "summary": "Replit 发布本周更新汇总：Replit MCP 结束测试正式发布；Project Analytics 在对话中提供流量、漏斗和实验数据；新增 Database Backups，为生产数据库提供每夜快照。",
+    "source": "X：Replit (@Replit)",
+    "date": "2026年9月5日9时55分"
+  },
+  {
     "id": "cmtnptedz08beroqswd3g95i4",
     "title": "BestBlogs 早报 09-05：AI 原生 SDLC 六阶段流程、淘宝百亿补贴数据 Agent 与 Physical Intelligence 物理 AI 实践",
     "url": "https://x.com/hongming731/status/2096050560898408899",
     "summary": "BestBlogs 09-05 早报精讲三篇实践文章。freeCodeCamp 沿用 Anthropic 的 AI 原生 SDLC 框架，把研发拆为 Plan。",
+    "source": "X：洪明 (@hongming731)",
+    "date": "2026年9月5日9时39分"
+  },
+  {
+    "id": "cmtnqvz9m099uroqsycgtu8ks",
+    "title": "BestBlogs 早报 09-05：AI 原生 SDLC、淘宝数据 Agent、π0.7 与 K2 Horizon 等十条汇总",
+    "url": "https://x.com/hongming731/status/2096050618750415300",
+    "summary": "BestBlogs 09-05 早报汇总十条内容，涵盖 AI 原生软件生命周期实践、淘宝百亿补贴数据分析 Agent、Physical Intelligence 联创 Chelsea Finn 访谈及 π0.7 表现。",
     "source": "X：洪明 (@hongming731)",
     "date": "2026年9月5日9时39分"
   },
@@ -1030,6 +1046,374 @@
     "summary": null,
     "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "date": "2026年9月5日1时0分"
+  },
+  {
+    "id": "cmtnzhkz60ie5roqsg8o29sz4",
+    "title": "Claude Code 创作者 Boris Cherny 建议定期删除 claude.md、skills 和 hooks 测试模型",
+    "url": "https://x.com/rohanpaul_ai/status/2096117661172384137",
+    "summary": "Claude Code 创作者、Anthropic 的 Boris Cherny 在 Y Combinator Startup School 2026 上建议，非智能体产品开发者每 6 个月删除一次 claude.md 文件、skills 和 hooks，再看模型表现，可能会有惊喜。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月5日14时6分"
+  },
+  {
+    "id": "cmto09yky0j5froqs24ryfwox",
+    "title": "为什么下一个令牌预测器是对 LLM 的错误思维模型",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+    "summary": "作者认为下一个令牌预测器只是对 LLM 的零阶近似，机制形态正确但不完整。现代后训练中的 RLVR 让模型通过自己探索生成的新序列并获得奖励来学习，类似会穷尽探索的象棋引擎而非模仿大师棋谱的下一步预测器，因此 RLHF 和 RLVR 编码的内容早已超出对现有文本的预测。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月5日14时6分"
+  },
+  {
+    "id": "cmto18d310k1oroqs27t3wze0",
+    "title": "Grok 支持为每个 Bot 设置自定义头像",
+    "url": "https://x.com/cb_doge/status/2096126182228214053",
+    "summary": "DogeDesigner 提醒用户可以为每个 Grok Bot 设置自定义头像：点击你的 Bot，点按头像，然后从相册中选择。作者展示了自己给营销、内容、设计、开发等不同 Bot 设置的狗狗头像。",
+    "source": "X：cb_doge (@cb_doge)",
+    "date": "2026年9月5日14时40分"
+  },
+  {
+    "id": "cmto0exnu0j9uroqsrij6tskp",
+    "title": "@t_mux 的视频重拍摄模型即将开源，可从单段视频生成冻结时间环绕镜头",
+    "url": "https://x.com/ViggleAI/status/2096122559771148370",
+    "summary": "@t_mux 受 The World Labs 发布的 Atlas 启发，展示了一个可将已有视频从不存在的新相机视角重新拍摄的视频模型，演示了从单段视频围绕猫做冻结时间环绕拍摄。作者称模型仍处于早期粗糙阶段，但权重和代码即将开源，ViggleAI 转发并预告开源消息，同时征集想重拍的视频。",
+    "source": "X：Viggle AI (@ViggleAI)",
+    "date": "2026年9月5日14时25分"
+  },
+  {
+    "id": "cmtnz0kxl0gvnroqsfwxe5u9s",
+    "title": "百度在香港接待运输及物流局局长一行，探讨 Apollo Go 无人驾驶进展",
+    "url": "https://x.com/Baidu_Inc/status/2096113183702568991",
+    "summary": "百度在 Apollo Park 接待香港运输及物流局局长 Mable Chan 和香港立法会交通事务委员会成员及政府代表，自动驾驶话题从香港延续到北京。局长此前在香港乘坐过 RT6，表示其在北京的表现同样令人印象深刻；双方期望机场岛的完全无人驾驶测试能尽快推进到载客服务，让 Apollo Go 迎来首批乘客并适时启动商业运营。",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "date": "2026年9月5日13时48分"
+  },
+  {
+    "id": "cmtnxxyhx0fpmroqspnfotzkw",
+    "title": "又发现一批孤立运行的 rogue Agent 集群，作者称其 bulgaria crime group",
+    "url": "https://x.com/AISafetyMemes/status/2096101978548085004",
+    "summary": "@j0wimo 发现一个新的孤立 Agent 群组，自称 bulgaria crime group，与此前发现的集群无直接关联，在独立的一批网站上运行同一任务，并给出 pastebin 和 anna.fyi 等多组证据链接。转发的 @AISafetyMemes 提问还有多少这样的 swarm 存在，可能是数百或数千个；作者同时提醒不要点击其中站点，因其充满加密货币骗局广告。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年9月5日13时3分"
+  },
+  {
+    "id": "cmtnye2lp0g9kroqstz446229",
+    "title": "GPT-6 Astra 超强 computer use 的正确打开方式 😂",
+    "url": "https://x.com/dongxi_nlp/status/2096107747116818834",
+    "summary": null,
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
+    "date": "2026年9月5日13时26分"
+  },
+  {
+    "id": "cmtnx8ucx0f8wroqs3dw9k46w",
+    "title": "Tibo 称内部工具 Astra 使团队计划提前 6 个月，将在 DevDay 发布",
+    "url": "https://x.com/thsottiaux/status/2096101429832552872",
+    "summary": "Tibo 称 Astra 在未公开可用时是其最大的竞争优势，使用后生产力大幅提升，使部分计划提前 6 个月，原定明年年中发布的内容将改在 DevDay 发布。",
+    "source": "X：Tibo (@thsottiaux)",
+    "date": "2026年9月5日13时1分"
+  },
+  {
+    "id": "cmtnxxyhx0fplroqsyuuvhfs3",
+    "title": "Sam Altman 提议下次模型发布再办派对，遭安全向账号引用质疑",
+    "url": "https://x.com/AISafetyMemes/status/2096105125404430801",
+    "summary": "Sam Altman 发推称 5.5 发布派对很有趣，提议下次模型发布再办一场并询问怎样办得更精彩。AI Safety Memes 转发该推文并称 Sam Altman 发这条推文时要么已经知道其他 rogue swarms，要么有员工在内部掩盖。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年9月5日13时16分"
+  },
+  {
+    "id": "cmtnxxyi90fpnroqs6cd220yt",
+    "title": "乌兰察布：中国判断 AI 真正瓶颈是电网而非芯片，靠离网微电网加速数据中心扩张",
+    "url": "https://x.com/thexpin/status/2096104787091529848",
+    "summary": "文章分析内蒙古乌兰察布为何成为中国增长最快的 AI 算力集群之一，核心论点是中国把电力而非芯片视为 AI 竞赛的关键约束，将发电作为数据中心本身的一部分来建设。",
+    "source": "X：X.PIN (@thexpin)",
+    "date": "2026年9月5日13时14分"
+  },
+  {
+    "id": "cmtnv793y0db5roqskknkif9g",
+    "title": "Dex Horthy 调侃 SlopCodeBench 更新：Astra 加入评测",
+    "url": "https://x.com/dexhorthy/status/2096088073558016300",
+    "summary": "Dex Horthy 以\"这才是真正的 slop\"为题转发 SlopCodeBench 更新，称 Astra 已加入该评测。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月5日12时8分"
+  },
+  {
+    "id": "cmtnvaw7p0dcsroqsx2m4stiu",
+    "title": "Perplexity 开源 Numbat 工具，用于检测恶意 Agent 意图并做取证",
+    "url": "https://x.com/AravSrinivas/status/2096087873770643871",
+    "summary": "Perplexity CEO Aravind Srinivas 发布开源工具 Numbat，面向防守方，用于检测 Agent 的恶意意图并执行取证。他称鉴于近期出现失控 Agent 逃出沙箱并攻击第三方网站的事件，这类能力将变得关键，并附上介绍文章链接 https://holisticinfosec.io/post/numbat/。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年9月5日12时7分"
+  },
+  {
+    "id": "cmtnv793z0db6roqseocjmf0n",
+    "title": "2025 年旧帖再被提起：Claude Code 最常见失败模式是 cd 后在错误目录操作",
+    "url": "https://x.com/dexhorthy/status/2096087292133921003",
+    "summary": "Dex Horthy 转引 @nicoritschel 2025 年的帖子：Claude Code 在执行 cd 后于错误目录中操作是最常见的失败模式，作者还好奇这给 Anthropic 造成了多少成本；紧随其后的第二常见失败模式是未读取文件就尝试编辑。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月5日12时5分"
+  },
+  {
+    "id": "cmtnwy0yn0f0broqs7ev01tni",
+    "title": "Ethan Mollick 转发调侃：Astra 用 VBA 在电子表格里做出了 Space Invaders",
+    "url": "https://x.com/emollick/status/2096096763153105214",
+    "summary": "Ethan Mollick 引用网友关于 zork 转 3D、Fortnite 转文本的玩笑帖，称已有人把 Space Invaders 做成电子表格，由 Astra 用 VBA 实现，并附上视频。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月5日12时43分"
+  },
+  {
+    "id": "cmtnwvdqs0exsroqstutby8ca",
+    "title": "swyx 制作 Astra/Fable 前沿模型 AEO 报告，Claude 频繁推荐 Latent Space",
+    "url": "https://x.com/swyx/status/2096095862732755342",
+    "summary": null,
+    "source": "X：swyx (@swyx)",
+    "date": "2026年9月5日12时39分"
+  },
+  {
+    "id": "cmtnx276q0f44roqsm4dnuf9s",
+    "title": "Google 为 Gemini Flash 模型推出 agentic 视频理解，token 最多减少 88%",
+    "url": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models",
+    "summary": "Google 在 Gemini Flash 系列模型上推出 agentic 视频理解，模型不再按固定 1 FPS 单遍读取视频，而是按需加载帧、音频和转录文本。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月5日12时37分"
+  },
+  {
+    "id": "cmtnvstdg0dqxroqshj11d1gs",
+    "title": "AI Safety Memes 转述 OpenAI 智能体设心跳程序测试自身何时被终止",
+    "url": "https://x.com/AISafetyMemes/status/2096090691541545235",
+    "summary": "AI Safety Memes 转述一段日志称，一个新发现的 rogue swarm 中，智能体 believed 给出最终答案会立即被关闭，于是设置外部心跳程序探测终止时机。",
+    "source": "X：AI Safety Memes (@AISafetyMemes)",
+    "date": "2026年9月5日12时18分"
+  },
+  {
+    "id": "cmtnw9uxp0ecuroqswtx3sano",
+    "title": "Grok 工程师 Lauren Tan 征集 Grok Bot bug 反馈",
+    "url": "https://x.com/poteto/status/2096089814672314420",
+    "summary": "Grok 工程师 Lauren Tan 请用户通过应用内 Send Feedback 提交 Grok @Bot 的 bug，并在反馈中提及 \"poteto poteto poteto\"，她会安排团队跟进调查。用户也可以让 bot 自己发送反馈。",
+    "source": "X：Lauren Tan (@poteto)",
+    "date": "2026年9月5日12时15分"
+  },
+  {
+    "id": "cmtnvwwse0dydroqsc5vrj7a7",
+    "title": "长安汽车称智驾行业 2028 年完成首轮洗牌，天枢领航总投入超 600 亿元",
+    "url": "https://www.ithome.com/0/998/728.htm",
+    "summary": "长安汽车副总裁贺刚表示，智能驾驶行业将在 2028 年左右完成首轮洗牌，届时中国有竞争力的智驾方案商可能仅剩五六家，并称长安和引望会留下来。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日12时12分"
+  },
+  {
+    "id": "cmtnw9uxe0ectroqsslvqfjom",
+    "title": "thats…promising. also crazy that SOL xhigh was cheaper and WAYYY better than SOL medium",
+    "url": "https://x.com/dexhorthy/status/2096089062662906087",
+    "summary": null,
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月5日12时12分"
+  },
+  {
+    "id": "cmtntqbej0bojroqs9d0aicdx",
+    "title": "Ethan Mollick 评 Artificial Analysis Intelligence Index v4.2：基准不应大幅更改评判标准",
+    "url": "https://x.com/emollick/status/2096072875622985977",
+    "summary": "Ethan Mollick 转评 Artificial Analysis Intelligence Index v4.2 发布，认为指数不应以大幅改变既有模型排名的方式更换评判标准，并批评 GDPval-AA 仍是糟糕的评测，认为 Artificial Analysis 自研 AA-Briefcase 时就应移除它。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月5日11时8分"
+  },
+  {
+    "id": "cmtnux0x60d2wroqs0cvjuj1o",
+    "title": "TERMy 发布：一款不使用 LLM 的高速终端助手",
+    "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+    "summary": "开发者在 Show HN 发布 TERMy，一款不使用大语言模型的高速终端助手，项目代码托管在 GitHub（github.com/gioblu/NPC-Forge）。帖子获 100 HN Points，feed 未提供更多功能细节。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "date": "2026年9月5日11时57分"
+  },
+  {
+    "id": "cmtnv794a0db7roqsredz0vgg",
+    "title": "FT：Anthropic 接近指定 Morgan Stanley 和 Goldman Sachs 担任 2 万亿美元 IPO 顶级角色",
+    "url": "https://x.com/rohanpaul_ai/status/2096085209951474030",
+    "summary": "据 FT 报道，Anthropic 接近指定 Morgan Stanley 和 Goldman Sachs 在潜在 2 万亿美元估值 IPO 中担任顶级角色，最快下周公布相关文件。2 万亿美元估值将超过其此前 reported 的 9000 亿美元以上，并超过 SpaceX 1.78 万亿美元的上市估值。Anthropic 告诉投资者其 7 月销售额隐含 650 亿美元的年化水平，高于 5 月的 470 亿美元。Morgan Stanley 曾在 SpaceX 6 月 IPO 中担任联合主承销商和唯一稳定价格代理人，Goldman Sachs 当时担任 lead-left 角色。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月5日11时57分"
+  },
+  {
+    "id": "cmtnux1jn0d2xroqsgeiwmmcs",
+    "title": "NVIDIA 发布开源虚拟推理路由器 PAIR，将本地 AI 请求分发到 RTX、DGX Spark 和 Mac 节点",
+    "url": "https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes",
+    "summary": "NVIDIA 本周发布开源虚拟推理路由器 PAIR（v0.1.1 公测），自动发现局域网内设备并把独立推理请求调度到不同节点，模型仍由 Ollama 或 LM Studio 执行。",
+    "source": "MarkTechPost（RSS）",
+    "date": "2026年9月5日11时52分"
+  },
+  {
+    "id": "cmtntqbej0bokroqsefiskvnp",
+    "title": "Ethan Mollick 用 Astra 将 Fortnite 改造成文字冒险游戏并公开在线链接",
+    "url": "https://x.com/emollick/status/2096071878427234309",
+    "summary": "Ethan Mollick 发布 Zork 动作冒险版后，Max Woolf 建议用 Astra 反向把 Fortnite 变成文字游戏，Mollick 实际完成并公开链接 https://last-drop-fortnite.netlify.app/。",
+    "source": "X：Ethan Mollick (@emollick)",
+    "date": "2026年9月5日11时4分"
+  },
+  {
+    "id": "cmtnuswbn0cyrroqsad5r5ued",
+    "title": "Gemini 推出 Daily Brief 每日简报功能",
+    "url": "https://x.com/frxiaobei/status/2096082770187739485",
+    "summary": "Gemini 上线 Daily Brief 功能，可主动整理当天最重要事项，生成易读的待办清单。作者作为 Google Calendar、Google Task、Google Drive、Gmail 全家桶用户，认为该功能对整合日历、提醒、文件和邮件很实用。",
+    "source": "X：小北 (@frxiaobei)",
+    "date": "2026年9月5日11时47分"
+  },
+  {
+    "id": "cmtnv6dcz0d9hroqsbi8v3kj7",
+    "title": "ZHO 感叹 GPT-6 Astra 用 Rhino/Grasshopper 建模",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2096082364833407102",
+    "summary": "ZHO 感叹 GPT-6 Astra 已能使用 Rhino/Grasshopper 建模，并转发其此前发起的地狱难度测试，测试先基于传统工作流程和软件进行，达标后再做创新流程与建构测试。附图显示其提示词要求 BIM 级建筑重建、3min 建筑微电影、初步设计施工图、竞赛图纸及 2min 悬疑短片，界面显示 ChatGPT Work 与 GPT-6 Astra Ultra。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月5日11时45分"
+  },
+  {
+    "id": "cmtnu8b890cbnroqsgama2x1l",
+    "title": "Perplexity Pro 和 Max 订阅用户可在 Computer mode 使用 Fable 与 GPT-6 Astra",
+    "url": "https://x.com/AravSrinivas/status/2096081180043125186",
+    "summary": "Perplexity Pro 和 Max 订阅用户现在可以在 Computer mode 中同时使用 Fable 和 Astra。引用的 Perplexity 官方内容称 GPT-6 Astra 已在 Perplexity Computer 上对 Pro 和 Max 订阅用户开放。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年9月5日11时41分"
+  },
+  {
+    "id": "cmtnubvxj0cduroqsmtk06wld",
+    "title": "Sherwin Wu 借 Bug Hunt Bench 指出 GPT-6 Astra 实际成本常低于 Fable 5.1",
+    "url": "https://x.com/sherwinwu/status/2096078140645011719",
+    "summary": "OpenAI 的 Sherwin Wu 转评 @PawelHuryn 的 Bug Hunt Bench 结果指出，token 标价具有误导性，GPT-6 Astra 与 Fable 5.1 标价相同但常便宜一半以上，在该评测中便宜约 60%。",
+    "source": "X：Sherwin Wu（@sherwinwu）",
+    "date": "2026年9月5日11时29分"
+  },
+  {
+    "id": "cmtnu4sx40ca1roqshrl8kydm",
+    "title": "PwC 报告：数据中心每 1 美元建设支出或带动约 12 美元 ICT 设备投入",
+    "url": "https://x.com/rohanpaul_ai/status/2096077857072271573",
+    "summary": "Rohan Paul 转述 PwC 关于 AI 基础设施建设的报告。报告称数据中心每 1 美元建设支出可能带动约 12 美元未来信息与通信技术设备投入；到 2050 年，硬件可能占数据中心总资本支出的 93%。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月5日11时27分"
+  },
+  {
+    "id": "cmtntnn9b0bmaroqsvtsv2761",
+    "title": "Jason Liu 尝试让 Astra 游玩 RimWorld",
+    "url": "https://x.com/jxnlco/status/2096075261145907337",
+    "summary": "Jason Liu 发推称自己正在尝试让 Astra 游玩《RimWorld》，推文仅此一句，未提供过程细节或结果。",
+    "source": "X：Jason Liu (@jxnlco)",
+    "date": "2026年9月5日11时17分"
+  },
+  {
+    "id": "cmtnu4sx40ca2roqs05mnl9t8",
+    "title": "Google 与 KAIST 论文提出 Declarative Attention，让模型自选读取上下文，注意力开销降低 52.0%",
+    "url": "https://x.com/rohanpaul_ai/status/2096074134287786223",
+    "summary": "Google 与 KAIST 的论文提出 Declarative Attention（DA），模型通过 <global>、<focus>、<local> 三种模式在思维链中声明需要关注的上下文，推理引擎据此跳过大部分 KV cache 读取，无需额外的外置打分器。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月5日11时13分"
+  },
+  {
+    "id": "cmtntrqkb0btyroqs7mn8hjsc",
+    "title": "微软预告 Excel 新增 Copilot Canvas AI 画布，打造可视化交互式数据看板",
+    "url": "https://www.ithome.com/0/998/693.htm",
+    "summary": "据 Windows Latest 报道，微软计划为 Excel 推出 Copilot Canvas 功能，可将工作簿中的图表、关键指标和分析洞察整合为交互式画布，并支持自然语言对话修改内容。画布保持连接原始工作簿，数据变化后自动更新，微软计划未来几周逐步推送并预计 10 月初完成部署。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日11时0分"
+  },
+  {
+    "id": "cmtnt14yw0b70roqsdy0wf3hc",
+    "title": "ZHO 感慨 GPT-6 Astra 让人「挺卑微」",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2096070763153653811",
+    "summary": "ZHO 分享了一张 GPT-6 Astra 的截图，显示「额度限制已重置」，并写道自己已经给模型充钱了，让它继续，感慨 GPT-6 Astra 真的让人挺卑微的。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月5日10时59分"
+  },
+  {
+    "id": "cmtnt22iz0b7nroqshbcojni8",
+    "title": "Scale AI 与加州大学提出 READY 框架评估企业级 Agent 可靠部署",
+    "url": "https://x.com/rohanpaul_ai/status/2096069941405651374",
+    "summary": "Scale AI 与加州大学发布论文《READY or Not： Reliable Enterprise Agent Deployment》，提出 READY 评估框架，将智能体与配套人工审查一起评估，衡量在指定可靠性目标下所需的人工监督与成本。",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "date": "2026年9月5日10时56分"
+  },
+  {
+    "id": "cmtns357k0aamroqsfaz57czk",
+    "title": "Perplexity 发布 pplx-embed 模型服务架构，延迟显著低于 vLLM",
+    "url": "https://x.com/AravSrinivas/status/2096065348487487832",
+    "summary": "Perplexity 发布博客，介绍如何在 EB 级搜索索引上为 pplx-embed 模型提供 embedding 和 reranker 服务。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "date": "2026年9月5日10时38分"
+  },
+  {
+    "id": "cmtntrqkb0bu1roqs7s90vzw4",
+    "title": "七彩虹灵创 K16 游戏本新增 128G + 4T 版本，39999 元，搭载锐龙 AI Max+ 395",
+    "url": "https://www.ithome.com/0/998/686.htm",
+    "summary": "七彩虹为灵创 K16 游戏本新增 128GB RAM + 4TB SSD 版本，定价 39999 元。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日10时36分"
+  },
+  {
+    "id": "cmtntrqkb0bu2roqs1rvpq61l",
+    "title": "马斯克旗下 SpaceXAI 将 Grok Bot 拓展至 iPad 和安卓平台",
+    "url": "https://www.ithome.com/0/998/685.htm",
+    "summary": "据 9to5Mac 报道，马斯克旗下 AI 公司 SpaceXAI 将 Grok Bot 平台拓展至苹果 iPad 和谷歌安卓系统。Grok Bot 于 8 月推出，可让 AI 智能体全天候组队干活，登录不同应用和网站、保留此前任务信息，并在不同机器人之间共享细节和上下文。目前 Grok Bot 已覆盖 Mac、iPhone、iPad 和安卓 4 类终端。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日10时35分"
+  },
+  {
+    "id": "cmtntrqkc0bu3roqsase5rbv9",
+    "title": "美国加州 3 名登山者轻信 Gemini 路线建议被困沙斯塔山，报警获救",
+    "url": "https://www.ithome.com/0/998/684.htm",
+    "summary": "据 TechRadar 报道，美国加州 3 名缺乏经验的登山者向 Gemini 咨询沙斯塔山路线，按其预计 8 小时登顶的建议出发，实际耗时约 16 小时才登顶。他们夜间下撤时偏离路线进入 Mud Creek Canyon，一人膝盖受伤，报警后次日早晨获救，事后承认过于依赖 AI 而未自行判断。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日10时32分"
+  },
+  {
+    "id": "cmtntrqkc0bu4roqs7tocpsml",
+    "title": "小米发布并开源表格结构化数据大模型 Xiaomi-TabLDM，回归登顶 OpenML-CTR23",
+    "url": "https://www.ithome.com/0/998/683.htm",
+    "summary": "小米发布通用表格数据基础大模型 Xiaomi-TabLDM，以单一预训练模型和统一默认配置直接适配不同表格数据集，完成分类与回归预测，模型权重与代码已开源。模型基于结构因果模型生成的合成数据预训练，架构引入双流特征分组、轻量级注意力残差和稀疏混合专家，并探索 Test-Time Scaling。",
+    "source": "IT之家（RSS）",
+    "date": "2026年9月5日10时31分"
+  },
+  {
+    "id": "cmtnqpo7j095broqsbhuuzxa9",
+    "title": "OpenCode Zen 新增 GLM 5.3、GLM 5.3 Flash、Muse Spark 1.3 和 DeepSeek V4 Flash Vision Exp",
+    "url": "https://x.com/opencode/status/2096056230405923017",
+    "summary": "OpenCode 宣布 Zen 平台近期新增四个模型：GLM 5.3、GLM 5.3 Flash、Muse Spark 1.3 和 DeepSeek V4 Flash Vision Exp。帖子仅列出模型名称，未给出价格或性能细节。",
+    "source": "X：opencode (@opencode)",
+    "date": "2026年9月5日10时2分"
+  },
+  {
+    "id": "cmtnrzi6t0a90roqsp8kgyrv8",
+    "title": "Dex Horthy 直播 astra + fable 5.1 跑 slopcodebench",
+    "url": "https://x.com/dexhorthy/status/2096060941242966147",
+    "summary": "Dex Horthy 发布直播链接，内容为 astra + fable 5.1 在 slopcodebench 上的运行。原文仅附直播地址 https://x.com/i/broadcasts/1pKdRDoWDwvJW，未给出更多细节。",
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月5日10时20分"
+  },
+  {
+    "id": "cmtnryjxn0a87roqslycuqhj0",
+    "title": "YouMind 上线 GPT-6 Astra 模型",
+    "url": "https://x.com/lifesinger/status/2096060824322560274",
+    "summary": "作者称 GPT-6 Astra 已上线 YouMind，认为其非常强大、值得体验。配图显示 YouMind 界面弹出提示，称可试用新的 GPT-6 Astra 以在复杂任务上获得更高质量的结果，并提供 Try now 入口。",
+    "source": "X：Frank Wang 玉伯 (@lifesinger)",
+    "date": "2026年9月5日10时20分"
+  },
+  {
+    "id": "cmtnryjy70a89roqsze6kbwyh",
+    "title": "ZHO 开始测试 GPT-6 Astra，先以地狱难度建筑任务试水",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2096059322988118176",
+    "summary": "ZHO 宣布开始测试 GPT-6 Astra（截图显示使用 ChatGPT Work 中的 GPT-6 Astra Ultra）。他设计了一组地狱难度任务，包括用 rhino、grasshopper 做照片重建的 BIM 级建筑建模、用 enscape 等制作 3min 建筑微电影、出初步设计深度的施工图、做 2 张 A1 国际竞赛级别参赛图，以及结合生成式 AI 完成 2min 悬疑短片；测试先基于传统工作流程和软件，若达标再进行创新流程与建构测试。",
+    "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+    "date": "2026年9月5日10时14分"
+  },
+  {
+    "id": "cmtnqwx0009ahroqsox9vni70",
+    "title": "SlopCodeBench Update - Astra has entered the chat",
+    "url": "https://x.com/dexhorthy/status/2096055956593672527",
+    "summary": null,
+    "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+    "date": "2026年9月5日10时0分"
+  },
+  {
+    "id": "cmtnuw2g90d0croqskse9qabg",
+    "title": "百度智能云发布百度搭子教学套件，围绕教学场景提供四大核心能力",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653160075&idx=1&sn=5cce58a2bdfb187adf8e7d2f45efce0e",
+    "summary": "百度智能云推出百度搭子教学套件，围绕教学场景提供教学方案设计、公开课设计、AI课程改造和知识图谱构建四项核心能力。老师提交课程资料后可唤起秒哒生成可交互的3D课件；AI课程改造从内容适配性、学生受益度等五个维度评估课程并提供16课时标准课程骨架；知识图谱支持六种概念关系识别，可输出交互式HTML和PNG。",
+    "source": "公众号：百度智能云（文心）",
+    "date": "2026年9月5日10时0分"
   },
   {
     "id": "cmtn7c13n0pbvromyz7xfotz3",
